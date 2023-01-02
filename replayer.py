@@ -54,6 +54,18 @@ label_player3.place(x=70, y=260)
 label_player4 = Label(height=1, width=6, text="Player4", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player4.place(x=130, y=120)
 
+label_player5 = Label(height=1, width=6, text="Player5", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
+label_player5.place(x=450, y=70)
+
+label_player6 = Label(height=1, width=6, text="Player6", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
+label_player6.place(x=780, y=120)
+
+label_player7 = Label(height=1, width=6, text="Player7", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
+label_player7.place(x=820, y=260)
+
+label_player8 = Label(height=1, width=6, text="Player8", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
+label_player8.place(x=780, y=400)
+
 button_back = Button(image = img_back, command = back)
 button_back.place(x=360, y=500)
 
