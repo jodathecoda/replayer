@@ -43,34 +43,52 @@ text = Text(
 
 #label_player1 = Label(height=1, width=6, text="Player1", bg='black')
 label_player1 = Label(height=1, width=6, text="Player1", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player1.place(x=450, y=450)
+label_player1.place(x=430, y=450)
 
 label_player1_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player1_stack.place(x=530, y=450)
+label_player1_stack.place(x=500, y=450)
 
 label_player2 = Label(height=1, width=6, text="Player2", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player2.place(x=130, y=400)
 
+label_player2_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player2_stack.place(x=130, y=430)
+
 label_player3 = Label(height=1, width=6, text="Player3", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player3.place(x=70, y=260)
 
+label_player3_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player3_stack.place(x=70, y=290)
+
 label_player4 = Label(height=1, width=6, text="Player4", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player4.place(x=130, y=120)
+label_player4.place(x=120, y=120)
+
+label_player4_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player4_stack.place(x=100, y=150)
 
 label_player5 = Label(height=1, width=6, text="Player5", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player5.place(x=450, y=70)
+label_player5.place(x=420, y=70)
 
 label_player5_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player5_stack.place(x=530, y=70)
+label_player5_stack.place(x=500, y=70)
 
 label_player6 = Label(height=1, width=6, text="Player6", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player6.place(x=780, y=120)
 
+label_player6_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player6_stack.place(x=790, y=150)
+
 label_player7 = Label(height=1, width=6, text="Player7", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player7.place(x=820, y=260)
 
+label_player7_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player7_stack.place(x=820, y=290)
+
 label_player8 = Label(height=1, width=6, text="Player8", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player8.place(x=780, y=400)
+
+label_player8_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player8_stack.place(x=780, y=430)
 
 button_back = Button(image = img_back, command = back)
 button_back.place(x=360, y=500)
