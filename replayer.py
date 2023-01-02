@@ -45,6 +45,9 @@ text = Text(
 label_player1 = Label(height=1, width=6, text="Player1", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player1.place(x=450, y=450)
 
+label_player1_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player1_stack.place(x=530, y=450)
+
 label_player2 = Label(height=1, width=6, text="Player2", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player2.place(x=130, y=400)
 
@@ -56,6 +59,9 @@ label_player4.place(x=130, y=120)
 
 label_player5 = Label(height=1, width=6, text="Player5", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player5.place(x=450, y=70)
+
+label_player5_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
+label_player5_stack.place(x=530, y=70)
 
 label_player6 = Label(height=1, width=6, text="Player6", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player6.place(x=780, y=120)
