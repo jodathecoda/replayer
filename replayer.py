@@ -41,6 +41,16 @@ text = Text(
 )
 #text.place(x=30, y=50)
 
+#label_player1 = Label(height=1, width=6, text="Player1", bg='black')
+label_player1 = Label(height=1, width=6, text="Player1")
+label_player1.place(x=450, y=450)
+
+label_player2 = Label(height=1, width=6, text="Player2")
+label_player2.place(x=155, y=400)
+
+label_player3 = Label(height=1, width=6, text="Player3")
+label_player3.place(x=90, y=260)
+
 button_back = Button(image = img_back, command = back)
 button_back.place(x=360, y=500)
 
