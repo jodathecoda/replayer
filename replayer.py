@@ -238,6 +238,23 @@ button_p8c1.place(x=640, y=340)
 button_p8c2 = Button(image = img_card_nocard)
 button_p8c2.place(x=670, y=340)
 
+# Board Cards
+button_f1 = Button(image = img_card_back)
+button_f1.place(x=385, y=240)
+
+button_f2 = Button(image = img_card_back)
+button_f2.place(x=415, y=240)
+
+button_f3 = Button(image = img_card_back)
+button_f3.place(x=445, y=240)
+
+button_t1 = Button(image = img_card_back)
+button_t1.place(x=475, y=240)
+
+button_r1 = Button(image = img_card_back)
+button_r1.place(x=505, y=240)
+
+
 button_back = Button(image = img_back, command = back)
 button_back.place(x=360, y=500)
 
