@@ -149,7 +149,7 @@ button_p1c1.place(x=435, y=340)
 button_p1c2 = Button(image = img_card_Kh)
 button_p1c2.place(x=470, y=340)
 
-button_bet1 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet1 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet1.place(x=500, y=340)
 
 label_player2 = Label(height=1, width=6, text="Player2", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
@@ -164,7 +164,7 @@ button_p2c1.place(x=260, y=340)
 button_p2c2 = Button(image = img_card_Qc)
 button_p2c2.place(x=295, y=340)
 
-button_bet2 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet2 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet2.place(x=330, y=340)
 
 label_player3 = Label(height=1, width=6, text="Player3", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
@@ -179,7 +179,7 @@ button_p3c1.place(x=190, y=240)
 button_p3c2 = Button(image = img_card_7s)
 button_p3c2.place(x=225, y=240)
 
-button_bet3 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet3 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet3.place(x=255, y=240)
 
 label_player4 = Label(height=1, width=6, text="Player4", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
@@ -188,7 +188,7 @@ label_player4.place(x=110, y=70)
 label_player4_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
 label_player4_stack.place(x=100, y=110)
 
-button_bet4 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet4 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet4.place(x=330, y=160)
 
 button_p4c1 = Button(image = img_card_Jh)
@@ -200,7 +200,7 @@ button_p4c2.place(x=295, y=160)
 label_player5 = Label(height=1, width=6, text="Player5", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player5.place(x=420, y=70)
 
-button_bet5 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet5 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet5.place(x=500, y=160)
 
 label_player5_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
@@ -224,7 +224,7 @@ button_p6c1.place(x=635, y=160)
 button_p6c2 = Button(image = img_card_back)
 button_p6c2.place(x=670, y=160)
 
-button_bet6 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet6 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet6.place(x=610, y=200)
 
 label_player7 = Label(height=1, width=6, text="Player7", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
@@ -239,7 +239,7 @@ button_p7c1.place(x=700, y=240)
 button_p7c2 = Button(image = img_card_nocard, bg='blue')
 button_p7c2.place(x=730, y=240)
 
-button_bet7 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet7 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet7.place(x=610, y=250)
 
 label_player8 = Label(height=1, width=6, text="Player8", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
@@ -254,7 +254,7 @@ button_p8c1.place(x=640, y=340)
 button_p8c2 = Button(image = img_card_nocard, bg='blue')
 button_p8c2.place(x=675, y=340)
 
-button_bet8 = Button(text="25000000", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_bet8 = Button(text="", bg='blue', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_bet8.place(x=610, y=300)
 
 # Board Cards
@@ -273,7 +273,7 @@ button_t1.place(x=475, y=240)
 button_r1 = Button(image = img_card_back)
 button_r1.place(x=505, y=240)
 
-button_pot = Button(text="25000000", bg='green', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_pot = Button(text="2.87", bg='green', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_pot.place(x=400, y=285)
 
 
