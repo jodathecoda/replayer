@@ -6,27 +6,57 @@ ws.geometry('965x545')
 ws.config(bg='black')
 
 img = PhotoImage(file='assets\\table\\table5.png')
+
 img_back = PhotoImage(file='assets\\buttons\\back_step.png')
 img_play = PhotoImage(file='assets\\buttons\\play.png')
+img_play_green = PhotoImage(file='assets\\buttons\\play_green.png')
 img_pause = PhotoImage(file='assets\\buttons\\pause.png')
+img_pause_red = PhotoImage(file='assets\\buttons\\pause_red.png')
 img_forward = PhotoImage(file='assets\\buttons\\forward_step.png')
 img_next = PhotoImage(file='assets\\buttons\\next.png')
+img_open = PhotoImage(file='assets\\buttons\\open.png')
+img_settings = PhotoImage(file='assets\\buttons\\settings.png')
+
+img_card_back = PhotoImage(file='assets\cards\\back.png')
+
+img_card_2c = PhotoImage(file='assets\cards\\2clubs.png')
+img_card_2d = PhotoImage(file='assets\cards\\2diamond.png')
 
 
 def back():
     print("back")
+    button_play.config(image = img_play)
+    button_pause.config(image = img_pause)
 
 def play():
     print("play")
+    button_play.config(image = img_play_green)
+    button_pause.config(image = img_pause)
 
 def pause():
     print("pause")
+    button_pause.config(image = img_pause_red)
+    button_play.config(image = img_play)
 
 def forward():
     print("forward")
+    button_play.config(image = img_play)
+    button_pause.config(image = img_pause)
 
 def next():
     print("next")
+    button_play.config(image = img_play)
+    button_pause.config(image = img_pause)
+
+def open_f():
+    print("open")
+    button_play.config(image = img_play)
+    button_pause.config(image = img_pause)
+
+def settings():
+    print("settings")
+    button_play.config(image = img_play)
+    button_pause.config(image = img_pause)
 
 label = Label(
     ws,
@@ -47,6 +77,13 @@ label_player1.place(x=430, y=450)
 
 label_player1_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
 label_player1_stack.place(x=500, y=450)
+
+button_p1c1 = Button(image = img_card_2c)
+button_p1c1.place(x=435, y=340)
+
+button_p1c2 = Button(image = img_card_2d)
+button_p1c2.place(x=470, y=340)
+
 
 label_player2 = Label(height=1, width=6, text="Player2", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player2.place(x=130, y=400)
@@ -104,5 +141,11 @@ button_forward.place(x=510, y=500)
 
 button_next = Button(image = img_next, command = next)
 button_next.place(x=560, y=500)
+
+button_open = Button(image = img_open, command = open_f)
+button_open.place(x=60, y=10)
+
+button_settings = Button(image = img_settings, command = settings)
+button_settings.place(x=10, y=10)
 
 ws.mainloop()
