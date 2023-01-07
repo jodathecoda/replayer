@@ -23,14 +23,36 @@ number_of_hands = 0
 global step_pointer # current step in current hand
 step_pointer = 0
 
-global Pot
-Pot = 0.0
-
 ws = Tk()
 ws.title('ReplayeR')
 ws.geometry('965x545')
 #ws.geometry('965x495')
 ws.config(bg='black')
+
+class Table:
+    def __init__(self, title, pot, potx, poty, flop1, flop1x, flop1y, flop2, flop2x, flop2y, flop3, flop3x, flop3y, turn1, turn1x, turn1y, river1, river1x, river1y):
+        self.title = title
+        self.pot = pot
+        self.potx = potx
+        self.poty = poty
+        self.flop1 = flop1
+        self.flop1x = flop1x
+        self.flop1y = flop1y
+        self.flop2 = flop2
+        self.flop2x = flop2x
+        self.flop2y = flop2y
+        self.flop3 = flop3
+        self.flop3x = flop3x
+        self.flop3y = flop3y
+        self.turn1 = turn1
+        self.turn1x = turn1x
+        self.turn1y = turn1y
+        self.river1 = river1
+        self.river1x = river1x
+        self.river1y = river1y
+
+global thetable
+thetable = Table("", 0.0, 440, 285, "nocard", 385, 240, "nocard", 415, 240, "nocard", 445, 240, "nocard", 475, 240, "nocard", 505, 240)
 
 class Player:
     def __init__(self, name, namex, namey, bet, betx, bety, stack, stackx, stacky,  seat, card1, card1x, card1y, card2, card2x, card2y, button, buttonx, buttony):
@@ -172,7 +194,9 @@ def print_players_starting_info():
     global player6
     global player7
     global player8
-    print("Pot is: " + str(Pot))
+    global thetable
+
+    print("Pot is: " + str(thetable.pot))
     print(str(player1.seat) + " " + player1.name + " " + str(player1.stack) + " " + player1.card1 + " " + player1.card2 + " " + str(player1.bet) + " " + str(player1.button))
     print(str(player2.seat) + " " + player2.name + " " + str(player2.stack) + " " + player2.card1 + " " + player2.card2 + " " + str(player2.bet) + " " + str(player2.button))
     print(str(player3.seat) + " " + player3.name + " " + str(player3.stack) + " " + player3.card1 + " " + player3.card2 + " " + str(player3.bet) + " " + str(player3.button))
@@ -204,7 +228,7 @@ def extract_info(line):
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     if line.startswith("Dealt to"):
         cards = extract_cards(line)
@@ -303,36 +327,35 @@ def extract_info(line):
                 if player1.name in line:
                     player1.bet = round(float(floats[-1]),2)
                     player1.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
+                    thetable.pot += round(float(floats[-1]),2)
                 if player2.name in line:
                     player2.bet = round(float(floats[-1]),2)
                     player2.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
+                    thetable.pot += round(float(floats[-1]),2)
                 if player3.name in line:
                     player3.bet = round(float(floats[-1]),2)
                     player3.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
+                    thetable.pot += round(float(floats[-1]),2)
                 if player4.name in line:
                     player4.bet = round(float(floats[-1]),2)
                     player4.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
+                    thetable.pot += round(float(floats[-1]),2)
                 if player5.name in line:
                     player5.bet = round(float(floats[-1]),2)
                     player5.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
+                    thetable.pot += round(float(floats[-1]),2)
                 if player6.name in line:
                     player6.bet = round(float(floats[-1]),2)
                     player6.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
+                    thetable.pot += round(float(floats[-1]),2)
                 if player7.name in line:
                     player7.bet = round(float(floats[-1]),2)
                     player7.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
+                    thetable.pot += round(float(floats[-1]),2)
                 if player8.name in line:
                     player8.bet = round(float(floats[-1]),2)
                     player8.stack -= round(float(floats[-1]),2)
-                    Pot += round(float(floats[-1]),2)
-
+                    thetable.pot += round(float(floats[-1]),2)
 
 
 def back():
@@ -350,7 +373,7 @@ def back():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     if not bFileIsOpen:
         open_f()
@@ -374,7 +397,7 @@ def play():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     if not bFileIsOpen:
         open_f()
@@ -398,7 +421,7 @@ def pause():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     if not bFileIsOpen:
         open_f()
@@ -422,7 +445,7 @@ def forward():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     if not bFileIsOpen:
         open_f()
@@ -446,7 +469,7 @@ def next():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     if not bFileIsOpen:
         open_f()
@@ -495,7 +518,7 @@ def previous():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     if not bFileIsOpen:
         open_f()
@@ -544,7 +567,7 @@ def open_f():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     print("open")
     button_play.config(image = img_play)
@@ -558,14 +581,13 @@ def open_f():
         for line in f:
             if 'PokerStars' in line:
                 storage.append([])
+                thetable.title = line
+                label_title.config(text=thetable.title)
             # Otherwise, add the line to the latest list
             else:
                 storage[-1].append(line)
         number_of_hands = len(storage)
         
-        #for l in lines[0]:
-        #   print(l)
-
 def settings():
     global bFileIsOpen
     global bFileFinished
@@ -581,7 +603,7 @@ def settings():
     global player6
     global player7
     global player8
-    global Pot
+    global thetable
 
     print("settings")
     button_play.config(image = img_play)
@@ -748,23 +770,26 @@ button_bet8.place(x=player8.betx, y=player8.bety)
 
 # Board Cards
 button_f1 = Button(image = img_card_4h)
-button_f1.place(x=385, y=240)
+button_f1.place(x=thetable.flop1x, y=thetable.flop1y)
 
 button_f2 = Button(image = img_card_5h)
-button_f2.place(x=415, y=240)
+button_f2.place(x=thetable.flop2x, y=thetable.flop2y)
 
 button_f3 = Button(image = img_card_7s)
-button_f3.place(x=445, y=240)
+button_f3.place(x=thetable.flop3x, y=thetable.flop3y)
 
 button_t1 = Button(image = img_card_back)
-button_t1.place(x=475, y=240)
+button_t1.place(x=thetable.turn1x, y=thetable.turn1y)
 
 button_r1 = Button(image = img_card_back)
-button_r1.place(x=505, y=240)
+button_r1.place(x=thetable.river1x, y=thetable.river1y)
 
 button_pot = Button(text="2.87", bg='green', fg='yellow',font=('Times New Roman', 15, 'bold'))
-button_pot.place(x=400, y=285)
+button_pot.place(x=thetable.potx, y=thetable.poty)
 
+
+label_title = Label(text=thetable.title, bg='black', fg='red',font=('Times New Roman', 13, 'bold'))
+label_title.place(x=125,y= 10)
 
 button_previous = Button(image = img_previous, command = previous)
 button_previous.place(x=340, y=500)
