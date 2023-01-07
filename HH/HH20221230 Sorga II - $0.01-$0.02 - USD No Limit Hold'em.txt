@@ -1,0 +1,666 @@
+﻿PokerStars Hand #240803846764:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:09:35 ET
+Table 'Sorga II' 6-max Seat #6 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Leni1011 ($3.21 in chips) 
+Seat 4: AJ141060 ($0.49 in chips) 
+Seat 6: Pechorin.G ($2 in chips) 
+13Mohican: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 3d]
+Leni1011: calls $0.02
+AJ141060: calls $0.02
+Pechorin.G: raises $0.12 to $0.14
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: calls $0.12
+AJ141060: calls $0.12
+*** FLOP *** [Th 8d 4c]
+Leni1011: checks 
+AJ141060: bets $0.35 and is all-in
+Pechorin.G: calls $0.35
+Leni1011: folds 
+*** TURN *** [Th 8d 4c] [5c]
+*** RIVER *** [Th 8d 4c 5c] [Td]
+*** SHOW DOWN ***
+AJ141060: shows [9c 8c] (two pair, Tens and Eights)
+Pechorin.G: shows [Qs Qh] (two pair, Queens and Tens)
+Pechorin.G collected $1.11 from pot
+AJ141060 cashed out the hand for $0.29
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.04 
+Board [Th 8d 4c 5c Td]
+Seat 1: 13Mohican (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Leni1011 folded on the Flop
+Seat 4: AJ141060 showed [9c 8c] and lost with two pair, Tens and Eights (cashed out).
+Seat 6: Pechorin.G (button) showed [Qs Qh] and won ($1.11) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #240803863936:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:10:15 ET
+Table 'Sorga II' 6-max Seat #1 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: Leni1011 ($3.07 in chips) 
+Seat 4: AJ141060 ($0.29 in chips) 
+Seat 6: Pechorin.G ($2.62 in chips) 
+Lorpugo: posts small blind $0.01
+Leni1011: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ks]
+AJ141060: folds 
+Pechorin.G: raises $0.04 to $0.06
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: raises $0.04 to $0.10
+Pechorin.G: calls $0.04
+*** FLOP *** [5h Qh 6h]
+Leni1011: checks 
+Pechorin.G: checks 
+*** TURN *** [5h Qh 6h] [5d]
+Leni1011: bets $0.32
+Pechorin.G: folds 
+Uncalled bet ($0.32) returned to Leni1011
+Leni1011 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5h Qh 6h 5d]
+Seat 1: 13Mohican (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Leni1011 (big blind) collected ($0.20)
+Seat 4: AJ141060 folded before Flop (didn't bet)
+Seat 6: Pechorin.G folded on the Turn
+
+
+
+PokerStars Hand #240803879681:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:10:52 ET
+Table 'Sorga II' 6-max Seat #2 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Leni1011 ($3.17 in chips) 
+Seat 4: AJ141060 ($0.29 in chips) 
+Seat 6: Pechorin.G ($2.52 in chips) 
+Leni1011: posts small blind $0.01
+AJ141060: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 4c]
+Pechorin.G: folds 
+13Mohican: folds 
+Lorpugo: raises $0.04 to $0.06
+Leni1011: folds 
+AJ141060: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: Leni1011 (small blind) folded before Flop
+Seat 4: AJ141060 (big blind) folded before Flop
+Seat 6: Pechorin.G folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240803888832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:11:13 ET
+Table 'Sorga II' 6-max Seat #3 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Leni1011 ($3.16 in chips) 
+Seat 4: AJ141060 ($0.27 in chips) 
+Seat 6: Pechorin.G ($2.52 in chips) 
+AJ141060: posts small blind $0.01
+Pechorin.G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7c]
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: calls $0.02
+AJ141060: calls $0.01
+Pechorin.G: raises $0.10 to $0.12
+Leni1011: calls $0.10
+AJ141060: folds 
+*** FLOP *** [8h 2d Ks]
+Pechorin.G: checks 
+Leni1011: checks 
+*** TURN *** [8h 2d Ks] [6s]
+Pechorin.G: checks 
+Leni1011: checks 
+*** RIVER *** [8h 2d Ks 6s] [4h]
+Pechorin.G: checks 
+Leni1011: checks 
+*** SHOW DOWN ***
+Pechorin.G: shows [Jh Tc] (high card King)
+Leni1011: shows [9s Qs] (high card King - Queen kicker)
+Leni1011 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [8h 2d Ks 6s 4h]
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Leni1011 (button) showed [9s Qs] and won ($0.25) with high card King
+Seat 4: AJ141060 (small blind) folded before Flop
+Seat 6: Pechorin.G (big blind) showed [Jh Tc] and lost with high card King
+
+
+
+PokerStars Hand #240803904265:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:11:49 ET
+Table 'Sorga II' 6-max Seat #4 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Leni1011 ($3.29 in chips) 
+Seat 4: AJ141060 ($0.25 in chips) 
+Seat 6: Pechorin.G ($2.40 in chips) 
+Pechorin.G: posts small blind $0.01
+13Mohican: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 4h]
+Lorpugo: calls $0.02
+Leni1011: calls $0.02
+AJ141060: calls $0.02
+Pechorin.G: folds 
+13Mohican: raises $0.06 to $0.08
+Lorpugo: calls $0.06
+Leni1011: calls $0.06
+AJ141060: calls $0.06
+*** FLOP *** [8h 4d 6c]
+13Mohican: checks 
+Lorpugo: checks 
+Leni1011: checks 
+AJ141060: checks 
+*** TURN *** [8h 4d 6c] [5h]
+13Mohican: checks 
+Pechorin.G leaves the table
+Lorpugo: checks 
+Leni1011: checks 
+AJ141060: bets $0.02
+13Mohican: calls $0.02
+Lorpugo: calls $0.02
+Leni1011: calls $0.02
+*** RIVER *** [8h 4d 6c 5h] [3d]
+13Mohican: checks 
+Lorpugo: checks 
+Leni1011: bets $0.68
+AJ141060: calls $0.15 and is all-in
+13Mohican: folds 
+Lorpugo: folds 
+Uncalled bet ($0.53) returned to Leni1011
+*** SHOW DOWN ***
+Leni1011: shows [2h Kd] (a straight, Deuce to Six)
+AJ141060: shows [7c Kc] (a straight, Four to Eight)
+AJ141060 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [8h 4d 6c 5h 3d]
+Seat 1: 13Mohican (big blind) folded on the River
+Seat 2: Lorpugo folded on the River
+Seat 3: Leni1011 showed [2h Kd] and lost with a straight, Deuce to Six
+Seat 4: AJ141060 (button) showed [7c Kc] and won ($0.69) with a straight, Four to Eight
+Seat 6: Pechorin.G (small blind) folded before Flop
+
+
+
+PokerStars Hand #240803939961:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:13:13 ET
+Table 'Sorga II' 6-max Seat #1 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.50 in chips) 
+Seat 3: Leni1011 ($3.04 in chips) 
+Seat 4: AJ141060 ($0.69 in chips) 
+Lorpugo: posts small blind $0.01
+Leni1011: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 4d]
+AJ141060: calls $0.02
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: checks 
+*** FLOP *** [2d Qs 5d]
+Leni1011: checks 
+AJ141060: bets $0.02
+Leni1011: folds 
+Uncalled bet ($0.02) returned to AJ141060
+AJ141060 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d Qs 5d]
+Seat 1: 13Mohican (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Leni1011 (big blind) folded on the Flop
+Seat 4: AJ141060 collected ($0.05)
+
+
+
+PokerStars Hand #240803953547:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:13:46 ET
+Table 'Sorga II' 6-max Seat #2 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.49 in chips) 
+Seat 3: Leni1011 ($3.02 in chips) 
+Seat 4: AJ141060 ($0.72 in chips) 
+Leni1011: posts small blind $0.01
+AJ141060: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8c]
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: calls $0.01
+AJ141060: raises $0.70 to $0.72 and is all-in
+Leni1011: folds 
+Uncalled bet ($0.70) returned to AJ141060
+AJ141060 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Leni1011 (small blind) folded before Flop
+Seat 4: AJ141060 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #240803961129:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:14:03 ET
+Table 'Sorga II' 6-max Seat #3 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.49 in chips) 
+Seat 3: Leni1011 ($3 in chips) 
+Seat 4: AJ141060 ($0.74 in chips) 
+Seat 5: rogerel5 ($1.80 in chips) 
+AJ141060: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ts]
+13Mohican: raises $0.03 to $0.05
+Lorpugo: folds 
+Leni1011: calls $0.05
+AJ141060: folds 
+IamKeOpS joins the table at seat #6 
+rogerel5: calls $0.03
+*** FLOP *** [4d 6d Ac]
+rogerel5 has timed out
+rogerel5: checks 
+13Mohican: checks 
+Leni1011: checks 
+*** TURN *** [4d 6d Ac] [7d]
+rogerel5: bets $0.04
+13Mohican: folds 
+Leni1011: folds 
+Uncalled bet ($0.04) returned to rogerel5
+rogerel5 collected $0.15 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [4d 6d Ac 7d]
+Seat 1: 13Mohican folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Leni1011 (button) folded on the Turn
+Seat 4: AJ141060 (small blind) folded before Flop
+Seat 5: rogerel5 (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #240803990900:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:15:13 ET
+Table 'Sorga II' 6-max Seat #4 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($1.49 in chips) 
+Seat 3: Leni1011 ($2.95 in chips) 
+Seat 4: AJ141060 ($0.73 in chips) 
+Seat 5: rogerel5 ($1.90 in chips) 
+Seat 6: IamKeOpS ($2 in chips) 
+rogerel5: posts small blind $0.01
+IamKeOpS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Kh]
+13Mohican: folds 
+Lorpugo: raises $0.04 to $0.06
+Leni1011: folds 
+AJ141060: calls $0.06
+rogerel5: folds 
+IamKeOpS: folds 
+*** FLOP *** [5c 8d 3h]
+Lorpugo: bets $0.07
+AJ141060: calls $0.07
+*** TURN *** [5c 8d 3h] [3c]
+Lorpugo: checks 
+AJ141060: bets $0.28
+Lorpugo: raises $1.08 to $1.36 and is all-in
+AJ141060: calls $0.32 and is all-in
+Uncalled bet ($0.76) returned to Lorpugo
+*** RIVER *** [5c 8d 3h 3c] [4c]
+*** SHOW DOWN ***
+Lorpugo: shows [Kd Kh] (two pair, Kings and Threes)
+AJ141060: shows [Qh 5h] (two pair, Fives and Threes)
+Lorpugo collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.05 
+Board [5c 8d 3h 3c 4c]
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo showed [Kd Kh] and won ($1.44) with two pair, Kings and Threes
+Seat 3: Leni1011 folded before Flop (didn't bet)
+Seat 4: AJ141060 (button) showed [Qh 5h] and lost with two pair, Fives and Threes
+Seat 5: rogerel5 (small blind) folded before Flop
+Seat 6: IamKeOpS (big blind) folded before Flop
+
+
+
+PokerStars Hand #240804012864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:16:04 ET
+Table 'Sorga II' 6-max Seat #5 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.20 in chips) 
+Seat 3: Leni1011 ($2.95 in chips) 
+Seat 5: rogerel5 ($1.89 in chips) 
+Seat 6: IamKeOpS ($1.98 in chips) 
+IamKeOpS: posts small blind $0.01
+13Mohican: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7h]
+Lorpugo: raises $0.04 to $0.06
+Leni1011: calls $0.06
+AJ141060 is disconnected 
+rogerel5 has timed out
+rogerel5: folds 
+IamKeOpS: folds 
+13Mohican: raises $0.24 to $0.30
+Lorpugo: folds 
+Leni1011: calls $0.24
+*** FLOP *** [Qh 9h 7c]
+13Mohican: checks 
+Leni1011: bets $2.65 and is all-in
+13Mohican: folds 
+Uncalled bet ($2.65) returned to Leni1011
+Leni1011 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Qh 9h 7c]
+Seat 1: 13Mohican (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: Leni1011 collected ($0.65)
+Seat 5: rogerel5 (button) folded before Flop (didn't bet)
+Seat 6: IamKeOpS (small blind) folded before Flop
+
+
+
+PokerStars Hand #240804031773:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:16:47 ET
+Table 'Sorga II' 6-max Seat #6 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.14 in chips) 
+Seat 3: Leni1011 ($3.30 in chips) 
+Seat 5: rogerel5 ($1.89 in chips) 
+Seat 6: IamKeOpS ($2 in chips) 
+13Mohican: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2d]
+Leni1011: calls $0.02
+rogerel5: raises $0.04 to $0.06
+IamKeOpS: folds 
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: calls $0.04
+*** FLOP *** [6h 7c 7d]
+Leni1011: checks 
+rogerel5: checks 
+*** TURN *** [6h 7c 7d] [6s]
+Leni1011: checks 
+rogerel5: bets $0.07
+Leni1011: folds 
+Uncalled bet ($0.07) returned to rogerel5
+rogerel5 collected $0.14 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6h 7c 7d 6s]
+Seat 1: 13Mohican (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Leni1011 folded on the Turn
+Seat 5: rogerel5 collected ($0.14)
+Seat 6: IamKeOpS (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240804042960:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:17:12 ET
+Table 'Sorga II' 6-max Seat #1 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.12 in chips) 
+Seat 3: Leni1011 ($3.24 in chips) 
+Seat 5: rogerel5 ($1.97 in chips) 
+Seat 6: IamKeOpS ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Leni1011: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7h]
+rogerel5: folds 
+IamKeOpS: folds 
+13Mohican: folds 
+Lorpugo: raises $0.04 to $0.06
+Leni1011: calls $0.04
+*** FLOP *** [Ks 3h As]
+Lorpugo: bets $0.04
+Leni1011: calls $0.04
+*** TURN *** [Ks 3h As] [Qh]
+Lorpugo: bets $0.08
+Leni1011: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ks 3h As Qh]
+Seat 1: 13Mohican (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.19)
+Seat 3: Leni1011 (big blind) folded on the Turn
+Seat 5: rogerel5 folded before Flop (didn't bet)
+Seat 6: IamKeOpS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240804061236:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:17:54 ET
+Table 'Sorga II' 6-max Seat #2 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.21 in chips) 
+Seat 3: Leni1011 ($3.14 in chips) 
+Seat 5: rogerel5 ($1.97 in chips) 
+Seat 6: IamKeOpS ($2 in chips) 
+Leni1011: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 3h]
+IamKeOpS: raises $0.04 to $0.06
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: folds 
+rogerel5: calls $0.04
+*** FLOP *** [Qs 7h Kd]
+rogerel5 has timed out
+rogerel5: checks 
+IamKeOpS: checks 
+*** TURN *** [Qs 7h Kd] [8s]
+rogerel5: checks 
+IamKeOpS: bets $0.10
+rogerel5: folds 
+Uncalled bet ($0.10) returned to IamKeOpS
+IamKeOpS collected $0.13 from pot
+IamKeOpS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qs 7h Kd 8s]
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Leni1011 (small blind) folded before Flop
+Seat 5: rogerel5 (big blind) folded on the Turn
+Seat 6: IamKeOpS collected ($0.13)
+
+
+
+PokerStars Hand #240804083919:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:18:45 ET
+Table 'Sorga II' 6-max Seat #3 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.21 in chips) 
+Seat 3: Leni1011 ($3.13 in chips) 
+Seat 5: rogerel5 ($1.91 in chips) 
+Seat 6: IamKeOpS ($2.07 in chips) 
+rogerel5: posts small blind $0.01
+IamKeOpS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ts]
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: raises $0.02 to $0.04
+rogerel5: raises $0.10 to $0.14
+IamKeOpS: folds 
+Leni1011: calls $0.10
+*** FLOP *** [Qd 5c 7d]
+rogerel5: checks 
+Leni1011: bets $0.28
+rogerel5: raises $0.43 to $0.71
+Leni1011: calls $0.43
+*** TURN *** [Qd 5c 7d] [3c]
+rogerel5: bets $1.06 and is all-in
+Leni1011: calls $1.06
+*** RIVER *** [Qd 5c 7d 3c] [Ks]
+*** SHOW DOWN ***
+rogerel5: shows [4d 3d] (a pair of Threes)
+Leni1011: shows [Kd Qs] (two pair, Kings and Queens)
+Leni1011 collected $3.68 from pot
+*** SUMMARY ***
+Total pot $3.84 | Rake $0.16 
+Board [Qd 5c 7d 3c Ks]
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Leni1011 (button) showed [Kd Qs] and won ($3.68) with two pair, Kings and Queens
+Seat 5: rogerel5 (small blind) showed [4d 3d] and lost with a pair of Threes
+Seat 6: IamKeOpS (big blind) folded before Flop
+
+
+
+PokerStars Hand #240804106150:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:19:35 ET
+Table 'Sorga II' 6-max Seat #6 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.21 in chips) 
+Seat 3: Leni1011 ($4.90 in chips) 
+Seat 6: IamKeOpS ($2.05 in chips) 
+13Mohican: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qc]
+Leni1011: calls $0.02
+IamKeOpS: folds 
+13Mohican: folds 
+Lorpugo: checks 
+*** FLOP *** [Kh Ac 7h]
+Lorpugo: checks 
+Leni1011: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Leni1011
+Leni1011 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh Ac 7h]
+Seat 1: 13Mohican (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: Leni1011 collected ($0.05)
+Seat 6: IamKeOpS (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240804118537:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:20:04 ET
+Table 'Sorga II' 6-max Seat #1 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.19 in chips) 
+Seat 3: Leni1011 ($4.93 in chips) 
+Seat 5: rogerel5 ($2 in chips) 
+Seat 6: IamKeOpS ($2.05 in chips) 
+Lorpugo: posts small blind $0.01
+Leni1011: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ks]
+rogerel5: folds 
+IamKeOpS: folds 
+13Mohican: folds 
+Lorpugo: raises $0.04 to $0.06
+Leni1011: calls $0.04
+*** FLOP *** [5s 3d Ah]
+Lorpugo: checks 
+Leni1011: bets $0.60
+Lorpugo: folds 
+Uncalled bet ($0.60) returned to Leni1011
+Leni1011 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5s 3d Ah]
+Seat 1: 13Mohican (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: Leni1011 (big blind) collected ($0.12)
+Seat 5: rogerel5 folded before Flop (didn't bet)
+Seat 6: IamKeOpS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240804143321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:21:00 ET
+Table 'Sorga II' 6-max Seat #2 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 3: Leni1011 ($4.99 in chips) 
+Seat 5: rogerel5 ($2 in chips) 
+Seat 6: IamKeOpS ($2.05 in chips) 
+Leni1011: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3s]
+IamKeOpS: folds 
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: calls $0.01
+rogerel5: raises $0.08 to $0.10
+Leni1011: folds 
+Uncalled bet ($0.08) returned to rogerel5
+rogerel5 collected $0.04 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Leni1011 (small blind) folded before Flop
+Seat 5: rogerel5 (big blind) collected ($0.04)
+Seat 6: IamKeOpS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240804153938:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 16:21:24 ET
+Table 'Sorga II' 6-max Seat #3 is the button
+Seat 1: 13Mohican ($2 in chips) 
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 3: Leni1011 ($4.97 in chips) 
+Seat 5: rogerel5 ($2.02 in chips) 
+Seat 6: IamKeOpS ($2.05 in chips) 
+rogerel5: posts small blind $0.01
+IamKeOpS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5s]
+13Mohican: folds 
+Lorpugo: folds 
+Leni1011: calls $0.02
+rogerel5: calls $0.01
+IamKeOpS: checks 
+*** FLOP *** [9c 3s 9d]
+rogerel5: checks 
+IamKeOpS: checks 
+Leni1011: checks 
+*** TURN *** [9c 3s 9d] [4c]
+rogerel5: checks 
+IamKeOpS: bets $0.05
+Leni1011: folds 
+rogerel5: folds 
+Uncalled bet ($0.05) returned to IamKeOpS
+IamKeOpS collected $0.06 from pot
+IamKeOpS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9c 3s 9d 4c]
+Seat 1: 13Mohican folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Leni1011 (button) folded on the Turn
+Seat 5: rogerel5 (small blind) folded on the Turn
+Seat 6: IamKeOpS (big blind) collected ($0.06)
+
+
+

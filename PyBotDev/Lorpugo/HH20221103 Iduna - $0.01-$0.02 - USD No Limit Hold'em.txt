@@ -1,0 +1,2365 @@
+﻿PokerStars Hand #239627668164:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:35:23 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2.16 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: romyrcon27 ($1.34 in chips) 
+Seat 4: S3Bucket ($2.57 in chips) 
+Seat 6: den S187 ($5.26 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 8d]
+romyrcon27: calls $0.02
+S3Bucket: folds 
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: checks 
+*** FLOP *** [Qc 4h Ts]
+Lorpugo: checks 
+romyrcon27: checks 
+*** TURN *** [Qc 4h Ts] [Qd]
+Lorpugo: bets $0.03
+romyrcon27: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qc 4h Ts Qd]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.05)
+Seat 3: romyrcon27 folded on the Turn
+Seat 4: S3Bucket folded before Flop (didn't bet)
+Seat 6: den S187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627681976:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:36:02 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2.15 in chips) 
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 3: romyrcon27 ($1.32 in chips) 
+Seat 4: S3Bucket ($2.57 in chips) 
+Seat 6: den S187 ($5.26 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ac]
+S3Bucket: folds 
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+romyrcon27: calls $0.04
+*** FLOP *** [Kh 5c 7c]
+Lorpugo: checks 
+romyrcon27: checks 
+*** TURN *** [Kh 5c 7c] [7s]
+Lorpugo: checks 
+romyrcon27: checks 
+*** RIVER *** [Kh 5c 7c 7s] [Ks]
+Lorpugo: checks 
+romyrcon27: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qd Ac] (two pair, Kings and Sevens)
+romyrcon27: mucks hand 
+Lorpugo collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kh 5c 7c 7s Ks]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) showed [Qd Ac] and won ($0.12) with two pair, Kings and Sevens
+Seat 3: romyrcon27 (big blind) mucked [2s 3d]
+Seat 4: S3Bucket folded before Flop (didn't bet)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627699900:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:36:52 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2.15 in chips) 
+Seat 2: Lorpugo ($1.69 in chips) 
+Seat 3: romyrcon27 ($1.26 in chips) 
+Seat 4: S3Bucket ($2.57 in chips) 
+Seat 6: den S187 ($5.26 in chips) 
+romyrcon27: posts small blind $0.01
+S3Bucket: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6c]
+den S187: raises $0.03 to $0.05
+MeepoBoy: folds 
+Lorpugo: calls $0.05
+romyrcon27: calls $0.04
+S3Bucket: folds 
+*** FLOP *** [7h Qd 8d]
+S3Bucket leaves the table
+garoiu1994 joins the table at seat #4 
+romyrcon27: checks 
+den S187: bets $0.11
+Lorpugo: folds 
+romyrcon27: folds 
+Uncalled bet ($0.11) returned to den S187
+den S187 collected $0.16 from pot
+den S187: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [7h Qd 8d]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the Flop
+Seat 3: romyrcon27 (small blind) folded on the Flop
+Seat 4: S3Bucket (big blind) folded before Flop
+Seat 6: den S187 collected ($0.16)
+
+
+
+PokerStars Hand #239627712995:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:37:29 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2.15 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: romyrcon27 ($1.21 in chips) 
+Seat 6: den S187 ($5.37 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9h]
+Lorpugo: raises $0.04 to $0.06
+romyrcon27: calls $0.06
+den S187: folds 
+MeepoBoy: folds 
+*** FLOP *** [9d 4d 4s]
+Lorpugo: bets $0.07
+romyrcon27: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9d 4d 4s]
+Seat 1: MeepoBoy (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.14)
+Seat 3: romyrcon27 (button) folded on the Flop
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239627724865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:38:03 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2.13 in chips) 
+Seat 2: Lorpugo ($1.72 in chips) 
+Seat 3: romyrcon27 ($1.15 in chips) 
+Seat 6: den S187 ($5.36 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+garoiu1994: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ac]
+romyrcon27: calls $0.02
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: checks 
+*** FLOP *** [4h Ad 4d]
+Lorpugo: checks 
+romyrcon27: checks 
+*** TURN *** [4h Ad 4d] [Td]
+Lorpugo: bets $0.03
+romyrcon27: calls $0.03
+*** RIVER *** [4h Ad 4d Td] [3d]
+Lorpugo: checks 
+Jojojeje747 is disconnected 
+romyrcon27: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [9h Ac] (two pair, Aces and Fours)
+romyrcon27: mucks hand 
+Lorpugo collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h Ad 4d Td 3d]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [9h Ac] and won ($0.11) with two pair, Aces and Fours
+Seat 3: romyrcon27 mucked [Kh Kc]
+Seat 6: den S187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627740360:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:38:46 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2.12 in chips) 
+Seat 2: Lorpugo ($1.78 in chips) 
+Seat 3: romyrcon27 ($1.10 in chips) 
+Seat 6: den S187 ($5.36 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+garoiu1994: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ad]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+romyrcon27: raises $0.04 to $0.10
+Lorpugo: calls $0.04
+*** FLOP *** [4d 8s 7s]
+Lorpugo: checks 
+romyrcon27: checks 
+*** TURN *** [4d 8s 7s] [Kh]
+Lorpugo: checks 
+romyrcon27: checks 
+*** RIVER *** [4d 8s 7s Kh] [9s]
+Lorpugo: checks 
+romyrcon27: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [3s Ad] (high card Ace)
+romyrcon27: shows [As Ac] (a pair of Aces)
+romyrcon27 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4d 8s 7s Kh 9s]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) showed [3s Ad] and lost with high card Ace
+Seat 3: romyrcon27 (big blind) showed [As Ac] and won ($0.19) with a pair of Aces
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627757324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:39:33 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2.12 in chips) 
+Seat 2: Lorpugo ($1.68 in chips) 
+Seat 3: romyrcon27 ($1.19 in chips) 
+Seat 4: garoiu1994 ($0.98 in chips) 
+Seat 6: den S187 ($5.36 in chips) 
+romyrcon27: posts small blind $0.01
+garoiu1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Js]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+romyrcon27: calls $0.05
+garoiu1994: calls $0.04
+*** FLOP *** [7d 7s 8d]
+romyrcon27: checks 
+garoiu1994: bets $0.02
+Lorpugo: calls $0.02
+romyrcon27: folds 
+*** TURN *** [7d 7s 8d] [8s]
+garoiu1994: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [7d 7s 8d 8s] [Jc]
+garoiu1994: bets $0.12
+Jojojeje747 is disconnected 
+Lorpugo: calls $0.12
+*** SHOW DOWN ***
+garoiu1994: shows [Ad 8c] (a full house, Eights full of Sevens)
+Lorpugo: mucks hand 
+garoiu1994 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [7d 7s 8d 8s Jc]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) mucked [Qh Js]
+Seat 3: romyrcon27 (small blind) folded on the Flop
+Seat 4: garoiu1994 (big blind) showed [Ad 8c] and won ($0.48) with a full house, Eights full of Sevens
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627777996:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:40:31 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2.12 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: romyrcon27 ($1.13 in chips) 
+Seat 4: garoiu1994 ($1.24 in chips) 
+Seat 6: den S187 ($5.36 in chips) 
+garoiu1994: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5h]
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994: calls $0.01
+den S187: checks 
+*** FLOP *** [Jc Js 8c]
+garoiu1994: checks 
+den S187: checks 
+romyrcon27: checks 
+*** TURN *** [Jc Js 8c] [4d]
+garoiu1994: checks 
+den S187: checks 
+romyrcon27: checks 
+*** RIVER *** [Jc Js 8c 4d] [2s]
+garoiu1994: checks 
+den S187: checks 
+Jojojeje747 is disconnected 
+romyrcon27: checks 
+*** SHOW DOWN ***
+garoiu1994: shows [5c 3d] (a pair of Jacks)
+den S187: shows [Td 7s] (a pair of Jacks - Ten kicker)
+romyrcon27: shows [5d 2d] (two pair, Jacks and Deuces)
+romyrcon27 collected $0.06 from pot
+Jojojeje747 leaves the table
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jc Js 8c 4d 2s]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 (button) showed [5d 2d] and won ($0.06) with two pair, Jacks and Deuces
+Seat 4: garoiu1994 (small blind) showed [5c 3d] and lost with a pair of Jacks
+Seat 6: den S187 (big blind) showed [Td 7s] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #239627793269:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:41:14 ET
+Table 'Iduna' 6-max Seat #4 is the button
+Seat 1: MeepoBoy ($2.12 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: romyrcon27 ($1.17 in chips) 
+Seat 4: garoiu1994 ($1.22 in chips) 
+Seat 6: den S187 ($5.34 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 6h]
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994: calls $0.02
+den S187: calls $0.01
+0Sergunchik joins the table at seat #5 
+MeepoBoy: checks 
+*** FLOP *** [As 4c 3d]
+den S187: checks 
+MeepoBoy: checks 
+romyrcon27: checks 
+garoiu1994: checks 
+*** TURN *** [As 4c 3d] [Ks]
+den S187: checks 
+MeepoBoy: checks 
+romyrcon27: checks 
+garoiu1994: checks 
+*** RIVER *** [As 4c 3d Ks] [Jc]
+den S187: bets $0.02
+MeepoBoy: folds 
+romyrcon27: raises $0.08 to $0.10
+garoiu1994: folds 
+den S187: folds 
+Uncalled bet ($0.08) returned to romyrcon27
+romyrcon27 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As 4c 3d Ks Jc]
+Seat 1: MeepoBoy (big blind) folded on the River
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 collected ($0.12)
+Seat 4: garoiu1994 (button) folded on the River
+Seat 6: den S187 (small blind) folded on the River
+
+
+
+PokerStars Hand #239627817918:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:42:22 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2.10 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: romyrcon27 ($1.25 in chips) 
+Seat 4: garoiu1994 ($1.20 in chips) 
+Seat 6: den S187 ($5.30 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+0Sergunchik: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 8c]
+romyrcon27: calls $0.02
+garoiu1994: calls $0.02
+den S187: raises $0.05 to $0.07
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.05
+garoiu1994: calls $0.05
+*** FLOP *** [4h Jh 4c]
+romyrcon27: checks 
+garoiu1994: checks 
+den S187: checks 
+*** TURN *** [4h Jh 4c] [Kd]
+romyrcon27: checks 
+garoiu1994: checks 
+den S187: bets $0.10
+romyrcon27: calls $0.10
+garoiu1994: folds 
+*** RIVER *** [4h Jh 4c Kd] [8h]
+romyrcon27: checks 
+den S187: checks 
+*** SHOW DOWN ***
+romyrcon27: shows [9s 9h] (two pair, Nines and Fours)
+den S187: mucks hand 
+romyrcon27 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [4h Jh 4c Kd 8h]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: romyrcon27 showed [9s 9h] and won ($0.42) with two pair, Nines and Fours
+Seat 4: garoiu1994 folded on the Turn
+Seat 6: den S187 (button) mucked [Qd 9d]
+
+
+
+PokerStars Hand #239627841305:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:43:28 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2.09 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: romyrcon27 ($1.50 in chips) 
+Seat 4: garoiu1994 ($1.13 in chips) 
+Seat 6: den S187 ($5.13 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+0Sergunchik: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2h]
+garoiu1994: calls $0.02
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: calls $0.01
+romyrcon27: checks 
+*** FLOP *** [2s 9s 6s]
+Lorpugo: checks 
+romyrcon27: checks 
+garoiu1994: checks 
+*** TURN *** [2s 9s 6s] [7c]
+Lorpugo: checks 
+romyrcon27: checks 
+garoiu1994: checks 
+*** RIVER *** [2s 9s 6s 7c] [Ks]
+Lorpugo: checks 
+romyrcon27: checks 
+garoiu1994: bets $0.02
+Lorpugo: folds 
+romyrcon27: calls $0.02
+*** SHOW DOWN ***
+garoiu1994: shows [Kh 4s] (a flush, King high)
+romyrcon27: mucks hand 
+garoiu1994 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2s 9s 6s 7c Ks]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the River
+Seat 3: romyrcon27 (big blind) mucked [6h Th]
+Seat 4: garoiu1994 showed [Kh 4s] and won ($0.10) with a flush, King high
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627860780:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:44:22 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2.09 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: romyrcon27 ($1.46 in chips) 
+Seat 4: garoiu1994 ($1.19 in chips) 
+Seat 6: den S187 ($5.13 in chips) 
+romyrcon27: posts small blind $0.01
+garoiu1994: posts big blind $0.02
+0Sergunchik: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 2d]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.01
+garoiu1994: raises $0.02 to $0.04
+romyrcon27: calls $0.02
+*** FLOP *** [Qs 3h 3c]
+romyrcon27: checks 
+garoiu1994: bets $0.02
+romyrcon27: folds 
+Uncalled bet ($0.02) returned to garoiu1994
+garoiu1994 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qs 3h 3c]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: romyrcon27 (small blind) folded on the Flop
+Seat 4: garoiu1994 (big blind) collected ($0.08)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627875336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:45:03 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2.09 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: romyrcon27 ($1.42 in chips) 
+Seat 4: garoiu1994 ($1.23 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($5.13 in chips) 
+garoiu1994: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ac]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+romyrcon27: calls $0.06
+garoiu1994: raises $0.04 to $0.10
+0Sergunchik: folds 
+Lorpugo: calls $0.04
+romyrcon27: calls $0.04
+*** FLOP *** [Tc 3d 2d]
+garoiu1994: bets $0.02
+Lorpugo: calls $0.02
+romyrcon27: folds 
+*** TURN *** [Tc 3d 2d] [Kc]
+garoiu1994: checks 
+Lorpugo: checks 
+*** RIVER *** [Tc 3d 2d Kc] [Ad]
+garoiu1994: checks 
+Lorpugo: bets $0.23
+garoiu1994: calls $0.23
+*** SHOW DOWN ***
+Lorpugo: shows [Qd Ac] (a pair of Aces)
+garoiu1994: mucks hand 
+Lorpugo collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [Tc 3d 2d Kc Ad]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo showed [Qd Ac] and won ($0.79) with a pair of Aces
+Seat 3: romyrcon27 (button) folded on the Flop
+Seat 4: garoiu1994 (small blind) mucked [Ts 5h]
+Seat 5: 0Sergunchik (big blind) folded before Flop
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627897270:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:46:04 ET
+Table 'Iduna' 6-max Seat #4 is the button
+Seat 1: MeepoBoy ($2.09 in chips) 
+Seat 2: Lorpugo ($1.86 in chips) 
+Seat 3: romyrcon27 ($1.32 in chips) 
+Seat 4: garoiu1994 ($0.88 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($5.13 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 4c]
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994: raises $0.02 to $0.04
+0Sergunchik: folds 
+den S187: calls $0.02
+romyrcon27: calls $0.02
+*** FLOP *** [Qs 7h 5h]
+den S187: checks 
+romyrcon27: checks 
+garoiu1994: bets $0.02
+den S187: calls $0.02
+romyrcon27: folds 
+*** TURN *** [Qs 7h 5h] [Ad]
+den S187: checks 
+garoiu1994: bets $0.02
+den S187: folds 
+Uncalled bet ($0.02) returned to garoiu1994
+garoiu1994 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qs 7h 5h Ad]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 folded on the Flop
+Seat 4: garoiu1994 (button) collected ($0.16)
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239627923063:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:47:15 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2.09 in chips) 
+Seat 2: Lorpugo ($1.86 in chips) 
+Seat 3: romyrcon27 ($1.28 in chips) 
+Seat 4: garoiu1994 ($0.98 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($5.07 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Tc]
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994 has timed out
+garoiu1994: folds 
+0Sergunchik: folds 
+den S187: calls $0.01
+MeepoBoy: checks 
+*** FLOP *** [Qc 9c 7c]
+den S187: checks 
+MeepoBoy: checks 
+romyrcon27: checks 
+*** TURN *** [Qc 9c 7c] [5s]
+den S187: checks 
+MeepoBoy: checks 
+romyrcon27: checks 
+*** RIVER *** [Qc 9c 7c 5s] [Kd]
+den S187: checks 
+MeepoBoy: checks 
+romyrcon27: bets $0.10
+den S187: folds 
+MeepoBoy: folds 
+Uncalled bet ($0.10) returned to romyrcon27
+romyrcon27 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc 9c 7c 5s Kd]
+Seat 1: MeepoBoy (big blind) folded on the River
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 collected ($0.06)
+Seat 4: garoiu1994 folded before Flop (didn't bet)
+Seat 5: 0Sergunchik (button) folded before Flop (didn't bet)
+Seat 6: den S187 (small blind) folded on the River
+
+
+
+PokerStars Hand #239627948136:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:48:25 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2.07 in chips) 
+Seat 2: Lorpugo ($1.86 in chips) 
+Seat 3: romyrcon27 ($1.32 in chips) 
+Seat 4: garoiu1994 ($0.98 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($5.05 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6d]
+romyrcon27: calls $0.02
+garoiu1994: raises $0.02 to $0.04
+0Sergunchik: raises $0.14 to $0.18
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.16
+garoiu1994: folds 
+*** FLOP *** [Qs 3h 7h]
+romyrcon27: checks 
+0Sergunchik is disconnected 
+0Sergunchik is connected 
+0Sergunchik: checks 
+*** TURN *** [Qs 3h 7h] [4c]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** RIVER *** [Qs 3h 7h 4c] [2s]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** SHOW DOWN ***
+romyrcon27: shows [Th Ks] (high card King)
+0Sergunchik: shows [Kh Ac] (high card Ace)
+0Sergunchik collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Qs 3h 7h 4c 2s]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: romyrcon27 showed [Th Ks] and lost with high card King
+Seat 4: garoiu1994 folded before Flop
+Seat 5: 0Sergunchik showed [Kh Ac] and won ($0.41) with high card Ace
+Seat 6: den S187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627985126:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:50:09 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2.06 in chips) 
+Seat 2: Lorpugo ($1.84 in chips) 
+Seat 3: romyrcon27 ($1.14 in chips) 
+Seat 4: garoiu1994 ($0.94 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($5.05 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5s]
+garoiu1994: calls $0.02
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: calls $0.01
+romyrcon27: checks 
+*** FLOP *** [3d 3h Js]
+Lorpugo: bets $0.02
+romyrcon27: calls $0.02
+garoiu1994: folds 
+*** TURN *** [3d 3h Js] [6h]
+Lorpugo: bets $0.05
+romyrcon27: raises $0.05 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to romyrcon27
+romyrcon27 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3d 3h Js 6h]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 3: romyrcon27 (big blind) collected ($0.19)
+Seat 4: garoiu1994 folded on the Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628004399:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:51:03 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2.06 in chips) 
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: romyrcon27 ($1.24 in chips) 
+Seat 4: garoiu1994 ($0.92 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($5.05 in chips) 
+romyrcon27: posts small blind $0.01
+garoiu1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 3d]
+0Sergunchik: folds 
+den S187: raises $0.04 to $0.06
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.05
+garoiu1994: calls $0.04
+*** FLOP *** [Jc 8d 5d]
+romyrcon27: checks 
+garoiu1994: bets $0.02
+den S187: calls $0.02
+romyrcon27: calls $0.02
+*** TURN *** [Jc 8d 5d] [Jh]
+romyrcon27: checks 
+garoiu1994: checks 
+den S187: checks 
+*** RIVER *** [Jc 8d 5d Jh] [Ah]
+romyrcon27: bets $0.36
+garoiu1994: folds 
+den S187: folds 
+Uncalled bet ($0.36) returned to romyrcon27
+romyrcon27 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jc 8d 5d Jh Ah]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: romyrcon27 (small blind) collected ($0.23)
+Seat 4: garoiu1994 (big blind) folded on the River
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 folded on the River
+
+
+
+PokerStars Hand #239628028084:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:52:09 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2.06 in chips) 
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: romyrcon27 ($1.39 in chips) 
+Seat 4: garoiu1994 ($0.84 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+garoiu1994: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qh]
+MeepoBoy is disconnected 
+den S187: folds 
+MeepoBoy is connected 
+MeepoBoy has timed out
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994: calls $0.01
+0Sergunchik: checks 
+*** FLOP *** [9h 3c Js]
+garoiu1994: checks 
+0Sergunchik: checks 
+romyrcon27: checks 
+*** TURN *** [9h 3c Js] [7h]
+garoiu1994: checks 
+0Sergunchik: checks 
+romyrcon27: checks 
+*** RIVER *** [9h 3c Js 7h] [8h]
+garoiu1994: checks 
+0Sergunchik: bets $0.04
+romyrcon27: raises $0.56 to $0.60
+garoiu1994: folds 
+0Sergunchik: calls $0.56
+*** SHOW DOWN ***
+romyrcon27: shows [Td Qc] (a straight, Eight to Queen)
+0Sergunchik: mucks hand 
+romyrcon27 collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.04 
+Board [9h 3c Js 7h 8h]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 (button) showed [Td Qc] and won ($1.22) with a straight, Eight to Queen
+Seat 4: garoiu1994 (small blind) folded on the River
+Seat 5: 0Sergunchik (big blind) mucked [Tc 4c]
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628052341:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:53:18 ET
+Table 'Iduna' 6-max Seat #4 is the button
+Seat 1: MeepoBoy ($2.06 in chips) 
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: romyrcon27 ($1.99 in chips) 
+Seat 4: garoiu1994 ($0.82 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 5h]
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994: calls $0.02
+0Sergunchik: folds 
+den S187: checks 
+*** FLOP *** [5d 4d Tc]
+den S187: checks 
+romyrcon27: checks 
+garoiu1994: bets $0.02
+den S187: folds 
+romyrcon27: calls $0.02
+*** TURN *** [5d 4d Tc] [Th]
+romyrcon27: checks 
+garoiu1994: bets $0.02
+romyrcon27: calls $0.02
+*** RIVER *** [5d 4d Tc Th] [Kh]
+romyrcon27: checks 
+garoiu1994: bets $0.76 and is all-in
+romyrcon27: folds 
+Uncalled bet ($0.76) returned to garoiu1994
+garoiu1994 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5d 4d Tc Th Kh]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 folded on the River
+Seat 4: garoiu1994 (button) collected ($0.14)
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239628080385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:54:38 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2.06 in chips) 
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: romyrcon27 ($1.93 in chips) 
+Seat 4: garoiu1994 ($0.90 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.95 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9d]
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994: calls $0.02
+0Sergunchik: folds 
+den S187: calls $0.01
+MeepoBoy: raises $0.14 to $0.16
+romyrcon27: calls $0.14
+garoiu1994: raises $0.74 to $0.90 and is all-in
+den S187: folds 
+MeepoBoy: folds 
+romyrcon27: calls $0.74
+*** FLOP *** [5h 3c 6h]
+*** TURN *** [5h 3c 6h] [As]
+*** RIVER *** [5h 3c 6h As] [Jh]
+*** SHOW DOWN ***
+romyrcon27: shows [9c Qh] (high card Ace)
+garoiu1994: shows [5c 7s] (a pair of Fives)
+garoiu1994 collected $1.89 from pot
+*** SUMMARY ***
+Total pot $1.98 | Rake $0.09 
+Board [5h 3c 6h As Jh]
+Seat 1: MeepoBoy (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 showed [9c Qh] and lost with high card Ace
+Seat 4: garoiu1994 showed [5c 7s] and won ($1.89) with a pair of Fives
+Seat 5: 0Sergunchik (button) folded before Flop (didn't bet)
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239628104309:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:55:57 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: romyrcon27 ($1.03 in chips) 
+Seat 4: garoiu1994 ($1.89 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.93 in chips) 
+MeepoBoy is disconnected 
+MeepoBoy has timed out while disconnected
+MeepoBoy: is sitting out 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 5s]
+garoiu1994: calls $0.02
+0Sergunchik: folds 
+den S187: raises $0.07 to $0.09
+Lorpugo: folds 
+romyrcon27: calls $0.07
+garoiu1994: calls $0.07
+*** FLOP *** [2c 7d 6c]
+romyrcon27: checks 
+garoiu1994: bets $0.02
+den S187: calls $0.02
+romyrcon27: raises $0.24 to $0.26
+garoiu1994: folds 
+den S187: folds 
+Uncalled bet ($0.24) returned to romyrcon27
+romyrcon27 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [2c 7d 6c]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: romyrcon27 (big blind) collected ($0.33)
+Seat 4: garoiu1994 folded on the Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 (button) folded on the Flop
+
+
+
+PokerStars Hand #239628125706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:57:16 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.74 in chips) 
+Seat 3: romyrcon27 ($1.25 in chips) 
+Seat 4: garoiu1994 ($1.78 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.82 in chips) 
+romyrcon27: posts small blind $0.01
+garoiu1994: posts big blind $0.02
+MeepoBoy: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Qc]
+0Sergunchik: folds 
+den S187: folds 
+Lorpugo: raises $0.04 to $0.06
+romyrcon27: calls $0.05
+garoiu1994: calls $0.04
+*** FLOP *** [Jc 9h 6c]
+romyrcon27: checks 
+garoiu1994: bets $0.02
+Lorpugo: calls $0.02
+romyrcon27: calls $0.02
+*** TURN *** [Jc 9h 6c] [Kd]
+romyrcon27: checks 
+garoiu1994: checks 
+Lorpugo: bets $0.15
+romyrcon27: calls $0.15
+garoiu1994: folds 
+*** RIVER *** [Jc 9h 6c Kd] [Kh]
+romyrcon27: checks 
+Lorpugo: bets $1.51 and is all-in
+romyrcon27: folds 
+Uncalled bet ($1.51) returned to Lorpugo
+Lorpugo collected $0.52 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Jc 9h 6c Kd Kh]
+Seat 2: Lorpugo (button) collected ($0.52)
+Seat 3: romyrcon27 (small blind) folded on the River
+Seat 4: garoiu1994 (big blind) folded on the Turn
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628146180:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:58:31 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: romyrcon27 ($1.02 in chips) 
+Seat 4: garoiu1994 ($1.70 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.82 in chips) 
+garoiu1994: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+MeepoBoy: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 8h]
+den S187: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.02
+garoiu1994: raises $1.68 to $1.70 and is all-in
+0Sergunchik: folds 
+romyrcon27: calls $1 and is all-in
+Uncalled bet ($0.68) returned to garoiu1994
+garoiu1994 has timed out
+*** FLOP *** [5h 9h 6h]
+*** TURN *** [5h 9h 6h] [2h]
+*** RIVER *** [5h 9h 6h 2h] [8d]
+*** SHOW DOWN ***
+garoiu1994: shows [6c 8c] (two pair, Eights and Sixes)
+romyrcon27: shows [3h Qh] (a flush, Queen high)
+romyrcon27 collected $1.99 from pot
+*** SUMMARY ***
+Total pot $2.06 | Rake $0.07 
+Board [5h 9h 6h 2h 8d]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 (button) showed [3h Qh] and won ($1.99) with a flush, Queen high
+Seat 4: garoiu1994 (small blind) showed [6c 8c] and lost with two pair, Eights and Sixes
+Seat 5: 0Sergunchik (big blind) folded before Flop
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628158847:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:59:18 ET
+Table 'Iduna' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: romyrcon27 ($1.99 in chips) 
+Seat 4: garoiu1994 ($0.68 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.82 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+MeepoBoy: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4h]
+Lorpugo: folds 
+garoiu1994 is disconnected 
+romyrcon27: calls $0.02
+garoiu1994 has timed out while disconnected
+garoiu1994: folds 
+0Sergunchik: folds 
+den S187: checks 
+*** FLOP *** [7s Ad 4d]
+den S187: checks 
+romyrcon27: bets $0.20
+den S187: folds 
+Uncalled bet ($0.20) returned to romyrcon27
+romyrcon27 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7s Ad 4d]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 collected ($0.05)
+Seat 4: garoiu1994 (button) folded before Flop (didn't bet)
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239628168822:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:59:55 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: romyrcon27 ($2.02 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.80 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Th]
+Lorpugo: folds 
+romyrcon27: calls $0.02
+0Sergunchik: raises $0.06 to $0.08
+den S187: folds 
+MeepoBoy: folds 
+romyrcon27: calls $0.06
+*** FLOP *** [Jh 5d 8s]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** TURN *** [Jh 5d 8s] [5c]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** RIVER *** [Jh 5d 8s 5c] [As]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** SHOW DOWN ***
+romyrcon27: shows [2d 3h] (a pair of Fives)
+0Sergunchik: shows [Qc 9c] (a pair of Fives - Ace+Queen kicker)
+0Sergunchik collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Jh 5d 8s 5c As]
+Seat 1: MeepoBoy (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 showed [2d 3h] and lost with a pair of Fives
+Seat 5: 0Sergunchik (button) showed [Qc 9c] and won ($0.18) with a pair of Fives
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239628183829:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:00:47 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: romyrcon27 ($1.94 in chips) 
+Seat 5: 0Sergunchik ($2.10 in chips) 
+Seat 6: den S187 ($4.79 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ac]
+romyrcon27: calls $0.02
+0Sergunchik: folds 
+den S187: raises $0.03 to $0.05
+MeepoBoy: folds 
+Lorpugo: calls $0.03
+romyrcon27: calls $0.03
+*** FLOP *** [5d Jd 8h]
+Lorpugo: checks 
+romyrcon27: checks 
+den S187: bets $0.08
+Lorpugo: calls $0.08
+romyrcon27: calls $0.08
+*** TURN *** [5d Jd 8h] [2c]
+Lorpugo: bets $0.26
+romyrcon27: calls $0.26
+den S187: folds 
+*** RIVER *** [5d Jd 8h 2c] [Kh]
+Lorpugo: bets $0.89
+romyrcon27: calls $0.89
+*** SHOW DOWN ***
+Lorpugo: shows [Ah Ac] (a pair of Aces)
+romyrcon27: mucks hand 
+Lorpugo collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.09 
+Board [5d Jd 8h 2c Kh]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Ah Ac] and won ($2.61) with a pair of Aces
+Seat 3: romyrcon27 mucked [Jh 9h]
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 (button) folded on the Turn
+
+
+
+PokerStars Hand #239628208646:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:02:04 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.36 in chips) 
+Seat 3: romyrcon27 ($0.66 in chips) 
+Seat 5: 0Sergunchik ($2.10 in chips) 
+Seat 6: den S187 ($4.66 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ts]
+0Sergunchik: raises $0.04 to $0.06
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.04
+*** FLOP *** [Td 8d Jd]
+romyrcon27: checks 
+0Sergunchik: bets $0.10
+romyrcon27: folds 
+Uncalled bet ($0.10) returned to 0Sergunchik
+0Sergunchik collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td 8d Jd]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: romyrcon27 (big blind) folded on the Flop
+Seat 5: 0Sergunchik collected ($0.13)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628221950:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:02:42 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: romyrcon27 ($0.60 in chips) 
+Seat 5: 0Sergunchik ($2.17 in chips) 
+Seat 6: den S187 ($4.66 in chips) 
+romyrcon27: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9h]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.01
+0Sergunchik: checks 
+*** FLOP *** [3c 8s 3d]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** TURN *** [3c 8s 3d] [As]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** RIVER *** [3c 8s 3d As] [4s]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** SHOW DOWN ***
+romyrcon27: shows [6h Ks] (a pair of Threes)
+0Sergunchik: mucks hand 
+romyrcon27 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3c 8s 3d As 4s]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: romyrcon27 (small blind) showed [6h Ks] and won ($0.04) with a pair of Threes
+Seat 5: 0Sergunchik (big blind) mucked [Ts 6c]
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628239673:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:03:32 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: romyrcon27 ($0.62 in chips) 
+Seat 5: 0Sergunchik ($2.15 in chips) 
+Seat 6: den S187 ($4.66 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2s]
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.02
+0Sergunchik: folds 
+den S187: checks 
+*** FLOP *** [Jh 3h Qs]
+den S187: checks 
+romyrcon27: checks 
+*** TURN *** [Jh 3h Qs] [Td]
+den S187: checks 
+romyrcon27: checks 
+*** RIVER *** [Jh 3h Qs Td] [8h]
+den S187: checks 
+romyrcon27: bets $0.28
+den S187: folds 
+Uncalled bet ($0.28) returned to romyrcon27
+romyrcon27 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh 3h Qs Td 8h]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 (button) collected ($0.05)
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded on the River
+
+
+
+PokerStars Hand #239628756534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:04:18 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: romyrcon27 ($0.65 in chips) 
+Seat 5: 0Sergunchik ($2.14 in chips) 
+Seat 6: den S187 ($4.64 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 5d]
+Lorpugo: raises $0.04 to $0.06
+romyrcon27: calls $0.06
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: folds 
+*** FLOP *** [4h Jc 8d]
+Lorpugo: bets $0.02
+romyrcon27: calls $0.02
+*** TURN *** [4h Jc 8d] [9h]
+Lorpugo: checks 
+romyrcon27: checks 
+*** RIVER *** [4h Jc 8d 9h] [6h]
+Lorpugo: checks 
+romyrcon27: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5s 5d] (a pair of Fives)
+romyrcon27: mucks hand 
+Lorpugo collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4h Jc 8d 9h 6h]
+Seat 1: MeepoBoy (big blind) folded before Flop
+Seat 2: Lorpugo showed [5s 5d] and won ($0.18) with a pair of Fives
+Seat 3: romyrcon27 mucked [4s Ks]
+Seat 5: 0Sergunchik (button) folded before Flop (didn't bet)
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239628770498:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:04:57 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.45 in chips) 
+Seat 3: romyrcon27 ($0.57 in chips) 
+Seat 5: 0Sergunchik ($2.14 in chips) 
+Seat 6: den S187 ($4.63 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Kc]
+romyrcon27: calls $0.02
+0Sergunchik: raises $0.04 to $0.06
+den S187: calls $0.06
+MeepoBoy: folds 
+Lorpugo: calls $0.04
+romyrcon27: calls $0.04
+*** FLOP *** [4d Kh 5c]
+Lorpugo: bets $0.12
+romyrcon27: folds 
+0Sergunchik: calls $0.12
+den S187: folds 
+*** TURN *** [4d Kh 5c] [Jd]
+Lorpugo: bets $3.27 and is all-in
+0Sergunchik: folds 
+Uncalled bet ($3.27) returned to Lorpugo
+Lorpugo collected $0.47 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [4d Kh 5c Jd]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.47)
+Seat 3: romyrcon27 folded on the Flop
+Seat 5: 0Sergunchik folded on the Turn
+Seat 6: den S187 (button) folded on the Flop
+
+
+
+PokerStars Hand #239628789352:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:05:47 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.74 in chips) 
+Seat 3: romyrcon27 ($0.51 in chips) 
+Seat 5: 0Sergunchik ($2 in chips) 
+Seat 6: den S187 ($4.57 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6h]
+0Sergunchik: raises $0.04 to $0.06
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.04
+*** FLOP *** [5d 2h 5c]
+romyrcon27: checks 
+0Sergunchik: bets $0.10
+romyrcon27: folds 
+Uncalled bet ($0.10) returned to 0Sergunchik
+0Sergunchik collected $0.13 from pot
+0Sergunchik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d 2h 5c]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: romyrcon27 (big blind) folded on the Flop
+Seat 5: 0Sergunchik collected ($0.13)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628799806:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:06:15 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.73 in chips) 
+Seat 3: romyrcon27 ($0.45 in chips) 
+Seat 5: 0Sergunchik ($2.07 in chips) 
+Seat 6: den S187 ($4.57 in chips) 
+romyrcon27: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3h]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.01
+0Sergunchik: checks 
+*** FLOP *** [Ah Ad 5c]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** TURN *** [Ah Ad 5c] [Js]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** RIVER *** [Ah Ad 5c Js] [Qd]
+romyrcon27: checks 
+0Sergunchik: checks 
+*** SHOW DOWN ***
+romyrcon27: shows [7c 9d] (a pair of Aces)
+0Sergunchik: shows [3c Ts] (a pair of Aces - Queen+Jack+Ten kicker)
+0Sergunchik collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ah Ad 5c Js Qd]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: romyrcon27 (small blind) showed [7c 9d] and lost with a pair of Aces
+Seat 5: 0Sergunchik (big blind) showed [3c Ts] and won ($0.04) with a pair of Aces
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628814444:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:06:54 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.73 in chips) 
+Seat 3: romyrcon27 ($0.43 in chips) 
+Seat 5: 0Sergunchik ($2.09 in chips) 
+Seat 6: den S187 ($4.57 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 7h]
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.02
+0Sergunchik: folds 
+den S187: raises $0.46 to $0.48
+romyrcon27: folds 
+Uncalled bet ($0.46) returned to den S187
+den S187 collected $0.05 from pot
+den S187: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 (button) folded before Flop
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #239628823556:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:07:18 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.73 in chips) 
+Seat 3: romyrcon27 ($0.41 in chips) 
+Seat 5: 0Sergunchik ($2.08 in chips) 
+Seat 6: den S187 ($4.60 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Js]
+Lorpugo: folds 
+romyrcon27: calls $0.02
+0Sergunchik: folds 
+den S187: calls $0.01
+MeepoBoy: checks 
+*** FLOP *** [4d 6h Kc]
+den S187: checks 
+MeepoBoy: checks 
+romyrcon27: bets $0.10
+den S187: folds 
+MeepoBoy: folds 
+Uncalled bet ($0.10) returned to romyrcon27
+romyrcon27 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4d 6h Kc]
+Seat 1: MeepoBoy (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 collected ($0.06)
+Seat 5: 0Sergunchik (button) folded before Flop (didn't bet)
+Seat 6: den S187 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239628840315:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:08:03 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.73 in chips) 
+Seat 3: romyrcon27 ($0.45 in chips) 
+Seat 5: 0Sergunchik ($2.08 in chips) 
+Seat 6: den S187 ($4.58 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Qh]
+romyrcon27: calls $0.02
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: calls $0.01
+Lorpugo: raises $0.06 to $0.08
+romyrcon27: calls $0.06
+MeepoBoy: calls $0.06
+*** FLOP *** [4s 5h Kh]
+MeepoBoy: checks 
+Lorpugo: checks 
+romyrcon27: bets $0.10
+MeepoBoy: folds 
+Lorpugo: calls $0.10
+*** TURN *** [4s 5h Kh] [4d]
+Lorpugo: checks 
+romyrcon27: bets $0.10
+Lorpugo: calls $0.10
+*** RIVER *** [4s 5h Kh 4d] [Ks]
+Lorpugo: checks 
+romyrcon27: bets $0.17 and is all-in
+Lorpugo: calls $0.17
+*** SHOW DOWN ***
+romyrcon27: shows [Kc Js] (a full house, Kings full of Fours)
+Lorpugo: shows [Qd Qh] (two pair, Kings and Queens)
+romyrcon27 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [4s 5h Kh 4d Ks]
+Seat 1: MeepoBoy (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) showed [Qd Qh] and lost with two pair, Kings and Queens
+Seat 3: romyrcon27 showed [Kc Js] and won ($0.95) with a full house, Kings full of Fours
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628866265:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:09:12 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.28 in chips) 
+Seat 3: romyrcon27 ($0.95 in chips) 
+Seat 5: 0Sergunchik ($2.08 in chips) 
+Seat 6: den S187 ($4.58 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 8c]
+0Sergunchik: folds 
+den S187: raises $0.03 to $0.05
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.03
+*** FLOP *** [9s Kd Ac]
+romyrcon27: checks 
+den S187: checks 
+*** TURN *** [9s Kd Ac] [6c]
+garoiu1994 leaves the table
+romyrcon27: checks 
+den S187: bets $0.02
+romyrcon27: calls $0.02
+*** RIVER *** [9s Kd Ac 6c] [5s]
+romyrcon27: checks 
+den S187: checks 
+*** SHOW DOWN ***
+romyrcon27: shows [3d 3c] (a pair of Threes)
+den S187: shows [5d 8d] (a pair of Fives)
+den S187 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9s Kd Ac 6c 5s]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: romyrcon27 (big blind) showed [3d 3c] and lost with a pair of Threes
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 showed [5d 8d] and won ($0.14) with a pair of Fives
+
+
+
+PokerStars Hand #239628880726:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:09:51 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.27 in chips) 
+Seat 3: romyrcon27 ($0.88 in chips) 
+Seat 5: 0Sergunchik ($2.08 in chips) 
+Seat 6: den S187 ($4.65 in chips) 
+romyrcon27: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4s]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.01
+0Sergunchik: raises $0.06 to $0.08
+romyrcon27: calls $0.06
+*** FLOP *** [6h 8c 9d]
+romyrcon27: checks 
+0Sergunchik: bets $0.12
+romyrcon27: folds 
+Uncalled bet ($0.12) returned to 0Sergunchik
+0Sergunchik collected $0.15 from pot
+0Sergunchik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6h 8c 9d]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: romyrcon27 (small blind) folded on the Flop
+Seat 5: 0Sergunchik (big blind) collected ($0.15)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628891940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:10:20 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.27 in chips) 
+Seat 3: romyrcon27 ($0.80 in chips) 
+Seat 5: 0Sergunchik ($2.15 in chips) 
+Seat 6: den S187 ($4.65 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 3d]
+MeepoBoy: raises $0.04 to $0.06
+Lorpugo: folds 
+romyrcon27: calls $0.06
+0Sergunchik: folds 
+den S187: folds 
+*** FLOP *** [4d As 3c]
+MeepoBoy: bets $0.05
+romyrcon27: raises $0.05 to $0.10
+coritom joins the table at seat #4 
+MeepoBoy: calls $0.05
+*** TURN *** [4d As 3c] [7h]
+MeepoBoy: checks 
+romyrcon27: bets $0.64 and is all-in
+MeepoBoy: calls $0.64
+*** RIVER *** [4d As 3c 7h] [5h]
+*** SHOW DOWN ***
+MeepoBoy: shows [Ah Qh] (a pair of Aces)
+romyrcon27: shows [Ad 3h] (two pair, Aces and Threes)
+romyrcon27 collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [4d As 3c 7h 5h]
+Seat 1: MeepoBoy showed [Ah Qh] and lost with a pair of Aces
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 (button) showed [Ad 3h] and won ($1.57) with two pair, Aces and Threes
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239628916057:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:11:25 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.27 in chips) 
+Seat 3: romyrcon27 ($1.57 in chips) 
+Seat 4: coritom ($1.60 in chips) 
+Seat 5: 0Sergunchik ($2.14 in chips) 
+Seat 6: den S187 ($4.63 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+coritom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ks]
+Lorpugo: folds 
+romyrcon27: calls $0.02
+coritom: checks 
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: checks 
+*** FLOP *** [4d Kd 8s]
+MeepoBoy: checks 
+romyrcon27: bets $0.10
+coritom: calls $0.10
+MeepoBoy: folds 
+*** TURN *** [4d Kd 8s] [5h]
+romyrcon27: checks 
+coritom: bets $0.13
+romyrcon27: calls $0.13
+*** RIVER *** [4d Kd 8s 5h] [3h]
+romyrcon27: checks 
+coritom: bets $0.51
+romyrcon27: calls $0.51
+*** SHOW DOWN ***
+coritom: shows [7c 6c] (a straight, Four to Eight)
+romyrcon27: mucks hand 
+coritom collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [4d Kd 8s 5h 3h]
+Seat 1: MeepoBoy (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: romyrcon27 mucked [7d Kh]
+Seat 4: coritom showed [7c 6c] and won ($1.50) with a straight, Four to Eight
+Seat 5: 0Sergunchik (button) folded before Flop (didn't bet)
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239628936635:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:12:19 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.27 in chips) 
+Seat 3: romyrcon27 ($0.81 in chips) 
+Seat 4: coritom ($2.34 in chips) 
+Seat 5: 0Sergunchik ($2.14 in chips) 
+Seat 6: den S187 ($4.62 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Td]
+romyrcon27: calls $0.02
+coritom: calls $0.02
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: checks 
+*** FLOP *** [2d 2s 4s]
+Lorpugo: bets $0.02
+romyrcon27: folds 
+coritom: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2d 2s 4s]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.07)
+Seat 3: romyrcon27 folded on the Flop
+Seat 4: coritom folded on the Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628948378:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:12:51 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.32 in chips) 
+Seat 3: romyrcon27 ($0.79 in chips) 
+Seat 4: coritom ($2.32 in chips) 
+Seat 5: 0Sergunchik ($2.14 in chips) 
+Seat 6: den S187 ($4.62 in chips) 
+Lorpugo: posts small blind $0.01
+romyrcon27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 2h]
+coritom: calls $0.02
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: checks 
+*** FLOP *** [8s Qc Qs]
+romyrcon27: checks 
+coritom: bets $0.02
+romyrcon27: calls $0.02
+*** TURN *** [8s Qc Qs] [Tc]
+romyrcon27: checks 
+coritom: bets $0.09
+romyrcon27: calls $0.09
+*** RIVER *** [8s Qc Qs Tc] [3d]
+romyrcon27: checks 
+coritom: bets $0.32
+romyrcon27: calls $0.32
+*** SHOW DOWN ***
+coritom: shows [Qd Ad] (three of a kind, Queens)
+romyrcon27: mucks hand 
+coritom collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [8s Qc Qs Tc 3d]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: romyrcon27 (big blind) mucked [Th As]
+Seat 4: coritom showed [Qd Ad] and won ($0.88) with three of a kind, Queens
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628975615:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:14:03 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.31 in chips) 
+Seat 3: romyrcon27 ($0.34 in chips) 
+Seat 4: coritom ($2.75 in chips) 
+Seat 5: 0Sergunchik ($2.14 in chips) 
+Seat 6: den S187 ($4.62 in chips) 
+romyrcon27: posts small blind $0.01
+coritom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Kc]
+0Sergunchik: folds 
+den S187: raises $0.04 to $0.06
+MeepoBoy: folds 
+Lorpugo: folds 
+romyrcon27: calls $0.05
+coritom: calls $0.04
+*** FLOP *** [3d 2c Qc]
+romyrcon27: bets $0.28 and is all-in
+coritom: folds 
+den S187: calls $0.28
+*** TURN *** [3d 2c Qc] [5h]
+*** RIVER *** [3d 2c Qc 5h] [7c]
+*** SHOW DOWN ***
+romyrcon27: shows [Th 9c] (high card Queen)
+den S187: shows [Ks Qh] (a pair of Queens)
+den S187 cashed out the hand for $0.63 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [3d 2c Qc 5h 7c]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: romyrcon27 (small blind) showed [Th 9c] and lost with high card Queen
+Seat 4: coritom (big blind) folded on the Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 showed [Ks Qh] and won ($0.71) with a pair of Queens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #239628995953:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:14:57 ET
+Table 'Iduna' 6-max Seat #4 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.31 in chips) 
+Seat 4: coritom ($2.69 in chips) 
+Seat 5: 0Sergunchik ($2.14 in chips) 
+Seat 6: den S187 ($4.91 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh As]
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+coritom: calls $0.06
+0Sergunchik: folds 
+den S187: folds 
+*** FLOP *** [8d Tc 5h]
+romyrcon27 leaves the table
+rosbel_poker joins the table at seat #3 
+Lorpugo: checks 
+coritom: checks 
+*** TURN *** [8d Tc 5h] [7h]
+Lorpugo: checks 
+coritom: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to coritom
+coritom collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8d Tc 5h 7h]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded on the Turn
+Seat 4: coritom (button) collected ($0.14)
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239629018203:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:15:54 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.25 in chips) 
+Seat 4: coritom ($2.77 in chips) 
+Seat 5: 0Sergunchik ($2.13 in chips) 
+Seat 6: den S187 ($4.89 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+rosbel_poker: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4h]
+Lorpugo: folds 
+coritom: calls $0.02
+0Sergunchik: raises $0.06 to $0.08
+den S187: folds 
+MeepoBoy: folds 
+coritom: calls $0.06
+*** FLOP *** [5h 2s Qc]
+coritom: checks 
+0Sergunchik: bets $0.06
+coritom: folds 
+Uncalled bet ($0.06) returned to 0Sergunchik
+0Sergunchik collected $0.18 from pot
+0Sergunchik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 2s Qc]
+Seat 1: MeepoBoy (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: coritom folded on the Flop
+Seat 5: 0Sergunchik (button) collected ($0.18)
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239629030356:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:16:26 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.25 in chips) 
+Seat 4: coritom ($2.69 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.88 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+rosbel_poker: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8s]
+coritom: calls $0.02
+0Sergunchik: folds 
+den S187: raises $0.05 to $0.07
+MeepoBoy: folds 
+Lorpugo: folds 
+coritom: calls $0.05
+*** FLOP *** [Qd 2h 4d]
+coritom: checks 
+den S187: bets $0.08
+coritom: folds 
+Uncalled bet ($0.08) returned to den S187
+den S187 collected $0.16 from pot
+den S187: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd 2h 4d]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: coritom folded on the Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 (button) collected ($0.16)
+
+
+
+PokerStars Hand #239629038725:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:16:48 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2 in chips) 
+Seat 2: Lorpugo ($3.23 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.62 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+Lorpugo: posts small blind $0.01
+rosbel_poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qd]
+coritom: folds 
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: raises $0.03 to $0.05
+Lorpugo: folds 
+rosbel_poker: folds 
+Uncalled bet ($0.03) returned to MeepoBoy
+MeepoBoy collected $0.05 from pot
+MeepoBoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeepoBoy (button) collected ($0.05)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: rosbel_poker (big blind) folded before Flop
+Seat 4: coritom folded before Flop (didn't bet)
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629043837:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:17:02 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2.03 in chips) 
+Seat 2: Lorpugo ($3.22 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.62 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+rosbel_poker: posts small blind $0.01
+coritom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 8d]
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+rosbel_poker: folds 
+coritom: calls $0.04
+*** FLOP *** [8s Ac 6c]
+coritom: checks 
+Lorpugo: bets $0.04
+coritom: calls $0.04
+*** TURN *** [8s Ac 6c] [Th]
+coritom: checks 
+Lorpugo: bets $0.10
+coritom: calls $0.10
+*** RIVER *** [8s Ac 6c Th] [8c]
+coritom: checks 
+Lorpugo: bets $3.02 and is all-in
+coritom: folds 
+Uncalled bet ($3.02) returned to Lorpugo
+Lorpugo collected $0.40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [8s Ac 6c Th 8c]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.40)
+Seat 3: rosbel_poker (small blind) folded before Flop
+Seat 4: coritom (big blind) folded on the River
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629059810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:17:44 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2.03 in chips) 
+Seat 2: Lorpugo ($3.42 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.42 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+coritom: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2c]
+den S187: folds 
+MeepoBoy: folds 
+Lorpugo: folds 
+rosbel_poker: folds 
+coritom: folds 
+Uncalled bet ($0.01) returned to 0Sergunchik
+0Sergunchik collected $0.02 from pot
+0Sergunchik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: rosbel_poker (button) folded before Flop (didn't bet)
+Seat 4: coritom (small blind) folded before Flop
+Seat 5: 0Sergunchik (big blind) collected ($0.02)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629064852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:17:57 ET
+Table 'Iduna' 6-max Seat #4 is the button
+Seat 1: MeepoBoy ($2.03 in chips) 
+Seat 2: Lorpugo ($3.42 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.41 in chips) 
+Seat 5: 0Sergunchik ($2.24 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 2c]
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+rosbel_poker: folds 
+coritom: calls $0.06
+0Sergunchik: folds 
+den S187: folds 
+*** FLOP *** [Js 2s 4d]
+Lorpugo: bets $0.07
+coritom: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Js 2s 4d]
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.14)
+Seat 3: rosbel_poker folded before Flop (didn't bet)
+Seat 4: coritom (button) folded on the Flop
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239629073782:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:18:21 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2.03 in chips) 
+Seat 2: Lorpugo ($3.50 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.35 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.95 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 2h]
+Lorpugo: raises $0.02 to $0.04
+rosbel_poker: folds 
+coritom: calls $0.04
+0Sergunchik: folds 
+den S187: folds 
+MeepoBoy: raises $0.20 to $0.24
+Lorpugo: folds 
+coritom: folds 
+Uncalled bet ($0.20) returned to MeepoBoy
+MeepoBoy collected $0.13 from pot
+MeepoBoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: MeepoBoy (big blind) collected ($0.13)
+Seat 2: Lorpugo folded before Flop
+Seat 3: rosbel_poker folded before Flop (didn't bet)
+Seat 4: coritom folded before Flop
+Seat 5: 0Sergunchik (button) folded before Flop (didn't bet)
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239629082390:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:18:44 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2.12 in chips) 
+Seat 2: Lorpugo ($3.46 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.31 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.94 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9d]
+rosbel_poker: folds 
+coritom: calls $0.02
+0Sergunchik: folds 
+den S187: raises $0.05 to $0.07
+MeepoBoy: folds 
+Lorpugo: calls $0.05
+coritom: calls $0.05
+*** FLOP *** [Td Ac Ts]
+Lorpugo: checks 
+coritom: checks 
+den S187: bets $0.07
+Lorpugo: calls $0.07
+coritom: folds 
+*** TURN *** [Td Ac Ts] [Jh]
+Lorpugo: checks 
+den S187: checks 
+*** RIVER *** [Td Ac Ts Jh] [6h]
+Lorpugo: checks 
+den S187: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ah 9d] (two pair, Aces and Tens)
+den S187: shows [6d Ad] (two pair, Aces and Tens)
+Lorpugo collected $0.18 from pot
+den S187 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Td Ac Ts Jh 6h]
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Ah 9d] and won ($0.18) with two pair, Aces and Tens
+Seat 3: rosbel_poker folded before Flop (didn't bet)
+Seat 4: coritom folded on the Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 (button) showed [6d Ad] and won ($0.17) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #239629103481:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:19:39 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2.11 in chips) 
+Seat 2: Lorpugo ($3.50 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.24 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+Lorpugo: posts small blind $0.01
+rosbel_poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 6c]
+coritom: calls $0.02
+0Sergunchik: folds 
+den S187: folds 
+den S187 leaves the table
+den S187 joins the table at seat #6 
+MeepoBoy: folds 
+Lorpugo: calls $0.01
+rosbel_poker: checks 
+*** FLOP *** [4c 5h 8c]
+Lorpugo: bets $0.04
+rosbel_poker: folds 
+coritom: calls $0.04
+*** TURN *** [4c 5h 8c] [4d]
+Lorpugo: bets $0.09
+coritom: calls $0.09
+*** RIVER *** [4c 5h 8c 4d] [Qs]
+Lorpugo: bets $0.44
+coritom: folds 
+Uncalled bet ($0.44) returned to Lorpugo
+Lorpugo collected $0.31 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [4c 5h 8c 4d Qs]
+Seat 1: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.31)
+Seat 3: rosbel_poker (big blind) folded on the Flop
+Seat 4: coritom folded on the River
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629120393:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:20:23 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2.11 in chips) 
+Seat 2: Lorpugo ($3.66 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 4: coritom ($2.09 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+rosbel_poker: posts small blind $0.01
+coritom: posts big blind $0.02
+den S187: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ac]
+0Sergunchik: folds 
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+rosbel_poker: folds 
+coritom has timed out
+coritom: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: rosbel_poker (small blind) folded before Flop
+Seat 4: coritom (big blind) folded before Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629142622:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:21:21 ET
+Table 'Iduna' 6-max Seat #3 is the button
+Seat 1: MeepoBoy ($2.11 in chips) 
+Seat 2: Lorpugo ($3.69 in chips) 
+Seat 3: rosbel_poker ($2 in chips) 
+Seat 5: 0Sergunchik ($2.23 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 3h]
+coritom is disconnected 
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+rosbel_poker has timed out
+rosbel_poker: folds 
+0Sergunchik: raises $0.16 to $0.22
+den S187: folds 
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to 0Sergunchik
+0Sergunchik collected $0.14 from pot
+0Sergunchik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop
+Seat 3: rosbel_poker (button) folded before Flop (didn't bet)
+Seat 5: 0Sergunchik (small blind) collected ($0.14)
+Seat 6: den S187 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239629155052:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:21:54 ET
+Table 'Iduna' 6-max Seat #5 is the button
+Seat 1: MeepoBoy ($2.11 in chips) 
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 5: 0Sergunchik ($2.31 in chips) 
+Seat 6: den S187 ($4.95 in chips) 
+den S187: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 7c]
+Lorpugo: folds 
+0Sergunchik: raises $0.04 to $0.06
+den S187: folds 
+MeepoBoy: folds 
+Uncalled bet ($0.04) returned to 0Sergunchik
+0Sergunchik collected $0.05 from pot
+0Sergunchik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeepoBoy (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 5: 0Sergunchik (button) collected ($0.05)
+Seat 6: den S187 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239629160288:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:22:08 ET
+Table 'Iduna' 6-max Seat #6 is the button
+Seat 1: MeepoBoy ($2.09 in chips) 
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 5: 0Sergunchik ($2.34 in chips) 
+Seat 6: den S187 ($4.94 in chips) 
+MeepoBoy: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 8s]
+0Sergunchik: folds 
+den S187: raises $0.03 to $0.05
+MeepoBoy: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to den S187
+den S187 collected $0.05 from pot
+den S187: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeepoBoy (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 5: 0Sergunchik folded before Flop (didn't bet)
+Seat 6: den S187 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239629165155:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:22:20 ET
+Table 'Iduna' 6-max Seat #1 is the button
+Seat 1: MeepoBoy ($2.08 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 5: 0Sergunchik ($2.34 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+Lorpugo: posts small blind $0.01
+0Sergunchik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Qs]
+den S187: folds 
+MeepoBoy: raises $0.03 to $0.05
+Lorpugo: folds 
+0Sergunchik: calls $0.03
+*** FLOP *** [3d Js 6d]
+coritom leaves the table
+0Sergunchik: checks 
+MeepoBoy: bets $0.04
+0Sergunchik: calls $0.04
+*** TURN *** [3d Js 6d] [9d]
+0Sergunchik: checks 
+elaczino95 joins the table at seat #4 
+MeepoBoy: bets $0.14
+0Sergunchik: folds 
+Uncalled bet ($0.14) returned to MeepoBoy
+MeepoBoy collected $0.18 from pot
+MeepoBoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3d Js 6d 9d]
+Seat 1: MeepoBoy (button) collected ($0.18)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 5: 0Sergunchik (big blind) folded on the Turn
+Seat 6: den S187 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629182124:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:23:05 ET
+Table 'Iduna' 6-max Seat #2 is the button
+Seat 1: MeepoBoy ($2.17 in chips) 
+Seat 2: Lorpugo ($3.60 in chips) 
+Seat 5: 0Sergunchik ($2.25 in chips) 
+Seat 6: den S187 ($4.97 in chips) 
+0Sergunchik: posts small blind $0.01
+den S187: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 6c]
+MeepoBoy is disconnected 
+MeepoBoy has timed out while being disconnected
+MeepoBoy: folds 
+Lorpugo: raises $0.04 to $0.06
+0Sergunchik: folds 
+den S187: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeepoBoy folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 5: 0Sergunchik (small blind) folded before Flop
+Seat 6: den S187 (big blind) folded before Flop
+
+
+

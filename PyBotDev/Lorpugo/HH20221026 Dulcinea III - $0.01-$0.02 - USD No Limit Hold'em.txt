@@ -1,0 +1,1402 @@
+﻿PokerStars Hand #239468340638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:46:01 ET
+Table 'Dulcinea III' 6-max Seat #3 is the button
+Seat 1: Hanswurst2014 ($2.20 in chips) 
+Seat 2: EyzRED ($2.05 in chips) 
+Seat 3: gfbicocchi_ ($3.07 in chips) 
+Seat 5: JugglingDuck ($2.78 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+JugglingDuck: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8c]
+Hanswurst2014: raises $0.04 to $0.06
+EyzRED: folds 
+gfbicocchi_: folds 
+JugglingDuck: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [9c 4h Td]
+JugglingDuck: checks 
+Hanswurst2014: bets $0.07
+JugglingDuck: folds 
+Uncalled bet ($0.07) returned to Hanswurst2014
+Hanswurst2014 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9c 4h Td]
+Seat 1: Hanswurst2014 collected ($0.14)
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: gfbicocchi_ (button) folded before Flop (didn't bet)
+Seat 5: JugglingDuck (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239468352679:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:46:33 ET
+Table 'Dulcinea III' 6-max Seat #5 is the button
+Seat 1: Hanswurst2014 ($2.28 in chips) 
+Seat 2: EyzRED ($2.05 in chips) 
+Seat 3: gfbicocchi_ ($3.07 in chips) 
+Seat 5: JugglingDuck ($2.72 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Hanswurst2014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ah]
+EyzRED: folds 
+gfbicocchi_: folds 
+orozcovegam joins the table at seat #4 
+JugglingDuck: raises $0.02 to $0.04
+Lorpugo: raises $0.10 to $0.14
+Hanswurst2014: calls $0.12
+JugglingDuck: folds 
+*** FLOP *** [Ts 7s 3h]
+Lorpugo: bets $0.10
+Hanswurst2014: raises $0.26 to $0.36
+Lorpugo: calls $0.26
+*** TURN *** [Ts 7s 3h] [9h]
+Lorpugo: checks 
+Hanswurst2014: checks 
+*** RIVER *** [Ts 7s 3h 9h] [9s]
+Lorpugo: bets $1.10 and is all-in
+Hanswurst2014: calls $1.10
+*** SHOW DOWN ***
+Lorpugo: shows [8s Ah] (a pair of Nines)
+Hanswurst2014: shows [As Th] (two pair, Tens and Nines)
+Hanswurst2014 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.24 | Rake $0.14 
+Board [Ts 7s 3h 9h 9s]
+Seat 1: Hanswurst2014 (big blind) showed [As Th] and won ($3.10) with two pair, Tens and Nines
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: gfbicocchi_ folded before Flop (didn't bet)
+Seat 5: JugglingDuck (button) folded before Flop
+Seat 6: Lorpugo (small blind) showed [8s Ah] and lost with a pair of Nines
+
+
+
+PokerStars Hand #239468375761:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:47:35 ET
+Table 'Dulcinea III' 6-max Seat #6 is the button
+Seat 1: Hanswurst2014 ($3.78 in chips) 
+Seat 2: EyzRED ($2.05 in chips) 
+Seat 3: gfbicocchi_ ($3.07 in chips) 
+Seat 5: JugglingDuck ($2.68 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Hanswurst2014: posts small blind $0.01
+EyzRED: posts big blind $0.02
+orozcovegam: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3d]
+gfbicocchi_ has timed out
+gfbicocchi_: folds 
+JugglingDuck: calls $0.02
+Lorpugo: folds 
+Hanswurst2014: calls $0.01
+EyzRED: checks 
+*** FLOP *** [9c 7s 6s]
+Hanswurst2014: checks 
+EyzRED: checks 
+JugglingDuck: checks 
+*** TURN *** [9c 7s 6s] [Jh]
+Hanswurst2014: checks 
+EyzRED: checks 
+JugglingDuck: checks 
+*** RIVER *** [9c 7s 6s Jh] [2s]
+Hanswurst2014: checks 
+EyzRED: checks 
+JugglingDuck: checks 
+*** SHOW DOWN ***
+Hanswurst2014: shows [7d Kd] (a pair of Sevens)
+EyzRED: shows [As 7c] (a pair of Sevens - Ace kicker)
+JugglingDuck: mucks hand 
+EyzRED collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9c 7s 6s Jh 2s]
+Seat 1: Hanswurst2014 (small blind) showed [7d Kd] and lost with a pair of Sevens
+Seat 2: EyzRED (big blind) showed [As 7c] and won ($0.06) with a pair of Sevens
+Seat 3: gfbicocchi_ folded before Flop (didn't bet)
+Seat 5: JugglingDuck mucked [Qc 3c]
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468394044:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:48:23 ET
+Table 'Dulcinea III' 6-max Seat #1 is the button
+Seat 1: Hanswurst2014 ($3.76 in chips) 
+Seat 2: EyzRED ($2.09 in chips) 
+Seat 3: gfbicocchi_ ($3.07 in chips) 
+Seat 5: JugglingDuck ($2.66 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+EyzRED: posts small blind $0.01
+gfbicocchi_: posts big blind $0.02
+orozcovegam: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7d]
+JugglingDuck: calls $0.02
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: folds 
+gfbicocchi_: checks 
+*** FLOP *** [9s Kc 2h]
+gfbicocchi_: checks 
+JugglingDuck: bets $0.02
+gfbicocchi_: folds 
+Uncalled bet ($0.02) returned to JugglingDuck
+JugglingDuck collected $0.05 from pot
+JugglingDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s Kc 2h]
+Seat 1: Hanswurst2014 (button) folded before Flop (didn't bet)
+Seat 2: EyzRED (small blind) folded before Flop
+Seat 3: gfbicocchi_ (big blind) folded on the Flop
+Seat 5: JugglingDuck collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468407529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:48:59 ET
+Table 'Dulcinea III' 6-max Seat #2 is the button
+Seat 1: Hanswurst2014 ($3.76 in chips) 
+Seat 2: EyzRED ($2.08 in chips) 
+Seat 3: gfbicocchi_ ($3.05 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: JugglingDuck ($2.69 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+gfbicocchi_: posts small blind $0.01
+orozcovegam: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qs]
+JugglingDuck: folds 
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED has timed out
+EyzRED: folds 
+gfbicocchi_: raises $0.03 to $0.05
+orozcovegam: folds 
+Uncalled bet ($0.03) returned to gfbicocchi_
+gfbicocchi_ collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED (button) folded before Flop (didn't bet)
+Seat 3: gfbicocchi_ (small blind) collected ($0.04)
+Seat 4: orozcovegam (big blind) folded before Flop
+Seat 5: JugglingDuck folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468420229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:49:33 ET
+Table 'Dulcinea III' 6-max Seat #3 is the button
+Seat 1: Hanswurst2014 ($3.76 in chips) 
+Seat 3: gfbicocchi_ ($3.07 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: JugglingDuck ($2.69 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+orozcovegam: posts small blind $0.01
+JugglingDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 9h]
+Lorpugo: raises $0.04 to $0.06
+Hanswurst2014: calls $0.06
+gfbicocchi_: folds 
+orozcovegam: folds 
+JugglingDuck: folds 
+*** FLOP *** [Th 5h Jh]
+Lorpugo: bets $0.05
+Hanswurst2014: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Th 5h Jh]
+Seat 1: Hanswurst2014 folded on the Flop
+Seat 3: gfbicocchi_ (button) folded before Flop (didn't bet)
+Seat 4: orozcovegam (small blind) folded before Flop
+Seat 5: JugglingDuck (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.14)
+
+
+
+PokerStars Hand #239468448855:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:50:48 ET
+Table 'Dulcinea III' 6-max Seat #4 is the button
+Seat 1: Hanswurst2014 ($3.70 in chips) 
+Seat 2: EyzRED ($2.08 in chips) 
+Seat 3: gfbicocchi_ ($3.07 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: JugglingDuck ($2.67 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+JugglingDuck: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 8h]
+Hanswurst2014: folds 
+EyzRED: folds 
+gfbicocchi_: folds 
+orozcovegam: folds 
+JugglingDuck: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+JugglingDuck: calls $0.08
+*** FLOP *** [5h 4h Kh]
+JugglingDuck: bets $0.19
+Lorpugo: calls $0.19
+*** TURN *** [5h 4h Kh] [2d]
+JugglingDuck: bets $0.10
+Lorpugo: raises $0.44 to $0.54
+JugglingDuck: calls $0.44
+*** RIVER *** [5h 4h Kh 2d] [2h]
+JugglingDuck: bets $1.84 and is all-in
+gfbicocchi_ leaves the table
+Lorpugo: calls $0.85 and is all-in
+Uncalled bet ($0.99) returned to JugglingDuck
+*** SHOW DOWN ***
+JugglingDuck: shows [6s Qh] (a flush, King high)
+Lorpugo: shows [Kc 8h] (a flush, King high - lower cards)
+JugglingDuck collected $3.24 from pot
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.12 
+Board [5h 4h Kh 2d 2h]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: gfbicocchi_ folded before Flop (didn't bet)
+Seat 4: orozcovegam (button) folded before Flop (didn't bet)
+Seat 5: JugglingDuck (small blind) showed [6s Qh] and won ($3.24) with a flush, King high
+Seat 6: Lorpugo (big blind) showed [Kc 8h] and lost with a flush, King high
+
+
+
+PokerStars Hand #239468479955:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:52:11 ET
+Table 'Dulcinea III' 6-max Seat #5 is the button
+Seat 1: Hanswurst2014 ($3.70 in chips) 
+Seat 2: EyzRED ($2.08 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: JugglingDuck ($4.23 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Hanswurst2014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kh]
+EyzRED: raises $0.03 to $0.05
+orozcovegam: folds 
+JugglingDuck: calls $0.05
+phiq888 joins the table at seat #3 
+Lorpugo: raises $0.17 to $0.22
+Hanswurst2014: calls $0.20
+EyzRED: calls $0.17
+JugglingDuck: folds 
+*** FLOP *** [2s 3h Qc]
+Lorpugo: bets $0.46
+Hanswurst2014: raises $3.02 to $3.48 and is all-in
+EyzRED: folds 
+Lorpugo: folds 
+Uncalled bet ($3.02) returned to Hanswurst2014
+Hanswurst2014 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.08 
+Board [2s 3h Qc]
+Seat 1: Hanswurst2014 (big blind) collected ($1.55)
+Seat 2: EyzRED folded on the Flop
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: JugglingDuck (button) folded before Flop
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239468492592:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:52:44 ET
+Table 'Dulcinea III' 6-max Seat #6 is the button
+Seat 1: Hanswurst2014 ($4.57 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: JugglingDuck ($4.18 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Hanswurst2014: posts small blind $0.01
+EyzRED: posts big blind $0.02
+phiq888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Qd]
+phiq888: checks 
+orozcovegam: folds 
+JugglingDuck: folds 
+Lorpugo: raises $0.07 to $0.09
+Hanswurst2014: folds 
+EyzRED: folds 
+phiq888: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Hanswurst2014 (small blind) folded before Flop
+Seat 2: EyzRED (big blind) folded before Flop
+Seat 3: phiq888 folded before Flop (didn't bet)
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: JugglingDuck folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.07)
+
+
+
+PokerStars Hand #239468501461:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:53:07 ET
+Table 'Dulcinea III' 6-max Seat #1 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($1.98 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: JugglingDuck ($4.18 in chips) 
+Seat 6: Lorpugo ($1.65 in chips) 
+EyzRED: posts small blind $0.01
+phiq888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Tc]
+orozcovegam: folds 
+JugglingDuck: folds 
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: folds 
+Uncalled bet ($0.01) returned to phiq888
+phiq888 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Hanswurst2014 (button) folded before Flop (didn't bet)
+Seat 2: EyzRED (small blind) folded before Flop
+Seat 3: phiq888 (big blind) collected ($0.02)
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: JugglingDuck folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468508197:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:53:25 ET
+Table 'Dulcinea III' 6-max Seat #2 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($1.99 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: JugglingDuck ($4.18 in chips) 
+Seat 6: Lorpugo ($1.65 in chips) 
+phiq888: posts small blind $0.01
+orozcovegam: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 2h]
+JugglingDuck: raises $0.02 to $0.04
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: folds 
+phiq888: calls $0.03
+orozcovegam: raises $0.26 to $0.30
+JugglingDuck: folds 
+phiq888: folds 
+Uncalled bet ($0.26) returned to orozcovegam
+orozcovegam collected $0.12 from pot
+orozcovegam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED (button) folded before Flop (didn't bet)
+Seat 3: phiq888 (small blind) folded before Flop
+Seat 4: orozcovegam (big blind) collected ($0.12)
+Seat 5: JugglingDuck folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468524469:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:54:09 ET
+Table 'Dulcinea III' 6-max Seat #3 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($1.95 in chips) 
+Seat 4: orozcovegam ($2.08 in chips) 
+Seat 5: JugglingDuck ($4.14 in chips) 
+Seat 6: Lorpugo ($1.65 in chips) 
+orozcovegam: posts small blind $0.01
+JugglingDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 3s]
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: folds 
+phiq888: folds 
+orozcovegam: raises $0.04 to $0.06
+JugglingDuck: calls $0.04
+*** FLOP *** [8c 8s 6c]
+orozcovegam: bets $0.06
+JugglingDuck: folds 
+Uncalled bet ($0.06) returned to orozcovegam
+orozcovegam collected $0.12 from pot
+orozcovegam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8c 8s 6c]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: phiq888 (button) folded before Flop (didn't bet)
+Seat 4: orozcovegam (small blind) collected ($0.12)
+Seat 5: JugglingDuck (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468535036:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:54:37 ET
+Table 'Dulcinea III' 6-max Seat #4 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($1.95 in chips) 
+Seat 4: orozcovegam ($2.14 in chips) 
+Seat 5: JugglingDuck ($4.08 in chips) 
+Seat 6: Lorpugo ($1.65 in chips) 
+JugglingDuck: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 4c]
+Hanswurst2014: folds 
+EyzRED: folds 
+phiq888: calls $0.02
+orozcovegam: folds 
+JugglingDuck: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Td Jc As]
+JugglingDuck: checks 
+Lorpugo: checks 
+phiq888: bets $0.04
+JugglingDuck: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to phiq888
+phiq888 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Td Jc As]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: phiq888 collected ($0.06)
+Seat 4: orozcovegam (button) folded before Flop (didn't bet)
+Seat 5: JugglingDuck (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239468545503:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:55:05 ET
+Table 'Dulcinea III' 6-max Seat #5 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($1.99 in chips) 
+Seat 4: orozcovegam ($2.14 in chips) 
+Seat 5: JugglingDuck ($4.06 in chips) 
+Seat 6: Lorpugo ($1.63 in chips) 
+Lorpugo: posts small blind $0.01
+Hanswurst2014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+EyzRED: folds 
+phiq888: calls $0.02
+orozcovegam: raises $0.06 to $0.08
+JugglingDuck: folds 
+JugglingDuck leaves the table
+Lorpugo: folds 
+Hanswurst2014: folds 
+phiq888: folds 
+Uncalled bet ($0.06) returned to orozcovegam
+orozcovegam collected $0.07 from pot
+orozcovegam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Hanswurst2014 (big blind) folded before Flop
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: phiq888 folded before Flop
+Seat 4: orozcovegam collected ($0.07)
+Seat 5: JugglingDuck (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239468550892:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:55:22 ET
+Table 'Dulcinea III' 6-max Seat #6 is the button
+Seat 1: Hanswurst2014 ($4.54 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($1.97 in chips) 
+Seat 4: orozcovegam ($2.19 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+Hanswurst2014: posts small blind $0.01
+EyzRED: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3s]
+phiq888: calls $0.02
+orozcovegam: raises $0.06 to $0.08
+Lorpugo: folds 
+Hanswurst2014: calls $0.07
+EyzRED: folds 
+phiq888: calls $0.06
+*** FLOP *** [Kc Qs 9s]
+Hanswurst2014: checks 
+phiq888: checks 
+orozcovegam: checks 
+*** TURN *** [Kc Qs 9s] [8s]
+zohan_dp joins the table at seat #5 
+Hanswurst2014: checks 
+phiq888: checks 
+orozcovegam: checks 
+*** RIVER *** [Kc Qs 9s 8s] [9d]
+Hanswurst2014: checks 
+phiq888: bets $0.12
+orozcovegam: folds 
+Hanswurst2014: folds 
+Uncalled bet ($0.12) returned to phiq888
+phiq888 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Kc Qs 9s 8s 9d]
+Seat 1: Hanswurst2014 (small blind) folded on the River
+Seat 2: EyzRED (big blind) folded before Flop
+Seat 3: phiq888 collected ($0.25)
+Seat 4: orozcovegam folded on the River
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468563772:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:56:08 ET
+Table 'Dulcinea III' 6-max Seat #1 is the button
+Seat 1: Hanswurst2014 ($4.46 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.14 in chips) 
+Seat 4: orozcovegam ($2.11 in chips) 
+Seat 5: zohan_dp ($1.60 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+EyzRED: posts small blind $0.01
+phiq888: posts big blind $0.02
+zohan_dp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5d]
+orozcovegam: folds 
+zohan_dp: checks 
+Lorpugo: raises $0.04 to $0.06
+Hanswurst2014: calls $0.06
+EyzRED: folds 
+phiq888: folds 
+zohan_dp: folds 
+*** FLOP *** [8h 2h Jd]
+Lorpugo: checks 
+Hanswurst2014: bets $0.08
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Hanswurst2014
+Hanswurst2014 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8h 2h Jd]
+Seat 1: Hanswurst2014 (button) collected ($0.16)
+Seat 2: EyzRED (small blind) folded before Flop
+Seat 3: phiq888 (big blind) folded before Flop
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #239468574500:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:56:47 ET
+Table 'Dulcinea III' 6-max Seat #2 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.12 in chips) 
+Seat 4: orozcovegam ($2.11 in chips) 
+Seat 5: zohan_dp ($1.58 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+phiq888: posts small blind $0.01
+orozcovegam: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Th]
+zohan_dp: folds 
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: raises $0.03 to $0.05
+phiq888: calls $0.04
+orozcovegam: folds 
+*** FLOP *** [Qh 4c Ad]
+phiq888: bets $0.04
+EyzRED: calls $0.04
+*** TURN *** [Qh 4c Ad] [9d]
+phiq888: bets $0.04
+EyzRED: calls $0.04
+*** RIVER *** [Qh 4c Ad 9d] [As]
+phiq888: bets $0.32
+EyzRED: folds 
+Uncalled bet ($0.32) returned to phiq888
+phiq888 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Qh 4c Ad 9d As]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED (button) folded on the River
+Seat 3: phiq888 (small blind) collected ($0.27)
+Seat 4: orozcovegam (big blind) folded before Flop
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468588712:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:57:37 ET
+Table 'Dulcinea III' 6-max Seat #3 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.26 in chips) 
+Seat 4: orozcovegam ($2.09 in chips) 
+Seat 5: zohan_dp ($1.58 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+orozcovegam: posts small blind $0.01
+zohan_dp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 7s]
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: raises $0.03 to $0.05
+phiq888: folds 
+orozcovegam: folds 
+zohan_dp: calls $0.03
+*** FLOP *** [8h 4h 7h]
+zohan_dp: checks 
+EyzRED: checks 
+*** TURN *** [8h 4h 7h] [6s]
+zohan_dp: bets $0.04
+EyzRED: folds 
+Uncalled bet ($0.04) returned to zohan_dp
+zohan_dp collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8h 4h 7h 6s]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED folded on the Turn
+Seat 3: phiq888 (button) folded before Flop (didn't bet)
+Seat 4: orozcovegam (small blind) folded before Flop
+Seat 5: zohan_dp (big blind) collected ($0.11)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468596838:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:58:06 ET
+Table 'Dulcinea III' 6-max Seat #4 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.26 in chips) 
+Seat 4: orozcovegam ($2.08 in chips) 
+Seat 5: zohan_dp ($1.64 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+zohan_dp: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4h]
+Hanswurst2014: folds 
+EyzRED: folds 
+phiq888: calls $0.02
+orozcovegam: folds 
+zohan_dp: raises $0.06 to $0.08
+Lorpugo: folds 
+phiq888: calls $0.06
+*** FLOP *** [8h 3h 2d]
+zohan_dp: checks 
+phiq888: checks 
+*** TURN *** [8h 3h 2d] [9s]
+zohan_dp: bets $0.06
+phiq888: folds 
+Uncalled bet ($0.06) returned to zohan_dp
+zohan_dp collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [8h 3h 2d 9s]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: phiq888 folded on the Turn
+Seat 4: orozcovegam (button) folded before Flop (didn't bet)
+Seat 5: zohan_dp (small blind) collected ($0.17)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239468608539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:58:48 ET
+Table 'Dulcinea III' 6-max Seat #5 is the button
+Seat 1: Hanswurst2014 ($4.56 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.18 in chips) 
+Seat 4: orozcovegam ($2.08 in chips) 
+Seat 5: zohan_dp ($1.73 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Hanswurst2014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 9d]
+EyzRED: folds 
+phiq888: calls $0.02
+orozcovegam: folds 
+zohan_dp: raises $0.02 to $0.04
+Lorpugo: folds 
+Hanswurst2014: calls $0.02
+phiq888: calls $0.02
+*** FLOP *** [9s 5d As]
+Hanswurst2014: checks 
+phiq888: checks 
+zohan_dp: checks 
+*** TURN *** [9s 5d As] [2h]
+Hanswurst2014: bets $0.07
+phiq888: folds 
+zohan_dp: calls $0.07
+*** RIVER *** [9s 5d As 2h] [7h]
+Hanswurst2014: checks 
+zohan_dp: checks 
+*** SHOW DOWN ***
+Hanswurst2014: shows [6h 5h] (a pair of Fives)
+zohan_dp: shows [7d 6c] (a pair of Sevens)
+zohan_dp collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [9s 5d As 2h 7h]
+Seat 1: Hanswurst2014 (big blind) showed [6h 5h] and lost with a pair of Fives
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: phiq888 folded on the Turn
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: zohan_dp (button) showed [7d 6c] and won ($0.26) with a pair of Sevens
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239468621069:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:59:32 ET
+Table 'Dulcinea III' 6-max Seat #6 is the button
+Seat 1: Hanswurst2014 ($4.45 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.14 in chips) 
+Seat 4: orozcovegam ($2.08 in chips) 
+Seat 5: zohan_dp ($1.88 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Hanswurst2014: posts small blind $0.01
+EyzRED: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Th]
+phiq888: calls $0.02
+orozcovegam: raises $0.06 to $0.08
+zohan_dp: folds 
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: folds 
+phiq888: folds 
+Uncalled bet ($0.06) returned to orozcovegam
+orozcovegam collected $0.07 from pot
+orozcovegam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Hanswurst2014 (small blind) folded before Flop
+Seat 2: EyzRED (big blind) folded before Flop
+Seat 3: phiq888 folded before Flop
+Seat 4: orozcovegam collected ($0.07)
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468628072:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 14:59:57 ET
+Table 'Dulcinea III' 6-max Seat #1 is the button
+Seat 1: Hanswurst2014 ($4.44 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.12 in chips) 
+Seat 4: orozcovegam ($2.13 in chips) 
+Seat 5: zohan_dp ($1.88 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+EyzRED: posts small blind $0.01
+phiq888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5c]
+orozcovegam: folds 
+zohan_dp: raises $0.04 to $0.06
+Lorpugo: folds 
+Hanswurst2014: calls $0.06
+EyzRED: folds 
+phiq888: calls $0.04
+*** FLOP *** [Qh 7s Kc]
+phiq888: checks 
+zohan_dp: bets $0.06
+Hanswurst2014: calls $0.06
+phiq888: folds 
+*** TURN *** [Qh 7s Kc] [Th]
+zohan_dp: checks 
+Hanswurst2014: bets $0.15
+zohan_dp: folds 
+Uncalled bet ($0.15) returned to Hanswurst2014
+Hanswurst2014 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qh 7s Kc Th]
+Seat 1: Hanswurst2014 (button) collected ($0.30)
+Seat 2: EyzRED (small blind) folded before Flop
+Seat 3: phiq888 (big blind) folded on the Flop
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: zohan_dp folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468638229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:00:32 ET
+Table 'Dulcinea III' 6-max Seat #2 is the button
+Seat 1: Hanswurst2014 ($4.62 in chips) 
+Seat 2: EyzRED ($2 in chips) 
+Seat 3: phiq888 ($2.06 in chips) 
+Seat 4: orozcovegam ($2.13 in chips) 
+Seat 5: zohan_dp ($1.76 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+phiq888: posts small blind $0.01
+orozcovegam: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kc]
+zohan_dp: folds 
+Lorpugo: folds 
+Hanswurst2014: folds 
+EyzRED: raises $0.03 to $0.05
+phiq888: calls $0.04
+orozcovegam: folds 
+*** FLOP *** [As 5s 8s]
+phiq888: checks 
+EyzRED: checks 
+*** TURN *** [As 5s 8s] [8h]
+phiq888: checks 
+EyzRED: bets $0.08
+phiq888: folds 
+Uncalled bet ($0.08) returned to EyzRED
+EyzRED collected $0.12 from pot
+EyzRED: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As 5s 8s 8h]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED (button) collected ($0.12)
+Seat 3: phiq888 (small blind) folded on the Turn
+Seat 4: orozcovegam (big blind) folded before Flop
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468649785:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:01:10 ET
+Table 'Dulcinea III' 6-max Seat #3 is the button
+Seat 1: Hanswurst2014 ($4.62 in chips) 
+Seat 2: EyzRED ($2.07 in chips) 
+Seat 3: phiq888 ($2.01 in chips) 
+Seat 4: orozcovegam ($2.11 in chips) 
+Seat 5: zohan_dp ($1.76 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+orozcovegam: posts small blind $0.01
+zohan_dp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8s]
+Lorpugo: folds 
+Hanswurst2014: raises $0.04 to $0.06
+EyzRED: folds 
+phiq888: folds 
+orozcovegam: folds 
+zohan_dp: calls $0.04
+*** FLOP *** [Qd Ks Qc]
+zohan_dp: checks 
+Hanswurst2014: checks 
+*** TURN *** [Qd Ks Qc] [3h]
+zohan_dp: checks 
+Hanswurst2014: checks 
+*** RIVER *** [Qd Ks Qc 3h] [7s]
+zohan_dp: bets $0.13
+Hanswurst2014: calls $0.13
+*** SHOW DOWN ***
+zohan_dp: shows [7c Qh] (a full house, Queens full of Sevens)
+Hanswurst2014: mucks hand 
+zohan_dp collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Qd Ks Qc 3h 7s]
+Seat 1: Hanswurst2014 mucked [6c 9c]
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: phiq888 (button) folded before Flop (didn't bet)
+Seat 4: orozcovegam (small blind) folded before Flop
+Seat 5: zohan_dp (big blind) showed [7c Qh] and won ($0.38) with a full house, Queens full of Sevens
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468661857:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:01:46 ET
+Table 'Dulcinea III' 6-max Seat #4 is the button
+Seat 1: Hanswurst2014 ($4.43 in chips) 
+Seat 2: EyzRED ($2.07 in chips) 
+Seat 3: phiq888 ($2.01 in chips) 
+Seat 4: orozcovegam ($2.10 in chips) 
+Seat 5: zohan_dp ($1.95 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+zohan_dp: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9s]
+Hanswurst2014: folds 
+EyzRED: folds 
+phiq888: folds 
+orozcovegam: folds 
+zohan_dp: raises $0.02 to $0.04
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to zohan_dp
+zohan_dp collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: EyzRED folded before Flop (didn't bet)
+Seat 3: phiq888 folded before Flop (didn't bet)
+Seat 4: orozcovegam (button) folded before Flop (didn't bet)
+Seat 5: zohan_dp (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239468666613:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:02:00 ET
+Table 'Dulcinea III' 6-max Seat #5 is the button
+Seat 1: Hanswurst2014 ($4.43 in chips) 
+Seat 2: EyzRED ($2.07 in chips) 
+Seat 3: phiq888 ($2.01 in chips) 
+Seat 4: orozcovegam ($2.10 in chips) 
+Seat 5: zohan_dp ($1.97 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Hanswurst2014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2c]
+EyzRED: raises $0.03 to $0.05
+phiq888: calls $0.05
+orozcovegam: folds 
+zohan_dp: calls $0.05
+Lorpugo: folds 
+Hanswurst2014: calls $0.03
+*** FLOP *** [Qs Ad Kh]
+Hanswurst2014: checks 
+EyzRED: bets $0.14
+phiq888: calls $0.14
+zohan_dp: folds 
+Hanswurst2014: folds 
+*** TURN *** [Qs Ad Kh] [6c]
+EyzRED: bets $0.44
+phiq888: calls $0.44
+*** RIVER *** [Qs Ad Kh 6c] [9h]
+EyzRED: bets $1.44 and is all-in
+phiq888: calls $1.38 and is all-in
+Uncalled bet ($0.06) returned to EyzRED
+*** SHOW DOWN ***
+EyzRED: shows [Qd Ks] (two pair, Kings and Queens)
+phiq888: shows [Ac 6h] (two pair, Aces and Sixes)
+phiq888 collected $3.99 from pot
+*** SUMMARY ***
+Total pot $4.13 | Rake $0.14 
+Board [Qs Ad Kh 6c 9h]
+Seat 1: Hanswurst2014 (big blind) folded on the Flop
+Seat 2: EyzRED showed [Qd Ks] and lost with two pair, Kings and Queens
+Seat 3: phiq888 showed [Ac 6h] and won ($3.99) with two pair, Aces and Sixes
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: zohan_dp (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239468689749:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:03:03 ET
+Table 'Dulcinea III' 6-max Seat #6 is the button
+Seat 1: Hanswurst2014 ($4.38 in chips) 
+Seat 3: phiq888 ($3.99 in chips) 
+Seat 4: orozcovegam ($2.10 in chips) 
+Seat 5: zohan_dp ($1.92 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Hanswurst2014: posts small blind $0.01
+EyzRED: is sitting out 
+EyzRED leaves the table
+phiq888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3h]
+orozcovegam: raises $0.04 to $0.06
+zohan_dp: folds 
+Lorpugo: folds 
+Tony_AGS joins the table at seat #2 
+Hanswurst2014: calls $0.05
+phiq888: calls $0.04
+*** FLOP *** [2s 2d Jc]
+Hanswurst2014: checks 
+phiq888: checks 
+orozcovegam: checks 
+*** TURN *** [2s 2d Jc] [8h]
+Hanswurst2014: checks 
+phiq888: checks 
+orozcovegam: checks 
+*** RIVER *** [2s 2d Jc 8h] [9s]
+Hanswurst2014: bets $0.09
+phiq888: folds 
+orozcovegam: folds 
+Uncalled bet ($0.09) returned to Hanswurst2014
+Hanswurst2014 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [2s 2d Jc 8h 9s]
+Seat 1: Hanswurst2014 (small blind) collected ($0.17)
+Seat 3: phiq888 (big blind) folded on the River
+Seat 4: orozcovegam folded on the River
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468703089:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:03:39 ET
+Table 'Dulcinea III' 6-max Seat #1 is the button
+Seat 1: Hanswurst2014 ($4.49 in chips) 
+Seat 3: phiq888 ($3.93 in chips) 
+Seat 4: orozcovegam ($2.04 in chips) 
+Seat 5: zohan_dp ($1.92 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+phiq888: posts small blind $0.01
+orozcovegam: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ks]
+zohan_dp: folds 
+Lorpugo: folds 
+Hanswurst2014: raises $0.04 to $0.06
+phiq888: calls $0.05
+orozcovegam: calls $0.04
+*** FLOP *** [8s Qd Ts]
+phiq888: checks 
+orozcovegam: checks 
+Hanswurst2014: bets $0.09
+phiq888: calls $0.09
+orozcovegam: folds 
+*** TURN *** [8s Qd Ts] [Ad]
+phiq888: checks 
+Hanswurst2014: bets $0.18
+phiq888: folds 
+Uncalled bet ($0.18) returned to Hanswurst2014
+Hanswurst2014 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [8s Qd Ts Ad]
+Seat 1: Hanswurst2014 (button) collected ($0.35)
+Seat 3: phiq888 (small blind) folded on the Turn
+Seat 4: orozcovegam (big blind) folded on the Flop
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468721794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:04:30 ET
+Table 'Dulcinea III' 6-max Seat #3 is the button
+Seat 1: Hanswurst2014 ($4.69 in chips) 
+Seat 3: phiq888 ($3.78 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($1.92 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+orozcovegam: posts small blind $0.01
+zohan_dp: posts big blind $0.02
+Tony_AGS: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2c]
+Lorpugo: folds 
+Hanswurst2014: raises $0.04 to $0.06
+phiq888: calls $0.06
+orozcovegam: folds 
+zohan_dp: calls $0.04
+*** FLOP *** [Qc Qd 7c]
+zohan_dp: checks 
+Hanswurst2014: bets $0.09
+phiq888: folds 
+zohan_dp: folds 
+Uncalled bet ($0.09) returned to Hanswurst2014
+Hanswurst2014 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qc Qd 7c]
+Seat 1: Hanswurst2014 collected ($0.18)
+Seat 3: phiq888 (button) folded on the Flop
+Seat 4: orozcovegam (small blind) folded before Flop
+Seat 5: zohan_dp (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468732779:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:04:59 ET
+Table 'Dulcinea III' 6-max Seat #4 is the button
+Seat 1: Hanswurst2014 ($4.81 in chips) 
+Seat 3: phiq888 ($3.72 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($1.86 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+zohan_dp: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Tony_AGS: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qc]
+Hanswurst2014: raises $0.04 to $0.06
+phiq888: calls $0.06
+orozcovegam: folds 
+zohan_dp: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [7s Qh 5c]
+zohan_dp: bets $0.04
+Hanswurst2014: calls $0.04
+phiq888: calls $0.04
+*** TURN *** [7s Qh 5c] [9d]
+zohan_dp: bets $0.08
+Hanswurst2014: calls $0.08
+phiq888: calls $0.08
+*** RIVER *** [7s Qh 5c 9d] [4d]
+zohan_dp: checks 
+Hanswurst2014: checks 
+phiq888: bets $0.12
+zohan_dp: calls $0.12
+Hanswurst2014: folds 
+*** SHOW DOWN ***
+phiq888: shows [Ks 6c] (high card King)
+zohan_dp: shows [5d 7d] (two pair, Sevens and Fives)
+zohan_dp collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [7s Qh 5c 9d 4d]
+Seat 1: Hanswurst2014 folded on the River
+Seat 3: phiq888 showed [Ks 6c] and lost with high card King
+Seat 4: orozcovegam (button) folded before Flop (didn't bet)
+Seat 5: zohan_dp (small blind) showed [5d 7d] and won ($0.77) with two pair, Sevens and Fives
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239468755965:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:05:59 ET
+Table 'Dulcinea III' 6-max Seat #5 is the button
+Seat 1: Hanswurst2014 ($4.63 in chips) 
+Seat 3: phiq888 ($3.42 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($2.33 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Hanswurst2014: posts big blind $0.02
+Tony_AGS: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ks]
+phiq888: calls $0.02
+orozcovegam: folds 
+zohan_dp: raises $0.02 to $0.04
+Lorpugo: raises $0.12 to $0.16
+Hanswurst2014: calls $0.14
+phiq888: calls $0.14
+zohan_dp: calls $0.12
+*** FLOP *** [Ac 8d 2c]
+Lorpugo: checks 
+Hanswurst2014: bets $0.02
+phiq888: calls $0.02
+zohan_dp: calls $0.02
+Lorpugo: folds 
+*** TURN *** [Ac 8d 2c] [Js]
+Hanswurst2014: bets $0.02
+phiq888: calls $0.02
+zohan_dp: calls $0.02
+*** RIVER *** [Ac 8d 2c Js] [2d]
+Hanswurst2014: bets $0.02
+phiq888: calls $0.02
+zohan_dp: calls $0.02
+*** SHOW DOWN ***
+Hanswurst2014: shows [4s 5d] (a pair of Deuces)
+phiq888: shows [5h As] (two pair, Aces and Deuces)
+zohan_dp: mucks hand 
+phiq888 collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [Ac 8d 2c Js 2d]
+Seat 1: Hanswurst2014 (big blind) showed [4s 5d] and lost with a pair of Deuces
+Seat 3: phiq888 showed [5h As] and won ($0.79) with two pair, Aces and Deuces
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: zohan_dp (button) mucked [9d Jd]
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239468784321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:07:12 ET
+Table 'Dulcinea III' 6-max Seat #6 is the button
+Seat 1: Hanswurst2014 ($4.41 in chips) 
+Seat 2: Tony_AGS ($2 in chips) 
+Seat 3: phiq888 ($3.99 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($2.11 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Hanswurst2014: posts small blind $0.01
+Tony_AGS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Th]
+phiq888: calls $0.02
+orozcovegam: folds 
+zohan_dp: folds 
+Lorpugo: folds 
+Hanswurst2014: calls $0.01
+Tony_AGS: checks 
+*** FLOP *** [5s 3h 3s]
+Hanswurst2014: checks 
+Tony_AGS: checks 
+phiq888: checks 
+*** TURN *** [5s 3h 3s] [5c]
+Hanswurst2014: checks 
+Tony_AGS: checks 
+phiq888: bets $0.04
+Hanswurst2014: folds 
+Tony_AGS: folds 
+Uncalled bet ($0.04) returned to phiq888
+phiq888 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5s 3h 3s 5c]
+Seat 1: Hanswurst2014 (small blind) folded on the Turn
+Seat 2: Tony_AGS (big blind) folded on the Turn
+Seat 3: phiq888 collected ($0.06)
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468801054:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:07:56 ET
+Table 'Dulcinea III' 6-max Seat #1 is the button
+Seat 1: Hanswurst2014 ($4.39 in chips) 
+Seat 2: Tony_AGS ($2 in chips) 
+Seat 3: phiq888 ($4.03 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($2.11 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Tony_AGS: posts small blind $0.01
+phiq888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5h]
+orozcovegam: folds 
+zohan_dp: raises $0.04 to $0.06
+Lorpugo: folds 
+Hanswurst2014: folds 
+Tony_AGS: folds 
+phiq888: calls $0.04
+*** FLOP *** [6h Jh Qh]
+phiq888: checks 
+zohan_dp: checks 
+*** TURN *** [6h Jh Qh] [As]
+Hanswurst2014 is disconnected 
+phiq888: checks 
+zohan_dp: bets $0.06
+phiq888: calls $0.06
+*** RIVER *** [6h Jh Qh As] [6s]
+phiq888: bets $0.12
+zohan_dp: raises $0.28 to $0.40
+phiq888: calls $0.28
+*** SHOW DOWN ***
+zohan_dp: shows [5c 5d] (two pair, Sixes and Fives)
+phiq888: shows [7h Th] (a flush, Queen high)
+phiq888 collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [6h Jh Qh As 6s]
+Seat 1: Hanswurst2014 (button) folded before Flop (didn't bet)
+Seat 2: Tony_AGS (small blind) folded before Flop
+Seat 3: phiq888 (big blind) showed [7h Th] and won ($1.01) with a flush, Queen high
+Seat 4: orozcovegam folded before Flop (didn't bet)
+Seat 5: zohan_dp showed [5c 5d] and lost with two pair, Sixes and Fives
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468821523:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:08:49 ET
+Table 'Dulcinea III' 6-max Seat #2 is the button
+Seat 1: Hanswurst2014 ($4.39 in chips) 
+Seat 2: Tony_AGS ($2 in chips) 
+Seat 3: phiq888 ($4.52 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($1.59 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+phiq888: posts small blind $0.01
+orozcovegam: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qd]
+zohan_dp: folds 
+Lorpugo: raises $0.04 to $0.06
+Hanswurst2014 has timed out while disconnected
+Hanswurst2014: folds 
+Tony_AGS: folds 
+phiq888: calls $0.05
+orozcovegam: calls $0.04
+*** FLOP *** [Qs Td 8c]
+phiq888: checks 
+orozcovegam: checks 
+Lorpugo: bets $0.11
+phiq888: calls $0.11
+orozcovegam: calls $0.11
+*** TURN *** [Qs Td 8c] [Ac]
+Lorpugo is disconnected 
+phiq888: checks 
+orozcovegam: checks 
+Lorpugo: bets $0.49
+phiq888: folds 
+orozcovegam: folds 
+Uncalled bet ($0.49) returned to Lorpugo
+Lorpugo collected $0.49 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Qs Td 8c Ac]
+Seat 1: Hanswurst2014 folded before Flop (didn't bet)
+Seat 2: Tony_AGS (button) folded before Flop (didn't bet)
+Seat 3: phiq888 (small blind) folded on the Turn
+Seat 4: orozcovegam (big blind) folded on the Turn
+Seat 5: zohan_dp folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.49)
+
+
+
+PokerStars Hand #239468857827:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:10:23 ET
+Table 'Dulcinea III' 6-max Seat #3 is the button
+Seat 2: Tony_AGS ($2 in chips) 
+Seat 3: phiq888 ($4.35 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($1.59 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+orozcovegam: posts small blind $0.01
+zohan_dp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2d]
+Lorpugo: folds 
+Tony_AGS: folds 
+phiq888: calls $0.02
+orozcovegam: folds 
+zohan_dp: raises $0.04 to $0.06
+phiq888: calls $0.04
+*** FLOP *** [5d Qd 4d]
+zohan_dp: bets $0.06
+phiq888: folds 
+Uncalled bet ($0.06) returned to zohan_dp
+zohan_dp collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d Qd 4d]
+Seat 2: Tony_AGS folded before Flop (didn't bet)
+Seat 3: phiq888 (button) folded on the Flop
+Seat 4: orozcovegam (small blind) folded before Flop
+Seat 5: zohan_dp (big blind) collected ($0.13)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468866967:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:10:47 ET
+Table 'Dulcinea III' 6-max Seat #4 is the button
+Seat 2: Tony_AGS ($2 in chips) 
+Seat 3: phiq888 ($4.29 in chips) 
+Seat 4: orozcovegam ($2 in chips) 
+Seat 5: zohan_dp ($1.66 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+zohan_dp: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 9s]
+Tony_AGS: raises $0.03 to $0.05
+phiq888: folds 
+orozcovegam: folds 
+zohan_dp: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to Tony_AGS
+Tony_AGS collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Tony_AGS collected ($0.05)
+Seat 3: phiq888 folded before Flop (didn't bet)
+Seat 4: orozcovegam (button) folded before Flop (didn't bet)
+Seat 5: zohan_dp (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+

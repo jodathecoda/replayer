@@ -1,0 +1,3738 @@
+﻿PokerStars Hand #239451507853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:01:41 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: alefj ($3.84 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.80 in chips) 
+Seat 6: bercello ($1.98 in chips) 
+alefj: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kh]
+Riano21 leaves the table
+natedogg7071: folds 
+bercello: raises $0.05 to $0.07
+alefj: folds 
+Lorpugo: calls $0.05
+*** FLOP *** [3s Ts Ad]
+Lorpugo: checks 
+bercello: bets $0.07
+Lorpugo: calls $0.07
+*** TURN *** [3s Ts Ad] [3d]
+Lorpugo: checks 
+bercello: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to bercello
+bercello collected $0.28 from pot
+bercello: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3s Ts Ad 3d]
+Seat 1: alefj (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 6: bercello (button) collected ($0.28)
+
+
+
+PokerStars Hand #239451525565:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:02:28 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: alefj ($3.83 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.80 in chips) 
+Seat 6: bercello ($2.12 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ac]
+bercello: calls $0.02
+alefj: folds 
+Lorpugo: calls $0.01
+natedogg7071: checks 
+*** FLOP *** [As 5c Th]
+Lorpugo: checks 
+natedogg7071: checks 
+bercello: bets $0.03
+Lorpugo: calls $0.03
+natedogg7071: calls $0.03
+*** TURN *** [As 5c Th] [Jd]
+Lorpugo: checks 
+natedogg7071: bets $0.04
+bercello: calls $0.04
+Lorpugo: raises $0.13 to $0.17
+natedogg7071: folds 
+bercello: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.26 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [As 5c Th Jd]
+Seat 1: alefj (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.26)
+Seat 3: natedogg7071 (big blind) folded on the Turn
+Seat 6: bercello folded on the Turn
+
+
+
+PokerStars Hand #239451560167:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:03:59 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: alefj ($3.83 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: natedogg7071 ($2.71 in chips) 
+Seat 6: bercello ($2.03 in chips) 
+natedogg7071: posts small blind $0.01
+bercello: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 8s]
+alefj: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+natedogg7071: folds 
+bercello: folds 
+*** FLOP *** [2h 6s 4d]
+alefj: checks 
+Lorpugo: bets $0.05
+alefj: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2h 6s 4d]
+Seat 1: alefj folded on the Flop
+Seat 2: Lorpugo (button) collected ($0.14)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 6: bercello (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451571325:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:04:28 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: alefj ($3.77 in chips) 
+Seat 2: Lorpugo ($1.85 in chips) 
+Seat 3: natedogg7071 ($2.70 in chips) 
+Seat 6: bercello ($2.01 in chips) 
+bercello: posts small blind $0.01
+alefj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Td]
+Lorpugo: folds 
+natedogg7071: folds 
+bercello: calls $0.01
+alefj: checks 
+*** FLOP *** [Kh 8d 4s]
+bercello: checks 
+alefj: checks 
+*** TURN *** [Kh 8d 4s] [7d]
+bercello: bets $0.02
+alefj: calls $0.02
+*** RIVER *** [Kh 8d 4s 7d] [2c]
+bercello: checks 
+alefj: checks 
+*** SHOW DOWN ***
+bercello: shows [5d 5c] (a pair of Fives)
+alefj: mucks hand 
+bercello collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kh 8d 4s 7d 2c]
+Seat 1: alefj (big blind) mucked [5h Ah]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 6: bercello (small blind) showed [5d 5c] and won ($0.08) with a pair of Fives
+
+
+
+PokerStars Hand #239451583879:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:05:01 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: alefj ($3.73 in chips) 
+Seat 2: Lorpugo ($1.85 in chips) 
+Seat 3: natedogg7071 ($2.70 in chips) 
+Seat 6: bercello ($2.05 in chips) 
+alefj: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ks]
+natedogg7071: raises $0.04 to $0.06
+bercello: folds 
+alefj: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Qc Jc 9c]
+bercello leaves the table
+Lorpugo: checks 
+natedogg7071: bets $0.08
+Lorpugo: calls $0.08
+*** TURN *** [Qc Jc 9c] [3c]
+alefj leaves the table
+Lorpugo: checks 
+natedogg7071: checks 
+*** RIVER *** [Qc Jc 9c 3c] [Ac]
+Lorpugo: checks 
+natedogg7071: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Js Ks] (a flush, Ace high)
+natedogg7071: shows [Ts Th] (a flush, Ace high)
+Lorpugo collected $0.14 from pot
+natedogg7071 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qc Jc 9c 3c Ac]
+Seat 1: alefj (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Js Ks] and won ($0.14) with a flush, Ace high
+Seat 3: natedogg7071 showed [Ts Th] and won ($0.14) with a flush, Ace high
+Seat 6: bercello (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239451597852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:05:37 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.85 in chips) 
+Seat 3: natedogg7071 ($2.70 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 2s]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) collected ($0.04)
+Seat 3: natedogg7071 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451600851:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:05:45 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: natedogg7071 ($2.68 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jh]
+natedogg7071: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: natedogg7071 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239451602976:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:05:51 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.88 in chips) 
+Seat 3: natedogg7071 ($2.67 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7s]
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to natedogg7071
+natedogg7071 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239451605041:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:05:56 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: natedogg7071 ($2.68 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 7h]
+natedogg7071: raises $0.03 to $0.05
+Lorpugo: calls $0.03
+*** FLOP *** [Tc Js 7s]
+Lorpugo: checks 
+natedogg7071: bets $0.06
+Lorpugo: raises $0.11 to $0.17
+natedogg7071: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.21 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Tc Js 7s]
+Seat 2: Lorpugo (big blind) collected ($0.21)
+Seat 3: natedogg7071 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239451614218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:06:20 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.97 in chips) 
+Seat 3: natedogg7071 ($2.57 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 4c]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) collected ($0.04)
+Seat 3: natedogg7071 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451617222:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:06:27 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.99 in chips) 
+Seat 3: natedogg7071 ($2.55 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6c]
+natedogg7071: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: natedogg7071 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239451619159:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:06:32 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: natedogg7071 ($2.54 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2s]
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to natedogg7071
+natedogg7071 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239451621183:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:06:38 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.99 in chips) 
+Seat 3: natedogg7071 ($2.55 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7d]
+natedogg7071: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: natedogg7071 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239451623092:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:06:43 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: natedogg7071 ($2.54 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Jc]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) collected ($0.04)
+Seat 3: natedogg7071 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451626597:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:06:52 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($2.02 in chips) 
+Seat 3: natedogg7071 ($2.52 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6h]
+natedogg7071: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to natedogg7071
+natedogg7071 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: natedogg7071 (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239451631218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:04 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: natedogg7071 ($2.54 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ac]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) collected ($0.04)
+Seat 3: natedogg7071 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451634396:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:12 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($2.02 in chips) 
+Seat 3: natedogg7071 ($2.52 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3s]
+natedogg7071: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to natedogg7071
+natedogg7071 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: natedogg7071 (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239451637244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:20 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: natedogg7071 ($2.54 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8c]
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to natedogg7071
+natedogg7071 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239451639503:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:26 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.99 in chips) 
+Seat 3: natedogg7071 ($2.55 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Jc]
+natedogg7071: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: natedogg7071 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239451641329:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:30 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: natedogg7071 ($2.54 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8d]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) collected ($0.04)
+Seat 3: natedogg7071 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451644042:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:37 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($2.02 in chips) 
+Seat 3: natedogg7071 ($2.52 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9h]
+natedogg7071: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to natedogg7071
+natedogg7071 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: natedogg7071 (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239451647076:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:45 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: natedogg7071 ($2.54 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Js]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: raises $0.16 to $0.22
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to natedogg7071
+natedogg7071 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239451652379:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:07:59 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: natedogg7071 ($2.60 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Qh]
+natedogg7071: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+*** FLOP *** [Kc 3c 8c]
+Lorpugo: checks 
+natedogg7071: bets $0.07
+Lorpugo: calls $0.07
+*** TURN *** [Kc 3c 8c] [As]
+Lorpugo: checks 
+natedogg7071: bets $0.15
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to natedogg7071
+natedogg7071 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Kc 3c 8c As]
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: natedogg7071 (button) (small blind) collected ($0.25)
+
+
+
+PokerStars Hand #239451661191:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:08:22 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.81 in chips) 
+Seat 3: natedogg7071 ($2.72 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2c]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) collected ($0.04)
+Seat 3: natedogg7071 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451664027:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:08:29 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.83 in chips) 
+Seat 3: natedogg7071 ($2.70 in chips) 
+natedogg7071: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 4h]
+natedogg7071: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to natedogg7071
+natedogg7071 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: natedogg7071 (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239451666552:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:08:36 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.81 in chips) 
+Seat 3: natedogg7071 ($2.72 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2c]
+SosaBárbaro joins the table at seat #4 
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo (button) (small blind) collected ($0.04)
+Seat 3: natedogg7071 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451669666:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:08:44 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.83 in chips) 
+Seat 3: natedogg7071 ($2.70 in chips) 
+Seat 4: SosaBárbaro ($2 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Tc]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: raises $0.12 to $0.18
+SosaBárbaro: raises $0.42 to $0.60
+Lorpugo: folds 
+natedogg7071: raises $0.98 to $1.58
+SosaBárbaro is disconnected 
+SosaBárbaro is connected 
+SosaBárbaro: raises $0.42 to $2 and is all-in
+natedogg7071: calls $0.42
+*** FLOP *** [9d 5s 6s]
+*** TURN *** [9d 5s 6s] [2h]
+*** RIVER *** [9d 5s 6s 2h] [7d]
+*** SHOW DOWN ***
+natedogg7071: shows [Qc Qs] (a pair of Queens)
+SosaBárbaro: shows [Ah As] (a pair of Aces)
+SosaBárbaro collected $3.92 from pot
+*** SUMMARY ***
+Total pot $4.06 | Rake $0.14 
+Board [9d 5s 6s 2h 7d]
+Seat 2: Lorpugo (button) folded before Flop
+Seat 3: natedogg7071 (small blind) showed [Qc Qs] and lost with a pair of Queens
+Seat 4: SosaBárbaro (big blind) showed [Ah As] and won ($3.92) with a pair of Aces
+
+
+
+PokerStars Hand #239451697396:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:09:57 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: natedogg7071 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.92 in chips) 
+SosaBárbaro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Jd]
+natedogg7071: raises $0.04 to $0.06
+SosaBárbaro: folds 
+Lorpugo: raises $0.13 to $0.19
+natedogg7071: calls $0.13
+*** FLOP *** [Td 9s 6s]
+Lorpugo: checks 
+natedogg7071: checks 
+*** TURN *** [Td 9s 6s] [4c]
+Lorpugo: checks 
+natedogg7071: bets $0.22
+Lorpugo: folds 
+Uncalled bet ($0.22) returned to natedogg7071
+natedogg7071 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Td 9s 6s 4c]
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: natedogg7071 (button) collected ($0.38)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+
+
+
+PokerStars Hand #239451716030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:10:46 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.19 in chips) 
+Seat 4: SosaBárbaro ($3.91 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7d]
+SosaBárbaro: raises $0.03 to $0.05
+Lorpugo: folds 
+natedogg7071: folds 
+Uncalled bet ($0.03) returned to SosaBárbaro
+SosaBárbaro collected $0.05 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 4: SosaBárbaro (button) collected ($0.05)
+
+
+
+PokerStars Hand #239451721386:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:11:00 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.17 in chips) 
+Seat 4: SosaBárbaro ($3.94 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6d]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Clark118 joins the table at seat #5 
+SosaBárbaro: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451727064:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:11:15 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 3: natedogg7071 ($2.16 in chips) 
+Seat 4: SosaBárbaro ($3.92 in chips) 
+Seat 5: Clark118 ($2 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ad]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: raises $0.12 to $0.18
+SosaBárbaro: folds 
+Clark118: folds 
+Lorpugo: calls $0.12
+*** FLOP *** [3h Jh 9h]
+Lorpugo: checks 
+natedogg7071: bets $0.23
+Lorpugo: folds 
+Uncalled bet ($0.23) returned to natedogg7071
+natedogg7071 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3h Jh 9h]
+Seat 2: Lorpugo folded on the Flop
+Seat 3: natedogg7071 (button) collected ($0.38)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451736264:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:11:40 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.36 in chips) 
+Seat 4: SosaBárbaro ($3.91 in chips) 
+Seat 5: Clark118 ($2 in chips) 
+Clark118: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qd]
+natedogg7071: folds 
+SosaBárbaro: raises $0.03 to $0.05
+Clark118: raises $0.15 to $0.20
+Lorpugo: folds 
+SosaBárbaro: folds 
+Uncalled bet ($0.15) returned to Clark118
+Clark118 collected $0.12 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop
+Seat 5: Clark118 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #239451752538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:12:23 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.36 in chips) 
+Seat 4: SosaBárbaro ($3.86 in chips) 
+Seat 5: Clark118 ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 9h]
+SosaBárbaro: folds 
+Clark118: raises $0.03 to $0.05
+Lorpugo: raises $0.12 to $0.17
+natedogg7071: folds 
+Clark118: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: Lorpugo (small blind) collected ($0.12)
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 (button) folded before Flop
+
+
+
+PokerStars Hand #239451760233:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:12:43 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.67 in chips) 
+Seat 3: natedogg7071 ($2.34 in chips) 
+Seat 4: SosaBárbaro ($3.86 in chips) 
+Seat 5: Clark118 ($2.02 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 4d]
+Clark118: raises $0.03 to $0.05
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Uncalled bet ($0.03) returned to Clark118
+Clark118 collected $0.05 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: Clark118 collected ($0.05)
+
+
+
+PokerStars Hand #239451766165:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:12:58 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.67 in chips) 
+Seat 3: natedogg7071 ($2.33 in chips) 
+Seat 4: SosaBárbaro ($3.84 in chips) 
+Seat 5: Clark118 ($2.05 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Js]
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Uncalled bet ($0.01) returned to Clark118
+Clark118 collected $0.02 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239451770125:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:13:09 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.67 in chips) 
+Seat 3: natedogg7071 ($2.33 in chips) 
+Seat 4: SosaBárbaro ($3.83 in chips) 
+Seat 5: Clark118 ($2.06 in chips) 
+Clark118: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8d]
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: Clark118 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239451773721:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:13:18 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.68 in chips) 
+Seat 3: natedogg7071 ($2.33 in chips) 
+Seat 4: SosaBárbaro ($3.83 in chips) 
+Seat 5: Clark118 ($2.05 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 6d]
+SosaBárbaro: folds 
+Clark118: raises $0.03 to $0.05
+Lorpugo: folds 
+ninel7 joins the table at seat #6 
+clovao10 joins the table at seat #1 
+natedogg7071: folds 
+Uncalled bet ($0.03) returned to Clark118
+Clark118 collected $0.05 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239451780950:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:13:37 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.67 in chips) 
+Seat 3: natedogg7071 ($2.31 in chips) 
+Seat 4: SosaBárbaro ($3.83 in chips) 
+Seat 5: Clark118 ($2.08 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+ninel7: sits out 
+clovao10: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 4h]
+Clark118: folds 
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+SosaBárbaro: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: Clark118 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239451789202:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:13:59 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($1 in chips) 
+Seat 2: Lorpugo ($1.70 in chips) 
+Seat 3: natedogg7071 ($2.30 in chips) 
+Seat 4: SosaBárbaro ($3.81 in chips) 
+Seat 5: Clark118 ($2.08 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+ninel7: sits out 
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 4h]
+clovao10: checks 
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: raises $0.07 to $0.09
+clovao10: calls $0.07
+*** FLOP *** [As 8c Ah]
+Clark118: checks 
+clovao10: bets $0.06
+Clark118: calls $0.06
+*** TURN *** [As 8c Ah] [2d]
+Clark118: checks 
+clovao10: checks 
+*** RIVER *** [As 8c Ah 2d] [6s]
+Clark118: checks 
+clovao10: checks 
+*** SHOW DOWN ***
+Clark118: shows [Kc Kh] (two pair, Aces and Kings)
+clovao10: mucks hand 
+Clark118 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [As 8c Ah 2d 6s]
+Seat 1: clovao10 mucked [8d Qc]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) showed [Kc Kh] and won ($0.30) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #239451820688:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:15:21 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($0.85 in chips) 
+Seat 2: Lorpugo ($1.70 in chips) 
+Seat 3: natedogg7071 ($2.30 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: Clark118 ($2.23 in chips) 
+Seat 6: ninel7 ($2 in chips) 
+Clark118: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ah]
+clovao10: folds 
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: raises $0.03 to $0.05
+ninel7: folds 
+Uncalled bet ($0.03) returned to Clark118
+Clark118 collected $0.04 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: Clark118 (small blind) collected ($0.04)
+Seat 6: ninel7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239451828018:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:15:40 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($0.85 in chips) 
+Seat 2: Lorpugo ($1.70 in chips) 
+Seat 3: natedogg7071 ($2.30 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: Clark118 ($2.25 in chips) 
+Seat 6: ninel7 ($2 in chips) 
+ninel7: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5d]
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: raises $0.03 to $0.05
+ninel7: folds 
+clovao10: folds 
+Uncalled bet ($0.03) returned to Clark118
+Clark118 collected $0.05 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 (button) collected ($0.05)
+Seat 6: ninel7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239451842570:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:16:19 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($0.83 in chips) 
+Seat 2: Lorpugo ($1.70 in chips) 
+Seat 3: natedogg7071 ($2.30 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: Clark118 ($2.28 in chips) 
+Seat 6: ninel7 ($2 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Jd]
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+ninel7: folds 
+clovao10: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [8s 9h Jc]
+clovao10: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [8s 9h Jc] [Ac]
+clovao10: checks 
+Lorpugo: checks 
+*** RIVER *** [8s 9h Jc Ac] [8c]
+clovao10: bets $0.15
+Lorpugo: calls $0.15
+*** SHOW DOWN ***
+clovao10: shows [8d Ad] (a full house, Eights full of Aces)
+Lorpugo: mucks hand 
+clovao10 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [8s 9h Jc Ac 8c]
+Seat 1: clovao10 (small blind) showed [8d Ad] and won ($0.37) with a full house, Eights full of Aces
+Seat 2: Lorpugo (big blind) mucked [7s Jd]
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: ninel7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239451870152:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:17:31 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.01 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.30 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: Clark118 ($2.28 in chips) 
+Seat 6: ninel7 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 6d]
+SosaBárbaro: folds 
+Clark118: raises $0.03 to $0.05
+ninel7: folds 
+clovao10: calls $0.05
+Lorpugo: folds 
+natedogg7071: folds 
+*** FLOP *** [Js 8h 4d]
+Clark118: checks 
+clovao10: checks 
+*** TURN *** [Js 8h 4d] [5c]
+Clark118: bets $0.05
+clovao10: folds 
+Uncalled bet ($0.05) returned to Clark118
+Clark118 collected $0.13 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Js 8h 4d 5c]
+Seat 1: clovao10 (button) folded on the Turn
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 collected ($0.13)
+Seat 6: ninel7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239451886128:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:18:13 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($0.96 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.28 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: Clark118 ($2.36 in chips) 
+Seat 6: ninel7 ($2 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Td]
+Clark118: folds 
+ninel7: raises $0.04 to $0.06
+clovao10: folds 
+Lorpugo: raises $0.15 to $0.21
+natedogg7071: folds 
+SosaBárbaro: folds 
+ninel7: calls $0.15
+*** FLOP *** [Jd 7s 9h]
+ninel7: bets $0.43
+Lorpugo: raises $0.96 to $1.39 and is all-in
+ninel7: calls $0.96
+*** TURN *** [Jd 7s 9h] [5h]
+*** RIVER *** [Jd 7s 9h 5h] [6c]
+*** SHOW DOWN ***
+ninel7: shows [Ac Js] (a pair of Jacks)
+Lorpugo: shows [Th Td] (a pair of Tens)
+ninel7 cashed out the hand for $2.28 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $3.23 | Rake $0.11 
+Board [Jd 7s 9h 5h 6c]
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [Th Td] and lost with a pair of Tens
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: ninel7 showed [Ac Js] and won ($3.12) with a pair of Jacks (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #239451899456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:18:48 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($0.96 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: natedogg7071 ($2.27 in chips) 
+Seat 4: SosaBárbaro ($3.78 in chips) 
+Seat 5: Clark118 ($2.36 in chips) 
+Seat 6: ninel7 ($2.68 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 9d]
+ninel7: folds 
+clovao10 has timed out
+clovao10: folds 
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) folded before Flop
+Seat 6: ninel7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239451907871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:19:11 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 3: natedogg7071 ($2.27 in chips) 
+Seat 4: SosaBárbaro ($3.77 in chips) 
+Seat 5: Clark118 ($2.34 in chips) 
+Seat 6: ninel7 ($2.68 in chips) 
+Clark118: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 6s]
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+Uncalled bet ($0.01) returned to ninel7
+ninel7 collected $0.02 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: Clark118 (small blind) folded before Flop
+Seat 6: ninel7 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239451912265:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:19:22 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 3: natedogg7071 ($2.27 in chips) 
+Seat 4: SosaBárbaro ($3.77 in chips) 
+Seat 5: Clark118 ($2.33 in chips) 
+Seat 6: ninel7 ($2.69 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Jh]
+natedogg7071 has timed out
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: raises $0.03 to $0.05
+ninel7: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [3h 6s Qh]
+ninel7: checks 
+Clark118: bets $0.07
+ninel7: calls $0.07
+*** TURN *** [3h 6s Qh] [6c]
+ninel7: checks 
+Clark118: bets $0.10
+ninel7 is disconnected 
+ninel7 is connected 
+ninel7 has timed out
+ninel7: folds 
+Uncalled bet ($0.10) returned to Clark118
+SosaBárbaro is disconnected 
+Clark118 collected $0.25 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [3h 6s Qh 6c]
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 (button) collected ($0.25)
+Seat 6: ninel7 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239451948462:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:20:58 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: natedogg7071 ($2.27 in chips) 
+Seat 4: SosaBárbaro ($3.77 in chips) 
+Seat 5: Clark118 ($2.46 in chips) 
+Seat 6: ninel7 ($2.57 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Kc]
+SosaBárbaro has timed out while disconnected
+SosaBárbaro: folds 
+Clark118: folds 
+ninel7: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+natedogg7071: folds 
+*** FLOP *** [6s 2c 7c]
+Lorpugo: checks 
+ninel7: checks 
+*** TURN *** [6s 2c 7c] [9c]
+Lorpugo: bets $0.09
+ninel7: calls $0.09
+*** RIVER *** [6s 2c 7c 9c] [Js]
+Lorpugo: bets $0.31
+ninel7: folds 
+Uncalled bet ($0.31) returned to Lorpugo
+Lorpugo collected $0.31 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6s 2c 7c 9c Js]
+Seat 2: Lorpugo (small blind) collected ($0.31)
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: ninel7 (button) folded on the River
+
+
+
+PokerStars Hand #239451973068:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:22:03 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($0.96 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: natedogg7071 ($2.25 in chips) 
+Seat 4: SosaBárbaro ($3.77 in chips) 
+Seat 5: Clark118 ($2.46 in chips) 
+Seat 6: ninel7 ($2.42 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+clovao10: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Kd]
+Clark118: folds 
+ninel7 has timed out
+ninel7: folds 
+clovao10: checks 
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: checks 
+*** FLOP *** [Jh 4c 3h]
+SosaBárbaro: checks 
+clovao10: checks 
+*** TURN *** [Jh 4c 3h] [Qh]
+SosaBárbaro: checks 
+clovao10: bets $0.10
+SosaBárbaro: folds 
+Uncalled bet ($0.10) returned to clovao10
+clovao10 collected $0.06 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jh 4c 3h Qh]
+Seat 1: clovao10 collected ($0.06)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded on the Turn
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: ninel7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239451991604:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:22:53 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($0.99 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: natedogg7071 ($2.24 in chips) 
+Seat 4: SosaBárbaro ($3.75 in chips) 
+Seat 5: Clark118 ($2.46 in chips) 
+Seat 6: ninel7 ($2.42 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Js]
+ninel7: folds 
+clovao10: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+natedogg7071: raises $0.21 to $0.30
+SosaBárbaro is disconnected 
+ninel7 is disconnected 
+SosaBárbaro has timed out while disconnected
+SosaBárbaro: folds 
+Clark118: folds 
+clovao10: folds 
+Lorpugo: folds 
+Uncalled bet ($0.21) returned to natedogg7071
+natedogg7071 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0 
+Seat 1: clovao10 folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: natedogg7071 (button) collected ($0.23)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) folded before Flop
+Seat 6: ninel7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452037301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:24:54 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($0.97 in chips) 
+Seat 2: Lorpugo ($1.68 in chips) 
+Seat 3: natedogg7071 ($2.38 in chips) 
+Seat 5: Clark118 ($2.44 in chips) 
+Seat 6: ninel7 ($2.42 in chips) 
+ninel7: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 3h]
+Lorpugo: folds 
+natedogg7071: folds 
+Clark118: folds 
+ninel7: folds 
+Uncalled bet ($0.01) returned to clovao10
+clovao10 collected $0.02 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 5: Clark118 (button) folded before Flop (didn't bet)
+Seat 6: ninel7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452040649:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:25:03 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($0.98 in chips) 
+Seat 2: Lorpugo ($1.68 in chips) 
+Seat 3: natedogg7071 ($2.38 in chips) 
+Seat 5: Clark118 ($2.44 in chips) 
+Seat 6: ninel7 ($2.41 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Kc]
+natedogg7071: folds 
+Clark118: folds 
+ninel7: folds 
+clovao10: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+clovao10: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: clovao10 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: ninel7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452052896:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:25:35 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($0.96 in chips) 
+Seat 2: Lorpugo ($1.70 in chips) 
+Seat 3: natedogg7071 ($2.38 in chips) 
+Seat 5: Clark118 ($2.44 in chips) 
+Seat 6: ninel7 ($2.41 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 6d]
+Clark118: folds 
+ninel7: raises $0.04 to $0.06
+clovao10: folds 
+Lorpugo: calls $0.05
+natedogg7071: raises $0.18 to $0.24
+ninel7: raises $2.17 to $2.41 and is all-in
+Lorpugo: folds 
+natedogg7071: folds 
+Uncalled bet ($2.17) returned to ninel7
+ninel7 collected $0.54 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0 
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: ninel7 collected ($0.54)
+
+
+
+PokerStars Hand #239452068967:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:26:18 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($0.96 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: natedogg7071 ($2.14 in chips) 
+Seat 5: Clark118 ($2.44 in chips) 
+Seat 6: ninel7 ($2.71 in chips) 
+natedogg7071: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7s]
+ninel7: folds 
+clovao10: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+natedogg7071: folds 
+Clark118: folds 
+clovao10: calls $0.07
+*** FLOP *** [6s 6h 5d]
+clovao10: checks 
+Lorpugo: bets $0.13
+clovao10: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [6s 6h 5d]
+Seat 1: clovao10 folded on the Flop
+Seat 2: Lorpugo (button) collected ($0.20)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 5: Clark118 (big blind) folded before Flop
+Seat 6: ninel7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452085359:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:27:01 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($0.87 in chips) 
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: natedogg7071 ($2.13 in chips) 
+Seat 5: Clark118 ($2.42 in chips) 
+Clark118: posts small blind $0.01
+ninel7: is sitting out 
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7h]
+Lorpugo: raises $0.04 to $0.06
+natedogg7071: folds 
+Clark118: folds 
+clovao10: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+ninel7 leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 5: Clark118 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452089727:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:27:12 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($0.85 in chips) 
+Seat 2: Lorpugo ($1.78 in chips) 
+Seat 3: natedogg7071 ($2.13 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8d]
+natedogg7071: folds 
+Clark118: folds 
+pyrtsy joins the table at seat #6 
+clovao10: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Jh 8c Kd]
+clovao10: checks 
+Lorpugo: checks 
+*** TURN *** [Jh 8c Kd] [7h]
+clovao10: checks 
+Lorpugo: bets $0.03
+clovao10: calls $0.03
+*** RIVER *** [Jh 8c Kd 7h] [7d]
+clovao10: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+clovao10: shows [Ad 8s] (two pair, Eights and Sevens)
+Lorpugo: mucks hand 
+clovao10 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jh 8c Kd 7h 7d]
+Seat 1: clovao10 (small blind) showed [Ad 8s] and won ($0.10) with two pair, Eights and Sevens
+Seat 2: Lorpugo (big blind) mucked [3d 8d]
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 5: Clark118 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452116974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:28:24 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($0.90 in chips) 
+Seat 2: Lorpugo ($1.73 in chips) 
+Seat 3: natedogg7071 ($2.13 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+SosaBárbaro: sits out 
+pyrtsy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ac]
+Clark118: folds 
+pyrtsy: checks 
+clovao10: folds 
+Lorpugo: raises $0.06 to $0.08
+natedogg7071: folds 
+pyrtsy: calls $0.06
+*** FLOP *** [Tc 4s 2h]
+Lorpugo: bets $0.11
+pyrtsy: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Tc 4s 2h]
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.17)
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: pyrtsy folded on the Flop
+
+
+
+PokerStars Hand #239452128905:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:28:55 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($0.90 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: natedogg7071 ($2.11 in chips) 
+Seat 4: SosaBárbaro ($3.74 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.52 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 8c]
+Clark118: folds 
+pyrtsy: raises $0.04 to $0.06
+clovao10 has timed out
+clovao10: folds 
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: raises $0.20 to $0.26
+pyrtsy: calls $0.20
+*** FLOP *** [6d 3d As]
+SosaBárbaro: bets $0.15
+pyrtsy: folds 
+Uncalled bet ($0.15) returned to SosaBárbaro
+SosaBárbaro collected $0.51 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [6d 3d As]
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) collected ($0.51)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: pyrtsy folded on the Flop
+
+
+
+PokerStars Hand #239452147032:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:29:43 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($0.90 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: natedogg7071 ($2.10 in chips) 
+Seat 4: SosaBárbaro ($3.99 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.26 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2s]
+pyrtsy: folds 
+clovao10: folds 
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Uncalled bet ($0.01) returned to Clark118
+Clark118 collected $0.02 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) collected ($0.02)
+Seat 6: pyrtsy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452152138:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:29:57 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($0.90 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: natedogg7071 ($2.10 in chips) 
+Seat 4: SosaBárbaro ($3.98 in chips) 
+Seat 5: Clark118 ($2.42 in chips) 
+Seat 6: pyrtsy ($1.26 in chips) 
+Clark118: posts small blind $0.01
+pyrtsy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8s]
+clovao10: raises $0.02 to $0.04
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+pyrtsy: calls $0.02
+*** FLOP *** [5c Jh 3c]
+pyrtsy: bets $0.05
+clovao10: raises $0.05 to $0.10
+pyrtsy: folds 
+Uncalled bet ($0.05) returned to clovao10
+clovao10 collected $0.18 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5c Jh 3c]
+Seat 1: clovao10 collected ($0.18)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: Clark118 (small blind) folded before Flop
+Seat 6: pyrtsy (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239452160879:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:30:19 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($0.99 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: natedogg7071 ($2.10 in chips) 
+Seat 4: SosaBárbaro ($3.98 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.17 in chips) 
+pyrtsy: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ac]
+Lorpugo: folds 
+natedogg7071: raises $0.04 to $0.06
+SosaBárbaro: folds 
+Clark118: folds 
+pyrtsy: folds 
+clovao10: folds 
+Uncalled bet ($0.04) returned to natedogg7071
+natedogg7071 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 collected ($0.05)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 (button) folded before Flop (didn't bet)
+Seat 6: pyrtsy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452169971:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:30:43 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($0.97 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: natedogg7071 ($2.13 in chips) 
+Seat 4: SosaBárbaro ($3.98 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.16 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 3c]
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+pyrtsy: raises $0.02 to $0.04
+clovao10: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [9d Td 4s]
+Lorpugo: checks 
+pyrtsy: checks 
+*** TURN *** [9d Td 4s] [Js]
+Lorpugo: checks 
+pyrtsy: checks 
+*** RIVER *** [9d Td 4s Js] [Qh]
+Lorpugo: bets $0.16
+pyrtsy: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9d Td 4s Js Qh]
+Seat 1: clovao10 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.09)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: pyrtsy (button) folded on the River
+
+
+
+PokerStars Hand #239452185691:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:31:24 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($0.96 in chips) 
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: natedogg7071 ($2.13 in chips) 
+Seat 4: SosaBárbaro ($3.98 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.12 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 5c]
+SosaBárbaro: folds 
+Clark118: folds 
+pyrtsy: folds 
+clovao10: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+natedogg7071: folds 
+clovao10: calls $0.08
+*** FLOP *** [7s Ks 4h]
+Lorpugo: checks 
+clovao10: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to clovao10
+clovao10 collected $0.21 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [7s Ks 4h]
+Seat 1: clovao10 (button) collected ($0.21)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: natedogg7071 (big blind) folded before Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: pyrtsy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452206978:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:32:20 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.07 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: natedogg7071 ($2.11 in chips) 
+Seat 4: SosaBárbaro ($3.98 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.12 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3h]
+Clark118: folds 
+pyrtsy: calls $0.02
+clovao10: folds 
+Lorpugo: folds 
+natedogg7071: raises $0.04 to $0.06
+SosaBárbaro: calls $0.04
+pyrtsy: calls $0.04
+*** FLOP *** [Qc Tc 2d]
+natedogg7071: bets $0.10
+SosaBárbaro: folds 
+pyrtsy: raises $0.10 to $0.20
+natedogg7071: calls $0.10
+*** TURN *** [Qc Tc 2d] [Ad]
+natedogg7071: checks 
+pyrtsy: bets $0.28
+natedogg7071: folds 
+Uncalled bet ($0.28) returned to pyrtsy
+pyrtsy collected $0.56 from pot
+pyrtsy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Qc Tc 2d Ad]
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: natedogg7071 (small blind) folded on the Turn
+Seat 4: SosaBárbaro (big blind) folded on the Flop
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: pyrtsy collected ($0.56)
+
+
+
+PokerStars Hand #239452226139:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:33:11 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($1.07 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: natedogg7071 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.92 in chips) 
+Seat 5: Clark118 ($2.41 in chips) 
+Seat 6: pyrtsy ($1.42 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 7d]
+pyrtsy: folds 
+pyrtsy leaves the table
+clovao10: calls $0.02
+Lorpugo: folds 
+natedogg7071: folds 
+Sensey1286 joins the table at seat #6 
+SosaBárbaro: folds 
+Clark118: checks 
+*** FLOP *** [3d Kc 4c]
+Clark118: checks 
+clovao10: checks 
+*** TURN *** [3d Kc 4c] [8d]
+Clark118: bets $0.03
+clovao10: calls $0.03
+*** RIVER *** [3d Kc 4c 8d] [9c]
+Clark118: checks 
+clovao10: checks 
+*** SHOW DOWN ***
+Clark118: shows [5s 9s] (a pair of Nines)
+clovao10: mucks hand 
+Clark118 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3d Kc 4c 8d 9c]
+Seat 1: clovao10 mucked [Ac 3s]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) showed [5s 9s] and won ($0.11) with a pair of Nines
+Seat 6: pyrtsy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452240444:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:33:49 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($1.02 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: natedogg7071 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.91 in chips) 
+Seat 5: Clark118 ($2.47 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+Clark118: posts small blind $0.01
+Sensey1286: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2c]
+clovao10: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+Sensey1286: folds 
+clovao10: calls $0.02
+*** FLOP *** [5d 8d 7c]
+clovao10: checks 
+Lorpugo: checks 
+*** TURN *** [5d 8d 7c] [5h]
+clovao10: checks 
+Lorpugo: bets $0.04
+clovao10: raises $0.04 to $0.08
+Lorpugo: calls $0.04
+*** RIVER *** [5d 8d 7c 5h] [2h]
+clovao10: bets $0.30
+SosaBárbaro is disconnected 
+Lorpugo: folds 
+Uncalled bet ($0.30) returned to clovao10
+clovao10 collected $0.26 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5d 8d 7c 5h 2h]
+Seat 1: clovao10 collected ($0.26)
+Seat 2: Lorpugo folded on the River
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: Clark118 (small blind) folded before Flop
+Seat 6: Sensey1286 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452274418:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:35:20 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($1.16 in chips) 
+Seat 2: Lorpugo ($1.65 in chips) 
+Seat 3: natedogg7071 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.91 in chips) 
+Seat 5: Clark118 ($2.46 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+Sensey1286: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9s]
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro is connected 
+SosaBárbaro: raises $0.03 to $0.05
+Clark118: folds 
+Sensey1286: folds 
+clovao10: folds 
+Uncalled bet ($0.03) returned to SosaBárbaro
+SosaBárbaro collected $0.05 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro collected ($0.05)
+Seat 5: Clark118 (button) folded before Flop (didn't bet)
+Seat 6: Sensey1286 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452281838:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:35:40 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($1.14 in chips) 
+Seat 2: Lorpugo ($1.65 in chips) 
+Seat 3: natedogg7071 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.94 in chips) 
+Seat 5: Clark118 ($2.46 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Kh]
+natedogg7071: folds 
+SosaBárbaro has timed out
+SosaBárbaro: folds 
+Clark118: raises $0.03 to $0.05
+Sensey1286: folds 
+clovao10: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [9h 3h 5c]
+Lorpugo: bets $0.07
+Clark118: calls $0.07
+*** TURN *** [9h 3h 5c] [4d]
+Lorpugo: bets $0.16
+Clark118: calls $0.16
+*** RIVER *** [9h 3h 5c 4d] [Th]
+Lorpugo: bets $0.70
+Clark118: folds 
+Uncalled bet ($0.70) returned to Lorpugo
+Lorpugo collected $0.55 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [9h 3h 5c 4d Th]
+Seat 1: clovao10 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.55)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded on the River
+Seat 6: Sensey1286 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452317730:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:37:17 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.13 in chips) 
+Seat 2: Lorpugo ($1.92 in chips) 
+Seat 3: natedogg7071 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.94 in chips) 
+Seat 5: Clark118 ($2.18 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+natedogg7071: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 2h]
+SosaBárbaro: folds 
+Clark118: folds 
+Sensey1286: folds 
+clovao10: calls $0.02
+Lorpugo: folds 
+natedogg7071: raises $0.04 to $0.06
+clovao10: calls $0.04
+*** FLOP *** [8c Qc Ts]
+natedogg7071: bets $0.08
+clovao10: folds 
+Uncalled bet ($0.08) returned to natedogg7071
+natedogg7071 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c Qc Ts]
+Seat 1: clovao10 (button) folded on the Flop
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: natedogg7071 (big blind) collected ($0.13)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: Sensey1286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452334660:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:38:03 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.07 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: natedogg7071 ($2.07 in chips) 
+Seat 4: SosaBárbaro ($3.94 in chips) 
+Seat 5: Clark118 ($2.18 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+natedogg7071: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2c]
+Clark118: folds 
+Sensey1286: raises $0.02 to $0.04
+clovao10: calls $0.04
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+*** FLOP *** [9c 4h Ad]
+Sensey1286: checks 
+clovao10: checks 
+*** TURN *** [9c 4h Ad] [5c]
+Sensey1286: checks 
+clovao10: checks 
+*** RIVER *** [9c 4h Ad 5c] [Kd]
+Sensey1286: checks 
+clovao10: checks 
+*** SHOW DOWN ***
+Sensey1286: shows [Ks Th] (a pair of Kings)
+clovao10: mucks hand 
+Sensey1286 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9c 4h Ad 5c Kd]
+Seat 1: clovao10 mucked [9s Jh]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: natedogg7071 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: Sensey1286 showed [Ks Th] and won ($0.11) with a pair of Kings
+
+
+
+PokerStars Hand #239452355946:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:39:00 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($1.03 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: natedogg7071 ($2.06 in chips) 
+Seat 4: SosaBárbaro ($3.92 in chips) 
+Seat 5: Clark118 ($2.18 in chips) 
+Seat 6: Sensey1286 ($2.07 in chips) 
+SosaBárbaro: posts small blind $0.01
+Clark118: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 5c]
+Sensey1286: raises $0.03 to $0.05
+clovao10: folds 
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: folds 
+Clark118: raises $0.16 to $0.21
+Sensey1286: folds 
+Uncalled bet ($0.16) returned to Clark118
+Clark118 collected $0.11 from pot
+Clark118: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: Clark118 (big blind) collected ($0.11)
+Seat 6: Sensey1286 folded before Flop
+
+
+
+PokerStars Hand #239452367336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:39:31 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($1.03 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: natedogg7071 ($2.06 in chips) 
+Seat 4: SosaBárbaro ($3.91 in chips) 
+Seat 5: Clark118 ($2.24 in chips) 
+Seat 6: Sensey1286 ($2.02 in chips) 
+Clark118: posts small blind $0.01
+Sensey1286: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 8c]
+clovao10: calls $0.02
+Lorpugo: folds 
+natedogg7071: folds 
+SosaBárbaro: raises $0.05 to $0.07
+Clark118: folds 
+Sensey1286: folds 
+clovao10: calls $0.05
+*** FLOP *** [6d 8s 9c]
+clovao10: bets $0.02
+SosaBárbaro: raises $0.19 to $0.21
+clovao10: calls $0.19
+*** TURN *** [6d 8s 9c] [Jd]
+clovao10: checks 
+SosaBárbaro: checks 
+*** RIVER *** [6d 8s 9c Jd] [Td]
+clovao10: bets $0.30
+natedogg7071 leaves the table
+FireflySR65 joins the table at seat #3 
+SosaBárbaro: calls $0.30
+*** SHOW DOWN ***
+clovao10: shows [Qc 8h] (a straight, Eight to Queen)
+SosaBárbaro: mucks hand 
+clovao10 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 
+Board [6d 8s 9c Jd Td]
+Seat 1: clovao10 showed [Qc 8h] and won ($1.15) with a straight, Eight to Queen
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: natedogg7071 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) mucked [7s 6s]
+Seat 5: Clark118 (small blind) folded before Flop
+Seat 6: Sensey1286 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452403891:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:41:09 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($1.60 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 4: SosaBárbaro ($3.33 in chips) 
+Seat 5: Clark118 ($2.23 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+Sensey1286: posts small blind $0.01
+clovao10: posts big blind $0.02
+FireflySR65: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9h]
+Lorpugo: folds 
+SosaBárbaro: folds 
+Clark118: folds 
+Sensey1286: folds 
+Uncalled bet ($0.01) returned to clovao10
+clovao10 collected $0.02 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 (button) folded before Flop (didn't bet)
+Seat 6: Sensey1286 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452407096:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:41:18 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($1.61 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 4: SosaBárbaro ($3.33 in chips) 
+Seat 5: Clark118 ($2.23 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+FireflySR65: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ks]
+SosaBárbaro: folds 
+Clark118: folds 
+Sensey1286: folds 
+clovao10: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: Sensey1286 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452410733:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:41:28 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.60 in chips) 
+Seat 2: Lorpugo ($1.92 in chips) 
+Seat 3: FireflySR65 ($1.60 in chips) 
+Seat 4: SosaBárbaro ($3.33 in chips) 
+Seat 5: Clark118 ($2.23 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+FireflySR65: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5s]
+SosaBárbaro: folds 
+Clark118: folds 
+Sensey1286: raises $0.03 to $0.05
+Clark118 leaves the table
+luddepb joins the table at seat #5 
+clovao10 has timed out
+clovao10: folds 
+Lorpugo: folds 
+FireflySR65: raises $0.03 to $0.08
+Sensey1286: raises $0.11 to $0.19
+FireflySR65: calls $0.11
+*** FLOP *** [2d 3s Jd]
+FireflySR65: bets $0.19
+Sensey1286: raises $0.57 to $0.76
+FireflySR65: folds 
+Uncalled bet ($0.57) returned to Sensey1286
+Sensey1286 collected $0.74 from pot
+Sensey1286: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [2d 3s Jd]
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: FireflySR65 (big blind) folded on the Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: Clark118 folded before Flop (didn't bet)
+Seat 6: Sensey1286 collected ($0.74)
+
+
+
+PokerStars Hand #239452431603:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:42:26 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: FireflySR65 ($1.22 in chips) 
+Seat 4: SosaBárbaro ($3.33 in chips) 
+Seat 5: luddepb ($2 in chips) 
+Seat 6: Sensey1286 ($2.36 in chips) 
+FireflySR65: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7d]
+luddepb: checks 
+Sensey1286: folds 
+Lorpugo: folds 
+FireflySR65: raises $0.02 to $0.04
+SosaBárbaro: calls $0.02
+luddepb: folds 
+*** FLOP *** [3h 7h 4h]
+FireflySR65: checks 
+SosaBárbaro: checks 
+*** TURN *** [3h 7h 4h] [As]
+FireflySR65: checks 
+SosaBárbaro: checks 
+*** RIVER *** [3h 7h 4h As] [8s]
+FireflySR65: checks 
+SosaBárbaro: checks 
+*** SHOW DOWN ***
+FireflySR65: shows [Kc 8d] (a pair of Eights)
+SosaBárbaro: mucks hand 
+FireflySR65 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3h 7h 4h As 8s]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: FireflySR65 (small blind) showed [Kc 8d] and won ($0.10) with a pair of Eights
+Seat 4: SosaBárbaro (big blind) mucked [Ks Jd]
+Seat 5: luddepb folded before Flop (didn't bet)
+Seat 6: Sensey1286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452446494:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:43:07 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: FireflySR65 ($1.28 in chips) 
+Seat 4: SosaBárbaro ($3.29 in chips) 
+Seat 5: luddepb ($1.98 in chips) 
+Seat 6: Sensey1286 ($2.36 in chips) 
+SosaBárbaro: posts small blind $0.01
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 8c]
+Sensey1286: folds 
+Lorpugo: folds 
+FireflySR65: raises $0.06 to $0.08
+SosaBárbaro: folds 
+luddepb: calls $0.06
+*** FLOP *** [3h Kd 5h]
+luddepb: checks 
+FireflySR65: bets $0.08
+luddepb: folds 
+Uncalled bet ($0.08) returned to FireflySR65
+FireflySR65 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3h Kd 5h]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: FireflySR65 (button) collected ($0.16)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: luddepb (big blind) folded on the Flop
+Seat 6: Sensey1286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452458376:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:43:40 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: FireflySR65 ($1.36 in chips) 
+Seat 4: SosaBárbaro ($3.28 in chips) 
+Seat 5: luddepb ($1.90 in chips) 
+Seat 6: Sensey1286 ($2.36 in chips) 
+luddepb: posts small blind $0.01
+Sensey1286: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ac]
+Lorpugo: raises $0.04 to $0.06
+FireflySR65: folds 
+SosaBárbaro: folds 
+luddepb: calls $0.05
+Sensey1286: folds 
+*** FLOP *** [9s 3h 7h]
+luddepb: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to luddepb
+luddepb collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s 3h 7h]
+Seat 2: Lorpugo folded on the Flop
+Seat 3: FireflySR65 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: luddepb (small blind) collected ($0.14)
+Seat 6: Sensey1286 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452466354:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:44:02 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.85 in chips) 
+Seat 3: FireflySR65 ($1.36 in chips) 
+Seat 4: SosaBárbaro ($3.28 in chips) 
+Seat 5: luddepb ($1.98 in chips) 
+Seat 6: Sensey1286 ($2.34 in chips) 
+Sensey1286: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ac]
+FireflySR65: folds 
+SosaBárbaro: raises $0.03 to $0.05
+luddepb: folds 
+Sensey1286: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [5d 5h As]
+Sensey1286: checks 
+Lorpugo: checks 
+SosaBárbaro: bets $0.04
+Sensey1286: folds 
+Lorpugo: calls $0.04
+*** TURN *** [5d 5h As] [3c]
+Lorpugo: checks 
+SosaBárbaro: checks 
+*** RIVER *** [5d 5h As 3c] [Ks]
+Lorpugo: bets $0.15
+SosaBárbaro: calls $0.15
+*** SHOW DOWN ***
+Lorpugo: shows [3h Ac] (two pair, Aces and Fives)
+SosaBárbaro: shows [Qs Ad] (two pair, Aces and Fives)
+Lorpugo collected $0.26 from pot
+SosaBárbaro collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [5d 5h As 3c Ks]
+Seat 2: Lorpugo (big blind) showed [3h Ac] and won ($0.26) with two pair, Aces and Fives
+Seat 3: FireflySR65 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro showed [Qs Ad] and won ($0.25) with two pair, Aces and Fives
+Seat 5: luddepb (button) folded before Flop (didn't bet)
+Seat 6: Sensey1286 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239452498273:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:45:31 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: FireflySR65 ($1.36 in chips) 
+Seat 4: SosaBárbaro ($3.29 in chips) 
+Seat 5: luddepb ($1.98 in chips) 
+Seat 6: Sensey1286 ($2.29 in chips) 
+Lorpugo: posts small blind $0.01
+FireflySR65: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d As]
+SosaBárbaro: folds 
+luddepb: raises $0.04 to $0.06
+Sensey1286: raises $0.17 to $0.23
+Lorpugo: folds 
+FireflySR65: calls $0.21
+luddepb: calls $0.17
+*** FLOP *** [Qc 8c 2h]
+FireflySR65: checks 
+luddepb: bets $0.34
+Sensey1286: calls $0.34
+FireflySR65: folds 
+*** TURN *** [Qc 8c 2h] [2c]
+luddepb: bets $0.44
+Sensey1286: folds 
+Uncalled bet ($0.44) returned to luddepb
+luddepb collected $1.33 from pot
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.05 
+Board [Qc 8c 2h 2c]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: FireflySR65 (big blind) folded on the Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: luddepb collected ($1.33)
+Seat 6: Sensey1286 (button) folded on the Turn
+
+
+
+PokerStars Hand #239452518560:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:46:26 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.60 in chips) 
+Seat 2: Lorpugo ($1.86 in chips) 
+Seat 3: FireflySR65 ($1.13 in chips) 
+Seat 4: SosaBárbaro ($3.29 in chips) 
+Seat 5: luddepb ($2.74 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+FireflySR65: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+clovao10: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c As]
+luddepb: calls $0.02
+Sensey1286: folds 
+clovao10: checks 
+Lorpugo: raises $0.10 to $0.12
+FireflySR65: raises $1.01 to $1.13 and is all-in
+SosaBárbaro: folds 
+luddepb: folds 
+clovao10: folds 
+Lorpugo: folds 
+Uncalled bet ($1.01) returned to FireflySR65
+FireflySR65 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop
+Seat 3: FireflySR65 (small blind) collected ($0.31)
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: luddepb folded before Flop
+Seat 6: Sensey1286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452529665:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:46:57 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($1.57 in chips) 
+Seat 2: Lorpugo ($1.74 in chips) 
+Seat 3: FireflySR65 ($1.32 in chips) 
+Seat 4: SosaBárbaro ($3.27 in chips) 
+Seat 5: luddepb ($2.72 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+SosaBárbaro: posts small blind $0.01
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks As]
+Sensey1286: folds 
+clovao10: folds 
+Lorpugo: raises $0.04 to $0.06
+FireflySR65: folds 
+SosaBárbaro: folds 
+luddepb: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+luddepb leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: FireflySR65 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: luddepb (big blind) folded before Flop
+Seat 6: Sensey1286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452535433:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:47:13 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($1.57 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: FireflySR65 ($1.32 in chips) 
+Seat 4: SosaBárbaro ($3.26 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+Sensey1286: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ad]
+Lorpugo: raises $0.04 to $0.06
+FireflySR65: raises $1.26 to $1.32 and is all-in
+lcs_call joins the table at seat #5 
+SosaBárbaro: folds 
+Sensey1286: folds 
+clovao10: folds 
+Lorpugo: folds 
+Uncalled bet ($1.26) returned to FireflySR65
+FireflySR65 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: FireflySR65 collected ($0.15)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 6: Sensey1286 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452544073:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:47:37 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($1.55 in chips) 
+Seat 2: Lorpugo ($1.71 in chips) 
+Seat 3: FireflySR65 ($1.41 in chips) 
+Seat 4: SosaBárbaro ($3.26 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+lcs_call: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 2h]
+FireflySR65 has timed out
+FireflySR65: folds 
+SosaBárbaro: folds 
+Sensey1286: raises $0.03 to $0.05
+clovao10: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [5h 6s 2s]
+clovao10: checks 
+Lorpugo: bets $0.09
+FireflySR65 leaves the table
+Sensey1286: calls $0.09
+clovao10: folds 
+*** TURN *** [5h 6s 2s] [Ts]
+Lorpugo: bets $0.21
+Sensey1286: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5h 6s 2s Ts]
+Seat 1: clovao10 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected ($0.32)
+Seat 3: FireflySR65 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 6: Sensey1286 (button) folded on the Turn
+
+
+
+PokerStars Hand #239452565064:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:48:35 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.50 in chips) 
+Seat 2: Lorpugo ($1.89 in chips) 
+Seat 4: SosaBárbaro ($3.26 in chips) 
+Seat 6: Sensey1286 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+lcs_call: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9c]
+Sensey1286: folds 
+Sensey1286 leaves the table
+clovao10: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+SosaBárbaro: folds 
+clovao10: calls $0.10
+*** FLOP *** [2c 9s Qd]
+Lorpugo: bets $0.13
+clovao10: calls $0.13
+*** TURN *** [2c 9s Qd] [8s]
+Lorpugo: bets $0.17
+clovao10: raises $0.17 to $0.34
+Lorpugo: folds 
+Uncalled bet ($0.17) returned to clovao10
+clovao10 collected $0.83 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [2c 9s Qd 8s]
+Seat 1: clovao10 (button) collected ($0.83)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 6: Sensey1286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452584114:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:49:28 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.91 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: SosaBárbaro ($3.24 in chips) 
+Seat 5: lcs_call ($0.80 in chips) 
+SosaBárbaro: posts small blind $0.01
+lcs_call: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8d]
+clovao10: folds 
+Lorpugo: raises $0.04 to $0.06
+SosaBárbaro: folds 
+lcs_call: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: lcs_call (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452596250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:50:01 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($1.91 in chips) 
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 4: SosaBárbaro ($3.23 in chips) 
+Seat 5: lcs_call ($0.78 in chips) 
+lcs_call: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2c]
+Lorpugo: folds 
+SosaBárbaro: folds 
+lcs_call: folds 
+Uncalled bet ($0.01) returned to clovao10
+clovao10 collected $0.02 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: lcs_call (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452602638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:50:19 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($1.92 in chips) 
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 4: SosaBárbaro ($3.23 in chips) 
+Seat 5: lcs_call ($0.77 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Tc]
+SosaBárbaro: raises $0.03 to $0.05
+lcs_call: folds 
+clovao10: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to SosaBárbaro
+SosaBárbaro collected $0.05 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: SosaBárbaro collected ($0.05)
+Seat 5: lcs_call (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452614346:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:50:52 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.91 in chips) 
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 4: SosaBárbaro ($3.26 in chips) 
+Seat 5: lcs_call ($0.77 in chips) 
+Lorpugo: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Kh]
+lcs_call: folds 
+clovao10: folds 
+Lorpugo: raises $0.04 to $0.06
+SosaBárbaro: raises $0.12 to $0.18
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to SosaBárbaro
+SosaBárbaro collected $0.12 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) collected ($0.12)
+Seat 5: lcs_call folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452626953:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:51:28 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.91 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: SosaBárbaro ($3.32 in chips) 
+Seat 5: lcs_call ($0.77 in chips) 
+SosaBárbaro: posts small blind $0.01
+lcs_call: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2c]
+clovao10: calls $0.02
+Lorpugo: folds 
+SosaBárbaro: folds 
+Zigunzen joins the table at seat #6 
+lcs_call: raises $0.06 to $0.08
+clovao10: raises $0.06 to $0.14
+kotino'99 joins the table at seat #3 
+lcs_call: folds 
+Uncalled bet ($0.06) returned to clovao10
+clovao10 collected $0.17 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: clovao10 collected ($0.17)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: lcs_call (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452640212:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:52:05 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: SosaBárbaro ($3.31 in chips) 
+Seat 5: lcs_call ($0.69 in chips) 
+lcs_call: posts small blind $0.01
+clovao10: posts big blind $0.02
+kotino'99: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 8d]
+Lorpugo: raises $0.04 to $0.06
+SosaBárbaro: folds 
+lcs_call: folds 
+clovao10: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: lcs_call (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452644459:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:52:17 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($1.98 in chips) 
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 4: SosaBárbaro ($3.31 in chips) 
+Seat 5: lcs_call ($0.68 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+kotino'99: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qd]
+SosaBárbaro: folds 
+lcs_call: raises $0.03 to $0.05
+clovao10: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [Qc As 4s]
+clovao10: checks 
+lcs_call: bets $0.03
+clovao10: folds 
+Uncalled bet ($0.03) returned to lcs_call
+lcs_call collected $0.12 from pot
+lcs_call: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qc As 4s]
+Seat 1: clovao10 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: lcs_call (button) collected ($0.12)
+
+
+
+PokerStars Hand #239452657859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:52:55 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.93 in chips) 
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.31 in chips) 
+Seat 5: lcs_call ($0.75 in chips) 
+Lorpugo: posts small blind $0.01
+kotino'99: posts big blind $0.02
+Zigunzen: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 3d]
+SosaBárbaro: folds 
+lcs_call: folds 
+clovao10: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to kotino'99
+kotino'99 collected $0.02 from pot
+kotino'99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: kotino'99 (big blind) collected ($0.02)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: lcs_call folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452669337:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:53:28 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.93 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2.01 in chips) 
+Seat 4: SosaBárbaro ($3.31 in chips) 
+Seat 5: lcs_call ($0.75 in chips) 
+kotino'99: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+Zigunzen: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ks]
+lcs_call: folds 
+clovao10: folds 
+lcs_call leaves the table
+Lorpugo: raises $0.04 to $0.06
+kotino'99: folds 
+SosaBárbaro: calls $0.04
+*** FLOP *** [9c 9s Kd]
+SosaBárbaro: checks 
+Lorpugo: bets $0.09
+SosaBárbaro: calls $0.09
+*** TURN *** [9c 9s Kd] [6s]
+SosaBárbaro: checks 
+Lorpugo: bets $0.15
+lalon22 joins the table at seat #5 
+SosaBárbaro: calls $0.15
+*** RIVER *** [9c 9s Kd 6s] [8h]
+SosaBárbaro: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+SosaBárbaro: shows [Th Kc] (two pair, Kings and Nines)
+Lorpugo: mucks hand 
+SosaBárbaro collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [9c 9s Kd 6s 8h]
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) mucked [8c Ks]
+Seat 3: kotino'99 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) showed [Th Kc] and won ($0.59) with two pair, Kings and Nines
+Seat 5: lcs_call folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452695762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:54:43 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($1.93 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.60 in chips) 
+Seat 5: lalon22 ($2 in chips) 
+SosaBárbaro: posts small blind $0.01
+lalon22: posts big blind $0.02
+Zigunzen: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Kd]
+clovao10: calls $0.02
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: raises $0.08 to $0.10
+lalon22: folds 
+clovao10: folds 
+Uncalled bet ($0.08) returned to SosaBárbaro
+SosaBárbaro collected $0.06 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: clovao10 folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) collected ($0.06)
+Seat 5: lalon22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452704493:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:55:08 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($1.91 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.64 in chips) 
+Seat 5: lalon22 ($2 in chips) 
+Seat 6: Zigunzen ($2 in chips) 
+lalon22: posts small blind $0.01
+Zigunzen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2d]
+clovao10: calls $0.02
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: folds 
+lalon22: folds 
+Zigunzen: checks 
+*** FLOP *** [6s Js 4c]
+Zigunzen: checks 
+clovao10: bets $0.08
+Zigunzen has timed out
+Zigunzen: folds 
+Uncalled bet ($0.08) returned to clovao10
+clovao10 collected $0.05 from pot
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s Js 4c]
+Seat 1: clovao10 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop (didn't bet)
+Seat 5: lalon22 (small blind) folded before Flop
+Seat 6: Zigunzen (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239452725790:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:56:23 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($1.94 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.64 in chips) 
+Seat 5: lalon22 ($2 in chips) 
+Seat 6: Zigunzen ($2 in chips) 
+Zigunzen: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2c]
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: raises $0.03 to $0.05
+lalon22: folds 
+Zigunzen: folds 
+clovao10: folds 
+Uncalled bet ($0.03) returned to SosaBárbaro
+SosaBárbaro collected $0.05 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro collected ($0.05)
+Seat 5: lalon22 (button) folded before Flop (didn't bet)
+Seat 6: Zigunzen (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452729025:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:56:35 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($1.92 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.67 in chips) 
+Seat 5: lalon22 ($2 in chips) 
+Seat 6: Zigunzen ($2 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kh]
+kotino'99: folds 
+SosaBárbaro: raises $0.03 to $0.05
+lalon22: folds 
+Zigunzen: folds 
+clovao10: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [5s 9c 2d]
+clovao10: bets $0.02
+Lorpugo: calls $0.02
+SosaBárbaro: raises $0.19 to $0.21
+clovao10: folds 
+Lorpugo: folds 
+Uncalled bet ($0.19) returned to SosaBárbaro
+SosaBárbaro collected $0.20 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5s 9c 2d]
+Seat 1: clovao10 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro collected ($0.20)
+Seat 5: lalon22 folded before Flop (didn't bet)
+Seat 6: Zigunzen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452739284:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:57:10 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.85 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: lalon22 ($2 in chips) 
+Seat 6: Zigunzen ($2 in chips) 
+Lorpugo: posts small blind $0.01
+kotino'99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 6s]
+SosaBárbaro: folds 
+lalon22: folds 
+Zigunzen: folds 
+clovao10: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to kotino'99
+kotino'99 collected $0.02 from pot
+kotino'99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: kotino'99 (big blind) collected ($0.02)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: lalon22 folded before Flop (didn't bet)
+Seat 6: Zigunzen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452741823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:57:19 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.85 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2.01 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: lalon22 ($2 in chips) 
+Seat 6: Zigunzen ($2 in chips) 
+kotino'99: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 5h]
+lalon22: folds 
+Zigunzen: folds 
+clovao10: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+kotino'99: folds 
+SosaBárbaro: folds 
+clovao10: calls $0.07
+*** FLOP *** [Jc 9h Js]
+clovao10: checks 
+Lorpugo: checks 
+*** TURN *** [Jc 9h Js] [Jh]
+clovao10: bets $0.08
+Lorpugo: calls $0.08
+*** RIVER *** [Jc 9h Js Jh] [8d]
+clovao10: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+clovao10: shows [Kd 8c] (a full house, Jacks full of Eights)
+Lorpugo: mucks hand 
+clovao10 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jc 9h Js Jh 8d]
+Seat 1: clovao10 showed [Kd 8c] and won ($0.36) with a full house, Jacks full of Eights
+Seat 2: Lorpugo (button) mucked [Ah 5h]
+Seat 3: kotino'99 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: lalon22 folded before Flop (didn't bet)
+Seat 6: Zigunzen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452760206:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:58:23 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($2.04 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.78 in chips) 
+SosaBárbaro: posts small blind $0.01
+lalon22: is sitting out 
+Zigunzen: is sitting out 
+Zigunzen leaves the table
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 2h]
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: folds 
+Uncalled bet ($0.01) returned to clovao10
+clovao10 collected $0.02 from pot
+lalon22 leaves the table
+clovao10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452763005:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:58:33 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($2.05 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.77 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ac]
+kotino'99: folds 
+K1rushka_l joins the table at seat #6 
+SosaBárbaro: raises $0.03 to $0.05
+clovao10: calls $0.04
+CZARNY999901 joins the table at seat #5 
+Lorpugo: raises $0.15 to $0.20
+SosaBárbaro: folds 
+clovao10: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: clovao10 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.15)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded before Flop
+
+
+
+PokerStars Hand #239452769232:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:58:54 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($2 in chips) 
+Seat 2: Lorpugo ($1.70 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.72 in chips) 
+Lorpugo: posts small blind $0.01
+kotino'99: posts big blind $0.02
+CZARNY999901: sits out 
+K1rushka_l: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 2h]
+SosaBárbaro: raises $0.03 to $0.05
+clovao10: folds 
+Lorpugo: folds 
+kotino'99: calls $0.03
+*** FLOP *** [Qd Jc 2c]
+kotino'99: checks 
+SosaBárbaro: bets $0.06
+kotino'99: folds 
+Uncalled bet ($0.06) returned to SosaBárbaro
+SosaBárbaro collected $0.11 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qd Jc 2c]
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: kotino'99 (big blind) folded on the Flop
+Seat 4: SosaBárbaro collected ($0.11)
+
+
+
+PokerStars Hand #239452780371:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 17:59:33 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($2 in chips) 
+Seat 2: Lorpugo ($1.69 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.78 in chips) 
+kotino'99: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+CZARNY999901: sits out 
+K1rushka_l: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7d]
+clovao10: calls $0.02
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: checks 
+*** FLOP *** [8d 6h Td]
+SosaBárbaro: checks 
+clovao10: checks 
+*** TURN *** [8d 6h Td] [3s]
+SosaBárbaro: checks 
+clovao10: bets $0.06
+SosaBárbaro: calls $0.06
+*** RIVER *** [8d 6h Td 3s] [Jd]
+SosaBárbaro: checks 
+clovao10: checks 
+*** SHOW DOWN ***
+SosaBárbaro: shows [Js 6d] (two pair, Jacks and Sixes)
+clovao10: mucks hand 
+SosaBárbaro collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8d 6h Td 3s Jd]
+Seat 1: clovao10 mucked [9h 9s]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: kotino'99 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) showed [Js 6d] and won ($0.16) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #239452794542:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:00:22 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($1.92 in chips) 
+Seat 2: Lorpugo ($1.69 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.86 in chips) 
+Seat 5: CZARNY999901 ($1.75 in chips) 
+SosaBárbaro: posts small blind $0.01
+CZARNY999901: posts big blind $0.02
+K1rushka_l: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qs]
+clovao10: folds 
+Lorpugo: raises $0.04 to $0.06
+kotino'99: folds 
+SosaBárbaro: folds 
+CZARNY999901: calls $0.04
+*** FLOP *** [Jd Ks 4d]
+CZARNY999901: checks 
+Lorpugo: bets $0.07
+CZARNY999901: calls $0.07
+*** TURN *** [Jd Ks 4d] [5d]
+CZARNY999901: checks 
+Lorpugo: checks 
+*** RIVER *** [Jd Ks 4d 5d] [6d]
+CZARNY999901: bets $0.23
+Lorpugo: folds 
+Uncalled bet ($0.23) returned to CZARNY999901
+CZARNY999901 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Jd Ks 4d 5d 6d]
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded on the River
+Seat 3: kotino'99 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: CZARNY999901 (big blind) collected ($0.26)
+
+
+
+PokerStars Hand #239452812176:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:01:19 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 1: clovao10 ($1.92 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.85 in chips) 
+Seat 5: CZARNY999901 ($1.88 in chips) 
+Seat 6: K1rushka_l ($2 in chips) 
+CZARNY999901: posts small blind $0.01
+K1rushka_l: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Th]
+clovao10: folds 
+Lorpugo: raises $0.04 to $0.06
+kotino'99: folds 
+SosaBárbaro: raises $0.12 to $0.18
+CZARNY999901: folds 
+K1rushka_l: folds 
+Lorpugo: calls $0.12
+*** FLOP *** [5c Ah 6c]
+Lorpugo: bets $0.08
+SosaBárbaro: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.38 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [5c Ah 6c]
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.38)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) folded on the Flop
+Seat 5: CZARNY999901 (small blind) folded before Flop
+Seat 6: K1rushka_l (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452825872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:02:00 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($1.92 in chips) 
+Seat 2: Lorpugo ($1.80 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.67 in chips) 
+Seat 5: CZARNY999901 ($1.87 in chips) 
+Seat 6: K1rushka_l ($1.98 in chips) 
+K1rushka_l: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 6d]
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: folds 
+CZARNY999901: raises $0.04 to $0.06
+K1rushka_l: folds 
+clovao10: folds 
+Uncalled bet ($0.04) returned to CZARNY999901
+CZARNY999901 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: CZARNY999901 (button) collected ($0.05)
+Seat 6: K1rushka_l (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452830086:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:02:13 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 1: clovao10 ($1.90 in chips) 
+Seat 2: Lorpugo ($1.80 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.67 in chips) 
+Seat 5: CZARNY999901 ($1.90 in chips) 
+Seat 6: K1rushka_l ($1.97 in chips) 
+clovao10: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2h]
+kotino'99: folds 
+SosaBárbaro: folds 
+CZARNY999901: folds 
+K1rushka_l: folds 
+clovao10: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: clovao10 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: CZARNY999901 folded before Flop (didn't bet)
+Seat 6: K1rushka_l (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452832607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:02:20 ET
+Table 'Liriope III' 6-max Seat #1 is the button
+Seat 1: clovao10 ($1.89 in chips) 
+Seat 2: Lorpugo ($1.81 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.67 in chips) 
+Seat 5: CZARNY999901 ($1.90 in chips) 
+Seat 6: K1rushka_l ($1.97 in chips) 
+Lorpugo: posts small blind $0.01
+kotino'99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9d]
+SosaBárbaro: raises $0.03 to $0.05
+CZARNY999901: folds 
+K1rushka_l: folds 
+clovao10: folds 
+Lorpugo: calls $0.04
+kotino'99: calls $0.03
+*** FLOP *** [4h 7s Qh]
+Lorpugo: checks 
+kotino'99: checks 
+SosaBárbaro: bets $0.07
+Lorpugo: folds 
+kotino'99: folds 
+Uncalled bet ($0.07) returned to SosaBárbaro
+SosaBárbaro collected $0.14 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4h 7s Qh]
+Seat 1: clovao10 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: kotino'99 (big blind) folded on the Flop
+Seat 4: SosaBárbaro collected ($0.14)
+Seat 5: CZARNY999901 folded before Flop (didn't bet)
+Seat 6: K1rushka_l folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452845757:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:02:59 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 1: clovao10 ($1.89 in chips) 
+Seat 2: Lorpugo ($1.76 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.76 in chips) 
+Seat 5: CZARNY999901 ($1.90 in chips) 
+Seat 6: K1rushka_l ($1.97 in chips) 
+kotino'99: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6c]
+CZARNY999901: folds 
+K1rushka_l: raises $0.03 to $0.05
+clovao10: folds 
+Lorpugo: calls $0.05
+kotino'99: folds 
+SosaBárbaro: folds 
+*** FLOP *** [3h 3d Js]
+K1rushka_l: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [3h 3d Js] [5c]
+K1rushka_l: checks 
+Lorpugo: bets $0.13
+K1rushka_l: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3h 3d Js 5c]
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.20)
+Seat 3: kotino'99 (small blind) folded before Flop
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: CZARNY999901 folded before Flop (didn't bet)
+Seat 6: K1rushka_l folded on the Turn
+
+
+
+PokerStars Hand #239452862039:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:03:46 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 1: clovao10 ($1.89 in chips) 
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.74 in chips) 
+Seat 5: CZARNY999901 ($1.90 in chips) 
+Seat 6: K1rushka_l ($1.88 in chips) 
+SosaBárbaro: posts small blind $0.01
+CZARNY999901: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 7s]
+K1rushka_l: folds 
+clovao10 has timed out
+clovao10: folds 
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: raises $0.04 to $0.06
+CZARNY999901: folds 
+Uncalled bet ($0.04) returned to SosaBárbaro
+SosaBárbaro collected $0.04 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: clovao10 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) collected ($0.04)
+Seat 5: CZARNY999901 (big blind) folded before Flop
+Seat 6: K1rushka_l folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452872091:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:04:15 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.76 in chips) 
+Seat 5: CZARNY999901 ($1.88 in chips) 
+Seat 6: K1rushka_l ($1.88 in chips) 
+CZARNY999901: posts small blind $0.01
+K1rushka_l: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 5s]
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: raises $0.03 to $0.05
+CZARNY999901: folds 
+K1rushka_l: folds 
+Uncalled bet ($0.03) returned to SosaBárbaro
+SosaBárbaro collected $0.05 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) collected ($0.05)
+Seat 5: CZARNY999901 (small blind) folded before Flop
+Seat 6: K1rushka_l (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452876703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:04:29 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.79 in chips) 
+Seat 5: CZARNY999901 ($1.87 in chips) 
+Seat 6: K1rushka_l ($1.86 in chips) 
+K1rushka_l: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 3h]
+kotino'99: raises $0.04 to $0.06
+SosaBárbaro: folds 
+CZARNY999901: raises $0.08 to $0.14
+K1rushka_l: folds 
+Lorpugo: folds 
+kotino'99: folds 
+Uncalled bet ($0.08) returned to CZARNY999901
+CZARNY999901 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: kotino'99 folded before Flop
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: CZARNY999901 (button) collected ($0.15)
+Seat 6: K1rushka_l (small blind) folded before Flop
+
+
+
+PokerStars Hand #239452884810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:04:52 ET
+Table 'Liriope III' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.85 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.79 in chips) 
+Seat 5: CZARNY999901 ($1.96 in chips) 
+Seat 6: K1rushka_l ($1.85 in chips) 
+Lorpugo: posts small blind $0.01
+kotino'99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Kd]
+SosaBárbaro: raises $0.03 to $0.05
+CZARNY999901: folds 
+K1rushka_l: folds 
+Lorpugo: folds 
+kotino'99: folds 
+Uncalled bet ($0.03) returned to SosaBárbaro
+SosaBárbaro collected $0.05 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: kotino'99 (big blind) folded before Flop
+Seat 4: SosaBárbaro collected ($0.05)
+Seat 5: CZARNY999901 folded before Flop (didn't bet)
+Seat 6: K1rushka_l (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452889259:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:05:05 ET
+Table 'Liriope III' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.84 in chips) 
+Seat 3: kotino'99 ($2 in chips) 
+Seat 4: SosaBárbaro ($3.82 in chips) 
+Seat 5: CZARNY999901 ($1.96 in chips) 
+Seat 6: K1rushka_l ($1.85 in chips) 
+kotino'99: posts small blind $0.01
+SosaBárbaro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7h]
+CZARNY999901: folds 
+K1rushka_l: folds 
+Lorpugo: raises $0.04 to $0.06
+kotino'99: raises $0.18 to $0.24
+SosaBárbaro: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to kotino'99
+kotino'99 collected $0.14 from pot
+kotino'99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 2: Lorpugo (button) folded before Flop
+Seat 3: kotino'99 (small blind) collected ($0.14)
+Seat 4: SosaBárbaro (big blind) folded before Flop
+Seat 5: CZARNY999901 folded before Flop (didn't bet)
+Seat 6: K1rushka_l folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452898695:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:05:33 ET
+Table 'Liriope III' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.78 in chips) 
+Seat 3: kotino'99 ($2.08 in chips) 
+Seat 4: SosaBárbaro ($3.80 in chips) 
+Seat 5: CZARNY999901 ($1.96 in chips) 
+Seat 6: K1rushka_l ($1.85 in chips) 
+SosaBárbaro: posts small blind $0.01
+CZARNY999901: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ad]
+K1rushka_l: folds 
+Lorpugo: raises $0.04 to $0.06
+kotino'99: folds 
+SosaBárbaro: folds 
+CZARNY999901: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: kotino'99 (button) folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (small blind) folded before Flop
+Seat 5: CZARNY999901 (big blind) folded before Flop
+Seat 6: K1rushka_l folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239452902067:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:05:42 ET
+Table 'Liriope III' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.81 in chips) 
+Seat 3: kotino'99 ($2.08 in chips) 
+Seat 4: SosaBárbaro ($3.79 in chips) 
+Seat 5: CZARNY999901 ($1.94 in chips) 
+Seat 6: K1rushka_l ($1.85 in chips) 
+CZARNY999901: posts small blind $0.01
+K1rushka_l: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 6c]
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: raises $0.03 to $0.05
+CZARNY999901: folds 
+K1rushka_l: folds 
+Uncalled bet ($0.03) returned to SosaBárbaro
+SosaBárbaro collected $0.05 from pot
+SosaBárbaro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro (button) collected ($0.05)
+Seat 5: CZARNY999901 (small blind) folded before Flop
+Seat 6: K1rushka_l (big blind) folded before Flop
+
+
+
+PokerStars Hand #239452906889:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/25 18:05:56 ET
+Table 'Liriope III' 6-max Seat #5 is the button
+Seat 1: clovao10 ($1.89 in chips) 
+Seat 2: Lorpugo ($1.81 in chips) 
+Seat 3: kotino'99 ($2.08 in chips) 
+Seat 4: SosaBárbaro ($3.82 in chips) 
+Seat 5: CZARNY999901 ($1.93 in chips) 
+Seat 6: K1rushka_l ($1.83 in chips) 
+K1rushka_l: posts small blind $0.01
+clovao10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9s]
+Lorpugo: folds 
+kotino'99: folds 
+SosaBárbaro: folds 
+CZARNY999901: raises $0.04 to $0.06
+K1rushka_l: folds 
+clovao10: folds 
+Uncalled bet ($0.04) returned to CZARNY999901
+CZARNY999901 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: clovao10 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: kotino'99 folded before Flop (didn't bet)
+Seat 4: SosaBárbaro folded before Flop (didn't bet)
+Seat 5: CZARNY999901 (button) collected ($0.05)
+Seat 6: K1rushka_l (small blind) folded before Flop
+
+
+

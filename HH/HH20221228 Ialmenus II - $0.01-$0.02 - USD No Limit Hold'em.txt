@@ -1,0 +1,673 @@
+﻿PokerStars Hand #240746869679:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:18:01 ET
+Table 'Ialmenus II' 6-max Seat #4 is the button
+Seat 1: MrThegetthor ($2.04 in chips) 
+Seat 2: startravel07 ($8.14 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.30 in chips) 
+Seat 5: Rubely77 ($2.62 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Rubely77: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Kc]
+MrThegetthor: raises $0.04 to $0.06
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: calls $0.06
+Rubely77: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Jd 9h 6h]
+Lorpugo: checks 
+MrThegetthor: bets $0.09
+maugli38: folds 
+Lorpugo: calls $0.09
+*** TURN *** [Jd 9h 6h] [5s]
+Lorpugo: checks 
+MrThegetthor: checks 
+*** RIVER *** [Jd 9h 6h 5s] [7d]
+Lorpugo: checks 
+MrThegetthor: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qs Kc] (high card King)
+MrThegetthor: shows [Ad Qc] (high card Ace)
+MrThegetthor collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jd 9h 6h 5s 7d]
+Seat 1: MrThegetthor showed [Ad Qc] and won ($0.36) with high card Ace
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 4: maugli38 (button) folded on the Flop
+Seat 5: Rubely77 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [Qs Kc] and lost with high card King
+
+
+
+PokerStars Hand #240746882542:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:19:11 ET
+Table 'Ialmenus II' 6-max Seat #5 is the button
+Seat 1: MrThegetthor ($2.25 in chips) 
+Seat 2: startravel07 ($8.14 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.24 in chips) 
+Seat 5: Rubely77 ($2.61 in chips) 
+Seat 6: Lorpugo ($1.45 in chips) 
+Lorpugo: posts small blind $0.01
+MrThegetthor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 8h]
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Rubely77: folds 
+Lorpugo: raises $0.04 to $0.06
+MrThegetthor: calls $0.04
+*** FLOP *** [5d 9s Js]
+Lorpugo: checks 
+MrThegetthor: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [5d 9s Js] [Jh]
+Lorpugo: checks 
+MrThegetthor: checks 
+*** RIVER *** [5d 9s Js Jh] [Jc]
+Lorpugo: checks 
+MrThegetthor: bets $0.16
+Lorpugo: calls $0.16
+*** SHOW DOWN ***
+MrThegetthor: shows [9c Kh] (a full house, Jacks full of Nines)
+Lorpugo: mucks hand 
+MrThegetthor collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [5d 9s Js Jh Jc]
+Seat 1: MrThegetthor (big blind) showed [9c Kh] and won ($0.50) with a full house, Jacks full of Nines
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 4: maugli38 folded before Flop (didn't bet)
+Seat 5: Rubely77 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) mucked [8s 8h]
+
+
+
+PokerStars Hand #240746894421:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:20:17 ET
+Table 'Ialmenus II' 6-max Seat #6 is the button
+Seat 1: MrThegetthor ($2.49 in chips) 
+Seat 2: startravel07 ($8.14 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.24 in chips) 
+Seat 5: Rubely77 ($2.61 in chips) 
+Seat 6: Lorpugo ($1.19 in chips) 
+MrThegetthor: posts small blind $0.01
+startravel07: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 4c]
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Rubely77: raises $0.03 to $0.05
+Lorpugo: folds 
+MrThegetthor: folds 
+startravel07: raises $0.19 to $0.24
+Rubely77: folds 
+Uncalled bet ($0.19) returned to startravel07
+startravel07 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: MrThegetthor (small blind) folded before Flop
+Seat 2: startravel07 (big blind) collected ($0.11)
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 4: maugli38 folded before Flop (didn't bet)
+Seat 5: Rubely77 folded before Flop
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746899997:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:20:47 ET
+Table 'Ialmenus II' 6-max Seat #1 is the button
+Seat 1: MrThegetthor ($2.48 in chips) 
+Seat 2: startravel07 ($8.20 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.24 in chips) 
+Seat 5: Rubely77 ($2.56 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+startravel07: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3s]
+maugli38: folds 
+Rubely77: folds 
+Lorpugo: folds 
+MrThegetthor: raises $0.03 to $0.05
+startravel07: raises $0.19 to $0.24
+Myatnyj_Zayats: folds 
+MrThegetthor: folds 
+Uncalled bet ($0.19) returned to startravel07
+startravel07 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: MrThegetthor (button) folded before Flop
+Seat 2: startravel07 (small blind) collected ($0.12)
+Seat 3: Myatnyj_Zayats (big blind) folded before Flop
+Seat 4: maugli38 folded before Flop (didn't bet)
+Seat 5: Rubely77 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746904475:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:21:12 ET
+Table 'Ialmenus II' 6-max Seat #2 is the button
+Seat 1: MrThegetthor ($2.43 in chips) 
+Seat 2: startravel07 ($8.27 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.24 in chips) 
+Seat 5: Rubely77 ($2.56 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 7c]
+Rubely77: folds 
+Lorpugo: folds 
+MrThegetthor: folds 
+startravel07: folds 
+Myatnyj_Zayats: folds 
+Uncalled bet ($0.01) returned to maugli38
+maugli38 collected $0.02 from pot
+maugli38: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MrThegetthor folded before Flop (didn't bet)
+Seat 2: startravel07 (button) folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats (small blind) folded before Flop
+Seat 4: maugli38 (big blind) collected ($0.02)
+Seat 5: Rubely77 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746906505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:21:23 ET
+Table 'Ialmenus II' 6-max Seat #3 is the button
+Seat 1: MrThegetthor ($2.43 in chips) 
+Seat 2: startravel07 ($8.27 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.25 in chips) 
+Seat 5: Rubely77 ($2.56 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+maugli38: posts small blind $0.01
+Rubely77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Jd]
+Lorpugo: folds 
+MrThegetthor: raises $0.04 to $0.06
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: calls $0.05
+Rubely77: folds 
+*** FLOP *** [5c 6c Kd]
+maugli38: bets $0.10
+MrThegetthor: folds 
+Uncalled bet ($0.10) returned to maugli38
+maugli38 collected $0.14 from pot
+maugli38: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5c 6c Kd]
+Seat 1: MrThegetthor folded on the Flop
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 4: maugli38 (small blind) collected ($0.14)
+Seat 5: Rubely77 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746917121:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:22:21 ET
+Table 'Ialmenus II' 6-max Seat #4 is the button
+Seat 1: MrThegetthor ($2.37 in chips) 
+Seat 2: startravel07 ($8.27 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.33 in chips) 
+Seat 5: Rubely77 ($2.54 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+Rubely77: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ks]
+MrThegetthor: raises $0.04 to $0.06
+startravel07: raises $0.12 to $0.18
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Rubely77: folds 
+Lorpugo: folds 
+MrThegetthor: folds 
+Uncalled bet ($0.12) returned to startravel07
+startravel07 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: MrThegetthor folded before Flop
+Seat 2: startravel07 collected ($0.15)
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 4: maugli38 (button) folded before Flop (didn't bet)
+Seat 5: Rubely77 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240746922119:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:22:48 ET
+Table 'Ialmenus II' 6-max Seat #5 is the button
+Seat 1: MrThegetthor ($2.31 in chips) 
+Seat 2: startravel07 ($8.36 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.33 in chips) 
+Seat 5: Rubely77 ($2.53 in chips) 
+Seat 6: Lorpugo ($1.97 in chips) 
+Lorpugo: posts small blind $0.01
+MrThegetthor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 9h]
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Rubely77: folds 
+Lorpugo: raises $0.04 to $0.06
+MrThegetthor: raises $0.12 to $0.18
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to MrThegetthor
+MrThegetthor collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: MrThegetthor (big blind) collected ($0.12)
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 4: maugli38 folded before Flop (didn't bet)
+Seat 5: Rubely77 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240746930054:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:23:32 ET
+Table 'Ialmenus II' 6-max Seat #6 is the button
+Seat 1: MrThegetthor ($2.37 in chips) 
+Seat 2: startravel07 ($8.36 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.33 in chips) 
+Seat 5: Rubely77 ($2.53 in chips) 
+Seat 6: Lorpugo ($1.91 in chips) 
+MrThegetthor: posts small blind $0.01
+startravel07: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 4s]
+Myatnyj_Zayats: raises $0.04 to $0.06
+maugli38: calls $0.06
+Rubely77: folds 
+Lorpugo: calls $0.06
+MrThegetthor: raises $0.26 to $0.32
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Lorpugo: folds 
+Uncalled bet ($0.26) returned to MrThegetthor
+MrThegetthor collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0 
+Seat 1: MrThegetthor (small blind) collected ($0.26)
+Seat 2: startravel07 (big blind) folded before Flop
+Seat 3: Myatnyj_Zayats folded before Flop
+Seat 4: maugli38 folded before Flop
+Seat 5: Rubely77 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #240746936673:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:24:08 ET
+Table 'Ialmenus II' 6-max Seat #1 is the button
+Seat 1: MrThegetthor ($2.57 in chips) 
+Seat 2: startravel07 ($8.34 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.27 in chips) 
+Seat 5: Rubely77 ($2.53 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+startravel07: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ad]
+maugli38: folds 
+Rubely77: folds 
+Lorpugo: raises $0.04 to $0.06
+MrThegetthor: folds 
+startravel07: calls $0.05
+Myatnyj_Zayats: folds 
+*** FLOP *** [7d 2s 5h]
+startravel07: checks 
+Lorpugo: bets $0.09
+startravel07: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7d 2s 5h]
+Seat 1: MrThegetthor (button) folded before Flop (didn't bet)
+Seat 2: startravel07 (small blind) folded on the Flop
+Seat 3: Myatnyj_Zayats (big blind) folded before Flop
+Seat 4: maugli38 folded before Flop (didn't bet)
+Seat 5: Rubely77 folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.14)
+
+
+
+PokerStars Hand #240746943854:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:24:47 ET
+Table 'Ialmenus II' 6-max Seat #2 is the button
+Seat 1: MrThegetthor ($2.57 in chips) 
+Seat 2: startravel07 ($8.28 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.27 in chips) 
+Seat 5: Rubely77 ($2.53 in chips) 
+Seat 6: Lorpugo ($1.93 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Qd]
+Rubely77: folds 
+Lorpugo: raises $0.04 to $0.06
+MrThegetthor has timed out
+MrThegetthor: folds 
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: calls $0.04
+*** FLOP *** [6d 4d 9d]
+maugli38: checks 
+Lorpugo: bets $0.09
+maugli38: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d 4d 9d]
+Seat 1: MrThegetthor folded before Flop (didn't bet)
+Seat 2: startravel07 (button) folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats (small blind) folded before Flop
+Seat 4: maugli38 (big blind) folded on the Flop
+Seat 5: Rubely77 folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.13)
+
+
+
+PokerStars Hand #240746951262:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:25:28 ET
+Table 'Ialmenus II' 6-max Seat #3 is the button
+Seat 1: MrThegetthor ($2.57 in chips) 
+Seat 2: startravel07 ($8.28 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.21 in chips) 
+Seat 5: Rubely77 ($2.53 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+maugli38: posts small blind $0.01
+Rubely77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ts]
+Lorpugo: folds 
+MrThegetthor: folds 
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Uncalled bet ($0.01) returned to Rubely77
+Rubely77 collected $0.02 from pot
+Rubely77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MrThegetthor folded before Flop (didn't bet)
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 4: maugli38 (small blind) folded before Flop
+Seat 5: Rubely77 (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746953779:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:25:41 ET
+Table 'Ialmenus II' 6-max Seat #4 is the button
+Seat 1: MrThegetthor ($2.57 in chips) 
+Seat 2: startravel07 ($8.28 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.20 in chips) 
+Seat 5: Rubely77 ($2.54 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+Rubely77: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Kc]
+MrThegetthor: folds 
+startravel07: folds 
+Myatnyj_Zayats: raises $0.03 to $0.05
+maugli38: folds 
+Rubely77: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [9c 4s 3s]
+Lorpugo: checks 
+Myatnyj_Zayats: checks 
+*** TURN *** [9c 4s 3s] [2c]
+Lorpugo: bets $0.10
+Myatnyj_Zayats: calls $0.10
+*** RIVER *** [9c 4s 3s 2c] [Qd]
+Lorpugo: bets $0.26
+Myatnyj_Zayats: folds 
+Uncalled bet ($0.26) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9c 4s 3s 2c Qd]
+Seat 1: MrThegetthor folded before Flop (didn't bet)
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats folded on the River
+Seat 4: maugli38 (button) folded before Flop (didn't bet)
+Seat 5: Rubely77 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.30)
+
+
+
+PokerStars Hand #240746965083:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:26:43 ET
+Table 'Ialmenus II' 6-max Seat #5 is the button
+Seat 1: MrThegetthor ($2.57 in chips) 
+Seat 2: startravel07 ($8.28 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.20 in chips) 
+Seat 5: Rubely77 ($2.53 in chips) 
+Seat 6: Lorpugo ($2.15 in chips) 
+Lorpugo: posts small blind $0.01
+MrThegetthor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Jd]
+startravel07: folds 
+Myatnyj_Zayats: raises $0.04 to $0.06
+maugli38: calls $0.06
+Rubely77: folds 
+Lorpugo: calls $0.05
+MrThegetthor: folds 
+*** FLOP *** [Js Ks 5d]
+Lorpugo: checks 
+Myatnyj_Zayats: bets $0.07
+maugli38: calls $0.07
+Lorpugo: calls $0.07
+*** TURN *** [Js Ks 5d] [Kd]
+Lorpugo: checks 
+Myatnyj_Zayats: bets $0.33
+maugli38: calls $0.33
+Lorpugo: folds 
+*** RIVER *** [Js Ks 5d Kd] [8s]
+Myatnyj_Zayats: bets $0.25
+maugli38: calls $0.25
+*** SHOW DOWN ***
+Myatnyj_Zayats: shows [Kh Qd] (three of a kind, Kings)
+maugli38: shows [Ad Kc] (three of a kind, Kings - Ace kicker)
+maugli38 collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [Js Ks 5d Kd 8s]
+Seat 1: MrThegetthor (big blind) folded before Flop
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats showed [Kh Qd] and lost with three of a kind, Kings
+Seat 4: maugli38 showed [Ad Kc] and won ($1.52) with three of a kind, Kings
+Seat 5: Rubely77 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240746976605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:27:45 ET
+Table 'Ialmenus II' 6-max Seat #6 is the button
+Seat 1: MrThegetthor ($2.55 in chips) 
+Seat 2: startravel07 ($8.28 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($2.01 in chips) 
+Seat 5: Rubely77 ($2.53 in chips) 
+Seat 6: Lorpugo ($2.02 in chips) 
+MrThegetthor: posts small blind $0.01
+startravel07: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3h]
+Myatnyj_Zayats: folds 
+maugli38: raises $0.02 to $0.04
+Rubely77: raises $0.10 to $0.14
+Lorpugo: folds 
+MrThegetthor: folds 
+startravel07: folds 
+maugli38: calls $0.10
+*** FLOP *** [7s 9s 4s]
+maugli38: checks 
+Rubely77: bets $0.09
+maugli38: folds 
+Uncalled bet ($0.09) returned to Rubely77
+Rubely77 collected $0.30 from pot
+Rubely77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7s 9s 4s]
+Seat 1: MrThegetthor (small blind) folded before Flop
+Seat 2: startravel07 (big blind) folded before Flop
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 4: maugli38 folded on the Flop
+Seat 5: Rubely77 collected ($0.30)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746983427:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:28:21 ET
+Table 'Ialmenus II' 6-max Seat #1 is the button
+Seat 1: MrThegetthor ($2.54 in chips) 
+Seat 2: startravel07 ($8.26 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.87 in chips) 
+Seat 5: Rubely77 ($2.69 in chips) 
+Seat 6: Lorpugo ($2.02 in chips) 
+startravel07: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Jd]
+maugli38: raises $0.02 to $0.04
+Rubely77: folds 
+Lorpugo: folds 
+MrThegetthor: folds 
+startravel07: calls $0.03
+Myatnyj_Zayats: calls $0.02
+*** FLOP *** [Td Ac Ks]
+startravel07: checks 
+Myatnyj_Zayats: checks 
+maugli38: checks 
+*** TURN *** [Td Ac Ks] [Jc]
+startravel07: checks 
+Myatnyj_Zayats: checks 
+maugli38: checks 
+*** RIVER *** [Td Ac Ks Jc] [7h]
+startravel07: bets $0.06
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Uncalled bet ($0.06) returned to startravel07
+startravel07 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Td Ac Ks Jc 7h]
+Seat 1: MrThegetthor (button) folded before Flop (didn't bet)
+Seat 2: startravel07 (small blind) collected ($0.12)
+Seat 3: Myatnyj_Zayats (big blind) folded on the River
+Seat 4: maugli38 folded on the River
+Seat 5: Rubely77 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746994457:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:29:20 ET
+Table 'Ialmenus II' 6-max Seat #2 is the button
+Seat 1: MrThegetthor ($2.54 in chips) 
+Seat 2: startravel07 ($8.34 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.83 in chips) 
+Seat 5: Rubely77 ($2.69 in chips) 
+Seat 6: Lorpugo ($2.02 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 9c]
+Rubely77: folds 
+Lorpugo: folds 
+MrThegetthor: folds 
+startravel07: raises $0.03 to $0.05
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Uncalled bet ($0.03) returned to startravel07
+startravel07 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MrThegetthor folded before Flop (didn't bet)
+Seat 2: startravel07 (button) collected ($0.05)
+Seat 3: Myatnyj_Zayats (small blind) folded before Flop
+Seat 4: maugli38 (big blind) folded before Flop
+Seat 5: Rubely77 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746997917:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:29:38 ET
+Table 'Ialmenus II' 6-max Seat #3 is the button
+Seat 1: MrThegetthor ($2.54 in chips) 
+Seat 2: startravel07 ($8.37 in chips) 
+Seat 3: Myatnyj_Zayats ($2 in chips) 
+Seat 4: maugli38 ($1.81 in chips) 
+Seat 5: Rubely77 ($2.69 in chips) 
+Seat 6: Lorpugo ($2.02 in chips) 
+maugli38: posts small blind $0.01
+Rubely77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Tc]
+Lorpugo: folds 
+MrThegetthor: raises $0.04 to $0.06
+startravel07: folds 
+Myatnyj_Zayats: folds 
+maugli38: folds 
+Rubely77: calls $0.04
+*** FLOP *** [3d Jh 2c]
+Rubely77: checks 
+MrThegetthor: bets $0.04
+Rubely77: calls $0.04
+*** TURN *** [3d Jh 2c] [3h]
+Rubely77: bets $0.15
+MrThegetthor: calls $0.15
+*** RIVER *** [3d Jh 2c 3h] [8d]
+Rubely77: bets $0.15
+MrThegetthor: raises $0.15 to $0.30
+Rubely77: calls $0.15
+*** SHOW DOWN ***
+MrThegetthor: shows [Jc Ad] (two pair, Jacks and Threes)
+Rubely77: shows [Jd Ac] (two pair, Jacks and Threes)
+Rubely77 collected $0.54 from pot
+MrThegetthor collected $0.53 from pot
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.04 
+Board [3d Jh 2c 3h 8d]
+Seat 1: MrThegetthor showed [Jc Ad] and won ($0.53) with two pair, Jacks and Threes
+Seat 2: startravel07 folded before Flop (didn't bet)
+Seat 3: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 4: maugli38 (small blind) folded before Flop
+Seat 5: Rubely77 (big blind) showed [Jd Ac] and won ($0.54) with two pair, Jacks and Threes
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,3413 @@
+﻿PokerStars Hand #239185222132:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:49:51 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: saber828 ($1.82 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: finman99 ($2.53 in chips) 
+Seat 4: Plotnuy C.K. ($5.82 in chips) 
+Seat 5: HSR1 ($0.72 in chips) 
+Seat 6: Renatto Lc ($2.41 in chips) 
+saber828: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ah]
+finman99: folds 
+Plotnuy C.K.: folds 
+HSR1: folds 
+Renatto Lc: raises $0.04 to $0.06
+saber828: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [9d 5d 7h]
+Lorpugo: checks 
+Renatto Lc: bets $0.06
+saber828 leaves the table
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Renatto Lc
+Renatto Lc collected $0.13 from pot
+vcf2013 joins the table at seat #1 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9d 5d 7h]
+Seat 1: saber828 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: finman99 folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: HSR1 folded before Flop (didn't bet)
+Seat 6: Renatto Lc (button) collected ($0.13)
+
+
+
+PokerStars Hand #239185234591:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:50:34 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: finman99 ($2.53 in chips) 
+Seat 4: Plotnuy C.K. ($5.82 in chips) 
+Seat 5: HSR1 ($0.72 in chips) 
+Seat 6: Renatto Lc ($2.48 in chips) 
+finman99: posts small blind $0.01
+Plotnuy C.K.: posts big blind $0.02
+vcf2013 is connected 
+vcf2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qc]
+HSR1: folds 
+Renatto Lc: folds 
+vcf2013: checks 
+Lorpugo: calls $0.02
+finman99: folds 
+Plotnuy C.K.: checks 
+*** FLOP *** [7d 6d 9h]
+Plotnuy C.K.: checks 
+vcf2013: checks 
+Lorpugo: bets $0.03
+Plotnuy C.K.: folds 
+vcf2013: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7d 6d 9h]
+Seat 1: vcf2013 folded on the Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.07)
+Seat 3: finman99 (small blind) folded before Flop
+Seat 4: Plotnuy C.K. (big blind) folded on the Flop
+Seat 5: HSR1 folded before Flop (didn't bet)
+Seat 6: Renatto Lc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185248148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:51:20 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($1.59 in chips) 
+Seat 3: finman99 ($2.52 in chips) 
+Seat 4: Plotnuy C.K. ($5.80 in chips) 
+Seat 5: HSR1 ($0.72 in chips) 
+Seat 6: Renatto Lc ($2.48 in chips) 
+Plotnuy C.K.: posts small blind $0.01
+HSR1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5s]
+Renatto Lc: raises $0.03 to $0.05
+vcf2013: calls $0.05
+Lorpugo: calls $0.05
+finman99: folds 
+Plotnuy C.K.: folds 
+HSR1: folds 
+*** FLOP *** [3h 6c 7c]
+Renatto Lc: bets $0.08
+vcf2013: calls $0.08
+Lorpugo: raises $0.24 to $0.32
+Renatto Lc: raises $2.11 to $2.43 and is all-in
+vcf2013: calls $1.87 and is all-in
+Lorpugo: calls $1.22 and is all-in
+Uncalled bet ($0.48) returned to Renatto Lc
+*** TURN *** [3h 6c 7c] [Ts]
+*** RIVER *** [3h 6c 7c Ts] [Qs]
+*** SHOW DOWN ***
+Renatto Lc: shows [6s 6d] (three of a kind, Sixes)
+vcf2013: shows [Ac Tc] (a pair of Tens)
+Lorpugo: shows [4s 5s] (a straight, Three to Seven)
+Lorpugo collected $4.63 from main pot
+vcf2013 cashed out the hand for $1.43 | Cash Out Fee $0.01
+Renatto Lc cashed out the hand for $2.22 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $5.62 Main pot $4.63. Side pot $0.79. | Rake $0.20 
+Board [3h 6c 7c Ts Qs]
+Seat 1: vcf2013 showed [Ac Tc] and lost with a pair of Tens (cashed out).
+Seat 2: Lorpugo showed [4s 5s] and won ($4.63) with a straight, Three to Seven
+Seat 3: finman99 (button) folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (small blind) folded before Flop
+Seat 5: HSR1 (big blind) folded before Flop
+Seat 6: Renatto Lc showed [6s 6d] and won ($0.79) with three of a kind, Sixes (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #239185268125:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:52:28 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($4.63 in chips) 
+Seat 3: finman99 ($2.52 in chips) 
+Seat 4: Plotnuy C.K. ($5.79 in chips) 
+Seat 5: HSR1 ($0.70 in chips) 
+Seat 6: Renatto Lc ($2.70 in chips) 
+HSR1: posts small blind $0.01
+Renatto Lc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ks]
+vcf2013: folds 
+Lorpugo: folds 
+finman99: calls $0.02
+Plotnuy C.K.: folds 
+HSR1: calls $0.01
+Renatto Lc: checks 
+*** FLOP *** [5c 5h 9h]
+HSR1: checks 
+Renatto Lc: checks 
+finman99: checks 
+*** TURN *** [5c 5h 9h] [Ad]
+HSR1: checks 
+Renatto Lc: checks 
+finman99: bets $0.06
+HSR1: folds 
+Renatto Lc: folds 
+Uncalled bet ($0.06) returned to finman99
+finman99 collected $0.06 from pot
+finman99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5c 5h 9h Ad]
+Seat 1: vcf2013 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: finman99 collected ($0.06)
+Seat 4: Plotnuy C.K. (button) folded before Flop (didn't bet)
+Seat 5: HSR1 (small blind) folded on the Turn
+Seat 6: Renatto Lc (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239185281799:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:53:15 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($4.63 in chips) 
+Seat 3: finman99 ($2.56 in chips) 
+Seat 4: Plotnuy C.K. ($5.79 in chips) 
+Seat 5: HSR1 ($0.68 in chips) 
+Seat 6: Renatto Lc ($2.68 in chips) 
+Renatto Lc: posts small blind $0.01
+vcf2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Kc]
+Lorpugo: raises $0.02 to $0.04
+finman99: calls $0.04
+Plotnuy C.K.: folds 
+HSR1: calls $0.04
+Renatto Lc: calls $0.03
+vcf2013: calls $0.02
+*** FLOP *** [2h Ac 7d]
+Renatto Lc: checks 
+vcf2013: checks 
+Lorpugo: bets $0.02
+finman99: raises $0.12 to $0.14
+HSR1: folds 
+Renatto Lc: folds 
+vcf2013: folds 
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to finman99
+finman99 collected $0.23 from pot
+finman99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2h Ac 7d]
+Seat 1: vcf2013 (big blind) folded on the Flop
+Seat 2: Lorpugo folded on the Flop
+Seat 3: finman99 collected ($0.23)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: HSR1 (button) folded on the Flop
+Seat 6: Renatto Lc (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239185295326:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:54:02 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($4.57 in chips) 
+Seat 3: finman99 ($2.73 in chips) 
+Seat 4: Plotnuy C.K. ($5.79 in chips) 
+Seat 5: HSR1 ($0.64 in chips) 
+Seat 6: Renatto Lc ($2.64 in chips) 
+vcf2013: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9c]
+finman99: calls $0.02
+Plotnuy C.K.: folds 
+HSR1: folds 
+Renatto Lc: raises $0.06 to $0.08
+vcf2013: folds 
+Lorpugo: folds 
+finman99: calls $0.06
+*** FLOP *** [5s 4c Qd]
+finman99: checks 
+Renatto Lc: checks 
+*** TURN *** [5s 4c Qd] [Jc]
+finman99: checks 
+Renatto Lc: bets $0.06
+finman99: folds 
+Uncalled bet ($0.06) returned to Renatto Lc
+Renatto Lc collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5s 4c Qd Jc]
+Seat 1: vcf2013 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: finman99 folded on the Turn
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: HSR1 folded before Flop (didn't bet)
+Seat 6: Renatto Lc (button) collected ($0.18)
+
+
+
+PokerStars Hand #239185305558:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:54:37 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($4.55 in chips) 
+Seat 3: finman99 ($2.65 in chips) 
+Seat 4: Plotnuy C.K. ($5.79 in chips) 
+Seat 5: HSR1 ($0.64 in chips) 
+Seat 6: Renatto Lc ($2.74 in chips) 
+Lorpugo: posts small blind $0.01
+finman99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9h]
+Plotnuy C.K.: raises $0.03 to $0.05
+HSR1 has timed out
+HSR1: folds 
+Renatto Lc: calls $0.05
+vcf2013: folds 
+Lorpugo: calls $0.04
+finman99: raises $0.20 to $0.25
+Plotnuy C.K.: folds 
+Renatto Lc: calls $0.20
+Lorpugo: folds 
+*** FLOP *** [Kc As Jd]
+finman99: checks 
+Renatto Lc: checks 
+*** TURN *** [Kc As Jd] [Js]
+finman99: checks 
+Renatto Lc: checks 
+*** RIVER *** [Kc As Jd Js] [4s]
+finman99: bets $0.29
+Renatto Lc: folds 
+Uncalled bet ($0.29) returned to finman99
+finman99 collected $0.58 from pot
+finman99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Kc As Jd Js 4s]
+Seat 1: vcf2013 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: finman99 (big blind) collected ($0.58)
+Seat 4: Plotnuy C.K. folded before Flop
+Seat 5: HSR1 folded before Flop (didn't bet)
+Seat 6: Renatto Lc folded on the River
+
+
+
+PokerStars Hand #239185321539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:55:36 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($4.50 in chips) 
+Seat 3: finman99 ($2.98 in chips) 
+Seat 4: Plotnuy C.K. ($5.74 in chips) 
+Seat 5: HSR1 ($0.64 in chips) 
+Seat 6: Renatto Lc ($2.49 in chips) 
+finman99: posts small blind $0.01
+Plotnuy C.K.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qd]
+HSR1: folds 
+Renatto Lc: raises $0.04 to $0.06
+vcf2013: calls $0.06
+Lorpugo: raises $0.21 to $0.27
+finman99: folds 
+Plotnuy C.K.: folds 
+Renatto Lc: calls $0.21
+vcf2013: folds 
+*** FLOP *** [9d 2d 5d]
+Renatto Lc: checks 
+Lorpugo: bets $0.20
+Renatto Lc: raises $2.02 to $2.22 and is all-in
+Lorpugo: calls $2.02
+*** TURN *** [9d 2d 5d] [7c]
+*** RIVER *** [9d 2d 5d 7c] [7h]
+*** SHOW DOWN ***
+Renatto Lc: shows [Ah 9s] (two pair, Nines and Sevens)
+Lorpugo: shows [Ad Qd] (a flush, Ace high)
+Lorpugo collected $4.89 from pot
+*** SUMMARY ***
+Total pot $5.07 | Rake $0.18 
+Board [9d 2d 5d 7c 7h]
+Seat 1: vcf2013 folded before Flop
+Seat 2: Lorpugo (button) showed [Ad Qd] and won ($4.89) with a flush, Ace high
+Seat 3: finman99 (small blind) folded before Flop
+Seat 4: Plotnuy C.K. (big blind) folded before Flop
+Seat 5: HSR1 folded before Flop (didn't bet)
+Seat 6: Renatto Lc showed [Ah 9s] and lost with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #239185333485:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:56:29 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($6.90 in chips) 
+Seat 3: finman99 ($2.97 in chips) 
+Seat 4: Plotnuy C.K. ($5.72 in chips) 
+Seat 5: HSR1 ($0.64 in chips) 
+Plotnuy C.K.: posts small blind $0.01
+HSR1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qh]
+Renatto Lc leaves the table
+vcf2013: folds 
+Lorpugo: raises $0.04 to $0.06
+finman99: folds 
+Plotnuy C.K.: folds 
+RobertByku2 joins the table at seat #6 
+HSR1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vcf2013 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: finman99 (button) folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (small blind) folded before Flop
+Seat 5: HSR1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185338509:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:56:51 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($6.93 in chips) 
+Seat 3: finman99 ($2.97 in chips) 
+Seat 4: Plotnuy C.K. ($5.71 in chips) 
+Seat 5: HSR1 ($0.62 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+HSR1: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 3s]
+vcf2013: folds 
+Lorpugo: folds 
+finman99: folds 
+Plotnuy C.K.: raises $0.03 to $0.05
+HSR1: calls $0.04
+RobertByku2: calls $0.03
+*** FLOP *** [2s 2d Ah]
+HSR1: checks 
+RobertByku2: checks 
+Plotnuy C.K.: checks 
+*** TURN *** [2s 2d Ah] [5c]
+HSR1: checks 
+RobertByku2: checks 
+Plotnuy C.K.: bets $0.09
+HSR1: calls $0.09
+RobertByku2: folds 
+*** RIVER *** [2s 2d Ah 5c] [As]
+HSR1: bets $0.16
+Plotnuy C.K.: raises $0.45 to $0.61
+HSR1: folds 
+Uncalled bet ($0.45) returned to Plotnuy C.K.
+Plotnuy C.K. collected $0.63 from pot
+Plotnuy C.K.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [2s 2d Ah 5c As]
+Seat 1: vcf2013 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: finman99 folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (button) collected ($0.63)
+Seat 5: HSR1 (small blind) folded on the River
+Seat 6: RobertByku2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239185349802:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:57:40 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($6.93 in chips) 
+Seat 3: finman99 ($2.97 in chips) 
+Seat 4: Plotnuy C.K. ($6.04 in chips) 
+Seat 5: HSR1 ($0.32 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+RobertByku2: posts small blind $0.01
+vcf2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9c]
+Lorpugo: folds 
+finman99: folds 
+Plotnuy C.K.: folds 
+HSR1: raises $0.05 to $0.07
+RobertByku2: folds 
+vcf2013: folds 
+Uncalled bet ($0.05) returned to HSR1
+HSR1 collected $0.05 from pot
+HSR1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vcf2013 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: finman99 folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: HSR1 (button) collected ($0.05)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185353997:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:57:59 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: vcf2013 ($2 in chips) 
+Seat 2: Lorpugo ($6.93 in chips) 
+Seat 3: finman99 ($2.97 in chips) 
+Seat 4: Plotnuy C.K. ($6.04 in chips) 
+Seat 5: HSR1 ($0.35 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+vcf2013: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 3s]
+finman99: folds 
+Plotnuy C.K.: folds 
+HSR1: raises $0.05 to $0.07
+finman99 leaves the table
+RobertByku2: folds 
+manfastspeed joins the table at seat #3 
+vcf2013: calls $0.06
+Lorpugo: folds 
+*** FLOP *** [5d 3d 4h]
+vcf2013: bets $0.15
+HSR1: calls $0.15
+*** TURN *** [5d 3d 4h] [9d]
+vcf2013: bets $0.22
+HSR1: calls $0.13 and is all-in
+Uncalled bet ($0.09) returned to vcf2013
+*** RIVER *** [5d 3d 4h 9d] [8s]
+*** SHOW DOWN ***
+vcf2013: shows [7c 6h] (a straight, Five to Nine)
+HSR1: shows [Jc Qd] (high card Queen)
+vcf2013 cashed out the hand for $0.54 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [5d 3d 4h 9d 8s]
+Seat 1: vcf2013 (small blind) showed [7c 6h] and won ($0.69) with a straight, Five to Nine (pot not awarded as player cashed out)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: finman99 folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: HSR1 showed [Jc Qd] and lost with high card Queen
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185362794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:58:37 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: vcf2013 ($2.19 in chips) 
+Seat 2: Lorpugo ($6.91 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.04 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 9d]
+Plotnuy C.K.: folds 
+RobertByku2: folds 
+HSR1 leaves the table
+vcf2013: calls $0.02
+Lorpugo: calls $0.01
+manfastspeed: raises $0.04 to $0.06
+vcf2013: calls $0.04
+Lorpugo: calls $0.04
+*** FLOP *** [Tc 5h Qd]
+Lorpugo: checks 
+manfastspeed: bets $0.08
+vcf2013: calls $0.08
+2pair18 joins the table at seat #5 
+Lorpugo: calls $0.08
+*** TURN *** [Tc 5h Qd] [8s]
+Lorpugo: checks 
+manfastspeed: checks 
+vcf2013: bets $0.14
+Lorpugo: calls $0.14
+manfastspeed: folds 
+*** RIVER *** [Tc 5h Qd 8s] [8d]
+Lorpugo: checks 
+vcf2013: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Th 9d] (two pair, Tens and Eights)
+vcf2013: shows [Ks Qh] (two pair, Queens and Eights)
+vcf2013 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [Tc 5h Qd 8s 8d]
+Seat 1: vcf2013 (button) showed [Ks Qh] and won ($0.68) with two pair, Queens and Eights
+Seat 2: Lorpugo (small blind) showed [Th 9d] and lost with two pair, Tens and Eights
+Seat 3: manfastspeed (big blind) folded on the Turn
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185377737:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 11:59:43 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: vcf2013 ($2.59 in chips) 
+Seat 2: Lorpugo ($6.63 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.04 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+manfastspeed: posts small blind $0.01
+Plotnuy C.K.: posts big blind $0.02
+2pair18: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5d]
+RobertByku2: folds 
+vcf2013: calls $0.02
+Lorpugo: calls $0.02
+manfastspeed: folds 
+Plotnuy C.K.: checks 
+*** FLOP *** [2h 3s Ts]
+Plotnuy C.K.: checks 
+vcf2013: checks 
+Lorpugo: bets $0.05
+Plotnuy C.K.: folds 
+vcf2013: calls $0.05
+*** TURN *** [2h 3s Ts] [8c]
+vcf2013: checks 
+Lorpugo: checks 
+*** RIVER *** [2h 3s Ts 8c] [Tc]
+vcf2013: checks 
+Lorpugo: bets $0.04
+vcf2013: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.16 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2h 3s Ts 8c Tc]
+Seat 1: vcf2013 folded on the River
+Seat 2: Lorpugo (button) collected ($0.16)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: Plotnuy C.K. (big blind) folded on the Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185388295:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:00:28 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: vcf2013 ($2.52 in chips) 
+Seat 2: Lorpugo ($6.72 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.02 in chips) 
+Seat 5: 2pair18 ($2 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Plotnuy C.K.: posts small blind $0.01
+2pair18: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9c]
+RobertByku2: folds 
+vcf2013: calls $0.02
+Lorpugo: folds 
+manfastspeed: raises $0.04 to $0.06
+Plotnuy C.K.: folds 
+2pair18: folds 
+vcf2013: calls $0.04
+*** FLOP *** [5c Tc Qd]
+vcf2013: checks 
+manfastspeed: bets $0.07
+vcf2013: calls $0.07
+*** TURN *** [5c Tc Qd] [5s]
+vcf2013: checks 
+manfastspeed: bets $0.14
+vcf2013: raises $0.56 to $0.70
+manfastspeed: folds 
+Uncalled bet ($0.56) returned to vcf2013
+vcf2013 collected $0.55 from pot
+vcf2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [5c Tc Qd 5s]
+Seat 1: vcf2013 collected ($0.55)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed (button) folded on the Turn
+Seat 4: Plotnuy C.K. (small blind) folded before Flop
+Seat 5: 2pair18 (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185400295:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:01:17 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: vcf2013 ($2.80 in chips) 
+Seat 2: Lorpugo ($6.72 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: 2pair18 ($1.98 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+2pair18: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Td]
+vcf2013: calls $0.02
+Lorpugo: folds 
+manfastspeed: calls $0.02
+Plotnuy C.K.: folds 
+2pair18: calls $0.01
+RobertByku2: raises $0.08 to $0.10
+vcf2013: calls $0.08
+manfastspeed: calls $0.08
+2pair18: calls $0.08
+*** FLOP *** [5h Ah 2d]
+2pair18: checks 
+RobertByku2: bets $0.29
+vcf2013: folds 
+manfastspeed: folds 
+2pair18: raises $0.29 to $0.58
+RobertByku2: calls $0.29
+*** TURN *** [5h Ah 2d] [5s]
+2pair18: checks 
+RobertByku2: checks 
+*** RIVER *** [5h Ah 2d 5s] [9c]
+2pair18: bets $1.30 and is all-in
+RobertByku2: calls $1.30
+*** SHOW DOWN ***
+2pair18: shows [Ac 5c] (a full house, Fives full of Aces)
+RobertByku2: shows [Ad Jh] (two pair, Aces and Fives)
+2pair18 collected $3.97 from pot
+*** SUMMARY ***
+Total pot $4.16 | Rake $0.19 
+Board [5h Ah 2d 5s 9c]
+Seat 1: vcf2013 folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded on the Flop
+Seat 4: Plotnuy C.K. (button) folded before Flop (didn't bet)
+Seat 5: 2pair18 (small blind) showed [Ac 5c] and won ($3.97) with a full house, Fives full of Aces
+Seat 6: RobertByku2 (big blind) showed [Ad Jh] and lost with two pair, Aces and Fives
+
+
+
+PokerStars Hand #239185416957:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:02:15 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: vcf2013 ($2.70 in chips) 
+Seat 2: Lorpugo ($6.72 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: 2pair18 ($3.97 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+RobertByku2: posts small blind $0.01
+vcf2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ah]
+Lorpugo: raises $0.02 to $0.04
+manfastspeed: raises $0.04 to $0.08
+Plotnuy C.K.: folds 
+2pair18: folds 
+RobertByku2: folds 
+vcf2013: calls $0.06
+Lorpugo: raises $0.25 to $0.33
+manfastspeed: folds 
+vcf2013: folds 
+Uncalled bet ($0.25) returned to Lorpugo
+Lorpugo collected $0.25 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: vcf2013 (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.25)
+Seat 3: manfastspeed folded before Flop
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: 2pair18 (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185424634:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:02:42 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: vcf2013 ($2.62 in chips) 
+Seat 2: Lorpugo ($6.89 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: 2pair18 ($3.97 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+vcf2013: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Js]
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+2pair18: folds 
+RobertByku2: folds 
+vcf2013: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+vcf2013: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: vcf2013 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: 2pair18 folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185429778:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:03:00 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: vcf2013 ($2.60 in chips) 
+Seat 2: Lorpugo ($6.91 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: 2pair18 ($3.97 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9c]
+Plotnuy C.K.: folds 
+2pair18: calls $0.02
+RobertByku2: folds 
+vcf2013: folds 
+Lorpugo: calls $0.01
+manfastspeed: checks 
+*** FLOP *** [Jd 6c Ks]
+Lorpugo: checks 
+manfastspeed: checks 
+2pair18: checks 
+*** TURN *** [Jd 6c Ks] [Ac]
+Lorpugo: checks 
+manfastspeed: bets $0.03
+2pair18: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to manfastspeed
+manfastspeed collected $0.06 from pot
+manfastspeed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jd 6c Ks Ac]
+Seat 1: vcf2013 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 3: manfastspeed (big blind) collected ($0.06)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: 2pair18 folded on the Turn
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185439038:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:03:31 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: vcf2013 ($2.60 in chips) 
+Seat 2: Lorpugo ($6.89 in chips) 
+Seat 3: manfastspeed ($2.04 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: 2pair18 ($3.95 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+manfastspeed: posts small blind $0.01
+Plotnuy C.K.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5c]
+2pair18: calls $0.02
+RobertByku2: folds 
+vcf2013: calls $0.02
+Lorpugo: folds 
+manfastspeed: folds 
+Plotnuy C.K.: checks 
+*** FLOP *** [2s Td 4d]
+Plotnuy C.K.: checks 
+2pair18: checks 
+vcf2013: checks 
+*** TURN *** [2s Td 4d] [Ad]
+Plotnuy C.K.: bets $0.03
+2pair18: folds 
+2pair18 leaves the table
+vcf2013: folds 
+Uncalled bet ($0.03) returned to Plotnuy C.K.
+Plotnuy C.K. collected $0.07 from pot
+Plotnuy C.K.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2s Td 4d Ad]
+Seat 1: vcf2013 folded on the Turn
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: Plotnuy C.K. (big blind) collected ($0.07)
+Seat 5: 2pair18 folded on the Turn
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185446435:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:03:56 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: vcf2013 ($2.58 in chips) 
+Seat 2: Lorpugo ($6.89 in chips) 
+Seat 3: manfastspeed ($2.03 in chips) 
+Seat 4: Plotnuy C.K. ($6.06 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Plotnuy C.K.: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ad]
+LicGuapo joins the table at seat #5 
+vcf2013: calls $0.02
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+RobertByku2: folds 
+vcf2013: calls $0.04
+*** FLOP *** [6s 8d 9c]
+vcf2013: checks 
+Lorpugo: bets $0.09
+vcf2013: calls $0.09
+*** TURN *** [6s 8d 9c] [Qs]
+vcf2013: checks 
+Lorpugo: bets $0.22
+vcf2013: folds 
+Uncalled bet ($0.22) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6s 8d 9c Qs]
+Seat 1: vcf2013 folded on the Turn
+Seat 2: Lorpugo collected ($0.32)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185459719:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:04:41 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: vcf2013 ($2.43 in chips) 
+Seat 2: Lorpugo ($7.06 in chips) 
+Seat 3: manfastspeed ($2.03 in chips) 
+Seat 4: Plotnuy C.K. ($6.05 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+RobertByku2: posts small blind $0.01
+vcf2013: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3d]
+Lorpugo: folds 
+manfastspeed: folds 
+Plotnuy C.K.: raises $0.03 to $0.05
+RobertByku2: folds 
+vcf2013: calls $0.03
+*** FLOP *** [6h 4s Qs]
+vcf2013: checks 
+Plotnuy C.K.: bets $0.04
+vcf2013: folds 
+Uncalled bet ($0.04) returned to Plotnuy C.K.
+Plotnuy C.K. collected $0.11 from pot
+Plotnuy C.K.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6h 4s Qs]
+Seat 1: vcf2013 (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (button) collected ($0.11)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185468433:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:05:10 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: vcf2013 ($2.38 in chips) 
+Seat 2: Lorpugo ($7.06 in chips) 
+Seat 3: manfastspeed ($2.03 in chips) 
+Seat 4: Plotnuy C.K. ($6.11 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+vcf2013: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+LicGuapo: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ad]
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+RobertByku2: folds 
+vcf2013: calls $0.01
+Lorpugo: raises $0.06 to $0.08
+vcf2013: calls $0.06
+*** FLOP *** [7h 3s Ac]
+vcf2013: checks 
+Lorpugo: bets $0.05
+vcf2013: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7h 3s Ac]
+Seat 1: vcf2013 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected ($0.15)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185481330:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:05:54 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: vcf2013 ($2.30 in chips) 
+Seat 2: Lorpugo ($7.13 in chips) 
+Seat 3: manfastspeed ($2.03 in chips) 
+Seat 4: Plotnuy C.K. ($6.11 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+LicGuapo: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 2d]
+Plotnuy C.K.: folds 
+RobertByku2: folds 
+vcf2013: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to manfastspeed
+manfastspeed collected $0.02 from pot
+manfastspeed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vcf2013 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: manfastspeed (big blind) collected ($0.02)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185485884:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:06:09 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: vcf2013 ($2.30 in chips) 
+Seat 2: Lorpugo ($7.12 in chips) 
+Seat 3: manfastspeed ($2.04 in chips) 
+Seat 4: Plotnuy C.K. ($6.11 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+manfastspeed: posts small blind $0.01
+Plotnuy C.K.: posts big blind $0.02
+LicGuapo: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7d]
+RobertByku2: folds 
+vcf2013: calls $0.02
+Lorpugo: folds 
+manfastspeed: calls $0.01
+Plotnuy C.K.: checks 
+*** FLOP *** [Tc 8h Jh]
+manfastspeed: checks 
+Plotnuy C.K.: checks 
+vcf2013: checks 
+*** TURN *** [Tc 8h Jh] [3s]
+manfastspeed: checks 
+Plotnuy C.K.: checks 
+vcf2013: bets $0.03
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+Uncalled bet ($0.03) returned to vcf2013
+vcf2013 collected $0.06 from pot
+vcf2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc 8h Jh 3s]
+Seat 1: vcf2013 collected ($0.06)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: manfastspeed (small blind) folded on the Turn
+Seat 4: Plotnuy C.K. (big blind) folded on the Turn
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185492865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:06:33 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: vcf2013 ($2.34 in chips) 
+Seat 2: Lorpugo ($7.12 in chips) 
+Seat 3: manfastspeed ($2.02 in chips) 
+Seat 4: Plotnuy C.K. ($6.09 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Plotnuy C.K.: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Ks]
+RobertByku2: folds 
+vcf2013: calls $0.02
+Lorpugo: calls $0.02
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+LicGuapo: checks 
+*** FLOP *** [Jc 7d 2c]
+LicGuapo: checks 
+vcf2013: checks 
+Lorpugo: bets $0.02
+LicGuapo: calls $0.02
+vcf2013: calls $0.02
+*** TURN *** [Jc 7d 2c] [9d]
+LicGuapo: checks 
+vcf2013: checks 
+Lorpugo: checks 
+*** RIVER *** [Jc 7d 2c 9d] [Kc]
+LicGuapo: bets $0.10
+vcf2013: folds 
+vcf2013 leaves the table
+Lorpugo: calls $0.10
+*** SHOW DOWN ***
+LicGuapo: shows [Js 9h] (two pair, Jacks and Nines)
+Lorpugo: mucks hand 
+LicGuapo collected $0.32 from pot
+dedmoroz311 joins the table at seat #1 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Jc 7d 2c 9d Kc]
+Seat 1: vcf2013 folded on the River
+Seat 2: Lorpugo mucked [Th Ks]
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) showed [Js 9h] and won ($0.32) with two pair, Jacks and Nines
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185509905:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:07:31 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($6.98 in chips) 
+Seat 3: manfastspeed ($2.02 in chips) 
+Seat 4: Plotnuy C.K. ($6.08 in chips) 
+Seat 5: LicGuapo ($2.18 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+dedmoroz311: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qd]
+Lorpugo: folds 
+manfastspeed: raises $0.04 to $0.06
+Plotnuy C.K.: calls $0.06
+LicGuapo: folds 
+RobertByku2: folds 
+*** FLOP *** [6s 7d 4s]
+manfastspeed: bets $0.06
+Plotnuy C.K.: folds 
+Uncalled bet ($0.06) returned to manfastspeed
+manfastspeed collected $0.14 from pot
+manfastspeed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6s 7d 4s]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed collected ($0.14)
+Seat 4: Plotnuy C.K. (button) folded on the Flop
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185518519:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:08:01 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.60 in chips) 
+Seat 2: Lorpugo ($6.98 in chips) 
+Seat 3: manfastspeed ($2.10 in chips) 
+Seat 4: Plotnuy C.K. ($6.02 in chips) 
+Seat 5: LicGuapo ($2.17 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Th]
+Lorpugo: folds 
+manfastspeed: calls $0.02
+Plotnuy C.K.: raises $0.06 to $0.08
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+manfastspeed: calls $0.06
+*** FLOP *** [Ac Ah Qs]
+manfastspeed: checks 
+Plotnuy C.K.: checks 
+*** TURN *** [Ac Ah Qs] [7h]
+manfastspeed: checks 
+Plotnuy C.K.: bets $0.12
+manfastspeed: folds 
+Uncalled bet ($0.12) returned to Plotnuy C.K.
+Plotnuy C.K. collected $0.18 from pot
+Plotnuy C.K.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ac Ah Qs 7h]
+Seat 1: dedmoroz311 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded on the Turn
+Seat 4: Plotnuy C.K. collected ($0.18)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185527773:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:08:32 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.60 in chips) 
+Seat 2: Lorpugo ($6.98 in chips) 
+Seat 3: manfastspeed ($2.02 in chips) 
+Seat 4: Plotnuy C.K. ($6.12 in chips) 
+Seat 5: LicGuapo ($2.17 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7s]
+manfastspeed: raises $0.04 to $0.06
+Plotnuy C.K.: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to manfastspeed
+manfastspeed collected $0.05 from pot
+manfastspeed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: manfastspeed collected ($0.05)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185533449:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:08:51 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.60 in chips) 
+Seat 2: Lorpugo ($6.96 in chips) 
+Seat 3: manfastspeed ($2.05 in chips) 
+Seat 4: Plotnuy C.K. ($6.12 in chips) 
+Seat 5: LicGuapo ($2.17 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 4d]
+Plotnuy C.K.: folds 
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: calls $0.05
+Lorpugo: folds 
+manfastspeed: calls $0.03
+*** FLOP *** [3d Ah Th]
+manfastspeed: checks 
+RobertByku2: checks 
+dedmoroz311: bets $0.02
+manfastspeed: folds 
+RobertByku2: calls $0.02
+*** TURN *** [3d Ah Th] [8d]
+RobertByku2: checks 
+dedmoroz311: checks 
+*** RIVER *** [3d Ah Th 8d] [Qd]
+RobertByku2: checks 
+dedmoroz311: checks 
+*** SHOW DOWN ***
+RobertByku2: shows [6h 5h] (high card Ace)
+dedmoroz311: shows [Qc Kc] (a pair of Queens)
+dedmoroz311 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3d Ah Th 8d Qd]
+Seat 1: dedmoroz311 (button) showed [Qc Kc] and won ($0.19) with a pair of Queens
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: manfastspeed (big blind) folded on the Flop
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 showed [6h 5h] and lost with high card Ace
+
+
+
+PokerStars Hand #239185549183:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:09:45 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.72 in chips) 
+Seat 2: Lorpugo ($6.95 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.12 in chips) 
+Seat 5: LicGuapo ($2.17 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+manfastspeed: posts small blind $0.01
+Plotnuy C.K.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Qs]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+Plotnuy C.K.: calls $0.04
+*** FLOP *** [2d Ac 8d]
+Plotnuy C.K.: checks 
+Lorpugo: bets $0.04
+Plotnuy C.K.: calls $0.04
+*** TURN *** [2d Ac 8d] [9c]
+Plotnuy C.K.: checks 
+Lorpugo: bets $0.13
+Plotnuy C.K.: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2d Ac 8d 9c]
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.20)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: Plotnuy C.K. (big blind) folded on the Turn
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185560441:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:10:23 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.72 in chips) 
+Seat 2: Lorpugo ($7.05 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.02 in chips) 
+Seat 5: LicGuapo ($2.17 in chips) 
+Seat 6: RobertByku2 ($2 in chips) 
+Plotnuy C.K.: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5h]
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: calls $0.05
+Lorpugo: folds 
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+LicGuapo: folds 
+*** FLOP *** [9d Qs 6s]
+RobertByku2: bets $0.04
+dedmoroz311: calls $0.04
+*** TURN *** [9d Qs 6s] [Qh]
+RobertByku2: bets $0.12
+dedmoroz311: folds 
+Uncalled bet ($0.12) returned to RobertByku2
+RobertByku2 collected $0.20 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9d Qs 6s Qh]
+Seat 1: dedmoroz311 folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 collected ($0.20)
+
+
+
+PokerStars Hand #239185571752:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:11:01 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($1.63 in chips) 
+Seat 2: Lorpugo ($7.05 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: LicGuapo ($2.15 in chips) 
+Seat 6: RobertByku2 ($2.11 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ts]
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+LicGuapo: raises $0.04 to $0.06
+RobertByku2: calls $0.04
+*** FLOP *** [Qd Tc As]
+LicGuapo: bets $0.04
+RobertByku2: calls $0.04
+*** TURN *** [Qd Tc As] [Ks]
+LicGuapo: checks 
+RobertByku2: bets $0.14
+LicGuapo: calls $0.14
+*** RIVER *** [Qd Tc As Ks] [5s]
+LicGuapo: checks 
+RobertByku2: bets $0.35
+LicGuapo: folds 
+Uncalled bet ($0.35) returned to RobertByku2
+RobertByku2 collected $0.46 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Qd Tc As Ks 5s]
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. (button) folded before Flop (didn't bet)
+Seat 5: LicGuapo (small blind) folded on the River
+Seat 6: RobertByku2 (big blind) collected ($0.46)
+
+
+
+PokerStars Hand #239185595866:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:12:23 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.63 in chips) 
+Seat 2: Lorpugo ($7.05 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($2.33 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Td]
+Lorpugo: folds 
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: folds 
+Uncalled bet ($0.03) returned to RobertByku2
+RobertByku2 collected $0.04 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239185600198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:12:38 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.61 in chips) 
+Seat 2: Lorpugo ($7.05 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($2.35 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qs]
+manfastspeed: folds 
+Plotnuy C.K.: folds 
+LicGuapo: raises $0.03 to $0.05
+RobertByku2: folds 
+dedmoroz311: calls $0.04
+Lorpugo: raises $0.15 to $0.20
+LicGuapo: calls $0.15
+dedmoroz311: folds 
+*** FLOP *** [3d 9s Kc]
+Lorpugo: bets $0.28
+LicGuapo: folds 
+Uncalled bet ($0.28) returned to Lorpugo
+Lorpugo collected $0.43 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [3d 9s Kc]
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.43)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: LicGuapo folded on the Flop
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185610056:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:13:11 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.60 in chips) 
+Seat 2: Lorpugo ($7.28 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Plotnuy C.K. ($6.01 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($2.35 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 9s]
+Plotnuy C.K.: folds 
+Plotnuy C.K. leaves the table
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: folds 
+Lorpugo: raises $0.12 to $0.17
+manfastspeed: folds 
+RobertByku2: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.12)
+Seat 3: manfastspeed (big blind) folded before Flop
+Seat 4: Plotnuy C.K. folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop
+
+
+
+PokerStars Hand #239185616599:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:13:33 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.60 in chips) 
+Seat 2: Lorpugo ($7.35 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($2.30 in chips) 
+manfastspeed: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ah]
+RobertByku2: folds 
+dedmoroz311: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+manfastspeed: folds 
+LicGuapo: folds 
+dedmoroz311: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop
+Seat 2: Lorpugo (button) collected ($0.07)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185620840:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:13:47 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.60 in chips) 
+Seat 2: Lorpugo ($7.40 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($2.30 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ah]
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+LicGuapo: raises $0.18 to $0.24
+RobertByku2: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to LicGuapo
+LicGuapo collected $0.14 from pot
+LicGuapo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 5: LicGuapo (small blind) collected ($0.14)
+Seat 6: RobertByku2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239185627512:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:14:10 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.60 in chips) 
+Seat 2: Lorpugo ($7.34 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2.08 in chips) 
+Seat 6: RobertByku2 ($2.28 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6d]
+Lorpugo: folds 
+manfastspeed: folds 
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: calls $0.03
+*** FLOP *** [2c 4d 5c]
+RobertByku2: checks 
+dedmoroz311: bets $0.02
+RobertByku2: calls $0.02
+*** TURN *** [2c 4d 5c] [6c]
+RobertByku2: checks 
+dedmoroz311: checks 
+*** RIVER *** [2c 4d 5c 6c] [7c]
+RobertByku2: checks 
+dedmoroz311: checks 
+*** SHOW DOWN ***
+RobertByku2: shows [2h 3h] (a straight, Three to Seven)
+dedmoroz311: shows [8h Ah] (a straight, Four to Eight)
+dedmoroz311 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2c 4d 5c 6c 7c]
+Seat 1: dedmoroz311 (big blind) showed [8h Ah] and won ($0.14) with a straight, Four to Eight
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) showed [2h 3h] and lost with a straight, Three to Seven
+
+
+
+PokerStars Hand #239185640007:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:14:53 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.67 in chips) 
+Seat 2: Lorpugo ($7.34 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2.08 in chips) 
+Seat 6: RobertByku2 ($2.21 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ks]
+manfastspeed: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: calls $0.01
+Lorpugo: raises $0.06 to $0.08
+dedmoroz311: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185647534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:15:17 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.65 in chips) 
+Seat 2: Lorpugo ($7.36 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2.08 in chips) 
+Seat 6: RobertByku2 ($2.21 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Kh]
+tavaressBR joins the table at seat #4 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: manfastspeed (big blind) folded before Flop
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185653563:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:15:38 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.65 in chips) 
+Seat 2: Lorpugo ($7.38 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: tavaressBR ($2 in chips) 
+Seat 5: LicGuapo ($2.08 in chips) 
+Seat 6: RobertByku2 ($2.21 in chips) 
+manfastspeed: posts small blind $0.01
+tavaressBR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qs]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+manfastspeed: folds 
+tavaressBR: calls $0.07
+dedmoroz311: folds 
+*** FLOP *** [6d 2s 9d]
+tavaressBR: checks 
+Lorpugo: bets $0.07
+tavaressBR: calls $0.07
+*** TURN *** [6d 2s 9d] [Ac]
+tavaressBR: checks 
+Lorpugo: checks 
+*** RIVER *** [6d 2s 9d Ac] [Qd]
+tavaressBR: bets $0.14
+Lorpugo: calls $0.14
+*** SHOW DOWN ***
+tavaressBR: shows [Ah 9h] (two pair, Aces and Nines)
+Lorpugo: mucks hand 
+tavaressBR collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [6d 2s 9d Ac Qd]
+Seat 1: dedmoroz311 folded before Flop
+Seat 2: Lorpugo (button) mucked [Jh Qs]
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: tavaressBR (big blind) showed [Ah 9h] and won ($0.61) with two pair, Aces and Nines
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185672827:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:16:43 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.63 in chips) 
+Seat 2: Lorpugo ($7.08 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: tavaressBR ($2.31 in chips) 
+Seat 5: LicGuapo ($2.08 in chips) 
+Seat 6: RobertByku2 ($2.21 in chips) 
+tavaressBR: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3d]
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+tavaressBR: calls $0.01
+LicGuapo: raises $0.08 to $0.10
+tavaressBR: folds 
+Uncalled bet ($0.08) returned to LicGuapo
+LicGuapo collected $0.04 from pot
+LicGuapo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: tavaressBR (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) collected ($0.04)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185677493:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:16:58 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($1.63 in chips) 
+Seat 2: Lorpugo ($7.08 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: tavaressBR ($2.29 in chips) 
+Seat 5: LicGuapo ($2.10 in chips) 
+Seat 6: RobertByku2 ($2.21 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Td]
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+tavaressBR: raises $0.02 to $0.04
+LicGuapo: folds 
+RobertByku2: calls $0.02
+*** FLOP *** [Th 5d 8c]
+RobertByku2: checks 
+tavaressBR: checks 
+*** TURN *** [Th 5d 8c] [2c]
+RobertByku2: bets $0.05
+tavaressBR: folds 
+Uncalled bet ($0.05) returned to RobertByku2
+RobertByku2 collected $0.09 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Th 5d 8c 2c]
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: tavaressBR (button) folded on the Turn
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #239185688927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:17:37 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.63 in chips) 
+Seat 2: Lorpugo ($7.08 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: tavaressBR ($2.25 in chips) 
+Seat 5: LicGuapo ($2.09 in chips) 
+Seat 6: RobertByku2 ($2.26 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7h]
+Lorpugo: folds 
+manfastspeed: folds 
+tavaressBR: folds 
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: calls $0.03
+*** FLOP *** [Ac As Js]
+RobertByku2: checks 
+dedmoroz311: bets $0.02
+RobertByku2: calls $0.02
+*** TURN *** [Ac As Js] [6h]
+RobertByku2: checks 
+dedmoroz311: bets $0.04
+RobertByku2: folds 
+Uncalled bet ($0.04) returned to dedmoroz311
+dedmoroz311 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ac As Js 6h]
+Seat 1: dedmoroz311 (big blind) collected ($0.14)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: tavaressBR folded before Flop (didn't bet)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239185704874:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:18:30 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.70 in chips) 
+Seat 2: Lorpugo ($7.08 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: tavaressBR ($2.25 in chips) 
+Seat 5: LicGuapo ($2.09 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kd]
+manfastspeed: folds 
+tavaressBR: raises $0.04 to $0.06
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [6c 2c Ac]
+dedmoroz311: bets $0.02
+Lorpugo: folds 
+tavaressBR: calls $0.02
+*** TURN *** [6c 2c Ac] [Ts]
+dedmoroz311: bets $0.04
+tavaressBR: calls $0.04
+*** RIVER *** [6c 2c Ac Ts] [8s]
+dedmoroz311: bets $0.14
+tavaressBR: calls $0.14
+*** SHOW DOWN ***
+dedmoroz311: shows [Ah Qh] (a pair of Aces)
+tavaressBR: shows [Qc As] (a pair of Aces)
+dedmoroz311 collected $0.28 from pot
+tavaressBR collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [6c 2c Ac Ts 8s]
+Seat 1: dedmoroz311 (small blind) showed [Ah Qh] and won ($0.28) with a pair of Aces
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: tavaressBR showed [Qc As] and won ($0.28) with a pair of Aces
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185722264:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:19:27 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.72 in chips) 
+Seat 2: Lorpugo ($7.02 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: tavaressBR ($2.27 in chips) 
+Seat 5: LicGuapo ($2.09 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Jc]
+tavaressBR has timed out
+tavaressBR: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+tavaressBR leaves the table
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to manfastspeed
+manfastspeed collected $0.02 from pot
+manfastspeed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: manfastspeed (big blind) collected ($0.02)
+Seat 4: tavaressBR folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185728988:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:19:50 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.72 in chips) 
+Seat 2: Lorpugo ($7.01 in chips) 
+Seat 3: manfastspeed ($2.01 in chips) 
+Seat 5: LicGuapo ($2.09 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+manfastspeed: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ts]
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+Netflix.Arm joins the table at seat #4 
+LicGuapo: folds 
+Uncalled bet ($0.03) returned to RobertByku2
+RobertByku2 collected $0.05 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 collected ($0.05)
+
+
+
+PokerStars Hand #239185732087:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:20:00 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.72 in chips) 
+Seat 2: Lorpugo ($7.01 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2.07 in chips) 
+Seat 6: RobertByku2 ($2.22 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Td]
+dedmoroz311: calls $0.02
+Lorpugo: folds 
+manfastspeed: folds 
+LicGuapo: folds 
+RobertByku2: checks 
+*** FLOP *** [2h 2c Ac]
+RobertByku2: checks 
+dedmoroz311: checks 
+*** TURN *** [2h 2c Ac] [Js]
+RobertByku2: checks 
+dedmoroz311: bets $0.02
+RobertByku2: folds 
+Uncalled bet ($0.02) returned to dedmoroz311
+dedmoroz311 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2h 2c Ac Js]
+Seat 1: dedmoroz311 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239185746565:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:20:48 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.75 in chips) 
+Seat 2: Lorpugo ($7.01 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2.06 in chips) 
+Seat 6: RobertByku2 ($2.20 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+Netflix.Arm: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 4c]
+Lorpugo: folds 
+manfastspeed: folds 
+LicGuapo: raises $0.03 to $0.05
+RobertByku2: folds 
+dedmoroz311: folds 
+Uncalled bet ($0.03) returned to LicGuapo
+LicGuapo collected $0.05 from pot
+LicGuapo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 5: LicGuapo (button) collected ($0.05)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185751507:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:21:05 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.73 in chips) 
+Seat 2: Lorpugo ($7.01 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2.09 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Netflix.Arm: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Kd]
+manfastspeed: folds 
+LicGuapo: raises $0.03 to $0.05
+RobertByku2: folds 
+dedmoroz311: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [3h 9c 2s]
+dedmoroz311: bets $0.06
+LicGuapo: folds 
+Uncalled bet ($0.06) returned to dedmoroz311
+dedmoroz311 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3h 9c 2s]
+Seat 1: dedmoroz311 (small blind) collected ($0.12)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 5: LicGuapo folded on the Flop
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185758682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:21:29 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.80 in chips) 
+Seat 2: Lorpugo ($6.99 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 5: LicGuapo ($2.04 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+Netflix.Arm: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5c]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: manfastspeed (big blind) folded before Flop
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185764763:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:21:49 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.80 in chips) 
+Seat 2: Lorpugo ($7.01 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Netflix.Arm ($0.80 in chips) 
+Seat 5: LicGuapo ($2.04 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+manfastspeed: posts small blind $0.01
+Netflix.Arm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3d]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+Uncalled bet ($0.01) returned to Netflix.Arm
+Netflix.Arm collected $0.02 from pot
+Netflix.Arm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: Netflix.Arm (big blind) collected ($0.02)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185770011:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:22:07 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.80 in chips) 
+Seat 2: Lorpugo ($7.01 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Netflix.Arm ($0.81 in chips) 
+Seat 5: LicGuapo ($2.04 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+Netflix.Arm: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ts]
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+Netflix.Arm has timed out
+Netflix.Arm: folds 
+LicGuapo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: Netflix.Arm (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185784625:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:22:56 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($1.80 in chips) 
+Seat 2: Lorpugo ($7.04 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: Netflix.Arm ($0.80 in chips) 
+Seat 5: LicGuapo ($2.02 in chips) 
+Seat 6: RobertByku2 ($2.19 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5c]
+dedmoroz311: calls $0.02
+Lorpugo: folds 
+manfastspeed: raises $0.04 to $0.06
+Netflix.Arm: folds 
+LicGuapo: folds 
+Netflix.Arm leaves the table
+RobertByku2: calls $0.04
+dedmoroz311: folds 
+*** FLOP *** [Ts 7d 3d]
+FrancoOlmedo joins the table at seat #4 
+RobertByku2: checks 
+manfastspeed: bets $0.07
+RobertByku2: folds 
+Uncalled bet ($0.07) returned to manfastspeed
+manfastspeed collected $0.14 from pot
+manfastspeed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 7d 3d]
+Seat 1: dedmoroz311 folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed collected ($0.14)
+Seat 4: Netflix.Arm (button) folded before Flop (didn't bet)
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239185800468:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:23:49 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.78 in chips) 
+Seat 2: Lorpugo ($7.04 in chips) 
+Seat 3: manfastspeed ($2.08 in chips) 
+Seat 5: LicGuapo ($2.01 in chips) 
+Seat 6: RobertByku2 ($2.13 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+FrancoOlmedo: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jh]
+Lorpugo: folds 
+manfastspeed: folds 
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: folds 
+Uncalled bet ($0.03) returned to RobertByku2
+RobertByku2 collected $0.04 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239185804457:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:24:03 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.76 in chips) 
+Seat 2: Lorpugo ($7.04 in chips) 
+Seat 3: manfastspeed ($2.08 in chips) 
+Seat 5: LicGuapo ($2.01 in chips) 
+Seat 6: RobertByku2 ($2.15 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+FrancoOlmedo: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Tc]
+manfastspeed: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185806844:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:24:10 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.75 in chips) 
+Seat 2: Lorpugo ($7.05 in chips) 
+Seat 3: manfastspeed ($2.08 in chips) 
+Seat 5: LicGuapo ($2.01 in chips) 
+Seat 6: RobertByku2 ($2.15 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+FrancoOlmedo: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5d]
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: calls $0.03
+*** FLOP *** [6d 7s Ac]
+manfastspeed: bets $0.05
+RobertByku2: calls $0.05
+*** TURN *** [6d 7s Ac] [Js]
+manfastspeed: bets $0.20
+RobertByku2: calls $0.20
+*** RIVER *** [6d 7s Ac Js] [Ks]
+manfastspeed: bets $0.59
+RobertByku2: raises $1.26 to $1.85 and is all-in
+manfastspeed: calls $1.19 and is all-in
+Uncalled bet ($0.07) returned to RobertByku2
+*** SHOW DOWN ***
+RobertByku2: shows [Ts As] (a flush, Ace high)
+manfastspeed: shows [Jh Jc] (three of a kind, Jacks)
+RobertByku2 collected $4.02 from pot
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.15 
+Board [6d 7s Ac Js Ks]
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: manfastspeed (big blind) showed [Jh Jc] and lost with three of a kind, Jacks
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 showed [Ts As] and won ($4.02) with a flush, Ace high
+
+
+
+PokerStars Hand #239185823437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:25:06 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.75 in chips) 
+Seat 2: Lorpugo ($7.04 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.01 in chips) 
+Seat 6: RobertByku2 ($4.09 in chips) 
+manfastspeed: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8h]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+Uncalled bet ($0.01) returned to FrancoOlmedo
+FrancoOlmedo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: FrancoOlmedo (big blind) collected ($0.02)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185826391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:25:15 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.75 in chips) 
+Seat 2: Lorpugo ($7.04 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.01 in chips) 
+Seat 5: LicGuapo ($2.01 in chips) 
+Seat 6: RobertByku2 ($4.09 in chips) 
+FrancoOlmedo: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qd]
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185831723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:25:32 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($1.75 in chips) 
+Seat 2: Lorpugo ($7.07 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($4.09 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 8c]
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: folds 
+Uncalled bet ($0.01) returned to RobertByku2
+RobertByku2 collected $0.02 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (button) folded before Flop (didn't bet)
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239185835672:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:25:45 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.75 in chips) 
+Seat 2: Lorpugo ($7.07 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($4.10 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Jc]
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: raises $0.02 to $0.04
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: raises $1.71 to $1.75 and is all-in
+FrancoOlmedo: folds 
+Uncalled bet ($1.71) returned to dedmoroz311
+dedmoroz311 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: dedmoroz311 (big blind) collected ($0.09)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo folded before Flop
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185845723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:26:17 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.80 in chips) 
+Seat 2: Lorpugo ($7.07 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($4.09 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5d]
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: raises $0.03 to $0.05
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to LicGuapo
+LicGuapo collected $0.05 from pot
+LicGuapo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: LicGuapo collected ($0.05)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185850504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:26:33 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.79 in chips) 
+Seat 2: Lorpugo ($7.05 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.03 in chips) 
+Seat 6: RobertByku2 ($4.09 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 6s]
+FrancoOlmedo: folds 
+LicGuapo: folds 
+RobertByku2: raises $0.03 to $0.05
+dedmoroz311: folds 
+Lorpugo: calls $0.04
+manfastspeed: calls $0.03
+*** FLOP *** [Js Td 9s]
+Lorpugo: checks 
+manfastspeed: checks 
+RobertByku2: checks 
+*** TURN *** [Js Td 9s] [Ad]
+Lorpugo: checks 
+manfastspeed: checks 
+RobertByku2: bets $0.08
+Lorpugo: folds 
+manfastspeed: calls $0.08
+*** RIVER *** [Js Td 9s Ad] [2c]
+manfastspeed: checks 
+RobertByku2: checks 
+*** SHOW DOWN ***
+manfastspeed: shows [9d 5d] (a pair of Nines)
+RobertByku2: shows [Kd Jd] (a pair of Jacks)
+RobertByku2 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Js Td 9s Ad 2c]
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 3: manfastspeed (big blind) showed [9d 5d] and lost with a pair of Nines
+Seat 4: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 showed [Kd Jd] and won ($0.30) with a pair of Jacks
+
+
+
+PokerStars Hand #239185863812:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:27:15 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.79 in chips) 
+Seat 2: Lorpugo ($7 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.03 in chips) 
+Seat 6: RobertByku2 ($4.26 in chips) 
+manfastspeed: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 6h]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+FrancoOlmedo: calls $0.04
+*** FLOP *** [2c 2h 9s]
+FrancoOlmedo: checks 
+Lorpugo: bets $0.06
+FrancoOlmedo: calls $0.06
+*** TURN *** [2c 2h 9s] [7h]
+FrancoOlmedo: checks 
+Lorpugo: bets $0.30
+FrancoOlmedo: calls $0.30
+*** RIVER *** [2c 2h 9s 7h] [3s]
+FrancoOlmedo: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+FrancoOlmedo: shows [9c Kh] (two pair, Nines and Deuces)
+Lorpugo: mucks hand 
+FrancoOlmedo collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [2c 2h 9s 7h 3s]
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) mucked [4h 6h]
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: FrancoOlmedo (big blind) showed [9c Kh] and won ($0.82) with two pair, Nines and Deuces
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185882886:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:28:17 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.79 in chips) 
+Seat 2: Lorpugo ($6.58 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.40 in chips) 
+Seat 5: LicGuapo ($2.03 in chips) 
+Seat 6: RobertByku2 ($4.26 in chips) 
+FrancoOlmedo: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ah]
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: raises $0.06 to $0.12
+FrancoOlmedo: folds 
+LicGuapo: folds 
+Lorpugo: raises $0.28 to $0.40
+manfastspeed: folds 
+Uncalled bet ($0.28) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.27)
+Seat 3: manfastspeed (button) folded before Flop
+Seat 4: FrancoOlmedo (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185892051:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:28:46 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($1.79 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.39 in chips) 
+Seat 5: LicGuapo ($2.01 in chips) 
+Seat 6: RobertByku2 ($4.26 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 6c]
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: calls $0.02
+FrancoOlmedo: calls $0.02
+LicGuapo: folds 
+RobertByku2: checks 
+*** FLOP *** [4d Kh 8s]
+RobertByku2: checks 
+manfastspeed: checks 
+FrancoOlmedo: checks 
+*** TURN *** [4d Kh 8s] [2c]
+RobertByku2: checks 
+manfastspeed: checks 
+FrancoOlmedo: checks 
+*** RIVER *** [4d Kh 8s 2c] [Ts]
+RobertByku2: checks 
+manfastspeed: bets $0.06
+FrancoOlmedo: folds 
+RobertByku2: folds 
+Uncalled bet ($0.06) returned to manfastspeed
+manfastspeed collected $0.07 from pot
+manfastspeed: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4d Kh 8s 2c Ts]
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed collected ($0.07)
+Seat 4: FrancoOlmedo (button) folded on the River
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) folded on the River
+
+
+
+PokerStars Hand #239185910630:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:29:46 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.79 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2.05 in chips) 
+Seat 4: FrancoOlmedo ($2.37 in chips) 
+Seat 5: LicGuapo ($2 in chips) 
+Seat 6: RobertByku2 ($4.24 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5c]
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: raises $0.04 to $0.06
+LicGuapo: raises $0.12 to $0.18
+RobertByku2: folds 
+dedmoroz311: folds 
+FrancoOlmedo: calls $0.12
+*** FLOP *** [9s 5d Ks]
+FrancoOlmedo: checks 
+LicGuapo: bets $0.13
+FrancoOlmedo: calls $0.13
+*** TURN *** [9s 5d Ks] [7c]
+FrancoOlmedo: checks 
+LicGuapo: bets $0.42
+FrancoOlmedo: calls $0.42
+*** RIVER *** [9s 5d Ks 7c] [7h]
+FrancoOlmedo: checks 
+LicGuapo: checks 
+*** SHOW DOWN ***
+FrancoOlmedo: shows [Td Js] (a pair of Sevens)
+LicGuapo: shows [Tc Qc] (a pair of Sevens - King+Queen kicker)
+LicGuapo collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.05 
+Board [9s 5d Ks 7c 7h]
+Seat 1: dedmoroz311 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo showed [Td Js] and lost with a pair of Sevens
+Seat 5: LicGuapo (button) showed [Tc Qc] and won ($1.44) with a pair of Sevens
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185932083:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:30:53 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.77 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2.05 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.71 in chips) 
+Seat 6: RobertByku2 ($4.23 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9h]
+manfastspeed: calls $0.02
+FrancoOlmedo: raises $0.04 to $0.06
+LicGuapo: folds 
+RobertByku2: calls $0.06
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: calls $0.04
+*** FLOP *** [8c 2c 5s]
+manfastspeed: checks 
+FrancoOlmedo: checks 
+RobertByku2: checks 
+*** TURN *** [8c 2c 5s] [Qh]
+manfastspeed: checks 
+FrancoOlmedo: checks 
+RobertByku2: bets $0.11
+manfastspeed: folds 
+FrancoOlmedo: folds 
+Uncalled bet ($0.11) returned to RobertByku2
+RobertByku2 collected $0.20 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8c 2c 5s Qh]
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: manfastspeed folded on the Turn
+Seat 4: FrancoOlmedo folded on the Turn
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) collected ($0.20)
+
+
+
+PokerStars Hand #239185945294:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:31:36 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.76 in chips) 
+Seat 2: Lorpugo ($6.71 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.71 in chips) 
+Seat 6: RobertByku2 ($4.37 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3h]
+FrancoOlmedo: raises $0.03 to $0.05
+LicGuapo: folds 
+RobertByku2: calls $0.05
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: calls $0.03
+*** FLOP *** [Qd 9d 7s]
+manfastspeed: bets $0.08
+FrancoOlmedo: calls $0.08
+RobertByku2: calls $0.08
+*** TURN *** [Qd 9d 7s] [8c]
+manfastspeed: bets $0.06
+FrancoOlmedo: calls $0.06
+RobertByku2: calls $0.06
+*** RIVER *** [Qd 9d 7s 8c] [Ks]
+manfastspeed: checks 
+FrancoOlmedo: checks 
+RobertByku2: checks 
+*** SHOW DOWN ***
+manfastspeed: shows [Td 3d] (high card King)
+FrancoOlmedo: shows [Ts Ad] (high card Ace)
+RobertByku2: shows [Ah Qc] (a pair of Queens)
+RobertByku2 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Qd 9d 7s 8c Ks]
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: manfastspeed (big blind) showed [Td 3d] and lost with high card King
+Seat 4: FrancoOlmedo showed [Ts Ad] and lost with high card Ace
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 showed [Ah Qc] and won ($0.56) with a pair of Queens
+
+
+
+PokerStars Hand #239185961977:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:32:29 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.76 in chips) 
+Seat 2: Lorpugo ($6.70 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.71 in chips) 
+Seat 6: RobertByku2 ($4.74 in chips) 
+manfastspeed: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Js]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+FrancoOlmedo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: FrancoOlmedo (big blind) folded before Flop
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185965509:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:32:40 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.76 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.71 in chips) 
+Seat 6: RobertByku2 ($4.74 in chips) 
+FrancoOlmedo: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Th]
+RobertByku2: folds 
+dedmoroz311: calls $0.02
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: raises $0.08 to $0.10
+dedmoroz311: raises $1.66 to $1.76 and is all-in
+LicGuapo: folds 
+Uncalled bet ($1.66) returned to dedmoroz311
+dedmoroz311 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: dedmoroz311 collected ($0.21)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239185976327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:33:15 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($1.87 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.61 in chips) 
+Seat 6: RobertByku2 ($4.74 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2d]
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: raises $0.04 to $0.06
+FrancoOlmedo: calls $0.06
+LicGuapo: folds 
+RobertByku2: raises $0.24 to $0.30
+manfastspeed: folds 
+FrancoOlmedo: folds 
+Uncalled bet ($0.24) returned to RobertByku2
+RobertByku2 collected $0.19 from pot
+RobertByku2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop
+Seat 4: FrancoOlmedo (button) folded before Flop
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #239185986262:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:33:46 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($1.87 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.60 in chips) 
+Seat 6: RobertByku2 ($4.87 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8s]
+Lorpugo: folds 
+manfastspeed: calls $0.02
+FrancoOlmedo: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: checks 
+*** FLOP *** [Ts Qh Jh]
+dedmoroz311: checks 
+manfastspeed: checks 
+*** TURN *** [Ts Qh Jh] [Ac]
+dedmoroz311: bets $0.02
+manfastspeed: raises $0.04 to $0.06
+dedmoroz311: calls $0.04
+*** RIVER *** [Ts Qh Jh Ac] [Js]
+dedmoroz311: bets $1.79 and is all-in
+manfastspeed: folds 
+Uncalled bet ($1.79) returned to dedmoroz311
+dedmoroz311 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ts Qh Jh Ac Js]
+Seat 1: dedmoroz311 (big blind) collected ($0.16)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded on the River
+Seat 4: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239185999505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:34:28 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.95 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.60 in chips) 
+Seat 6: RobertByku2 ($4.86 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 7c]
+manfastspeed: calls $0.02
+FrancoOlmedo: raises $0.04 to $0.06
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: raises $1.89 to $1.95 and is all-in
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: folds 
+Uncalled bet ($1.89) returned to dedmoroz311
+dedmoroz311 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0 
+Seat 1: dedmoroz311 (small blind) collected ($0.16)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: manfastspeed folded before Flop
+Seat 4: FrancoOlmedo folded before Flop
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186008134:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:34:55 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($2.05 in chips) 
+Seat 2: Lorpugo ($6.71 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($2.60 in chips) 
+Seat 6: RobertByku2 ($4.86 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 2c]
+FrancoOlmedo: raises $0.04 to $0.06
+LicGuapo: raises $0.12 to $0.18
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: calls $0.12
+*** FLOP *** [7d 6s 3h]
+FrancoOlmedo: checks 
+LicGuapo: bets $0.13
+FrancoOlmedo: calls $0.13
+*** TURN *** [7d 6s 3h] [Kc]
+FrancoOlmedo: checks 
+LicGuapo: bets $0.47
+FrancoOlmedo: calls $0.47
+*** RIVER *** [7d 6s 3h Kc] [Ac]
+FrancoOlmedo: checks 
+LicGuapo: bets $1.82 and is all-in
+FrancoOlmedo: folds 
+Uncalled bet ($1.82) returned to LicGuapo
+LicGuapo collected $1.53 from pot
+LicGuapo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 
+Board [7d 6s 3h Kc Ac]
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: manfastspeed (big blind) folded before Flop
+Seat 4: FrancoOlmedo folded on the River
+Seat 5: LicGuapo collected ($1.53)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186033852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:36:16 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($2.05 in chips) 
+Seat 2: Lorpugo ($6.70 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($3.35 in chips) 
+Seat 6: RobertByku2 ($4.86 in chips) 
+manfastspeed: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qh]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+Uncalled bet ($0.01) returned to FrancoOlmedo
+FrancoOlmedo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: FrancoOlmedo (big blind) collected ($0.02)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186038020:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:36:29 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($2.05 in chips) 
+Seat 2: Lorpugo ($6.70 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.01 in chips) 
+Seat 5: LicGuapo ($3.35 in chips) 
+Seat 6: RobertByku2 ($4.86 in chips) 
+FrancoOlmedo: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6c]
+RobertByku2: folds 
+dedmoroz311: calls $0.02
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: checks 
+*** FLOP *** [3s Kh 9c]
+LicGuapo: checks 
+dedmoroz311: bets $0.05
+LicGuapo: folds 
+Uncalled bet ($0.05) returned to dedmoroz311
+dedmoroz311 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s Kh 9c]
+Seat 1: dedmoroz311 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded on the Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186048632:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:37:02 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($2.08 in chips) 
+Seat 2: Lorpugo ($6.70 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($3.33 in chips) 
+Seat 6: RobertByku2 ($4.86 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3s]
+dedmoroz311: calls $0.02
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: raises $0.07 to $0.09
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Uncalled bet ($0.07) returned to FrancoOlmedo
+FrancoOlmedo collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (button) collected ($0.07)
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239186054843:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:37:21 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($2.06 in chips) 
+Seat 2: Lorpugo ($6.70 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.05 in chips) 
+Seat 5: LicGuapo ($3.32 in chips) 
+Seat 6: RobertByku2 ($4.84 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 4s]
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239186061462:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:37:41 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($2.04 in chips) 
+Seat 2: Lorpugo ($6.73 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.05 in chips) 
+Seat 5: LicGuapo ($3.32 in chips) 
+Seat 6: RobertByku2 ($4.83 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 2c]
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+dedmoroz311: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186067868:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:38:01 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($2.02 in chips) 
+Seat 2: Lorpugo ($6.75 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.05 in chips) 
+Seat 5: LicGuapo ($3.32 in chips) 
+Seat 6: RobertByku2 ($4.83 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3h]
+FrancoOlmedo: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+manfastspeed: folds 
+dedmoroz311: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: dedmoroz311 (button) folded before Flop
+Seat 2: Lorpugo (small blind) collected ($0.06)
+Seat 3: manfastspeed (big blind) folded before Flop
+Seat 4: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186074218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:38:20 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($2 in chips) 
+Seat 2: Lorpugo ($6.79 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.05 in chips) 
+Seat 5: LicGuapo ($3.32 in chips) 
+Seat 6: RobertByku2 ($4.83 in chips) 
+manfastspeed: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ac]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+FrancoOlmedo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: manfastspeed (small blind) folded before Flop
+Seat 4: FrancoOlmedo (big blind) folded before Flop
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186078318:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:38:33 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($2 in chips) 
+Seat 2: Lorpugo ($6.82 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.03 in chips) 
+Seat 5: LicGuapo ($3.32 in chips) 
+Seat 6: RobertByku2 ($4.83 in chips) 
+FrancoOlmedo: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Qs]
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: manfastspeed (button) folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186081925:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:38:44 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($2 in chips) 
+Seat 2: Lorpugo ($6.85 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.02 in chips) 
+Seat 5: LicGuapo ($3.30 in chips) 
+Seat 6: RobertByku2 ($4.83 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6d]
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: raises $0.02 to $0.04
+LicGuapo: folds 
+RobertByku2: calls $0.02
+*** FLOP *** [2d 4d Qd]
+RobertByku2: checks 
+FrancoOlmedo: bets $0.05
+RobertByku2: calls $0.05
+*** TURN *** [2d 4d Qd] [5s]
+RobertByku2: checks 
+FrancoOlmedo: bets $0.15
+RobertByku2: calls $0.15
+*** RIVER *** [2d 4d Qd 5s] [Ac]
+RobertByku2: checks 
+FrancoOlmedo: bets $0.47
+RobertByku2: calls $0.47
+*** SHOW DOWN ***
+FrancoOlmedo: shows [Ks 9h] (high card Ace)
+RobertByku2: shows [7s Ad] (a pair of Aces)
+RobertByku2 collected $1.38 from pot
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 
+Board [2d 4d Qd 5s Ac]
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (button) showed [Ks 9h] and lost with high card Ace
+Seat 5: LicGuapo (small blind) folded before Flop
+Seat 6: RobertByku2 (big blind) showed [7s Ad] and won ($1.38) with a pair of Aces
+
+
+
+PokerStars Hand #239186105352:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:39:56 ET
+Table 'Lycomedes' 6-max Seat #5 is the button
+Seat 1: dedmoroz311 ($2 in chips) 
+Seat 2: Lorpugo ($6.85 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2 in chips) 
+Seat 5: LicGuapo ($3.29 in chips) 
+Seat 6: RobertByku2 ($5.50 in chips) 
+RobertByku2: posts small blind $0.01
+dedmoroz311: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 6c]
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: raises $0.04 to $0.06
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Uncalled bet ($0.04) returned to FrancoOlmedo
+FrancoOlmedo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dedmoroz311 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo collected ($0.05)
+Seat 5: LicGuapo (button) folded before Flop (didn't bet)
+Seat 6: RobertByku2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239186111128:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:40:14 ET
+Table 'Lycomedes' 6-max Seat #6 is the button
+Seat 1: dedmoroz311 ($1.98 in chips) 
+Seat 2: Lorpugo ($6.85 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.03 in chips) 
+Seat 5: LicGuapo ($3.29 in chips) 
+Seat 6: RobertByku2 ($5.49 in chips) 
+dedmoroz311: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4s]
+manfastspeed: folds 
+FrancoOlmedo: raises $0.04 to $0.06
+LicGuapo: folds 
+RobertByku2: raises $0.12 to $0.18
+dedmoroz311: folds 
+Lorpugo: folds 
+FrancoOlmedo: calls $0.12
+*** FLOP *** [2h Kh Ac]
+FrancoOlmedo: checks 
+RobertByku2: bets $0.08
+FrancoOlmedo: calls $0.08
+*** TURN *** [2h Kh Ac] [7h]
+FrancoOlmedo: checks 
+RobertByku2: checks 
+*** RIVER *** [2h Kh Ac 7h] [Jd]
+FrancoOlmedo: bets $0.19
+RobertByku2: calls $0.19
+*** SHOW DOWN ***
+FrancoOlmedo: shows [Ts As] (a pair of Aces)
+RobertByku2: mucks hand 
+FrancoOlmedo collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [2h Kh Ac 7h Jd]
+Seat 1: dedmoroz311 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo showed [Ts As] and won ($0.90) with a pair of Aces
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 (button) mucked [Ks Qh]
+
+
+
+PokerStars Hand #239186126548:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:41:02 ET
+Table 'Lycomedes' 6-max Seat #1 is the button
+Seat 1: dedmoroz311 ($1.97 in chips) 
+Seat 2: Lorpugo ($6.83 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.48 in chips) 
+Seat 5: LicGuapo ($3.29 in chips) 
+Seat 6: RobertByku2 ($5.04 in chips) 
+Lorpugo: posts small blind $0.01
+manfastspeed: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc As]
+FrancoOlmedo: folds 
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: manfastspeed (big blind) folded before Flop
+Seat 4: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186131784:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:41:19 ET
+Table 'Lycomedes' 6-max Seat #2 is the button
+Seat 1: dedmoroz311 ($1.97 in chips) 
+Seat 2: Lorpugo ($6.85 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.48 in chips) 
+Seat 5: LicGuapo ($3.29 in chips) 
+Seat 6: RobertByku2 ($5.04 in chips) 
+manfastspeed: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ts]
+LicGuapo: folds 
+RobertByku2: folds 
+dedmoroz311: folds 
+Lorpugo: raises $0.04 to $0.06
+manfastspeed: calls $0.05
+FrancoOlmedo: folds 
+*** FLOP *** [5h Js 6d]
+manfastspeed: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [5h Js 6d] [7d]
+manfastspeed: checks 
+Lorpugo: bets $0.17
+manfastspeed: folds 
+Uncalled bet ($0.17) returned to Lorpugo
+Lorpugo collected $0.25 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5h Js 6d 7d]
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.25)
+Seat 3: manfastspeed (small blind) folded on the Turn
+Seat 4: FrancoOlmedo (big blind) folded before Flop
+Seat 5: LicGuapo folded before Flop (didn't bet)
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186144271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:41:57 ET
+Table 'Lycomedes' 6-max Seat #3 is the button
+Seat 1: dedmoroz311 ($1.97 in chips) 
+Seat 2: Lorpugo ($6.98 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.46 in chips) 
+Seat 5: LicGuapo ($3.29 in chips) 
+Seat 6: RobertByku2 ($5.04 in chips) 
+FrancoOlmedo: posts small blind $0.01
+LicGuapo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7h]
+RobertByku2: folds 
+dedmoroz311: calls $0.02
+Lorpugo: folds 
+manfastspeed: raises $0.04 to $0.06
+FrancoOlmedo: folds 
+LicGuapo: folds 
+dedmoroz311: calls $0.04
+*** FLOP *** [9c 6d Ks]
+dedmoroz311: bets $0.07
+manfastspeed: folds 
+Uncalled bet ($0.07) returned to dedmoroz311
+dedmoroz311 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c 6d Ks]
+Seat 1: dedmoroz311 collected ($0.14)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed (button) folded on the Flop
+Seat 4: FrancoOlmedo (small blind) folded before Flop
+Seat 5: LicGuapo (big blind) folded before Flop
+Seat 6: RobertByku2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186151324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 12:42:19 ET
+Table 'Lycomedes' 6-max Seat #4 is the button
+Seat 1: dedmoroz311 ($2.05 in chips) 
+Seat 2: Lorpugo ($6.98 in chips) 
+Seat 3: manfastspeed ($2 in chips) 
+Seat 4: FrancoOlmedo ($2.45 in chips) 
+Seat 5: LicGuapo ($3.27 in chips) 
+Seat 6: RobertByku2 ($5.04 in chips) 
+LicGuapo: posts small blind $0.01
+RobertByku2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5d]
+dedmoroz311 has timed out
+dedmoroz311: folds 
+Lorpugo: folds 
+manfastspeed: folds 
+FrancoOlmedo: folds 
+LicGuapo: raises $0.04 to $0.06
+RobertByku2: folds 
+Uncalled bet ($0.04) returned to LicGuapo
+LicGuapo collected $0.04 from pot
+LicGuapo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: dedmoroz311 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: manfastspeed folded before Flop (didn't bet)
+Seat 4: FrancoOlmedo (button) folded before Flop (didn't bet)
+Seat 5: LicGuapo (small blind) collected ($0.04)
+Seat 6: RobertByku2 (big blind) folded before Flop
+
+
+

@@ -1,0 +1,378 @@
+﻿PokerStars Hand #240641876190:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:28:41 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: LongHart ($2.16 in chips) 
+Seat 2: Konfuchii_UA ($2 in chips) 
+Seat 3: GEONICY ($2.04 in chips) 
+Seat 4: sergeyf132 ($2.64 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: deck_pokemon ($2.40 in chips) 
+sergeyf132: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 2s]
+deck_pokemon: folds 
+LongHart: raises $0.04 to $0.06
+Konfuchii_UA: folds 
+GEONICY: folds 
+sergeyf132: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LongHart collected ($0.05)
+Seat 2: Konfuchii_UA folded before Flop (didn't bet)
+Seat 3: GEONICY (button) folded before Flop (didn't bet)
+Seat 4: sergeyf132 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: deck_pokemon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641881989:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:29:00 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: LongHart ($2.19 in chips) 
+Seat 2: Konfuchii_UA ($2 in chips) 
+Seat 3: GEONICY ($2.04 in chips) 
+Seat 4: sergeyf132 ($2.63 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: deck_pokemon ($2.40 in chips) 
+Lorpugo: posts small blind $0.01
+deck_pokemon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8d]
+LongHart: folds 
+Konfuchii_UA: folds 
+GEONICY: raises $0.04 to $0.06
+sergeyf132: folds 
+Lorpugo: folds 
+deck_pokemon: folds 
+Uncalled bet ($0.04) returned to GEONICY
+GEONICY collected $0.05 from pot
+GEONICY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LongHart folded before Flop (didn't bet)
+Seat 2: Konfuchii_UA folded before Flop (didn't bet)
+Seat 3: GEONICY collected ($0.05)
+Seat 4: sergeyf132 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: deck_pokemon (big blind) folded before Flop
+
+
+
+PokerStars Hand #240641890511:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:29:28 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: LongHart ($2.19 in chips) 
+Seat 2: Konfuchii_UA ($2 in chips) 
+Seat 3: GEONICY ($2.07 in chips) 
+Seat 4: sergeyf132 ($2.63 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: deck_pokemon ($2.38 in chips) 
+deck_pokemon: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6c]
+Konfuchii_UA: folds 
+GEONICY: raises $0.04 to $0.06
+sergeyf132: folds 
+Lorpugo: raises $0.15 to $0.21
+deck_pokemon: folds 
+LongHart: folds 
+GEONICY: calls $0.15
+*** FLOP *** [5h 7s 7h]
+GEONICY: checks 
+Lorpugo: bets $1.36 and is all-in
+GEONICY: calls $1.36
+*** TURN *** [5h 7s 7h] [Kd]
+*** RIVER *** [5h 7s 7h Kd] [2c]
+*** SHOW DOWN ***
+GEONICY: shows [Td As] (a pair of Sevens)
+Lorpugo: shows [8c 6c] (a pair of Sevens - lower kicker)
+GEONICY cashed out the hand for $1.52 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $3.17 | Rake $0.11 
+Board [5h 7s 7h Kd 2c]
+Seat 1: LongHart (big blind) folded before Flop
+Seat 2: Konfuchii_UA folded before Flop (didn't bet)
+Seat 3: GEONICY showed [Td As] and won ($3.06) with a pair of Sevens (pot not awarded as player cashed out)
+Seat 4: sergeyf132 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) showed [8c 6c] and lost with a pair of Sevens
+Seat 6: deck_pokemon (small blind) folded before Flop
+
+
+
+PokerStars Hand #240641910613:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:30:32 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: LongHart ($2.16 in chips) 
+Seat 2: Konfuchii_UA ($2 in chips) 
+Seat 3: GEONICY ($2.02 in chips) 
+Seat 4: sergeyf132 ($2.63 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: deck_pokemon ($2.40 in chips) 
+Konfuchii_UA: posts small blind $0.01
+GEONICY: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ac]
+sergeyf132: folds 
+Lorpugo: raises $0.04 to $0.06
+deck_pokemon: folds 
+LongHart: folds 
+Konfuchii_UA: raises $0.12 to $0.18
+GEONICY: folds 
+Lorpugo: calls $0.12
+*** FLOP *** [5c 4h 8c]
+Konfuchii_UA: bets $0.37
+Lorpugo: folds 
+Uncalled bet ($0.37) returned to Konfuchii_UA
+Konfuchii_UA collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [5c 4h 8c]
+Seat 1: LongHart (button) folded before Flop (didn't bet)
+Seat 2: Konfuchii_UA (small blind) collected ($0.37)
+Seat 3: GEONICY (big blind) folded before Flop
+Seat 4: sergeyf132 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Flop
+Seat 6: deck_pokemon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641920058:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:31:03 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: LongHart ($2.16 in chips) 
+Seat 2: Konfuchii_UA ($2.19 in chips) 
+Seat 3: GEONICY ($2 in chips) 
+Seat 4: sergeyf132 ($2.63 in chips) 
+Seat 5: Lorpugo ($1.42 in chips) 
+Seat 6: deck_pokemon ($2.40 in chips) 
+GEONICY: posts small blind $0.01
+sergeyf132: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6d]
+Lorpugo: folds 
+deck_pokemon: folds 
+LongHart: raises $0.04 to $0.06
+Konfuchii_UA: folds 
+GEONICY: folds 
+sergeyf132: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LongHart collected ($0.05)
+Seat 2: Konfuchii_UA (button) folded before Flop (didn't bet)
+Seat 3: GEONICY (small blind) folded before Flop
+Seat 4: sergeyf132 (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: deck_pokemon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641927942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:31:29 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: LongHart ($2.19 in chips) 
+Seat 2: Konfuchii_UA ($2.19 in chips) 
+Seat 3: GEONICY ($1.99 in chips) 
+Seat 4: sergeyf132 ($2.61 in chips) 
+Seat 5: Lorpugo ($1.42 in chips) 
+Seat 6: deck_pokemon ($2.40 in chips) 
+sergeyf132: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ks]
+deck_pokemon: folds 
+LongHart: raises $0.04 to $0.06
+Konfuchii_UA: calls $0.06
+GEONICY: calls $0.06
+sergeyf132: folds 
+Lorpugo: folds 
+*** FLOP *** [7c 9s Jh]
+LongHart: checks 
+Konfuchii_UA: checks 
+GEONICY: bets $0.10
+LongHart: calls $0.10
+Konfuchii_UA: folds 
+*** TURN *** [7c 9s Jh] [7s]
+LongHart: checks 
+GEONICY: bets $0.40
+LongHart: folds 
+Uncalled bet ($0.40) returned to GEONICY
+GEONICY collected $0.40 from pot
+GEONICY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [7c 9s Jh 7s]
+Seat 1: LongHart folded on the Turn
+Seat 2: Konfuchii_UA folded on the Flop
+Seat 3: GEONICY (button) collected ($0.40)
+Seat 4: sergeyf132 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: deck_pokemon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641947719:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:32:32 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: LongHart ($2.03 in chips) 
+Seat 2: Konfuchii_UA ($2.13 in chips) 
+Seat 3: GEONICY ($2.23 in chips) 
+Seat 4: sergeyf132 ($2.60 in chips) 
+Seat 5: Lorpugo ($1.40 in chips) 
+Seat 6: deck_pokemon ($2.40 in chips) 
+Lorpugo: posts small blind $0.01
+deck_pokemon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Kd]
+LongHart: folds 
+Konfuchii_UA: raises $0.04 to $0.06
+GEONICY: folds 
+sergeyf132: folds 
+Lorpugo: folds 
+deck_pokemon: folds 
+Uncalled bet ($0.04) returned to Konfuchii_UA
+Konfuchii_UA collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LongHart folded before Flop (didn't bet)
+Seat 2: Konfuchii_UA collected ($0.05)
+Seat 3: GEONICY folded before Flop (didn't bet)
+Seat 4: sergeyf132 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: deck_pokemon (big blind) folded before Flop
+
+
+
+PokerStars Hand #240641950988:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:32:43 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: LongHart ($2.03 in chips) 
+Seat 2: Konfuchii_UA ($2.16 in chips) 
+Seat 3: GEONICY ($2.23 in chips) 
+Seat 4: sergeyf132 ($2.60 in chips) 
+Seat 5: Lorpugo ($1.39 in chips) 
+Seat 6: deck_pokemon ($2.38 in chips) 
+deck_pokemon: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9h]
+Konfuchii_UA: folds 
+GEONICY: folds 
+sergeyf132: folds 
+Lorpugo: raises $0.04 to $0.06
+deck_pokemon: folds 
+LongHart: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: LongHart (big blind) folded before Flop
+Seat 2: Konfuchii_UA folded before Flop (didn't bet)
+Seat 3: GEONICY folded before Flop (didn't bet)
+Seat 4: sergeyf132 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.05)
+Seat 6: deck_pokemon (small blind) folded before Flop
+
+
+
+PokerStars Hand #240641955920:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:32:58 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: LongHart ($2.01 in chips) 
+Seat 2: Konfuchii_UA ($2.16 in chips) 
+Seat 3: GEONICY ($2.23 in chips) 
+Seat 4: sergeyf132 ($2.60 in chips) 
+Seat 5: Lorpugo ($1.42 in chips) 
+Seat 6: deck_pokemon ($2.37 in chips) 
+LongHart: posts small blind $0.01
+Konfuchii_UA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 9h]
+GEONICY: folds 
+sergeyf132: folds 
+Lorpugo: folds 
+deck_pokemon: folds 
+LongHart: folds 
+Uncalled bet ($0.01) returned to Konfuchii_UA
+Konfuchii_UA collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: LongHart (small blind) folded before Flop
+Seat 2: Konfuchii_UA (big blind) collected ($0.02)
+Seat 3: GEONICY folded before Flop (didn't bet)
+Seat 4: sergeyf132 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: deck_pokemon (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641961465:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:33:16 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: LongHart ($2 in chips) 
+Seat 2: Konfuchii_UA ($2.17 in chips) 
+Seat 3: GEONICY ($2.23 in chips) 
+Seat 4: sergeyf132 ($2.60 in chips) 
+Seat 5: Lorpugo ($1.42 in chips) 
+Seat 6: deck_pokemon ($2.37 in chips) 
+Konfuchii_UA: posts small blind $0.01
+GEONICY: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 3s]
+sergeyf132: folds 
+Lorpugo: folds 
+deck_pokemon: folds 
+LongHart: raises $0.04 to $0.06
+Konfuchii_UA: folds 
+GEONICY: raises $0.13 to $0.19
+LongHart: folds 
+Uncalled bet ($0.13) returned to GEONICY
+GEONICY collected $0.13 from pot
+GEONICY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: LongHart (button) folded before Flop
+Seat 2: Konfuchii_UA (small blind) folded before Flop
+Seat 3: GEONICY (big blind) collected ($0.13)
+Seat 4: sergeyf132 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: deck_pokemon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641972217:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:33:51 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: LongHart ($1.94 in chips) 
+Seat 2: Konfuchii_UA ($2.16 in chips) 
+Seat 3: GEONICY ($2.30 in chips) 
+Seat 4: sergeyf132 ($2.60 in chips) 
+Seat 5: Lorpugo ($1.42 in chips) 
+Seat 6: deck_pokemon ($2.37 in chips) 
+GEONICY: posts small blind $0.01
+sergeyf132: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 4c]
+Lorpugo: folds 
+deck_pokemon: folds 
+LongHart: folds 
+Konfuchii_UA: raises $0.04 to $0.06
+GEONICY: calls $0.05
+sergeyf132: folds 
+*** FLOP *** [6d 8h 8d]
+GEONICY: checks 
+Konfuchii_UA: bets $0.14
+GEONICY: folds 
+Uncalled bet ($0.14) returned to Konfuchii_UA
+Konfuchii_UA collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6d 8h 8d]
+Seat 1: LongHart folded before Flop (didn't bet)
+Seat 2: Konfuchii_UA (button) collected ($0.14)
+Seat 3: GEONICY (small blind) folded on the Flop
+Seat 4: sergeyf132 (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: deck_pokemon folded before Flop (didn't bet)
+
+
+

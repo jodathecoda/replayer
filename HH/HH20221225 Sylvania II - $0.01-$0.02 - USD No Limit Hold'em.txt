@@ -1,0 +1,175 @@
+﻿PokerStars Hand #240686590810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:47:24 ET
+Table 'Sylvania II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: GAMERXHUNTER ($1.51 in chips) 
+Seat 3: prezik_v_sperme ($2.16 in chips) 
+Seat 4: BJRGOMEZ ($3.37 in chips) 
+Seat 5: HFD 630 ($0.13 in chips) 
+Seat 6: ULISSES 222 ($2.15 in chips) 
+ULISSES 222: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 9h]
+GAMERXHUNTER has timed out
+GAMERXHUNTER: folds 
+prezik_v_sperme: folds 
+BJRGOMEZ: raises $0.04 to $0.06
+HFD 630: folds 
+HFD 630 leaves the table
+ULISSES 222: calls $0.05
+ericrv37 joins the table at seat #5 
+GAMERXHUNTER is disconnected 
+Lorpugo: calls $0.04
+*** FLOP *** [Qd 8c Kd]
+ULISSES 222: checks 
+Lorpugo: checks 
+BJRGOMEZ: bets $0.06
+ULISSES 222: folds 
+ULISSES 222 leaves the table
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to BJRGOMEZ
+BJRGOMEZ collected $0.17 from pot
+BJRGOMEZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qd 8c Kd]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: GAMERXHUNTER folded before Flop (didn't bet)
+Seat 3: prezik_v_sperme folded before Flop (didn't bet)
+Seat 4: BJRGOMEZ collected ($0.17)
+Seat 5: HFD 630 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240686610189:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:48:10 ET
+Table 'Sylvania II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.54 in chips) 
+Seat 3: prezik_v_sperme ($2.16 in chips) 
+Seat 4: BJRGOMEZ ($3.48 in chips) 
+Seat 5: ericrv37 ($2 in chips) 
+prezik_v_sperme: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+ericrv37: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9c]
+ericrv37: checks 
+lemmie40 joins the table at seat #6 
+Lorpugo: raises $0.02 to $0.04
+prezik_v_sperme: folds 
+BJRGOMEZ: folds 
+ericrv37: calls $0.02
+*** FLOP *** [Th 4h Td]
+lemmie40 leaves the table
+MasterZ.soccer joins the table at seat #6 
+ericrv37: checks 
+Lorpugo: checks 
+*** TURN *** [Th 4h Td] [3h]
+ericrv37: checks 
+Lorpugo: checks 
+*** RIVER *** [Th 4h Td 3h] [4d]
+ericrv37: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+ericrv37: shows [7c 6s] (two pair, Tens and Fours)
+Lorpugo: shows [8d 9c] (two pair, Tens and Fours - Nine kicker)
+Lorpugo collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Th 4h Td 3h 4d]
+Seat 1: Lorpugo (button) showed [8d 9c] and won ($0.11) with two pair, Tens and Fours
+Seat 3: prezik_v_sperme (small blind) folded before Flop
+Seat 4: BJRGOMEZ (big blind) folded before Flop
+Seat 5: ericrv37 showed [7c 6s] and lost with two pair, Tens and Fours
+
+
+
+PokerStars Hand #240686625638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:48:48 ET
+Table 'Sylvania II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.61 in chips) 
+Seat 2: GAMERXHUNTER ($1.51 in chips) 
+Seat 3: prezik_v_sperme ($2.15 in chips) 
+Seat 4: BJRGOMEZ ($3.46 in chips) 
+Seat 5: ericrv37 ($1.96 in chips) 
+Seat 6: MasterZ.soccer ($1.60 in chips) 
+BJRGOMEZ: posts small blind $0.01
+ericrv37: posts big blind $0.02
+MasterZ.soccer: posts big blind $0.02
+GAMERXHUNTER: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Qh]
+MasterZ.soccer: checks 
+Lorpugo: calls $0.02
+GAMERXHUNTER: calls $0.02
+prezik_v_sperme: calls $0.02
+BJRGOMEZ: folds 
+ericrv37: checks 
+*** FLOP *** [8s 4s 6c]
+ericrv37: checks 
+MasterZ.soccer: bets $0.02
+Lorpugo: calls $0.02
+GAMERXHUNTER: calls $0.02
+prezik_v_sperme: folds 
+ericrv37: calls $0.02
+*** TURN *** [8s 4s 6c] [Jh]
+ericrv37: checks 
+MasterZ.soccer: checks 
+Lorpugo: bets $0.12
+GAMERXHUNTER: calls $0.12
+ericrv37: folds 
+MasterZ.soccer: folds 
+*** RIVER *** [8s 4s 6c Jh] [8h]
+MasterZ.soccer leaves the table
+Trickuent joins the table at seat #6 
+Lorpugo: checks 
+GAMERXHUNTER: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qc Qh] (two pair, Queens and Eights)
+GAMERXHUNTER: mucks hand 
+Lorpugo collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [8s 4s 6c Jh 8h]
+Seat 1: Lorpugo showed [Qc Qh] and won ($0.42) with two pair, Queens and Eights
+Seat 2: GAMERXHUNTER mucked [7d 3d]
+Seat 3: prezik_v_sperme (button) folded on the Flop
+Seat 4: BJRGOMEZ (small blind) folded before Flop
+Seat 5: ericrv37 (big blind) folded on the Turn
+Seat 6: MasterZ.soccer folded on the Turn
+
+
+
+PokerStars Hand #240686659985:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:50:11 ET
+Table 'Sylvania II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.87 in chips) 
+Seat 2: GAMERXHUNTER ($1.34 in chips) 
+Seat 3: prezik_v_sperme ($2.13 in chips) 
+Seat 4: BJRGOMEZ ($3.45 in chips) 
+Seat 5: ericrv37 ($1.92 in chips) 
+Seat 6: Trickuent ($2 in chips) 
+ericrv37: posts small blind $0.01
+Trickuent: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Jc]
+Lorpugo: folds 
+GAMERXHUNTER: calls $0.02
+prezik_v_sperme: folds 
+BJRGOMEZ: raises $0.06 to $0.08
+ericrv37: folds 
+Trickuent: folds 
+GAMERXHUNTER has timed out
+GAMERXHUNTER: folds 
+Uncalled bet ($0.06) returned to BJRGOMEZ
+BJRGOMEZ collected $0.07 from pot
+BJRGOMEZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: GAMERXHUNTER folded before Flop
+Seat 3: prezik_v_sperme folded before Flop (didn't bet)
+Seat 4: BJRGOMEZ (button) collected ($0.07)
+Seat 5: ericrv37 (small blind) folded before Flop
+Seat 6: Trickuent (big blind) folded before Flop
+
+
+

@@ -1,0 +1,908 @@
+﻿PokerStars Hand #239303000601:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:42:59 ET
+Table 'Cowell' 6-max Seat #1 is the button
+Seat 1: Baltchik2015 ($2.31 in chips) 
+Seat 2: cherry620 ($5.73 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: paul3014 ($1.27 in chips) 
+Seat 5: drive107 ($2.05 in chips) 
+Seat 6: som1990 ($2.52 in chips) 
+cherry620: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8s]
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+Baltchik2015: raises $0.04 to $0.06
+cherry620: folds 
+Lorpugo: raises $0.13 to $0.19
+Baltchik2015: calls $0.13
+*** FLOP *** [2s Qs Jh]
+Lorpugo: checks 
+Baltchik2015: checks 
+*** TURN *** [2s Qs Jh] [2d]
+Lorpugo: bets $0.25
+Baltchik2015: calls $0.25
+*** RIVER *** [2s Qs Jh 2d] [Jd]
+Lorpugo: bets $0.20
+Baltchik2015: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.86 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [2s Qs Jh 2d Jd]
+Seat 1: Baltchik2015 (button) folded on the River
+Seat 2: cherry620 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.86)
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 folded before Flop (didn't bet)
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303015030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:44:03 ET
+Table 'Cowell' 6-max Seat #2 is the button
+Seat 1: Baltchik2015 ($1.87 in chips) 
+Seat 2: cherry620 ($5.72 in chips) 
+Seat 3: Lorpugo ($2.02 in chips) 
+Seat 4: paul3014 ($1.27 in chips) 
+Seat 5: drive107 ($2.05 in chips) 
+Seat 6: som1990 ($2.52 in chips) 
+Lorpugo: posts small blind $0.01
+paul3014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5h]
+drive107: folds 
+som1990: folds 
+Baltchik2015: folds 
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: folds 
+Uncalled bet ($0.04) returned to cherry620
+cherry620 collected $0.05 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Baltchik2015 folded before Flop (didn't bet)
+Seat 2: cherry620 (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: paul3014 (big blind) folded before Flop
+Seat 5: drive107 folded before Flop (didn't bet)
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303019672:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:44:24 ET
+Table 'Cowell' 6-max Seat #3 is the button
+Seat 1: Baltchik2015 ($1.87 in chips) 
+Seat 2: cherry620 ($5.75 in chips) 
+Seat 3: Lorpugo ($2.01 in chips) 
+Seat 4: paul3014 ($1.25 in chips) 
+Seat 5: drive107 ($2.05 in chips) 
+Seat 6: som1990 ($2.52 in chips) 
+paul3014: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 4h]
+som1990: folds 
+Baltchik2015: folds 
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: calls $0.05
+drive107: folds 
+*** FLOP *** [8c 7s 9s]
+paul3014: checks 
+cherry620: checks 
+*** TURN *** [8c 7s 9s] [6d]
+paul3014: checks 
+cherry620: checks 
+*** RIVER *** [8c 7s 9s 6d] [9h]
+paul3014: checks 
+cherry620: checks 
+*** SHOW DOWN ***
+paul3014: shows [3s 6s] (two pair, Nines and Sixes)
+cherry620: mucks hand 
+paul3014 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 7s 9s 6d 9h]
+Seat 1: Baltchik2015 folded before Flop (didn't bet)
+Seat 2: cherry620 mucked [Qc As]
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: paul3014 (small blind) showed [3s 6s] and won ($0.14) with two pair, Nines and Sixes
+Seat 5: drive107 (big blind) folded before Flop
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303026107:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:44:53 ET
+Table 'Cowell' 6-max Seat #4 is the button
+Seat 1: Baltchik2015 ($1.87 in chips) 
+Seat 2: cherry620 ($5.69 in chips) 
+Seat 3: Lorpugo ($2.01 in chips) 
+Seat 4: paul3014 ($1.33 in chips) 
+Seat 5: drive107 ($2.03 in chips) 
+Seat 6: som1990 ($2.52 in chips) 
+drive107: posts small blind $0.01
+som1990: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qc]
+Baltchik2015: folds 
+cherry620: folds 
+Lorpugo: raises $0.04 to $0.06
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Baltchik2015 folded before Flop (didn't bet)
+Seat 2: cherry620 folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: paul3014 (button) folded before Flop (didn't bet)
+Seat 5: drive107 (small blind) folded before Flop
+Seat 6: som1990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239303029744:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:45:09 ET
+Table 'Cowell' 6-max Seat #5 is the button
+Seat 1: Baltchik2015 ($1.87 in chips) 
+Seat 2: cherry620 ($5.69 in chips) 
+Seat 3: Lorpugo ($2.04 in chips) 
+Seat 4: paul3014 ($1.33 in chips) 
+Seat 5: drive107 ($2.02 in chips) 
+Seat 6: som1990 ($2.50 in chips) 
+som1990: posts small blind $0.01
+Baltchik2015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6d]
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+Baltchik2015: folds 
+Uncalled bet ($0.04) returned to cherry620
+cherry620 collected $0.05 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Baltchik2015 (big blind) folded before Flop
+Seat 2: cherry620 collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 (button) folded before Flop (didn't bet)
+Seat 6: som1990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239303031928:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:45:19 ET
+Table 'Cowell' 6-max Seat #6 is the button
+Seat 1: Baltchik2015 ($1.85 in chips) 
+Seat 2: cherry620 ($5.72 in chips) 
+Seat 3: Lorpugo ($2.04 in chips) 
+Seat 4: paul3014 ($1.33 in chips) 
+Seat 5: drive107 ($2.02 in chips) 
+Seat 6: som1990 ($2.49 in chips) 
+Baltchik2015: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Td]
+Lorpugo: raises $0.04 to $0.06
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+Baltchik2015: folds 
+cherry620: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Baltchik2015 (small blind) folded before Flop
+Seat 2: cherry620 (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 folded before Flop (didn't bet)
+Seat 6: som1990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303034574:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:45:31 ET
+Table 'Cowell' 6-max Seat #1 is the button
+Seat 1: Baltchik2015 ($1.84 in chips) 
+Seat 2: cherry620 ($5.70 in chips) 
+Seat 3: Lorpugo ($2.07 in chips) 
+Seat 4: paul3014 ($1.33 in chips) 
+Seat 5: drive107 ($2.02 in chips) 
+Seat 6: som1990 ($2.49 in chips) 
+cherry620: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8d]
+paul3014: folds 
+drive107: raises $0.05 to $0.07
+som1990: folds 
+Baltchik2015: folds 
+cherry620: calls $0.06
+Lorpugo: folds 
+*** FLOP *** [Ks 9s Qh]
+cherry620: checks 
+drive107: checks 
+*** TURN *** [Ks 9s Qh] [6h]
+cherry620: bets $0.07
+drive107: folds 
+Uncalled bet ($0.07) returned to cherry620
+cherry620 collected $0.15 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ks 9s Qh 6h]
+Seat 1: Baltchik2015 (button) folded before Flop (didn't bet)
+Seat 2: cherry620 (small blind) collected ($0.15)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 folded on the Turn
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303041404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:46:01 ET
+Table 'Cowell' 6-max Seat #2 is the button
+Seat 1: Baltchik2015 ($1.84 in chips) 
+Seat 2: cherry620 ($5.78 in chips) 
+Seat 3: Lorpugo ($2.05 in chips) 
+Seat 4: paul3014 ($1.33 in chips) 
+Seat 5: drive107 ($1.95 in chips) 
+Seat 6: som1990 ($2.49 in chips) 
+Lorpugo: posts small blind $0.01
+paul3014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Kc]
+drive107: folds 
+som1990: folds 
+Baltchik2015: folds 
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: calls $0.04
+*** FLOP *** [Qd 8c 5d]
+paul3014: checks 
+cherry620: bets $0.06
+paul3014: calls $0.06
+*** TURN *** [Qd 8c 5d] [5s]
+paul3014: checks 
+cherry620: checks 
+*** RIVER *** [Qd 8c 5d 5s] [Jc]
+paul3014: checks 
+cherry620: checks 
+*** SHOW DOWN ***
+paul3014: shows [Th 7c] (a pair of Fives)
+cherry620: shows [Kd As] (a pair of Fives - Ace kicker)
+cherry620 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qd 8c 5d 5s Jc]
+Seat 1: Baltchik2015 folded before Flop (didn't bet)
+Seat 2: cherry620 (button) showed [Kd As] and won ($0.24) with a pair of Fives
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: paul3014 (big blind) showed [Th 7c] and lost with a pair of Fives
+Seat 5: drive107 folded before Flop (didn't bet)
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303049892:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:46:39 ET
+Table 'Cowell' 6-max Seat #3 is the button
+Seat 1: Baltchik2015 ($1.84 in chips) 
+Seat 2: cherry620 ($5.90 in chips) 
+Seat 3: Lorpugo ($2.04 in chips) 
+Seat 4: paul3014 ($1.21 in chips) 
+Seat 5: drive107 ($1.95 in chips) 
+Seat 6: som1990 ($2.49 in chips) 
+paul3014: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Js]
+som1990: folds 
+Baltchik2015: folds 
+cherry620: folds 
+Lorpugo: raises $0.04 to $0.06
+paul3014: folds 
+drive107: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Baltchik2015 folded before Flop (didn't bet)
+Seat 2: cherry620 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 4: paul3014 (small blind) folded before Flop
+Seat 5: drive107 (big blind) folded before Flop
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303052534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:46:51 ET
+Table 'Cowell' 6-max Seat #4 is the button
+Seat 1: Baltchik2015 ($1.84 in chips) 
+Seat 2: cherry620 ($5.90 in chips) 
+Seat 3: Lorpugo ($2.07 in chips) 
+Seat 4: paul3014 ($1.20 in chips) 
+Seat 5: drive107 ($1.93 in chips) 
+Seat 6: som1990 ($2.49 in chips) 
+drive107: posts small blind $0.01
+som1990: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4d]
+Baltchik2015: folds 
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: folds 
+drive107: folds 
+som1990: calls $0.04
+*** FLOP *** [Qs Qd Tc]
+som1990: checks 
+cherry620: checks 
+*** TURN *** [Qs Qd Tc] [2h]
+som1990: bets $0.06
+cherry620: calls $0.06
+*** RIVER *** [Qs Qd Tc 2h] [6h]
+som1990: bets $0.14
+cherry620: raises $0.40 to $0.54
+som1990: folds 
+Uncalled bet ($0.40) returned to cherry620
+cherry620 collected $0.51 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Qs Qd Tc 2h 6h]
+Seat 1: Baltchik2015 folded before Flop (didn't bet)
+Seat 2: cherry620 collected ($0.51)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: paul3014 (button) folded before Flop (didn't bet)
+Seat 5: drive107 (small blind) folded before Flop
+Seat 6: som1990 (big blind) folded on the River
+
+
+
+PokerStars Hand #239303065150:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:47:47 ET
+Table 'Cowell' 6-max Seat #5 is the button
+Seat 1: Baltchik2015 ($1.84 in chips) 
+Seat 2: cherry620 ($6.15 in chips) 
+Seat 3: Lorpugo ($2.07 in chips) 
+Seat 4: paul3014 ($1.20 in chips) 
+Seat 5: drive107 ($1.92 in chips) 
+Seat 6: som1990 ($2.23 in chips) 
+som1990: posts small blind $0.01
+Baltchik2015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 8h]
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+Baltchik2015: folds 
+Uncalled bet ($0.04) returned to cherry620
+cherry620 collected $0.05 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Baltchik2015 (big blind) folded before Flop
+Seat 2: cherry620 collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 (button) folded before Flop (didn't bet)
+Seat 6: som1990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239303067386:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:47:57 ET
+Table 'Cowell' 6-max Seat #6 is the button
+Seat 1: Baltchik2015 ($1.82 in chips) 
+Seat 2: cherry620 ($6.18 in chips) 
+Seat 3: Lorpugo ($2.07 in chips) 
+Seat 4: paul3014 ($1.20 in chips) 
+Seat 5: drive107 ($1.92 in chips) 
+Seat 6: som1990 ($2.22 in chips) 
+Baltchik2015: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jh]
+Lorpugo: raises $0.04 to $0.06
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+Baltchik2015: calls $0.05
+cherry620: folds 
+*** FLOP *** [As 5h 8h]
+Baltchik2015: bets $0.14
+Lorpugo: calls $0.14
+*** TURN *** [As 5h 8h] [Kh]
+Baltchik2015: checks 
+Lorpugo: bets $0.27
+Baltchik2015: raises $0.95 to $1.22
+Lorpugo: calls $0.95
+*** RIVER *** [As 5h 8h Kh] [Jd]
+Baltchik2015: bets $0.40 and is all-in
+Lorpugo: calls $0.40
+*** SHOW DOWN ***
+Baltchik2015: shows [Qs Ah] (a pair of Aces)
+Lorpugo: shows [7h Jh] (a flush, King high)
+Lorpugo collected $3.53 from pot
+*** SUMMARY ***
+Total pot $3.66 | Rake $0.13 
+Board [As 5h 8h Kh Jd]
+Seat 1: Baltchik2015 (small blind) showed [Qs Ah] and lost with a pair of Aces
+Seat 2: cherry620 (big blind) folded before Flop
+Seat 3: Lorpugo showed [7h Jh] and won ($3.53) with a flush, King high
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 folded before Flop (didn't bet)
+Seat 6: som1990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303078550:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:48:46 ET
+Table 'Cowell' 6-max Seat #2 is the button
+Seat 2: cherry620 ($6.16 in chips) 
+Seat 3: Lorpugo ($3.78 in chips) 
+Seat 4: paul3014 ($1.20 in chips) 
+Seat 5: drive107 ($1.92 in chips) 
+Seat 6: som1990 ($2.22 in chips) 
+Lorpugo: posts small blind $0.01
+paul3014: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh As]
+drive107: folds 
+som1990: raises $0.03 to $0.05
+cherry620: folds 
+Lorpugo: raises $0.12 to $0.17
+Baltchik2015 leaves the table
+paul3014: folds 
+som1990: calls $0.12
+*** FLOP *** [5c 8s Kc]
+Lorpugo: bets $0.35
+som1990: folds 
+Uncalled bet ($0.35) returned to Lorpugo
+Lorpugo collected $0.35 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5c 8s Kc]
+Seat 2: cherry620 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.35)
+Seat 4: paul3014 (big blind) folded before Flop
+Seat 5: drive107 folded before Flop (didn't bet)
+Seat 6: som1990 folded on the Flop
+
+
+
+PokerStars Hand #239303087304:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:49:25 ET
+Table 'Cowell' 6-max Seat #3 is the button
+Seat 2: cherry620 ($6.16 in chips) 
+Seat 3: Lorpugo ($3.96 in chips) 
+Seat 4: paul3014 ($1.18 in chips) 
+Seat 5: drive107 ($1.92 in chips) 
+Seat 6: som1990 ($2.05 in chips) 
+paul3014: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 5s]
+som1990: folds 
+cherry620: folds 
+Lorpugo: folds 
+paul3014: folds 
+Uncalled bet ($0.01) returned to drive107
+drive107 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: cherry620 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: paul3014 (small blind) folded before Flop
+Seat 5: drive107 (big blind) collected ($0.02)
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303090722:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:49:40 ET
+Table 'Cowell' 6-max Seat #4 is the button
+Seat 2: cherry620 ($6.16 in chips) 
+Seat 3: Lorpugo ($3.96 in chips) 
+Seat 4: paul3014 ($1.17 in chips) 
+Seat 5: drive107 ($1.93 in chips) 
+Seat 6: som1990 ($2.05 in chips) 
+drive107: posts small blind $0.01
+som1990: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ad]
+cherry620: raises $0.04 to $0.06
+S4b4um joins the table at seat #1 
+Lorpugo: folds 
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+Uncalled bet ($0.04) returned to cherry620
+cherry620 collected $0.05 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: cherry620 collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: paul3014 (button) folded before Flop (didn't bet)
+Seat 5: drive107 (small blind) folded before Flop
+Seat 6: som1990 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239303094620:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:49:57 ET
+Table 'Cowell' 6-max Seat #5 is the button
+Seat 2: cherry620 ($6.19 in chips) 
+Seat 3: Lorpugo ($3.96 in chips) 
+Seat 4: paul3014 ($1.17 in chips) 
+Seat 5: drive107 ($1.92 in chips) 
+Seat 6: som1990 ($2.03 in chips) 
+som1990: posts small blind $0.01
+S4b4um is connected 
+S4b4um has timed out
+S4b4um: is sitting out 
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 7c]
+Lorpugo: raises $0.04 to $0.06
+paul3014: folds 
+drive107: folds 
+som1990: folds 
+cherry620: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: cherry620 (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 (button) folded before Flop (didn't bet)
+Seat 6: som1990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239303101435:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:50:27 ET
+Table 'Cowell' 6-max Seat #6 is the button
+Seat 2: cherry620 ($6.17 in chips) 
+Seat 3: Lorpugo ($3.99 in chips) 
+Seat 4: paul3014 ($1.17 in chips) 
+Seat 5: drive107 ($1.92 in chips) 
+Seat 6: som1990 ($2.02 in chips) 
+cherry620: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Kd]
+paul3014: folds 
+drive107: folds 
+som1990: raises $0.03 to $0.05
+drive107 leaves the table
+cherry620: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to som1990
+som1990 collected $0.05 from pot
+som1990: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: cherry620 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: drive107 folded before Flop (didn't bet)
+Seat 6: som1990 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239303104893:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:50:42 ET
+Table 'Cowell' 6-max Seat #2 is the button
+Seat 2: cherry620 ($6.16 in chips) 
+Seat 3: Lorpugo ($3.97 in chips) 
+Seat 4: paul3014 ($1.17 in chips) 
+Seat 6: som1990 ($2.05 in chips) 
+Lorpugo: posts small blind $0.01
+paul3014: posts big blind $0.02
+PirnyTheSecond joins the table at seat #5 
+S4b4um has timed out
+S4b4um: is sitting out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 8d]
+som1990: folds 
+cherry620: folds 
+Lorpugo: raises $0.04 to $0.06
+paul3014: calls $0.04
+*** FLOP *** [2s Js Qc]
+Lorpugo: bets $0.04
+paul3014: calls $0.04
+*** TURN *** [2s Js Qc] [8c]
+Lorpugo: checks 
+paul3014: bets $0.19
+S4b4um is disconnected 
+Lorpugo: folds 
+Uncalled bet ($0.19) returned to paul3014
+paul3014 collected $0.19 from pot
+paul3014: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2s Js Qc 8c]
+Seat 2: cherry620 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Turn
+Seat 4: paul3014 (big blind) collected ($0.19)
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303116874:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:51:34 ET
+Table 'Cowell' 6-max Seat #3 is the button
+Seat 2: cherry620 ($6.16 in chips) 
+Seat 3: Lorpugo ($3.87 in chips) 
+Seat 4: paul3014 ($1.26 in chips) 
+Seat 5: PirnyTheSecond ($2 in chips) 
+Seat 6: som1990 ($2.05 in chips) 
+paul3014: posts small blind $0.01
+PirnyTheSecond: posts big blind $0.02
+S4b4um has timed out while disconnected
+S4b4um: is sitting out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6s]
+som1990 has timed out
+som1990: folds 
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: folds 
+PirnyTheSecond has timed out
+PirnyTheSecond: folds 
+Uncalled bet ($0.04) returned to cherry620
+cherry620 collected $0.05 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: cherry620 collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: paul3014 (small blind) folded before Flop
+Seat 5: PirnyTheSecond (big blind) folded before Flop
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303131029:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:52:36 ET
+Table 'Cowell' 6-max Seat #4 is the button
+Seat 2: cherry620 ($6.19 in chips) 
+Seat 3: Lorpugo ($3.87 in chips) 
+Seat 4: paul3014 ($1.25 in chips) 
+Seat 6: som1990 ($2.05 in chips) 
+som1990: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ac]
+Lorpugo: raises $0.04 to $0.06
+paul3014: calls $0.06
+som1990: raises $0.18 to $0.24
+cherry620: folds 
+Lorpugo: calls $0.18
+paul3014: folds 
+*** FLOP *** [Ts Td Th]
+S4b4um is disconnected 
+som1990: bets $0.20
+Lorpugo: calls $0.20
+*** TURN *** [Ts Td Th] [Ah]
+som1990: bets $0.40
+Lorpugo: calls $0.40
+*** RIVER *** [Ts Td Th Ah] [6s]
+som1990: checks 
+Lorpugo: bets $1.70
+som1990: folds 
+Uncalled bet ($1.70) returned to Lorpugo
+Lorpugo collected $1.70 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.06 
+Board [Ts Td Th Ah 6s]
+Seat 2: cherry620 (big blind) folded before Flop
+Seat 3: Lorpugo collected ($1.70)
+Seat 4: paul3014 (button) folded before Flop
+Seat 6: som1990 (small blind) folded on the River
+
+
+
+PokerStars Hand #239303145085:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:53:37 ET
+Table 'Cowell' 6-max Seat #6 is the button
+Seat 2: cherry620 ($6.17 in chips) 
+Seat 3: Lorpugo ($4.73 in chips) 
+Seat 4: paul3014 ($1.19 in chips) 
+Seat 5: PirnyTheSecond ($1.98 in chips) 
+Seat 6: som1990 ($1.21 in chips) 
+cherry620: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+PirnyTheSecond: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Ad]
+paul3014: folds 
+PirnyTheSecond: folds 
+som1990: raises $0.04 to $0.06
+cherry620: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [Tc 5d 4d]
+cherry620: checks 
+Lorpugo: bets $0.12
+som1990: folds 
+cherry620: calls $0.12
+*** TURN *** [Tc 5d 4d] [8h]
+cherry620: checks 
+Lorpugo: bets $0.20
+cherry620: raises $0.44 to $0.64
+S4b4um leaves the table
+Lorpugo: calls $0.44
+*** RIVER *** [Tc 5d 4d 8h] [3d]
+cherry620: checks 
+kamalahn77 joins the table at seat #1 
+Lorpugo: bets $3.91 and is all-in
+cherry620: calls $3.91
+*** SHOW DOWN ***
+Lorpugo: shows [2d Ad] (a straight flush, Ace to Five)
+cherry620: shows [6d Qd] (a flush, Queen high)
+Lorpugo collected $9.23 from pot
+*** SUMMARY ***
+Total pot $9.53 | Rake $0.30 
+Board [Tc 5d 4d 8h 3d]
+Seat 2: cherry620 (small blind) showed [6d Qd] and lost with a flush, Queen high
+Seat 3: Lorpugo (big blind) showed [2d Ad] and won ($9.23) with a straight flush, Ace to Five
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: PirnyTheSecond folded before Flop (didn't bet)
+Seat 6: som1990 (button) folded on the Flop
+
+
+
+PokerStars Hand #239303165318:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:55:05 ET
+Table 'Cowell' 6-max Seat #2 is the button
+Seat 2: cherry620 ($2 in chips) 
+Seat 3: Lorpugo ($9.23 in chips) 
+Seat 4: paul3014 ($1.19 in chips) 
+Seat 5: PirnyTheSecond ($1.97 in chips) 
+Seat 6: som1990 ($1.15 in chips) 
+Lorpugo: posts small blind $0.01
+paul3014: posts big blind $0.02
+kamalahn77: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Kc]
+PirnyTheSecond: folds 
+som1990: folds 
+cherry620: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+paul3014: calls $0.04
+*** FLOP *** [7h 4s Ah]
+Lorpugo: checks 
+paul3014: checks 
+cherry620: bets $0.14
+Lorpugo: folds 
+paul3014: folds 
+Uncalled bet ($0.14) returned to cherry620
+cherry620 collected $0.17 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7h 4s Ah]
+Seat 2: cherry620 (button) collected ($0.17)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: paul3014 (big blind) folded on the Flop
+Seat 5: PirnyTheSecond folded before Flop (didn't bet)
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303173052:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:55:44 ET
+Table 'Cowell' 6-max Seat #3 is the button
+Seat 1: kamalahn77 ($1.60 in chips) 
+Seat 2: cherry620 ($2.11 in chips) 
+Seat 3: Lorpugo ($9.17 in chips) 
+Seat 4: paul3014 ($1.13 in chips) 
+Seat 5: PirnyTheSecond ($1.97 in chips) 
+Seat 6: som1990 ($1.15 in chips) 
+paul3014: posts small blind $0.01
+PirnyTheSecond: posts big blind $0.02
+kamalahn77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7c]
+som1990 has timed out
+som1990: folds 
+kamalahn77: checks 
+cherry620: folds 
+Lorpugo: folds 
+paul3014: folds 
+PirnyTheSecond: raises $0.06 to $0.08
+kamalahn77: folds 
+Uncalled bet ($0.06) returned to PirnyTheSecond
+PirnyTheSecond collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kamalahn77 folded before Flop (didn't bet)
+Seat 2: cherry620 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: paul3014 (small blind) folded before Flop
+Seat 5: PirnyTheSecond (big blind) collected ($0.05)
+Seat 6: som1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303177918:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:56:09 ET
+Table 'Cowell' 6-max Seat #4 is the button
+Seat 1: kamalahn77 ($1.58 in chips) 
+Seat 2: cherry620 ($2.11 in chips) 
+Seat 3: Lorpugo ($9.17 in chips) 
+Seat 4: paul3014 ($1.12 in chips) 
+Seat 5: PirnyTheSecond ($2 in chips) 
+PirnyTheSecond: posts small blind $0.01
+kamalahn77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 7h]
+cherry620: raises $0.04 to $0.06
+Lorpugo: folds 
+paul3014: calls $0.06
+PirnyTheSecond: raises $0.18 to $0.24
+kamalahn77: calls $0.22
+cherry620: calls $0.18
+paul3014: calls $0.18
+*** FLOP *** [4s 7c Ac]
+PirnyTheSecond: bets $0.26
+kamalahn77: raises $1.08 to $1.34 and is all-in
+cherry620: folds 
+paul3014: folds 
+PirnyTheSecond: folds 
+Uncalled bet ($1.08) returned to kamalahn77
+kamalahn77 collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.48 | Rake $0.05 
+Board [4s 7c Ac]
+Seat 1: kamalahn77 (big blind) collected ($1.43)
+Seat 2: cherry620 folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: paul3014 (button) folded on the Flop
+Seat 5: PirnyTheSecond (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239303186834:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:56:55 ET
+Table 'Cowell' 6-max Seat #5 is the button
+Seat 1: kamalahn77 ($2.51 in chips) 
+Seat 2: cherry620 ($2 in chips) 
+Seat 3: Lorpugo ($9.17 in chips) 
+Seat 4: paul3014 ($0.88 in chips) 
+Seat 5: PirnyTheSecond ($1.50 in chips) 
+kamalahn77: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8h]
+Lorpugo: folds 
+paul3014: folds 
+PirnyTheSecond: raises $0.04 to $0.06
+kamalahn77: folds 
+cherry620: calls $0.04
+*** FLOP *** [9s 9c 5d]
+cherry620: checks 
+PirnyTheSecond: bets $0.04
+cherry620: calls $0.04
+*** TURN *** [9s 9c 5d] [Kc]
+cherry620: checks 
+PirnyTheSecond: bets $0.12
+som1990 leaves the table
+cherry620: folds 
+Uncalled bet ($0.12) returned to PirnyTheSecond
+PirnyTheSecond collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9s 9c 5d Kc]
+Seat 1: kamalahn77 (small blind) folded before Flop
+Seat 2: cherry620 (big blind) folded on the Turn
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: paul3014 folded before Flop (didn't bet)
+Seat 5: PirnyTheSecond (button) collected ($0.20)
+
+
+

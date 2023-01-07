@@ -1,0 +1,3588 @@
+﻿PokerStars Hand #240733377334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:07:37 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.10 in chips) 
+Seat 2: SEBAPODIUM ($2.37 in chips) 
+Seat 3: evgenMG ($9.22 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: manolelps ($2.14 in chips) 
+Seat 6: eltumpa ($2.39 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7h]
+manolelps: folds 
+eltumpa: raises $0.04 to $0.06
+jaimeco222: calls $0.06
+SEBAPODIUM: calls $0.06
+evgenMG: folds 
+Lorpugo: folds 
+*** FLOP *** [6h Ac 6c]
+eltumpa: bets $0.09
+jaimeco222: folds 
+SEBAPODIUM: calls $0.09
+*** TURN *** [6h Ac 6c] [Kd]
+eltumpa: checks 
+SEBAPODIUM: checks 
+*** RIVER *** [6h Ac 6c Kd] [Qh]
+eltumpa: checks 
+SEBAPODIUM: checks 
+*** SHOW DOWN ***
+eltumpa: shows [Js Ah] (two pair, Aces and Sixes)
+SEBAPODIUM: mucks hand 
+eltumpa collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6h Ac 6c Kd Qh]
+Seat 1: jaimeco222 folded on the Flop
+Seat 2: SEBAPODIUM (button) mucked [4c 5c]
+Seat 3: evgenMG (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: manolelps folded before Flop (didn't bet)
+Seat 6: eltumpa showed [Js Ah] and won ($0.38) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #240733404265:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:08:32 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.22 in chips) 
+Seat 3: evgenMG ($9.21 in chips) 
+Seat 4: Lorpugo ($1.58 in chips) 
+Seat 6: eltumpa ($2.62 in chips) 
+Lorpugo: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Jc]
+jaimeco222: folds 
+manolelps leaves the table
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to eltumpa
+eltumpa collected $0.02 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: eltumpa (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240733410723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:08:46 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.22 in chips) 
+Seat 3: evgenMG ($9.21 in chips) 
+Seat 4: Lorpugo ($1.57 in chips) 
+Seat 6: eltumpa ($2.63 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2d]
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+eltumpa: folds 
+Uncalled bet ($0.01) returned to jaimeco222
+jaimeco222 collected $0.02 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (big blind) collected ($0.02)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733415297:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:08:55 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.05 in chips) 
+Seat 2: SEBAPODIUM ($2.22 in chips) 
+Seat 3: evgenMG ($9.21 in chips) 
+Seat 4: Lorpugo ($1.57 in chips) 
+Seat 6: eltumpa ($2.62 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 2c]
+evgenMG: folds 
+Lorpugo: folds 
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+nekro211986 joins the table at seat #5 
+SEBAPODIUM: calls $0.04
+*** FLOP *** [6c 7c Ad]
+SEBAPODIUM: checks 
+eltumpa: checks 
+*** TURN *** [6c 7c Ad] [Th]
+SEBAPODIUM: bets $0.10
+eltumpa: calls $0.10
+*** RIVER *** [6c 7c Ad Th] [5s]
+SEBAPODIUM: bets $0.42
+eltumpa: folds 
+Uncalled bet ($0.42) returned to SEBAPODIUM
+SEBAPODIUM collected $0.32 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6c 7c Ad Th 5s]
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) collected ($0.32)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded on the River
+
+
+
+PokerStars Hand #240733433932:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:09:33 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.38 in chips) 
+Seat 3: evgenMG ($9.21 in chips) 
+Seat 4: Lorpugo ($1.57 in chips) 
+Seat 6: eltumpa ($2.46 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 2d]
+Lorpugo: folds 
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+SEBAPODIUM: raises $0.26 to $0.32
+evgenMG: folds 
+eltumpa: folds 
+Uncalled bet ($0.26) returned to SEBAPODIUM
+SEBAPODIUM collected $0.14 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) collected ($0.14)
+Seat 3: evgenMG (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop
+
+
+
+PokerStars Hand #240733457048:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:10:21 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.46 in chips) 
+Seat 3: evgenMG ($9.19 in chips) 
+Seat 4: Lorpugo ($1.57 in chips) 
+Seat 6: eltumpa ($2.40 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6d]
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [9c 3d Qs]
+Lorpugo: checks 
+eltumpa: checks 
+*** TURN *** [9c 3d Qs] [As]
+Lorpugo: checks 
+eltumpa: bets $0.13
+Lorpugo: calls $0.13
+*** RIVER *** [9c 3d Qs As] [7h]
+Lorpugo: checks 
+eltumpa: bets $0.64
+Lorpugo: folds 
+Uncalled bet ($0.64) returned to eltumpa
+eltumpa collected $0.38 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [9c 3d Qs As 7h]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the River
+Seat 6: eltumpa collected ($0.38)
+
+
+
+PokerStars Hand #240733485005:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:11:19 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.46 in chips) 
+Seat 3: evgenMG ($9.18 in chips) 
+Seat 4: Lorpugo ($1.38 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.59 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ad]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+nekro211986: folds 
+evgenMG: calls $0.14
+*** FLOP *** [3d Ah 9c]
+Lorpugo: bets $0.21
+evgenMG: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.41 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [3d Ah 9c]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded on the Flop
+Seat 4: Lorpugo (small blind) collected ($0.41)
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733504752:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:12:00 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.46 in chips) 
+Seat 3: evgenMG ($8.98 in chips) 
+Seat 4: Lorpugo ($1.59 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.59 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ts]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240733515974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:12:23 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.46 in chips) 
+Seat 3: evgenMG ($8.98 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.57 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 9s]
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+Uncalled bet ($0.01) returned to jaimeco222
+jaimeco222 collected $0.02 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (big blind) collected ($0.02)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733521161:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:12:34 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.05 in chips) 
+Seat 2: SEBAPODIUM ($2.46 in chips) 
+Seat 3: evgenMG ($8.98 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 4c]
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+Uncalled bet ($0.01) returned to SEBAPODIUM
+SEBAPODIUM collected $0.02 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) collected ($0.02)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733526107:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:12:44 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.47 in chips) 
+Seat 3: evgenMG ($8.98 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ac]
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: calls $0.05
+evgenMG: calls $0.04
+*** FLOP *** [Qs Qh 7s]
+SEBAPODIUM: checks 
+evgenMG: checks 
+Lorpugo: bets $0.09
+SEBAPODIUM: calls $0.09
+evgenMG: calls $0.09
+*** TURN *** [Qs Qh 7s] [3h]
+SEBAPODIUM: checks 
+evgenMG: checks 
+Lorpugo: bets $0.14
+SEBAPODIUM: folds 
+evgenMG: calls $0.14
+*** RIVER *** [Qs Qh 7s 3h] [2h]
+evgenMG: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+evgenMG: shows [9h 9s] (two pair, Queens and Nines)
+Lorpugo: mucks hand 
+evgenMG collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Qs Qh 7s 3h 2h]
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) folded on the Turn
+Seat 3: evgenMG (big blind) showed [9h 9s] and won ($0.70) with two pair, Queens and Nines
+Seat 4: Lorpugo mucked [8h Ac]
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733562757:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:14:00 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.32 in chips) 
+Seat 3: evgenMG ($9.39 in chips) 
+Seat 4: Lorpugo ($1.33 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8c]
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+*** FLOP *** [3s 8s 4d]
+evgenMG: checks 
+Lorpugo: bets $0.12
+evgenMG: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3s 8s 4d]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) collected ($0.12)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733584728:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:14:46 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.32 in chips) 
+Seat 3: evgenMG ($9.33 in chips) 
+Seat 4: Lorpugo ($1.39 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6s]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: raises $0.04 to $0.06
+Lorpugo: folds 
+nekro211986: folds 
+Uncalled bet ($0.04) returned to evgenMG
+evgenMG collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) collected ($0.05)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733593247:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:15:04 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.32 in chips) 
+Seat 3: evgenMG ($9.36 in chips) 
+Seat 4: Lorpugo ($1.38 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Jd]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+Uncalled bet ($0.01) returned to eltumpa
+eltumpa collected $0.02 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: eltumpa (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240733603684:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:15:25 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.32 in chips) 
+Seat 3: evgenMG ($9.36 in chips) 
+Seat 4: Lorpugo ($1.38 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.57 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 7c]
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: calls $0.04
+*** FLOP *** [7s 3h 8h]
+jaimeco222: checks 
+Lorpugo: bets $0.04
+jaimeco222: calls $0.04
+*** TURN *** [7s 3h 8h] [2h]
+jaimeco222: checks 
+Lorpugo: bets $0.20
+jaimeco222: calls $0.20
+*** RIVER *** [7s 3h 8h 2h] [8c]
+jaimeco222: bets $0.59
+Lorpugo: raises $0.49 to $1.08 and is all-in
+jaimeco222: calls $0.49
+*** SHOW DOWN ***
+Lorpugo: shows [7d 7c] (a full house, Sevens full of Eights)
+jaimeco222: shows [5h Kh] (a flush, King high)
+Lorpugo collected $2.67 from pot
+*** SUMMARY ***
+Total pot $2.77 | Rake $0.10 
+Board [7s 3h 8h 2h 8c]
+Seat 1: jaimeco222 (big blind) showed [5h Kh] and lost with a flush, King high
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [7d 7c] and won ($2.67) with a full house, Sevens full of Eights
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733635522:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:16:32 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.32 in chips) 
+Seat 3: evgenMG ($9.36 in chips) 
+Seat 4: Lorpugo ($2.67 in chips) 
+Seat 5: nekro211986 ($2 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jh]
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: raises $0.04 to $0.06
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: calls $0.04
+*** FLOP *** [Ad 3d 2h]
+SEBAPODIUM: checks 
+nekro211986: bets $0.06
+SEBAPODIUM: folds 
+Uncalled bet ($0.06) returned to nekro211986
+nekro211986 collected $0.13 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ad 3d 2h]
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) folded on the Flop
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 collected ($0.13)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733657607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:17:18 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.26 in chips) 
+Seat 3: evgenMG ($9.36 in chips) 
+Seat 4: Lorpugo ($2.67 in chips) 
+Seat 5: nekro211986 ($2.07 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2h]
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: raises $0.04 to $0.06
+SEBAPODIUM: calls $0.05
+evgenMG: folds 
+*** FLOP *** [Th 4h 6h]
+SEBAPODIUM: checks 
+jaimeco222: bets $0.08
+SEBAPODIUM: folds 
+Uncalled bet ($0.08) returned to jaimeco222
+jaimeco222 collected $0.14 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Th 4h 6h]
+Seat 1: jaimeco222 (button) collected ($0.14)
+Seat 2: SEBAPODIUM (small blind) folded on the Flop
+Seat 3: evgenMG (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733674686:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:17:53 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.08 in chips) 
+Seat 2: SEBAPODIUM ($2.20 in chips) 
+Seat 3: evgenMG ($9.34 in chips) 
+Seat 4: Lorpugo ($2.67 in chips) 
+Seat 5: nekro211986 ($2.07 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7d]
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+*** FLOP *** [6s Th 4s]
+evgenMG: bets $0.08
+Lorpugo: calls $0.08
+*** TURN *** [6s Th 4s] [6d]
+evgenMG: checks 
+Lorpugo: bets $0.14
+evgenMG: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6s Th 4s 6d]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded on the Turn
+Seat 4: Lorpugo (big blind) collected ($0.27)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733698476:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:18:42 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.08 in chips) 
+Seat 2: SEBAPODIUM ($2.20 in chips) 
+Seat 3: evgenMG ($9.20 in chips) 
+Seat 4: Lorpugo ($2.80 in chips) 
+Seat 5: nekro211986 ($2.07 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Qd]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733709465:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:19:05 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.08 in chips) 
+Seat 3: evgenMG ($9.20 in chips) 
+Seat 4: Lorpugo ($2.82 in chips) 
+Seat 5: nekro211986 ($2.05 in chips) 
+Seat 6: eltumpa ($2.56 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qs]
+jaimeco222: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: raises $0.04 to $0.06
+eltumpa: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.04 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: nekro211986 (small blind) collected ($0.04)
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240733721321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:19:30 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.08 in chips) 
+Seat 3: evgenMG ($9.20 in chips) 
+Seat 4: Lorpugo ($2.82 in chips) 
+Seat 5: nekro211986 ($2.07 in chips) 
+Seat 6: eltumpa ($2.54 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 9s]
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: raises $0.03 to $0.05
+eltumpa: calls $0.04
+jaimeco222: folds 
+*** FLOP *** [5h 6s 5c]
+eltumpa: checks 
+nekro211986: bets $0.06
+eltumpa: calls $0.06
+*** TURN *** [5h 6s 5c] [Ah]
+eltumpa: checks 
+nekro211986: checks 
+*** RIVER *** [5h 6s 5c Ah] [Qh]
+eltumpa: checks 
+nekro211986: bets $0.17
+eltumpa: folds 
+Uncalled bet ($0.17) returned to nekro211986
+nekro211986 collected $0.23 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5h 6s 5c Ah Qh]
+Seat 1: jaimeco222 (big blind) folded before Flop
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) collected ($0.23)
+Seat 6: eltumpa (small blind) folded on the River
+
+
+
+PokerStars Hand #240733740762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:20:10 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 3: evgenMG ($9.20 in chips) 
+Seat 4: Lorpugo ($2.82 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: eltumpa ($2.43 in chips) 
+jaimeco222: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jc]
+Lorpugo: folds 
+nekro211986: raises $0.04 to $0.06
+eltumpa: folds 
+jaimeco222: folds 
+evgenMG: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.05 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 3: evgenMG (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 collected ($0.05)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733748306:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:20:25 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.05 in chips) 
+Seat 3: evgenMG ($9.18 in chips) 
+Seat 4: Lorpugo ($2.82 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: eltumpa ($2.43 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qc]
+nekro211986: folds 
+eltumpa: raises $0.02 to $0.04
+jaimeco222: folds 
+evgenMG: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [4s 7h Jd]
+Lorpugo: checks 
+eltumpa: checks 
+*** TURN *** [4s 7h Jd] [Js]
+Lorpugo: checks 
+eltumpa: checks 
+*** RIVER *** [4s 7h Jd Js] [Qs]
+Lorpugo: bets $0.10
+eltumpa: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4s 7h Jd Js Qs]
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.09)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded on the River
+
+
+
+PokerStars Hand #240733767646:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:21:05 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.05 in chips) 
+Seat 2: SEBAPODIUM ($2.20 in chips) 
+Seat 3: evgenMG ($9.17 in chips) 
+Seat 4: Lorpugo ($2.87 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: eltumpa ($2.39 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+SEBAPODIUM: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2h]
+eltumpa: folds 
+jaimeco222: raises $0.06 to $0.08
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+Uncalled bet ($0.06) returned to jaimeco222
+jaimeco222 collected $0.08 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: jaimeco222 collected ($0.08)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733776945:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:21:24 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.11 in chips) 
+Seat 2: SEBAPODIUM ($2.17 in chips) 
+Seat 3: evgenMG ($9.17 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: nekro211986 ($2.20 in chips) 
+Seat 6: eltumpa ($2.39 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Tc]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: calls $0.04
+*** FLOP *** [Ks 9c 5s]
+eltumpa: checks 
+Lorpugo: bets $0.07
+eltumpa: calls $0.07
+*** TURN *** [Ks 9c 5s] [2h]
+eltumpa: checks 
+Lorpugo: checks 
+*** RIVER *** [Ks 9c 5s 2h] [7h]
+eltumpa: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+eltumpa: shows [6s Ts] (high card King)
+Lorpugo: shows [Qd Tc] (high card King - Queen kicker)
+Lorpugo collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ks 9c 5s 2h 7h]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) showed [Qd Tc] and won ($0.26) with high card King
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: eltumpa (big blind) showed [6s Ts] and lost with high card King
+
+
+
+PokerStars Hand #240733796334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:22:04 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.11 in chips) 
+Seat 2: SEBAPODIUM ($2.17 in chips) 
+Seat 3: evgenMG ($9.17 in chips) 
+Seat 4: Lorpugo ($2.99 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: eltumpa ($2.26 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 5c]
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: calls $0.01
+jaimeco222: checks 
+*** FLOP *** [9d Ad 9s]
+eltumpa: checks 
+jaimeco222: checks 
+*** TURN *** [9d Ad 9s] [Kd]
+eltumpa: bets $0.04
+jaimeco222: folds 
+Uncalled bet ($0.04) returned to eltumpa
+eltumpa collected $0.04 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d Ad 9s Kd]
+Seat 1: jaimeco222 (big blind) folded on the Turn
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240733815873:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:22:45 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.09 in chips) 
+Seat 2: SEBAPODIUM ($2.17 in chips) 
+Seat 3: evgenMG ($9.17 in chips) 
+Seat 4: Lorpugo ($2.99 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: eltumpa ($2.28 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 8s]
+evgenMG: folds 
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: calls $0.05
+SEBAPODIUM: folds 
+*** FLOP *** [2s 8d Jh]
+jaimeco222: checks 
+Lorpugo: bets $0.07
+jaimeco222: calls $0.07
+*** TURN *** [2s 8d Jh] [7s]
+jaimeco222: bets $0.09
+Lorpugo: raises $0.23 to $0.32
+jaimeco222: calls $0.23
+*** RIVER *** [2s 8d Jh 7s] [Ah]
+jaimeco222: checks 
+Lorpugo: bets $2.54 and is all-in
+jaimeco222: folds 
+Uncalled bet ($2.54) returned to Lorpugo
+Lorpugo collected $0.89 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [2s 8d Jh 7s Ah]
+Seat 1: jaimeco222 (small blind) folded on the River
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.89)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733872832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:24:44 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.15 in chips) 
+Seat 3: evgenMG ($9.17 in chips) 
+Seat 4: Lorpugo ($3.43 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: eltumpa ($2.28 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7s]
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: raises $0.04 to $0.06
+SEBAPODIUM: calls $0.05
+evgenMG: calls $0.04
+*** FLOP *** [9s 3s 5d]
+SEBAPODIUM: checks 
+evgenMG: checks 
+jaimeco222: checks 
+*** TURN *** [9s 3s 5d] [8c]
+SEBAPODIUM: checks 
+evgenMG: checks 
+jaimeco222: checks 
+*** RIVER *** [9s 3s 5d 8c] [5s]
+SEBAPODIUM: checks 
+evgenMG: checks 
+jaimeco222: bets $0.04
+SEBAPODIUM: folds 
+evgenMG: folds 
+Uncalled bet ($0.04) returned to jaimeco222
+jaimeco222 collected $0.17 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [9s 3s 5d 8c 5s]
+Seat 1: jaimeco222 (button) collected ($0.17)
+Seat 2: SEBAPODIUM (small blind) folded on the River
+Seat 3: evgenMG (big blind) folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733920236:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:26:22 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.11 in chips) 
+Seat 2: SEBAPODIUM ($2.09 in chips) 
+Seat 3: evgenMG ($9.11 in chips) 
+Seat 4: Lorpugo ($3.43 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: eltumpa ($2.28 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2h]
+nekro211986: raises $0.04 to $0.06
+eltumpa: calls $0.06
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+*** FLOP *** [2s Tc 7d]
+nekro211986: bets $0.11
+eltumpa: calls $0.11
+*** TURN *** [2s Tc 7d] [4d]
+nekro211986: bets $0.16
+eltumpa: folds 
+Uncalled bet ($0.16) returned to nekro211986
+nekro211986 collected $0.36 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2s Tc 7d 4d]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: nekro211986 collected ($0.36)
+Seat 6: eltumpa folded on the Turn
+
+
+
+PokerStars Hand #240733943967:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:27:12 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.11 in chips) 
+Seat 2: SEBAPODIUM ($2.09 in chips) 
+Seat 3: evgenMG ($9.10 in chips) 
+Seat 4: Lorpugo ($3.41 in chips) 
+Seat 5: nekro211986 ($2.38 in chips) 
+Seat 6: eltumpa ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ah]
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+Uncalled bet ($0.04) returned to eltumpa
+eltumpa collected $0.05 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa collected ($0.05)
+
+
+
+PokerStars Hand #240733951158:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:27:27 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.11 in chips) 
+Seat 2: SEBAPODIUM ($2.09 in chips) 
+Seat 3: evgenMG ($9.10 in chips) 
+Seat 4: Lorpugo ($3.40 in chips) 
+Seat 5: nekro211986 ($2.36 in chips) 
+Seat 6: eltumpa ($2.14 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7d]
+jaimeco222: raises $0.04 to $0.06
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+Uncalled bet ($0.04) returned to jaimeco222
+jaimeco222 collected $0.05 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 collected ($0.05)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240733966234:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:27:58 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.14 in chips) 
+Seat 2: SEBAPODIUM ($2.09 in chips) 
+Seat 3: evgenMG ($9.10 in chips) 
+Seat 4: Lorpugo ($3.40 in chips) 
+Seat 5: nekro211986 ($2.35 in chips) 
+Seat 6: eltumpa ($2.12 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 6s]
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+Uncalled bet ($0.01) returned to jaimeco222
+jaimeco222 collected $0.02 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (big blind) collected ($0.02)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733971759:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:28:10 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.15 in chips) 
+Seat 2: SEBAPODIUM ($2.09 in chips) 
+Seat 3: evgenMG ($9.10 in chips) 
+Seat 4: Lorpugo ($3.40 in chips) 
+Seat 5: nekro211986 ($2.35 in chips) 
+Seat 6: eltumpa ($2.11 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ad]
+evgenMG: folds 
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: calls $0.05
+SEBAPODIUM: folds 
+*** FLOP *** [9c Kd 5h]
+jaimeco222: checks 
+Lorpugo: bets $0.07
+jaimeco222: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9c Kd 5h]
+Seat 1: jaimeco222 (small blind) folded on the Flop
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.14)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733991336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:28:50 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.09 in chips) 
+Seat 2: SEBAPODIUM ($2.07 in chips) 
+Seat 3: evgenMG ($9.10 in chips) 
+Seat 4: Lorpugo ($3.48 in chips) 
+Seat 5: nekro211986 ($2.35 in chips) 
+Seat 6: eltumpa ($2.11 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Td]
+Lorpugo: folds 
+nekro211986: raises $0.04 to $0.06
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.05 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) folded before Flop
+Seat 3: evgenMG (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 collected ($0.05)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734000104:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:29:08 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.09 in chips) 
+Seat 2: SEBAPODIUM ($2.06 in chips) 
+Seat 3: evgenMG ($9.08 in chips) 
+Seat 4: Lorpugo ($3.48 in chips) 
+Seat 5: nekro211986 ($2.38 in chips) 
+Seat 6: eltumpa ($2.11 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Jd]
+nekro211986: raises $0.04 to $0.06
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.05 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: nekro211986 collected ($0.05)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734008543:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:29:26 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.09 in chips) 
+Seat 2: SEBAPODIUM ($2.06 in chips) 
+Seat 3: evgenMG ($9.07 in chips) 
+Seat 4: Lorpugo ($3.46 in chips) 
+Seat 5: nekro211986 ($2.41 in chips) 
+Seat 6: eltumpa ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4c]
+eltumpa: calls $0.02
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: checks 
+*** FLOP *** [Kh 5h 2c]
+nekro211986: checks 
+eltumpa: checks 
+*** TURN *** [Kh 5h 2c] [Jd]
+nekro211986: checks 
+eltumpa: checks 
+*** RIVER *** [Kh 5h 2c Jd] [4s]
+nekro211986: checks 
+eltumpa: checks 
+*** SHOW DOWN ***
+nekro211986: shows [9d Js] (a pair of Jacks)
+eltumpa: mucks hand 
+nekro211986 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh 5h 2c Jd 4s]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) showed [9d Js] and won ($0.05) with a pair of Jacks
+Seat 6: eltumpa mucked [Th Ad]
+
+
+
+PokerStars Hand #240734026842:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:30:04 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.09 in chips) 
+Seat 2: SEBAPODIUM ($2.06 in chips) 
+Seat 3: evgenMG ($9.07 in chips) 
+Seat 4: Lorpugo ($3.45 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($2.09 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Jc]
+jaimeco222: folds 
+SEBAPODIUM: raises $0.04 to $0.06
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+Uncalled bet ($0.04) returned to SEBAPODIUM
+SEBAPODIUM collected $0.05 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM collected ($0.05)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734034084:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:30:19 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.09 in chips) 
+Seat 2: SEBAPODIUM ($2.09 in chips) 
+Seat 3: evgenMG ($9.07 in chips) 
+Seat 4: Lorpugo ($3.45 in chips) 
+Seat 5: nekro211986 ($2.43 in chips) 
+Seat 6: eltumpa ($2.07 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 5c]
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: raises $0.03 to $0.05
+eltumpa: calls $0.04
+jaimeco222: calls $0.03
+*** FLOP *** [7s 6s Jd]
+eltumpa: checks 
+jaimeco222: checks 
+nekro211986: bets $0.11
+eltumpa: folds 
+jaimeco222: folds 
+Uncalled bet ($0.11) returned to nekro211986
+nekro211986 collected $0.14 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 6s Jd]
+Seat 1: jaimeco222 (big blind) folded on the Flop
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) collected ($0.14)
+Seat 6: eltumpa (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240734059214:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:31:11 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.04 in chips) 
+Seat 2: SEBAPODIUM ($2.09 in chips) 
+Seat 3: evgenMG ($9.07 in chips) 
+Seat 4: Lorpugo ($3.45 in chips) 
+Seat 5: nekro211986 ($2.52 in chips) 
+Seat 6: eltumpa ($2.02 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6h]
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: raises $0.03 to $0.05
+SEBAPODIUM: folds 
+Uncalled bet ($0.03) returned to jaimeco222
+jaimeco222 collected $0.04 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jaimeco222 (small blind) collected ($0.04)
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734068991:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:31:31 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 2: SEBAPODIUM ($2.07 in chips) 
+Seat 3: evgenMG ($9.07 in chips) 
+Seat 4: Lorpugo ($3.45 in chips) 
+Seat 5: nekro211986 ($2.52 in chips) 
+Seat 6: eltumpa ($2.02 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7c]
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+SEBAPODIUM: calls $0.05
+evgenMG: folds 
+*** FLOP *** [6h 4h 9c]
+SEBAPODIUM: checks 
+eltumpa: checks 
+*** TURN *** [6h 4h 9c] [6d]
+SEBAPODIUM: checks 
+eltumpa: checks 
+*** RIVER *** [6h 4h 9c 6d] [3h]
+SEBAPODIUM: checks 
+eltumpa: checks 
+*** SHOW DOWN ***
+SEBAPODIUM: shows [3s Ks] (two pair, Sixes and Threes)
+eltumpa: mucks hand 
+SEBAPODIUM collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6h 4h 9c 6d 3h]
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) showed [3s Ks] and won ($0.14) with two pair, Sixes and Threes
+Seat 3: evgenMG (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa mucked [8c Kc]
+
+
+
+PokerStars Hand #240734087290:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:32:09 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 2: SEBAPODIUM ($2.15 in chips) 
+Seat 3: evgenMG ($9.05 in chips) 
+Seat 4: Lorpugo ($3.45 in chips) 
+Seat 5: nekro211986 ($2.52 in chips) 
+Seat 6: eltumpa ($1.96 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5d]
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: raises $0.04 to $0.06
+evgenMG: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [2c 7c 3h]
+evgenMG: checks 
+Lorpugo: checks 
+SEBAPODIUM: checks 
+*** TURN *** [2c 7c 3h] [Qs]
+evgenMG: checks 
+Lorpugo: bets $0.09
+SEBAPODIUM: calls $0.09
+evgenMG: calls $0.09
+*** RIVER *** [2c 7c 3h Qs] [Ah]
+evgenMG: checks 
+Lorpugo: checks 
+SEBAPODIUM: bets $0.62
+evgenMG: folds 
+Lorpugo: folds 
+Uncalled bet ($0.62) returned to SEBAPODIUM
+SEBAPODIUM collected $0.43 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c 7c 3h Qs Ah]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) collected ($0.43)
+Seat 3: evgenMG (small blind) folded on the River
+Seat 4: Lorpugo (big blind) folded on the River
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734113215:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:33:02 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 2: SEBAPODIUM ($2.43 in chips) 
+Seat 3: evgenMG ($8.90 in chips) 
+Seat 4: Lorpugo ($3.30 in chips) 
+Seat 5: nekro211986 ($2.52 in chips) 
+Seat 6: eltumpa ($1.96 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2c]
+eltumpa: folds 
+jaimeco222: raises $0.04 to $0.06
+SEBAPODIUM: folds 
+evgenMG: calls $0.06
+Lorpugo: folds 
+nekro211986: folds 
+*** FLOP *** [Qh Qc Qs]
+jaimeco222: checks 
+evgenMG: bets $0.09
+jaimeco222: raises $0.09 to $0.18
+evgenMG: calls $0.09
+*** TURN *** [Qh Qc Qs] [Kd]
+jaimeco222: checks 
+evgenMG: checks 
+*** RIVER *** [Qh Qc Qs Kd] [6h]
+jaimeco222: checks 
+evgenMG: checks 
+*** SHOW DOWN ***
+jaimeco222: shows [As Tc] (three of a kind, Queens)
+evgenMG: shows [5d 5s] (a full house, Queens full of Fives)
+evgenMG collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Qh Qc Qs Kd 6h]
+Seat 1: jaimeco222 showed [As Tc] and lost with three of a kind, Queens
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) showed [5d 5s] and won ($0.49) with a full house, Queens full of Fives
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734148539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:34:15 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.43 in chips) 
+Seat 3: evgenMG ($9.15 in chips) 
+Seat 4: Lorpugo ($3.29 in chips) 
+Seat 5: nekro211986 ($2.50 in chips) 
+Seat 6: eltumpa ($1.96 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4d]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: raises $0.04 to $0.06
+Lorpugo: folds 
+nekro211986: calls $0.05
+eltumpa: folds 
+*** FLOP *** [Kc 2s Tc]
+nekro211986: checks 
+evgenMG: bets $0.09
+nekro211986: folds 
+Uncalled bet ($0.09) returned to evgenMG
+evgenMG collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Kc 2s Tc]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG collected ($0.14)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: nekro211986 (small blind) folded on the Flop
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734163837:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:34:47 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.43 in chips) 
+Seat 3: evgenMG ($9.23 in chips) 
+Seat 4: Lorpugo ($3.29 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.94 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 2c]
+SEBAPODIUM: folds 
+evgenMG: raises $0.03 to $0.05
+Lorpugo: calls $0.05
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: calls $0.03
+*** FLOP *** [7s Jc 4c]
+jaimeco222: checks 
+evgenMG: bets $0.06
+Lorpugo: folds 
+jaimeco222: folds 
+Uncalled bet ($0.06) returned to evgenMG
+evgenMG collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7s Jc 4c]
+Seat 1: jaimeco222 (big blind) folded on the Flop
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG collected ($0.15)
+Seat 4: Lorpugo folded on the Flop
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734181160:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:35:23 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.43 in chips) 
+Seat 3: evgenMG ($9.33 in chips) 
+Seat 4: Lorpugo ($3.24 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.93 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7c]
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: raises $0.04 to $0.06
+SEBAPODIUM: folds 
+Uncalled bet ($0.04) returned to jaimeco222
+jaimeco222 collected $0.04 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jaimeco222 (small blind) collected ($0.04)
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734187986:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:35:37 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.02 in chips) 
+Seat 2: SEBAPODIUM ($2.41 in chips) 
+Seat 3: evgenMG ($9.33 in chips) 
+Seat 4: Lorpugo ($3.24 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.93 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 6c]
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Uncalled bet ($0.01) returned to evgenMG
+evgenMG collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) folded before Flop
+Seat 3: evgenMG (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734194691:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:35:51 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.02 in chips) 
+Seat 2: SEBAPODIUM ($2.40 in chips) 
+Seat 3: evgenMG ($9.34 in chips) 
+Seat 4: Lorpugo ($3.24 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.93 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3h]
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734198889:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:36:00 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.02 in chips) 
+Seat 2: SEBAPODIUM ($2.40 in chips) 
+Seat 3: evgenMG ($9.33 in chips) 
+Seat 4: Lorpugo ($3.25 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.93 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4s]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to nekro211986
+nekro211986 collected $0.02 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) collected ($0.02)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734207004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:36:16 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.02 in chips) 
+Seat 2: SEBAPODIUM ($2.40 in chips) 
+Seat 3: evgenMG ($9.33 in chips) 
+Seat 4: Lorpugo ($3.24 in chips) 
+Seat 5: nekro211986 ($2.45 in chips) 
+Seat 6: eltumpa ($1.93 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Td]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+nekro211986: folds 
+eltumpa: calls $0.04
+*** FLOP *** [9c Kc Qh]
+eltumpa: checks 
+evgenMG: checks 
+Lorpugo: checks 
+*** TURN *** [9c Kc Qh] [6s]
+eltumpa: bets $0.10
+evgenMG: raises $0.15 to $0.25
+Lorpugo: folds 
+eltumpa: calls $0.15
+*** RIVER *** [9c Kc Qh 6s] [2c]
+eltumpa: checks 
+evgenMG: bets $0.45
+eltumpa: folds 
+Uncalled bet ($0.45) returned to evgenMG
+evgenMG collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [9c Kc Qh 6s 2c]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG collected ($0.67)
+Seat 4: Lorpugo (button) folded on the Turn
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: eltumpa (big blind) folded on the River
+
+
+
+PokerStars Hand #240734237802:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:37:20 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.02 in chips) 
+Seat 2: SEBAPODIUM ($2.40 in chips) 
+Seat 3: evgenMG ($9.69 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.62 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Kd]
+SEBAPODIUM: folds 
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+Uncalled bet ($0.01) returned to jaimeco222
+jaimeco222 collected $0.02 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (big blind) collected ($0.02)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734242832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:37:30 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($2.40 in chips) 
+Seat 3: evgenMG ($9.69 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.61 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Jc]
+evgenMG: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: raises $0.03 to $0.05
+SEBAPODIUM: calls $0.03
+*** FLOP *** [Td 9h 7d]
+jaimeco222: checks 
+SEBAPODIUM: bets $0.07
+jaimeco222: folds 
+Uncalled bet ($0.07) returned to SEBAPODIUM
+SEBAPODIUM collected $0.10 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Td 9h 7d]
+Seat 1: jaimeco222 (small blind) folded on the Flop
+Seat 2: SEBAPODIUM (big blind) collected ($0.10)
+Seat 3: evgenMG folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734263523:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:38:13 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.45 in chips) 
+Seat 3: evgenMG ($9.69 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.61 in chips) 
+SEBAPODIUM: posts small blind $0.01
+evgenMG: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5d]
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: raises $0.04 to $0.06
+SEBAPODIUM: raises $0.18 to $0.24
+evgenMG: calls $0.22
+jaimeco222: folds 
+*** FLOP *** [6h Td 2c]
+SEBAPODIUM: bets $0.27
+evgenMG: folds 
+Uncalled bet ($0.27) returned to SEBAPODIUM
+SEBAPODIUM collected $0.52 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [6h Td 2c]
+Seat 1: jaimeco222 (button) folded before Flop
+Seat 2: SEBAPODIUM (small blind) collected ($0.52)
+Seat 3: evgenMG (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734282042:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:38:51 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.73 in chips) 
+Seat 3: evgenMG ($9.45 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.61 in chips) 
+evgenMG: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6d]
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: evgenMG (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734293219:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:39:14 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.73 in chips) 
+Seat 3: evgenMG ($9.44 in chips) 
+Seat 4: Lorpugo ($3.19 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.61 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Th]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+evgenMG: folds 
+evgenMG leaves the table
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: evgenMG (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734299880:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:39:28 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.73 in chips) 
+Seat 4: Lorpugo ($3.21 in chips) 
+Seat 5: nekro211986 ($2.42 in chips) 
+Seat 6: eltumpa ($1.61 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 6c]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Lorpugo: folds 
+nekro211986: raises $0.04 to $0.06
+eltumpa: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.04 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: nekro211986 (small blind) collected ($0.04)
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734306768:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:39:42 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($2.73 in chips) 
+Seat 4: Lorpugo ($3.21 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.59 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 3s]
+SEBAPODIUM: raises $0.04 to $0.06
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: calls $0.05
+jaimeco222: folds 
+*** FLOP *** [9c 8d 5c]
+eltumpa: bets $0.06
+SEBAPODIUM: raises $0.14 to $0.20
+eltumpa: calls $0.14
+*** TURN *** [9c 8d 5c] [2d]
+Allon50K joins the table at seat #3 
+eltumpa: checks 
+SEBAPODIUM: bets $0.27
+eltumpa: calls $0.27
+*** RIVER *** [9c 8d 5c 2d] [8s]
+eltumpa: checks 
+SEBAPODIUM: checks 
+*** SHOW DOWN ***
+eltumpa: shows [Td Jh] (a pair of Eights)
+SEBAPODIUM: shows [Jc Js] (two pair, Jacks and Eights)
+SEBAPODIUM collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.08 | Rake $0.04 
+Board [9c 8d 5c 2d 8s]
+Seat 1: jaimeco222 (big blind) folded before Flop
+Seat 2: SEBAPODIUM showed [Jc Js] and won ($1.04) with two pair, Jacks and Eights
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) showed [Td Jh] and lost with a pair of Eights
+
+
+
+PokerStars Hand #240734336964:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:40:45 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.24 in chips) 
+Seat 4: Lorpugo ($3.21 in chips) 
+Seat 5: nekro211986 ($2.44 in chips) 
+Seat 6: eltumpa ($1.06 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Kc]
+Lorpugo: raises $0.04 to $0.06
+nekro211986: raises $0.12 to $0.18
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Lorpugo: calls $0.12
+*** FLOP *** [7d Ts As]
+Lorpugo: checks 
+nekro211986: bets $0.14
+Lorpugo: raises $0.44 to $0.58
+nekro211986: folds 
+Uncalled bet ($0.44) returned to Lorpugo
+Lorpugo collected $0.65 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [7d Ts As]
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.65)
+Seat 5: nekro211986 folded on the Flop
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734358292:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:41:29 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.22 in chips) 
+Seat 3: Allon50K ($1 in chips) 
+Seat 4: Lorpugo ($3.54 in chips) 
+Seat 5: nekro211986 ($2.12 in chips) 
+Seat 6: eltumpa ($2 in chips) 
+SEBAPODIUM: posts small blind $0.01
+Allon50K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 4s]
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: calls $0.06
+SEBAPODIUM: folds 
+Allon50K: folds 
+*** FLOP *** [Jh 4h 5d]
+Lorpugo: bets $0.05
+jaimeco222: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh 4h 5d]
+Seat 1: jaimeco222 (button) folded on the Flop
+Seat 2: SEBAPODIUM (small blind) folded before Flop
+Seat 3: Allon50K (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.14)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734372315:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:41:58 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.21 in chips) 
+Seat 3: Allon50K ($0.98 in chips) 
+Seat 4: Lorpugo ($3.62 in chips) 
+Seat 5: nekro211986 ($2.12 in chips) 
+Seat 6: eltumpa ($2 in chips) 
+Allon50K: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Qd]
+nekro211986: folds 
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [8c 9s 7c]
+Lorpugo: checks 
+eltumpa: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [8c 9s 7c] [Ks]
+Lorpugo: checks 
+eltumpa: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to eltumpa
+eltumpa collected $0.24 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8c 9s 7c Ks]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: Allon50K (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa collected ($0.24)
+
+
+
+PokerStars Hand #240734391792:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:42:39 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.21 in chips) 
+Seat 3: Allon50K ($0.97 in chips) 
+Seat 4: Lorpugo ($3.50 in chips) 
+Seat 5: nekro211986 ($2.12 in chips) 
+Seat 6: eltumpa ($2.12 in chips) 
+Lorpugo: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Th]
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: folds 
+nekro211986: folds 
+Uncalled bet ($0.04) returned to eltumpa
+eltumpa collected $0.05 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: eltumpa collected ($0.05)
+
+
+
+PokerStars Hand #240734401303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:42:59 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.21 in chips) 
+Seat 3: Allon50K ($0.97 in chips) 
+Seat 4: Lorpugo ($3.49 in chips) 
+Seat 5: nekro211986 ($2.10 in chips) 
+Seat 6: eltumpa ($2.15 in chips) 
+nekro211986: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 3d]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: raises $0.04 to $0.06
+nekro211986: folds 
+eltumpa: calls $0.04
+*** FLOP *** [9s Qc 2s]
+eltumpa: checks 
+Lorpugo: checks 
+*** TURN *** [9s Qc 2s] [Jh]
+eltumpa: checks 
+Lorpugo: checks 
+*** RIVER *** [9s Qc 2s Jh] [6s]
+eltumpa: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+eltumpa: shows [Jc 8h] (a pair of Jacks)
+Lorpugo: mucks hand 
+eltumpa collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9s Qc 2s Jh 6s]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) mucked [Kd 3d]
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: eltumpa (big blind) showed [Jc 8h] and won ($0.13) with a pair of Jacks
+
+
+
+PokerStars Hand #240734415682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:43:28 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.21 in chips) 
+Seat 3: Allon50K ($0.97 in chips) 
+Seat 4: Lorpugo ($3.43 in chips) 
+Seat 5: nekro211986 ($2.09 in chips) 
+Seat 6: eltumpa ($2.22 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qc]
+SEBAPODIUM: raises $0.04 to $0.06
+Allon50K: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: calls $0.04
+*** FLOP *** [As 3d Qs]
+jaimeco222: checks 
+SEBAPODIUM: checks 
+*** TURN *** [As 3d Qs] [Js]
+jaimeco222: bets $0.04
+SEBAPODIUM: folds 
+Uncalled bet ($0.04) returned to jaimeco222
+jaimeco222 collected $0.13 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [As 3d Qs Js]
+Seat 1: jaimeco222 (big blind) collected ($0.13)
+Seat 2: SEBAPODIUM folded on the Turn
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734436728:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:44:12 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.07 in chips) 
+Seat 2: SEBAPODIUM ($3.15 in chips) 
+Seat 3: Allon50K ($0.97 in chips) 
+Seat 4: Lorpugo ($3.43 in chips) 
+Seat 5: nekro211986 ($2.09 in chips) 
+Seat 6: eltumpa ($2.21 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5d]
+Allon50K: folds 
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+Uncalled bet ($0.01) returned to SEBAPODIUM
+SEBAPODIUM collected $0.02 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) collected ($0.02)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734445368:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:44:29 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 2: SEBAPODIUM ($3.16 in chips) 
+Seat 3: Allon50K ($0.97 in chips) 
+Seat 4: Lorpugo ($3.43 in chips) 
+Seat 5: nekro211986 ($2.09 in chips) 
+Seat 6: eltumpa ($2.21 in chips) 
+SEBAPODIUM: posts small blind $0.01
+Allon50K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8d]
+Lorpugo: folds 
+nekro211986: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: calls $0.01
+Allon50K: raises $0.02 to $0.04
+SEBAPODIUM: calls $0.02
+*** FLOP *** [7h Js 4s]
+SEBAPODIUM: checks 
+Allon50K: bets $0.04
+SEBAPODIUM: calls $0.04
+*** TURN *** [7h Js 4s] [Qd]
+SEBAPODIUM: checks 
+Allon50K: checks 
+*** RIVER *** [7h Js 4s Qd] [Kc]
+SEBAPODIUM: checks 
+Allon50K: checks 
+*** SHOW DOWN ***
+SEBAPODIUM: shows [Jh Td] (a pair of Jacks)
+Allon50K: mucks hand 
+SEBAPODIUM collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7h Js 4s Qd Kc]
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) showed [Jh Td] and won ($0.15) with a pair of Jacks
+Seat 3: Allon50K (big blind) mucked [6c 9c]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734465044:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:45:10 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 2: SEBAPODIUM ($3.23 in chips) 
+Seat 3: Allon50K ($0.89 in chips) 
+Seat 4: Lorpugo ($3.43 in chips) 
+Seat 5: nekro211986 ($2.09 in chips) 
+Seat 6: eltumpa ($2.21 in chips) 
+Allon50K: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Kh]
+nekro211986: raises $0.04 to $0.06
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [5d Ad 9d]
+Allon50K: checks 
+nekro211986: bets $0.11
+Allon50K: calls $0.11
+*** TURN *** [5d Ad 9d] [3h]
+Allon50K: checks 
+nekro211986: checks 
+*** RIVER *** [5d Ad 9d 3h] [Td]
+Allon50K: bets $0.35
+nekro211986: folds 
+Uncalled bet ($0.35) returned to Allon50K
+Allon50K collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5d Ad 9d 3h Td]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: Allon50K (small blind) collected ($0.35)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: nekro211986 folded on the River
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734483999:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:45:49 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 2: SEBAPODIUM ($3.23 in chips) 
+Seat 3: Allon50K ($1.07 in chips) 
+Seat 4: Lorpugo ($3.41 in chips) 
+Seat 6: eltumpa ($2.21 in chips) 
+Lorpugo: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4c]
+nekro211986 leaves the table
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: raises $0.02 to $0.04
+Lorpugo: folds 
+eltumpa: calls $0.02
+*** FLOP *** [Tc 9h 2s]
+eltumpa: checks 
+renegv joins the table at seat #5 
+Allon50K: bets $0.06
+eltumpa: calls $0.06
+*** TURN *** [Tc 9h 2s] [6c]
+eltumpa: checks 
+Allon50K: bets $0.12
+eltumpa: folds 
+Uncalled bet ($0.12) returned to Allon50K
+Allon50K collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Tc 9h 2s 6c]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K (button) collected ($0.20)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: eltumpa (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240734499338:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:46:21 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.06 in chips) 
+Seat 2: SEBAPODIUM ($3.23 in chips) 
+Seat 3: Allon50K ($1.17 in chips) 
+Seat 4: Lorpugo ($3.40 in chips) 
+Seat 6: eltumpa ($2.11 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 6c]
+SEBAPODIUM: raises $0.04 to $0.06
+Allon50K: folds 
+Lorpugo: folds 
+eltumpa: calls $0.05
+jaimeco222: calls $0.04
+*** FLOP *** [4d Ad 8h]
+eltumpa: checks 
+jaimeco222: checks 
+SEBAPODIUM: checks 
+*** TURN *** [4d Ad 8h] [7s]
+eltumpa: bets $0.08
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Uncalled bet ($0.08) returned to eltumpa
+eltumpa collected $0.17 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4d Ad 8h 7s]
+Seat 1: jaimeco222 (big blind) folded on the Turn
+Seat 2: SEBAPODIUM folded on the Turn
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #240734520039:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:47:05 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.17 in chips) 
+Seat 3: Allon50K ($1.17 in chips) 
+Seat 4: Lorpugo ($3.40 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.22 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+renegv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Js]
+Allon50K: folds 
+Lorpugo: raises $0.07 to $0.09
+renegv: folds 
+eltumpa: folds 
+jaimeco222: calls $0.08
+SEBAPODIUM: calls $0.07
+*** FLOP *** [3s 5d 9s]
+jaimeco222: checks 
+SEBAPODIUM: checks 
+Lorpugo: checks 
+*** TURN *** [3s 5d 9s] [9h]
+jaimeco222: checks 
+SEBAPODIUM: bets $0.09
+Lorpugo: calls $0.09
+jaimeco222: folds 
+*** RIVER *** [3s 5d 9s 9h] [Td]
+SEBAPODIUM: bets $0.23
+Lorpugo: folds 
+Uncalled bet ($0.23) returned to SEBAPODIUM
+SEBAPODIUM collected $0.45 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [3s 5d 9s 9h Td]
+Seat 1: jaimeco222 (small blind) folded on the Turn
+Seat 2: SEBAPODIUM (big blind) collected ($0.45)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the River
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734561895:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:48:33 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 3: Allon50K ($1.17 in chips) 
+Seat 4: Lorpugo ($3.22 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.22 in chips) 
+Allon50K: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jh]
+renegv: folds 
+eltumpa: raises $0.02 to $0.04
+jaimeco222: raises $0.04 to $0.08
+Allon50K: folds 
+Lorpugo: raises $0.21 to $0.29
+eltumpa: folds 
+jaimeco222: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.21 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: jaimeco222 (button) folded before Flop
+Seat 3: Allon50K (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.21)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop
+
+
+
+PokerStars Hand #240734577066:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:49:04 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 3: Allon50K ($1.16 in chips) 
+Seat 4: Lorpugo ($3.35 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.18 in chips) 
+Lorpugo: posts small blind $0.01
+renegv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Jh]
+eltumpa: folds 
+jaimeco222: folds 
+Allon50K: raises $0.02 to $0.04
+Lorpugo: calls $0.03
+renegv: calls $0.02
+*** FLOP *** [2c Ah Qd]
+Lorpugo: checks 
+renegv: checks 
+Allon50K: bets $0.04
+Lorpugo: calls $0.04
+renegv: calls $0.04
+*** TURN *** [2c Ah Qd] [Ac]
+Lorpugo: checks 
+renegv: checks 
+Allon50K: checks 
+*** RIVER *** [2c Ah Qd Ac] [7s]
+Lorpugo: checks 
+renegv: checks 
+Allon50K: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qc Jh] (two pair, Aces and Queens)
+renegv: mucks hand 
+Allon50K: mucks hand 
+Lorpugo collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2c Ah Qd Ac 7s]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 3: Allon50K (button) mucked [4h Kh]
+Seat 4: Lorpugo (small blind) showed [Qc Jh] and won ($0.23) with two pair, Aces and Queens
+Seat 5: renegv (big blind) mucked [2h Tc]
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734608279:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:50:10 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 3: Allon50K ($1.08 in chips) 
+Seat 4: Lorpugo ($3.50 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.18 in chips) 
+renegv: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4c]
+jaimeco222: folds 
+Allon50K: folds 
+Lorpugo: raises $0.04 to $0.06
+renegv: calls $0.05
+eltumpa: folds 
+*** FLOP *** [7c 4h 8d]
+renegv: checks 
+Lorpugo: bets $0.07
+renegv: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c 4h 8d]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.14)
+Seat 5: renegv (small blind) folded on the Flop
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734621785:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:50:38 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 3: Allon50K ($1.08 in chips) 
+Seat 4: Lorpugo ($3.58 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.16 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2s]
+Allon50K: folds 
+Lorpugo: folds 
+renegv: folds 
+eltumpa: calls $0.01
+jaimeco222: checks 
+*** FLOP *** [Qh Ad Tc]
+eltumpa: checks 
+jaimeco222: checks 
+*** TURN *** [Qh Ad Tc] [7h]
+eltumpa: checks 
+jaimeco222: checks 
+*** RIVER *** [Qh Ad Tc 7h] [Qs]
+eltumpa: bets $0.04
+jaimeco222: calls $0.04
+*** SHOW DOWN ***
+eltumpa: shows [Qd 8h] (three of a kind, Queens)
+jaimeco222: mucks hand 
+eltumpa collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qh Ad Tc 7h Qs]
+Seat 1: jaimeco222 (big blind) mucked [Ks 4c]
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) showed [Qd 8h] and won ($0.12) with three of a kind, Queens
+
+
+
+PokerStars Hand #240734642020:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:51:20 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.44 in chips) 
+Seat 3: Allon50K ($1.08 in chips) 
+Seat 4: Lorpugo ($3.58 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.22 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 8s]
+Allon50K: folds 
+Lorpugo: folds 
+renegv: folds 
+eltumpa: folds 
+jaimeco222: folds 
+Uncalled bet ($0.01) returned to SEBAPODIUM
+SEBAPODIUM collected $0.02 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) collected ($0.02)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734647856:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:51:32 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.45 in chips) 
+Seat 3: Allon50K ($1.08 in chips) 
+Seat 4: Lorpugo ($3.58 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.22 in chips) 
+SEBAPODIUM: posts small blind $0.01
+Allon50K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Td]
+Lorpugo: folds 
+renegv has timed out
+renegv: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: calls $0.01
+Allon50K: raises $0.02 to $0.04
+SEBAPODIUM: calls $0.02
+*** FLOP *** [9d Ts Th]
+SEBAPODIUM: checks 
+Allon50K: bets $0.04
+SEBAPODIUM: calls $0.04
+*** TURN *** [9d Ts Th] [2d]
+SEBAPODIUM: checks 
+Allon50K: bets $0.08
+SEBAPODIUM: calls $0.08
+*** RIVER *** [9d Ts Th 2d] [6c]
+renegv is disconnected 
+SEBAPODIUM: checks 
+Allon50K: checks 
+*** SHOW DOWN ***
+SEBAPODIUM: shows [Kd 9h] (two pair, Tens and Nines)
+Allon50K: mucks hand 
+SEBAPODIUM collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [9d Ts Th 2d 6c]
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) showed [Kd 9h] and won ($0.31) with two pair, Tens and Nines
+Seat 3: Allon50K (big blind) mucked [3c Kc]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734679576:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:52:38 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.60 in chips) 
+Seat 3: Allon50K ($0.92 in chips) 
+Seat 4: Lorpugo ($3.58 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.22 in chips) 
+Allon50K: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 7h]
+renegv: folds 
+eltumpa: raises $0.04 to $0.06
+jaimeco222: folds 
+SEBAPODIUM: calls $0.06
+Allon50K: folds 
+Lorpugo: folds 
+*** FLOP *** [2d 8h 6h]
+eltumpa: bets $0.06
+SEBAPODIUM: calls $0.06
+*** TURN *** [2d 8h 6h] [2s]
+eltumpa: bets $0.26
+SEBAPODIUM: calls $0.26
+*** RIVER *** [2d 8h 6h 2s] [Jd]
+eltumpa: bets $0.76
+SEBAPODIUM: folds 
+Uncalled bet ($0.76) returned to eltumpa
+eltumpa collected $0.76 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03 
+Board [2d 8h 6h 2s Jd]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded on the River
+Seat 3: Allon50K (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa collected ($0.76)
+
+
+
+PokerStars Hand #240734696132:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:53:13 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.22 in chips) 
+Seat 3: Allon50K ($0.91 in chips) 
+Seat 4: Lorpugo ($3.56 in chips) 
+Seat 5: renegv ($2 in chips) 
+Seat 6: eltumpa ($2.60 in chips) 
+Lorpugo: posts small blind $0.01
+renegv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Tc]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: raises $0.02 to $0.04
+Lorpugo: folds 
+renegv: calls $0.02
+*** FLOP *** [9d 7d Qc]
+renegv: bets $0.02
+Allon50K: raises $0.04 to $0.06
+renegv: calls $0.04
+*** TURN *** [9d 7d Qc] [Js]
+renegv: bets $0.10
+Allon50K: raises $0.22 to $0.32
+renegv: calls $0.22
+*** RIVER *** [9d 7d Qc Js] [4h]
+renegv: checks 
+Allon50K: bets $0.41
+renegv: calls $0.41
+*** SHOW DOWN ***
+Allon50K: shows [Jd Qs] (two pair, Queens and Jacks)
+renegv: mucks hand 
+Allon50K collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.06 
+Board [9d 7d Qc Js 4h]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K (button) showed [Jd Qs] and won ($1.61) with two pair, Queens and Jacks
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: renegv (big blind) mucked [7c Jc]
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734725607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:54:15 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.22 in chips) 
+Seat 3: Allon50K ($1.69 in chips) 
+Seat 4: Lorpugo ($3.55 in chips) 
+Seat 5: renegv ($1.90 in chips) 
+Seat 6: eltumpa ($2.60 in chips) 
+renegv: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 2c]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+renegv: calls $0.03
+eltumpa: folds 
+*** FLOP *** [Ac 6c Ks]
+renegv: checks 
+Allon50K: bets $0.04
+Lorpugo: calls $0.04
+renegv: folds 
+*** TURN *** [Ac 6c Ks] [Ad]
+Allon50K: checks 
+Lorpugo: bets $0.14
+Allon50K: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.21 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Ac 6c Ks Ad]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K folded on the Turn
+Seat 4: Lorpugo (button) collected ($0.21)
+Seat 5: renegv (small blind) folded on the Flop
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734755303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:55:23 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.22 in chips) 
+Seat 3: Allon50K ($1.61 in chips) 
+Seat 4: Lorpugo ($3.68 in chips) 
+Seat 5: renegv ($1.86 in chips) 
+Seat 6: eltumpa ($2.58 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 3s]
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: folds 
+renegv: raises $0.04 to $0.06
+eltumpa: calls $0.05
+jaimeco222: folds 
+*** FLOP *** [6d 5s Tc]
+eltumpa: checks 
+renegv: checks 
+*** TURN *** [6d 5s Tc] [8c]
+eltumpa: checks 
+renegv: bets $0.07
+eltumpa: calls $0.07
+*** RIVER *** [6d 5s Tc 8c] [5d]
+eltumpa: checks 
+renegv: checks 
+*** SHOW DOWN ***
+eltumpa: shows [Js Ac] (a pair of Fives)
+renegv: mucks hand 
+eltumpa collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6d 5s Tc 8c 5d]
+Seat 1: jaimeco222 (big blind) folded before Flop
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv (button) mucked [7c Jh]
+Seat 6: eltumpa (small blind) showed [Js Ac] and won ($0.27) with a pair of Fives
+
+
+
+PokerStars Hand #240734770939:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:56:12 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.22 in chips) 
+Seat 3: Allon50K ($1.61 in chips) 
+Seat 4: Lorpugo ($3.68 in chips) 
+Seat 5: renegv ($1.73 in chips) 
+Seat 6: eltumpa ($2.72 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 9c]
+Allon50K: folds 
+Lorpugo: raises $0.04 to $0.06
+renegv: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734775538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:56:27 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.20 in chips) 
+Seat 3: Allon50K ($1.61 in chips) 
+Seat 4: Lorpugo ($3.71 in chips) 
+Seat 5: renegv ($1.73 in chips) 
+Seat 6: eltumpa ($2.72 in chips) 
+SEBAPODIUM: posts small blind $0.01
+Allon50K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6c]
+Lorpugo: folds 
+renegv has timed out
+renegv: folds 
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Uncalled bet ($0.01) returned to Allon50K
+Allon50K collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) folded before Flop
+Seat 3: Allon50K (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734782430:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:56:49 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.19 in chips) 
+Seat 3: Allon50K ($1.62 in chips) 
+Seat 4: Lorpugo ($3.71 in chips) 
+Seat 6: eltumpa ($2.72 in chips) 
+Allon50K: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 4c]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [9s 8d Js]
+Allon50K: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [9s 8d Js] [3c]
+Allon50K: checks 
+Lorpugo: checks 
+*** RIVER *** [9s 8d Js 3c] [Ks]
+Allon50K: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Allon50K: shows [Jc 5s] (a pair of Jacks)
+Lorpugo: mucks hand 
+Allon50K collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9s 8d Js 3c Ks]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: Allon50K (small blind) showed [Jc 5s] and won ($0.12) with a pair of Jacks
+Seat 4: Lorpugo (big blind) mucked [Th 4c]
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734794946:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:57:28 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.19 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($3.65 in chips) 
+Seat 5: renegv ($1.73 in chips) 
+Seat 6: eltumpa ($2.72 in chips) 
+Lorpugo: posts small blind $0.01
+renegv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Js]
+eltumpa: folds 
+jaimeco222: raises $0.04 to $0.06
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: folds 
+renegv: folds 
+Uncalled bet ($0.04) returned to jaimeco222
+jaimeco222 collected $0.05 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 collected ($0.05)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: renegv (big blind) folded before Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734803032:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:57:53 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.19 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($3.64 in chips) 
+Seat 5: renegv ($1.71 in chips) 
+Seat 6: eltumpa ($2.72 in chips) 
+renegv: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Jh]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: raises $0.04 to $0.06
+renegv: calls $0.05
+eltumpa: folds 
+*** FLOP *** [Ts 2h 3d]
+renegv: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [Ts 2h 3d] [Ks]
+renegv: bets $0.13
+Lorpugo: calls $0.13
+*** RIVER *** [Ts 2h 3d Ks] [As]
+renegv: bets $0.25
+Lorpugo: calls $0.25
+*** SHOW DOWN ***
+renegv: shows [7c 5h] (high card Ace)
+Lorpugo: shows [Ad Jh] (a pair of Aces)
+Lorpugo collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [Ts 2h 3d Ks As]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) showed [Ad Jh] and won ($0.98) with a pair of Aces
+Seat 5: renegv (small blind) showed [7c 5h] and lost with high card Ace
+Seat 6: eltumpa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734817734:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:58:38 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.19 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($4.12 in chips) 
+Seat 5: renegv ($1.21 in chips) 
+Seat 6: eltumpa ($2.70 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 5d]
+SEBAPODIUM: folds 
+Allon50K: calls $0.02
+Lorpugo: folds 
+renegv: folds 
+eltumpa: folds 
+jaimeco222: checks 
+*** FLOP *** [9s 4s 2h]
+jaimeco222: checks 
+Allon50K: bets $0.04
+jaimeco222: folds 
+Uncalled bet ($0.04) returned to Allon50K
+Allon50K collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s 4s 2h]
+Seat 1: jaimeco222 (big blind) folded on the Flop
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734829958:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:59:17 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.01 in chips) 
+Seat 2: SEBAPODIUM ($3.19 in chips) 
+Seat 3: Allon50K ($1.71 in chips) 
+Seat 4: Lorpugo ($4.12 in chips) 
+Seat 5: renegv ($1.21 in chips) 
+Seat 6: eltumpa ($2.69 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kd]
+Allon50K: folds 
+Lorpugo: folds 
+renegv: folds 
+eltumpa: folds 
+jaimeco222: raises $0.03 to $0.05
+SEBAPODIUM: folds 
+Uncalled bet ($0.03) returned to jaimeco222
+jaimeco222 collected $0.04 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: jaimeco222 (small blind) collected ($0.04)
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734834699:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:59:31 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.17 in chips) 
+Seat 3: Allon50K ($1.71 in chips) 
+Seat 4: Lorpugo ($4.12 in chips) 
+Seat 5: renegv ($1.21 in chips) 
+Seat 6: eltumpa ($2.69 in chips) 
+SEBAPODIUM: posts small blind $0.01
+Allon50K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7s]
+Lorpugo: folds 
+renegv: raises $0.04 to $0.06
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Uncalled bet ($0.04) returned to renegv
+renegv collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 (button) folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (small blind) folded before Flop
+Seat 3: Allon50K (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv collected ($0.05)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734840866:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:59:50 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.16 in chips) 
+Seat 3: Allon50K ($1.69 in chips) 
+Seat 4: Lorpugo ($4.12 in chips) 
+Seat 5: renegv ($1.24 in chips) 
+Seat 6: eltumpa ($2.69 in chips) 
+Allon50K: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 3s]
+renegv: raises $0.04 to $0.06
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to renegv
+renegv collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: Allon50K (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: renegv collected ($0.05)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734844922:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:00:03 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.16 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($4.10 in chips) 
+Seat 5: renegv ($1.27 in chips) 
+Seat 6: eltumpa ($2.69 in chips) 
+Lorpugo: posts small blind $0.01
+renegv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9h]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to renegv
+renegv collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: renegv (big blind) collected ($0.02)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734851918:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:00:22 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.16 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($4.09 in chips) 
+Seat 5: renegv ($1.28 in chips) 
+Seat 6: eltumpa ($2.69 in chips) 
+renegv: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5c]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: folds 
+renegv: calls $0.01
+eltumpa: checks 
+*** FLOP *** [7d 7c Jc]
+renegv: bets $0.02
+eltumpa: folds 
+Uncalled bet ($0.02) returned to renegv
+renegv collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7d 7c Jc]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: renegv (small blind) collected ($0.04)
+Seat 6: eltumpa (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240734858812:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:00:42 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.16 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($4.09 in chips) 
+Seat 5: renegv ($1.30 in chips) 
+Seat 6: eltumpa ($2.67 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3h]
+SEBAPODIUM: raises $0.04 to $0.06
+Allon50K: folds 
+Lorpugo: folds 
+renegv: folds 
+eltumpa: calls $0.05
+jaimeco222: calls $0.04
+*** FLOP *** [3c Td Js]
+eltumpa: bets $0.08
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Uncalled bet ($0.08) returned to eltumpa
+eltumpa collected $0.17 from pot
+eltumpa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3c Td Js]
+Seat 1: jaimeco222 (big blind) folded on the Flop
+Seat 2: SEBAPODIUM folded on the Flop
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv (button) folded before Flop (didn't bet)
+Seat 6: eltumpa (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #240734876203:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:01:28 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.10 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($4.09 in chips) 
+Seat 5: renegv ($1.30 in chips) 
+Seat 6: eltumpa ($2.78 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 9d]
+Allon50K: folds 
+Lorpugo: raises $0.04 to $0.06
+renegv: folds 
+eltumpa: calls $0.06
+jaimeco222: folds 
+SEBAPODIUM: folds 
+*** FLOP *** [Ts 7s 2d]
+Lorpugo: checks 
+eltumpa: checks 
+*** TURN *** [Ts 7s 2d] [4c]
+Lorpugo: bets $0.09
+eltumpa: calls $0.09
+*** RIVER *** [Ts 7s 2d 4c] [4d]
+Lorpugo: bets $0.28
+eltumpa: folds 
+Uncalled bet ($0.28) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ts 7s 2d 4c 4d]
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) folded before Flop
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.32)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded on the River
+
+
+
+PokerStars Hand #240734893083:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:02:05 ET
+Table 'Raimonda II' 6-max Seat #1 is the button
+Seat 1: jaimeco222 ($2 in chips) 
+Seat 2: SEBAPODIUM ($3.08 in chips) 
+Seat 3: Allon50K ($1.68 in chips) 
+Seat 4: Lorpugo ($4.26 in chips) 
+Seat 5: renegv ($1.30 in chips) 
+Seat 6: eltumpa ($2.63 in chips) 
+SEBAPODIUM: posts small blind $0.01
+Allon50K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6d]
+Lorpugo: folds 
+renegv: folds 
+eltumpa: folds 
+jaimeco222: raises $0.03 to $0.05
+SEBAPODIUM: folds 
+Allon50K: folds 
+Uncalled bet ($0.03) returned to jaimeco222
+jaimeco222 collected $0.05 from pot
+jaimeco222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: jaimeco222 (button) collected ($0.05)
+Seat 2: SEBAPODIUM (small blind) folded before Flop
+Seat 3: Allon50K (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734903192:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:02:28 ET
+Table 'Raimonda II' 6-max Seat #2 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.07 in chips) 
+Seat 3: Allon50K ($1.66 in chips) 
+Seat 4: Lorpugo ($4.26 in chips) 
+Seat 5: renegv ($1.30 in chips) 
+Seat 6: eltumpa ($2.63 in chips) 
+Allon50K: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8d]
+renegv: raises $0.02 to $0.04
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [2c 7h 8c]
+Allon50K: checks 
+renegv: checks 
+*** TURN *** [2c 7h 8c] [Kd]
+Allon50K: checks 
+renegv: bets $0.02
+Allon50K: calls $0.02
+*** RIVER *** [2c 7h 8c Kd] [Kc]
+Allon50K: bets $0.08
+renegv: folds 
+Uncalled bet ($0.08) returned to Allon50K
+Allon50K collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2c 7h 8c Kd Kc]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM (button) folded before Flop (didn't bet)
+Seat 3: Allon50K (small blind) collected ($0.14)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: renegv folded on the River
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734921244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:03:06 ET
+Table 'Raimonda II' 6-max Seat #3 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.07 in chips) 
+Seat 3: Allon50K ($1.74 in chips) 
+Seat 4: Lorpugo ($4.24 in chips) 
+Seat 5: renegv ($1.24 in chips) 
+Seat 6: eltumpa ($2.63 in chips) 
+Lorpugo: posts small blind $0.01
+renegv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 4h]
+eltumpa: folds 
+jaimeco222: folds 
+SEBAPODIUM: raises $0.04 to $0.06
+Allon50K: calls $0.06
+Lorpugo: folds 
+renegv: calls $0.04
+*** FLOP *** [6s 6c 2h]
+renegv: checks 
+SEBAPODIUM: checks 
+Allon50K: bets $0.10
+renegv: folds 
+SEBAPODIUM: folds 
+Uncalled bet ($0.10) returned to Allon50K
+Allon50K collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6s 6c 2h]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded on the Flop
+Seat 3: Allon50K (button) collected ($0.18)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: renegv (big blind) folded on the Flop
+Seat 6: eltumpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734935911:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:03:37 ET
+Table 'Raimonda II' 6-max Seat #4 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.01 in chips) 
+Seat 3: Allon50K ($1.86 in chips) 
+Seat 4: Lorpugo ($4.23 in chips) 
+Seat 5: renegv ($1.18 in chips) 
+Seat 6: eltumpa ($2.63 in chips) 
+renegv: posts small blind $0.01
+eltumpa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 6c]
+jaimeco222: folds 
+SEBAPODIUM: folds 
+Allon50K: folds 
+Lorpugo: raises $0.04 to $0.06
+renegv: folds 
+eltumpa: calls $0.04
+*** FLOP *** [Jh Tc 2c]
+eltumpa: checks 
+Lorpugo: checks 
+*** TURN *** [Jh Tc 2c] [9s]
+eltumpa: checks 
+Lorpugo: checks 
+*** RIVER *** [Jh Tc 2c 9s] [Kc]
+eltumpa: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+eltumpa: shows [9h Ad] (a pair of Nines)
+Lorpugo: mucks hand 
+eltumpa collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jh Tc 2c 9s Kc]
+Seat 1: jaimeco222 folded before Flop (didn't bet)
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) mucked [5d 6c]
+Seat 5: renegv (small blind) folded before Flop
+Seat 6: eltumpa (big blind) showed [9h Ad] and won ($0.13) with a pair of Nines
+
+
+
+PokerStars Hand #240734953666:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:04:13 ET
+Table 'Raimonda II' 6-max Seat #5 is the button
+Seat 1: jaimeco222 ($2.03 in chips) 
+Seat 2: SEBAPODIUM ($3.01 in chips) 
+Seat 3: Allon50K ($1.86 in chips) 
+Seat 4: Lorpugo ($4.17 in chips) 
+Seat 5: renegv ($1.17 in chips) 
+Seat 6: eltumpa ($2.70 in chips) 
+eltumpa: posts small blind $0.01
+jaimeco222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3c]
+SEBAPODIUM: folds 
+Allon50K: raises $0.02 to $0.04
+Lorpugo: folds 
+renegv: raises $0.02 to $0.06
+eltumpa: calls $0.05
+jaimeco222: folds 
+Allon50K: calls $0.02
+*** FLOP *** [As 7h Jh]
+eltumpa: checks 
+Allon50K: checks 
+renegv: checks 
+*** TURN *** [As 7h Jh] [Ks]
+eltumpa: checks 
+Allon50K: bets $0.10
+renegv: calls $0.10
+eltumpa: folds 
+*** RIVER *** [As 7h Jh Ks] [8h]
+Allon50K: checks 
+renegv: bets $0.20
+Allon50K: folds 
+Uncalled bet ($0.20) returned to renegv
+renegv collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [As 7h Jh Ks 8h]
+Seat 1: jaimeco222 (big blind) folded before Flop
+Seat 2: SEBAPODIUM folded before Flop (didn't bet)
+Seat 3: Allon50K folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv (button) collected ($0.39)
+Seat 6: eltumpa (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240734985198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:05:18 ET
+Table 'Raimonda II' 6-max Seat #6 is the button
+Seat 1: jaimeco222 ($2.01 in chips) 
+Seat 2: SEBAPODIUM ($3.01 in chips) 
+Seat 3: Allon50K ($1.70 in chips) 
+Seat 4: Lorpugo ($4.17 in chips) 
+Seat 5: renegv ($1.40 in chips) 
+Seat 6: eltumpa ($2.64 in chips) 
+jaimeco222: posts small blind $0.01
+SEBAPODIUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3c]
+Allon50K: folds 
+Lorpugo: folds 
+renegv: folds 
+eltumpa: raises $0.04 to $0.06
+jaimeco222: calls $0.05
+SEBAPODIUM: raises $0.24 to $0.30
+eltumpa: folds 
+jaimeco222: folds 
+Uncalled bet ($0.24) returned to SEBAPODIUM
+SEBAPODIUM collected $0.18 from pot
+SEBAPODIUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: jaimeco222 (small blind) folded before Flop
+Seat 2: SEBAPODIUM (big blind) collected ($0.18)
+Seat 3: Allon50K folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: renegv folded before Flop (didn't bet)
+Seat 6: eltumpa (button) folded before Flop
+
+
+

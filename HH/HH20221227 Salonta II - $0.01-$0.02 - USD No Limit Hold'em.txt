@@ -1,0 +1,1543 @@
+﻿PokerStars Hand #240732692933:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:40:31 ET
+Table 'Salonta II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: krakow20 ($2.14 in chips) 
+Seat 4: denis_farr ($1.72 in chips) 
+Seat 5: karamel653 ($1.51 in chips) 
+Seat 6: Montikot8 ($0.76 in chips) 
+Nikeim: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 4c]
+krakow20: folds 
+denis_farr: folds 
+karamel653: folds 
+Montikot8: folds 
+Nikeim: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: krakow20 folded before Flop (didn't bet)
+Seat 4: denis_farr folded before Flop (didn't bet)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Montikot8 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732696477:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:40:39 ET
+Table 'Salonta II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: krakow20 ($2.14 in chips) 
+Seat 4: denis_farr ($1.72 in chips) 
+Seat 5: karamel653 ($1.51 in chips) 
+Seat 6: Montikot8 ($0.76 in chips) 
+Lorpugo: posts small blind $0.01
+krakow20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 8c]
+denis_farr: raises $0.02 to $0.04
+karamel653: calls $0.04
+Montikot8: folds 
+Nikeim: folds 
+Lorpugo: folds 
+krakow20: folds 
+*** FLOP *** [3c Ah Js]
+denis_farr: bets $0.04
+karamel653: calls $0.04
+*** TURN *** [3c Ah Js] [5d]
+denis_farr: bets $0.06
+karamel653: calls $0.06
+*** RIVER *** [3c Ah Js 5d] [7c]
+denis_farr: bets $0.10
+karamel653: folds 
+Uncalled bet ($0.10) returned to denis_farr
+denis_farr collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [3c Ah Js 5d 7c]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: krakow20 (big blind) folded before Flop
+Seat 4: denis_farr collected ($0.30)
+Seat 5: karamel653 folded on the River
+Seat 6: Montikot8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732715555:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:41:21 ET
+Table 'Salonta II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: krakow20 ($2.12 in chips) 
+Seat 4: denis_farr ($1.88 in chips) 
+Seat 5: karamel653 ($1.37 in chips) 
+Seat 6: Montikot8 ($0.76 in chips) 
+krakow20: posts small blind $0.01
+denis_farr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7d]
+karamel653: folds 
+Montikot8: folds 
+Nikeim: raises $0.04 to $0.06
+Lorpugo: folds 
+krakow20: folds 
+denis_farr: folds 
+Uncalled bet ($0.04) returned to Nikeim
+Nikeim collected $0.05 from pot
+Nikeim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: krakow20 (small blind) folded before Flop
+Seat 4: denis_farr (big blind) folded before Flop
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Montikot8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732719940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:41:31 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2.03 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: krakow20 ($2.11 in chips) 
+Seat 4: denis_farr ($1.86 in chips) 
+Seat 5: karamel653 ($1.37 in chips) 
+Seat 6: Montikot8 ($0.76 in chips) 
+denis_farr: posts small blind $0.01
+karamel653: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Jd]
+Montikot8: raises $0.04 to $0.06
+Nikeim: folds 
+Lorpugo: folds 
+krakow20: folds 
+denis_farr: folds 
+karamel653: calls $0.04
+*** FLOP *** [Ks 8s 5s]
+karamel653: checks 
+Montikot8: checks 
+*** TURN *** [Ks 8s 5s] [8d]
+karamel653: checks 
+Montikot8: bets $0.10
+karamel653: folds 
+Uncalled bet ($0.10) returned to Montikot8
+Montikot8 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks 8s 5s 8d]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: krakow20 (button) folded before Flop (didn't bet)
+Seat 4: denis_farr (small blind) folded before Flop
+Seat 5: karamel653 (big blind) folded on the Turn
+Seat 6: Montikot8 collected ($0.13)
+
+
+
+PokerStars Hand #240732735703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:42:07 ET
+Table 'Salonta II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2.03 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: krakow20 ($2.11 in chips) 
+Seat 4: denis_farr ($1.85 in chips) 
+Seat 5: karamel653 ($1.31 in chips) 
+Seat 6: Montikot8 ($0.83 in chips) 
+karamel653: posts small blind $0.01
+Montikot8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jc]
+Nikeim: folds 
+Lorpugo: folds 
+krakow20: calls $0.02
+denis_farr: calls $0.02
+karamel653: folds 
+Montikot8: checks 
+*** FLOP *** [9h Ks 5c]
+Montikot8: checks 
+krakow20: checks 
+denis_farr: checks 
+*** TURN *** [9h Ks 5c] [9s]
+Montikot8: checks 
+krakow20: checks 
+denis_farr: checks 
+*** RIVER *** [9h Ks 5c 9s] [Qh]
+Montikot8: checks 
+krakow20: checks 
+denis_farr: bets $0.04
+Montikot8: folds 
+krakow20: folds 
+Uncalled bet ($0.04) returned to denis_farr
+denis_farr collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9h Ks 5c 9s Qh]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: krakow20 folded on the River
+Seat 4: denis_farr (button) collected ($0.07)
+Seat 5: karamel653 (small blind) folded before Flop
+Seat 6: Montikot8 (big blind) folded on the River
+
+
+
+PokerStars Hand #240732749631:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:42:38 ET
+Table 'Salonta II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2.03 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: krakow20 ($2.09 in chips) 
+Seat 4: denis_farr ($1.90 in chips) 
+Seat 5: karamel653 ($1.30 in chips) 
+Seat 6: Montikot8 ($0.81 in chips) 
+Montikot8: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 3s]
+Lorpugo: folds 
+krakow20: folds 
+denis_farr: raises $0.02 to $0.04
+karamel653: folds 
+Montikot8: calls $0.03
+Nikeim: folds 
+*** FLOP *** [Ad 8c 6c]
+Montikot8: checks 
+denis_farr: bets $0.04
+Montikot8: folds 
+Uncalled bet ($0.04) returned to denis_farr
+denis_farr collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ad 8c 6c]
+Seat 1: Nikeim (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: krakow20 folded before Flop (didn't bet)
+Seat 4: denis_farr collected ($0.10)
+Seat 5: karamel653 (button) folded before Flop (didn't bet)
+Seat 6: Montikot8 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240732758391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:42:57 ET
+Table 'Salonta II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2.01 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: krakow20 ($2.09 in chips) 
+Seat 4: denis_farr ($1.96 in chips) 
+Seat 5: karamel653 ($1.30 in chips) 
+Seat 6: Montikot8 ($0.77 in chips) 
+Nikeim: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4d]
+krakow20: folds 
+denis_farr: folds 
+karamel653: folds 
+Montikot8: raises $0.04 to $0.06
+Nikeim: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Montikot8
+Montikot8 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: krakow20 folded before Flop (didn't bet)
+Seat 4: denis_farr folded before Flop (didn't bet)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Montikot8 (button) collected ($0.05)
+
+
+
+PokerStars Hand #240732764783:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:43:12 ET
+Table 'Salonta II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: krakow20 ($2.09 in chips) 
+Seat 4: denis_farr ($1.96 in chips) 
+Seat 5: karamel653 ($1.30 in chips) 
+Seat 6: Montikot8 ($0.80 in chips) 
+Lorpugo: posts small blind $0.01
+krakow20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s As]
+denis_farr: folds 
+karamel653: raises $0.02 to $0.04
+Montikot8: folds 
+Nikeim: folds 
+Lorpugo: raises $0.10 to $0.14
+krakow20: folds 
+karamel653: calls $0.10
+*** FLOP *** [2s Jd Qh]
+Lorpugo: checks 
+karamel653: bets $0.29
+Lorpugo: folds 
+Uncalled bet ($0.29) returned to karamel653
+karamel653 collected $0.29 from pot
+karamel653: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2s Jd Qh]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: krakow20 (big blind) folded before Flop
+Seat 4: denis_farr folded before Flop (didn't bet)
+Seat 5: karamel653 collected ($0.29)
+Seat 6: Montikot8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732782584:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:43:51 ET
+Table 'Salonta II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: krakow20 ($2.07 in chips) 
+Seat 4: denis_farr ($1.96 in chips) 
+Seat 5: karamel653 ($1.45 in chips) 
+Seat 6: Montikot8 ($0.80 in chips) 
+krakow20: posts small blind $0.01
+denis_farr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9s]
+karamel653: folds 
+Montikot8: raises $0.02 to $0.04
+Nikeim: folds 
+Lorpugo: folds 
+krakow20: folds 
+denis_farr: calls $0.02
+*** FLOP *** [Ks Td Jh]
+denis_farr: bets $0.04
+Montikot8: raises $0.06 to $0.10
+denis_farr: raises $0.20 to $0.30
+Montikot8: calls $0.20
+*** TURN *** [Ks Td Jh] [9d]
+denis_farr: bets $0.34
+Montikot8: calls $0.34
+*** RIVER *** [Ks Td Jh 9d] [2h]
+denis_farr: bets $1.28 and is all-in
+Montikot8: calls $0.12 and is all-in
+Uncalled bet ($1.16) returned to denis_farr
+*** SHOW DOWN ***
+denis_farr: shows [Qd 9c] (a straight, Nine to King)
+Montikot8: shows [As Js] (a pair of Jacks)
+denis_farr collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [Ks Td Jh 9d 2h]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: krakow20 (small blind) folded before Flop
+Seat 4: denis_farr (big blind) showed [Qd 9c] and won ($1.55) with a straight, Nine to King
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Montikot8 showed [As Js] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #240732805417:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:44:43 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: krakow20 ($2.06 in chips) 
+Seat 4: denis_farr ($2.71 in chips) 
+Seat 5: karamel653 ($1.45 in chips) 
+denis_farr: posts small blind $0.01
+karamel653: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8c]
+Nikeim: folds 
+Lorpugo: folds 
+krakow20: calls $0.02
+denis_farr: raises $0.02 to $0.04
+karamel653: folds 
+krakow20: calls $0.02
+*** FLOP *** [7h 7d 6d]
+denis_farr: checks 
+krakow20: checks 
+*** TURN *** [7h 7d 6d] [2s]
+denis_farr: checks 
+krakow20: checks 
+*** RIVER *** [7h 7d 6d 2s] [4s]
+denis_farr: bets $0.05
+krakow20: folds 
+Uncalled bet ($0.05) returned to denis_farr
+denis_farr collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7h 7d 6d 2s 4s]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: krakow20 (button) folded on the River
+Seat 4: denis_farr (small blind) collected ($0.10)
+Seat 5: karamel653 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240732817279:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:45:09 ET
+Table 'Salonta II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: krakow20 ($2.02 in chips) 
+Seat 4: denis_farr ($2.77 in chips) 
+Seat 5: karamel653 ($1.43 in chips) 
+Seat 6: Montikot8 ($0.80 in chips) 
+karamel653: posts small blind $0.01
+Montikot8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 9s]
+Nikeim: raises $0.04 to $0.06
+Lorpugo: folds 
+krakow20: folds 
+denis_farr: folds 
+karamel653: folds 
+Montikot8: calls $0.04
+*** FLOP *** [2h 5c 2c]
+Montikot8: bets $0.08
+Nikeim: folds 
+Uncalled bet ($0.08) returned to Montikot8
+Montikot8 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2h 5c 2c]
+Seat 1: Nikeim folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: krakow20 folded before Flop (didn't bet)
+Seat 4: denis_farr (button) folded before Flop (didn't bet)
+Seat 5: karamel653 (small blind) folded before Flop
+Seat 6: Montikot8 (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #240732825195:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:45:27 ET
+Table 'Salonta II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: krakow20 ($2.02 in chips) 
+Seat 4: denis_farr ($2.77 in chips) 
+Seat 5: karamel653 ($1.42 in chips) 
+Seat 6: Montikot8 ($0.87 in chips) 
+Montikot8: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ks]
+Lorpugo: folds 
+krakow20: folds 
+denis_farr: raises $0.02 to $0.04
+karamel653: folds 
+Montikot8: calls $0.03
+Nikeim: folds 
+*** FLOP *** [8c 9s 2d]
+Montikot8: bets $0.16
+denis_farr: raises $0.34 to $0.50
+Montikot8: folds 
+Uncalled bet ($0.34) returned to denis_farr
+denis_farr collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [8c 9s 2d]
+Seat 1: Nikeim (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: krakow20 folded before Flop (didn't bet)
+Seat 4: denis_farr collected ($0.41)
+Seat 5: karamel653 (button) folded before Flop (didn't bet)
+Seat 6: Montikot8 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240732837343:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:45:54 ET
+Table 'Salonta II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: krakow20 ($2.02 in chips) 
+Seat 4: denis_farr ($2.98 in chips) 
+Seat 5: karamel653 ($1.42 in chips) 
+Seat 6: Montikot8 ($0.67 in chips) 
+Nikeim: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 6h]
+krakow20: folds 
+denis_farr: raises $0.02 to $0.04
+krakow20 leaves the table
+Girouper602 joins the table at seat #3 
+karamel653: folds 
+Montikot8: folds 
+Nikeim: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [Td Qc 3s]
+Lorpugo: checks 
+denis_farr: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to denis_farr
+denis_farr collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Td Qc 3s]
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: krakow20 folded before Flop (didn't bet)
+Seat 4: denis_farr collected ($0.09)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Montikot8 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732852641:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:46:29 ET
+Table 'Salonta II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.40 in chips) 
+Seat 3: Girouper602 ($1.60 in chips) 
+Seat 4: denis_farr ($3.03 in chips) 
+Seat 5: karamel653 ($1.42 in chips) 
+Seat 6: Montikot8 ($0.67 in chips) 
+Lorpugo: posts small blind $0.01
+Girouper602: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6d]
+denis_farr: raises $0.02 to $0.04
+karamel653: folds 
+Montikot8: folds 
+Nikeim: folds 
+Lorpugo: folds 
+Girouper602: calls $0.02
+*** FLOP *** [5c 7d 2d]
+Girouper602: bets $0.02
+denis_farr: calls $0.02
+*** TURN *** [5c 7d 2d] [5s]
+Girouper602: bets $0.02
+denis_farr: calls $0.02
+*** RIVER *** [5c 7d 2d 5s] [3h]
+Girouper602: bets $0.02
+denis_farr: folds 
+Uncalled bet ($0.02) returned to Girouper602
+Girouper602 collected $0.16 from pot
+Girouper602: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5c 7d 2d 5s 3h]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Girouper602 (big blind) collected ($0.16)
+Seat 4: denis_farr folded on the River
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Montikot8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732866794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:47:00 ET
+Table 'Salonta II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.39 in chips) 
+Seat 3: Girouper602 ($1.68 in chips) 
+Seat 4: denis_farr ($2.95 in chips) 
+Seat 5: karamel653 ($1.42 in chips) 
+Seat 6: Montikot8 ($0.67 in chips) 
+Girouper602: posts small blind $0.01
+denis_farr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4s]
+karamel653: folds 
+Montikot8: folds 
+Nikeim: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Girouper602: folds 
+denis_farr: calls $0.04
+*** FLOP *** [9s Kc 7s]
+denis_farr: checks 
+Nikeim: checks 
+Lorpugo: checks 
+*** TURN *** [9s Kc 7s] [7d]
+denis_farr: bets $0.06
+Nikeim: folds 
+Lorpugo: calls $0.06
+*** RIVER *** [9s Kc 7s 7d] [Th]
+denis_farr: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to denis_farr
+denis_farr collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9s Kc 7s 7d Th]
+Seat 1: Nikeim folded on the Turn
+Seat 2: Lorpugo (button) folded on the River
+Seat 3: Girouper602 (small blind) folded before Flop
+Seat 4: denis_farr (big blind) collected ($0.30)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Montikot8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732891611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:47:56 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.27 in chips) 
+Seat 3: Girouper602 ($1.67 in chips) 
+Seat 4: denis_farr ($3.13 in chips) 
+Seat 5: karamel653 ($1.42 in chips) 
+Seat 6: Montikot8 ($0.67 in chips) 
+denis_farr: posts small blind $0.01
+karamel653: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Tc]
+Montikot8: raises $0.04 to $0.06
+Nikeim: folds 
+Lorpugo: calls $0.06
+Girouper602: folds 
+denis_farr: calls $0.05
+karamel653: calls $0.04
+*** FLOP *** [2d Qs Jh]
+denis_farr: checks 
+karamel653: checks 
+Montikot8: bets $0.12
+Lorpugo: calls $0.12
+denis_farr: folds 
+karamel653: folds 
+*** TURN *** [2d Qs Jh] [8c]
+Montikot8: bets $0.49 and is all-in
+Lorpugo: calls $0.49
+*** RIVER *** [2d Qs Jh 8c] [Ac]
+*** SHOW DOWN ***
+Montikot8: shows [Ks 5s] (high card Ace)
+Lorpugo: shows [9c Tc] (a straight, Eight to Queen)
+Lorpugo collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [2d Qs Jh 8c Ac]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo showed [9c Tc] and won ($1.41) with a straight, Eight to Queen
+Seat 3: Girouper602 (button) folded before Flop (didn't bet)
+Seat 4: denis_farr (small blind) folded on the Flop
+Seat 5: karamel653 (big blind) folded on the Flop
+Seat 6: Montikot8 showed [Ks 5s] and lost with high card Ace
+
+
+
+PokerStars Hand #240732911468:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:48:41 ET
+Table 'Salonta II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($2.01 in chips) 
+Seat 3: Girouper602 ($1.67 in chips) 
+Seat 4: denis_farr ($3.07 in chips) 
+Seat 5: karamel653 ($1.36 in chips) 
+karamel653: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9c]
+Lorpugo: folds 
+Montikot8 leaves the table
+Girouper602: calls $0.02
+denis_farr: raises $0.02 to $0.04
+karamel653: calls $0.03
+Nikeim: calls $0.02
+Girouper602: calls $0.02
+*** FLOP *** [Qs 7d Kc]
+Mondex2124 joins the table at seat #6 
+karamel653: checks 
+Nikeim: checks 
+Girouper602: bets $0.06
+denis_farr: calls $0.06
+karamel653: calls $0.06
+Nikeim: calls $0.06
+*** TURN *** [Qs 7d Kc] [As]
+karamel653: checks 
+Nikeim: checks 
+Girouper602: bets $0.04
+denis_farr: raises $0.16 to $0.20
+karamel653: folds 
+Nikeim: folds 
+Girouper602: calls $0.16
+*** RIVER *** [Qs 7d Kc As] [9h]
+Girouper602: checks 
+denis_farr: bets $0.20
+Girouper602: calls $0.20
+*** SHOW DOWN ***
+denis_farr: shows [Qc Th] (a pair of Queens)
+Girouper602: shows [Kd Tc] (a pair of Kings)
+Girouper602 collected $1.16 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.04 
+Board [Qs 7d Kc As 9h]
+Seat 1: Nikeim (big blind) folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Girouper602 showed [Kd Tc] and won ($1.16) with a pair of Kings
+Seat 4: denis_farr (button) showed [Qc Th] and lost with a pair of Queens
+Seat 5: karamel653 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240732945999:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:49:58 ET
+Table 'Salonta II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($2.01 in chips) 
+Seat 3: Girouper602 ($2.33 in chips) 
+Seat 4: denis_farr ($2.57 in chips) 
+Seat 5: karamel653 ($1.26 in chips) 
+Nikeim: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 8c]
+Girouper602: calls $0.02
+denis_farr: folds 
+denis_farr leaves the table
+karamel653: folds 
+Nikeim: folds 
+Lorpugo: checks 
+*** FLOP *** [9c 5s 7s]
+Shutou7 joins the table at seat #4 
+Lorpugo: checks 
+Girouper602: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [9c 5s 7s] [Js]
+Lorpugo: checks 
+Girouper602: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [9c 5s 7s Js] [Qs]
+Lorpugo: checks 
+Girouper602: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Girouper602
+Girouper602 collected $0.13 from pot
+Girouper602: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9c 5s 7s Js Qs]
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the River
+Seat 3: Girouper602 collected ($0.13)
+Seat 4: denis_farr folded before Flop (didn't bet)
+Seat 5: karamel653 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732968429:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:50:48 ET
+Table 'Salonta II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.95 in chips) 
+Seat 3: Girouper602 ($2.40 in chips) 
+Seat 4: Shutou7 ($2 in chips) 
+Seat 5: karamel653 ($1.26 in chips) 
+Seat 6: Mondex2124 ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Girouper602: posts big blind $0.02
+Shutou7: posts big blind $0.02
+Mondex2124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 4s]
+Shutou7: checks 
+karamel653: folds 
+Mondex2124: raises $0.02 to $0.04
+Nikeim: folds 
+Lorpugo: folds 
+Girouper602: calls $0.02
+Shutou7: calls $0.02
+*** FLOP *** [6d Jh 5d]
+Girouper602: checks 
+Shutou7: bets $0.06
+Mondex2124: calls $0.06
+Girouper602: calls $0.06
+*** TURN *** [6d Jh 5d] [6c]
+Girouper602: checks 
+Shutou7: bets $0.15
+Mondex2124: calls $0.15
+Girouper602: calls $0.15
+*** RIVER *** [6d Jh 5d 6c] [Ks]
+Girouper602: checks 
+Shutou7: bets $0.73
+Mondex2124: folds 
+Girouper602: folds 
+Uncalled bet ($0.73) returned to Shutou7
+Shutou7 collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [6d Jh 5d 6c Ks]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Girouper602 (big blind) folded on the River
+Seat 4: Shutou7 collected ($0.73)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 folded on the River
+
+
+
+PokerStars Hand #240733002234:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:52:04 ET
+Table 'Salonta II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: Girouper602 ($2.15 in chips) 
+Seat 4: Shutou7 ($2.48 in chips) 
+Seat 5: karamel653 ($1.26 in chips) 
+Seat 6: Mondex2124 ($1.35 in chips) 
+Girouper602: posts small blind $0.01
+Shutou7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8s]
+karamel653: calls $0.02
+Mondex2124: raises $0.02 to $0.04
+Nikeim: folds 
+Lorpugo: folds 
+Girouper602: calls $0.03
+Shutou7: calls $0.02
+karamel653: calls $0.02
+*** FLOP *** [Jd Ah 3c]
+Girouper602: checks 
+Shutou7: checks 
+karamel653: checks 
+Mondex2124: bets $0.08
+Girouper602: folds 
+Shutou7: folds 
+karamel653: folds 
+Uncalled bet ($0.08) returned to Mondex2124
+Mondex2124 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jd Ah 3c]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Girouper602 (small blind) folded on the Flop
+Seat 4: Shutou7 (big blind) folded on the Flop
+Seat 5: karamel653 folded on the Flop
+Seat 6: Mondex2124 collected ($0.15)
+
+
+
+PokerStars Hand #240733033499:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:53:13 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: Girouper602 ($2.11 in chips) 
+Seat 4: Shutou7 ($2.44 in chips) 
+Seat 5: karamel653 ($1.22 in chips) 
+Seat 6: Mondex2124 ($1.46 in chips) 
+Shutou7: posts small blind $0.01
+karamel653: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Th]
+Mondex2124: calls $0.02
+Nikeim: folds 
+Lorpugo: folds 
+Girouper602: calls $0.02
+Shutou7: calls $0.01
+karamel653: checks 
+*** FLOP *** [7d Jh 2s]
+Shutou7: checks 
+karamel653: checks 
+Mondex2124: checks 
+Girouper602: checks 
+*** TURN *** [7d Jh 2s] [6d]
+Shutou7: checks 
+karamel653: checks 
+Mondex2124: bets $0.04
+Girouper602: calls $0.04
+Shutou7: folds 
+karamel653: calls $0.04
+*** RIVER *** [7d Jh 2s 6d] [4h]
+karamel653: checks 
+Mondex2124: bets $0.19
+Girouper602: folds 
+karamel653: folds 
+Uncalled bet ($0.19) returned to Mondex2124
+Mondex2124 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7d Jh 2s 6d 4h]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Girouper602 (button) folded on the River
+Seat 4: Shutou7 (small blind) folded on the Turn
+Seat 5: karamel653 (big blind) folded on the River
+Seat 6: Mondex2124 collected ($0.19)
+
+
+
+PokerStars Hand #240733059977:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:54:13 ET
+Table 'Salonta II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: Girouper602 ($2.05 in chips) 
+Seat 4: Shutou7 ($2.42 in chips) 
+Seat 5: karamel653 ($1.16 in chips) 
+Seat 6: Mondex2124 ($1.59 in chips) 
+karamel653: posts small blind $0.01
+Mondex2124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kh]
+Nikeim: folds 
+Lorpugo: folds 
+Girouper602: calls $0.02
+Shutou7: folds 
+karamel653: calls $0.01
+Mondex2124: checks 
+*** FLOP *** [6d Ts 4d]
+karamel653: checks 
+Mondex2124: checks 
+Girouper602: checks 
+*** TURN *** [6d Ts 4d] [Ac]
+karamel653: checks 
+Mondex2124: checks 
+Girouper602: checks 
+*** RIVER *** [6d Ts 4d Ac] [Ks]
+karamel653: checks 
+Mondex2124: bets $0.02
+Girouper602: folds 
+karamel653: folds 
+Uncalled bet ($0.02) returned to Mondex2124
+Mondex2124 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6d Ts 4d Ac Ks]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Girouper602 folded on the River
+Seat 4: Shutou7 (button) folded before Flop (didn't bet)
+Seat 5: karamel653 (small blind) folded on the River
+Seat 6: Mondex2124 (big blind) collected ($0.06)
+
+
+
+PokerStars Hand #240733079268:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:54:56 ET
+Table 'Salonta II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: Girouper602 ($2.03 in chips) 
+Seat 4: Shutou7 ($2.42 in chips) 
+Seat 5: karamel653 ($1.14 in chips) 
+Seat 6: Mondex2124 ($1.63 in chips) 
+Mondex2124: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6d]
+Lorpugo: raises $0.04 to $0.06
+Girouper602: folds 
+Girouper602 leaves the table
+Shutou7: folds 
+simonni92 joins the table at seat #3 
+karamel653: folds 
+Mondex2124: folds 
+Nikeim: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: Girouper602 folded before Flop (didn't bet)
+Seat 4: Shutou7 folded before Flop (didn't bet)
+Seat 5: karamel653 (button) folded before Flop (didn't bet)
+Seat 6: Mondex2124 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733087253:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:55:17 ET
+Table 'Salonta II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.97 in chips) 
+Seat 4: Shutou7 ($2.42 in chips) 
+Seat 5: karamel653 ($1.14 in chips) 
+Seat 6: Mondex2124 ($1.62 in chips) 
+Nikeim: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7h]
+Shutou7: folds 
+karamel653: folds 
+Mondex2124: raises $0.04 to $0.06
+Nikeim: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Mondex2124
+Mondex2124 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: Shutou7 folded before Flop (didn't bet)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 (button) collected ($0.05)
+
+
+
+PokerStars Hand #240733093817:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:55:39 ET
+Table 'Salonta II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.95 in chips) 
+Seat 3: simonni92 ($2 in chips) 
+Seat 4: Shutou7 ($2.42 in chips) 
+Seat 5: karamel653 ($1.14 in chips) 
+Seat 6: Mondex2124 ($1.65 in chips) 
+Lorpugo: posts small blind $0.01
+simonni92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 2s]
+Shutou7: raises $0.04 to $0.06
+karamel653: folds 
+Mondex2124: raises $0.04 to $0.10
+Nikeim: folds 
+Lorpugo: folds 
+simonni92: calls $0.08
+Shutou7: calls $0.04
+*** FLOP *** [Kc 2d 9s]
+simonni92: checks 
+Shutou7: bets $0.10
+Mondex2124: folds 
+simonni92: calls $0.10
+*** TURN *** [Kc 2d 9s] [8c]
+simonni92: checks 
+Shutou7: bets $0.10
+simonni92: calls $0.10
+*** RIVER *** [Kc 2d 9s 8c] [7s]
+simonni92: bets $0.69
+Shutou7: folds 
+Uncalled bet ($0.69) returned to simonni92
+simonni92 collected $0.69 from pot
+simonni92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Kc 2d 9s 8c 7s]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: simonni92 (big blind) collected ($0.69)
+Seat 4: Shutou7 folded on the River
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 folded on the Flop
+
+
+
+PokerStars Hand #240733116834:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:56:52 ET
+Table 'Salonta II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: simonni92 ($2.39 in chips) 
+Seat 4: Shutou7 ($2.12 in chips) 
+Seat 5: karamel653 ($1.14 in chips) 
+Seat 6: Mondex2124 ($1.55 in chips) 
+simonni92: posts small blind $0.01
+Shutou7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 2d]
+karamel653: calls $0.02
+Mondex2124: folds 
+Nikeim: folds 
+Lorpugo: folds 
+simonni92: calls $0.01
+Shutou7: checks 
+*** FLOP *** [As 7h 8c]
+simonni92: checks 
+Shutou7: checks 
+karamel653: checks 
+*** TURN *** [As 7h 8c] [4s]
+simonni92: checks 
+Shutou7: checks 
+karamel653: checks 
+*** RIVER *** [As 7h 8c 4s] [5c]
+simonni92: checks 
+Shutou7: checks 
+karamel653: checks 
+*** SHOW DOWN ***
+simonni92: shows [Th 9s] (high card Ace)
+Shutou7: shows [2c 5d] (a pair of Fives)
+karamel653: mucks hand 
+Shutou7 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [As 7h 8c 4s 5c]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: simonni92 (small blind) showed [Th 9s] and lost with high card Ace
+Seat 4: Shutou7 (big blind) showed [2c 5d] and won ($0.06) with a pair of Fives
+Seat 5: karamel653 mucked [3c 3s]
+Seat 6: Mondex2124 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733127631:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:57:26 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: simonni92 ($2.37 in chips) 
+Seat 4: Shutou7 ($2.16 in chips) 
+Seat 5: karamel653 ($1.12 in chips) 
+Seat 6: Mondex2124 ($1.55 in chips) 
+Shutou7: posts small blind $0.01
+karamel653: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Kc]
+Mondex2124: raises $0.04 to $0.06
+Nikeim: folds 
+Lorpugo: folds 
+simonni92: folds 
+Shutou7: folds 
+karamel653: folds 
+Uncalled bet ($0.04) returned to Mondex2124
+Mondex2124 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: simonni92 (button) folded before Flop (didn't bet)
+Seat 4: Shutou7 (small blind) folded before Flop
+Seat 5: karamel653 (big blind) folded before Flop
+Seat 6: Mondex2124 collected ($0.05)
+
+
+
+PokerStars Hand #240733132898:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:57:42 ET
+Table 'Salonta II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: simonni92 ($2.37 in chips) 
+Seat 4: Shutou7 ($2.15 in chips) 
+Seat 5: karamel653 ($1.10 in chips) 
+Seat 6: Mondex2124 ($1.58 in chips) 
+karamel653: posts small blind $0.01
+Mondex2124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3h]
+Nikeim: folds 
+Lorpugo: folds 
+simonni92: folds 
+Shutou7: raises $0.04 to $0.06
+karamel653: raises $0.24 to $0.30
+Mondex2124: folds 
+Shutou7: raises $1.85 to $2.15 and is all-in
+karamel653: calls $0.80 and is all-in
+Uncalled bet ($1.05) returned to Shutou7
+karamel653 has timed out
+*** FLOP *** [8c Ah Qs]
+*** TURN *** [8c Ah Qs] [2h]
+*** RIVER *** [8c Ah Qs 2h] [8d]
+*** SHOW DOWN ***
+karamel653: shows [Ac Ad] (a full house, Aces full of Eights)
+Shutou7: shows [2s Tc] (two pair, Eights and Deuces)
+karamel653 collected $2.14 from pot
+*** SUMMARY ***
+Total pot $2.22 | Rake $0.08 
+Board [8c Ah Qs 2h 8d]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: simonni92 folded before Flop (didn't bet)
+Seat 4: Shutou7 (button) showed [2s Tc] and lost with two pair, Eights and Deuces
+Seat 5: karamel653 (small blind) showed [Ac Ad] and won ($2.14) with a full house, Aces full of Eights
+Seat 6: Mondex2124 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240733148044:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:58:31 ET
+Table 'Salonta II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: simonni92 ($2.37 in chips) 
+Seat 4: Shutou7 ($1.05 in chips) 
+Seat 5: karamel653 ($2.14 in chips) 
+Seat 6: Mondex2124 ($1.56 in chips) 
+Mondex2124: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qh]
+Lorpugo: folds 
+simonni92: folds 
+Shutou7: folds 
+karamel653: folds 
+Mondex2124: folds 
+Uncalled bet ($0.01) returned to Nikeim
+Nikeim collected $0.02 from pot
+Nikeim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikeim (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: simonni92 folded before Flop (didn't bet)
+Seat 4: Shutou7 folded before Flop (didn't bet)
+Seat 5: karamel653 (button) folded before Flop (didn't bet)
+Seat 6: Mondex2124 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733153902:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:58:49 ET
+Table 'Salonta II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2.01 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: simonni92 ($2.37 in chips) 
+Seat 4: Shutou7 ($1.05 in chips) 
+Seat 5: karamel653 ($2.14 in chips) 
+Seat 6: Mondex2124 ($1.55 in chips) 
+Nikeim: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 3s]
+simonni92: calls $0.02
+Shutou7: raises $0.06 to $0.08
+karamel653: folds 
+Mondex2124: folds 
+Nikeim: folds 
+Lorpugo: folds 
+simonni92: folds 
+Uncalled bet ($0.06) returned to Shutou7
+Shutou7 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: simonni92 folded before Flop
+Seat 4: Shutou7 collected ($0.07)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733161598:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:59:13 ET
+Table 'Salonta II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.92 in chips) 
+Seat 3: simonni92 ($2.35 in chips) 
+Seat 4: Shutou7 ($1.10 in chips) 
+Seat 5: karamel653 ($2.14 in chips) 
+Seat 6: Mondex2124 ($1.55 in chips) 
+Lorpugo: posts small blind $0.01
+simonni92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Kc]
+Shutou7: folds 
+karamel653: raises $0.02 to $0.04
+Mondex2124: folds 
+Nikeim: folds 
+Lorpugo: folds 
+simonni92: calls $0.02
+*** FLOP *** [Js 2h Tc]
+simonni92: bets $0.09
+karamel653: folds 
+Uncalled bet ($0.09) returned to simonni92
+simonni92 collected $0.09 from pot
+simonni92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Js 2h Tc]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: simonni92 (big blind) collected ($0.09)
+Seat 4: Shutou7 folded before Flop (didn't bet)
+Seat 5: karamel653 folded on the Flop
+Seat 6: Mondex2124 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733168464:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:59:36 ET
+Table 'Salonta II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: simonni92 ($2.40 in chips) 
+Seat 4: Shutou7 ($1.10 in chips) 
+Seat 5: karamel653 ($2.10 in chips) 
+Seat 6: Mondex2124 ($1.55 in chips) 
+simonni92: posts small blind $0.01
+Shutou7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qd]
+karamel653: folds 
+Mondex2124: folds 
+Nikeim: raises $0.04 to $0.06
+Lorpugo: folds 
+simonni92: folds 
+Shutou7: calls $0.04
+*** FLOP *** [Qh 3d 4s]
+Shutou7: checks 
+Nikeim: bets $0.09
+Shutou7: raises $0.09 to $0.18
+Nikeim: calls $0.09
+*** TURN *** [Qh 3d 4s] [Kc]
+Shutou7: bets $0.47
+Nikeim: folds 
+Uncalled bet ($0.47) returned to Shutou7
+Shutou7 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Qh 3d 4s Kc]
+Seat 1: Nikeim folded on the Turn
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: simonni92 (small blind) folded before Flop
+Seat 4: Shutou7 (big blind) collected ($0.47)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733179119:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:00:09 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: simonni92 ($2.39 in chips) 
+Seat 4: Shutou7 ($1.33 in chips) 
+Seat 5: karamel653 ($2.10 in chips) 
+Seat 6: Mondex2124 ($1.55 in chips) 
+Shutou7: posts small blind $0.01
+karamel653: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Td]
+Mondex2124: folds 
+Nikeim: folds 
+Lorpugo: folds 
+simonni92: raises $0.02 to $0.04
+Shutou7: calls $0.03
+karamel653: calls $0.02
+*** FLOP *** [4d Qd Jd]
+Shutou7: checks 
+karamel653: checks 
+simonni92: bets $0.06
+Shutou7: folds 
+karamel653: folds 
+Uncalled bet ($0.06) returned to simonni92
+simonni92 collected $0.12 from pot
+simonni92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4d Qd Jd]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: simonni92 (button) collected ($0.12)
+Seat 4: Shutou7 (small blind) folded on the Flop
+Seat 5: karamel653 (big blind) folded on the Flop
+Seat 6: Mondex2124 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733187788:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:00:34 ET
+Table 'Salonta II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: simonni92 ($2.47 in chips) 
+Seat 4: Shutou7 ($1.29 in chips) 
+Seat 5: karamel653 ($2.06 in chips) 
+Seat 6: Mondex2124 ($1.55 in chips) 
+karamel653: posts small blind $0.01
+Mondex2124: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 3h]
+Nikeim: folds 
+Lorpugo: raises $0.04 to $0.06
+simonni92: folds 
+Shutou7: calls $0.06
+karamel653: folds 
+Mondex2124: folds 
+*** FLOP *** [2s 8c Th]
+Lorpugo: bets $0.05
+Shutou7: calls $0.05
+*** TURN *** [2s 8c Th] [Qc]
+Lorpugo: checks 
+Shutou7: bets $0.12
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to Shutou7
+Shutou7 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s 8c Th Qc]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo folded on the Turn
+Seat 3: simonni92 folded before Flop (didn't bet)
+Seat 4: Shutou7 (button) collected ($0.24)
+Seat 5: karamel653 (small blind) folded before Flop
+Seat 6: Mondex2124 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240733197942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:01:03 ET
+Table 'Salonta II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.80 in chips) 
+Seat 3: simonni92 ($2.47 in chips) 
+Seat 4: Shutou7 ($1.42 in chips) 
+Seat 5: karamel653 ($2.05 in chips) 
+Seat 6: Mondex2124 ($1.53 in chips) 
+Mondex2124: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Kh]
+Lorpugo: folds 
+simonni92: calls $0.02
+Shutou7: raises $0.04 to $0.06
+karamel653: calls $0.06
+Mondex2124: folds 
+Nikeim: folds 
+simonni92: folds 
+*** FLOP *** [7h 5h Ah]
+Shutou7: bets $0.06
+karamel653: calls $0.06
+*** TURN *** [7h 5h Ah] [7d]
+Shutou7: bets $0.06
+karamel653: calls $0.06
+*** RIVER *** [7h 5h Ah 7d] [Jh]
+Shutou7: bets $0.10
+karamel653: calls $0.10
+*** SHOW DOWN ***
+Shutou7: shows [Qh 8s] (a flush, Ace high)
+karamel653: mucks hand 
+Shutou7 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [7h 5h Ah 7d Jh]
+Seat 1: Nikeim (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: simonni92 folded before Flop
+Seat 4: Shutou7 showed [Qh 8s] and won ($0.59) with a flush, Ace high
+Seat 5: karamel653 (button) mucked [Ac 6c]
+Seat 6: Mondex2124 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733215913:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:01:50 ET
+Table 'Salonta II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.80 in chips) 
+Seat 3: simonni92 ($2.45 in chips) 
+Seat 4: Shutou7 ($1.73 in chips) 
+Seat 5: karamel653 ($1.77 in chips) 
+Seat 6: Mondex2124 ($1.52 in chips) 
+Nikeim: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6c]
+simonni92: calls $0.02
+Shutou7: folds 
+karamel653: folds 
+Mondex2124: folds 
+Nikeim: folds 
+Lorpugo: checks 
+*** FLOP *** [7c 7h Qc]
+Lorpugo: bets $0.03
+simonni92: calls $0.03
+*** TURN *** [7c 7h Qc] [3s]
+Lorpugo: bets $0.06
+simonni92: calls $0.06
+*** RIVER *** [7c 7h Qc 3s] [Qs]
+Lorpugo: bets $0.44
+simonni92: folds 
+Uncalled bet ($0.44) returned to Lorpugo
+Lorpugo collected $0.22 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [7c 7h Qc 3s Qs]
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.22)
+Seat 3: simonni92 folded on the River
+Seat 4: Shutou7 folded before Flop (didn't bet)
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733237657:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:02:39 ET
+Table 'Salonta II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: simonni92 ($2.34 in chips) 
+Seat 4: Shutou7 ($1.73 in chips) 
+Seat 5: karamel653 ($1.77 in chips) 
+Seat 6: Mondex2124 ($1.52 in chips) 
+Lorpugo: posts small blind $0.01
+simonni92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Kd]
+Shutou7: raises $0.06 to $0.08
+karamel653: folds 
+Mondex2124: folds 
+Nikeim: calls $0.08
+Lorpugo: calls $0.07
+simonni92: raises $0.14 to $0.22
+Shutou7: folds 
+Nikeim: folds 
+Lorpugo: calls $0.14
+*** FLOP *** [8c 7d 4s]
+Lorpugo: checks 
+simonni92: bets $0.29
+Lorpugo: folds 
+Uncalled bet ($0.29) returned to simonni92
+simonni92 collected $0.58 from pot
+simonni92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [8c 7d 4s]
+Seat 1: Nikeim (button) folded before Flop
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: simonni92 (big blind) collected ($0.58)
+Seat 4: Shutou7 folded before Flop
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733257583:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:03:24 ET
+Table 'Salonta II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: Lorpugo ($1.69 in chips) 
+Seat 3: simonni92 ($2.70 in chips) 
+Seat 4: Shutou7 ($1.65 in chips) 
+Seat 5: karamel653 ($1.77 in chips) 
+Seat 6: Mondex2124 ($1.52 in chips) 
+simonni92: posts small blind $0.01
+Shutou7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Kh]
+karamel653: folds 
+Mondex2124: folds 
+Nikeim: raises $0.04 to $0.06
+Lorpugo: folds 
+simonni92: folds 
+Shutou7: folds 
+Uncalled bet ($0.04) returned to Nikeim
+Nikeim collected $0.05 from pot
+Nikeim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: simonni92 (small blind) folded before Flop
+Seat 4: Shutou7 (big blind) folded before Flop
+Seat 5: karamel653 folded before Flop (didn't bet)
+Seat 6: Mondex2124 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733268369:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:03:48 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2.03 in chips) 
+Seat 2: Lorpugo ($1.69 in chips) 
+Seat 3: simonni92 ($2.69 in chips) 
+Seat 4: Shutou7 ($1.63 in chips) 
+Seat 5: karamel653 ($1.77 in chips) 
+Seat 6: Mondex2124 ($1.52 in chips) 
+Shutou7: posts small blind $0.01
+karamel653: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ad]
+Mondex2124: folds 
+Nikeim: folds 
+Lorpugo: raises $0.05 to $0.07
+simonni92: raises $0.17 to $0.24
+Shutou7: raises $1.39 to $1.63 and is all-in
+karamel653: folds 
+Lorpugo: raises $0.06 to $1.69 and is all-in
+simonni92: calls $1.45
+*** FLOP *** [Qc Qs Js]
+*** TURN *** [Qc Qs Js] [Qd]
+*** RIVER *** [Qc Qs Js Qd] [3d]
+*** SHOW DOWN ***
+Lorpugo: shows [Kh Ad] (three of a kind, Queens)
+simonni92: shows [Kd Ks] (a full house, Queens full of Kings)
+simonni92 collected $0.11 from side pot
+Shutou7: shows [As Td] (three of a kind, Queens)
+simonni92 collected $4.74 from main pot
+*** SUMMARY ***
+Total pot $5.03 Main pot $4.74. Side pot $0.11. | Rake $0.18 
+Board [Qc Qs Js Qd 3d]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: Lorpugo showed [Kh Ad] and lost with three of a kind, Queens
+Seat 3: simonni92 (button) showed [Kd Ks] and won ($4.85) with a full house, Queens full of Kings
+Seat 4: Shutou7 (small blind) showed [As Td] and lost with three of a kind, Queens
+Seat 5: karamel653 (big blind) folded before Flop
+Seat 6: Mondex2124 folded before Flop (didn't bet)
+
+
+

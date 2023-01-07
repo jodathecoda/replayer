@@ -1,0 +1,1783 @@
+﻿PokerStars Hand #240916801805:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:08:54 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 2: Tony the gas ($1.59 in chips) 
+Seat 3: PipeMate12 ($1.81 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: h3bs1 ($1.37 in chips) 
+Guslalala: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 9h]
+h3bs1: calls $0.02
+Tony the gas: calls $0.02
+PipeMate12: calls $0.02
+Guslalala: folds 
+Lorpugo: checks 
+*** FLOP *** [Qd 2d Qh]
+Lorpugo: bets $0.04
+h3bs1: folds 
+Tony the gas: folds 
+PipeMate12: calls $0.04
+*** TURN *** [Qd 2d Qh] [Td]
+Lorpugo: bets $0.16
+PipeMate12: raises $0.16 to $0.32
+Lorpugo: calls $0.16
+*** RIVER *** [Qd 2d Qh Td] [7c]
+Lorpugo: checks 
+PipeMate12: bets $0.42
+Lorpugo: calls $0.42
+*** SHOW DOWN ***
+PipeMate12: shows [8s 8h] (two pair, Queens and Eights)
+Lorpugo: shows [Qs 9h] (three of a kind, Queens)
+Lorpugo collected $1.59 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.06 
+Board [Qd 2d Qh Td 7c]
+Seat 2: Tony the gas folded on the Flop
+Seat 3: PipeMate12 (button) showed [8s 8h] and lost with two pair, Queens and Eights
+Seat 4: Guslalala (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [Qs 9h] and won ($1.59) with three of a kind, Queens
+Seat 6: h3bs1 folded on the Flop
+
+
+
+PokerStars Hand #240916830351:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:10:06 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($1.57 in chips) 
+Seat 3: PipeMate12 ($1.01 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.39 in chips) 
+Seat 6: h3bs1 ($1.35 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qh]
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+PipeMate12: folds 
+Guslalala: folds 
+Lorpugo: calls $0.01
+h3bs1: checks 
+*** FLOP *** [As 3h 9h]
+Lorpugo: bets $0.06
+h3bs1: folds 
+Tony the gas: calls $0.06
+*** TURN *** [As 3h 9h] [7h]
+Lorpugo: bets $0.11
+Tony the gas: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [As 3h 9h 7h]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas folded on the Turn
+Seat 3: PipeMate12 folded before Flop (didn't bet)
+Seat 4: Guslalala (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($0.17)
+Seat 6: h3bs1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240916854178:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:11:06 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($1.49 in chips) 
+Seat 3: PipeMate12 ($1.01 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.48 in chips) 
+Seat 6: h3bs1 ($1.33 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7c]
+Tony the gas: calls $0.02
+PipeMate12: calls $0.02
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.01
+BJRGOMEZ: checks 
+*** FLOP *** [5c 2s 6c]
+h3bs1: checks 
+BJRGOMEZ: checks 
+Tony the gas: checks 
+PipeMate12: checks 
+*** TURN *** [5c 2s 6c] [Ac]
+h3bs1: bets $0.04
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: calls $0.04
+*** RIVER *** [5c 2s 6c Ac] [Jh]
+h3bs1: checks 
+PipeMate12: bets $0.28
+h3bs1: folds 
+Uncalled bet ($0.28) returned to PipeMate12
+PipeMate12 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [5c 2s 6c Ac Jh]
+Seat 1: BJRGOMEZ (big blind) folded on the Turn
+Seat 2: Tony the gas folded on the Turn
+Seat 3: PipeMate12 collected ($0.15)
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: h3bs1 (small blind) folded on the River
+
+
+
+PokerStars Hand #240916884446:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:12:23 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($1.47 in chips) 
+Seat 3: PipeMate12 ($1.10 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.48 in chips) 
+Seat 6: h3bs1 ($1.27 in chips) 
+BJRGOMEZ: posts small blind $0.01
+Tony the gas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 3d]
+PipeMate12: calls $0.02
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.02
+BJRGOMEZ: raises $0.06 to $0.08
+Tony the gas: calls $0.06
+PipeMate12: folds 
+h3bs1: calls $0.06
+*** FLOP *** [As 6d 7s]
+BJRGOMEZ: bets $0.08
+Tony the gas: folds 
+h3bs1: folds 
+Uncalled bet ($0.08) returned to BJRGOMEZ
+BJRGOMEZ collected $0.25 from pot
+BJRGOMEZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [As 6d 7s]
+Seat 1: BJRGOMEZ (small blind) collected ($0.25)
+Seat 2: Tony the gas (big blind) folded on the Flop
+Seat 3: PipeMate12 folded before Flop
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 (button) folded on the Flop
+
+
+
+PokerStars Hand #240916906407:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:13:20 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: BJRGOMEZ ($2.17 in chips) 
+Seat 2: Tony the gas ($1.39 in chips) 
+Seat 3: PipeMate12 ($1.08 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.48 in chips) 
+Seat 6: h3bs1 ($1.19 in chips) 
+Tony the gas: posts small blind $0.01
+PipeMate12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Kc]
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: calls $0.01
+PipeMate12: checks 
+*** FLOP *** [7d 7s Ad]
+Tony the gas: checks 
+PipeMate12: checks 
+h3bs1: checks 
+*** TURN *** [7d 7s Ad] [Qh]
+Tony the gas: checks 
+PipeMate12: bets $0.02
+h3bs1: calls $0.02
+Tony the gas: folds 
+*** RIVER *** [7d 7s Ad Qh] [4c]
+PipeMate12: bets $0.30
+h3bs1: calls $0.30
+*** SHOW DOWN ***
+PipeMate12: shows [Qc 8d] (two pair, Queens and Sevens)
+h3bs1: shows [Ah Td] (two pair, Aces and Sevens)
+h3bs1 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [7d 7s Ad Qh 4c]
+Seat 1: BJRGOMEZ (button) folded before Flop (didn't bet)
+Seat 2: Tony the gas (small blind) folded on the Turn
+Seat 3: PipeMate12 (big blind) showed [Qc 8d] and lost with two pair, Queens and Sevens
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 showed [Ah Td] and won ($0.68) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #240916930701:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:14:22 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: BJRGOMEZ ($2.17 in chips) 
+Seat 2: Tony the gas ($1.37 in chips) 
+Seat 3: PipeMate12 ($0.74 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.48 in chips) 
+Seat 6: h3bs1 ($1.53 in chips) 
+PipeMate12: posts small blind $0.01
+Guslalala: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 3h]
+Lorpugo: raises $0.02 to $0.04
+h3bs1: calls $0.04
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: calls $0.03
+Guslalala: folds 
+*** FLOP *** [8d 4c 2s]
+PipeMate12: bets $0.06
+Lorpugo: calls $0.06
+h3bs1: calls $0.06
+*** TURN *** [8d 4c 2s] [Kh]
+PipeMate12: checks 
+Lorpugo: bets $0.16
+h3bs1: folds 
+PipeMate12: calls $0.16
+*** RIVER *** [8d 4c 2s Kh] [4s]
+PipeMate12: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+PipeMate12: shows [8c 2c] (two pair, Eights and Fours)
+Lorpugo: mucks hand 
+PipeMate12 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [8d 4c 2s Kh 4s]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas (button) folded before Flop (didn't bet)
+Seat 3: PipeMate12 (small blind) showed [8c 2c] and won ($0.62) with two pair, Eights and Fours
+Seat 4: Guslalala (big blind) folded before Flop
+Seat 5: Lorpugo mucked [As 3h]
+Seat 6: h3bs1 folded on the Turn
+
+
+
+PokerStars Hand #240916960328:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:15:39 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: BJRGOMEZ ($2.17 in chips) 
+Seat 2: Tony the gas ($1.37 in chips) 
+Seat 3: PipeMate12 ($1.10 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.22 in chips) 
+Seat 6: h3bs1 ($1.43 in chips) 
+Guslalala: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3d]
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+PipeMate12: folds 
+Guslalala: folds 
+Lorpugo: checks 
+*** FLOP *** [6d 5d 2d]
+Lorpugo: checks 
+h3bs1: bets $0.04
+Tony the gas: folds 
+Lorpugo: raises $0.05 to $0.09
+h3bs1: calls $0.05
+*** TURN *** [6d 5d 2d] [3s]
+Lorpugo: bets $0.02
+h3bs1: calls $0.02
+*** RIVER *** [6d 5d 2d 3s] [7s]
+Lorpugo: bets $0.56
+h3bs1: folds 
+Uncalled bet ($0.56) returned to Lorpugo
+Lorpugo collected $0.28 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [6d 5d 2d 3s 7s]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas folded on the Flop
+Seat 3: PipeMate12 (button) folded before Flop (didn't bet)
+Seat 4: Guslalala (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.28)
+Seat 6: h3bs1 folded on the River
+
+
+
+PokerStars Hand #240916991335:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:16:59 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: BJRGOMEZ ($2.17 in chips) 
+Seat 2: Tony the gas ($1.35 in chips) 
+Seat 3: PipeMate12 ($1.10 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.37 in chips) 
+Seat 6: h3bs1 ($1.30 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qd]
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: folds 
+Guslalala: folds 
+Lorpugo: raises $0.03 to $0.05
+h3bs1: calls $0.03
+*** FLOP *** [6c Jc 7s]
+Lorpugo: checks 
+h3bs1: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to h3bs1
+h3bs1 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6c Jc 7s]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas folded before Flop (didn't bet)
+Seat 3: PipeMate12 folded before Flop (didn't bet)
+Seat 4: Guslalala (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the Flop
+Seat 6: h3bs1 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #240917006943:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:17:40 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2.17 in chips) 
+Seat 2: Tony the gas ($1.35 in chips) 
+Seat 3: PipeMate12 ($1.10 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.32 in chips) 
+Seat 6: h3bs1 ($1.35 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qd]
+Tony the gas: calls $0.02
+PipeMate12: folds 
+Guslalala: raises $0.08 to $0.10
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: folds 
+Uncalled bet ($0.08) returned to Guslalala
+Guslalala collected $0.07 from pot
+Guslalala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: BJRGOMEZ (big blind) folded before Flop
+Seat 2: Tony the gas folded before Flop
+Seat 3: PipeMate12 folded before Flop (didn't bet)
+Seat 4: Guslalala collected ($0.07)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: h3bs1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240917015080:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:18:01 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: BJRGOMEZ ($2.15 in chips) 
+Seat 2: Tony the gas ($1.33 in chips) 
+Seat 3: PipeMate12 ($1.10 in chips) 
+Seat 4: Guslalala ($2.05 in chips) 
+Seat 5: Lorpugo ($2.32 in chips) 
+Seat 6: h3bs1 ($1.34 in chips) 
+BJRGOMEZ: posts small blind $0.01
+Tony the gas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 2d]
+PipeMate12: calls $0.02
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: checks 
+*** FLOP *** [Jd Kd 9s]
+Tony the gas: checks 
+PipeMate12: checks 
+h3bs1: checks 
+*** TURN *** [Jd Kd 9s] [9c]
+Tony the gas: checks 
+PipeMate12: checks 
+h3bs1: bets $0.04
+Tony the gas: calls $0.04
+PipeMate12: folds 
+*** RIVER *** [Jd Kd 9s 9c] [Qd]
+Tony the gas: bets $0.10
+h3bs1: folds 
+Uncalled bet ($0.10) returned to Tony the gas
+Tony the gas collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jd Kd 9s 9c Qd]
+Seat 1: BJRGOMEZ (small blind) folded before Flop
+Seat 2: Tony the gas (big blind) collected ($0.14)
+Seat 3: PipeMate12 folded on the Turn
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 (button) folded on the River
+
+
+
+PokerStars Hand #240917038906:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:19:04 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: BJRGOMEZ ($2.14 in chips) 
+Seat 2: Tony the gas ($1.41 in chips) 
+Seat 3: PipeMate12 ($1.08 in chips) 
+Seat 4: Guslalala ($2.05 in chips) 
+Seat 5: Lorpugo ($2.32 in chips) 
+Seat 6: h3bs1 ($1.28 in chips) 
+Tony the gas: posts small blind $0.01
+PipeMate12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 9c]
+Guslalala: folds 
+Lorpugo: raises $0.02 to $0.04
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: calls $0.02
+*** FLOP *** [Ah 3h 6s]
+PipeMate12: checks 
+Lorpugo: checks 
+*** TURN *** [Ah 3h 6s] [8c]
+PipeMate12: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to PipeMate12
+PipeMate12 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ah 3h 6s 8c]
+Seat 1: BJRGOMEZ (button) folded before Flop (didn't bet)
+Seat 2: Tony the gas (small blind) folded before Flop
+Seat 3: PipeMate12 (big blind) collected ($0.09)
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Turn
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917049498:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:19:31 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: BJRGOMEZ ($2.14 in chips) 
+Seat 2: Tony the gas ($1.40 in chips) 
+Seat 3: PipeMate12 ($1.13 in chips) 
+Seat 4: Guslalala ($2.05 in chips) 
+Seat 5: Lorpugo ($2.28 in chips) 
+Seat 6: h3bs1 ($1.28 in chips) 
+PipeMate12: posts small blind $0.01
+Guslalala: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 2h]
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: calls $0.01
+Guslalala: checks 
+*** FLOP *** [7s 6d 5s]
+PipeMate12: checks 
+Guslalala: bets $1.11
+PipeMate12: folds 
+Uncalled bet ($1.11) returned to Guslalala
+Guslalala collected $0.04 from pot
+Guslalala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7s 6d 5s]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas (button) folded before Flop (didn't bet)
+Seat 3: PipeMate12 (small blind) folded on the Flop
+Seat 4: Guslalala (big blind) collected ($0.04)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917065460:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:20:13 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: BJRGOMEZ ($2.14 in chips) 
+Seat 2: Tony the gas ($1.40 in chips) 
+Seat 3: PipeMate12 ($1.11 in chips) 
+Seat 4: Guslalala ($2.07 in chips) 
+Seat 5: Lorpugo ($2.28 in chips) 
+Seat 6: h3bs1 ($1.28 in chips) 
+Guslalala: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8d]
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+PipeMate12: folds 
+Guslalala: folds 
+Lorpugo: checks 
+*** FLOP *** [2s As 4d]
+Lorpugo: checks 
+Tony the gas: checks 
+*** TURN *** [2s As 4d] [7c]
+Lorpugo: checks 
+Tony the gas: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Tony the gas
+Tony the gas collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s As 4d 7c]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas collected ($0.05)
+Seat 3: PipeMate12 (button) folded before Flop (didn't bet)
+Seat 4: Guslalala (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the Turn
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917077036:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:20:43 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: BJRGOMEZ ($2.14 in chips) 
+Seat 2: Tony the gas ($1.43 in chips) 
+Seat 3: PipeMate12 ($1.11 in chips) 
+Seat 4: Guslalala ($2.06 in chips) 
+Seat 5: Lorpugo ($2.26 in chips) 
+Seat 6: h3bs1 ($1.28 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4c]
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+PipeMate12: folds 
+Guslalala: folds 
+Lorpugo: raises $0.12 to $0.14
+h3bs1: calls $0.12
+Tony the gas: folds 
+*** FLOP *** [7d Kh 2c]
+Lorpugo: bets $0.10
+h3bs1: calls $0.10
+*** TURN *** [7d Kh 2c] [Ks]
+Lorpugo: bets $0.16
+h3bs1: calls $0.16
+*** RIVER *** [7d Kh 2c Ks] [5h]
+Lorpugo: bets $0.64
+h3bs1: raises $0.24 to $0.88 and is all-in
+Lorpugo: folds 
+Uncalled bet ($0.24) returned to h3bs1
+h3bs1 collected $2.03 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.07 
+Board [7d Kh 2c Ks 5h]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas folded before Flop
+Seat 3: PipeMate12 folded before Flop (didn't bet)
+Seat 4: Guslalala (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the River
+Seat 6: h3bs1 (big blind) collected ($2.03)
+
+
+
+PokerStars Hand #240917105914:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:22:00 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2.14 in chips) 
+Seat 2: Tony the gas ($1.41 in chips) 
+Seat 3: PipeMate12 ($1.11 in chips) 
+Seat 4: Guslalala ($2.06 in chips) 
+Seat 5: Lorpugo ($1.22 in chips) 
+Seat 6: h3bs1 ($2.27 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 5s]
+Tony the gas: calls $0.02
+PipeMate12: calls $0.02
+Guslalala: calls $0.02
+Lorpugo: raises $0.16 to $0.18
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: folds 
+Guslalala: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: BJRGOMEZ (big blind) folded before Flop
+Seat 2: Tony the gas folded before Flop
+Seat 3: PipeMate12 folded before Flop
+Seat 4: Guslalala folded before Flop
+Seat 5: Lorpugo (button) collected ($0.11)
+Seat 6: h3bs1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240917119545:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:22:37 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: BJRGOMEZ ($2.12 in chips) 
+Seat 2: Tony the gas ($1.39 in chips) 
+Seat 3: PipeMate12 ($1.09 in chips) 
+Seat 4: Guslalala ($2.04 in chips) 
+Seat 5: Lorpugo ($1.31 in chips) 
+Seat 6: h3bs1 ($2.26 in chips) 
+BJRGOMEZ: posts small blind $0.01
+Tony the gas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Jd]
+PipeMate12: calls $0.02
+Guslalala: folds 
+Lorpugo: calls $0.02
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: checks 
+*** FLOP *** [Js Ac Kd]
+Tony the gas: bets $0.02
+PipeMate12: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+h3bs1: folds 
+Tony the gas: calls $0.08
+PipeMate12: calls $0.08
+*** TURN *** [Js Ac Kd] [2h]
+Tony the gas: checks 
+PipeMate12: checks 
+Lorpugo: bets $0.25
+Tony the gas: calls $0.25
+PipeMate12: calls $0.25
+*** RIVER *** [Js Ac Kd 2h] [Td]
+Tony the gas: checks 
+PipeMate12: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Tony the gas: shows [Ad 8d] (a pair of Aces)
+PipeMate12: mucks hand 
+Lorpugo: shows [2d Jd] (two pair, Jacks and Deuces)
+Lorpugo collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.04 
+Board [Js Ac Kd 2h Td]
+Seat 1: BJRGOMEZ (small blind) folded before Flop
+Seat 2: Tony the gas (big blind) showed [Ad 8d] and lost with a pair of Aces
+Seat 3: PipeMate12 mucked [5s Jh]
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo showed [2d Jd] and won ($1.10) with two pair, Jacks and Deuces
+Seat 6: h3bs1 (button) folded on the Flop
+
+
+
+PokerStars Hand #240917144588:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:23:44 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: BJRGOMEZ ($2.11 in chips) 
+Seat 2: Tony the gas ($1.02 in chips) 
+Seat 3: PipeMate12 ($0.72 in chips) 
+Seat 4: Guslalala ($2.04 in chips) 
+Seat 5: Lorpugo ($2.04 in chips) 
+Seat 6: h3bs1 ($2.24 in chips) 
+Tony the gas: posts small blind $0.01
+PipeMate12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7s]
+Guslalala: raises $0.04 to $0.06
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: calls $0.05
+PipeMate12: folds 
+*** FLOP *** [Kh 4d Qs]
+Tony the gas: checks 
+Guslalala: bets $0.05
+Tony the gas: calls $0.05
+*** TURN *** [Kh 4d Qs] [5h]
+Tony the gas: bets $0.04
+Guslalala: folds 
+Uncalled bet ($0.04) returned to Tony the gas
+Tony the gas collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Kh 4d Qs 5h]
+Seat 1: BJRGOMEZ (button) folded before Flop (didn't bet)
+Seat 2: Tony the gas (small blind) collected ($0.23)
+Seat 3: PipeMate12 (big blind) folded before Flop
+Seat 4: Guslalala folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917157723:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:24:20 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: BJRGOMEZ ($2.11 in chips) 
+Seat 2: Tony the gas ($1.14 in chips) 
+Seat 3: PipeMate12 ($0.70 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.04 in chips) 
+Seat 6: h3bs1 ($2.24 in chips) 
+PipeMate12: posts small blind $0.01
+Guslalala: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2d]
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: folds 
+Uncalled bet ($0.01) returned to Guslalala
+Guslalala collected $0.02 from pot
+Guslalala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas (button) folded before Flop (didn't bet)
+Seat 3: PipeMate12 (small blind) folded before Flop
+Seat 4: Guslalala (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917163391:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:24:35 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: BJRGOMEZ ($2.11 in chips) 
+Seat 2: Tony the gas ($1.14 in chips) 
+Seat 3: PipeMate12 ($0.69 in chips) 
+Seat 4: Guslalala ($2.01 in chips) 
+Seat 5: Lorpugo ($2.04 in chips) 
+Seat 6: h3bs1 ($2.24 in chips) 
+Guslalala: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4s]
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+PipeMate12: folds 
+Guslalala: folds 
+Lorpugo: checks 
+*** FLOP *** [6c Kd Ac]
+Lorpugo: checks 
+Tony the gas: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Tony the gas
+Tony the gas collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c Kd Ac]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas collected ($0.05)
+Seat 3: PipeMate12 (button) folded before Flop (didn't bet)
+Seat 4: Guslalala (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the Flop
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917177463:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:25:13 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: BJRGOMEZ ($2.11 in chips) 
+Seat 2: Tony the gas ($1.17 in chips) 
+Seat 3: PipeMate12 ($0.69 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($2.02 in chips) 
+Seat 6: h3bs1 ($2.24 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Td]
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+PipeMate12: calls $0.02
+Guslalala: folds 
+Lorpugo: raises $0.12 to $0.14
+h3bs1: folds 
+Tony the gas: calls $0.12
+PipeMate12: folds 
+*** FLOP *** [3s 2d Kc]
+Lorpugo: bets $0.16
+Tony the gas: calls $0.16
+*** TURN *** [3s 2d Kc] [As]
+Lorpugo: bets $1.72 and is all-in
+Tony the gas: calls $0.87 and is all-in
+Uncalled bet ($0.85) returned to Lorpugo
+*** RIVER *** [3s 2d Kc As] [Jc]
+*** SHOW DOWN ***
+Lorpugo: shows [9d Td] (high card Ace)
+Tony the gas: shows [3d Ad] (two pair, Aces and Threes)
+Tony the gas collected $2.30 from pot
+*** SUMMARY ***
+Total pot $2.38 | Rake $0.08 
+Board [3s 2d Kc As Jc]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas showed [3d Ad] and won ($2.30) with two pair, Aces and Threes
+Seat 3: PipeMate12 folded before Flop
+Seat 4: Guslalala (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) showed [9d Td] and lost with high card Ace
+Seat 6: h3bs1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240917192169:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:25:53 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2.11 in chips) 
+Seat 2: Tony the gas ($2.30 in chips) 
+Seat 3: PipeMate12 ($0.67 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.85 in chips) 
+Seat 6: h3bs1 ($2.22 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5s]
+Tony the gas: calls $0.02
+PipeMate12: calls $0.02
+Guslalala: raises $0.10 to $0.12
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: folds 
+PipeMate12: calls $0.10
+*** FLOP *** [7h Ac 4d]
+PipeMate12: checks 
+Guslalala: bets $0.09
+PipeMate12: raises $0.19 to $0.28
+Guslalala: folds 
+Uncalled bet ($0.19) returned to PipeMate12
+PipeMate12 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [7h Ac 4d]
+Seat 1: BJRGOMEZ (big blind) folded before Flop
+Seat 2: Tony the gas folded before Flop
+Seat 3: PipeMate12 collected ($0.45)
+Seat 4: Guslalala folded on the Flop
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: h3bs1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240917210868:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:26:44 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: BJRGOMEZ ($2.09 in chips) 
+Seat 2: Tony the gas ($2.28 in chips) 
+Seat 3: PipeMate12 ($0.91 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.85 in chips) 
+Seat 6: h3bs1 ($2.21 in chips) 
+BJRGOMEZ: posts small blind $0.01
+Tony the gas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 6d]
+PipeMate12: calls $0.02
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.02
+BJRGOMEZ: raises $0.06 to $0.08
+Tony the gas: folds 
+PipeMate12: folds 
+h3bs1: calls $0.06
+*** FLOP *** [5h 6c Kh]
+BJRGOMEZ: checks 
+h3bs1: bets $0.04
+BJRGOMEZ: folds 
+Uncalled bet ($0.04) returned to h3bs1
+h3bs1 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5h 6c Kh]
+Seat 1: BJRGOMEZ (small blind) folded on the Flop
+Seat 2: Tony the gas (big blind) folded before Flop
+Seat 3: PipeMate12 folded before Flop
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 (button) collected ($0.19)
+
+
+
+PokerStars Hand #240917232460:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:27:43 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: BJRGOMEZ ($2.01 in chips) 
+Seat 2: Tony the gas ($2.26 in chips) 
+Seat 3: PipeMate12 ($0.89 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.85 in chips) 
+Seat 6: h3bs1 ($2.32 in chips) 
+Tony the gas: posts small blind $0.01
+PipeMate12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 3c]
+Guslalala has timed out
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: calls $0.01
+PipeMate12: checks 
+*** FLOP *** [Qd Ad Jc]
+Tony the gas: checks 
+PipeMate12: bets $0.02
+h3bs1: calls $0.02
+Tony the gas: folds 
+*** TURN *** [Qd Ad Jc] [3h]
+PipeMate12: bets $0.02
+h3bs1: calls $0.02
+*** RIVER *** [Qd Ad Jc 3h] [8c]
+PipeMate12: bets $0.06
+h3bs1: calls $0.06
+*** SHOW DOWN ***
+PipeMate12: shows [Qs Js] (two pair, Queens and Jacks)
+h3bs1: mucks hand 
+PipeMate12 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Qd Ad Jc 3h 8c]
+Seat 1: BJRGOMEZ (button) folded before Flop (didn't bet)
+Seat 2: Tony the gas (small blind) folded on the Flop
+Seat 3: PipeMate12 (big blind) showed [Qs Js] and won ($0.25) with two pair, Queens and Jacks
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 mucked [9c As]
+
+
+
+PokerStars Hand #240917251876:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:28:37 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: BJRGOMEZ ($2.01 in chips) 
+Seat 2: Tony the gas ($2.24 in chips) 
+Seat 3: PipeMate12 ($1.02 in chips) 
+Seat 5: Lorpugo ($0.85 in chips) 
+Seat 6: h3bs1 ($2.20 in chips) 
+PipeMate12: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Qh]
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+PipeMate12: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [8d 8h 9s]
+PipeMate12: checks 
+Lorpugo: bets $0.02
+h3bs1: calls $0.02
+Tony the gas: calls $0.02
+PipeMate12: calls $0.02
+*** TURN *** [8d 8h 9s] [Ts]
+PipeMate12: bets $0.04
+Lorpugo: folds 
+h3bs1: calls $0.04
+Tony the gas: calls $0.04
+*** RIVER *** [8d 8h 9s Ts] [4h]
+PipeMate12: bets $0.08
+h3bs1: calls $0.08
+Tony the gas: folds 
+*** SHOW DOWN ***
+PipeMate12: shows [Qc Jh] (a straight, Eight to Queen)
+h3bs1: mucks hand 
+PipeMate12 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [8d 8h 9s Ts 4h]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas (button) folded on the River
+Seat 3: PipeMate12 (small blind) showed [Qc Jh] and won ($0.42) with a straight, Eight to Queen
+Seat 5: Lorpugo (big blind) folded on the Turn
+Seat 6: h3bs1 mucked [Qd 8c]
+
+
+
+PokerStars Hand #240917283531:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:30:04 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: BJRGOMEZ ($2.01 in chips) 
+Seat 2: Tony the gas ($2.16 in chips) 
+Seat 3: PipeMate12 ($1.28 in chips) 
+Seat 5: Lorpugo ($0.81 in chips) 
+Seat 6: h3bs1 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 2s]
+BJRGOMEZ: raises $0.04 to $0.06
+Tony the gas: calls $0.06
+PipeMate12: folds 
+PipeMate12 leaves the table
+Lorpugo: folds 
+h3bs1: calls $0.04
+*** FLOP *** [5d Td 3h]
+h3bs1: bets $0.04
+BJRGOMEZ: calls $0.04
+Tony the gas: calls $0.04
+*** TURN *** [5d Td 3h] [4h]
+h3bs1: bets $0.04
+BJRGOMEZ: calls $0.04
+Tony the gas: raises $0.04 to $0.08
+h3bs1: calls $0.04
+EndlessYokai joins the table at seat #3 
+BJRGOMEZ: folds 
+*** RIVER *** [5d Td 3h 4h] [2h]
+h3bs1: bets $0.06
+Tony the gas: calls $0.06
+*** SHOW DOWN ***
+h3bs1: shows [4s Kd] (a pair of Fours)
+Tony the gas: shows [Qs Ah] (a straight, Ace to Five)
+Tony the gas collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [5d Td 3h 4h 2h]
+Seat 1: BJRGOMEZ folded on the Turn
+Seat 2: Tony the gas showed [Qs Ah] and won ($0.61) with a straight, Ace to Five
+Seat 3: PipeMate12 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: h3bs1 (big blind) showed [4s Kd] and lost with a pair of Fours
+
+
+
+PokerStars Hand #240917306898:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:31:08 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.53 in chips) 
+Seat 5: Lorpugo ($0.80 in chips) 
+Seat 6: h3bs1 ($1.80 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 5d]
+Tony the gas: calls $0.02
+Lorpugo: folds 
+h3bs1: calls $0.01
+BJRGOMEZ: checks 
+*** FLOP *** [3d Ac 3c]
+h3bs1: checks 
+BJRGOMEZ: checks 
+Tony the gas: checks 
+*** TURN *** [3d Ac 3c] [Js]
+h3bs1: checks 
+BJRGOMEZ: checks 
+Tony the gas: checks 
+*** RIVER *** [3d Ac 3c Js] [Jd]
+h3bs1: checks 
+BJRGOMEZ: checks 
+Tony the gas: bets $0.08
+h3bs1: folds 
+BJRGOMEZ: folds 
+Uncalled bet ($0.08) returned to Tony the gas
+Tony the gas collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3d Ac 3c Js Jd]
+Seat 1: BJRGOMEZ (big blind) folded on the River
+Seat 2: Tony the gas collected ($0.06)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: h3bs1 (small blind) folded on the River
+
+
+
+PokerStars Hand #240917330073:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:32:11 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.57 in chips) 
+Seat 5: Lorpugo ($0.80 in chips) 
+Seat 6: h3bs1 ($1.78 in chips) 
+BJRGOMEZ: posts small blind $0.01
+Tony the gas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2h]
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+Uncalled bet ($0.01) returned to Tony the gas
+Tony the gas collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: BJRGOMEZ (small blind) folded before Flop
+Seat 2: Tony the gas (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917332655:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:32:18 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.58 in chips) 
+Seat 3: EndlessYokai ($1.60 in chips) 
+Seat 5: Lorpugo ($0.80 in chips) 
+Seat 6: h3bs1 ($1.78 in chips) 
+Tony the gas: posts small blind $0.01
+EndlessYokai: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Qh]
+Lorpugo: folds 
+h3bs1: calls $0.02
+BJRGOMEZ: raises $0.06 to $0.08
+Tony the gas: folds 
+EndlessYokai: folds 
+h3bs1: calls $0.06
+*** FLOP *** [Th 3c Jc]
+h3bs1: checks 
+BJRGOMEZ: checks 
+*** TURN *** [Th 3c Jc] [4d]
+h3bs1: bets $0.04
+BJRGOMEZ: calls $0.04
+*** RIVER *** [Th 3c Jc 4d] [Ah]
+h3bs1: bets $0.06
+BJRGOMEZ: folds 
+Uncalled bet ($0.06) returned to h3bs1
+h3bs1 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Th 3c Jc 4d Ah]
+Seat 1: BJRGOMEZ (button) folded on the River
+Seat 2: Tony the gas (small blind) folded before Flop
+Seat 3: EndlessYokai (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 collected ($0.26)
+
+
+
+PokerStars Hand #240917353973:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:33:17 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.57 in chips) 
+Seat 3: EndlessYokai ($1.58 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.80 in chips) 
+Seat 6: h3bs1 ($1.92 in chips) 
+EndlessYokai: posts small blind $0.01
+Guslalala: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7d]
+Lorpugo: raises $0.02 to $0.04
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: calls $0.04
+EndlessYokai: calls $0.03
+Guslalala: calls $0.02
+*** FLOP *** [6d 6c Ac]
+EndlessYokai: checks 
+Guslalala: checks 
+Lorpugo: bets $0.02
+Tony the gas: calls $0.02
+EndlessYokai: calls $0.02
+Guslalala: calls $0.02
+*** TURN *** [6d 6c Ac] [9d]
+EndlessYokai: bets $0.23
+Guslalala: calls $0.23
+Lorpugo: folds 
+Tony the gas: folds 
+*** RIVER *** [6d 6c Ac 9d] [2h]
+EndlessYokai: checks 
+Guslalala: checks 
+*** SHOW DOWN ***
+EndlessYokai: shows [7h 6s] (three of a kind, Sixes)
+Guslalala: mucks hand 
+EndlessYokai collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [6d 6c Ac 9d 2h]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas (button) folded on the Turn
+Seat 3: EndlessYokai (small blind) showed [7h 6s] and won ($0.68) with three of a kind, Sixes
+Seat 4: Guslalala (big blind) mucked [9h Ah]
+Seat 5: Lorpugo folded on the Turn
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917380461:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:34:29 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.51 in chips) 
+Seat 3: EndlessYokai ($1.97 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.74 in chips) 
+Seat 6: h3bs1 ($1.92 in chips) 
+Guslalala: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 2h]
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+EndlessYokai: calls $0.02
+Guslalala: folds 
+Lorpugo: checks 
+*** FLOP *** [9c Qc 7d]
+Lorpugo: checks 
+h3bs1: checks 
+Tony the gas: checks 
+EndlessYokai: bets $0.02
+Lorpugo: folds 
+h3bs1: folds 
+Tony the gas: calls $0.02
+*** TURN *** [9c Qc 7d] [6h]
+Tony the gas: checks 
+EndlessYokai: checks 
+*** RIVER *** [9c Qc 7d 6h] [Qd]
+Tony the gas: checks 
+EndlessYokai: bets $0.07
+Tony the gas: raises $0.17 to $0.24
+EndlessYokai: folds 
+Uncalled bet ($0.17) returned to Tony the gas
+Tony the gas collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [9c Qc 7d 6h Qd]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas collected ($0.26)
+Seat 3: EndlessYokai (button) folded on the River
+Seat 4: Guslalala (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the Flop
+Seat 6: h3bs1 folded on the Flop
+
+
+
+PokerStars Hand #240917408581:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:35:46 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.66 in chips) 
+Seat 3: EndlessYokai ($1.86 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.72 in chips) 
+Seat 6: h3bs1 ($1.90 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 5s]
+BJRGOMEZ: raises $0.04 to $0.06
+Tony the gas: calls $0.06
+EndlessYokai: folds 
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.04
+*** FLOP *** [Qh Ts 4s]
+h3bs1: bets $0.04
+BJRGOMEZ: folds 
+Tony the gas: calls $0.04
+*** TURN *** [Qh Ts 4s] [6d]
+h3bs1: bets $0.06
+Tony the gas: calls $0.06
+*** RIVER *** [Qh Ts 4s 6d] [7s]
+h3bs1: bets $0.04
+Tony the gas: calls $0.04
+*** SHOW DOWN ***
+h3bs1: shows [6c 4c] (two pair, Sixes and Fours)
+Tony the gas: mucks hand 
+h3bs1 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Qh Ts 4s 6d 7s]
+Seat 1: BJRGOMEZ folded on the Flop
+Seat 2: Tony the gas mucked [Td 3d]
+Seat 3: EndlessYokai folded before Flop (didn't bet)
+Seat 4: Guslalala (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: h3bs1 (big blind) showed [6c 4c] and won ($0.45) with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #240917428361:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:36:40 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.46 in chips) 
+Seat 3: EndlessYokai ($1.86 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.71 in chips) 
+Seat 6: h3bs1 ($2.15 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Kd]
+Tony the gas: calls $0.02
+EndlessYokai: raises $0.04 to $0.06
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: calls $0.04
+*** FLOP *** [3c 3h 7c]
+Tony the gas: checks 
+EndlessYokai: checks 
+*** TURN *** [3c 3h 7c] [Jd]
+Tony the gas: bets $0.02
+EndlessYokai: raises $0.09 to $0.11
+Tony the gas: calls $0.09
+*** RIVER *** [3c 3h 7c Jd] [Qd]
+Tony the gas: bets $0.08
+EndlessYokai: calls $0.08
+*** SHOW DOWN ***
+Tony the gas: shows [Ac Qc] (two pair, Queens and Threes)
+EndlessYokai: mucks hand 
+Tony the gas collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [3c 3h 7c Jd Qd]
+Seat 1: BJRGOMEZ (big blind) folded before Flop
+Seat 2: Tony the gas showed [Ac Qc] and won ($0.51) with two pair, Queens and Threes
+Seat 3: EndlessYokai mucked [Js As]
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: h3bs1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240917448410:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:37:35 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.72 in chips) 
+Seat 3: EndlessYokai ($1.61 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.71 in chips) 
+Seat 6: h3bs1 ($2.14 in chips) 
+BJRGOMEZ: posts small blind $0.01
+Tony the gas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Qd]
+EndlessYokai: calls $0.02
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.02
+BJRGOMEZ: folds 
+Tony the gas: checks 
+*** FLOP *** [Jd 7s Ad]
+Tony the gas: checks 
+EndlessYokai: checks 
+h3bs1: bets $0.04
+Tony the gas: calls $0.04
+EndlessYokai: folds 
+*** TURN *** [Jd 7s Ad] [4h]
+Tony the gas: checks 
+h3bs1: checks 
+*** RIVER *** [Jd 7s Ad 4h] [4d]
+Tony the gas: bets $0.04
+h3bs1: calls $0.04
+*** SHOW DOWN ***
+Tony the gas: shows [Qh Th] (a pair of Fours)
+h3bs1: shows [Jc 5h] (two pair, Jacks and Fours)
+h3bs1 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jd 7s Ad 4h 4d]
+Seat 1: BJRGOMEZ (small blind) folded before Flop
+Seat 2: Tony the gas (big blind) showed [Qh Th] and lost with a pair of Fours
+Seat 3: EndlessYokai folded on the Flop
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 (button) showed [Jc 5h] and won ($0.22) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #240917462413:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:38:14 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.62 in chips) 
+Seat 3: EndlessYokai ($1.59 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.71 in chips) 
+Seat 6: h3bs1 ($2.26 in chips) 
+Tony the gas: posts small blind $0.01
+EndlessYokai: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c As]
+Guslalala: raises $0.04 to $0.06
+Lorpugo: folds 
+h3bs1: calls $0.06
+BJRGOMEZ: folds 
+Tony the gas: calls $0.05
+EndlessYokai: calls $0.04
+*** FLOP *** [6s Th 4d]
+Tony the gas: checks 
+EndlessYokai: checks 
+Guslalala: checks 
+h3bs1: checks 
+*** TURN *** [6s Th 4d] [5s]
+Tony the gas: checks 
+EndlessYokai: checks 
+Guslalala: checks 
+h3bs1: bets $0.06
+Tony the gas: calls $0.06
+EndlessYokai: calls $0.06
+Guslalala: folds 
+*** RIVER *** [6s Th 4d 5s] [Qd]
+Tony the gas: bets $0.04
+EndlessYokai: folds 
+h3bs1: folds 
+Uncalled bet ($0.04) returned to Tony the gas
+Tony the gas collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [6s Th 4d 5s Qd]
+Seat 1: BJRGOMEZ (button) folded before Flop (didn't bet)
+Seat 2: Tony the gas (small blind) collected ($0.41)
+Seat 3: EndlessYokai (big blind) folded on the River
+Seat 4: Guslalala folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 folded on the River
+
+
+
+PokerStars Hand #240917487292:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:39:23 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.91 in chips) 
+Seat 3: EndlessYokai ($1.47 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.71 in chips) 
+Seat 6: h3bs1 ($2.14 in chips) 
+EndlessYokai: posts small blind $0.01
+Guslalala: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 8h]
+Lorpugo: raises $0.02 to $0.04
+h3bs1: calls $0.04
+BJRGOMEZ: folds 
+Tony the gas: calls $0.04
+EndlessYokai: folds 
+Guslalala: calls $0.02
+*** FLOP *** [Qd Qc 4d]
+Guslalala: checks 
+Lorpugo: checks 
+h3bs1: bets $0.06
+Tony the gas: folds 
+Guslalala: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to h3bs1
+h3bs1 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd Qc 4d]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas (button) folded on the Flop
+Seat 3: EndlessYokai (small blind) folded before Flop
+Seat 4: Guslalala (big blind) folded on the Flop
+Seat 5: Lorpugo folded on the Flop
+Seat 6: h3bs1 collected ($0.16)
+
+
+
+PokerStars Hand #240917507725:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:40:20 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.87 in chips) 
+Seat 3: EndlessYokai ($1.46 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.67 in chips) 
+Seat 6: h3bs1 ($2.26 in chips) 
+Guslalala: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qs]
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+EndlessYokai: calls $0.02
+Guslalala: calls $0.01
+Lorpugo: raises $0.16 to $0.18
+Tony the gas: folds 
+EndlessYokai: folds 
+Guslalala: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas folded before Flop
+Seat 3: EndlessYokai (button) folded before Flop
+Seat 4: Guslalala (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.08)
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917518574:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:40:50 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.85 in chips) 
+Seat 3: EndlessYokai ($1.44 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.73 in chips) 
+Seat 6: h3bs1 ($2.26 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h As]
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+EndlessYokai: folds 
+Guslalala: folds 
+Lorpugo: raises $0.16 to $0.18
+h3bs1: folds 
+Tony the gas: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas folded before Flop
+Seat 3: EndlessYokai folded before Flop (didn't bet)
+Seat 4: Guslalala (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($0.06)
+Seat 6: h3bs1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240917532858:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:41:30 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($2.83 in chips) 
+Seat 3: EndlessYokai ($1.44 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.77 in chips) 
+Seat 6: h3bs1 ($2.24 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9d]
+Tony the gas: calls $0.02
+EndlessYokai: calls $0.02
+Guslalala: folds 
+Lorpugo: folds 
+h3bs1: calls $0.01
+BJRGOMEZ: checks 
+*** FLOP *** [Jc Td 3c]
+h3bs1: checks 
+BJRGOMEZ: checks 
+Tony the gas: checks 
+EndlessYokai: checks 
+*** TURN *** [Jc Td 3c] [4h]
+h3bs1: bets $0.04
+BJRGOMEZ: calls $0.04
+Tony the gas: calls $0.04
+EndlessYokai: folds 
+*** RIVER *** [Jc Td 3c 4h] [Qc]
+h3bs1: bets $0.02
+BJRGOMEZ: folds 
+Tony the gas: raises $0.04 to $0.06
+h3bs1: calls $0.04
+*** SHOW DOWN ***
+Tony the gas: shows [4s 3s] (two pair, Fours and Threes)
+h3bs1: mucks hand 
+Tony the gas collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jc Td 3c 4h Qc]
+Seat 1: BJRGOMEZ (big blind) folded on the River
+Seat 2: Tony the gas showed [4s 3s] and won ($0.31) with two pair, Fours and Threes
+Seat 3: EndlessYokai folded on the Turn
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: h3bs1 (small blind) mucked [Ac 5d]
+
+
+
+PokerStars Hand #240917557527:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:42:39 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($3.02 in chips) 
+Seat 3: EndlessYokai ($1.42 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($0.77 in chips) 
+Seat 6: h3bs1 ($2.12 in chips) 
+BJRGOMEZ: posts small blind $0.01
+Tony the gas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 7h]
+EndlessYokai: folds 
+Guslalala: folds 
+Lorpugo: raises $0.02 to $0.04
+h3bs1: calls $0.04
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+*** FLOP *** [7d Tc Jc]
+Tony the gas: checks 
+Lorpugo: bets $0.02
+h3bs1: calls $0.02
+Tony the gas: calls $0.02
+*** TURN *** [7d Tc Jc] [9s]
+Tony the gas: checks 
+Lorpugo: bets $0.12
+h3bs1: calls $0.12
+Tony the gas: calls $0.12
+*** RIVER *** [7d Tc Jc 9s] [Th]
+Tony the gas: checks 
+Lorpugo: bets $0.59 and is all-in
+h3bs1: calls $0.59
+Tony the gas: raises $2.25 to $2.84 and is all-in
+h3bs1: calls $1.35 and is all-in
+Uncalled bet ($0.90) returned to Tony the gas
+*** SHOW DOWN ***
+Tony the gas: shows [Jh Td] (a full house, Tens full of Jacks)
+h3bs1: shows [Js Jd] (a full house, Jacks full of Tens)
+h3bs1 collected $2.60 from side pot
+Lorpugo: shows [8d 7h] (a straight, Seven to Jack)
+h3bs1 collected $2.24 from main pot
+*** SUMMARY ***
+Total pot $5.02 Main pot $2.24. Side pot $2.60. | Rake $0.18 
+Board [7d Tc Jc 9s Th]
+Seat 1: BJRGOMEZ (small blind) folded before Flop
+Seat 2: Tony the gas (big blind) showed [Jh Td] and lost with a full house, Tens full of Jacks
+Seat 3: EndlessYokai folded before Flop (didn't bet)
+Seat 4: Guslalala folded before Flop (didn't bet)
+Seat 5: Lorpugo showed [8d 7h] and lost with a straight, Seven to Jack
+Seat 6: h3bs1 (button) showed [Js Jd] and won ($4.84) with a full house, Jacks full of Tens
+
+
+
+PokerStars Hand #240917625450:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:45:53 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($0.99 in chips) 
+Seat 3: EndlessYokai ($1.40 in chips) 
+Seat 4: Guslalala ($2 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: h3bs1 ($4.76 in chips) 
+EndlessYokai: posts small blind $0.01
+Guslalala: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ks]
+Lorpugo: folds 
+h3bs1 has timed out
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: folds 
+EndlessYokai: raises $0.02 to $0.04
+Guslalala: calls $0.02
+*** FLOP *** [7d Qc Th]
+EndlessYokai: checks 
+Guslalala: bets $0.04
+EndlessYokai: folds 
+Uncalled bet ($0.04) returned to Guslalala
+Guslalala collected $0.08 from pot
+Guslalala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7d Qc Th]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas (button) folded before Flop (didn't bet)
+Seat 3: EndlessYokai (small blind) folded on the Flop
+Seat 4: Guslalala (big blind) collected ($0.08)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917636666:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:46:26 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($0.99 in chips) 
+Seat 3: EndlessYokai ($1.36 in chips) 
+Seat 4: Guslalala ($2.04 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: h3bs1 ($4.76 in chips) 
+Guslalala: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5d]
+h3bs1 has timed out
+h3bs1: folds 
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+EndlessYokai: folds 
+Guslalala: folds 
+Lorpugo: raises $0.14 to $0.16
+Tony the gas: calls $0.14
+*** FLOP *** [Tc 2d 4c]
+Lorpugo: checks 
+Tony the gas: checks 
+*** TURN *** [Tc 2d 4c] [3d]
+Lorpugo: bets $0.22
+Tony the gas: calls $0.22
+*** RIVER *** [Tc 2d 4c 3d] [8h]
+Lorpugo: bets $0.61
+Tony the gas: calls $0.61 and is all-in
+*** SHOW DOWN ***
+Lorpugo: shows [Qh 5d] (high card Queen)
+Tony the gas: shows [Ac 4s] (a pair of Fours)
+Tony the gas collected $1.92 from pot
+*** SUMMARY ***
+Total pot $1.99 | Rake $0.07 
+Board [Tc 2d 4c 3d 8h]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas showed [Ac 4s] and won ($1.92) with a pair of Fours
+Seat 3: EndlessYokai (button) folded before Flop (didn't bet)
+Seat 4: Guslalala (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [Qh 5d] and lost with high card Queen
+Seat 6: h3bs1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240917663665:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:47:43 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($1.92 in chips) 
+Seat 3: EndlessYokai ($1.36 in chips) 
+Seat 4: Guslalala ($2.03 in chips) 
+Seat 5: Lorpugo ($0.61 in chips) 
+Seat 6: h3bs1 ($4.76 in chips) 
+Lorpugo: posts small blind $0.01
+h3bs1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Tc]
+BJRGOMEZ: folds 
+Tony the gas: calls $0.02
+EndlessYokai: folds 
+Guslalala: folds 
+Lorpugo: calls $0.01
+h3bs1: checks 
+*** FLOP *** [Qs 7d 3c]
+Lorpugo: checks 
+h3bs1: bets $0.04
+Tony the gas: calls $0.04
+Lorpugo: folds 
+*** TURN *** [Qs 7d 3c] [6c]
+h3bs1: bets $0.06
+Tony the gas: calls $0.06
+*** RIVER *** [Qs 7d 3c 6c] [Kh]
+h3bs1: bets $0.04
+Tony the gas: calls $0.04
+*** SHOW DOWN ***
+h3bs1: shows [7s 9s] (a pair of Sevens)
+Tony the gas: mucks hand 
+h3bs1 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Qs 7d 3c 6c Kh]
+Seat 1: BJRGOMEZ folded before Flop (didn't bet)
+Seat 2: Tony the gas mucked [Ac Jc]
+Seat 3: EndlessYokai folded before Flop (didn't bet)
+Seat 4: Guslalala (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the Flop
+Seat 6: h3bs1 (big blind) showed [7s 9s] and won ($0.33) with a pair of Sevens
+
+
+
+PokerStars Hand #240917687226:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:48:52 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: BJRGOMEZ ($2 in chips) 
+Seat 2: Tony the gas ($1.76 in chips) 
+Seat 3: EndlessYokai ($1.36 in chips) 
+Seat 4: Guslalala ($2.03 in chips) 
+Seat 5: Lorpugo ($0.59 in chips) 
+Seat 6: h3bs1 ($4.93 in chips) 
+h3bs1: posts small blind $0.01
+BJRGOMEZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 3d]
+Tony the gas: folds 
+EndlessYokai: calls $0.02
+Guslalala: raises $0.08 to $0.10
+Lorpugo: folds 
+h3bs1: folds 
+BJRGOMEZ: folds 
+EndlessYokai: folds 
+Uncalled bet ($0.08) returned to Guslalala
+Guslalala collected $0.07 from pot
+Guslalala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: BJRGOMEZ (big blind) folded before Flop
+Seat 2: Tony the gas folded before Flop (didn't bet)
+Seat 3: EndlessYokai folded before Flop
+Seat 4: Guslalala collected ($0.07)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: h3bs1 (small blind) folded before Flop
+
+
+

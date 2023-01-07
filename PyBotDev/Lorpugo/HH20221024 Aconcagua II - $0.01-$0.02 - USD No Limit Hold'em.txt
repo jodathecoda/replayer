@@ -1,0 +1,2154 @@
+﻿PokerStars Hand #239424223018:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:30:52 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: boyd malvo ($3.97 in chips) 
+Seat 2: NeutrinoAl ($2.43 in chips) 
+Seat 3: DaniChapu83 ($0.46 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 6: kultex ($0.31 in chips) 
+DaniChapu83: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 7c]
+kultex: folds 
+boyd malvo: raises $0.04 to $0.06
+wjn738 joins the table at seat #5 
+NeutrinoAl: folds 
+DaniChapu83: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [5s 7s 7d]
+Lorpugo: checks 
+boyd malvo: checks 
+*** TURN *** [5s 7s 7d] [Tc]
+Lorpugo: checks 
+boyd malvo: checks 
+*** RIVER *** [5s 7s 7d Tc] [Kh]
+Lorpugo: checks 
+boyd malvo: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [8h 7c] (three of a kind, Sevens)
+boyd malvo: mucks hand 
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5s 7s 7d Tc Kh]
+Seat 1: boyd malvo mucked [Ac Qc]
+Seat 2: NeutrinoAl (button) folded before Flop (didn't bet)
+Seat 3: DaniChapu83 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [8h 7c] and won ($0.13) with three of a kind, Sevens
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424238624:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:31:48 ET
+Table 'Aconcagua II' 6-max Seat #3 is the button
+Seat 1: boyd malvo ($3.91 in chips) 
+Seat 2: NeutrinoAl ($2.43 in chips) 
+Seat 3: DaniChapu83 ($0.45 in chips) 
+Seat 4: Lorpugo ($1.67 in chips) 
+Seat 5: wjn738 ($2 in chips) 
+Seat 6: kultex ($0.31 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5s]
+kultex: folds 
+boyd malvo: folds 
+NeutrinoAl: folds 
+DaniChapu83: calls $0.02
+Lorpugo: calls $0.01
+wjn738: raises $0.06 to $0.08
+DaniChapu83: calls $0.06
+Lorpugo: folds 
+*** FLOP *** [Kd 8h 4h]
+wjn738: checks 
+DaniChapu83: checks 
+*** TURN *** [Kd 8h 4h] [Js]
+wjn738: bets $0.17
+DaniChapu83: folds 
+Uncalled bet ($0.17) returned to wjn738
+wjn738 collected $0.17 from pot
+wjn738: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kd 8h 4h Js]
+Seat 1: boyd malvo folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: DaniChapu83 (button) folded on the Turn
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: wjn738 (big blind) collected ($0.17)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424249107:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:32:26 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: boyd malvo ($3.91 in chips) 
+Seat 2: NeutrinoAl ($2.43 in chips) 
+Seat 3: DaniChapu83 ($0.37 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 5: wjn738 ($2.09 in chips) 
+Seat 6: kultex ($0.31 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Js]
+boyd malvo: folds 
+NeutrinoAl: calls $0.02
+DaniChapu83: calls $0.02
+Lorpugo: folds 
+wjn738: folds 
+kultex: checks 
+*** FLOP *** [As 9h Ts]
+kultex: checks 
+NeutrinoAl: checks 
+DaniChapu83: bets $0.08
+kultex: folds 
+NeutrinoAl: calls $0.08
+*** TURN *** [As 9h Ts] [5c]
+NeutrinoAl: checks 
+DaniChapu83: bets $0.08
+NeutrinoAl: calls $0.08
+*** RIVER *** [As 9h Ts 5c] [6d]
+NeutrinoAl: checks 
+DaniChapu83: bets $0.10
+NeutrinoAl: calls $0.10
+*** SHOW DOWN ***
+DaniChapu83: shows [Kd Ad] (a pair of Aces)
+NeutrinoAl: mucks hand 
+DaniChapu83 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [As 9h Ts 5c 6d]
+Seat 1: boyd malvo folded before Flop (didn't bet)
+Seat 2: NeutrinoAl mucked [Ah 8s]
+Seat 3: DaniChapu83 showed [Kd Ad] and won ($0.57) with a pair of Aces
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: wjn738 (small blind) folded before Flop
+Seat 6: kultex (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239424265831:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:33:26 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: boyd malvo ($3.91 in chips) 
+Seat 2: NeutrinoAl ($2.15 in chips) 
+Seat 3: DaniChapu83 ($0.66 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 5: wjn738 ($2.08 in chips) 
+Seat 6: kultex ($0.29 in chips) 
+kultex: posts small blind $0.01
+boyd malvo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ks]
+NeutrinoAl: calls $0.02
+DaniChapu83 is disconnected 
+DaniChapu83 has timed out while disconnected
+DaniChapu83: folds 
+Lorpugo: folds 
+wjn738: calls $0.02
+kultex: folds 
+boyd malvo: checks 
+*** FLOP *** [Td Ts As]
+boyd malvo: checks 
+NeutrinoAl: checks 
+wjn738: checks 
+*** TURN *** [Td Ts As] [Kh]
+boyd malvo: bets $0.07
+NeutrinoAl: folds 
+wjn738: calls $0.07
+*** RIVER *** [Td Ts As Kh] [8h]
+boyd malvo: bets $0.20
+wjn738: folds 
+Uncalled bet ($0.20) returned to boyd malvo
+boyd malvo collected $0.20 from pot
+boyd malvo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Td Ts As Kh 8h]
+Seat 1: boyd malvo (big blind) collected ($0.20)
+Seat 2: NeutrinoAl folded on the Turn
+Seat 3: DaniChapu83 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 (button) folded on the River
+Seat 6: kultex (small blind) folded before Flop
+
+
+
+PokerStars Hand #239424282015:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:34:23 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: boyd malvo ($4.02 in chips) 
+Seat 2: NeutrinoAl ($2.13 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 5: wjn738 ($1.99 in chips) 
+Seat 6: kultex ($0.28 in chips) 
+boyd malvo: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9d]
+Lorpugo: folds 
+wjn738: folds 
+kultex: folds 
+boyd malvo: folds 
+Uncalled bet ($0.01) returned to NeutrinoAl
+NeutrinoAl collected $0.02 from pot
+NeutrinoAl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: boyd malvo (small blind) folded before Flop
+Seat 2: NeutrinoAl (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424284452:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:34:31 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: boyd malvo ($4.01 in chips) 
+Seat 2: NeutrinoAl ($2.14 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 5: wjn738 ($1.99 in chips) 
+Seat 6: kultex ($0.28 in chips) 
+NeutrinoAl: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qs]
+wjn738: raises $0.02 to $0.04
+kultex: folds 
+boyd malvo: folds 
+NeutrinoAl: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to wjn738
+wjn738 collected $0.05 from pot
+wjn738: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boyd malvo (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: wjn738 collected ($0.05)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424288572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:34:46 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: boyd malvo ($4.01 in chips) 
+Seat 2: NeutrinoAl ($2.13 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: wjn738 ($2.02 in chips) 
+Seat 6: kultex ($0.28 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4d]
+kultex: calls $0.02
+boyd malvo: folds 
+NeutrinoAl: raises $0.04 to $0.06
+Lorpugo: folds 
+wjn738: folds 
+kultex: calls $0.04
+*** FLOP *** [2c As 8h]
+kultex: checks 
+NeutrinoAl: checks 
+*** TURN *** [2c As 8h] [Js]
+kultex: checks 
+NeutrinoAl: bets $0.07
+kultex: calls $0.07
+*** RIVER *** [2c As 8h Js] [6s]
+kultex: checks 
+NeutrinoAl: checks 
+*** SHOW DOWN ***
+kultex: shows [Ah Jh] (two pair, Aces and Jacks)
+NeutrinoAl: mucks hand 
+kultex collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2c As 8h Js 6s]
+Seat 1: boyd malvo folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (button) mucked [Kc Kd]
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: wjn738 (big blind) folded before Flop
+Seat 6: kultex showed [Ah Jh] and won ($0.28) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #239424302322:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:35:34 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: boyd malvo ($4.01 in chips) 
+Seat 2: NeutrinoAl ($2 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: wjn738 ($2 in chips) 
+Seat 6: kultex ($0.43 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jd]
+boyd malvo has timed out
+boyd malvo: folds 
+boyd malvo leaves the table
+NeutrinoAl: calls $0.02
+Lorpugo: folds 
+Nikeim joins the table at seat #1 
+wjn738: calls $0.01
+kultex: checks 
+*** FLOP *** [2d 5d 6c]
+wjn738: checks 
+kultex: checks 
+NeutrinoAl: checks 
+*** TURN *** [2d 5d 6c] [6s]
+wjn738: checks 
+kultex: checks 
+NeutrinoAl: checks 
+*** RIVER *** [2d 5d 6c 6s] [3c]
+wjn738: bets $0.02
+kultex: raises $0.10 to $0.12
+NeutrinoAl: folds 
+wjn738: folds 
+Uncalled bet ($0.10) returned to kultex
+kultex collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2d 5d 6c 6s 3c]
+Seat 1: boyd malvo folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded on the River
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: wjn738 (small blind) folded on the River
+Seat 6: kultex (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #239424316240:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:36:22 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.98 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: wjn738 ($1.96 in chips) 
+Seat 6: kultex ($0.49 in chips) 
+kultex: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 2c]
+NeutrinoAl: folds 
+Lorpugo: folds 
+wjn738: folds 
+kultex: calls $0.01
+Nikeim: checks 
+*** FLOP *** [Qs 7h 8s]
+kultex: checks 
+Nikeim: checks 
+*** TURN *** [Qs 7h 8s] [Jh]
+kultex: checks 
+Nikeim: checks 
+*** RIVER *** [Qs 7h 8s Jh] [6h]
+kultex: checks 
+Nikeim: checks 
+*** SHOW DOWN ***
+kultex: shows [As Ts] (high card Ace)
+Nikeim: shows [Td 7s] (a pair of Sevens)
+Nikeim collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qs 7h 8s Jh 6h]
+Seat 1: Nikeim (big blind) showed [Td 7s] and won ($0.04) with a pair of Sevens
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+Seat 6: kultex (small blind) showed [As Ts] and lost with high card Ace
+
+
+
+PokerStars Hand #239424325960:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:36:57 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2.02 in chips) 
+Seat 2: NeutrinoAl ($1.98 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: wjn738 ($1.96 in chips) 
+Seat 6: kultex ($0.47 in chips) 
+Nikeim: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 6s]
+Lorpugo: folds 
+wjn738: raises $0.02 to $0.04
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: calls $0.02
+*** FLOP *** [Ad 8h 7h]
+NeutrinoAl: checks 
+wjn738: checks 
+*** TURN *** [Ad 8h 7h] [5d]
+NeutrinoAl: checks 
+wjn738: checks 
+*** RIVER *** [Ad 8h 7h 5d] [9c]
+NeutrinoAl: bets $0.09
+wjn738: folds 
+Uncalled bet ($0.09) returned to NeutrinoAl
+NeutrinoAl collected $0.09 from pot
+NeutrinoAl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ad 8h 7h 5d 9c]
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: NeutrinoAl (big blind) collected ($0.09)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 folded on the River
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424339917:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:37:46 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2.01 in chips) 
+Seat 2: NeutrinoAl ($2.03 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: wjn738 ($1.92 in chips) 
+Seat 6: kultex ($0.47 in chips) 
+NeutrinoAl: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Ac]
+wjn738: raises $0.02 to $0.04
+kultex: calls $0.04
+Nikeim: folds 
+NeutrinoAl: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [8h 2s 9c]
+Lorpugo: checks 
+wjn738: bets $0.06
+kultex: folds 
+Lorpugo: calls $0.06
+*** TURN *** [8h 2s 9c] [8c]
+Lorpugo: checks 
+wjn738: checks 
+*** RIVER *** [8h 2s 9c 8c] [5h]
+Lorpugo: checks 
+wjn738: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [2c Ac] (two pair, Eights and Deuces)
+wjn738: shows [Td Tc] (two pair, Tens and Eights)
+wjn738 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8h 2s 9c 8c 5h]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [2c Ac] and lost with two pair, Eights and Deuces
+Seat 5: wjn738 showed [Td Tc] and won ($0.24) with two pair, Tens and Eights
+Seat 6: kultex folded on the Flop
+
+
+
+PokerStars Hand #239424351842:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:38:28 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2.01 in chips) 
+Seat 2: NeutrinoAl ($2.02 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: wjn738 ($2.06 in chips) 
+Seat 6: kultex ($0.43 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4d]
+kultex: calls $0.02
+Nikeim: raises $0.07 to $0.09
+NeutrinoAl: folds 
+DaniChapu83 is disconnected 
+Lorpugo: folds 
+wjn738: folds 
+kultex: calls $0.07
+*** FLOP *** [5h 6s 9h]
+kultex: checks 
+Nikeim: checks 
+*** TURN *** [5h 6s 9h] [3d]
+kultex: checks 
+Nikeim: bets $0.13
+kultex: calls $0.13
+*** RIVER *** [5h 6s 9h 3d] [7c]
+kultex: checks 
+Nikeim: bets $0.30
+kultex: folds 
+Uncalled bet ($0.30) returned to Nikeim
+Nikeim collected $0.45 from pot
+Nikeim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5h 6s 9h 3d 7c]
+Seat 1: Nikeim collected ($0.45)
+Seat 2: NeutrinoAl (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: wjn738 (big blind) folded before Flop
+Seat 6: kultex folded on the River
+
+
+
+PokerStars Hand #239424370614:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:39:35 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2.24 in chips) 
+Seat 2: NeutrinoAl ($2.02 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: wjn738 ($2.04 in chips) 
+Seat 6: kultex ($0.21 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2d]
+Nikeim: folds 
+NeutrinoAl: folds 
+Lorpugo: folds 
+wjn738: calls $0.01
+kultex: checks 
+*** FLOP *** [5s 4c Tc]
+wjn738: checks 
+kultex: checks 
+*** TURN *** [5s 4c Tc] [Jc]
+wjn738: checks 
+kultex: checks 
+*** RIVER *** [5s 4c Tc Jc] [9s]
+wjn738: checks 
+kultex: checks 
+*** SHOW DOWN ***
+wjn738: shows [Td 8d] (a pair of Tens)
+kultex: mucks hand 
+wjn738 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5s 4c Tc Jc 9s]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: wjn738 (small blind) showed [Td 8d] and won ($0.04) with a pair of Tens
+Seat 6: kultex (big blind) mucked [Ks 3d]
+
+
+
+PokerStars Hand #239424379456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:40:06 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2.24 in chips) 
+Seat 2: NeutrinoAl ($2.02 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: wjn738 ($2.06 in chips) 
+Seat 6: kultex ($0.19 in chips) 
+kultex: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kc]
+NeutrinoAl: folds 
+Lorpugo: raises $0.04 to $0.06
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim (big blind) folded before Flop
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+Seat 6: kultex (small blind) folded before Flop
+
+
+
+PokerStars Hand #239424382327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:40:17 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2.22 in chips) 
+Seat 2: NeutrinoAl ($2.02 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: wjn738 ($2.06 in chips) 
+Seat 6: kultex ($0.18 in chips) 
+Nikeim: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ac]
+Lorpugo: raises $0.04 to $0.06
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: NeutrinoAl (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424384846:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:40:26 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2.21 in chips) 
+Seat 2: NeutrinoAl ($2 in chips) 
+Seat 4: Lorpugo ($1.66 in chips) 
+Seat 5: wjn738 ($2.06 in chips) 
+Seat 6: kultex ($0.18 in chips) 
+NeutrinoAl: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ks]
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424387277:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:40:34 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2.21 in chips) 
+Seat 2: NeutrinoAl ($1.99 in chips) 
+Seat 4: Lorpugo ($1.67 in chips) 
+Seat 5: wjn738 ($2.06 in chips) 
+Seat 6: kultex ($0.18 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Jh]
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+Lorpugo: raises $0.04 to $0.06
+wjn738: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: wjn738 (big blind) folded before Flop
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424394052:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:40:58 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2.21 in chips) 
+Seat 2: NeutrinoAl ($1.99 in chips) 
+Seat 4: Lorpugo ($1.69 in chips) 
+Seat 5: wjn738 ($2.04 in chips) 
+Seat 6: kultex ($2 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+DaniChapu83: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Ac]
+Nikeim: raises $0.04 to $0.06
+NeutrinoAl: folds 
+Lorpugo: raises $0.15 to $0.21
+wjn738: folds 
+kultex: folds 
+Nikeim: calls $0.15
+*** FLOP *** [4d 6h Kh]
+Nikeim: checks 
+Lorpugo: bets $0.24
+Nikeim: calls $0.24
+*** TURN *** [4d 6h Kh] [7c]
+Nikeim: checks 
+Lorpugo: bets $0.66
+Nikeim: calls $0.66
+*** RIVER *** [4d 6h Kh 7c] [2d]
+Nikeim: bets $1.10 and is all-in
+Lorpugo: calls $0.58 and is all-in
+Uncalled bet ($0.52) returned to Nikeim
+*** SHOW DOWN ***
+Nikeim: shows [Kd Qd] (a pair of Kings)
+Lorpugo: shows [Kc Ac] (a pair of Kings - Ace kicker)
+Lorpugo collected $3.29 from pot
+*** SUMMARY ***
+Total pot $3.41 | Rake $0.12 
+Board [4d 6h Kh 7c 2d]
+Seat 1: Nikeim showed [Kd Qd] and lost with a pair of Kings
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) showed [Kc Ac] and won ($3.29) with a pair of Kings
+Seat 5: wjn738 (small blind) folded before Flop
+Seat 6: kultex (big blind) folded before Flop
+
+
+
+PokerStars Hand #239424409280:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:41:51 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.99 in chips) 
+Seat 3: DaniChapu83 ($0.66 in chips) 
+Seat 4: Lorpugo ($3.29 in chips) 
+Seat 5: wjn738 ($2.03 in chips) 
+Seat 6: kultex ($1.98 in chips) 
+kultex: posts small blind $0.01
+Nikeim: posts big blind $0.02
+DaniChapu83: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7s]
+NeutrinoAl: calls $0.02
+DaniChapu83: checks 
+Lorpugo: calls $0.02
+wjn738: folds 
+kultex: folds 
+Nikeim: checks 
+*** FLOP *** [9c 3s 8s]
+Nikeim: checks 
+NeutrinoAl: checks 
+DaniChapu83: checks 
+Lorpugo: bets $0.05
+Nikeim: folds 
+NeutrinoAl: folds 
+DaniChapu83: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9c 3s 8s]
+Seat 1: Nikeim (big blind) folded on the Flop
+Seat 2: NeutrinoAl folded on the Flop
+Seat 3: DaniChapu83 folded on the Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.10)
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+Seat 6: kultex (small blind) folded before Flop
+
+
+
+PokerStars Hand #239424423047:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:42:38 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.97 in chips) 
+Seat 3: DaniChapu83 ($0.63 in chips) 
+Seat 4: Lorpugo ($3.37 in chips) 
+Seat 5: wjn738 ($2.03 in chips) 
+Seat 6: kultex ($1.97 in chips) 
+Nikeim: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Jh]
+DaniChapu83: folds 
+Lorpugo: folds 
+wjn738: folds 
+kultex: folds 
+Nikeim: raises $0.04 to $0.06
+NeutrinoAl: calls $0.04
+*** FLOP *** [Jd 8d 9c]
+Nikeim: checks 
+NeutrinoAl: checks 
+*** TURN *** [Jd 8d 9c] [Qh]
+Nikeim: checks 
+NeutrinoAl: checks 
+*** RIVER *** [Jd 8d 9c Qh] [4h]
+Nikeim: checks 
+NeutrinoAl: checks 
+*** SHOW DOWN ***
+Nikeim: shows [7s Ah] (high card Ace)
+NeutrinoAl: shows [Ad 7c] (high card Ace)
+Nikeim collected $0.06 from pot
+NeutrinoAl collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jd 8d 9c Qh 4h]
+Seat 1: Nikeim (small blind) showed [7s Ah] and won ($0.06) with high card Ace
+Seat 2: NeutrinoAl (big blind) showed [Ad 7c] and won ($0.06) with high card Ace
+Seat 3: DaniChapu83 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424438010:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:43:29 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.97 in chips) 
+Seat 3: DaniChapu83 ($0.63 in chips) 
+Seat 4: Lorpugo ($3.37 in chips) 
+Seat 5: wjn738 ($2.03 in chips) 
+Seat 6: kultex ($1.97 in chips) 
+NeutrinoAl: posts small blind $0.01
+DaniChapu83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Jh]
+Lorpugo: folds 
+wjn738: folds 
+kultex: calls $0.02
+Nikeim: folds 
+NeutrinoAl: calls $0.01
+DaniChapu83: checks 
+*** FLOP *** [9h 2c Qc]
+NeutrinoAl: checks 
+DaniChapu83: checks 
+kultex: checks 
+*** TURN *** [9h 2c Qc] [4c]
+NeutrinoAl: checks 
+DaniChapu83: checks 
+kultex: checks 
+*** RIVER *** [9h 2c Qc 4c] [2d]
+NeutrinoAl: checks 
+DaniChapu83: checks 
+kultex: checks 
+*** SHOW DOWN ***
+NeutrinoAl: shows [5s Kc] (a pair of Deuces)
+DaniChapu83: mucks hand 
+kultex: shows [5h 4d] (two pair, Fours and Deuces)
+kultex collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9h 2c Qc 4c 2d]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) showed [5s Kc] and lost with a pair of Deuces
+Seat 3: DaniChapu83 (big blind) mucked [8c 7h]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex showed [5h 4d] and won ($0.06) with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #239424447826:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:44:02 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.95 in chips) 
+Seat 3: DaniChapu83 ($0.61 in chips) 
+Seat 4: Lorpugo ($3.37 in chips) 
+Seat 5: wjn738 ($2.03 in chips) 
+Seat 6: kultex ($2.01 in chips) 
+DaniChapu83: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Td]
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: calls $0.02
+DaniChapu83: folds 
+Lorpugo: checks 
+*** FLOP *** [4h 8h Qs]
+Lorpugo: checks 
+NeutrinoAl: checks 
+*** TURN *** [4h 8h Qs] [7s]
+Lorpugo: checks 
+NeutrinoAl: checks 
+*** RIVER *** [4h 8h Qs 7s] [3c]
+Lorpugo: checks 
+NeutrinoAl: bets $0.05
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to NeutrinoAl
+NeutrinoAl collected $0.05 from pot
+NeutrinoAl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h 8h Qs 7s 3c]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (button) collected ($0.05)
+Seat 3: DaniChapu83 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the River
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424463825:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:44:58 ET
+Table 'Aconcagua II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.98 in chips) 
+Seat 3: DaniChapu83 ($0.60 in chips) 
+Seat 4: Lorpugo ($3.35 in chips) 
+Seat 5: wjn738 ($2.03 in chips) 
+Seat 6: kultex ($2.01 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 7d]
+kultex: folds 
+Nikeim: raises $0.04 to $0.06
+NeutrinoAl: calls $0.06
+DaniChapu83: calls $0.06
+Lorpugo: folds 
+wjn738: folds 
+*** FLOP *** [7s Ac Ts]
+Nikeim: checks 
+NeutrinoAl: checks 
+DaniChapu83: checks 
+*** TURN *** [7s Ac Ts] [5h]
+Nikeim: checks 
+NeutrinoAl: checks 
+DaniChapu83: checks 
+*** RIVER *** [7s Ac Ts 5h] [5s]
+Nikeim: bets $0.13
+NeutrinoAl: folds 
+DaniChapu83: folds 
+Uncalled bet ($0.13) returned to Nikeim
+Nikeim collected $0.20 from pot
+Nikeim: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7s Ac Ts 5h 5s]
+Seat 1: Nikeim collected ($0.20)
+Seat 2: NeutrinoAl folded on the River
+Seat 3: DaniChapu83 (button) folded on the River
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: wjn738 (big blind) folded before Flop
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424476630:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:45:41 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2.14 in chips) 
+Seat 2: NeutrinoAl ($1.92 in chips) 
+Seat 3: DaniChapu83 ($0.54 in chips) 
+Seat 4: Lorpugo ($3.34 in chips) 
+Seat 5: wjn738 ($2.01 in chips) 
+Seat 6: kultex ($2.01 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Kc]
+Nikeim: folds 
+NeutrinoAl: calls $0.02
+DaniChapu83: calls $0.02
+Lorpugo: calls $0.02
+wjn738: calls $0.01
+kultex: checks 
+*** FLOP *** [9c Ts As]
+wjn738: checks 
+kultex: checks 
+NeutrinoAl: checks 
+DaniChapu83: checks 
+Lorpugo: checks 
+*** TURN *** [9c Ts As] [Ad]
+wjn738: checks 
+kultex: checks 
+NeutrinoAl: checks 
+DaniChapu83: checks 
+Lorpugo: bets $0.03
+wjn738: calls $0.03
+kultex: folds 
+NeutrinoAl: calls $0.03
+DaniChapu83: folds 
+*** RIVER *** [9c Ts As Ad] [5s]
+wjn738: checks 
+NeutrinoAl: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+wjn738: shows [Kh Tc] (two pair, Aces and Tens)
+NeutrinoAl: mucks hand 
+Lorpugo: mucks hand 
+wjn738 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9c Ts As Ad 5s]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl mucked [Js Th]
+Seat 3: DaniChapu83 folded on the Turn
+Seat 4: Lorpugo (button) mucked [8c Kc]
+Seat 5: wjn738 (small blind) showed [Kh Tc] and won ($0.18) with two pair, Aces and Tens
+Seat 6: kultex (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239424498462:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:46:57 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2.14 in chips) 
+Seat 2: NeutrinoAl ($1.87 in chips) 
+Seat 3: DaniChapu83 ($0.52 in chips) 
+Seat 4: Lorpugo ($3.29 in chips) 
+Seat 5: wjn738 ($2.14 in chips) 
+Seat 6: kultex ($1.99 in chips) 
+kultex: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2s]
+NeutrinoAl: folds 
+DaniChapu83: calls $0.02
+Lorpugo: folds 
+wjn738: folds 
+kultex: folds 
+Nikeim: checks 
+*** FLOP *** [4c 5d Qs]
+Nikeim: checks 
+DaniChapu83: checks 
+*** TURN *** [4c 5d Qs] [Tc]
+Nikeim: checks 
+DaniChapu83: bets $0.02
+Nikeim: folds 
+Uncalled bet ($0.02) returned to DaniChapu83
+DaniChapu83 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4c 5d Qs Tc]
+Seat 1: Nikeim (big blind) folded on the Turn
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: DaniChapu83 collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+Seat 6: kultex (small blind) folded before Flop
+
+
+
+PokerStars Hand #239424509186:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:47:34 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2.12 in chips) 
+Seat 2: NeutrinoAl ($1.87 in chips) 
+Seat 3: DaniChapu83 ($0.55 in chips) 
+Seat 4: Lorpugo ($3.29 in chips) 
+Seat 5: wjn738 ($2.14 in chips) 
+Seat 6: kultex ($1.98 in chips) 
+Nikeim: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ah]
+DaniChapu83: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+DaniChapu83: calls $0.07
+*** FLOP *** [5c Kd Qd]
+DaniChapu83: bets $0.02
+Lorpugo: raises $0.12 to $0.14
+DaniChapu83: calls $0.12
+*** TURN *** [5c Kd Qd] [3d]
+DaniChapu83: bets $0.32 and is all-in
+Lorpugo: calls $0.32
+*** RIVER *** [5c Kd Qd 3d] [9d]
+*** SHOW DOWN ***
+DaniChapu83: shows [Kh Jc] (a pair of Kings)
+Lorpugo: shows [Ks Ah] (a pair of Kings - Ace kicker)
+Lorpugo collected $1.09 from pot
+DaniChapu83 cashed out the hand for $0.08
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [5c Kd Qd 3d 9d]
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: NeutrinoAl (big blind) folded before Flop
+Seat 3: DaniChapu83 showed [Kh Jc] and lost with a pair of Kings (cashed out).
+Seat 4: Lorpugo showed [Ks Ah] and won ($1.09) with a pair of Kings
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424519942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:48:11 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2.11 in chips) 
+Seat 2: NeutrinoAl ($1.85 in chips) 
+Seat 3: DaniChapu83 ($0.08 in chips) 
+Seat 4: Lorpugo ($3.83 in chips) 
+Seat 5: wjn738 ($2.14 in chips) 
+Seat 6: kultex ($1.98 in chips) 
+NeutrinoAl: posts small blind $0.01
+DaniChapu83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 2s]
+Lorpugo: folds 
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: calls $0.01
+DaniChapu83: checks 
+*** FLOP *** [Qc Kd Jd]
+NeutrinoAl: bets $0.02
+DaniChapu83: calls $0.02
+*** TURN *** [Qc Kd Jd] [4s]
+NeutrinoAl: checks 
+DaniChapu83: checks 
+*** RIVER *** [Qc Kd Jd 4s] [6s]
+NeutrinoAl: checks 
+DaniChapu83: checks 
+*** SHOW DOWN ***
+NeutrinoAl: shows [8h Jh] (a pair of Jacks)
+DaniChapu83: mucks hand 
+NeutrinoAl collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qc Kd Jd 4s 6s]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) showed [8h Jh] and won ($0.08) with a pair of Jacks
+Seat 3: DaniChapu83 (big blind) mucked [5s Tc]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424531703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:48:51 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2.11 in chips) 
+Seat 2: NeutrinoAl ($1.89 in chips) 
+Seat 3: DaniChapu83 ($0.04 in chips) 
+Seat 4: Lorpugo ($3.83 in chips) 
+Seat 5: wjn738 ($2.14 in chips) 
+Seat 6: kultex ($1.98 in chips) 
+DaniChapu83: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9c]
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: calls $0.02
+DaniChapu83: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ac 7h As]
+DaniChapu83: checks 
+Lorpugo: bets $0.04
+NeutrinoAl: folds 
+DaniChapu83: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ac 7h As]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (button) folded on the Flop
+Seat 3: DaniChapu83 (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) collected ($0.06)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424540833:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:49:22 ET
+Table 'Aconcagua II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2.11 in chips) 
+Seat 2: NeutrinoAl ($1.87 in chips) 
+Seat 3: DaniChapu83 ($0.02 in chips) 
+Seat 4: Lorpugo ($3.87 in chips) 
+Seat 5: wjn738 ($2.14 in chips) 
+Seat 6: kultex ($1.98 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 6s]
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+DaniChapu83: calls $0.02 and is all-in
+Lorpugo: calls $0.01
+wjn738: checks 
+*** FLOP *** [8h 6c 6d]
+Lorpugo: bets $0.04
+wjn738: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+*** TURN *** [8h 6c 6d] [Ah]
+*** RIVER *** [8h 6c 6d Ah] [7d]
+*** SHOW DOWN ***
+Lorpugo: shows [Qs 6s] (three of a kind, Sixes)
+DaniChapu83: shows [8s 7s] (two pair, Eights and Sevens)
+Lorpugo collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8h 6c 6d Ah 7d]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: DaniChapu83 (button) showed [8s 7s] and lost with two pair, Eights and Sevens
+Seat 4: Lorpugo (small blind) showed [Qs 6s] and won ($0.06) with three of a kind, Sixes
+Seat 5: wjn738 (big blind) folded on the Flop
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424552710:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:50:02 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2.11 in chips) 
+Seat 2: NeutrinoAl ($1.87 in chips) 
+Seat 4: Lorpugo ($3.91 in chips) 
+Seat 5: wjn738 ($2.12 in chips) 
+Seat 6: kultex ($1.98 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 5d]
+Nikeim: folds 
+NeutrinoAl: calls $0.02
+Lorpugo: folds 
+wjn738: folds 
+kultex: checks 
+*** FLOP *** [8d As 9d]
+DaniChapu83 leaves the table
+kultex: checks 
+VasATot joins the table at seat #3 
+NeutrinoAl: checks 
+*** TURN *** [8d As 9d] [4s]
+kultex: checks 
+NeutrinoAl: checks 
+*** RIVER *** [8d As 9d 4s] [7d]
+kultex: checks 
+NeutrinoAl: checks 
+*** SHOW DOWN ***
+kultex: shows [8h Qc] (a pair of Eights)
+NeutrinoAl: mucks hand 
+kultex collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d As 9d 4s 7d]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl mucked [Qd Kc]
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: wjn738 (small blind) folded before Flop
+Seat 6: kultex (big blind) showed [8h Qc] and won ($0.05) with a pair of Eights
+
+
+
+PokerStars Hand #239424563250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:50:39 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2.11 in chips) 
+Seat 2: NeutrinoAl ($1.85 in chips) 
+Seat 3: VasATot ($0.80 in chips) 
+Seat 4: Lorpugo ($3.91 in chips) 
+Seat 5: wjn738 ($2.11 in chips) 
+Seat 6: kultex ($2.01 in chips) 
+kultex: posts small blind $0.01
+Nikeim: posts big blind $0.02
+VasATot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Kc]
+NeutrinoAl: folds 
+VasATot: checks 
+Lorpugo: folds 
+wjn738: folds 
+kultex: folds 
+Nikeim: checks 
+*** FLOP *** [9s Qc 8d]
+Nikeim: checks 
+VasATot: checks 
+*** TURN *** [9s Qc 8d] [Th]
+Nikeim: checks 
+VasATot: checks 
+*** RIVER *** [9s Qc 8d Th] [Jh]
+Nikeim: checks 
+VasATot: checks 
+*** SHOW DOWN ***
+Nikeim: shows [6h Ad] (a straight, Eight to Queen)
+VasATot: shows [2c 9h] (a straight, Eight to Queen)
+Nikeim collected $0.03 from pot
+VasATot collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s Qc 8d Th Jh]
+Seat 1: Nikeim (big blind) showed [6h Ad] and won ($0.03) with a straight, Eight to Queen
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: VasATot showed [2c 9h] and won ($0.02) with a straight, Eight to Queen
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+Seat 6: kultex (small blind) folded before Flop
+
+
+
+PokerStars Hand #239424570564:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:51:04 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2.12 in chips) 
+Seat 2: NeutrinoAl ($1.85 in chips) 
+Seat 3: VasATot ($0.84 in chips) 
+Seat 4: Lorpugo ($3.91 in chips) 
+Seat 5: wjn738 ($2.11 in chips) 
+Seat 6: kultex ($2 in chips) 
+Nikeim: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 5d]
+VasATot: calls $0.02
+Lorpugo: folds 
+wjn738: calls $0.02
+kultex: folds 
+Nikeim: raises $0.08 to $0.10
+NeutrinoAl: folds 
+VasATot: folds 
+wjn738: calls $0.08
+*** FLOP *** [7s 3d Kd]
+Nikeim: checks 
+wjn738: checks 
+*** TURN *** [7s 3d Kd] [3c]
+Nikeim: bets $0.15
+wjn738: calls $0.15
+*** RIVER *** [7s 3d Kd 3c] [Ts]
+Nikeim: checks 
+wjn738: bets $0.30
+Nikeim: calls $0.30
+*** SHOW DOWN ***
+wjn738: shows [3h 3s] (four of a kind, Threes)
+Nikeim: mucks hand 
+wjn738 collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.04 
+Board [7s 3d Kd 3c Ts]
+Seat 1: Nikeim (small blind) mucked [Js Td]
+Seat 2: NeutrinoAl (big blind) folded before Flop
+Seat 3: VasATot folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 showed [3h 3s] and won ($1.10) with four of a kind, Threes
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424589111:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:52:07 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.83 in chips) 
+Seat 3: VasATot ($0.82 in chips) 
+Seat 4: Lorpugo ($3.91 in chips) 
+Seat 5: wjn738 ($2.66 in chips) 
+Seat 6: kultex ($2 in chips) 
+NeutrinoAl: posts small blind $0.01
+VasATot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Th]
+Lorpugo: raises $0.04 to $0.06
+wjn738: folds 
+kultex: calls $0.06
+Nikeim: folds 
+NeutrinoAl: folds 
+VasATot: calls $0.04
+*** FLOP *** [Kh 2d 6d]
+VasATot: checks 
+Lorpugo: checks 
+kultex: checks 
+*** TURN *** [Kh 2d 6d] [Ac]
+VasATot: bets $0.06
+Lorpugo: folds 
+kultex: folds 
+Uncalled bet ($0.06) returned to VasATot
+VasATot collected $0.18 from pot
+VasATot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kh 2d 6d Ac]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) folded before Flop
+Seat 3: VasATot (big blind) collected ($0.18)
+Seat 4: Lorpugo folded on the Turn
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded on the Turn
+
+
+
+PokerStars Hand #239424601627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:52:50 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.82 in chips) 
+Seat 3: VasATot ($0.94 in chips) 
+Seat 4: Lorpugo ($3.85 in chips) 
+Seat 5: wjn738 ($2.66 in chips) 
+Seat 6: kultex ($1.94 in chips) 
+VasATot: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 3d]
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+VasATot: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+VasATot: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (button) folded before Flop (didn't bet)
+Seat 3: VasATot (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.04)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424607576:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:53:11 ET
+Table 'Aconcagua II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.82 in chips) 
+Seat 3: VasATot ($0.92 in chips) 
+Seat 4: Lorpugo ($3.87 in chips) 
+Seat 5: wjn738 ($2.66 in chips) 
+Seat 6: kultex ($1.94 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Qh]
+kultex: folds 
+Nikeim: raises $0.04 to $0.06
+NeutrinoAl: folds 
+VasATot: calls $0.06
+Lorpugo: folds 
+wjn738: calls $0.04
+*** FLOP *** [Qs Jd Ac]
+wjn738: checks 
+Nikeim: checks 
+VasATot: checks 
+*** TURN *** [Qs Jd Ac] [Qc]
+wjn738: checks 
+Nikeim: checks 
+VasATot: checks 
+*** RIVER *** [Qs Jd Ac Qc] [Td]
+wjn738: checks 
+Nikeim: checks 
+VasATot: checks 
+*** SHOW DOWN ***
+wjn738: shows [7h 8h] (a pair of Queens)
+Nikeim: shows [7d 7s] (two pair, Queens and Sevens)
+VasATot: shows [6h Ah] (two pair, Aces and Queens)
+VasATot collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qs Jd Ac Qc Td]
+Seat 1: Nikeim showed [7d 7s] and lost with two pair, Queens and Sevens
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: VasATot (button) showed [6h Ah] and won ($0.18) with two pair, Aces and Queens
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: wjn738 (big blind) showed [7h 8h] and lost with a pair of Queens
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424620514:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:53:55 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.82 in chips) 
+Seat 3: VasATot ($1.04 in chips) 
+Seat 4: Lorpugo ($3.86 in chips) 
+Seat 5: wjn738 ($2.60 in chips) 
+Seat 6: kultex ($1.94 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 2c]
+Nikeim: folds 
+NeutrinoAl: folds 
+VasATot: calls $0.02
+Lorpugo: folds 
+wjn738: calls $0.01
+kultex: checks 
+*** FLOP *** [Jd 4c Qd]
+wjn738: checks 
+kultex: checks 
+VasATot: checks 
+*** TURN *** [Jd 4c Qd] [9h]
+wjn738: checks 
+kultex: checks 
+VasATot: checks 
+*** RIVER *** [Jd 4c Qd 9h] [Ac]
+wjn738: checks 
+kultex: checks 
+VasATot: bets $0.02
+wjn738: calls $0.02
+kultex: folds 
+*** SHOW DOWN ***
+VasATot: shows [As 6h] (a pair of Aces)
+wjn738: shows [Ad 8h] (a pair of Aces)
+wjn738 collected $0.05 from pot
+VasATot collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jd 4c Qd 9h Ac]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: VasATot showed [As 6h] and won ($0.05) with a pair of Aces
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: wjn738 (small blind) showed [Ad 8h] and won ($0.05) with a pair of Aces
+Seat 6: kultex (big blind) folded on the River
+
+
+
+PokerStars Hand #239424634504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:54:42 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.82 in chips) 
+Seat 3: VasATot ($1.05 in chips) 
+Seat 4: Lorpugo ($3.86 in chips) 
+Seat 5: wjn738 ($2.61 in chips) 
+Seat 6: kultex ($1.92 in chips) 
+kultex: posts small blind $0.01
+Nikeim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9c]
+NeutrinoAl has timed out
+NeutrinoAl: folds 
+VasATot: calls $0.02
+Lorpugo: folds 
+wjn738: calls $0.02
+kultex: calls $0.01
+Nikeim: checks 
+*** FLOP *** [Js 6h 5c]
+kultex: checks 
+Nikeim: checks 
+VasATot: checks 
+wjn738: bets $0.04
+kultex: folds 
+Nikeim: folds 
+VasATot: folds 
+Uncalled bet ($0.04) returned to wjn738
+wjn738 collected $0.08 from pot
+wjn738: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Js 6h 5c]
+Seat 1: Nikeim (big blind) folded on the Flop
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: VasATot folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 (button) collected ($0.08)
+Seat 6: kultex (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239424645360:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:55:22 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.82 in chips) 
+Seat 3: VasATot ($1.03 in chips) 
+Seat 4: Lorpugo ($3.86 in chips) 
+Seat 5: wjn738 ($2.67 in chips) 
+Seat 6: kultex ($1.90 in chips) 
+Nikeim: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9c]
+VasATot: calls $0.02
+Lorpugo: folds 
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: checks 
+*** FLOP *** [3d Qc Td]
+NeutrinoAl: checks 
+VasATot: checks 
+*** TURN *** [3d Qc Td] [Jc]
+NeutrinoAl: bets $0.05
+VasATot: calls $0.05
+*** RIVER *** [3d Qc Td Jc] [Qh]
+NeutrinoAl: checks 
+VasATot: checks 
+*** SHOW DOWN ***
+NeutrinoAl: shows [Js Ts] (two pair, Queens and Jacks)
+VasATot: mucks hand 
+NeutrinoAl collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3d Qc Td Jc Qh]
+Seat 1: Nikeim (small blind) folded before Flop
+Seat 2: NeutrinoAl (big blind) showed [Js Ts] and won ($0.14) with two pair, Queens and Jacks
+Seat 3: VasATot mucked [Ac 9d]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424652009:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:55:51 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.89 in chips) 
+Seat 3: VasATot ($0.96 in chips) 
+Seat 4: Lorpugo ($3.86 in chips) 
+Seat 5: wjn738 ($2.67 in chips) 
+Seat 6: kultex ($1.90 in chips) 
+NeutrinoAl: posts small blind $0.01
+VasATot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5s]
+Lorpugo: folds 
+wjn738: raises $0.02 to $0.04
+kultex: calls $0.04
+Nikeim: folds 
+NeutrinoAl: folds 
+VasATot: calls $0.02
+*** FLOP *** [2c 7s 9h]
+VasATot: checks 
+wjn738: checks 
+kultex: checks 
+*** TURN *** [2c 7s 9h] [7d]
+VasATot: checks 
+wjn738: checks 
+kultex: checks 
+*** RIVER *** [2c 7s 9h 7d] [Kc]
+VasATot: checks 
+wjn738: checks 
+kultex: checks 
+*** SHOW DOWN ***
+VasATot: shows [6c Ah] (a pair of Sevens)
+wjn738: shows [As 2s] (two pair, Sevens and Deuces)
+kultex: mucks hand 
+wjn738 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2c 7s 9h 7d Kc]
+Seat 1: Nikeim (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) folded before Flop
+Seat 3: VasATot (big blind) showed [6c Ah] and lost with a pair of Sevens
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 showed [As 2s] and won ($0.13) with two pair, Sevens and Deuces
+Seat 6: kultex mucked [Qh Jh]
+
+
+
+PokerStars Hand #239424661499:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:56:31 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.88 in chips) 
+Seat 3: VasATot ($0.92 in chips) 
+Seat 4: Lorpugo ($3.86 in chips) 
+Seat 5: wjn738 ($2.76 in chips) 
+Seat 6: kultex ($1.86 in chips) 
+VasATot: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 9s]
+wjn738: folds 
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+VasATot: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to VasATot
+VasATot collected $0.04 from pot
+VasATot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (button) folded before Flop (didn't bet)
+Seat 3: VasATot (small blind) collected ($0.04)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424664987:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:56:45 ET
+Table 'Aconcagua II' 6-max Seat #3 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.88 in chips) 
+Seat 3: VasATot ($0.94 in chips) 
+Seat 4: Lorpugo ($3.84 in chips) 
+Seat 5: wjn738 ($2.76 in chips) 
+Seat 6: kultex ($1.86 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Kc]
+kultex: folds 
+Nikeim: folds 
+NeutrinoAl: folds 
+VasATot: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+wjn738: folds 
+VasATot: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: VasATot (button) folded before Flop
+Seat 4: Lorpugo (small blind) collected ($0.06)
+Seat 5: wjn738 (big blind) folded before Flop
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424669204:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:57:03 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: Nikeim ($2 in chips) 
+Seat 2: NeutrinoAl ($1.88 in chips) 
+Seat 3: VasATot ($0.92 in chips) 
+Seat 4: Lorpugo ($3.88 in chips) 
+Seat 5: wjn738 ($2.74 in chips) 
+Seat 6: kultex ($1.86 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ts]
+Nikeim: folds 
+NeutrinoAl: calls $0.02
+VasATot: calls $0.02
+Lorpugo: raises $0.09 to $0.11
+wjn738: folds 
+kultex: calls $0.09
+NeutrinoAl: folds 
+VasATot: folds 
+*** FLOP *** [7c Ad 8d]
+kultex: checks 
+Lorpugo: checks 
+*** TURN *** [7c Ad 8d] [3c]
+kultex: checks 
+Lorpugo: checks 
+*** RIVER *** [7c Ad 8d 3c] [Th]
+kultex: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+kultex: shows [Td Tc] (three of a kind, Tens)
+Lorpugo: mucks hand 
+kultex collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7c Ad 8d 3c Th]
+Seat 1: Nikeim folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded before Flop
+Seat 3: VasATot folded before Flop
+Seat 4: Lorpugo (button) mucked [Kd Ts]
+Seat 5: wjn738 (small blind) folded before Flop
+Seat 6: kultex (big blind) showed [Td Tc] and won ($0.26) with three of a kind, Tens
+
+
+
+PokerStars Hand #239424680648:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:57:51 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 2: NeutrinoAl ($1.86 in chips) 
+Seat 3: VasATot ($0.90 in chips) 
+Seat 4: Lorpugo ($3.77 in chips) 
+Seat 5: wjn738 ($2.73 in chips) 
+Seat 6: kultex ($2.01 in chips) 
+kultex: posts small blind $0.01
+Nikeim: is sitting out 
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ts]
+VasATot: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+wjn738: folds 
+kultex: folds 
+NeutrinoAl: folds 
+VasATot: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Nikeim leaves the table
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: NeutrinoAl (big blind) folded before Flop
+Seat 3: VasATot folded before Flop
+Seat 4: Lorpugo collected ($0.07)
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+Seat 6: kultex (small blind) folded before Flop
+
+
+
+PokerStars Hand #239424684502:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:58:07 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 2: NeutrinoAl ($1.84 in chips) 
+Seat 3: VasATot ($0.88 in chips) 
+Seat 4: Lorpugo ($3.82 in chips) 
+Seat 5: wjn738 ($2.73 in chips) 
+Seat 6: kultex ($2 in chips) 
+NeutrinoAl: posts small blind $0.01
+VasATot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 3h]
+Lorpugo: folds 
+wjn738: folds 
+kultex: calls $0.02
+NeutrinoAl: folds 
+VasATot: checks 
+*** FLOP *** [5c 9c 2d]
+VasATot: bets $0.02
+kultex: calls $0.02
+*** TURN *** [5c 9c 2d] [Qh]
+yoony319 joins the table at seat #1 
+VasATot: bets $0.04
+kultex: calls $0.04
+*** RIVER *** [5c 9c 2d Qh] [Ad]
+VasATot: bets $0.08
+kultex: folds 
+Uncalled bet ($0.08) returned to VasATot
+VasATot collected $0.16 from pot
+VasATot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5c 9c 2d Qh Ad]
+Seat 2: NeutrinoAl (small blind) folded before Flop
+Seat 3: VasATot (big blind) collected ($0.16)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex (button) folded on the River
+
+
+
+PokerStars Hand #239424692749:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:58:42 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: yoony319 ($1.50 in chips) 
+Seat 2: NeutrinoAl ($1.83 in chips) 
+Seat 3: VasATot ($0.96 in chips) 
+Seat 4: Lorpugo ($3.82 in chips) 
+Seat 5: wjn738 ($2.73 in chips) 
+Seat 6: kultex ($1.92 in chips) 
+VasATot: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+yoony319: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 5s]
+wjn738: folds 
+kultex: folds 
+yoony319: raises $0.02 to $0.04
+NeutrinoAl: calls $0.04
+VasATot: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [7h 3s Qc]
+Lorpugo: checks 
+yoony319: bets $0.02
+NeutrinoAl: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to yoony319
+yoony319 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7h 3s Qc]
+Seat 1: yoony319 collected ($0.13)
+Seat 2: NeutrinoAl (button) folded on the Flop
+Seat 3: VasATot (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424702492:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 11:59:23 ET
+Table 'Aconcagua II' 6-max Seat #3 is the button
+Seat 1: yoony319 ($1.59 in chips) 
+Seat 2: NeutrinoAl ($1.79 in chips) 
+Seat 3: VasATot ($0.95 in chips) 
+Seat 4: Lorpugo ($3.78 in chips) 
+Seat 5: wjn738 ($2.73 in chips) 
+Seat 6: kultex ($1.92 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 6c]
+kultex: folds 
+yoony319: folds 
+NeutrinoAl: raises $0.02 to $0.04
+VasATot: calls $0.04
+Lorpugo: folds 
+wjn738: folds 
+*** FLOP *** [Kc 6h 3d]
+NeutrinoAl: checks 
+VasATot: checks 
+*** TURN *** [Kc 6h 3d] [8d]
+NeutrinoAl: checks 
+VasATot: checks 
+*** RIVER *** [Kc 6h 3d 8d] [Ts]
+NeutrinoAl: checks 
+VasATot: bets $0.05
+NeutrinoAl: folds 
+Uncalled bet ($0.05) returned to VasATot
+VasATot collected $0.11 from pot
+VasATot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kc 6h 3d 8d Ts]
+Seat 1: yoony319 folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded on the River
+Seat 3: VasATot (button) collected ($0.11)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: wjn738 (big blind) folded before Flop
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424713758:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:00:11 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: yoony319 ($1.59 in chips) 
+Seat 2: NeutrinoAl ($1.75 in chips) 
+Seat 3: VasATot ($1.02 in chips) 
+Seat 4: Lorpugo ($3.77 in chips) 
+Seat 5: wjn738 ($2.71 in chips) 
+Seat 6: kultex ($1.92 in chips) 
+wjn738: posts small blind $0.01
+kultex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ac]
+yoony319: folds 
+NeutrinoAl: folds 
+VasATot: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+wjn738: folds 
+kultex: folds 
+VasATot: raises $0.23 to $0.33
+Lorpugo: calls $0.23
+*** FLOP *** [Qs 6d Ad]
+VasATot: bets $0.67
+Lorpugo: raises $2.01 to $2.68
+VasATot: calls $0.02 and is all-in
+Uncalled bet ($1.99) returned to Lorpugo
+*** TURN *** [Qs 6d Ad] [Qh]
+*** RIVER *** [Qs 6d Ad Qh] [3s]
+*** SHOW DOWN ***
+VasATot: shows [As 7c] (two pair, Aces and Queens)
+Lorpugo: shows [Tc Ac] (two pair, Aces and Queens - Ten kicker)
+Lorpugo collected $2 from pot
+*** SUMMARY ***
+Total pot $2.07 | Rake $0.07 
+Board [Qs 6d Ad Qh 3s]
+Seat 1: yoony319 folded before Flop (didn't bet)
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: VasATot showed [As 7c] and lost with two pair, Aces and Queens
+Seat 4: Lorpugo (button) showed [Tc Ac] and won ($2) with two pair, Aces and Queens
+Seat 5: wjn738 (small blind) folded before Flop
+Seat 6: kultex (big blind) folded before Flop
+
+
+
+PokerStars Hand #239424725324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:00:56 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: yoony319 ($1.59 in chips) 
+Seat 2: NeutrinoAl ($1.75 in chips) 
+Seat 4: Lorpugo ($4.75 in chips) 
+Seat 5: wjn738 ($2.70 in chips) 
+Seat 6: kultex ($1.90 in chips) 
+kultex: posts small blind $0.01
+yoony319: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 9h]
+NeutrinoAl: calls $0.02
+VasATot leaves the table
+Lorpugo: raises $0.04 to $0.06
+wjn738: folds 
+Jaykoman joins the table at seat #3 
+kultex: calls $0.05
+yoony319: folds 
+NeutrinoAl: calls $0.04
+*** FLOP *** [Kc 3c Qc]
+kultex: checks 
+NeutrinoAl: checks 
+Lorpugo: checks 
+*** TURN *** [Kc 3c Qc] [2s]
+kultex: checks 
+NeutrinoAl: checks 
+Lorpugo: checks 
+*** RIVER *** [Kc 3c Qc 2s] [5d]
+kultex: checks 
+NeutrinoAl: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+kultex: shows [Ks Kh] (three of a kind, Kings)
+NeutrinoAl: mucks hand 
+Lorpugo: mucks hand 
+kultex collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kc 3c Qc 2s 5d]
+Seat 1: yoony319 (big blind) folded before Flop
+Seat 2: NeutrinoAl mucked [Th Ah]
+Seat 4: Lorpugo mucked [6h 9h]
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+Seat 6: kultex (small blind) showed [Ks Kh] and won ($0.19) with three of a kind, Kings
+
+
+
+PokerStars Hand #239424742096:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:01:55 ET
+Table 'Aconcagua II' 6-max Seat #6 is the button
+Seat 1: yoony319 ($1.57 in chips) 
+Seat 2: NeutrinoAl ($1.69 in chips) 
+Seat 4: Lorpugo ($4.69 in chips) 
+Seat 6: kultex ($2.03 in chips) 
+yoony319: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+Jaykoman: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4h]
+Lorpugo: folds 
+kultex: folds 
+yoony319: calls $0.01
+NeutrinoAl: checks 
+*** FLOP *** [Qd 3d Qh]
+yoony319: bets $0.04
+NeutrinoAl: folds 
+Uncalled bet ($0.04) returned to yoony319
+yoony319 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qd 3d Qh]
+Seat 1: yoony319 (small blind) collected ($0.04)
+Seat 2: NeutrinoAl (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: kultex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424750846:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:02:25 ET
+Table 'Aconcagua II' 6-max Seat #1 is the button
+Seat 1: yoony319 ($1.59 in chips) 
+Seat 2: NeutrinoAl ($1.67 in chips) 
+Seat 3: Jaykoman ($2 in chips) 
+Seat 4: Lorpugo ($4.69 in chips) 
+Seat 6: kultex ($2.03 in chips) 
+NeutrinoAl: posts small blind $0.01
+Jaykoman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Jd]
+Lorpugo: raises $0.04 to $0.06
+kultex: folds 
+yoony319: folds 
+NeutrinoAl: calls $0.05
+Jaykoman: folds 
+*** FLOP *** [Qh 8s 2h]
+NeutrinoAl: checks 
+Lorpugo: bets $0.05
+NeutrinoAl: calls $0.05
+*** TURN *** [Qh 8s 2h] [5d]
+NeutrinoAl: checks 
+Lorpugo: bets $0.28
+NeutrinoAl: folds 
+Uncalled bet ($0.28) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Qh 8s 2h 5d]
+Seat 1: yoony319 (button) folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (small blind) folded on the Turn
+Seat 3: Jaykoman (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.23)
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424763720:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:03:10 ET
+Table 'Aconcagua II' 6-max Seat #2 is the button
+Seat 1: yoony319 ($1.59 in chips) 
+Seat 2: NeutrinoAl ($1.56 in chips) 
+Seat 3: Jaykoman ($1.98 in chips) 
+Seat 4: Lorpugo ($4.81 in chips) 
+Seat 5: wjn738 ($2.70 in chips) 
+Seat 6: kultex ($2.03 in chips) 
+Jaykoman: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qc]
+wjn738: folds 
+kultex: calls $0.02
+yoony319: folds 
+NeutrinoAl: folds 
+Jaykoman: raises $0.02 to $0.04
+Lorpugo: raises $0.10 to $0.14
+kultex: folds 
+Jaykoman: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yoony319 folded before Flop (didn't bet)
+Seat 2: NeutrinoAl (button) folded before Flop (didn't bet)
+Seat 3: Jaykoman (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.10)
+Seat 5: wjn738 folded before Flop (didn't bet)
+Seat 6: kultex folded before Flop
+
+
+
+PokerStars Hand #239424773412:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:03:42 ET
+Table 'Aconcagua II' 6-max Seat #3 is the button
+Seat 1: yoony319 ($1.59 in chips) 
+Seat 2: NeutrinoAl ($1.56 in chips) 
+Seat 3: Jaykoman ($1.94 in chips) 
+Seat 4: Lorpugo ($4.87 in chips) 
+Seat 5: wjn738 ($2.70 in chips) 
+Seat 6: kultex ($2.01 in chips) 
+Lorpugo: posts small blind $0.01
+wjn738: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5c]
+kultex: folds 
+kultex leaves the table
+yoony319: raises $0.02 to $0.04
+NeutrinoAl: folds 
+Jaykoman: folds 
+Lorpugo: folds 
+wjn738: folds 
+Uncalled bet ($0.02) returned to yoony319
+yoony319 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yoony319 collected ($0.05)
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: Jaykoman (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: wjn738 (big blind) folded before Flop
+Seat 6: kultex folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239424781858:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:04:10 ET
+Table 'Aconcagua II' 6-max Seat #4 is the button
+Seat 1: yoony319 ($1.62 in chips) 
+Seat 2: NeutrinoAl ($1.56 in chips) 
+Seat 3: Jaykoman ($1.94 in chips) 
+Seat 4: Lorpugo ($4.86 in chips) 
+Seat 5: wjn738 ($2.68 in chips) 
+wjn738: posts small blind $0.01
+yoony319: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 9s]
+NeutrinoAl: folds 
+deinemodda83 joins the table at seat #6 
+Jaykoman: folds 
+Lorpugo: raises $0.05 to $0.07
+wjn738: folds 
+yoony319: calls $0.05
+*** FLOP *** [Th Tc 6c]
+yoony319: checks 
+Lorpugo: bets $0.09
+yoony319: calls $0.09
+*** TURN *** [Th Tc 6c] [As]
+yoony319: checks 
+Lorpugo: bets $0.21
+yoony319: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Th Tc 6c As]
+Seat 1: yoony319 (big blind) folded on the Turn
+Seat 2: NeutrinoAl folded before Flop (didn't bet)
+Seat 3: Jaykoman folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.32)
+Seat 5: wjn738 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239424796321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/24 12:04:59 ET
+Table 'Aconcagua II' 6-max Seat #5 is the button
+Seat 1: yoony319 ($1.46 in chips) 
+Seat 2: NeutrinoAl ($1.56 in chips) 
+Seat 3: Jaykoman ($1.94 in chips) 
+Seat 4: Lorpugo ($5.02 in chips) 
+Seat 5: wjn738 ($2.67 in chips) 
+yoony319: posts small blind $0.01
+NeutrinoAl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2d]
+Jaykoman: folds 
+Lorpugo: raises $0.04 to $0.06
+wjn738: folds 
+yoony319: folds 
+NeutrinoAl: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yoony319 (small blind) folded before Flop
+Seat 2: NeutrinoAl (big blind) folded before Flop
+Seat 3: Jaykoman folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: wjn738 (button) folded before Flop (didn't bet)
+
+
+

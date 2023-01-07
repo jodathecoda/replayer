@@ -1,0 +1,4019 @@
+﻿PokerStars Hand #240724838797:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:22:32 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: fabio-bibi ($0.82 in chips) 
+Seat 2: rsxcd479 ($2.97 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2.05 in chips) 
+Seat 5: strigoi3096 ($3.03 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7s]
+fabio-bibi: folds 
+rsxcd479: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [2s 8d 9s]
+strigoi3096: checks 
+Lorpugo: checks 
+*** TURN *** [2s 8d 9s] [Ks]
+strigoi3096: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [2s 8d 9s Ks] [Ad]
+strigoi3096: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to strigoi3096
+strigoi3096 collected $0.08 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2s 8d 9s Ks Ad]
+Seat 1: fabio-bibi folded before Flop (didn't bet)
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) collected ($0.08)
+Seat 6: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #240724851661:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:23:24 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: fabio-bibi ($0.82 in chips) 
+Seat 2: rsxcd479 ($2.97 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2.05 in chips) 
+Seat 5: strigoi3096 ($3.07 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+Lorpugo: posts small blind $0.01
+fabio-bibi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Ah]
+rsxcd479: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+fabio-bibi: folds 
+strigoi3096: calls $0.08
+*** FLOP *** [6h 7c 2c]
+Lorpugo: checks 
+strigoi3096: checks 
+*** TURN *** [6h 7c 2c] [8d]
+Lorpugo: checks 
+strigoi3096: checks 
+*** RIVER *** [6h 7c 2c 8d] [2h]
+Lorpugo: checks 
+strigoi3096: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qh Ah] (a pair of Deuces)
+strigoi3096: mucks hand 
+Lorpugo collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [6h 7c 2c 8d 2h]
+Seat 1: fabio-bibi (big blind) folded before Flop
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) mucked [Ac 3s]
+Seat 6: Lorpugo (small blind) showed [Qh Ah] and won ($0.21) with a pair of Deuces
+
+
+
+PokerStars Hand #240724862139:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:24:07 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: fabio-bibi ($0.80 in chips) 
+Seat 2: rsxcd479 ($2.97 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2.05 in chips) 
+Seat 5: strigoi3096 ($2.97 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+fabio-bibi: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7s]
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+fabio-bibi: calls $0.01
+rsxcd479: raises $0.10 to $0.12
+strigoi3096: calls $0.10
+fabio-bibi: folds 
+*** FLOP *** [4d 3c 5c]
+rsxcd479: checks 
+strigoi3096: checks 
+*** TURN *** [4d 3c 5c] [9d]
+rsxcd479: checks 
+strigoi3096: checks 
+*** RIVER *** [4d 3c 5c 9d] [6d]
+rsxcd479: checks 
+strigoi3096: checks 
+*** SHOW DOWN ***
+rsxcd479: shows [Ad 6s] (a pair of Sixes)
+strigoi3096: mucks hand 
+rsxcd479 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [4d 3c 5c 9d 6d]
+Seat 1: fabio-bibi (small blind) folded before Flop
+Seat 2: rsxcd479 (big blind) showed [Ad 6s] and won ($0.25) with a pair of Sixes
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 mucked [Tc Jh]
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240724872632:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:24:49 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: fabio-bibi ($0.78 in chips) 
+Seat 2: rsxcd479 ($3.10 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2.05 in chips) 
+Seat 5: strigoi3096 ($2.85 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+rsxcd479: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Kh]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+fabio-bibi: folds 
+rsxcd479: raises $0.12 to $0.14
+01clear: folds 
+strigoi3096: calls $0.12
+*** FLOP *** [7h 7d 4h]
+rsxcd479: bets $0.19
+strigoi3096: calls $0.19
+*** TURN *** [7h 7d 4h] [9c]
+rsxcd479: bets $0.44
+strigoi3096: calls $0.44
+*** RIVER *** [7h 7d 4h 9c] [Td]
+rsxcd479: bets $1.51
+strigoi3096: folds 
+Uncalled bet ($1.51) returned to rsxcd479
+rsxcd479 collected $1.51 from pot
+rsxcd479: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05 
+Board [7h 7d 4h 9c Td]
+Seat 1: fabio-bibi (button) folded before Flop (didn't bet)
+Seat 2: rsxcd479 (small blind) collected ($1.51)
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240724885905:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:25:42 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: fabio-bibi ($0.78 in chips) 
+Seat 2: rsxcd479 ($3.84 in chips) 
+Seat 3: 01clear ($3.79 in chips) 
+Seat 4: TIGER101979 ($2.05 in chips) 
+Seat 5: strigoi3096 ($2.08 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Tc]
+strigoi3096: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+fabio-bibi: folds 
+rsxcd479: folds 
+01clear: folds 
+TIGER101979: calls $0.08
+strigoi3096: calls $0.08
+*** FLOP *** [6h 7d 2s]
+TIGER101979: checks 
+strigoi3096: checks 
+Lorpugo: bets $0.20
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [6h 7d 2s]
+Seat 1: fabio-bibi folded before Flop (didn't bet)
+Seat 2: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) folded on the Flop
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo collected ($0.30)
+
+
+
+PokerStars Hand #240724896705:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:26:25 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: fabio-bibi ($0.78 in chips) 
+Seat 2: rsxcd479 ($3.84 in chips) 
+Seat 3: 01clear ($3.78 in chips) 
+Seat 4: TIGER101979 ($2 in chips) 
+Seat 5: strigoi3096 ($1.98 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4c]
+Lorpugo: folds 
+fabio-bibi: calls $0.02
+rsxcd479: folds 
+01clear: calls $0.02
+TIGER101979: calls $0.01
+strigoi3096: checks 
+*** FLOP *** [5c 4d 6c]
+TIGER101979: checks 
+strigoi3096: checks 
+fabio-bibi: checks 
+01clear: checks 
+*** TURN *** [5c 4d 6c] [Qs]
+TIGER101979: bets $0.04
+strigoi3096: folds 
+fabio-bibi: calls $0.04
+01clear: folds 
+*** RIVER *** [5c 4d 6c Qs] [3d]
+TIGER101979: checks 
+fabio-bibi: checks 
+*** SHOW DOWN ***
+TIGER101979: shows [Th Qc] (a pair of Queens)
+fabio-bibi: mucks hand 
+TIGER101979 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [5c 4d 6c Qs 3d]
+Seat 1: fabio-bibi mucked [8c 9h]
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded on the Turn
+Seat 4: TIGER101979 (small blind) showed [Th Qc] and won ($0.15) with a pair of Queens
+Seat 5: strigoi3096 (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240724909697:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:27:16 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: fabio-bibi ($0.72 in chips) 
+Seat 2: rsxcd479 ($3.84 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.09 in chips) 
+Seat 5: strigoi3096 ($1.96 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2h]
+fabio-bibi: calls $0.02
+rsxcd479: folds 
+01clear: folds 
+TIGER101979: calls $0.02
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ks Ac 2c]
+strigoi3096: checks 
+Lorpugo: checks 
+fabio-bibi: bets $0.02
+TIGER101979: calls $0.02
+strigoi3096: folds 
+Lorpugo: calls $0.02
+*** TURN *** [Ks Ac 2c] [Qs]
+Lorpugo: checks 
+fabio-bibi: bets $0.02
+TIGER101979: calls $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [Ks Ac 2c Qs] [2d]
+Lorpugo: bets $0.32
+fabio-bibi: raises $0.32 to $0.64
+TIGER101979: folds 
+Lorpugo: raises $0.32 to $0.96
+fabio-bibi: calls $0.02 and is all-in
+Uncalled bet ($0.30) returned to Lorpugo
+*** SHOW DOWN ***
+Lorpugo: shows [Jc 2h] (three of a kind, Deuces)
+fabio-bibi: shows [Qh 2s] (a full house, Deuces full of Queens)
+fabio-bibi collected $1.47 from pot
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.05 
+Board [Ks Ac 2c Qs 2d]
+Seat 1: fabio-bibi showed [Qh 2s] and won ($1.47) with a full house, Deuces full of Queens
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded on the River
+Seat 5: strigoi3096 (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) showed [Jc 2h] and lost with three of a kind, Deuces
+
+
+
+PokerStars Hand #240724930867:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:28:39 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: fabio-bibi ($1.47 in chips) 
+Seat 2: rsxcd479 ($3.84 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.03 in chips) 
+Seat 5: strigoi3096 ($1.94 in chips) 
+Seat 6: Lorpugo ($1.15 in chips) 
+Lorpugo: posts small blind $0.01
+fabio-bibi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8d]
+rsxcd479 has timed out
+rsxcd479: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: calls $0.01
+fabio-bibi: checks 
+*** FLOP *** [5d Jh 9s]
+Lorpugo: checks 
+fabio-bibi: bets $0.04
+strigoi3096: raises $1.88 to $1.92 and is all-in
+Lorpugo: folds 
+fabio-bibi: folds 
+Uncalled bet ($1.88) returned to strigoi3096
+strigoi3096 collected $0.14 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5d Jh 9s]
+Seat 1: fabio-bibi (big blind) folded on the Flop
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) collected ($0.14)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240724947886:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:29:45 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: fabio-bibi ($1.41 in chips) 
+Seat 2: rsxcd479 ($3.84 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.03 in chips) 
+Seat 5: strigoi3096 ($2.02 in chips) 
+Seat 6: Lorpugo ($1.13 in chips) 
+fabio-bibi: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7d]
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: folds 
+Lorpugo: raises $0.04 to $0.06
+fabio-bibi: folds 
+rsxcd479: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+fabio-bibi leaves the table
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: fabio-bibi (small blind) folded before Flop
+Seat 2: rsxcd479 (big blind) folded before Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240724951374:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:29:59 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 2: rsxcd479 ($3.82 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.03 in chips) 
+Seat 5: strigoi3096 ($2.02 in chips) 
+Seat 6: Lorpugo ($1.16 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 3c]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+rsxcd479: raises $0.08 to $0.10
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: raises $0.08 to $0.18
+cherry620 joins the table at seat #1 
+rsxcd479: calls $0.08
+*** FLOP *** [9c Ks Ad]
+strigoi3096: bets $0.19
+rsxcd479: folds 
+Uncalled bet ($0.19) returned to strigoi3096
+strigoi3096 collected $0.38 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [9c Ks Ad]
+Seat 2: rsxcd479 (button) folded on the Flop
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) folded before Flop
+Seat 5: strigoi3096 collected ($0.38)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240724961186:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:30:37 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 2: rsxcd479 ($3.64 in chips) 
+Seat 3: 01clear ($3.75 in chips) 
+Seat 4: TIGER101979 ($2.01 in chips) 
+Seat 5: strigoi3096 ($2.22 in chips) 
+Seat 6: Lorpugo ($1.16 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ad]
+Lorpugo: raises $0.04 to $0.06
+rsxcd479: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240724964990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:30:52 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 2: rsxcd479 ($3.64 in chips) 
+Seat 3: 01clear ($3.75 in chips) 
+Seat 4: TIGER101979 ($2 in chips) 
+Seat 5: strigoi3096 ($2.20 in chips) 
+Seat 6: Lorpugo ($1.19 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2c]
+rsxcd479: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: folds 
+strigoi3096: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [6c 7d Jc]
+strigoi3096: checks 
+01clear: bets $0.04
+strigoi3096: folds 
+Uncalled bet ($0.04) returned to 01clear
+01clear collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6c 7d Jc]
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear collected ($0.10)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240724972399:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:31:21 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: rsxcd479 ($3.64 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2 in chips) 
+Seat 5: strigoi3096 ($2.16 in chips) 
+Seat 6: Lorpugo ($1.17 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3d]
+rsxcd479: raises $0.04 to $0.06
+01clear: folds 
+TIGER101979: calls $0.06
+strigoi3096: calls $0.06
+Lorpugo: folds 
+cherry620: folds 
+*** FLOP *** [6h 5c 3c]
+rsxcd479: checks 
+TIGER101979: checks 
+strigoi3096: checks 
+*** TURN *** [6h 5c 3c] [4d]
+rsxcd479: checks 
+TIGER101979: checks 
+strigoi3096: bets $0.46
+rsxcd479: folds 
+TIGER101979: folds 
+Uncalled bet ($0.46) returned to strigoi3096
+strigoi3096 collected $0.20 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [6h 5c 3c 4d]
+Seat 1: cherry620 (big blind) folded before Flop
+Seat 2: rsxcd479 folded on the Turn
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded on the Turn
+Seat 5: strigoi3096 (button) collected ($0.20)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240724984848:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:32:09 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: rsxcd479 ($3.58 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2 in chips) 
+Seat 5: strigoi3096 ($2.30 in chips) 
+Seat 6: Lorpugo ($1.16 in chips) 
+cherry620: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 7c]
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: calls $0.02
+cherry620: folds 
+rsxcd479: raises $0.12 to $0.14
+strigoi3096: calls $0.12
+Lorpugo: calls $0.12
+*** FLOP *** [8s Th Td]
+rsxcd479: checks 
+strigoi3096: checks 
+Lorpugo: bets $0.21
+rsxcd479: folds 
+strigoi3096: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.41 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [8s Th Td]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: rsxcd479 (big blind) folded on the Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo (button) collected ($0.41)
+
+
+
+PokerStars Hand #240725002204:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:33:16 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: rsxcd479 ($3.44 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2 in chips) 
+Seat 5: strigoi3096 ($2.16 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+rsxcd479: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7d]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+rsxcd479: folds 
+01clear: checks 
+*** FLOP *** [Ts 2c Qs]
+01clear: checks 
+strigoi3096: checks 
+*** TURN *** [Ts 2c Qs] [Th]
+01clear: checks 
+strigoi3096: checks 
+*** RIVER *** [Ts 2c Qs Th] [6d]
+01clear: checks 
+strigoi3096: checks 
+*** SHOW DOWN ***
+01clear: shows [Kd 3s] (a pair of Tens)
+strigoi3096: shows [5d 5h] (two pair, Tens and Fives)
+strigoi3096 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ts 2c Qs Th 6d]
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 2: rsxcd479 (small blind) folded before Flop
+Seat 3: 01clear (big blind) showed [Kd 3s] and lost with a pair of Tens
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 showed [5d 5h] and won ($0.05) with two pair, Tens and Fives
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725010398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:33:48 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: rsxcd479 ($3.43 in chips) 
+Seat 3: 01clear ($3.79 in chips) 
+Seat 4: TIGER101979 ($2 in chips) 
+Seat 5: strigoi3096 ($2.19 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 4c]
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: folds 
+rsxcd479: raises $0.04 to $0.06
+01clear: folds 
+TIGER101979: calls $0.04
+*** FLOP *** [3h 3s 8h]
+TIGER101979: bets $0.06
+rsxcd479: folds 
+Uncalled bet ($0.06) returned to TIGER101979
+TIGER101979 collected $0.13 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3h 3s 8h]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: rsxcd479 (button) folded on the Flop
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) collected ($0.13)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725016492:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:34:12 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: rsxcd479 ($3.37 in chips) 
+Seat 3: 01clear ($3.78 in chips) 
+Seat 4: TIGER101979 ($2.07 in chips) 
+Seat 5: strigoi3096 ($2.19 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Th]
+Lorpugo: folds 
+cherry620: folds 
+rsxcd479 has timed out
+rsxcd479: folds 
+01clear: calls $0.02
+TIGER101979: folds 
+strigoi3096: checks 
+*** FLOP *** [Qs 3d Jh]
+strigoi3096: bets $0.02
+01clear: folds 
+Uncalled bet ($0.02) returned to strigoi3096
+strigoi3096 collected $0.05 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs 3d Jh]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: rsxcd479 folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded on the Flop
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725027229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:34:53 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.06 in chips) 
+Seat 5: strigoi3096 ($2.22 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7c]
+cherry620: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Jc 7h 5h]
+strigoi3096: checks 
+Lorpugo: bets $0.02
+strigoi3096: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jc 7h 5h]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #240725034434:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:35:20 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.06 in chips) 
+Seat 5: strigoi3096 ($2.20 in chips) 
+Seat 6: Lorpugo ($1.45 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Th]
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+cherry620: folds 
+strigoi3096: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: cherry620 (big blind) folded before Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded before Flop
+Seat 6: Lorpugo (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #240725041079:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:35:46 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.06 in chips) 
+Seat 5: strigoi3096 ($2.18 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+cherry620: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 4s]
+TIGER101979: folds 
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: raises $0.04 to $0.06
+01clear: folds 
+Uncalled bet ($0.04) returned to cherry620
+cherry620 collected $0.04 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: cherry620 (small blind) collected ($0.04)
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725045584:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:36:03 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.02 in chips) 
+Seat 3: 01clear ($3.74 in chips) 
+Seat 4: TIGER101979 ($2.06 in chips) 
+Seat 5: strigoi3096 ($2.18 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 8d]
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: folds 
+01clear: folds 
+Uncalled bet ($0.01) returned to TIGER101979
+TIGER101979 collected $0.02 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) collected ($0.02)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725048359:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:36:13 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.02 in chips) 
+Seat 3: 01clear ($3.73 in chips) 
+Seat 4: TIGER101979 ($2.07 in chips) 
+Seat 5: strigoi3096 ($2.18 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Th]
+Lorpugo: folds 
+cherry620: folds 
+01clear: folds 
+TIGER101979: folds 
+Uncalled bet ($0.01) returned to strigoi3096
+strigoi3096 collected $0.02 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725050547:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:36:22 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.02 in chips) 
+Seat 3: 01clear ($3.73 in chips) 
+Seat 4: TIGER101979 ($2.06 in chips) 
+Seat 5: strigoi3096 ($2.19 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Qd]
+cherry620: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [7d 7s Jh]
+strigoi3096: checks 
+Lorpugo: bets $0.02
+strigoi3096: calls $0.02
+*** TURN *** [7d 7s Jh] [5s]
+strigoi3096: checks 
+Lorpugo: checks 
+*** RIVER *** [7d 7s Jh 5s] [9s]
+strigoi3096: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+strigoi3096: shows [4h 4s] (two pair, Sevens and Fours)
+Lorpugo: mucks hand 
+strigoi3096 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7d 7s Jh 5s 9s]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) showed [4h 4s] and won ($0.08) with two pair, Sevens and Fours
+Seat 6: Lorpugo (big blind) mucked [8s Qd]
+
+
+
+PokerStars Hand #240725066757:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:37:23 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.02 in chips) 
+Seat 3: 01clear ($3.73 in chips) 
+Seat 4: TIGER101979 ($2.06 in chips) 
+Seat 5: strigoi3096 ($2.23 in chips) 
+Seat 6: Lorpugo ($1.45 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 5h]
+01clear: calls $0.02
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: calls $0.01
+cherry620: raises $0.10 to $0.12
+01clear: folds 
+strigoi3096: folds 
+Lorpugo: calls $0.10
+*** FLOP *** [3d Qc 4d]
+Lorpugo: checks 
+cherry620: bets $0.11
+Lorpugo: calls $0.11
+*** TURN *** [3d Qc 4d] [5d]
+Lorpugo: checks 
+cherry620: checks 
+*** RIVER *** [3d Qc 4d 5d] [7d]
+Lorpugo: checks 
+cherry620: bets $0.40
+Lorpugo: folds 
+Uncalled bet ($0.40) returned to cherry620
+cherry620 collected $0.48 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [3d Qc 4d 5d 7d]
+Seat 1: cherry620 (big blind) collected ($0.48)
+Seat 3: 01clear folded before Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded before Flop
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240725081122:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:38:19 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.27 in chips) 
+Seat 3: 01clear ($3.71 in chips) 
+Seat 4: TIGER101979 ($2.06 in chips) 
+Seat 5: strigoi3096 ($2.21 in chips) 
+Seat 6: Lorpugo ($1.22 in chips) 
+cherry620: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8h]
+TIGER101979: raises $0.04 to $0.06
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: folds 
+01clear: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.05 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 collected ($0.05)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725087323:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:38:43 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.26 in chips) 
+Seat 3: 01clear ($3.69 in chips) 
+Seat 4: TIGER101979 ($2.09 in chips) 
+Seat 5: strigoi3096 ($2.21 in chips) 
+Seat 6: Lorpugo ($1.22 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5d]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+01clear: folds 
+TIGER101979: checks 
+*** FLOP *** [6d Th 4c]
+TIGER101979: bets $0.04
+strigoi3096: calls $0.04
+*** TURN *** [6d Th 4c] [7h]
+TIGER101979: bets $0.08
+strigoi3096: folds 
+Uncalled bet ($0.08) returned to TIGER101979
+TIGER101979 collected $0.13 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d Th 4c 7h]
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) collected ($0.13)
+Seat 5: strigoi3096 folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725096597:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:39:19 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.26 in chips) 
+Seat 3: 01clear ($3.68 in chips) 
+Seat 4: TIGER101979 ($2.16 in chips) 
+Seat 5: strigoi3096 ($2.15 in chips) 
+Seat 6: Lorpugo ($1.22 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2h]
+Lorpugo: folds 
+cherry620: raises $0.04 to $0.06
+01clear: folds 
+TIGER101979: calls $0.05
+strigoi3096: calls $0.04
+*** FLOP *** [Kh 7c 8d]
+TIGER101979: checks 
+strigoi3096: checks 
+cherry620: bets $0.07
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.07) returned to cherry620
+cherry620 collected $0.17 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kh 7c 8d]
+Seat 1: cherry620 collected ($0.17)
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) folded on the Flop
+Seat 5: strigoi3096 (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725105242:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:39:52 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.37 in chips) 
+Seat 3: 01clear ($3.68 in chips) 
+Seat 4: TIGER101979 ($2.10 in chips) 
+Seat 5: strigoi3096 ($2.09 in chips) 
+Seat 6: Lorpugo ($1.22 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Kd]
+cherry620: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: folds 
+strigoi3096: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [9c 7s 3s]
+strigoi3096: bets $0.02
+Lorpugo: calls $0.02
+01clear: calls $0.02
+*** TURN *** [9c 7s 3s] [Js]
+strigoi3096: bets $0.24
+Lorpugo: folds 
+01clear: folds 
+Uncalled bet ($0.24) returned to strigoi3096
+strigoi3096 collected $0.17 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [9c 7s 3s Js]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 3: 01clear folded on the Turn
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) collected ($0.17)
+Seat 6: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240725121038:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:40:52 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.37 in chips) 
+Seat 3: 01clear ($3.62 in chips) 
+Seat 4: TIGER101979 ($2.10 in chips) 
+Seat 5: strigoi3096 ($2.20 in chips) 
+Seat 6: Lorpugo ($1.16 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ks]
+01clear: calls $0.02
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: checks 
+*** FLOP *** [Qh 5s 4h]
+cherry620: checks 
+01clear: checks 
+strigoi3096: bets $0.02
+cherry620: folds 
+01clear: folds 
+Uncalled bet ($0.02) returned to strigoi3096
+strigoi3096 collected $0.07 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Qh 5s 4h]
+Seat 1: cherry620 (big blind) folded on the Flop
+Seat 3: 01clear folded on the Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) collected ($0.07)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240725127489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:41:16 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.35 in chips) 
+Seat 3: 01clear ($3.60 in chips) 
+Seat 4: TIGER101979 ($2.10 in chips) 
+Seat 5: strigoi3096 ($2.25 in chips) 
+Seat 6: Lorpugo ($1.15 in chips) 
+cherry620: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kd]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+cherry620: folds 
+01clear: folds 
+strigoi3096: calls $0.07
+*** FLOP *** [Ac 2s 8h]
+strigoi3096: checks 
+Lorpugo: bets $0.10
+strigoi3096: calls $0.10
+*** TURN *** [Ac 2s 8h] [Ts]
+strigoi3096: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac 2s 8h Ts] [Th]
+strigoi3096: bets $0.20
+rsxcd479 leaves the table
+Lorpugo: folds 
+Uncalled bet ($0.20) returned to strigoi3096
+strigoi3096 collected $0.40 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ac 2s 8h Ts Th]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 collected ($0.40)
+Seat 6: Lorpugo (button) folded on the River
+
+
+
+PokerStars Hand #240725139132:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:42:00 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.34 in chips) 
+Seat 3: 01clear ($3.58 in chips) 
+Seat 4: TIGER101979 ($2.10 in chips) 
+Seat 5: strigoi3096 ($2.46 in chips) 
+Seat 6: Lorpugo ($0.96 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Js]
+strigoi3096: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+cherry620: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) folded before Flop
+Seat 5: strigoi3096 folded before Flop
+Seat 6: Lorpugo collected ($0.07)
+
+
+
+PokerStars Hand #240725144385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:42:20 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.34 in chips) 
+Seat 3: 01clear ($3.57 in chips) 
+Seat 4: TIGER101979 ($2.08 in chips) 
+Seat 5: strigoi3096 ($2.44 in chips) 
+Seat 6: Lorpugo ($1.01 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9d]
+Lorpugo: raises $0.04 to $0.06
+cherry620: raises $0.12 to $0.18
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: folds 
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to cherry620
+cherry620 collected $0.15 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: cherry620 collected ($0.15)
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #240725148618:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:42:36 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.43 in chips) 
+Seat 3: 01clear ($3.57 in chips) 
+Seat 4: TIGER101979 ($2.07 in chips) 
+Seat 5: strigoi3096 ($2.42 in chips) 
+Seat 6: Lorpugo ($0.95 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2c]
+cherry620: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5h 7d 2s]
+strigoi3096: checks 
+Lorpugo: bets $0.03
+strigoi3096: calls $0.03
+*** TURN *** [5h 7d 2s] [4s]
+strigoi3096: checks 
+Lorpugo: checks 
+*** RIVER *** [5h 7d 2s 4s] [Ah]
+strigoi3096: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+strigoi3096: shows [8c 9s] (high card Ace)
+Lorpugo: shows [Jc 2c] (a pair of Deuces)
+Lorpugo collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5h 7d 2s 4s Ah]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) showed [8c 9s] and lost with high card Ace
+Seat 6: Lorpugo (big blind) showed [Jc 2c] and won ($0.10) with a pair of Deuces
+
+
+
+PokerStars Hand #240725157173:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:43:09 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.43 in chips) 
+Seat 3: 01clear ($3.57 in chips) 
+Seat 4: TIGER101979 ($2.07 in chips) 
+Seat 5: strigoi3096 ($2.37 in chips) 
+Seat 6: Lorpugo ($1 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4c]
+01clear: raises $0.02 to $0.04
+TIGER101979: folds 
+strigoi3096: calls $0.04
+Lorpugo: folds 
+cherry620: folds 
+*** FLOP *** [5c 5d 8s]
+01clear: bets $0.04
+strigoi3096: calls $0.04
+*** TURN *** [5c 5d 8s] [Tc]
+01clear: bets $0.06
+strigoi3096: calls $0.06
+*** RIVER *** [5c 5d 8s Tc] [3h]
+01clear: bets $0.10
+strigoi3096: folds 
+Uncalled bet ($0.10) returned to 01clear
+01clear collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [5c 5d 8s Tc 3h]
+Seat 1: cherry620 (big blind) folded before Flop
+Seat 3: 01clear collected ($0.30)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded on the River
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240725166750:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:43:45 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.41 in chips) 
+Seat 3: 01clear ($3.73 in chips) 
+Seat 4: TIGER101979 ($2.07 in chips) 
+Seat 5: strigoi3096 ($2.23 in chips) 
+Seat 6: Lorpugo ($0.99 in chips) 
+cherry620: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2h]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+01clear: checks 
+*** FLOP *** [2s Td 5s]
+01clear: checks 
+strigoi3096: bets $0.05
+Richardhoki879 joins the table at seat #2 
+01clear: folds 
+Uncalled bet ($0.05) returned to strigoi3096
+strigoi3096 collected $0.05 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s Td 5s]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded on the Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 collected ($0.05)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725172615:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:44:07 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.40 in chips) 
+Seat 3: 01clear ($3.71 in chips) 
+Seat 4: TIGER101979 ($2.07 in chips) 
+Seat 5: strigoi3096 ($2.26 in chips) 
+Seat 6: Lorpugo ($0.99 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 9d]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: raises $0.08 to $0.10
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.08) returned to cherry620
+cherry620 collected $0.07 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: cherry620 (button) collected ($0.07)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) folded before Flop
+Seat 5: strigoi3096 folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725177406:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:44:25 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.45 in chips) 
+Seat 2: Richardhoki879 ($0.80 in chips) 
+Seat 3: 01clear ($3.70 in chips) 
+Seat 4: TIGER101979 ($2.05 in chips) 
+Seat 5: strigoi3096 ($2.24 in chips) 
+Seat 6: Lorpugo ($0.99 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+Richardhoki879: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3d]
+Lorpugo: folds 
+cherry620: raises $0.04 to $0.06
+Richardhoki879: calls $0.04
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.04
+*** FLOP *** [Js Ad Qs]
+strigoi3096: checks 
+cherry620: bets $0.08
+Richardhoki879: calls $0.08
+strigoi3096: calls $0.08
+*** TURN *** [Js Ad Qs] [Ac]
+strigoi3096: checks 
+cherry620: checks 
+Richardhoki879: checks 
+*** RIVER *** [Js Ad Qs Ac] [6h]
+strigoi3096: checks 
+cherry620: checks 
+Richardhoki879: checks 
+*** SHOW DOWN ***
+strigoi3096: shows [Ts 8h] (a pair of Aces)
+cherry620: mucks hand 
+Richardhoki879: shows [9c Kd] (a pair of Aces - King kicker)
+Richardhoki879 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Js Ad Qs Ac 6h]
+Seat 1: cherry620 mucked [8s 9s]
+Seat 2: Richardhoki879 showed [9c Kd] and won ($0.41) with a pair of Aces
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) showed [Ts 8h] and lost with a pair of Aces
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725194562:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:45:31 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.31 in chips) 
+Seat 2: Richardhoki879 ($1.07 in chips) 
+Seat 3: 01clear ($3.70 in chips) 
+Seat 4: TIGER101979 ($2.04 in chips) 
+Seat 5: strigoi3096 ($2.10 in chips) 
+Seat 6: Lorpugo ($0.99 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ts]
+cherry620: folds 
+Richardhoki879: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [4s 2d Kd]
+strigoi3096: checks 
+Lorpugo: checks 
+*** TURN *** [4s 2d Kd] [9h]
+strigoi3096: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to strigoi3096
+strigoi3096 collected $0.04 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4s 2d Kd 9h]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240725202051:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:45:59 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.31 in chips) 
+Seat 2: Richardhoki879 ($1.07 in chips) 
+Seat 3: 01clear ($3.70 in chips) 
+Seat 4: TIGER101979 ($2.04 in chips) 
+Seat 5: strigoi3096 ($2.12 in chips) 
+Seat 6: Lorpugo ($0.97 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 6c]
+Richardhoki879: calls $0.02
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: checks 
+*** FLOP *** [Jh Kh 5h]
+cherry620: checks 
+Richardhoki879: checks 
+strigoi3096: checks 
+*** TURN *** [Jh Kh 5h] [Qd]
+cherry620: checks 
+Richardhoki879: checks 
+strigoi3096: checks 
+*** RIVER *** [Jh Kh 5h Qd] [Qc]
+cherry620: checks 
+Richardhoki879: bets $0.07
+strigoi3096: folds 
+cherry620: folds 
+Uncalled bet ($0.07) returned to Richardhoki879
+Richardhoki879 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Jh Kh 5h Qd Qc]
+Seat 1: cherry620 (big blind) folded on the River
+Seat 2: Richardhoki879 collected ($0.07)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded on the River
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240725214961:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:46:48 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.29 in chips) 
+Seat 2: Richardhoki879 ($1.12 in chips) 
+Seat 3: 01clear ($3.70 in chips) 
+Seat 4: TIGER101979 ($2.04 in chips) 
+Seat 5: strigoi3096 ($2.10 in chips) 
+Seat 6: Lorpugo ($0.96 in chips) 
+cherry620: posts small blind $0.01
+Richardhoki879: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 3d]
+01clear: folds 
+TIGER101979: raises $0.04 to $0.06
+strigoi3096: calls $0.06
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+*** FLOP *** [9c 6s 2d]
+TIGER101979: bets $0.06
+strigoi3096: calls $0.06
+*** TURN *** [9c 6s 2d] [2s]
+TIGER101979: bets $0.14
+strigoi3096: folds 
+Uncalled bet ($0.14) returned to TIGER101979
+TIGER101979 collected $0.26 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [9c 6s 2d 2s]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: Richardhoki879 (big blind) folded before Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 collected ($0.26)
+Seat 5: strigoi3096 folded on the Turn
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725224716:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:47:25 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.28 in chips) 
+Seat 2: Richardhoki879 ($1.10 in chips) 
+Seat 3: 01clear ($3.70 in chips) 
+Seat 4: TIGER101979 ($2.18 in chips) 
+Seat 5: strigoi3096 ($1.98 in chips) 
+Seat 6: Lorpugo ($0.96 in chips) 
+Richardhoki879: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 7s]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: calls $0.02
+cherry620: folds 
+Richardhoki879: calls $0.01
+01clear: checks 
+*** FLOP *** [Td Qh 5d]
+Richardhoki879: checks 
+01clear: bets $0.04
+strigoi3096: calls $0.04
+Lorpugo: folds 
+Richardhoki879: folds 
+*** TURN *** [Td Qh 5d] [2h]
+01clear: bets $0.08
+strigoi3096: calls $0.08
+*** RIVER *** [Td Qh 5d 2h] [6c]
+01clear: bets $0.08
+strigoi3096: calls $0.08
+*** SHOW DOWN ***
+01clear: shows [Qd 4d] (a pair of Queens)
+strigoi3096: shows [6d Qc] (two pair, Queens and Sixes)
+strigoi3096 collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Td Qh 5d 2h 6c]
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 2: Richardhoki879 (small blind) folded on the Flop
+Seat 3: 01clear (big blind) showed [Qd 4d] and lost with a pair of Queens
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 showed [6d Qc] and won ($0.46) with two pair, Queens and Sixes
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #240725237476:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:48:13 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: cherry620 ($2.28 in chips) 
+Seat 2: Richardhoki879 ($1.08 in chips) 
+Seat 3: 01clear ($3.48 in chips) 
+Seat 4: TIGER101979 ($2.18 in chips) 
+Seat 5: strigoi3096 ($2.22 in chips) 
+Seat 6: Lorpugo ($0.94 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 4h]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: calls $0.02
+01clear: calls $0.01
+TIGER101979: checks 
+*** FLOP *** [Jc 3c 6c]
+01clear: checks 
+TIGER101979: checks 
+strigoi3096: checks 
+Richardhoki879: checks 
+*** TURN *** [Jc 3c 6c] [8s]
+01clear: checks 
+TIGER101979: bets $0.04
+strigoi3096: folds 
+Richardhoki879: calls $0.04
+01clear: calls $0.04
+*** RIVER *** [Jc 3c 6c 8s] [4s]
+01clear: checks 
+TIGER101979: checks 
+Richardhoki879: checks 
+*** SHOW DOWN ***
+01clear: shows [Kc 7s] (high card King)
+TIGER101979: shows [2d Jd] (a pair of Jacks)
+Richardhoki879: shows [8h 6h] (two pair, Eights and Sixes)
+Richardhoki879 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jc 3c 6c 8s 4s]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 (button) showed [8h 6h] and won ($0.19) with two pair, Eights and Sixes
+Seat 3: 01clear (small blind) showed [Kc 7s] and lost with high card King
+Seat 4: TIGER101979 (big blind) showed [2d Jd] and lost with a pair of Jacks
+Seat 5: strigoi3096 folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725253606:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:49:14 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.28 in chips) 
+Seat 2: Richardhoki879 ($1.21 in chips) 
+Seat 3: 01clear ($3.42 in chips) 
+Seat 4: TIGER101979 ($2.12 in chips) 
+Seat 5: strigoi3096 ($2.20 in chips) 
+Seat 6: Lorpugo ($0.94 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3s]
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.02) returned to 01clear
+01clear collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear (button) collected ($0.05)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725260184:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:49:39 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.28 in chips) 
+Seat 2: Richardhoki879 ($1.21 in chips) 
+Seat 3: 01clear ($3.45 in chips) 
+Seat 4: TIGER101979 ($2.11 in chips) 
+Seat 5: strigoi3096 ($2.18 in chips) 
+Seat 6: Lorpugo ($1.74 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8s]
+cherry620: folds 
+Richardhoki879: calls $0.02
+01clear: calls $0.02
+TIGER101979: calls $0.02
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [2s Kc Th]
+strigoi3096: checks 
+Lorpugo: checks 
+Richardhoki879: checks 
+01clear: checks 
+TIGER101979: checks 
+*** TURN *** [2s Kc Th] [Jh]
+strigoi3096: checks 
+Lorpugo: checks 
+Richardhoki879: checks 
+01clear: bets $0.08
+TIGER101979: calls $0.08
+strigoi3096: calls $0.08
+Lorpugo: folds 
+Richardhoki879: calls $0.08
+*** RIVER *** [2s Kc Th Jh] [Js]
+strigoi3096: checks 
+Richardhoki879: checks 
+01clear: bets $0.10
+TIGER101979: folds 
+strigoi3096: folds 
+Richardhoki879: folds 
+Uncalled bet ($0.10) returned to 01clear
+01clear collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [2s Kc Th Jh Js]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 folded on the River
+Seat 3: 01clear collected ($0.41)
+Seat 4: TIGER101979 (button) folded on the River
+Seat 5: strigoi3096 (small blind) folded on the River
+Seat 6: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240725299143:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:52:07 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.28 in chips) 
+Seat 2: Richardhoki879 ($1.11 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: TIGER101979 ($2.01 in chips) 
+Seat 5: strigoi3096 ($2.08 in chips) 
+Seat 6: Lorpugo ($1.72 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 6c]
+Richardhoki879: folds 
+01clear: calls $0.02
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: calls $0.01
+cherry620: checks 
+*** FLOP *** [7h 3h 3s]
+Lorpugo: bets $0.04
+cherry620: folds 
+01clear: calls $0.04
+strigoi3096: folds 
+*** TURN *** [7h 3h 3s] [Ah]
+Lorpugo: bets $0.05
+01clear: raises $0.05 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to 01clear
+01clear collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7h 3h 3s Ah]
+Seat 1: cherry620 (big blind) folded on the Flop
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear collected ($0.25)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240725312473:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:52:58 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.26 in chips) 
+Seat 2: Richardhoki879 ($1.11 in chips) 
+Seat 3: 01clear ($3.90 in chips) 
+Seat 4: TIGER101979 ($2.01 in chips) 
+Seat 5: strigoi3096 ($2.06 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+cherry620: posts small blind $0.01
+Richardhoki879: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5c]
+01clear: folds 
+TIGER101979: raises $0.04 to $0.06
+strigoi3096: calls $0.06
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: calls $0.04
+*** FLOP *** [Kc 3s 5s]
+Richardhoki879: checks 
+TIGER101979: bets $0.09
+strigoi3096: folds 
+Richardhoki879: folds 
+Uncalled bet ($0.09) returned to TIGER101979
+TIGER101979 collected $0.18 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kc 3s 5s]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: Richardhoki879 (big blind) folded on the Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 collected ($0.18)
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725322502:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:53:36 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.25 in chips) 
+Seat 2: Richardhoki879 ($1.05 in chips) 
+Seat 3: 01clear ($3.90 in chips) 
+Seat 4: TIGER101979 ($2.13 in chips) 
+Seat 5: strigoi3096 ($2 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+Richardhoki879: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5s]
+TIGER101979: folds 
+strigoi3096: folds 
+Lorpugo: raises $0.04 to $0.06
+cherry620: folds 
+Richardhoki879: calls $0.05
+01clear: folds 
+*** FLOP *** [Kd Tc 8d]
+Richardhoki879: checks 
+Lorpugo: checks 
+*** TURN *** [Kd Tc 8d] [6d]
+Richardhoki879: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to Richardhoki879
+Richardhoki879 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Kd Tc 8d 6d]
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 2: Richardhoki879 (small blind) collected ($0.14)
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the Turn
+
+
+
+PokerStars Hand #240725333386:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:54:17 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: cherry620 ($2.25 in chips) 
+Seat 2: Richardhoki879 ($1.13 in chips) 
+Seat 3: 01clear ($3.88 in chips) 
+Seat 4: TIGER101979 ($2.13 in chips) 
+Seat 5: strigoi3096 ($2 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 8d]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: calls $0.02
+strigoi3096: calls $0.02
+*** FLOP *** [Jc 4d 3h]
+01clear: checks 
+TIGER101979: checks 
+strigoi3096: checks 
+*** TURN *** [Jc 4d 3h] [2s]
+01clear: checks 
+TIGER101979: checks 
+strigoi3096: checks 
+*** RIVER *** [Jc 4d 3h 2s] [6h]
+01clear: checks 
+TIGER101979: checks 
+strigoi3096: bets $0.06
+01clear: folds 
+TIGER101979: folds 
+Uncalled bet ($0.06) returned to strigoi3096
+strigoi3096 collected $0.12 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jc 4d 3h 2s 6h]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded on the River
+Seat 4: TIGER101979 (big blind) folded on the River
+Seat 5: strigoi3096 collected ($0.12)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725346714:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:55:08 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.25 in chips) 
+Seat 2: Richardhoki879 ($1.13 in chips) 
+Seat 3: 01clear ($3.84 in chips) 
+Seat 4: TIGER101979 ($2.09 in chips) 
+Seat 5: strigoi3096 ($2.08 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Th]
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: calls $0.02
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: checks 
+*** FLOP *** [4s 6h 2h]
+strigoi3096: checks 
+Richardhoki879: bets $0.05
+strigoi3096: folds 
+Uncalled bet ($0.05) returned to Richardhoki879
+Richardhoki879 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4s 6h 2h]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 collected ($0.05)
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725354850:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:55:45 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.25 in chips) 
+Seat 2: Richardhoki879 ($1.16 in chips) 
+Seat 3: 01clear ($3.84 in chips) 
+Seat 4: TIGER101979 ($2.08 in chips) 
+Seat 5: strigoi3096 ($2.06 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 8h]
+cherry620: raises $0.04 to $0.06
+Richardhoki879: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [6d 4h 5c]
+Lorpugo: checks 
+cherry620: checks 
+*** TURN *** [6d 4h 5c] [Th]
+Lorpugo: bets $0.09
+cherry620: raises $0.19 to $0.28
+Lorpugo: calls $0.19
+*** RIVER *** [6d 4h 5c Th] [7c]
+Lorpugo: checks 
+cherry620: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6h 8h] (a straight, Four to Eight)
+cherry620: mucks hand 
+Lorpugo collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [6d 4h 5c Th 7c]
+Seat 1: cherry620 mucked [5s 5d]
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [6h 8h] and won ($0.67) with a straight, Four to Eight
+
+
+
+PokerStars Hand #240725367420:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:56:42 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: Richardhoki879 ($1.16 in chips) 
+Seat 3: 01clear ($3.84 in chips) 
+Seat 4: TIGER101979 ($2.08 in chips) 
+Seat 5: strigoi3096 ($2.05 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 3d]
+Richardhoki879: folds 
+01clear: calls $0.02
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: calls $0.01
+cherry620: checks 
+*** FLOP *** [Td 6c As]
+Lorpugo: checks 
+cherry620: checks 
+01clear: checks 
+strigoi3096: checks 
+*** TURN *** [Td 6c As] [8d]
+Lorpugo: bets $0.04
+cherry620: folds 
+01clear: folds 
+strigoi3096: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Td 6c As 8d]
+Seat 1: cherry620 (big blind) folded on the Turn
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear folded on the Turn
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded on the Turn
+Seat 6: Lorpugo (small blind) collected ($0.08)
+
+
+
+PokerStars Hand #240725376409:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:57:22 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: Richardhoki879 ($1.16 in chips) 
+Seat 3: 01clear ($3.82 in chips) 
+Seat 4: TIGER101979 ($2.08 in chips) 
+Seat 5: strigoi3096 ($2.03 in chips) 
+Seat 6: Lorpugo ($1.94 in chips) 
+cherry620: posts small blind $0.01
+Richardhoki879: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Td]
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+cherry620: folds 
+Richardhoki879: folds 
+strigoi3096: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: Richardhoki879 (big blind) folded before Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded before Flop
+Seat 6: Lorpugo (button) collected ($0.07)
+
+
+
+PokerStars Hand #240725382418:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:57:49 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: Richardhoki879 ($1.14 in chips) 
+Seat 3: 01clear ($3.82 in chips) 
+Seat 4: TIGER101979 ($2.08 in chips) 
+Seat 5: strigoi3096 ($2.01 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+Richardhoki879: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 9h]
+TIGER101979: raises $0.04 to $0.06
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+01clear: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.05 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 2: Richardhoki879 (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 collected ($0.05)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725387779:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:58:12 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: Richardhoki879 ($1.13 in chips) 
+Seat 3: 01clear ($3.80 in chips) 
+Seat 4: TIGER101979 ($2.11 in chips) 
+Seat 5: strigoi3096 ($2.01 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 2h]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: raises $0.08 to $0.10
+Richardhoki879: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.08
+*** FLOP *** [9c 3h 2d]
+strigoi3096: checks 
+cherry620: bets $0.09
+strigoi3096: folds 
+Uncalled bet ($0.09) returned to cherry620
+cherry620 collected $0.22 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9c 3h 2d]
+Seat 1: cherry620 collected ($0.22)
+Seat 2: Richardhoki879 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) folded before Flop
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725396201:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:58:49 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.12 in chips) 
+Seat 2: Richardhoki879 ($1.13 in chips) 
+Seat 3: 01clear ($3.79 in chips) 
+Seat 4: TIGER101979 ($2.09 in chips) 
+Seat 5: strigoi3096 ($1.91 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ad]
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.02) returned to 01clear
+01clear collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear (button) collected ($0.05)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725399001:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:59:02 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.12 in chips) 
+Seat 2: Richardhoki879 ($1.13 in chips) 
+Seat 3: 01clear ($3.82 in chips) 
+Seat 4: TIGER101979 ($2.08 in chips) 
+Seat 5: strigoi3096 ($1.89 in chips) 
+Seat 6: Lorpugo ($1.99 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Ks]
+cherry620: folds 
+Richardhoki879: raises $0.04 to $0.06
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [6h 3c Js]
+strigoi3096: checks 
+Lorpugo: checks 
+Richardhoki879: bets $0.09
+strigoi3096: folds 
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to Richardhoki879
+Richardhoki879 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6h 3c Js]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 collected ($0.17)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240725407334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 8:59:38 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.12 in chips) 
+Seat 2: Richardhoki879 ($1.24 in chips) 
+Seat 3: 01clear ($3.82 in chips) 
+Seat 4: TIGER101979 ($2.08 in chips) 
+Seat 5: strigoi3096 ($1.83 in chips) 
+Seat 6: Lorpugo ($1.93 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 9s]
+Richardhoki879: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: calls $0.04
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: calls $0.02
+*** FLOP *** [Tc 5h 8s]
+cherry620: checks 
+01clear: bets $0.04
+TIGER101979: calls $0.04
+cherry620: folds 
+*** TURN *** [Tc 5h 8s] [As]
+01clear: bets $0.04
+TIGER101979: calls $0.04
+*** RIVER *** [Tc 5h 8s As] [3s]
+01clear: bets $0.04
+TIGER101979: calls $0.04
+*** SHOW DOWN ***
+01clear: shows [6s 6c] (a pair of Sixes)
+TIGER101979: shows [Ks Kh] (a pair of Kings)
+TIGER101979 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Tc 5h 8s As 3s]
+Seat 1: cherry620 (big blind) folded on the Flop
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear showed [6s 6c] and lost with a pair of Sixes
+Seat 4: TIGER101979 showed [Ks Kh] and won ($0.36) with a pair of Kings
+Seat 5: strigoi3096 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240725416560:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:00:19 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.08 in chips) 
+Seat 2: Richardhoki879 ($1.24 in chips) 
+Seat 3: 01clear ($3.66 in chips) 
+Seat 4: TIGER101979 ($2.28 in chips) 
+Seat 5: strigoi3096 ($1.83 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+cherry620: posts small blind $0.01
+Richardhoki879: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 9c]
+01clear: folds 
+TIGER101979: calls $0.02
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: checks 
+*** FLOP *** [3s 5c Jc]
+Richardhoki879: checks 
+TIGER101979: bets $0.04
+Richardhoki879: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.05 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s 5c Jc]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: Richardhoki879 (big blind) folded on the Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 collected ($0.05)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725426030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:00:59 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.07 in chips) 
+Seat 2: Richardhoki879 ($1.22 in chips) 
+Seat 3: 01clear ($3.66 in chips) 
+Seat 4: TIGER101979 ($2.31 in chips) 
+Seat 5: strigoi3096 ($1.83 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+Richardhoki879: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3s]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+01clear: checks 
+*** FLOP *** [7h 3d 6d]
+01clear: bets $0.04
+strigoi3096: calls $0.04
+*** TURN *** [7h 3d 6d] [Kc]
+01clear: bets $0.04
+strigoi3096: folds 
+Uncalled bet ($0.04) returned to 01clear
+01clear collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7h 3d 6d Kc]
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 2: Richardhoki879 (small blind) folded before Flop
+Seat 3: 01clear (big blind) collected ($0.13)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725436353:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:01:37 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: cherry620 ($2.07 in chips) 
+Seat 2: Richardhoki879 ($1.21 in chips) 
+Seat 3: 01clear ($3.73 in chips) 
+Seat 4: TIGER101979 ($2.31 in chips) 
+Seat 5: strigoi3096 ($1.77 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Tc]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+01clear: folds 
+TIGER101979: checks 
+*** FLOP *** [Ad 7s Kc]
+TIGER101979: checks 
+strigoi3096: checks 
+*** TURN *** [Ad 7s Kc] [4s]
+TIGER101979: checks 
+strigoi3096: checks 
+*** RIVER *** [Ad 7s Kc 4s] [Ts]
+TIGER101979: checks 
+strigoi3096: checks 
+*** SHOW DOWN ***
+TIGER101979: shows [2h 6s] (high card Ace)
+strigoi3096: shows [8h Qd] (high card Ace - King+Queen kicker)
+strigoi3096 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 7s Kc 4s Ts]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) showed [2h 6s] and lost with high card Ace
+Seat 5: strigoi3096 showed [8h Qd] and won ($0.05) with high card Ace
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725447723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:02:21 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.07 in chips) 
+Seat 2: Richardhoki879 ($1.21 in chips) 
+Seat 3: 01clear ($3.72 in chips) 
+Seat 4: TIGER101979 ($2.29 in chips) 
+Seat 5: strigoi3096 ($1.80 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5s]
+Lorpugo: folds 
+cherry620: folds 
+Richardhoki879: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: folds 
+strigoi3096: calls $0.02
+*** FLOP *** [2h 2d Tc]
+strigoi3096: checks 
+01clear: checks 
+*** TURN *** [2h 2d Tc] [Ah]
+strigoi3096: bets $0.05
+01clear: folds 
+Uncalled bet ($0.05) returned to strigoi3096
+strigoi3096 collected $0.09 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2h 2d Tc Ah]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded on the Turn
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) collected ($0.09)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725455825:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:02:51 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.07 in chips) 
+Seat 2: Richardhoki879 ($1.21 in chips) 
+Seat 3: 01clear ($3.68 in chips) 
+Seat 4: TIGER101979 ($2.28 in chips) 
+Seat 5: strigoi3096 ($1.85 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 2s]
+cherry620: raises $0.04 to $0.06
+Richardhoki879: folds 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [Jd 4h Ts]
+strigoi3096: checks 
+cherry620: checks 
+*** TURN *** [Jd 4h Ts] [9d]
+strigoi3096: bets $0.02
+cherry620: folds 
+Uncalled bet ($0.02) returned to strigoi3096
+strigoi3096 collected $0.14 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jd 4h Ts 9d]
+Seat 1: cherry620 folded on the Turn
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) collected ($0.14)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240725466879:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:03:32 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.01 in chips) 
+Seat 2: Richardhoki879 ($1.21 in chips) 
+Seat 3: 01clear ($3.68 in chips) 
+Seat 4: TIGER101979 ($2.28 in chips) 
+Seat 5: strigoi3096 ($1.93 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7d]
+Richardhoki879: folds 
+01clear: folds 
+TIGER101979: calls $0.02
+strigoi3096: calls $0.02
+Lorpugo: calls $0.01
+cherry620: checks 
+*** FLOP *** [4h 3c Kd]
+Lorpugo: checks 
+cherry620: checks 
+TIGER101979: bets $0.02
+strigoi3096: folds 
+Lorpugo: folds 
+cherry620: folds 
+Uncalled bet ($0.02) returned to TIGER101979
+TIGER101979 collected $0.08 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4h 3c Kd]
+Seat 1: cherry620 (big blind) folded on the Flop
+Seat 2: Richardhoki879 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 collected ($0.08)
+Seat 5: strigoi3096 (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240725476587:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:04:08 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: Richardhoki879 ($1.21 in chips) 
+Seat 3: 01clear ($3.68 in chips) 
+Seat 4: TIGER101979 ($2.34 in chips) 
+Seat 5: strigoi3096 ($1.91 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+cherry620: posts small blind $0.01
+Richardhoki879: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ah]
+01clear: folds 
+TIGER101979: calls $0.02
+strigoi3096: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+cherry620: folds 
+Richardhoki879: calls $0.08
+TIGER101979: calls $0.08
+strigoi3096: folds 
+*** FLOP *** [2d 9s 5s]
+Richardhoki879: checks 
+TIGER101979: checks 
+Lorpugo: bets $0.26
+Richardhoki879: calls $0.26
+TIGER101979: folds 
+*** TURN *** [2d 9s 5s] [4c]
+Richardhoki879: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [2d 9s 5s 4c] [4d]
+Richardhoki879: bets $0.83 and is all-in
+Lorpugo: calls $0.83
+*** SHOW DOWN ***
+Richardhoki879: shows [Jh Qh] (a pair of Fours)
+Lorpugo: shows [Ad Ah] (two pair, Aces and Fours)
+Lorpugo collected $2.46 from pot
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.09 
+Board [2d 9s 5s 4c 4d]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: Richardhoki879 (big blind) showed [Jh Qh] and lost with a pair of Fours
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded on the Flop
+Seat 5: strigoi3096 folded before Flop
+Seat 6: Lorpugo (button) showed [Ad Ah] and won ($2.46) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #240725508560:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:06:07 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 3: 01clear ($3.68 in chips) 
+Seat 4: TIGER101979 ($2.24 in chips) 
+Seat 5: strigoi3096 ($1.89 in chips) 
+Seat 6: Lorpugo ($3.13 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8c]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+01clear: calls $0.01
+TIGER101979: checks 
+*** FLOP *** [4s Js As]
+01clear: checks 
+TIGER101979: bets $0.02
+strigoi3096: folds 
+01clear: folds 
+Uncalled bet ($0.02) returned to TIGER101979
+TIGER101979 collected $0.06 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s Js As]
+Seat 1: cherry620 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded on the Flop
+Seat 4: TIGER101979 (big blind) collected ($0.06)
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725516004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:06:35 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 3: 01clear ($3.66 in chips) 
+Seat 4: TIGER101979 ($2.28 in chips) 
+Seat 5: strigoi3096 ($1.87 in chips) 
+Seat 6: Lorpugo ($3.13 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7c]
+Lorpugo: raises $0.04 to $0.06
+cherry620: folds 
+01clear: folds 
+TIGER101979: raises $0.14 to $0.20
+strigoi3096: folds 
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to TIGER101979
+TIGER101979 collected $0.14 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) collected ($0.14)
+Seat 5: strigoi3096 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #240725522692:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:06:59 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 3: 01clear ($3.66 in chips) 
+Seat 4: TIGER101979 ($2.36 in chips) 
+Seat 5: strigoi3096 ($1.85 in chips) 
+Seat 6: Lorpugo ($3.07 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3c]
+Richardhoki879 leaves the table
+cherry620: raises $0.04 to $0.06
+JorstadDreams joins the table at seat #2 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to cherry620
+cherry620 collected $0.05 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cherry620 collected ($0.05)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240725527732:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:07:18 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.03 in chips) 
+Seat 3: 01clear ($3.66 in chips) 
+Seat 4: TIGER101979 ($2.36 in chips) 
+Seat 5: strigoi3096 ($1.84 in chips) 
+Seat 6: Lorpugo ($3.05 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s As]
+01clear: folds 
+TIGER101979: raises $0.04 to $0.06
+strigoi3096: calls $0.06
+Lorpugo: calls $0.05
+cherry620: folds 
+*** FLOP *** [5h Td Jc]
+Lorpugo: checks 
+TIGER101979: checks 
+strigoi3096: checks 
+*** TURN *** [5h Td Jc] [7d]
+Lorpugo: bets $0.13
+TIGER101979: folds 
+strigoi3096: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5h Td Jc 7d]
+Seat 1: cherry620 (big blind) folded before Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded on the Turn
+Seat 5: strigoi3096 (button) folded on the Turn
+Seat 6: Lorpugo (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #240725535638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:07:47 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.01 in chips) 
+Seat 2: JorstadDreams ($1.94 in chips) 
+Seat 3: 01clear ($3.66 in chips) 
+Seat 4: TIGER101979 ($2.30 in chips) 
+Seat 5: strigoi3096 ($1.78 in chips) 
+Seat 6: Lorpugo ($3.18 in chips) 
+cherry620: posts small blind $0.01
+JorstadDreams: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 9c]
+01clear: folds 
+TIGER101979: raises $0.04 to $0.06
+strigoi3096: calls $0.06
+Lorpugo: folds 
+cherry620: folds 
+JorstadDreams: raises $0.12 to $0.18
+TIGER101979: folds 
+strigoi3096: calls $0.12
+*** FLOP *** [3h Qh 4d]
+JorstadDreams: bets $0.21
+strigoi3096: folds 
+Uncalled bet ($0.21) returned to JorstadDreams
+JorstadDreams collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [3h Qh 4d]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: JorstadDreams (big blind) collected ($0.41)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725544760:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:08:20 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2 in chips) 
+Seat 2: JorstadDreams ($2.17 in chips) 
+Seat 3: 01clear ($3.66 in chips) 
+Seat 4: TIGER101979 ($2.24 in chips) 
+Seat 5: strigoi3096 ($1.60 in chips) 
+Seat 6: Lorpugo ($3.18 in chips) 
+JorstadDreams: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4c]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: raises $0.10 to $0.12
+JorstadDreams: folds 
+01clear: folds 
+strigoi3096: calls $0.10
+*** FLOP *** [Kd Ad 9d]
+strigoi3096: checks 
+cherry620: checks 
+*** TURN *** [Kd Ad 9d] [Jc]
+strigoi3096: checks 
+cherry620: checks 
+*** RIVER *** [Kd Ad 9d Jc] [Qc]
+strigoi3096: checks 
+cherry620: bets $0.26
+strigoi3096: folds 
+Uncalled bet ($0.26) returned to cherry620
+cherry620 collected $0.26 from pot
+cherry620: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kd Ad 9d Jc Qc]
+Seat 1: cherry620 (button) collected ($0.26)
+Seat 2: JorstadDreams (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725554452:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:08:56 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: cherry620 ($2.14 in chips) 
+Seat 2: JorstadDreams ($2.16 in chips) 
+Seat 3: 01clear ($3.64 in chips) 
+Seat 4: TIGER101979 ($2.24 in chips) 
+Seat 5: strigoi3096 ($1.48 in chips) 
+Seat 6: Lorpugo ($3.18 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 7h]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+JorstadDreams: folds 
+01clear: folds 
+TIGER101979: checks 
+*** FLOP *** [2c 6s 3h]
+TIGER101979: checks 
+strigoi3096: checks 
+*** TURN *** [2c 6s 3h] [Th]
+TIGER101979: checks 
+strigoi3096: checks 
+*** RIVER *** [2c 6s 3h Th] [9h]
+TIGER101979: bets $0.02
+strigoi3096: raises $1.44 to $1.46 and is all-in
+TIGER101979: folds 
+Uncalled bet ($1.44) returned to strigoi3096
+strigoi3096 collected $0.09 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2c 6s 3h Th 9h]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: JorstadDreams (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: TIGER101979 (big blind) folded on the River
+Seat 5: strigoi3096 collected ($0.09)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725566300:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:09:39 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: cherry620 ($2.14 in chips) 
+Seat 2: JorstadDreams ($2.16 in chips) 
+Seat 3: 01clear ($3.63 in chips) 
+Seat 4: TIGER101979 ($2.20 in chips) 
+Seat 5: strigoi3096 ($1.53 in chips) 
+Seat 6: Lorpugo ($3.18 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Kh]
+Lorpugo has timed out
+Lorpugo: folds 
+cherry620: folds 
+JorstadDreams: folds 
+01clear: calls $0.02
+JorstadDreams leaves the table
+TIGER101979: calls $0.01
+strigoi3096: checks 
+*** FLOP *** [Jh Ad Jc]
+TIGER101979: checks 
+strigoi3096: checks 
+01clear: checks 
+*** TURN *** [Jh Ad Jc] [6d]
+TIGER101979: bets $0.04
+strigoi3096: folds 
+01clear: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.06 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jh Ad Jc 6d]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: JorstadDreams folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded on the Turn
+Seat 4: TIGER101979 (small blind) collected ($0.06)
+Seat 5: strigoi3096 (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725577862:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:10:21 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: cherry620 ($2.14 in chips) 
+Seat 3: 01clear ($3.61 in chips) 
+Seat 4: TIGER101979 ($2.24 in chips) 
+Seat 5: strigoi3096 ($1.51 in chips) 
+Seat 6: Lorpugo ($3.18 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 4d]
+cherry620: folds 
+RobertAlex74 joins the table at seat #2 
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [As 8d Qh]
+strigoi3096: checks 
+Lorpugo: checks 
+*** TURN *** [As 8d Qh] [Ad]
+strigoi3096: checks 
+Lorpugo: bets $0.02
+strigoi3096: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [As 8d Qh Ad]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #240725590396:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:11:07 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: cherry620 ($2.14 in chips) 
+Seat 2: RobertAlex74 ($1 in chips) 
+Seat 3: 01clear ($3.61 in chips) 
+Seat 4: TIGER101979 ($2.24 in chips) 
+Seat 5: strigoi3096 ($1.49 in chips) 
+Seat 6: Lorpugo ($3.20 in chips) 
+Lorpugo: posts small blind $0.01
+cherry620: posts big blind $0.02
+RobertAlex74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ad]
+RobertAlex74: checks 
+01clear: folds 
+TIGER101979: calls $0.02
+strigoi3096: calls $0.02
+Lorpugo: calls $0.01
+cherry620: checks 
+*** FLOP *** [Jc Kc 6d]
+Lorpugo: checks 
+cherry620: checks 
+RobertAlex74: checks 
+TIGER101979: checks 
+strigoi3096: checks 
+*** TURN *** [Jc Kc 6d] [Td]
+Lorpugo: bets $0.03
+cherry620: folds 
+RobertAlex74: calls $0.03
+TIGER101979: folds 
+strigoi3096: calls $0.03
+*** RIVER *** [Jc Kc 6d Td] [8c]
+Lorpugo: checks 
+RobertAlex74: checks 
+strigoi3096: bets $0.09
+Lorpugo: folds 
+RobertAlex74: folds 
+Uncalled bet ($0.09) returned to strigoi3096
+strigoi3096 collected $0.18 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Jc Kc 6d Td 8c]
+Seat 1: cherry620 (big blind) folded on the Turn
+Seat 2: RobertAlex74 folded on the River
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded on the Turn
+Seat 5: strigoi3096 (button) collected ($0.18)
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240725609925:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:12:18 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: cherry620 ($2.12 in chips) 
+Seat 2: RobertAlex74 ($0.95 in chips) 
+Seat 3: 01clear ($3.61 in chips) 
+Seat 4: TIGER101979 ($2.22 in chips) 
+Seat 5: strigoi3096 ($1.62 in chips) 
+Seat 6: Lorpugo ($3.15 in chips) 
+cherry620: posts small blind $0.01
+RobertAlex74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 9s]
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: calls $0.02
+cherry620: folds 
+RobertAlex74: checks 
+*** FLOP *** [7h Kh 3d]
+RobertAlex74: bets $0.04
+strigoi3096: calls $0.04
+Lorpugo: folds 
+*** TURN *** [7h Kh 3d] [5c]
+RobertAlex74: bets $0.08
+strigoi3096: folds 
+Uncalled bet ($0.08) returned to RobertAlex74
+RobertAlex74 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7h Kh 3d 5c]
+Seat 1: cherry620 (small blind) folded before Flop
+Seat 2: RobertAlex74 (big blind) collected ($0.14)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the Turn
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #240725624298:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:13:11 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: cherry620 ($2.11 in chips) 
+Seat 2: RobertAlex74 ($1.03 in chips) 
+Seat 3: 01clear ($3.61 in chips) 
+Seat 4: TIGER101979 ($2.22 in chips) 
+Seat 5: strigoi3096 ($1.56 in chips) 
+Seat 6: Lorpugo ($3.13 in chips) 
+RobertAlex74: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4c]
+TIGER101979: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: raises $0.08 to $0.10
+RobertAlex74: folds 
+01clear: calls $0.08
+strigoi3096: calls $0.08
+*** FLOP *** [5d 3s 3d]
+01clear: checks 
+strigoi3096: checks 
+cherry620: checks 
+*** TURN *** [5d 3s 3d] [2s]
+01clear: bets $0.10
+strigoi3096: folds 
+cherry620: folds 
+Uncalled bet ($0.10) returned to 01clear
+01clear collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [5d 3s 3d 2s]
+Seat 1: cherry620 (button) folded on the Turn
+Seat 2: RobertAlex74 (small blind) folded before Flop
+Seat 3: 01clear (big blind) collected ($0.30)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725636242:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:13:54 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: cherry620 ($2.01 in chips) 
+Seat 2: RobertAlex74 ($1.02 in chips) 
+Seat 3: 01clear ($3.81 in chips) 
+Seat 4: TIGER101979 ($2.22 in chips) 
+Seat 5: strigoi3096 ($1.46 in chips) 
+Seat 6: Lorpugo ($3.13 in chips) 
+01clear: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 4h]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+cherry620: folds 
+cherry620 leaves the table
+RobertAlex74: folds 
+01clear: raises $0.02 to $0.04
+TIGER101979: raises $0.12 to $0.16
+strigoi3096: folds 
+01clear: calls $0.12
+*** FLOP *** [Qs 2h Jc]
+01clear: bets $0.10
+TIGER101979: raises $0.27 to $0.37
+01clear: raises $3.28 to $3.65 and is all-in
+TIGER101979: calls $1.69 and is all-in
+Uncalled bet ($1.59) returned to 01clear
+soroxx0410 joins the table at seat #1 
+01clear has timed out
+*** TURN *** [Qs 2h Jc] [9d]
+*** RIVER *** [Qs 2h Jc 9d] [Th]
+*** SHOW DOWN ***
+01clear: shows [Kc Ks] (a straight, Nine to King)
+TIGER101979: shows [Qc Kd] (a straight, Nine to King)
+01clear collected $2.15 from pot
+TIGER101979 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $4.46 | Rake $0.16 
+Board [Qs 2h Jc 9d Th]
+Seat 1: cherry620 folded before Flop (didn't bet)
+Seat 2: RobertAlex74 (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) showed [Kc Ks] and won ($2.15) with a straight, Nine to King
+Seat 4: TIGER101979 (big blind) showed [Qc Kd] and won ($2.15) with a straight, Nine to King
+Seat 5: strigoi3096 folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725653509:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:14:57 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 2: RobertAlex74 ($1.02 in chips) 
+Seat 3: 01clear ($3.74 in chips) 
+Seat 4: TIGER101979 ($2.15 in chips) 
+Seat 5: strigoi3096 ($1.44 in chips) 
+Seat 6: Lorpugo ($3.13 in chips) 
+TIGER101979: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 8d]
+Lorpugo: folds 
+RobertAlex74: raises $0.04 to $0.06
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.04
+*** FLOP *** [2h Qd 3d]
+strigoi3096: bets $0.02
+RobertAlex74: calls $0.02
+*** TURN *** [2h Qd 3d] [Jc]
+strigoi3096: checks 
+RobertAlex74: bets $0.04
+strigoi3096: calls $0.04
+*** RIVER *** [2h Qd 3d Jc] [Td]
+strigoi3096: checks 
+RobertAlex74: checks 
+*** SHOW DOWN ***
+strigoi3096: shows [3h Ad] (a pair of Threes)
+RobertAlex74: shows [Js Ac] (a pair of Jacks)
+RobertAlex74 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2h Qd 3d Jc Td]
+Seat 2: RobertAlex74 showed [Js Ac] and won ($0.24) with a pair of Jacks
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: TIGER101979 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) showed [3h Ad] and lost with a pair of Threes
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725667499:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:15:47 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: soroxx0410 ($1.60 in chips) 
+Seat 2: RobertAlex74 ($1.14 in chips) 
+Seat 3: 01clear ($3.74 in chips) 
+Seat 4: TIGER101979 ($2.14 in chips) 
+Seat 5: strigoi3096 ($1.32 in chips) 
+Seat 6: Lorpugo ($3.13 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+soroxx0410: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ah]
+soroxx0410: checks 
+RobertAlex74: calls $0.02
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+soroxx0410: folds 
+RobertAlex74: folds 
+strigoi3096: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: soroxx0410 folded before Flop (didn't bet)
+Seat 2: RobertAlex74 folded before Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.08)
+
+
+
+PokerStars Hand #240725680499:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:16:34 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: soroxx0410 ($1.58 in chips) 
+Seat 2: RobertAlex74 ($1.12 in chips) 
+Seat 3: 01clear ($3.74 in chips) 
+Seat 4: TIGER101979 ($2.14 in chips) 
+Seat 5: strigoi3096 ($1.30 in chips) 
+Seat 6: Lorpugo ($3.19 in chips) 
+Lorpugo: posts small blind $0.01
+soroxx0410: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Qs]
+RobertAlex74: raises $0.02 to $0.04
+01clear: folds 
+TIGER101979: folds 
+strigoi3096: calls $0.04
+Lorpugo: raises $0.14 to $0.18
+soroxx0410: calls $0.16
+RobertAlex74: calls $0.14
+strigoi3096: folds 
+*** FLOP *** [2h 8s 4c]
+Lorpugo: checks 
+soroxx0410: bets $0.20
+RobertAlex74: raises $0.20 to $0.40
+Lorpugo: folds 
+soroxx0410: raises $0.20 to $0.60
+RobertAlex74: calls $0.20
+*** TURN *** [2h 8s 4c] [Jh]
+soroxx0410: bets $0.26
+RobertAlex74: raises $0.08 to $0.34 and is all-in
+soroxx0410: calls $0.08
+*** RIVER *** [2h 8s 4c Jh] [Td]
+*** SHOW DOWN ***
+soroxx0410: shows [5s 9s] (high card Jack)
+RobertAlex74: shows [Jc 8c] (two pair, Jacks and Eights)
+RobertAlex74 collected $2.37 from pot
+*** SUMMARY ***
+Total pot $2.46 | Rake $0.09 
+Board [2h 8s 4c Jh Td]
+Seat 1: soroxx0410 (big blind) showed [5s 9s] and lost with high card Jack
+Seat 2: RobertAlex74 showed [Jc 8c] and won ($2.37) with two pair, Jacks and Eights
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded before Flop
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240725700683:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:17:47 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: soroxx0410 ($0.46 in chips) 
+Seat 2: RobertAlex74 ($2.37 in chips) 
+Seat 3: 01clear ($3.74 in chips) 
+Seat 4: TIGER101979 ($2.14 in chips) 
+Seat 5: strigoi3096 ($1.26 in chips) 
+Seat 6: Lorpugo ($3.01 in chips) 
+soroxx0410: posts small blind $0.01
+RobertAlex74: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5c]
+01clear: calls $0.02
+TIGER101979: calls $0.02
+strigoi3096: calls $0.02
+Lorpugo: calls $0.02
+soroxx0410: calls $0.01
+RobertAlex74: checks 
+*** FLOP *** [8h 8s 2c]
+soroxx0410: checks 
+RobertAlex74: checks 
+01clear: checks 
+TIGER101979: checks 
+strigoi3096: checks 
+Lorpugo: checks 
+*** TURN *** [8h 8s 2c] [9d]
+soroxx0410: checks 
+RobertAlex74: checks 
+01clear: checks 
+TIGER101979: checks 
+strigoi3096: bets $0.06
+Lorpugo: folds 
+soroxx0410: calls $0.06
+RobertAlex74: folds 
+01clear: folds 
+TIGER101979: folds 
+*** RIVER *** [8h 8s 2c 9d] [3c]
+soroxx0410: checks 
+strigoi3096: bets $0.38
+soroxx0410: folds 
+Uncalled bet ($0.38) returned to strigoi3096
+strigoi3096 collected $0.23 from pot
+strigoi3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8h 8s 2c 9d 3c]
+Seat 1: soroxx0410 (small blind) folded on the River
+Seat 2: RobertAlex74 (big blind) folded on the Turn
+Seat 3: 01clear folded on the Turn
+Seat 4: TIGER101979 folded on the Turn
+Seat 5: strigoi3096 collected ($0.23)
+Seat 6: Lorpugo (button) folded on the Turn
+
+
+
+PokerStars Hand #240725729163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:19:31 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: soroxx0410 ($0.38 in chips) 
+Seat 2: RobertAlex74 ($2.35 in chips) 
+Seat 3: 01clear ($3.72 in chips) 
+Seat 4: TIGER101979 ($2.12 in chips) 
+Seat 5: strigoi3096 ($1.41 in chips) 
+Seat 6: Lorpugo ($2.99 in chips) 
+RobertAlex74: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9s]
+TIGER101979: folds 
+strigoi3096: folds 
+TIGER101979 leaves the table
+Lorpugo: raises $0.04 to $0.06
+soroxx0410: calls $0.06
+RobertAlex74: calls $0.05
+01clear: folds 
+*** FLOP *** [9h Ts 8c]
+Sotiris000 joins the table at seat #4 
+RobertAlex74: checks 
+Lorpugo: checks 
+soroxx0410: checks 
+*** TURN *** [9h Ts 8c] [9c]
+RobertAlex74: bets $0.04
+Lorpugo: raises $0.28 to $0.32
+soroxx0410: calls $0.32 and is all-in
+RobertAlex74: folds 
+*** RIVER *** [9h Ts 8c 9c] [Kc]
+*** SHOW DOWN ***
+Lorpugo: shows [Ac 9s] (three of a kind, Nines)
+soroxx0410: shows [7d 2d] (a pair of Nines)
+Lorpugo collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [9h Ts 8c 9c Kc]
+Seat 1: soroxx0410 (button) showed [7d 2d] and lost with a pair of Nines
+Seat 2: RobertAlex74 (small blind) folded on the Turn
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: TIGER101979 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [Ac 9s] and won ($0.85) with three of a kind, Nines
+
+
+
+PokerStars Hand #240725749638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:20:45 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 2: RobertAlex74 ($2.25 in chips) 
+Seat 3: 01clear ($3.70 in chips) 
+Seat 4: Sotiris000 ($2 in chips) 
+Seat 5: strigoi3096 ($1.41 in chips) 
+Seat 6: Lorpugo ($3.46 in chips) 
+01clear: posts small blind $0.01
+Sotiris000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2c]
+strigoi3096: calls $0.02
+Lorpugo: calls $0.02
+RobertAlex74: calls $0.02
+01clear: folds 
+Sotiris000: checks 
+*** FLOP *** [2s 3h 8h]
+Sotiris000: checks 
+strigoi3096: checks 
+Lorpugo: bets $0.05
+RobertAlex74: calls $0.05
+Sotiris000: folds 
+strigoi3096: folds 
+*** TURN *** [2s 3h 8h] [3d]
+Lorpugo: checks 
+RobertAlex74: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to RobertAlex74
+RobertAlex74 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2s 3h 8h 3d]
+Seat 2: RobertAlex74 (button) collected ($0.18)
+Seat 3: 01clear (small blind) folded before Flop
+Seat 4: Sotiris000 (big blind) folded on the Flop
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo folded on the Turn
+
+
+
+PokerStars Hand #240725773490:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:22:11 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: soroxx0410 ($2 in chips) 
+Seat 2: RobertAlex74 ($2.36 in chips) 
+Seat 3: 01clear ($3.69 in chips) 
+Seat 4: Sotiris000 ($1.98 in chips) 
+Seat 5: strigoi3096 ($1.39 in chips) 
+Seat 6: Lorpugo ($3.39 in chips) 
+Sotiris000: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qd]
+Lorpugo: folds 
+soroxx0410: calls $0.02
+RobertAlex74: folds 
+01clear: calls $0.02
+Sotiris000: folds 
+strigoi3096: raises $0.02 to $0.04
+soroxx0410: calls $0.02
+01clear: calls $0.02
+*** FLOP *** [9c 6c 9h]
+strigoi3096: bets $0.06
+soroxx0410: calls $0.06
+01clear: folds 
+*** TURN *** [9c 6c 9h] [Jh]
+strigoi3096: checks 
+soroxx0410: checks 
+*** RIVER *** [9c 6c 9h Jh] [Ks]
+strigoi3096: checks 
+soroxx0410: checks 
+*** SHOW DOWN ***
+strigoi3096: shows [7d Ad] (a pair of Nines)
+soroxx0410: mucks hand 
+strigoi3096 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c 6c 9h Jh Ks]
+Seat 1: soroxx0410 mucked [8c 7h]
+Seat 2: RobertAlex74 folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded on the Flop
+Seat 4: Sotiris000 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) showed [7d Ad] and won ($0.24) with a pair of Nines
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725788192:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:23:03 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: soroxx0410 ($1.90 in chips) 
+Seat 2: RobertAlex74 ($2.36 in chips) 
+Seat 3: 01clear ($3.65 in chips) 
+Seat 4: Sotiris000 ($1.97 in chips) 
+Seat 5: strigoi3096 ($1.53 in chips) 
+Seat 6: Lorpugo ($3.39 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9c]
+soroxx0410: calls $0.02
+RobertAlex74: calls $0.02
+01clear: folds 
+Sotiris000: raises $0.06 to $0.08
+strigoi3096: folds 
+Lorpugo: folds 
+soroxx0410: calls $0.06
+RobertAlex74: calls $0.06
+*** FLOP *** [4h 6s 9d]
+soroxx0410: checks 
+RobertAlex74: checks 
+Sotiris000: bets $0.08
+soroxx0410: folds 
+RobertAlex74: folds 
+Uncalled bet ($0.08) returned to Sotiris000
+Sotiris000 collected $0.26 from pot
+Sotiris000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4h 6s 9d]
+Seat 1: soroxx0410 folded on the Flop
+Seat 2: RobertAlex74 folded on the Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: Sotiris000 (button) collected ($0.26)
+Seat 5: strigoi3096 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240725804602:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:24:03 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: soroxx0410 ($1.82 in chips) 
+Seat 2: RobertAlex74 ($2.28 in chips) 
+Seat 3: 01clear ($3.65 in chips) 
+Seat 4: Sotiris000 ($2.15 in chips) 
+Seat 5: strigoi3096 ($1.52 in chips) 
+Seat 6: Lorpugo ($3.37 in chips) 
+Lorpugo: posts small blind $0.01
+soroxx0410: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ac]
+RobertAlex74 has timed out
+RobertAlex74: folds 
+01clear: folds 
+Sotiris000: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+soroxx0410: calls $0.08
+strigoi3096: calls $0.08
+*** FLOP *** [As 2s Qd]
+Lorpugo: checks 
+RobertAlex74 leaves the table
+soroxx0410: checks 
+strigoi3096: checks 
+*** TURN *** [As 2s Qd] [Ks]
+KraVasya joins the table at seat #2 
+Lorpugo: bets $0.19
+soroxx0410: folds 
+strigoi3096: folds 
+Uncalled bet ($0.19) returned to Lorpugo
+Lorpugo collected $0.29 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [As 2s Qd Ks]
+Seat 1: soroxx0410 (big blind) folded on the Turn
+Seat 2: RobertAlex74 folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded on the Turn
+Seat 6: Lorpugo (small blind) collected ($0.29)
+
+
+
+PokerStars Hand #240725819026:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:24:54 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: soroxx0410 ($1.72 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.65 in chips) 
+Seat 4: Sotiris000 ($2.15 in chips) 
+Seat 5: strigoi3096 ($1.42 in chips) 
+Seat 6: Lorpugo ($3.56 in chips) 
+soroxx0410: posts small blind $0.01
+KraVasya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9s]
+01clear: raises $0.02 to $0.04
+Sotiris000: folds 
+strigoi3096: calls $0.04
+Lorpugo: calls $0.04
+soroxx0410: calls $0.03
+KraVasya: folds 
+*** FLOP *** [7h Jc 3h]
+soroxx0410: checks 
+01clear: bets $0.06
+strigoi3096: folds 
+Lorpugo: calls $0.06
+soroxx0410: calls $0.06
+*** TURN *** [7h Jc 3h] [Ah]
+soroxx0410: checks 
+01clear: checks 
+Lorpugo: checks 
+*** RIVER *** [7h Jc 3h Ah] [Jh]
+soroxx0410: checks 
+01clear: bets $0.20
+Lorpugo: folds 
+soroxx0410: folds 
+Uncalled bet ($0.20) returned to 01clear
+01clear collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [7h Jc 3h Ah Jh]
+Seat 1: soroxx0410 (small blind) folded on the River
+Seat 2: KraVasya (big blind) folded before Flop
+Seat 3: 01clear collected ($0.35)
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo (button) folded on the River
+
+
+
+PokerStars Hand #240725837694:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:26:01 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: soroxx0410 ($1.62 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.90 in chips) 
+Seat 4: Sotiris000 ($2.15 in chips) 
+Seat 5: strigoi3096 ($1.38 in chips) 
+Seat 6: Lorpugo ($3.46 in chips) 
+KraVasya: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd As]
+Sotiris000: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+soroxx0410: calls $0.09
+KraVasya: folds 
+01clear: folds 
+strigoi3096: folds 
+*** FLOP *** [Ks 8s 3h]
+Lorpugo: bets $0.11
+soroxx0410: calls $0.11
+*** TURN *** [Ks 8s 3h] [6s]
+Lorpugo: bets $0.28
+soroxx0410: raises $0.28 to $0.56
+Lorpugo: calls $0.28
+*** RIVER *** [Ks 8s 3h 6s] [5c]
+Lorpugo: checks 
+soroxx0410: bets $0.40
+Lorpugo: calls $0.40
+*** SHOW DOWN ***
+soroxx0410: shows [Ad 3s] (a pair of Threes)
+Lorpugo: shows [Kd As] (a pair of Kings)
+Lorpugo collected $2.29 from pot
+*** SUMMARY ***
+Total pot $2.37 | Rake $0.08 
+Board [Ks 8s 3h 6s 5c]
+Seat 1: soroxx0410 (button) showed [Ad 3s] and lost with a pair of Threes
+Seat 2: KraVasya (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded before Flop
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded before Flop
+Seat 6: Lorpugo showed [Kd As] and won ($2.29) with a pair of Kings
+
+
+
+PokerStars Hand #240725855909:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:27:07 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: soroxx0410 ($0.46 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.88 in chips) 
+Seat 4: Sotiris000 ($2.15 in chips) 
+Seat 5: strigoi3096 ($1.36 in chips) 
+Seat 6: Lorpugo ($4.59 in chips) 
+01clear: posts small blind $0.01
+Sotiris000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8d]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+soroxx0410: calls $0.02
+KraVasya: folds 
+01clear: calls $0.01
+Sotiris000: checks 
+*** FLOP *** [7h 2s Ah]
+01clear: checks 
+Sotiris000: checks 
+strigoi3096: checks 
+soroxx0410: checks 
+*** TURN *** [7h 2s Ah] [5h]
+01clear: checks 
+Sotiris000: checks 
+strigoi3096: checks 
+soroxx0410: checks 
+*** RIVER *** [7h 2s Ah 5h] [2d]
+01clear: checks 
+Sotiris000: checks 
+strigoi3096: bets $0.04
+soroxx0410: calls $0.04
+01clear: folds 
+Sotiris000: calls $0.04
+*** SHOW DOWN ***
+strigoi3096: shows [8c 5d] (two pair, Fives and Deuces)
+soroxx0410: mucks hand 
+Sotiris000: shows [Ts Tc] (two pair, Tens and Deuces)
+Sotiris000 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7h 2s Ah 5h 2d]
+Seat 1: soroxx0410 mucked [9d Kd]
+Seat 2: KraVasya (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded on the River
+Seat 4: Sotiris000 (big blind) showed [Ts Tc] and won ($0.19) with two pair, Tens and Deuces
+Seat 5: strigoi3096 showed [8c 5d] and lost with two pair, Fives and Deuces
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725874541:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:28:13 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: soroxx0410 ($0.40 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.86 in chips) 
+Seat 4: Sotiris000 ($2.28 in chips) 
+Seat 5: strigoi3096 ($1.30 in chips) 
+Seat 6: Lorpugo ($4.59 in chips) 
+Sotiris000: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ah]
+Lorpugo: folds 
+soroxx0410: calls $0.02
+KraVasya: raises $0.04 to $0.06
+01clear: folds 
+Sotiris000: folds 
+strigoi3096: calls $0.04
+soroxx0410: calls $0.04
+*** FLOP *** [5h 8s Td]
+strigoi3096: checks 
+soroxx0410: checks 
+KraVasya: checks 
+*** TURN *** [5h 8s Td] [7c]
+strigoi3096: checks 
+soroxx0410: checks 
+KraVasya: checks 
+*** RIVER *** [5h 8s Td 7c] [7h]
+strigoi3096: checks 
+soroxx0410: bets $0.10
+KraVasya: folds 
+strigoi3096: folds 
+Uncalled bet ($0.10) returned to soroxx0410
+soroxx0410 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 8s Td 7c 7h]
+Seat 1: soroxx0410 collected ($0.18)
+Seat 2: KraVasya folded on the River
+Seat 3: 01clear (button) folded before Flop (didn't bet)
+Seat 4: Sotiris000 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725888036:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:29:02 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 1: soroxx0410 ($0.52 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.86 in chips) 
+Seat 4: Sotiris000 ($2.27 in chips) 
+Seat 5: strigoi3096 ($1.24 in chips) 
+Seat 6: Lorpugo ($4.59 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 8c]
+soroxx0410: calls $0.02
+KraVasya: raises $0.05 to $0.07
+01clear: folds 
+Sotiris000: folds 
+strigoi3096: calls $0.06
+Lorpugo: folds 
+soroxx0410: calls $0.05
+*** FLOP *** [7d Qc Qh]
+strigoi3096: checks 
+soroxx0410: checks 
+KraVasya: checks 
+*** TURN *** [7d Qc Qh] [5d]
+strigoi3096: checks 
+soroxx0410: checks 
+KraVasya: checks 
+*** RIVER *** [7d Qc Qh 5d] [2h]
+strigoi3096: checks 
+soroxx0410: checks 
+KraVasya: bets $0.02
+strigoi3096: folds 
+soroxx0410: calls $0.02
+*** SHOW DOWN ***
+KraVasya: shows [Ad Jc] (a pair of Queens)
+soroxx0410: shows [Ts 2c] (two pair, Queens and Deuces)
+soroxx0410 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7d Qc Qh 5d 2h]
+Seat 1: soroxx0410 showed [Ts 2c] and won ($0.26) with two pair, Queens and Deuces
+Seat 2: KraVasya showed [Ad Jc] and lost with a pair of Queens
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: Sotiris000 (button) folded before Flop (didn't bet)
+Seat 5: strigoi3096 (small blind) folded on the River
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240725907223:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:30:10 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: soroxx0410 ($0.69 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.86 in chips) 
+Seat 4: Sotiris000 ($2.27 in chips) 
+Seat 5: strigoi3096 ($1.17 in chips) 
+Seat 6: Lorpugo ($4.57 in chips) 
+Lorpugo: posts small blind $0.01
+soroxx0410: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Ad]
+KraVasya has timed out
+KraVasya: folds 
+01clear: folds 
+Sotiris000: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+soroxx0410: folds 
+strigoi3096: calls $0.08
+*** FLOP *** [2c 5c 6s]
+Lorpugo: bets $0.14
+strigoi3096: calls $0.14
+*** TURN *** [2c 5c 6s] [6c]
+Lorpugo: bets $0.24
+strigoi3096: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.48 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [2c 5c 6s 6c]
+Seat 1: soroxx0410 (big blind) folded before Flop
+Seat 2: KraVasya folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded on the Turn
+Seat 6: Lorpugo (small blind) collected ($0.48)
+
+
+
+PokerStars Hand #240725920968:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:30:59 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 1: soroxx0410 ($0.67 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.86 in chips) 
+Seat 4: Sotiris000 ($2.27 in chips) 
+Seat 5: strigoi3096 ($0.93 in chips) 
+Seat 6: Lorpugo ($4.81 in chips) 
+soroxx0410: posts small blind $0.01
+KraVasya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ts]
+01clear: folds 
+Sotiris000: folds 
+strigoi3096: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+soroxx0410: calls $0.08
+KraVasya: folds 
+strigoi3096: calls $0.07
+*** FLOP *** [As 8s 2c]
+soroxx0410: checks 
+strigoi3096: checks 
+Lorpugo: bets $0.14
+soroxx0410: calls $0.14
+strigoi3096: folds 
+*** TURN *** [As 8s 2c] [7h]
+soroxx0410: checks 
+Lorpugo: checks 
+*** RIVER *** [As 8s 2c 7h] [Tc]
+soroxx0410: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+soroxx0410: shows [Qs Kc] (high card Ace)
+Lorpugo: shows [Js Ts] (a pair of Tens)
+Lorpugo collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [As 8s 2c 7h Tc]
+Seat 1: soroxx0410 (small blind) showed [Qs Kc] and lost with high card Ace
+Seat 2: KraVasya (big blind) folded before Flop
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the Flop
+Seat 6: Lorpugo (button) showed [Js Ts] and won ($0.55) with a pair of Tens
+
+
+
+PokerStars Hand #240725939305:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:32:03 ET
+Table 'Matar II' 6-max Seat #1 is the button
+Seat 1: soroxx0410 ($0.44 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.86 in chips) 
+Seat 4: Sotiris000 ($2.27 in chips) 
+Seat 5: strigoi3096 ($0.84 in chips) 
+Seat 6: Lorpugo ($5.13 in chips) 
+KraVasya: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 6d]
+Sotiris000: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+soroxx0410: calls $0.02
+KraVasya: folds 
+01clear: checks 
+*** FLOP *** [Td 3c 4h]
+01clear: checks 
+strigoi3096: checks 
+soroxx0410: bets $0.02
+01clear: folds 
+strigoi3096: calls $0.02
+*** TURN *** [Td 3c 4h] [4d]
+strigoi3096: checks 
+soroxx0410: bets $0.02
+strigoi3096: calls $0.02
+*** RIVER *** [Td 3c 4h 4d] [2s]
+strigoi3096: checks 
+soroxx0410: bets $0.02
+strigoi3096: folds 
+Uncalled bet ($0.02) returned to soroxx0410
+soroxx0410 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td 3c 4h 4d 2s]
+Seat 1: soroxx0410 (button) collected ($0.14)
+Seat 2: KraVasya (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded on the Flop
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725953691:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:32:54 ET
+Table 'Matar II' 6-max Seat #2 is the button
+Seat 1: soroxx0410 ($0.52 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.84 in chips) 
+Seat 4: Sotiris000 ($2.27 in chips) 
+Seat 5: strigoi3096 ($0.78 in chips) 
+Seat 6: Lorpugo ($5.13 in chips) 
+01clear: posts small blind $0.01
+Sotiris000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ad]
+strigoi3096: calls $0.02
+Lorpugo: folds 
+soroxx0410: calls $0.02
+KraVasya: folds 
+01clear: calls $0.01
+Sotiris000: checks 
+*** FLOP *** [5c 5s 7c]
+01clear: checks 
+Sotiris000: checks 
+strigoi3096: checks 
+soroxx0410: checks 
+*** TURN *** [5c 5s 7c] [2h]
+01clear: checks 
+Sotiris000: checks 
+strigoi3096: checks 
+soroxx0410: bets $0.12
+01clear: folds 
+Sotiris000: folds 
+strigoi3096: folds 
+Uncalled bet ($0.12) returned to soroxx0410
+soroxx0410 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5c 5s 7c 2h]
+Seat 1: soroxx0410 collected ($0.08)
+Seat 2: KraVasya (button) folded before Flop (didn't bet)
+Seat 3: 01clear (small blind) folded on the Turn
+Seat 4: Sotiris000 (big blind) folded on the Turn
+Seat 5: strigoi3096 folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725968179:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:33:44 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 1: soroxx0410 ($0.58 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.82 in chips) 
+Seat 4: Sotiris000 ($2.25 in chips) 
+Seat 5: strigoi3096 ($0.76 in chips) 
+Seat 6: Lorpugo ($5.13 in chips) 
+Sotiris000: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5d]
+Lorpugo: folds 
+soroxx0410: calls $0.02
+KraVasya: folds 
+01clear: calls $0.02
+Sotiris000: calls $0.01
+strigoi3096: raises $0.04 to $0.06
+soroxx0410: calls $0.04
+01clear: calls $0.04
+Sotiris000: folds 
+*** FLOP *** [6s 9s 4h]
+strigoi3096: bets $0.70 and is all-in
+soroxx0410: calls $0.52 and is all-in
+01clear: folds 
+Uncalled bet ($0.18) returned to strigoi3096
+*** TURN *** [6s 9s 4h] [8d]
+*** RIVER *** [6s 9s 4h 8d] [5c]
+*** SHOW DOWN ***
+strigoi3096: shows [Qc 9d] (a pair of Nines)
+soroxx0410: shows [Jc 4s] (a pair of Fours)
+strigoi3096 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.04 
+Board [6s 9s 4h 8d 5c]
+Seat 1: soroxx0410 showed [Jc 4s] and lost with a pair of Fours
+Seat 2: KraVasya folded before Flop (didn't bet)
+Seat 3: 01clear (button) folded on the Flop
+Seat 4: Sotiris000 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) showed [Qc 9d] and won ($1.20) with a pair of Nines
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240725984382:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:34:40 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: Sotiris000 ($2.23 in chips) 
+Seat 5: strigoi3096 ($1.38 in chips) 
+Seat 6: Lorpugo ($5.13 in chips) 
+strigoi3096: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Td]
+KraVasya: folds 
+01clear: folds 
+Sotiris000: raises $0.02 to $0.04
+strigoi3096: folds 
+Lorpugo: raises $0.09 to $0.13
+Sotiris000: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 2: KraVasya folded before Flop (didn't bet)
+Seat 3: 01clear folded before Flop (didn't bet)
+Seat 4: Sotiris000 (button) folded before Flop
+Seat 5: strigoi3096 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #240725990403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:35:01 ET
+Table 'Matar II' 6-max Seat #5 is the button
+Seat 1: soroxx0410 ($2 in chips) 
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($3.76 in chips) 
+Seat 4: Sotiris000 ($2.19 in chips) 
+Seat 5: strigoi3096 ($1.37 in chips) 
+Seat 6: Lorpugo ($5.18 in chips) 
+Lorpugo: posts small blind $0.01
+soroxx0410: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Tc]
+KraVasya: folds 
+01clear: raises $0.02 to $0.04
+Sotiris000: folds 
+strigoi3096: calls $0.04
+Lorpugo: folds 
+soroxx0410: calls $0.02
+*** FLOP *** [4d 7c 9c]
+soroxx0410: checks 
+01clear: checks 
+strigoi3096: checks 
+*** TURN *** [4d 7c 9c] [Qh]
+soroxx0410: bets $0.10
+01clear: calls $0.10
+strigoi3096: folds 
+*** RIVER *** [4d 7c 9c Qh] [2d]
+soroxx0410: bets $0.10
+01clear: raises $0.20 to $0.30
+soroxx0410: raises $0.20 to $0.50
+01clear: raises $0.20 to $0.70
+soroxx0410: raises $0.20 to $0.90
+01clear: raises $2.72 to $3.62 and is all-in
+soroxx0410: calls $0.96 and is all-in
+Uncalled bet ($1.76) returned to 01clear
+*** SHOW DOWN ***
+01clear: shows [Kc Qs] (a pair of Queens)
+soroxx0410: shows [9d 6d] (a pair of Nines)
+01clear collected $3.91 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.14 
+Board [4d 7c 9c Qh 2d]
+Seat 1: soroxx0410 (big blind) showed [9d 6d] and lost with a pair of Nines
+Seat 2: KraVasya folded before Flop (didn't bet)
+Seat 3: 01clear showed [Kc Qs] and won ($3.91) with a pair of Queens
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 (button) folded on the Turn
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240726009611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:36:08 ET
+Table 'Matar II' 6-max Seat #6 is the button
+Seat 2: KraVasya ($2 in chips) 
+Seat 3: 01clear ($5.67 in chips) 
+Seat 4: Sotiris000 ($2.19 in chips) 
+Seat 5: strigoi3096 ($1.33 in chips) 
+Seat 6: Lorpugo ($5.17 in chips) 
+KraVasya: posts small blind $0.01
+01clear: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5h]
+Sotiris000: folds 
+strigoi3096: calls $0.02
+Lorpugo: folds 
+KraVasya: folds 
+01clear: raises $0.02 to $0.04
+strigoi3096: calls $0.02
+*** FLOP *** [7c 8s 2d]
+01clear: checks 
+soroxx0410 leaves the table
+strigoi3096: bets $0.10
+01clear: folds 
+Uncalled bet ($0.10) returned to strigoi3096
+strigoi3096 collected $0.09 from pot
+strigoi3096: doesn't show hand 
+KraVasya leaves the table
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7c 8s 2d]
+Seat 2: KraVasya (small blind) folded before Flop
+Seat 3: 01clear (big blind) folded on the Flop
+Seat 4: Sotiris000 folded before Flop (didn't bet)
+Seat 5: strigoi3096 collected ($0.09)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240726022729:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 9:36:53 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 3: 01clear ($5.63 in chips) 
+Seat 4: Sotiris000 ($2.19 in chips) 
+Seat 5: strigoi3096 ($1.38 in chips) 
+Seat 6: Lorpugo ($5.17 in chips) 
+Sotiris000: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 9h]
+Lorpugo: raises $0.04 to $0.06
+01clear: calls $0.06
+Sotiris000: folds 
+strigoi3096: calls $0.04
+*** FLOP *** [Kd Ah 8s]
+strigoi3096: bets $0.04
+Lorpugo: folds 
+01clear: calls $0.04
+*** TURN *** [Kd Ah 8s] [6c]
+strigoi3096: checks 
+01clear: bets $0.04
+strigoi3096: calls $0.04
+*** RIVER *** [Kd Ah 8s 6c] [Js]
+strigoi3096: checks 
+01clear: bets $0.16
+Sharces joins the table at seat #1 
+strigoi3096: folds 
+Uncalled bet ($0.16) returned to 01clear
+01clear collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Kd Ah 8s 6c Js]
+Seat 3: 01clear (button) collected ($0.34)
+Seat 4: Sotiris000 (small blind) folded before Flop
+Seat 5: strigoi3096 (big blind) folded on the River
+Seat 6: Lorpugo folded on the Flop
+
+
+

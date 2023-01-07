@@ -1,0 +1,2467 @@
+﻿PokerStars Hand #240701951123:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:18:25 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: Makgajwer ($2.50 in chips) 
+Seat 5: poseidoporunbot ($2.34 in chips) 
+Seat 6: Nikel31 ($2 in chips) 
+Nikel31: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5c]
+Makgajwer: raises $0.03 to $0.05
+poseidoporunbot: folds 
+Nikel31: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to Makgajwer
+Makgajwer collected $0.05 from pot
+Makgajwer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: Makgajwer collected ($0.05)
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240701954911:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:18:40 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 5: poseidoporunbot ($2.34 in chips) 
+Seat 6: Nikel31 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Js]
+Nikel31: raises $0.03 to $0.05
+Lorpugo: raises $0.12 to $0.17
+poseidoporunbot: folds 
+Nikel31: raises $0.31 to $0.48
+Lorpugo: raises $1.10 to $1.58 and is all-in
+Nikel31: calls $1.10
+*** FLOP *** [Ac 9d 5d]
+*** TURN *** [Ac 9d 5d] [8c]
+*** RIVER *** [Ac 9d 5d 8c] [As]
+*** SHOW DOWN ***
+Lorpugo: shows [Jh Js] (two pair, Aces and Jacks)
+Nikel31: shows [Kh Kd] (two pair, Aces and Kings)
+Nikel31 collected $3.07 from pot
+*** SUMMARY ***
+Total pot $3.18 | Rake $0.11 
+Board [Ac 9d 5d 8c As]
+Seat 2: Lorpugo (small blind) showed [Jh Js] and lost with two pair, Aces and Jacks
+Seat 5: poseidoporunbot (big blind) folded before Flop
+Seat 6: Nikel31 (button) showed [Kh Kd] and won ($3.07) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #240701966898:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:19:25 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 5: poseidoporunbot ($2.31 in chips) 
+Seat 6: Nikel31 ($3.50 in chips) 
+Nikel31: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 9d]
+poseidoporunbot: folds 
+POKERBAZI_57 joins the table at seat #1 
+Nikel31: raises $0.03 to $0.05
+Lorpugo: calls $0.03
+*** FLOP *** [9h 8h Qd]
+fogallo2 joins the table at seat #3 
+Nikel31: bets $0.03
+Lorpugo: raises $0.08 to $0.11
+Nikel31: calls $0.08
+*** TURN *** [9h 8h Qd] [As]
+Nikel31: checks 
+Lorpugo: checks 
+*** RIVER *** [9h 8h Qd As] [Kc]
+Nikel31: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Nikel31: shows [Th 6h] (high card Ace)
+Lorpugo: shows [6c 9d] (a pair of Nines)
+Lorpugo collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [9h 8h Qd As Kc]
+Seat 2: Lorpugo (big blind) showed [6c 9d] and won ($0.31) with a pair of Nines
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) showed [Th 6h] and lost with high card Ace
+
+
+
+PokerStars Hand #240701977855:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:20:06 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: fogallo2 ($1 in chips) 
+Seat 5: poseidoporunbot ($2.31 in chips) 
+Seat 6: Nikel31 ($3.34 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7c]
+poseidoporunbot: raises $0.04 to $0.06
+Nikel31: folds 
+Lorpugo: folds 
+fogallo2: calls $0.04
+*** FLOP *** [6c Jc 4s]
+fogallo2: checks 
+poseidoporunbot: bets $0.10
+fogallo2: folds 
+Uncalled bet ($0.10) returned to poseidoporunbot
+poseidoporunbot collected $0.13 from pot
+poseidoporunbot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6c Jc 4s]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) folded on the Flop
+Seat 5: poseidoporunbot collected ($0.13)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240701984675:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:20:32 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.74 in chips) 
+Seat 3: fogallo2 ($0.94 in chips) 
+Seat 5: poseidoporunbot ($2.38 in chips) 
+Seat 6: Nikel31 ($3.34 in chips) 
+fogallo2: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6s]
+Nikel31: raises $0.03 to $0.05
+Lorpugo: raises $0.13 to $0.18
+fogallo2: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 2: Lorpugo (button) collected ($0.13)
+Seat 3: fogallo2 (small blind) folded before Flop
+Seat 5: poseidoporunbot (big blind) folded before Flop
+Seat 6: Nikel31 folded before Flop
+
+
+
+PokerStars Hand #240701989720:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:20:51 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: fogallo2 ($0.93 in chips) 
+Seat 5: poseidoporunbot ($2.36 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+poseidoporunbot: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ts]
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+poseidoporunbot: folds 
+Nikel31: calls $0.04
+*** FLOP *** [Kc 2h Ad]
+Nikel31: checks 
+Lorpugo: checks 
+*** TURN *** [Kc 2h Ad] [3h]
+Nikel31: checks 
+Lorpugo: checks 
+*** RIVER *** [Kc 2h Ad 3h] [6d]
+Nikel31: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Nikel31: shows [5h 5s] (a pair of Fives)
+Lorpugo: mucks hand 
+Nikel31 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kc 2h Ad 3h 6d]
+Seat 2: Lorpugo mucked [Qd Ts]
+Seat 3: fogallo2 (button) folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) showed [5h 5s] and won ($0.13) with a pair of Fives
+
+
+
+PokerStars Hand #240702000463:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:21:32 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2 in chips) 
+Seat 2: Lorpugo ($1.76 in chips) 
+Seat 3: fogallo2 ($0.93 in chips) 
+Seat 5: poseidoporunbot ($2.35 in chips) 
+Seat 6: Nikel31 ($3.36 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ks]
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702006517:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:21:55 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($1.98 in chips) 
+Seat 2: Lorpugo ($1.79 in chips) 
+Seat 3: fogallo2 ($0.93 in chips) 
+Seat 5: poseidoporunbot ($2.35 in chips) 
+Seat 6: Nikel31 ($3.35 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Tc]
+fogallo2: folds 
+poseidoporunbot: raises $0.04 to $0.06
+Nikel31: folds 
+POKERBAZI_57: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [7d 7h Ks]
+POKERBAZI_57: bets $0.09
+Lorpugo: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.09) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.17 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7d 7h Ks]
+Seat 1: POKERBAZI_57 (small blind) collected ($0.17)
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded on the Flop
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702015845:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:22:30 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.09 in chips) 
+Seat 2: Lorpugo ($1.73 in chips) 
+Seat 3: fogallo2 ($0.93 in chips) 
+Seat 5: poseidoporunbot ($2.29 in chips) 
+Seat 6: Nikel31 ($3.35 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Tc]
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.02
+Lorpugo: folds 
+fogallo2: raises $0.02 to $0.04
+POKERBAZI_57: calls $0.02
+*** FLOP *** [As Qh 7s]
+fogallo2: bets $0.06
+POKERBAZI_57: calls $0.06
+*** TURN *** [As Qh 7s] [7h]
+fogallo2: checks 
+POKERBAZI_57: bets $0.10
+fogallo2: calls $0.10
+*** RIVER *** [As Qh 7s 7h] [Ad]
+fogallo2: checks 
+POKERBAZI_57: bets $0.20
+fogallo2: calls $0.20
+*** SHOW DOWN ***
+POKERBAZI_57: shows [Ah 4c] (a full house, Aces full of Sevens)
+fogallo2: mucks hand 
+POKERBAZI_57 collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04 
+Board [As Qh 7s 7h Ad]
+Seat 1: POKERBAZI_57 (button) showed [Ah 4c] and won ($0.77) with a full house, Aces full of Sevens
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) mucked [Qd Jh]
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702029868:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:23:23 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.46 in chips) 
+Seat 2: Lorpugo ($1.72 in chips) 
+Seat 3: fogallo2 ($0.53 in chips) 
+Seat 4: Makgajwer ($2.53 in chips) 
+Seat 5: poseidoporunbot ($2.29 in chips) 
+Seat 6: Nikel31 ($3.35 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8h]
+poseidoporunbot: folds 
+Nikel31: raises $0.04 to $0.06
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: calls $0.05
+Makgajwer: calls $0.04
+*** FLOP *** [3h Qc 5d]
+fogallo2: checks 
+Makgajwer: checks 
+Nikel31: checks 
+*** TURN *** [3h Qc 5d] [6d]
+fogallo2: checks 
+Makgajwer: checks 
+Nikel31: checks 
+*** RIVER *** [3h Qc 5d 6d] [9c]
+fogallo2: bets $0.06
+Makgajwer: calls $0.06
+Nikel31: folds 
+*** SHOW DOWN ***
+fogallo2: shows [8c 9s] (a pair of Nines)
+Makgajwer: shows [Qh Kc] (a pair of Queens)
+Makgajwer collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3h Qc 5d 6d 9c]
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) showed [8c 9s] and lost with a pair of Nines
+Seat 4: Makgajwer (big blind) showed [Qh Kc] and won ($0.29) with a pair of Queens
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded on the River
+
+
+
+PokerStars Hand #240702043597:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:24:15 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.46 in chips) 
+Seat 2: Lorpugo ($1.72 in chips) 
+Seat 3: fogallo2 ($0.41 in chips) 
+Seat 4: Makgajwer ($2.70 in chips) 
+Seat 5: poseidoporunbot ($2.29 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+Makgajwer: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Kc]
+Nikel31: folds 
+POKERBAZI_57 has timed out
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: fogallo2 (button) folded before Flop (didn't bet)
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: poseidoporunbot (big blind) folded before Flop
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702049487:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:24:38 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.46 in chips) 
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: fogallo2 ($0.41 in chips) 
+Seat 4: Makgajwer ($2.69 in chips) 
+Seat 5: poseidoporunbot ($2.27 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+poseidoporunbot: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6s]
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.01) returned to Nikel31
+Nikel31 collected $0.02 from pot
+Nikel31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer (button) folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240702052319:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:24:49 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2.46 in chips) 
+Seat 2: Lorpugo ($1.75 in chips) 
+Seat 3: fogallo2 ($0.41 in chips) 
+Seat 4: Makgajwer ($2.69 in chips) 
+Seat 5: poseidoporunbot ($2.26 in chips) 
+Seat 6: Nikel31 ($3.30 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qs]
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: raises $0.10 to $0.16
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: calls $0.10
+*** FLOP *** [9h 2h Jh]
+Lorpugo: checks 
+poseidoporunbot: bets $0.16
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to poseidoporunbot
+poseidoporunbot collected $0.34 from pot
+poseidoporunbot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9h 2h Jh]
+Seat 1: POKERBAZI_57 (big blind) folded before Flop
+Seat 2: Lorpugo folded on the Flop
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (button) collected ($0.34)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702061802:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:25:24 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.44 in chips) 
+Seat 2: Lorpugo ($1.59 in chips) 
+Seat 3: fogallo2 ($0.41 in chips) 
+Seat 4: Makgajwer ($2.69 in chips) 
+Seat 5: poseidoporunbot ($2.44 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6s]
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Tc 2h 2s]
+POKERBAZI_57: checks 
+Lorpugo: bets $0.02
+POKERBAZI_57: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Tc 2h 2s]
+Seat 1: POKERBAZI_57 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702069516:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:25:54 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.42 in chips) 
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: fogallo2 ($0.41 in chips) 
+Seat 4: Makgajwer ($2.69 in chips) 
+Seat 5: poseidoporunbot ($2.44 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2s]
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: raises $0.05 to $0.07
+Lorpugo: folds 
+fogallo2: calls $0.05
+*** FLOP *** [8h 6c 9c]
+fogallo2: checks 
+POKERBAZI_57: checks 
+*** TURN *** [8h 6c 9c] [Ks]
+fogallo2: checks 
+POKERBAZI_57: checks 
+*** RIVER *** [8h 6c 9c Ks] [Js]
+fogallo2: checks 
+POKERBAZI_57: checks 
+*** SHOW DOWN ***
+fogallo2: shows [4c Tc] (high card King)
+POKERBAZI_57: shows [Ad Qs] (high card Ace)
+POKERBAZI_57 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8h 6c 9c Ks Js]
+Seat 1: POKERBAZI_57 (button) showed [Ad Qs] and won ($0.14) with high card Ace
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) showed [4c Tc] and lost with high card King
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702083602:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:26:47 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.49 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: fogallo2 ($0.34 in chips) 
+Seat 4: Makgajwer ($2.69 in chips) 
+Seat 5: poseidoporunbot ($2.44 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7d]
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: raises $0.05 to $0.07
+Lorpugo: folds 
+fogallo2: raises $0.05 to $0.12
+Makgajwer: folds 
+POKERBAZI_57: calls $0.05
+*** FLOP *** [4d 2c 9s]
+fogallo2: bets $0.22 and is all-in
+POKERBAZI_57: calls $0.22
+*** TURN *** [4d 2c 9s] [6d]
+*** RIVER *** [4d 2c 9s 6d] [4h]
+*** SHOW DOWN ***
+fogallo2: shows [Js Jd] (two pair, Jacks and Fours)
+POKERBAZI_57: shows [Ah Qh] (a pair of Fours)
+fogallo2 collected $0.68 from pot
+POKERBAZI_57 cashed out the hand for $0.17
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [4d 2c 9s 6d 4h]
+Seat 1: POKERBAZI_57 showed [Ah Qh] and lost with a pair of Fours (cashed out).
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) showed [Js Jd] and won ($0.68) with two pair, Jacks and Fours
+Seat 4: Makgajwer (big blind) folded before Flop
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702093669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:27:25 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.32 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: fogallo2 ($0.68 in chips) 
+Seat 4: Makgajwer ($2.67 in chips) 
+Seat 5: poseidoporunbot ($2.44 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+Makgajwer: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8d]
+Nikel31: raises $0.04 to $0.06
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.04) returned to Nikel31
+Nikel31 collected $0.05 from pot
+Nikel31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 (button) folded before Flop (didn't bet)
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: poseidoporunbot (big blind) folded before Flop
+Seat 6: Nikel31 collected ($0.05)
+
+
+
+PokerStars Hand #240702100554:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:27:51 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.32 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: fogallo2 ($0.68 in chips) 
+Seat 4: Makgajwer ($2.66 in chips) 
+Seat 5: poseidoporunbot ($2.42 in chips) 
+Seat 6: Nikel31 ($3.32 in chips) 
+poseidoporunbot: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h As]
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: raises $0.12 to $0.18
+poseidoporunbot: folds 
+Nikel31: folds 
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to Makgajwer
+Makgajwer collected $0.15 from pot
+Makgajwer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer (button) collected ($0.15)
+Seat 5: poseidoporunbot (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702107298:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:28:17 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2.32 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: fogallo2 ($0.68 in chips) 
+Seat 4: Makgajwer ($2.75 in chips) 
+Seat 5: poseidoporunbot ($2.41 in chips) 
+Seat 6: Nikel31 ($3.30 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 4h]
+Lorpugo: folds 
+fogallo2: calls $0.02
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: raises $0.04 to $0.06
+fogallo2: calls $0.04
+*** FLOP *** [Th 3c Kh]
+POKERBAZI_57: bets $0.07
+fogallo2: folds 
+Uncalled bet ($0.07) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.13 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th 3c Kh]
+Seat 1: POKERBAZI_57 (big blind) collected ($0.13)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 folded on the Flop
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702113051:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:28:39 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.39 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: fogallo2 ($0.62 in chips) 
+Seat 4: Makgajwer ($2.75 in chips) 
+Seat 5: poseidoporunbot ($2.41 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Ah]
+fogallo2: calls $0.02
+Makgajwer: raises $0.05 to $0.07
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: calls $0.05
+fogallo2: folds 
+*** FLOP *** [Kd 6s 2s]
+Lorpugo: checks 
+Makgajwer: bets $0.05
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to Makgajwer
+Makgajwer collected $0.16 from pot
+Makgajwer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Kd 6s 2s]
+Seat 1: POKERBAZI_57 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: fogallo2 folded before Flop
+Seat 4: Makgajwer collected ($0.16)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702122063:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:29:13 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.38 in chips) 
+Seat 2: Lorpugo ($1.47 in chips) 
+Seat 3: fogallo2 ($0.60 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.41 in chips) 
+Seat 6: Nikel31 ($3.29 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2s]
+Makgajwer: folds 
+poseidoporunbot: raises $0.04 to $0.06
+Nikel31: raises $0.11 to $0.17
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: folds 
+poseidoporunbot: calls $0.11
+*** FLOP *** [6c 7c 5d]
+poseidoporunbot: checks 
+Nikel31: checks 
+*** TURN *** [6c 7c 5d] [5c]
+poseidoporunbot: bets $0.11
+Nikel31: folds 
+Uncalled bet ($0.11) returned to poseidoporunbot
+poseidoporunbot collected $0.36 from pot
+poseidoporunbot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [6c 7c 5d 5c]
+Seat 1: POKERBAZI_57 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) folded before Flop
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot collected ($0.36)
+Seat 6: Nikel31 folded on the Turn
+
+
+
+PokerStars Hand #240702134144:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:30:00 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.38 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: fogallo2 ($0.58 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.60 in chips) 
+Seat 6: Nikel31 ($3.12 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3d]
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: raises $0.08 to $0.10
+Lorpugo: folds 
+fogallo2: calls $0.09
+Makgajwer: folds 
+*** FLOP *** [4s 6c 2s]
+fogallo2: bets $0.10
+POKERBAZI_57: raises $0.10 to $0.20
+fogallo2: calls $0.10
+*** TURN *** [4s 6c 2s] [Ad]
+fogallo2: checks 
+POKERBAZI_57: checks 
+*** RIVER *** [4s 6c 2s Ad] [3c]
+fogallo2: checks 
+POKERBAZI_57: checks 
+*** SHOW DOWN ***
+fogallo2: shows [Ts Th] (a pair of Tens)
+POKERBAZI_57: mucks hand 
+fogallo2 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [4s 6c 2s Ad 3c]
+Seat 1: POKERBAZI_57 mucked [9h 9s]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) showed [Ts Th] and won ($0.60) with a pair of Tens
+Seat 4: Makgajwer (big blind) folded before Flop
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702145615:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:30:42 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.08 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: fogallo2 ($0.88 in chips) 
+Seat 4: Makgajwer ($2.82 in chips) 
+Seat 5: poseidoporunbot ($2.60 in chips) 
+Seat 6: Nikel31 ($3.12 in chips) 
+Makgajwer: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 5h]
+Nikel31: folds 
+POKERBAZI_57: raises $0.02 to $0.04
+Lorpugo: folds 
+fogallo2: calls $0.04
+Makgajwer: folds 
+poseidoporunbot: folds 
+*** FLOP *** [8s 4s Jh]
+POKERBAZI_57: checks 
+fogallo2: checks 
+*** TURN *** [8s 4s Jh] [9c]
+POKERBAZI_57: checks 
+fogallo2: checks 
+*** RIVER *** [8s 4s Jh 9c] [7d]
+POKERBAZI_57: bets $0.08
+fogallo2: calls $0.08
+*** SHOW DOWN ***
+POKERBAZI_57: shows [Ah Td] (a straight, Seven to Jack)
+fogallo2: mucks hand 
+POKERBAZI_57 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8s 4s Jh 9c 7d]
+Seat 1: POKERBAZI_57 showed [Ah Td] and won ($0.26) with a straight, Seven to Jack
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 (button) mucked [7s Ks]
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: poseidoporunbot (big blind) folded before Flop
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702155515:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:31:19 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.22 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: fogallo2 ($0.76 in chips) 
+Seat 4: Makgajwer ($2.81 in chips) 
+Seat 5: poseidoporunbot ($2.58 in chips) 
+Seat 6: Nikel31 ($3.12 in chips) 
+poseidoporunbot: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ah]
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer (button) folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702159306:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:31:34 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2.22 in chips) 
+Seat 2: Lorpugo ($1.49 in chips) 
+Seat 3: fogallo2 ($0.76 in chips) 
+Seat 4: Makgajwer ($2.81 in chips) 
+Seat 5: poseidoporunbot ($2.57 in chips) 
+Seat 6: Nikel31 ($3.10 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Kd]
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: calls $0.05
+POKERBAZI_57: folds 
+*** FLOP *** [4h 8c 5s]
+Nikel31: checks 
+Lorpugo: bets $0.07
+Nikel31: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4h 8c 5s]
+Seat 1: POKERBAZI_57 (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.14)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240702167698:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:32:05 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.20 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: fogallo2 ($0.76 in chips) 
+Seat 4: Makgajwer ($2.81 in chips) 
+Seat 5: poseidoporunbot ($2.57 in chips) 
+Seat 6: Nikel31 ($3.04 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2h]
+fogallo2: calls $0.02
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: raises $0.06 to $0.08
+Lorpugo: folds 
+fogallo2: calls $0.06
+*** FLOP *** [4h 7d Ad]
+POKERBAZI_57: bets $0.17
+fogallo2: folds 
+Uncalled bet ($0.17) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.17 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4h 7d Ad]
+Seat 1: POKERBAZI_57 (small blind) collected ($0.17)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: fogallo2 folded on the Flop
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702174363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:32:30 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.29 in chips) 
+Seat 2: Lorpugo ($1.55 in chips) 
+Seat 3: fogallo2 ($0.68 in chips) 
+Seat 4: Makgajwer ($2.81 in chips) 
+Seat 5: poseidoporunbot ($2.57 in chips) 
+Seat 6: Nikel31 ($3.04 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9s]
+Makgajwer: raises $0.03 to $0.05
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: calls $0.03
+*** FLOP *** [Jh 3d 8d]
+fogallo2: checks 
+Makgajwer: bets $0.07
+fogallo2: folds 
+Uncalled bet ($0.07) returned to Makgajwer
+Makgajwer collected $0.11 from pot
+Makgajwer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Jh 3d 8d]
+Seat 1: POKERBAZI_57 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) folded on the Flop
+Seat 4: Makgajwer collected ($0.11)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702183585:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:33:05 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.29 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: fogallo2 ($0.63 in chips) 
+Seat 4: Makgajwer ($2.87 in chips) 
+Seat 5: poseidoporunbot ($2.57 in chips) 
+Seat 6: Nikel31 ($3.04 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 3d]
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.02
+Lorpugo: folds 
+fogallo2: calls $0.01
+Makgajwer: checks 
+*** FLOP *** [Kd Th 4s]
+fogallo2: checks 
+Makgajwer: checks 
+POKERBAZI_57: bets $0.06
+fogallo2: folds 
+Makgajwer: folds 
+Uncalled bet ($0.06) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.06 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kd Th 4s]
+Seat 1: POKERBAZI_57 collected ($0.06)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) folded on the Flop
+Seat 4: Makgajwer (big blind) folded on the Flop
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702190370:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:33:30 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.33 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: fogallo2 ($0.61 in chips) 
+Seat 4: Makgajwer ($2.85 in chips) 
+Seat 5: poseidoporunbot ($2.57 in chips) 
+Seat 6: Nikel31 ($3.04 in chips) 
+Makgajwer: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 6s]
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: raises $0.04 to $0.06
+Makgajwer: folds 
+poseidoporunbot: calls $0.04
+*** FLOP *** [Th 8s Kc]
+poseidoporunbot: checks 
+fogallo2: bets $0.02
+poseidoporunbot: folds 
+Uncalled bet ($0.02) returned to fogallo2
+fogallo2 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th 8s Kc]
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 (button) collected ($0.13)
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: poseidoporunbot (big blind) folded on the Flop
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702197672:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:33:57 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.33 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: fogallo2 ($0.68 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.51 in chips) 
+Seat 6: Nikel31 ($3.04 in chips) 
+poseidoporunbot: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Kd]
+POKERBAZI_57: calls $0.02
+Lorpugo: calls $0.02
+fogallo2: raises $0.04 to $0.06
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [7c 2s 6h]
+Lorpugo: checks 
+fogallo2: checks 
+*** TURN *** [7c 2s 6h] [Qd]
+Lorpugo: checks 
+fogallo2: bets $0.06
+Lorpugo: calls $0.06
+*** RIVER *** [7c 2s 6h Qd] [5d]
+Lorpugo: checks 
+fogallo2: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Th Kd] (high card King)
+fogallo2: shows [Ah Qh] (a pair of Queens)
+fogallo2 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [7c 2s 6h Qd 5d]
+Seat 1: POKERBAZI_57 folded before Flop
+Seat 2: Lorpugo showed [Th Kd] and lost with high card King
+Seat 3: fogallo2 showed [Ah Qh] and won ($0.28) with a pair of Queens
+Seat 4: Makgajwer (button) folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702213407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:34:56 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2.31 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: fogallo2 ($0.84 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($3.02 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qs]
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702218554:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:35:15 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.29 in chips) 
+Seat 2: Lorpugo ($1.45 in chips) 
+Seat 3: fogallo2 ($0.84 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qh]
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [3s Js 9s]
+POKERBAZI_57: checks 
+Lorpugo: checks 
+*** TURN *** [3s Js 9s] [7c]
+POKERBAZI_57: checks 
+Lorpugo: checks 
+*** RIVER *** [3s Js 9s 7c] [Ah]
+POKERBAZI_57: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+POKERBAZI_57: shows [Kc 5d] (high card Ace)
+Lorpugo: mucks hand 
+POKERBAZI_57 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3s Js 9s 7c Ah]
+Seat 1: POKERBAZI_57 (small blind) showed [Kc 5d] and won ($0.04) with high card Ace
+Seat 2: Lorpugo (big blind) mucked [2s Qh]
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702229876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:35:57 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.31 in chips) 
+Seat 2: Lorpugo ($1.43 in chips) 
+Seat 3: fogallo2 ($0.84 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Td]
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: raises $0.04 to $0.06
+Lorpugo: folds 
+fogallo2: calls $0.04
+*** FLOP *** [3h 8d 2s]
+fogallo2: checks 
+POKERBAZI_57: bets $0.08
+fogallo2: raises $0.08 to $0.16
+POKERBAZI_57: calls $0.08
+*** TURN *** [3h 8d 2s] [6d]
+fogallo2: bets $0.62 and is all-in
+POKERBAZI_57: folds 
+Uncalled bet ($0.62) returned to fogallo2
+fogallo2 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [3h 8d 2s 6d]
+Seat 1: POKERBAZI_57 (button) folded on the Turn
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) collected ($0.43)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702245164:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:36:54 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.09 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: fogallo2 ($1.05 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7h]
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.02
+Lorpugo: folds 
+fogallo2: calls $0.01
+Makgajwer: checks 
+*** FLOP *** [Qc 8d Ad]
+fogallo2: checks 
+Makgajwer: checks 
+POKERBAZI_57: checks 
+*** TURN *** [Qc 8d Ad] [9d]
+fogallo2: checks 
+Makgajwer: checks 
+POKERBAZI_57: checks 
+*** RIVER *** [Qc 8d Ad 9d] [Kc]
+fogallo2: checks 
+Makgajwer: checks 
+POKERBAZI_57: checks 
+*** SHOW DOWN ***
+fogallo2: shows [5d Qh] (a pair of Queens)
+Makgajwer: mucks hand 
+POKERBAZI_57: shows [Kh 2h] (a pair of Kings)
+POKERBAZI_57 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc 8d Ad 9d Kc]
+Seat 1: POKERBAZI_57 showed [Kh 2h] and won ($0.06) with a pair of Kings
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) showed [5d Qh] and lost with a pair of Queens
+Seat 4: Makgajwer (big blind) mucked [5c Jd]
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702255451:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:37:32 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.13 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: fogallo2 ($1.03 in chips) 
+Seat 4: Makgajwer ($2.82 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+Makgajwer: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6c]
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: folds 
+Makgajwer: folds 
+Uncalled bet ($0.01) returned to poseidoporunbot
+poseidoporunbot collected $0.02 from pot
+poseidoporunbot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 (button) folded before Flop (didn't bet)
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: poseidoporunbot (big blind) collected ($0.02)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702259757:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:37:48 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.13 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: fogallo2 ($1.03 in chips) 
+Seat 4: Makgajwer ($2.81 in chips) 
+Seat 5: poseidoporunbot ($2.51 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+poseidoporunbot: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9h]
+POKERBAZI_57: raises $0.04 to $0.06
+Lorpugo: folds 
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+Uncalled bet ($0.04) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.05 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer (button) folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702265210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:38:07 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2.16 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: fogallo2 ($1.03 in chips) 
+Seat 4: Makgajwer ($2.81 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($2.99 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 9d]
+Lorpugo: folds 
+fogallo2: calls $0.02
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: checks 
+*** FLOP *** [Js 7d Th]
+POKERBAZI_57: checks 
+fogallo2: bets $0.06
+POKERBAZI_57: folds 
+Uncalled bet ($0.06) returned to fogallo2
+fogallo2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js 7d Th]
+Seat 1: POKERBAZI_57 (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 collected ($0.05)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702273068:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:38:36 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.14 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: fogallo2 ($1.06 in chips) 
+Seat 4: Makgajwer ($2.81 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($2.98 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 6c]
+fogallo2: folds 
+Makgajwer: raises $0.03 to $0.05
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to Makgajwer
+Makgajwer collected $0.05 from pot
+Makgajwer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer collected ($0.05)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702277432:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:38:52 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.13 in chips) 
+Seat 2: Lorpugo ($1.40 in chips) 
+Seat 3: fogallo2 ($1.06 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($2.98 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 9d]
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: raises $0.08 to $0.10
+Lorpugo: folds 
+fogallo2: folds 
+Uncalled bet ($0.08) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.05 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 (button) collected ($0.05)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) folded before Flop
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702282244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:39:10 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.16 in chips) 
+Seat 2: Lorpugo ($1.39 in chips) 
+Seat 3: fogallo2 ($1.04 in chips) 
+Seat 4: Makgajwer ($2.84 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($2.98 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3d]
+poseidoporunbot: folds 
+Nikel31: raises $0.04 to $0.06
+POKERBAZI_57: calls $0.06
+Lorpugo: folds 
+fogallo2: calls $0.05
+Makgajwer: calls $0.04
+*** FLOP *** [9h 6s 9s]
+fogallo2: checks 
+Makgajwer: checks 
+Nikel31: checks 
+POKERBAZI_57: checks 
+*** TURN *** [9h 6s 9s] [6c]
+fogallo2: checks 
+Makgajwer: checks 
+Nikel31: checks 
+POKERBAZI_57: checks 
+*** RIVER *** [9h 6s 9s 6c] [Qd]
+fogallo2: checks 
+Makgajwer: checks 
+Nikel31: bets $0.08
+POKERBAZI_57: calls $0.08
+fogallo2: folds 
+Makgajwer: folds 
+*** SHOW DOWN ***
+Nikel31: shows [Jh Qc] (two pair, Queens and Nines)
+POKERBAZI_57: shows [Jc Qs] (two pair, Queens and Nines)
+Nikel31 collected $0.20 from pot
+POKERBAZI_57 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [9h 6s 9s 6c Qd]
+Seat 1: POKERBAZI_57 showed [Jc Qs] and won ($0.19) with two pair, Queens and Nines
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) folded on the River
+Seat 4: Makgajwer (big blind) folded on the River
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 showed [Jh Qc] and won ($0.20) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #240702300329:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:40:17 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.21 in chips) 
+Seat 2: Lorpugo ($1.39 in chips) 
+Seat 3: fogallo2 ($0.98 in chips) 
+Seat 4: Makgajwer ($2.78 in chips) 
+Seat 5: poseidoporunbot ($2.50 in chips) 
+Seat 6: Nikel31 ($3.04 in chips) 
+Makgajwer: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9d]
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: fogallo2 (button) folded before Flop (didn't bet)
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: poseidoporunbot (big blind) folded before Flop
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702304319:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:40:31 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.21 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: fogallo2 ($0.98 in chips) 
+Seat 4: Makgajwer ($2.77 in chips) 
+Seat 5: poseidoporunbot ($2.48 in chips) 
+Seat 6: Nikel31 ($3.04 in chips) 
+poseidoporunbot: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Jh]
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer (button) folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702311097:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:40:56 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2.21 in chips) 
+Seat 2: Lorpugo ($1.45 in chips) 
+Seat 3: fogallo2 ($0.98 in chips) 
+Seat 4: Makgajwer ($2.77 in chips) 
+Seat 5: poseidoporunbot ($2.47 in chips) 
+Seat 6: Nikel31 ($3.02 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2h]
+Lorpugo: folds 
+fogallo2: raises $0.02 to $0.04
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.02
+*** FLOP *** [8c Kc Ts]
+POKERBAZI_57: checks 
+fogallo2: bets $0.06
+POKERBAZI_57: folds 
+Uncalled bet ($0.06) returned to fogallo2
+fogallo2 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8c Kc Ts]
+Seat 1: POKERBAZI_57 (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 collected ($0.09)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702319252:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:41:26 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.17 in chips) 
+Seat 2: Lorpugo ($1.45 in chips) 
+Seat 3: fogallo2 ($1.03 in chips) 
+Seat 4: Makgajwer ($2.77 in chips) 
+Seat 5: poseidoporunbot ($2.47 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ad]
+fogallo2: folds 
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+POKERBAZI_57: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: POKERBAZI_57 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702323761:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:41:42 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.15 in chips) 
+Seat 2: Lorpugo ($1.47 in chips) 
+Seat 3: fogallo2 ($1.03 in chips) 
+Seat 4: Makgajwer ($2.77 in chips) 
+Seat 5: poseidoporunbot ($2.47 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 4h]
+Makgajwer: folds 
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: raises $0.04 to $0.10
+Lorpugo: calls $0.04
+*** FLOP *** [Jd Ac Kc]
+Lorpugo: checks 
+fogallo2: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to fogallo2
+fogallo2 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jd Ac Kc]
+Seat 1: POKERBAZI_57 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: fogallo2 (big blind) collected ($0.19)
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702330950:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:42:09 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.15 in chips) 
+Seat 2: Lorpugo ($1.37 in chips) 
+Seat 3: fogallo2 ($1.12 in chips) 
+Seat 4: Makgajwer ($2.77 in chips) 
+Seat 5: poseidoporunbot ($2.47 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 7s]
+poseidoporunbot: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.02
+Lorpugo: folds 
+fogallo2: calls $0.01
+Makgajwer: checks 
+*** FLOP *** [Js 8s Qc]
+fogallo2: bets $0.06
+Makgajwer: calls $0.06
+POKERBAZI_57: folds 
+*** TURN *** [Js 8s Qc] [4s]
+fogallo2: checks 
+Makgajwer: bets $0.10
+fogallo2: calls $0.10
+*** RIVER *** [Js 8s Qc 4s] [Kc]
+fogallo2: checks 
+Makgajwer: checks 
+*** SHOW DOWN ***
+fogallo2: shows [Jc Th] (a pair of Jacks)
+Makgajwer: shows [4h Qs] (two pair, Queens and Fours)
+Makgajwer collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Js 8s Qc 4s Kc]
+Seat 1: POKERBAZI_57 folded on the Flop
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) showed [Jc Th] and lost with a pair of Jacks
+Seat 4: Makgajwer (big blind) showed [4h Qs] and won ($0.37) with two pair, Queens and Fours
+Seat 5: poseidoporunbot folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702347663:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:43:09 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.13 in chips) 
+Seat 2: Lorpugo ($1.37 in chips) 
+Seat 3: fogallo2 ($0.94 in chips) 
+Seat 4: Makgajwer ($2.96 in chips) 
+Seat 6: Nikel31 ($3.01 in chips) 
+Makgajwer: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4c]
+poseidoporunbot leaves the table
+POKERBAZI_57: folds 
+Lorpugo: folds 
+KraVasya joins the table at seat #5 
+fogallo2: calls $0.02
+Makgajwer: folds 
+Nikel31: checks 
+*** FLOP *** [2h 3s Js]
+Nikel31: checks 
+fogallo2: checks 
+*** TURN *** [2h 3s Js] [5d]
+Nikel31: bets $0.03
+fogallo2: calls $0.03
+*** RIVER *** [2h 3s Js 5d] [7s]
+Nikel31: checks 
+fogallo2: checks 
+*** SHOW DOWN ***
+Nikel31: shows [3c Qc] (a pair of Threes)
+fogallo2: mucks hand 
+Nikel31 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2h 3s Js 5d 7s]
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 (button) mucked [6h Ah]
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) showed [3c Qc] and won ($0.11) with a pair of Threes
+
+
+
+PokerStars Hand #240702358972:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:43:50 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.13 in chips) 
+Seat 2: Lorpugo ($1.37 in chips) 
+Seat 3: fogallo2 ($0.89 in chips) 
+Seat 4: Makgajwer ($2.95 in chips) 
+Seat 6: Nikel31 ($3.07 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7h]
+Lorpugo: folds 
+fogallo2: raises $0.02 to $0.04
+Makgajwer: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.02
+*** FLOP *** [5h 2d Kd]
+POKERBAZI_57: checks 
+fogallo2: bets $0.04
+POKERBAZI_57: calls $0.04
+*** TURN *** [5h 2d Kd] [As]
+POKERBAZI_57: checks 
+fogallo2: checks 
+*** RIVER *** [5h 2d Kd As] [8c]
+POKERBAZI_57: bets $0.08
+fogallo2: calls $0.08
+*** SHOW DOWN ***
+POKERBAZI_57: shows [Ad Qc] (a pair of Aces)
+fogallo2: mucks hand 
+POKERBAZI_57 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5h 2d Kd As 8c]
+Seat 1: POKERBAZI_57 (big blind) showed [Ad Qc] and won ($0.32) with a pair of Aces
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 mucked [Kc Td]
+Seat 4: Makgajwer (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702367658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:44:21 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.29 in chips) 
+Seat 2: Lorpugo ($1.37 in chips) 
+Seat 3: fogallo2 ($0.73 in chips) 
+Seat 4: Makgajwer ($2.95 in chips) 
+Seat 6: Nikel31 ($3.06 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 2s]
+fogallo2: raises $0.04 to $0.06
+Makgajwer: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [3d 9h Qs]
+Lorpugo: checks 
+fogallo2: checks 
+*** TURN *** [3d 9h Qs] [8d]
+Lorpugo: checks 
+fogallo2: checks 
+*** RIVER *** [3d 9h Qs 8d] [3h]
+Lorpugo: checks 
+fogallo2: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [2h 2s] (two pair, Threes and Deuces)
+fogallo2: mucks hand 
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d 9h Qs 8d 3h]
+Seat 1: POKERBAZI_57 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [2h 2s] and won ($0.13) with two pair, Threes and Deuces
+Seat 3: fogallo2 mucked [Ac Js]
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702376477:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:44:53 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.28 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: fogallo2 ($0.67 in chips) 
+Seat 4: Makgajwer ($2.95 in chips) 
+Seat 6: Nikel31 ($3.06 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Jc]
+Makgajwer: folds 
+Nikel31: raises $0.03 to $0.05
+POKERBAZI_57: folds 
+Lorpugo: raises $0.12 to $0.17
+fogallo2: calls $0.15
+Nikel31: raises $0.39 to $0.56
+Lorpugo: folds 
+fogallo2: calls $0.39
+*** FLOP *** [5s 5c 7d]
+fogallo2: bets $0.11 and is all-in
+Nikel31: calls $0.11
+*** TURN *** [5s 5c 7d] [3s]
+*** RIVER *** [5s 5c 7d 3s] [Jd]
+*** SHOW DOWN ***
+fogallo2: shows [Kc Qs] (a pair of Fives)
+Nikel31: shows [Ks Kd] (two pair, Kings and Fives)
+Nikel31 collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.51 | Rake $0.05 
+Board [5s 5c 7d 3s Jd]
+Seat 1: POKERBAZI_57 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) showed [Kc Qs] and lost with a pair of Fives
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 6: Nikel31 showed [Ks Kd] and won ($1.46) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #240702392826:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:45:52 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.27 in chips) 
+Seat 4: Makgajwer ($2.95 in chips) 
+Seat 5: KraVasya ($2 in chips) 
+Seat 6: Nikel31 ($3.85 in chips) 
+Makgajwer: posts small blind $0.01
+KraVasya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qc]
+Nikel31: raises $0.03 to $0.05
+Lorpugo: folds 
+Makgajwer: folds 
+KraVasya: calls $0.03
+*** FLOP *** [9d 8c Ac]
+KraVasya: checks 
+Nikel31: bets $0.04
+KraVasya: calls $0.04
+*** TURN *** [9d 8c Ac] [5h]
+KraVasya: checks 
+Nikel31: checks 
+*** RIVER *** [9d 8c Ac 5h] [4h]
+KraVasya: checks 
+Nikel31: checks 
+*** SHOW DOWN ***
+KraVasya: shows [Qs 8s] (a pair of Eights)
+Nikel31: shows [9c Tc] (a pair of Nines)
+Nikel31 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9d 8c Ac 5h 4h]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: KraVasya (big blind) showed [Qs 8s] and lost with a pair of Eights
+Seat 6: Nikel31 showed [9c Tc] and won ($0.18) with a pair of Nines
+
+
+
+PokerStars Hand #240702401638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:46:24 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.27 in chips) 
+Seat 3: fogallo2 ($0.99 in chips) 
+Seat 4: Makgajwer ($2.94 in chips) 
+Seat 5: KraVasya ($2 in chips) 
+Seat 6: Nikel31 ($3.94 in chips) 
+KraVasya: posts small blind $0.01
+Nikel31: posts big blind $0.02
+fogallo2: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2c]
+Lorpugo: folds 
+fogallo2: calls $0.02
+Makgajwer: raises $0.05 to $0.07
+KraVasya: folds 
+Nikel31: folds 
+fogallo2: calls $0.05
+*** FLOP *** [6s Th 9c]
+fogallo2: checks 
+Makgajwer: bets $0.10
+fogallo2: folds 
+Uncalled bet ($0.10) returned to Makgajwer
+Makgajwer collected $0.17 from pot
+Makgajwer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6s Th 9c]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 folded on the Flop
+Seat 4: Makgajwer (button) collected ($0.17)
+Seat 5: KraVasya (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702409103:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:46:51 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.27 in chips) 
+Seat 3: fogallo2 ($0.91 in chips) 
+Seat 5: KraVasya ($2 in chips) 
+Seat 6: Nikel31 ($3.92 in chips) 
+Nikel31: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 7d]
+fogallo2: folds 
+KraVasya: folds 
+Nikel31: raises $0.03 to $0.05
+Lorpugo: calls $0.03
+*** FLOP *** [Ad 9c 5s]
+Nikel31: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [Ad 9c 5s] [Kd]
+Nikel31: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Nikel31
+Nikel31 collected $0.17 from pot
+Nikel31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ad 9c 5s Kd]
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 5: KraVasya (button) folded before Flop (didn't bet)
+Seat 6: Nikel31 (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #240702428000:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:48:00 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.18 in chips) 
+Seat 3: fogallo2 ($0.91 in chips) 
+Seat 5: KraVasya ($2 in chips) 
+Seat 6: Nikel31 ($4 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2h]
+KraVasya: raises $0.04 to $0.06
+Nikel31: folds 
+Lorpugo: calls $0.05
+fogallo2: folds 
+*** FLOP *** [As Ah 2s]
+Lorpugo: checks 
+KraVasya: checks 
+*** TURN *** [As Ah 2s] [5h]
+Lorpugo: bets $0.05
+KraVasya: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [As Ah 2s 5h]
+Seat 2: Lorpugo (small blind) collected ($0.14)
+Seat 3: fogallo2 (big blind) folded before Flop
+Seat 5: KraVasya folded on the Turn
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702434492:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:48:23 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.26 in chips) 
+Seat 3: fogallo2 ($0.89 in chips) 
+Seat 5: KraVasya ($2 in chips) 
+Seat 6: Nikel31 ($4 in chips) 
+fogallo2: posts small blind $0.01
+KraVasya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 6c]
+Nikel31: folds 
+Lorpugo: folds 
+fogallo2: calls $0.01
+KraVasya: checks 
+*** FLOP *** [2d 9h 5s]
+fogallo2: checks 
+KraVasya: checks 
+*** TURN *** [2d 9h 5s] [Kc]
+fogallo2: checks 
+KraVasya: checks 
+*** RIVER *** [2d 9h 5s Kc] [Qs]
+fogallo2: checks 
+KraVasya: checks 
+*** SHOW DOWN ***
+fogallo2: shows [4h 8d] (high card King)
+KraVasya: shows [3d Ts] (high card King - Queen+Ten kicker)
+KraVasya collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2d 9h 5s Kc Qs]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: fogallo2 (small blind) showed [4h 8d] and lost with high card King
+Seat 5: KraVasya (big blind) showed [3d Ts] and won ($0.04) with high card King
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702440528:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:48:45 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.26 in chips) 
+Seat 3: fogallo2 ($0.87 in chips) 
+Seat 5: KraVasya ($2.02 in chips) 
+Seat 6: Nikel31 ($4 in chips) 
+KraVasya: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 7s]
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+KraVasya: folds 
+Nikel31: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: fogallo2 (button) folded before Flop (didn't bet)
+Seat 5: KraVasya (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702443148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:48:55 ET
+Table 'Lobelia II' 6-max Seat #5 is the button
+Seat 1: POKERBAZI_57 ($2.28 in chips) 
+Seat 2: Lorpugo ($1.29 in chips) 
+Seat 3: fogallo2 ($0.87 in chips) 
+Seat 5: KraVasya ($2.01 in chips) 
+Seat 6: Nikel31 ($3.98 in chips) 
+Nikel31: posts small blind $0.01
+POKERBAZI_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kh]
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+KraVasya: calls $0.06
+Nikel31: folds 
+POKERBAZI_57: folds 
+*** FLOP *** [9c As 9d]
+Lorpugo: checks 
+KraVasya: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to KraVasya
+KraVasya collected $0.14 from pot
+KraVasya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c As 9d]
+Seat 1: POKERBAZI_57 (big blind) folded before Flop
+Seat 2: Lorpugo folded on the Flop
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 5: KraVasya (button) collected ($0.14)
+Seat 6: Nikel31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240702451320:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:49:25 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.26 in chips) 
+Seat 2: Lorpugo ($1.23 in chips) 
+Seat 3: fogallo2 ($0.87 in chips) 
+Seat 5: KraVasya ($2.09 in chips) 
+Seat 6: Nikel31 ($3.97 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9c]
+fogallo2: calls $0.02
+KraVasya: folds 
+Nikel31: folds 
+POKERBAZI_57: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [3d 8h 7c]
+POKERBAZI_57: bets $0.03
+Lorpugo: calls $0.03
+fogallo2: calls $0.03
+*** TURN *** [3d 8h 7c] [Jc]
+POKERBAZI_57: bets $0.14
+Lorpugo: calls $0.14
+fogallo2: folds 
+*** RIVER *** [3d 8h 7c Jc] [Ts]
+POKERBAZI_57: checks 
+Lorpugo: bets $1.04 and is all-in
+POKERBAZI_57: folds 
+Uncalled bet ($1.04) returned to Lorpugo
+Lorpugo collected $0.41 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [3d 8h 7c Jc Ts]
+Seat 1: POKERBAZI_57 (small blind) folded on the River
+Seat 2: Lorpugo (big blind) collected ($0.41)
+Seat 3: fogallo2 folded on the Turn
+Seat 5: KraVasya folded before Flop (didn't bet)
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702469829:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:50:32 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.07 in chips) 
+Seat 2: Lorpugo ($1.45 in chips) 
+Seat 3: fogallo2 ($0.82 in chips) 
+Seat 5: KraVasya ($2.09 in chips) 
+Seat 6: Nikel31 ($3.97 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6c]
+KraVasya: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: calls $0.04
+*** FLOP *** [5d 2c 3d]
+Lorpugo: bets $0.04
+fogallo2: raises $0.04 to $0.08
+Lorpugo: calls $0.04
+*** TURN *** [5d 2c 3d] [8d]
+Lorpugo: checks 
+fogallo2: checks 
+*** RIVER *** [5d 2c 3d 8d] [Qd]
+Lorpugo: checks 
+fogallo2: bets $0.12
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to fogallo2
+fogallo2 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5d 2c 3d 8d Qd]
+Seat 1: POKERBAZI_57 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the River
+Seat 3: fogallo2 (big blind) collected ($0.27)
+Seat 5: KraVasya folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702482423:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:51:19 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.07 in chips) 
+Seat 2: Lorpugo ($1.31 in chips) 
+Seat 3: fogallo2 ($0.95 in chips) 
+Seat 4: Makgajwer ($3.04 in chips) 
+Seat 5: KraVasya ($2.09 in chips) 
+Seat 6: Nikel31 ($3.97 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s As]
+KraVasya: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: fogallo2 (small blind) folded before Flop
+Seat 4: Makgajwer (big blind) folded before Flop
+Seat 5: KraVasya folded before Flop (didn't bet)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702486677:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:51:34 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.07 in chips) 
+Seat 2: Lorpugo ($1.34 in chips) 
+Seat 3: fogallo2 ($0.94 in chips) 
+Seat 4: Makgajwer ($3.02 in chips) 
+Seat 5: KraVasya ($2.09 in chips) 
+Seat 6: Nikel31 ($3.97 in chips) 
+Makgajwer: posts small blind $0.01
+KraVasya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7h]
+Nikel31: folds 
+POKERBAZI_57: folds 
+Lorpugo: folds 
+fogallo2: calls $0.02
+Makgajwer: calls $0.01
+KraVasya: raises $0.05 to $0.07
+fogallo2: calls $0.05
+Makgajwer: folds 
+*** FLOP *** [6c Ks 5c]
+KraVasya: bets $0.07
+fogallo2: folds 
+Uncalled bet ($0.07) returned to KraVasya
+KraVasya collected $0.15 from pot
+KraVasya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6c Ks 5c]
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 (button) folded on the Flop
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: KraVasya (big blind) collected ($0.15)
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702498853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:52:19 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.07 in chips) 
+Seat 2: Lorpugo ($1.34 in chips) 
+Seat 3: fogallo2 ($0.87 in chips) 
+Seat 4: Makgajwer ($3 in chips) 
+Seat 5: KraVasya ($2.17 in chips) 
+Seat 6: Nikel31 ($3.97 in chips) 
+KraVasya: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7d]
+POKERBAZI_57: folds 
+Lorpugo: raises $0.04 to $0.06
+fogallo2: folds 
+Makgajwer: folds 
+KraVasya: calls $0.05
+Nikel31: folds 
+*** FLOP *** [6d Jd 3h]
+KraVasya: bets $0.09
+Lorpugo: raises $0.21 to $0.30
+KraVasya: calls $0.21
+*** TURN *** [6d Jd 3h] [8s]
+KraVasya: checks 
+Lorpugo: bets $0.98 and is all-in
+KraVasya: calls $0.98
+*** FIRST RIVER *** [6d Jd 3h 8s] [2d]
+*** SECOND RIVER *** [6d Jd 3h 8s] [Jh]
+*** FIRST SHOW DOWN ***
+KraVasya: shows [Ac Js] (a pair of Jacks)
+Lorpugo: shows [5d 7d] (a flush, Jack high)
+Lorpugo collected $1.31 from pot
+*** SECOND SHOW DOWN ***
+KraVasya: shows [Ac Js] (three of a kind, Jacks)
+Lorpugo: shows [5d 7d] (a pair of Jacks)
+KraVasya collected $1.30 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.09 
+Hand was run twice
+FIRST Board [6d Jd 3h 8s 2d]
+SECOND Board [6d Jd 3h 8s Jh]
+Seat 1: POKERBAZI_57 folded before Flop (didn't bet)
+Seat 2: Lorpugo showed [5d 7d] and won ($1.31) with a flush, Jack high, and lost with a pair of Jacks
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer (button) folded before Flop (didn't bet)
+Seat 5: KraVasya (small blind) showed [Ac Js] and lost with a pair of Jacks, and won ($1.30) with three of a kind, Jacks
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240702510753:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:53:02 ET
+Table 'Lobelia II' 6-max Seat #6 is the button
+Seat 1: POKERBAZI_57 ($2.07 in chips) 
+Seat 2: Lorpugo ($1.31 in chips) 
+Seat 3: fogallo2 ($0.87 in chips) 
+Seat 4: Makgajwer ($3 in chips) 
+Seat 6: Nikel31 ($3.95 in chips) 
+POKERBAZI_57: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Kc]
+fogallo2: folds 
+Makgajwer: raises $0.03 to $0.05
+Nikel31: folds 
+POKERBAZI_57: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [Qd Jd Qc]
+POKERBAZI_57: checks 
+Steppenwol88 joins the table at seat #5 
+Lorpugo: checks 
+Makgajwer: bets $0.04
+POKERBAZI_57: raises $0.22 to $0.26
+Lorpugo: folds 
+Makgajwer: folds 
+Uncalled bet ($0.22) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.22 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Qd Jd Qc]
+Seat 1: POKERBAZI_57 (small blind) collected ($0.22)
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: fogallo2 folded before Flop (didn't bet)
+Seat 4: Makgajwer folded on the Flop
+Seat 6: Nikel31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702523367:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:53:48 ET
+Table 'Lobelia II' 6-max Seat #1 is the button
+Seat 1: POKERBAZI_57 ($2.20 in chips) 
+Seat 2: Lorpugo ($1.26 in chips) 
+Seat 3: fogallo2 ($0.87 in chips) 
+Seat 4: Makgajwer ($2.91 in chips) 
+Seat 6: Nikel31 ($3.95 in chips) 
+Lorpugo: posts small blind $0.01
+fogallo2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 6h]
+Makgajwer: folds 
+Nikel31: raises $0.03 to $0.05
+POKERBAZI_57: raises $0.03 to $0.08
+Lorpugo: folds 
+fogallo2: folds 
+Nikel31: calls $0.03
+*** FLOP *** [Ac Jc As]
+Nikel31: checks 
+POKERBAZI_57: checks 
+*** TURN *** [Ac Jc As] [Qd]
+Nikel31: bets $0.12
+POKERBAZI_57: folds 
+Uncalled bet ($0.12) returned to Nikel31
+Nikel31 collected $0.18 from pot
+Nikel31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ac Jc As Qd]
+Seat 1: POKERBAZI_57 (button) folded on the Turn
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: fogallo2 (big blind) folded before Flop
+Seat 4: Makgajwer folded before Flop (didn't bet)
+Seat 6: Nikel31 collected ($0.18)
+
+
+
+PokerStars Hand #240702531940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:54:19 ET
+Table 'Lobelia II' 6-max Seat #2 is the button
+Seat 1: POKERBAZI_57 ($2.12 in chips) 
+Seat 2: Lorpugo ($1.25 in chips) 
+Seat 3: fogallo2 ($0.85 in chips) 
+Seat 4: Makgajwer ($2.91 in chips) 
+Seat 6: Nikel31 ($4.05 in chips) 
+fogallo2: posts small blind $0.01
+Makgajwer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qh]
+Nikel31: folds 
+POKERBAZI_57: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+fogallo2: folds 
+Makgajwer: folds 
+POKERBAZI_57: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: POKERBAZI_57 folded before Flop
+Seat 2: Lorpugo (button) collected ($0.07)
+Seat 3: fogallo2 (small blind) folded before Flop
+Seat 4: Makgajwer (big blind) folded before Flop
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702536809:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:54:37 ET
+Table 'Lobelia II' 6-max Seat #3 is the button
+Seat 1: POKERBAZI_57 ($2.10 in chips) 
+Seat 2: Lorpugo ($1.30 in chips) 
+Seat 3: fogallo2 ($0.84 in chips) 
+Seat 4: Makgajwer ($2.89 in chips) 
+Seat 5: Steppenwol88 ($1.60 in chips) 
+Seat 6: Nikel31 ($4.05 in chips) 
+Makgajwer: posts small blind $0.01
+Steppenwol88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 3d]
+Nikel31: folds 
+POKERBAZI_57: raises $0.02 to $0.04
+Lorpugo: folds 
+fogallo2: folds 
+Makgajwer: folds 
+Steppenwol88: folds 
+Uncalled bet ($0.02) returned to POKERBAZI_57
+POKERBAZI_57 collected $0.05 from pot
+POKERBAZI_57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: POKERBAZI_57 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 (button) folded before Flop (didn't bet)
+Seat 4: Makgajwer (small blind) folded before Flop
+Seat 5: Steppenwol88 (big blind) folded before Flop
+Seat 6: Nikel31 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240702543397:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:55:01 ET
+Table 'Lobelia II' 6-max Seat #4 is the button
+Seat 1: POKERBAZI_57 ($2.13 in chips) 
+Seat 2: Lorpugo ($1.30 in chips) 
+Seat 3: fogallo2 ($0.84 in chips) 
+Seat 4: Makgajwer ($2.88 in chips) 
+Seat 5: Steppenwol88 ($1.58 in chips) 
+Seat 6: Nikel31 ($4.05 in chips) 
+Steppenwol88: posts small blind $0.01
+Nikel31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Qh]
+POKERBAZI_57: calls $0.02
+Lorpugo: folds 
+fogallo2: calls $0.02
+Makgajwer: raises $0.07 to $0.09
+Steppenwol88: folds 
+Nikel31: folds 
+POKERBAZI_57: folds 
+fogallo2: calls $0.07
+*** FLOP *** [Qd 6d 8c]
+fogallo2: checks 
+Makgajwer: checks 
+*** TURN *** [Qd 6d 8c] [3s]
+fogallo2: checks 
+Makgajwer: bets $0.13
+fogallo2: folds 
+Uncalled bet ($0.13) returned to Makgajwer
+Makgajwer collected $0.22 from pot
+Makgajwer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Qd 6d 8c 3s]
+Seat 1: POKERBAZI_57 folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: fogallo2 folded on the Turn
+Seat 4: Makgajwer (button) collected ($0.22)
+Seat 5: Steppenwol88 (small blind) folded before Flop
+Seat 6: Nikel31 (big blind) folded before Flop
+
+
+

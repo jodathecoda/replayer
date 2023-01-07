@@ -1,0 +1,641 @@
+﻿PokerStars Hand #240701653203:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 8:59:06 ET
+Table 'Neshmet' 6-max Seat #3 is the button
+Seat 1: Nico379 ($0.32 in chips) 
+Seat 2: escplayer ($5.74 in chips) 
+Seat 3: Myatnyj_Zayats ($2.76 in chips) 
+Seat 4: gabi 1812 ($0.21 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: 011110A ($4.38 in chips) 
+gabi 1812: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd As]
+011110A: folds 
+Nico379: folds 
+escplayer: raises $0.04 to $0.06
+Myatnyj_Zayats: folds 
+gabi 1812: raises $0.15 to $0.21 and is all-in
+Lorpugo: folds 
+escplayer: calls $0.15
+*** FLOP *** [2d Kc Qs]
+*** TURN *** [2d Kc Qs] [5s]
+*** RIVER *** [2d Kc Qs 5s] [9s]
+*** SHOW DOWN ***
+gabi 1812: shows [Ad Jc] (high card Ace)
+escplayer: shows [Ts 6s] (a flush, Queen high)
+escplayer collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [2d Kc Qs 5s 9s]
+Seat 1: Nico379 folded before Flop (didn't bet)
+Seat 2: escplayer showed [Ts 6s] and won ($0.42) with a flush, Queen high
+Seat 3: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 4: gabi 1812 (small blind) showed [Ad Jc] and lost with high card Ace
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: 011110A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240701660884:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 8:59:42 ET
+Table 'Neshmet' 6-max Seat #5 is the button
+Seat 1: Nico379 ($0.32 in chips) 
+Seat 2: escplayer ($5.95 in chips) 
+Seat 3: Myatnyj_Zayats ($2.76 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: 011110A ($4.38 in chips) 
+011110A: posts small blind $0.01
+Nico379: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3h]
+escplayer: raises $0.04 to $0.06
+Myatnyj_Zayats: folds 
+gabi 1812 leaves the table
+Lorpugo: folds 
+011110A: calls $0.05
+Nico379: folds 
+*** FLOP *** [Ad 6s Jc]
+011110A: checks 
+escplayer: bets $0.07
+011110A: calls $0.07
+*** TURN *** [Ad 6s Jc] [8c]
+mHAWKZ joins the table at seat #4 
+011110A: checks 
+escplayer: bets $0.20
+011110A: folds 
+Uncalled bet ($0.20) returned to escplayer
+escplayer collected $0.27 from pot
+escplayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ad 6s Jc 8c]
+Seat 1: Nico379 (big blind) folded before Flop
+Seat 2: escplayer collected ($0.27)
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: 011110A (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240701671250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:00:30 ET
+Table 'Neshmet' 6-max Seat #6 is the button
+Seat 1: Nico379 ($0.30 in chips) 
+Seat 2: escplayer ($6.09 in chips) 
+Seat 3: Myatnyj_Zayats ($2.76 in chips) 
+Seat 4: mHAWKZ ($0.80 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: 011110A ($4.25 in chips) 
+Nico379: posts small blind $0.01
+escplayer: posts big blind $0.02
+mHAWKZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 9s]
+Myatnyj_Zayats: folds 
+mHAWKZ: checks 
+Lorpugo: calls $0.02
+011110A: calls $0.02
+Nico379: folds 
+escplayer: checks 
+*** FLOP *** [2s Qh Kc]
+escplayer: bets $0.05
+Myatnyj_Zayats leaves the table
+mHAWKZ: calls $0.05
+Lorpugo: calls $0.05
+011110A: folds 
+*** TURN *** [2s Qh Kc] [5s]
+escplayer: bets $0.26
+mHAWKZ: folds 
+Lorpugo: calls $0.26
+*** RIVER *** [2s Qh Kc 5s] [7s]
+escplayer: bets $1
+Lorpugo: raises $0.25 to $1.25 and is all-in
+escplayer: calls $0.25
+*** SHOW DOWN ***
+Lorpugo: shows [Qs 9s] (a flush, Queen high)
+escplayer: shows [Qc 5h] (two pair, Queens and Fives)
+Lorpugo collected $3.15 from pot
+*** SUMMARY ***
+Total pot $3.26 | Rake $0.11 
+Board [2s Qh Kc 5s 7s]
+Seat 1: Nico379 (small blind) folded before Flop
+Seat 2: escplayer (big blind) showed [Qc 5h] and lost with two pair, Queens and Fives
+Seat 3: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 4: mHAWKZ folded on the Turn
+Seat 5: Lorpugo showed [Qs 9s] and won ($3.15) with a flush, Queen high
+Seat 6: 011110A (button) folded on the Flop
+
+
+
+PokerStars Hand #240701692673:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:01:58 ET
+Table 'Neshmet' 6-max Seat #1 is the button
+Seat 1: Nico379 ($0.29 in chips) 
+Seat 2: escplayer ($4.51 in chips) 
+Seat 4: mHAWKZ ($0.73 in chips) 
+Seat 5: Lorpugo ($3.15 in chips) 
+Seat 6: 011110A ($4.23 in chips) 
+escplayer: posts small blind $0.01
+mHAWKZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2s]
+Lorpugo: folds 
+Manu_Sbg joins the table at seat #3 
+011110A: raises $0.03 to $0.05
+Nico379: folds 
+escplayer: raises $0.05 to $0.10
+mHAWKZ: folds 
+011110A: calls $0.05
+*** FLOP *** [5c 5h 6d]
+escplayer: bets $0.11
+011110A: folds 
+Uncalled bet ($0.11) returned to escplayer
+escplayer collected $0.21 from pot
+escplayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5c 5h 6d]
+Seat 1: Nico379 (button) folded before Flop (didn't bet)
+Seat 2: escplayer (small blind) collected ($0.21)
+Seat 4: mHAWKZ (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: 011110A folded on the Flop
+
+
+
+PokerStars Hand #240701704188:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:02:44 ET
+Table 'Neshmet' 6-max Seat #2 is the button
+Seat 1: Nico379 ($0.29 in chips) 
+Seat 2: escplayer ($4.62 in chips) 
+Seat 4: mHAWKZ ($0.71 in chips) 
+Seat 5: Lorpugo ($3.15 in chips) 
+Seat 6: 011110A ($4.13 in chips) 
+mHAWKZ: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8h]
+011110A: folds 
+Nico379: raises $0.27 to $0.29 and is all-in
+escplayer: folds 
+mHAWKZ: folds 
+Lorpugo: folds 
+Uncalled bet ($0.27) returned to Nico379
+Nico379 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nico379 collected ($0.05)
+Seat 2: escplayer (button) folded before Flop (didn't bet)
+Seat 4: mHAWKZ (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: 011110A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240701707688:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:02:57 ET
+Table 'Neshmet' 6-max Seat #4 is the button
+Seat 1: Nico379 ($0.32 in chips) 
+Seat 2: escplayer ($4.62 in chips) 
+Seat 4: mHAWKZ ($0.70 in chips) 
+Seat 5: Lorpugo ($3.13 in chips) 
+Seat 6: 011110A ($4.13 in chips) 
+Lorpugo: posts small blind $0.01
+011110A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3c]
+Nico379: raises $0.30 to $0.32 and is all-in
+escplayer: folds 
+mHAWKZ: folds 
+Lorpugo: folds 
+011110A: folds 
+Uncalled bet ($0.30) returned to Nico379
+Nico379 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nico379 collected ($0.05)
+Seat 2: escplayer folded before Flop (didn't bet)
+Seat 4: mHAWKZ (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: 011110A (big blind) folded before Flop
+
+
+
+PokerStars Hand #240701712072:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:03:15 ET
+Table 'Neshmet' 6-max Seat #5 is the button
+Seat 1: Nico379 ($0.35 in chips) 
+Seat 2: escplayer ($4.62 in chips) 
+Seat 4: mHAWKZ ($0.70 in chips) 
+Seat 5: Lorpugo ($3.12 in chips) 
+Seat 6: 011110A ($4.11 in chips) 
+011110A: posts small blind $0.01
+Nico379: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3c]
+escplayer: raises $0.03 to $0.05
+mHAWKZ: folds 
+Lorpugo: folds 
+011110A: raises $0.15 to $0.20
+Nico379: folds 
+escplayer: folds 
+Uncalled bet ($0.15) returned to 011110A
+011110A collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Nico379 (big blind) folded before Flop
+Seat 2: escplayer folded before Flop
+Seat 4: mHAWKZ folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: 011110A (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #240701718759:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:03:41 ET
+Table 'Neshmet' 6-max Seat #6 is the button
+Seat 1: Nico379 ($0.33 in chips) 
+Seat 2: escplayer ($4.57 in chips) 
+Seat 4: mHAWKZ ($0.70 in chips) 
+Seat 5: Lorpugo ($3.12 in chips) 
+Seat 6: 011110A ($4.18 in chips) 
+Nico379: posts small blind $0.01
+escplayer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 2d]
+mHAWKZ: folds 
+Lorpugo: folds 
+011110A: raises $0.02 to $0.04
+Nico379: folds 
+escplayer: raises $0.02 to $0.06
+011110A: calls $0.02
+*** FLOP *** [Kd Ks 9h]
+escplayer: bets $0.07
+011110A: folds 
+Uncalled bet ($0.07) returned to escplayer
+escplayer collected $0.13 from pot
+escplayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd Ks 9h]
+Seat 1: Nico379 (small blind) folded before Flop
+Seat 2: escplayer (big blind) collected ($0.13)
+Seat 4: mHAWKZ folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: 011110A (button) folded on the Flop
+
+
+
+PokerStars Hand #240701727546:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:04:14 ET
+Table 'Neshmet' 6-max Seat #1 is the button
+Seat 1: Nico379 ($0.32 in chips) 
+Seat 2: escplayer ($4.64 in chips) 
+Seat 3: Manu_Sbg ($2 in chips) 
+Seat 4: mHAWKZ ($0.70 in chips) 
+Seat 5: Lorpugo ($3.12 in chips) 
+Seat 6: 011110A ($4.12 in chips) 
+escplayer: posts small blind $0.01
+Manu_Sbg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 3h]
+mHAWKZ: folds 
+Lorpugo: folds 
+011110A: folds 
+Nico379: raises $0.30 to $0.32 and is all-in
+escplayer: folds 
+Manu_Sbg: folds 
+Uncalled bet ($0.30) returned to Nico379
+Nico379 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nico379 (button) collected ($0.05)
+Seat 2: escplayer (small blind) folded before Flop
+Seat 3: Manu_Sbg (big blind) folded before Flop
+Seat 4: mHAWKZ folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: 011110A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240701733305:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:04:37 ET
+Table 'Neshmet' 6-max Seat #2 is the button
+Seat 1: Nico379 ($0.35 in chips) 
+Seat 2: escplayer ($4.63 in chips) 
+Seat 3: Manu_Sbg ($2 in chips) 
+Seat 4: mHAWKZ ($0.70 in chips) 
+Seat 5: Lorpugo ($3.12 in chips) 
+Seat 6: 011110A ($4.12 in chips) 
+Manu_Sbg: posts small blind $0.01
+mHAWKZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2c]
+Lorpugo: folds 
+011110A: folds 
+Nico379: folds 
+escplayer: raises $0.02 to $0.04
+Manu_Sbg: folds 
+mHAWKZ: calls $0.02
+*** FLOP *** [5c Js Jh]
+mHAWKZ: checks 
+escplayer: bets $0.04
+mHAWKZ: raises $0.04 to $0.08
+escplayer: calls $0.04
+*** TURN *** [5c Js Jh] [7c]
+mHAWKZ: checks 
+escplayer: checks 
+*** RIVER *** [5c Js Jh 7c] [Ah]
+mHAWKZ: bets $0.20
+escplayer: folds 
+Uncalled bet ($0.20) returned to mHAWKZ
+mHAWKZ collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5c Js Jh 7c Ah]
+Seat 1: Nico379 folded before Flop (didn't bet)
+Seat 2: escplayer (button) folded on the River
+Seat 3: Manu_Sbg (small blind) folded before Flop
+Seat 4: mHAWKZ (big blind) collected ($0.24)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: 011110A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240701746800:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:05:29 ET
+Table 'Neshmet' 6-max Seat #3 is the button
+Seat 1: Nico379 ($0.35 in chips) 
+Seat 2: escplayer ($4.51 in chips) 
+Seat 3: Manu_Sbg ($2 in chips) 
+Seat 4: mHAWKZ ($0.82 in chips) 
+Seat 5: Lorpugo ($3.12 in chips) 
+Seat 6: 011110A ($4.12 in chips) 
+mHAWKZ: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6d]
+011110A: raises $0.03 to $0.05
+Nico379: folds 
+escplayer: calls $0.05
+Manu_Sbg: folds 
+mHAWKZ: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Ks 9s As]
+Lorpugo: checks 
+011110A: checks 
+escplayer: checks 
+*** TURN *** [Ks 9s As] [2c]
+Lorpugo: checks 
+011110A: checks 
+escplayer: checks 
+*** RIVER *** [Ks 9s As 2c] [7c]
+Lorpugo: checks 
+011110A: checks 
+escplayer: bets $0.05
+Lorpugo: folds 
+011110A: folds 
+Uncalled bet ($0.05) returned to escplayer
+escplayer collected $0.15 from pot
+escplayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ks 9s As 2c 7c]
+Seat 1: Nico379 folded before Flop (didn't bet)
+Seat 2: escplayer collected ($0.15)
+Seat 3: Manu_Sbg (button) folded before Flop (didn't bet)
+Seat 4: mHAWKZ (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the River
+Seat 6: 011110A folded on the River
+
+
+
+PokerStars Hand #240701765569:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:06:41 ET
+Table 'Neshmet' 6-max Seat #4 is the button
+Seat 1: Nico379 ($0.35 in chips) 
+Seat 2: escplayer ($4.61 in chips) 
+Seat 3: Manu_Sbg ($2 in chips) 
+Seat 4: mHAWKZ ($0.81 in chips) 
+Seat 5: Lorpugo ($3.07 in chips) 
+Seat 6: 011110A ($4.07 in chips) 
+Lorpugo: posts small blind $0.01
+011110A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9s]
+Nico379: folds 
+escplayer: folds 
+Manu_Sbg: folds 
+escplayer leaves the table
+mHAWKZ: calls $0.02
+boomboxpizzabox joins the table at seat #2 
+Lorpugo: raises $0.08 to $0.10
+011110A: folds 
+mHAWKZ: calls $0.08
+*** FLOP *** [5h 4h 2c]
+Lorpugo: bets $0.11
+mHAWKZ: calls $0.11
+*** TURN *** [5h 4h 2c] [2h]
+Lorpugo: checks 
+mHAWKZ: bets $0.21
+Lorpugo: folds 
+Uncalled bet ($0.21) returned to mHAWKZ
+mHAWKZ collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [5h 4h 2c 2h]
+Seat 1: Nico379 folded before Flop (didn't bet)
+Seat 2: escplayer folded before Flop (didn't bet)
+Seat 3: Manu_Sbg folded before Flop (didn't bet)
+Seat 4: mHAWKZ (button) collected ($0.42)
+Seat 5: Lorpugo (small blind) folded on the Turn
+Seat 6: 011110A (big blind) folded before Flop
+
+
+
+PokerStars Hand #240701779385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:07:34 ET
+Table 'Neshmet' 6-max Seat #5 is the button
+Seat 1: Nico379 ($0.35 in chips) 
+Seat 2: boomboxpizzabox ($2 in chips) 
+Seat 3: Manu_Sbg ($2 in chips) 
+Seat 4: mHAWKZ ($1.02 in chips) 
+Seat 5: Lorpugo ($2.86 in chips) 
+Seat 6: 011110A ($4.05 in chips) 
+011110A: posts small blind $0.01
+Nico379: posts big blind $0.02
+boomboxpizzabox: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 9h]
+boomboxpizzabox: checks 
+Manu_Sbg: folds 
+mHAWKZ: calls $0.02
+Lorpugo: folds 
+011110A: calls $0.01
+Nico379: raises $0.33 to $0.35 and is all-in
+boomboxpizzabox: folds 
+mHAWKZ: folds 
+011110A: folds 
+Uncalled bet ($0.33) returned to Nico379
+Nico379 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Nico379 (big blind) collected ($0.08)
+Seat 2: boomboxpizzabox folded before Flop (didn't bet)
+Seat 3: Manu_Sbg folded before Flop (didn't bet)
+Seat 4: mHAWKZ folded before Flop
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: 011110A (small blind) folded before Flop
+
+
+
+PokerStars Hand #240701786549:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:08:01 ET
+Table 'Neshmet' 6-max Seat #6 is the button
+Seat 1: Nico379 ($0.41 in chips) 
+Seat 2: boomboxpizzabox ($1.98 in chips) 
+Seat 3: Manu_Sbg ($2 in chips) 
+Seat 4: mHAWKZ ($1 in chips) 
+Seat 5: Lorpugo ($2.86 in chips) 
+Seat 6: 011110A ($4.03 in chips) 
+Nico379: posts small blind $0.01
+boomboxpizzabox: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Ac]
+Manu_Sbg: folds 
+mHAWKZ: folds 
+Lorpugo: raises $0.04 to $0.06
+011110A: folds 
+Nico379: folds 
+boomboxpizzabox: calls $0.04
+*** FLOP *** [8h 2d 3s]
+boomboxpizzabox: checks 
+Lorpugo: bets $0.09
+boomboxpizzabox: calls $0.09
+*** TURN *** [8h 2d 3s] [6d]
+boomboxpizzabox: checks 
+Lorpugo: bets $0.44
+boomboxpizzabox: calls $0.44
+*** RIVER *** [8h 2d 3s 6d] [6h]
+boomboxpizzabox: bets $1.39 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.39) returned to boomboxpizzabox
+boomboxpizzabox collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 
+Board [8h 2d 3s 6d 6h]
+Seat 1: Nico379 (small blind) folded before Flop
+Seat 2: boomboxpizzabox (big blind) collected ($1.15)
+Seat 3: Manu_Sbg folded before Flop (didn't bet)
+Seat 4: mHAWKZ folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the River
+Seat 6: 011110A (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240701801335:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:08:58 ET
+Table 'Neshmet' 6-max Seat #1 is the button
+Seat 1: Nico379 ($0.40 in chips) 
+Seat 2: boomboxpizzabox ($2.54 in chips) 
+Seat 3: Manu_Sbg ($2 in chips) 
+Seat 4: mHAWKZ ($1 in chips) 
+Seat 5: Lorpugo ($2.27 in chips) 
+Seat 6: 011110A ($4.03 in chips) 
+boomboxpizzabox: posts small blind $0.01
+Manu_Sbg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Kc]
+mHAWKZ: folds 
+Lorpugo: folds 
+011110A: raises $0.03 to $0.05
+Nico379: folds 
+boomboxpizzabox: calls $0.04
+Manu_Sbg: folds 
+*** FLOP *** [6s 6h 7d]
+Manu_Sbg leaves the table
+boomboxpizzabox: checks 
+011110A: checks 
+*** TURN *** [6s 6h 7d] [7s]
+mareeraposo joins the table at seat #3 
+boomboxpizzabox: checks 
+011110A: checks 
+*** RIVER *** [6s 6h 7d 7s] [6d]
+boomboxpizzabox: checks 
+011110A: checks 
+*** SHOW DOWN ***
+boomboxpizzabox: shows [2s 4s] (a full house, Sixes full of Sevens)
+011110A: shows [8c Qc] (a full house, Sixes full of Sevens)
+boomboxpizzabox collected $0.06 from pot
+011110A collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6s 6h 7d 7s 6d]
+Seat 1: Nico379 (button) folded before Flop (didn't bet)
+Seat 2: boomboxpizzabox (small blind) showed [2s 4s] and won ($0.06) with a full house, Sixes full of Sevens
+Seat 3: Manu_Sbg (big blind) folded before Flop
+Seat 4: mHAWKZ folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: 011110A showed [8c Qc] and won ($0.06) with a full house, Sixes full of Sevens
+
+
+
+PokerStars Hand #240701814297:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:09:49 ET
+Table 'Neshmet' 6-max Seat #2 is the button
+Seat 1: Nico379 ($0.40 in chips) 
+Seat 2: boomboxpizzabox ($2.55 in chips) 
+Seat 4: mHAWKZ ($1 in chips) 
+Seat 5: Lorpugo ($2.27 in chips) 
+Seat 6: 011110A ($4.04 in chips) 
+mHAWKZ: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 6s]
+011110A: folds 
+Nico379: folds 
+boomboxpizzabox: folds 
+mHAWKZ: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+mHAWKZ: calls $0.08
+*** FLOP *** [5d 4c Qh]
+mHAWKZ: checks 
+Lorpugo: checks 
+*** TURN *** [5d 4c Qh] [6d]
+mHAWKZ: checks 
+Lorpugo: bets $0.13
+mHAWKZ: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5d 4c Qh 6d]
+Seat 1: Nico379 folded before Flop (didn't bet)
+Seat 2: boomboxpizzabox (button) folded before Flop (didn't bet)
+Seat 4: mHAWKZ (small blind) folded on the Turn
+Seat 5: Lorpugo (big blind) collected ($0.19)
+Seat 6: 011110A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240701824876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 9:10:29 ET
+Table 'Neshmet' 6-max Seat #4 is the button
+Seat 1: Nico379 ($0.40 in chips) 
+Seat 2: boomboxpizzabox ($2.55 in chips) 
+Seat 4: mHAWKZ ($0.90 in chips) 
+Seat 5: Lorpugo ($2.36 in chips) 
+Seat 6: 011110A ($4.04 in chips) 
+Lorpugo: posts small blind $0.01
+011110A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 8h]
+Nico379: raises $0.38 to $0.40 and is all-in
+boomboxpizzabox: folds 
+mHAWKZ: calls $0.40
+Lorpugo: folds 
+011110A: folds 
+*** FLOP *** [7h Ts 6h]
+*** TURN *** [7h Ts 6h] [4d]
+*** RIVER *** [7h Ts 6h 4d] [4h]
+boomboxpizzabox leaves the table
+*** SHOW DOWN ***
+Nico379: shows [Qd Jc] (a pair of Fours)
+mHAWKZ: shows [7d 7c] (a full house, Sevens full of Fours)
+mHAWKZ collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [7h Ts 6h 4d 4h]
+Seat 1: Nico379 showed [Qd Jc] and lost with a pair of Fours
+Seat 2: boomboxpizzabox folded before Flop (didn't bet)
+Seat 4: mHAWKZ (button) showed [7d 7c] and won ($0.80) with a full house, Sevens full of Fours
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: 011110A (big blind) folded before Flop
+
+
+

@@ -1,0 +1,3276 @@
+﻿PokerStars Hand #239627683571:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:36:06 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: sirius15967 ($1.28 in chips) 
+Seat 2: mmanev1 ($2.69 in chips) 
+Seat 3: Tagula_blue ($2 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: MeepoBoy ($2.93 in chips) 
+Seat 6: darksenja1 ($2 in chips) 
+Tagula_blue: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 4c]
+MeepoBoy: folds 
+darksenja1: folds 
+sirius15967: raises $1.26 to $1.28 and is all-in
+mmanev1: folds 
+Tagula_blue: calls $1.27
+Lorpugo: folds 
+*** FLOP *** [5d 9c 7c]
+*** TURN *** [5d 9c 7c] [9d]
+*** RIVER *** [5d 9c 7c 9d] [Qc]
+*** SHOW DOWN ***
+Tagula_blue: shows [Jh Js] (two pair, Jacks and Nines)
+sirius15967: shows [As Kd] (a pair of Nines)
+Tagula_blue collected $2.49 from pot
+*** SUMMARY ***
+Total pot $2.58 | Rake $0.09 
+Board [5d 9c 7c 9d Qc]
+Seat 1: sirius15967 showed [As Kd] and lost with a pair of Nines
+Seat 2: mmanev1 (button) folded before Flop (didn't bet)
+Seat 3: Tagula_blue (small blind) showed [Jh Js] and won ($2.49) with two pair, Jacks and Nines
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627696600:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:36:43 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 2: mmanev1 ($2.69 in chips) 
+Seat 3: Tagula_blue ($3.21 in chips) 
+Seat 4: Lorpugo ($1.58 in chips) 
+Seat 5: MeepoBoy ($2.93 in chips) 
+Seat 6: darksenja1 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 7s]
+darksenja1: raises $0.03 to $0.05
+mmanev1: folds 
+Tagula_blue: folds 
+sirius15967 leaves the table
+Lorpugo: folds 
+stars702515 joins the table at seat #1 
+MeepoBoy: calls $0.03
+*** FLOP *** [2s Tc Ac]
+MeepoBoy: checks 
+darksenja1: checks 
+*** TURN *** [2s Tc Ac] [Qh]
+MeepoBoy: checks 
+darksenja1: bets $0.06
+MeepoBoy: folds 
+Uncalled bet ($0.06) returned to darksenja1
+darksenja1 collected $0.11 from pot
+darksenja1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2s Tc Ac Qh]
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Tagula_blue (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: MeepoBoy (big blind) folded on the Turn
+Seat 6: darksenja1 collected ($0.11)
+
+
+
+PokerStars Hand #239627712689:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:37:28 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: stars702515 ($2 in chips) 
+Seat 2: mmanev1 ($2.69 in chips) 
+Seat 3: Tagula_blue ($3.21 in chips) 
+Seat 4: Lorpugo ($1.57 in chips) 
+Seat 5: MeepoBoy ($2.88 in chips) 
+Seat 6: darksenja1 ($2.06 in chips) 
+MeepoBoy: posts small blind $0.01
+darksenja1: posts big blind $0.02
+stars702515: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7d]
+stars702515: checks 
+mmanev1: folds 
+Tagula_blue: calls $0.02
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: checks 
+*** FLOP *** [4d 5c 5h]
+darksenja1: checks 
+stars702515: checks 
+Tagula_blue: bets $0.02
+darksenja1: folds 
+stars702515: calls $0.02
+*** TURN *** [4d 5c 5h] [Qd]
+stars702515: checks 
+Tagula_blue: checks 
+*** RIVER *** [4d 5c 5h Qd] [7s]
+stars702515: bets $0.11
+Tagula_blue: calls $0.11
+*** SHOW DOWN ***
+stars702515: shows [Th 8h] (a pair of Fives)
+Tagula_blue: shows [Qc Ah] (two pair, Queens and Fives)
+Tagula_blue collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [4d 5c 5h Qd 7s]
+Seat 1: stars702515 showed [Th 8h] and lost with a pair of Fives
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Tagula_blue showed [Qc Ah] and won ($0.32) with two pair, Queens and Fives
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: MeepoBoy (small blind) folded before Flop
+Seat 6: darksenja1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239627729442:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:38:15 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: stars702515 ($1.85 in chips) 
+Seat 2: mmanev1 ($2.69 in chips) 
+Seat 3: Tagula_blue ($3.38 in chips) 
+Seat 4: Lorpugo ($1.57 in chips) 
+Seat 5: MeepoBoy ($2.87 in chips) 
+Seat 6: darksenja1 ($2.04 in chips) 
+darksenja1: posts small blind $0.01
+stars702515: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 6s]
+mmanev1: folds 
+Tagula_blue: folds 
+Lorpugo: raises $0.04 to $0.06
+MeepoBoy: folds 
+darksenja1: raises $0.18 to $0.24
+stars702515: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to darksenja1
+darksenja1 collected $0.14 from pot
+darksenja1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: stars702515 (big blind) folded before Flop
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Tagula_blue folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop
+Seat 5: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 6: darksenja1 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #239627738722:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:38:41 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: stars702515 ($1.98 in chips) 
+Seat 2: mmanev1 ($2.69 in chips) 
+Seat 3: Tagula_blue ($3.38 in chips) 
+Seat 4: Lorpugo ($1.51 in chips) 
+Seat 5: MeepoBoy ($2.87 in chips) 
+Seat 6: darksenja1 ($2.12 in chips) 
+stars702515: posts small blind $0.01
+mmanev1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Ac]
+Tagula_blue: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+MeepoBoy: folds 
+darksenja1: folds 
+stars702515: folds 
+mmanev1: folds 
+Tagula_blue: calls $0.07
+*** FLOP *** [Ah 2c Qc]
+Tagula_blue: checks 
+Lorpugo: bets $0.07
+Tagula_blue: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ah 2c Qc]
+Seat 1: stars702515 (small blind) folded before Flop
+Seat 2: mmanev1 (big blind) folded before Flop
+Seat 3: Tagula_blue folded on the Flop
+Seat 4: Lorpugo collected ($0.20)
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627753398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:39:22 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: stars702515 ($1.97 in chips) 
+Seat 2: mmanev1 ($2.67 in chips) 
+Seat 3: Tagula_blue ($3.29 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: MeepoBoy ($2.87 in chips) 
+Seat 6: darksenja1 ($2.12 in chips) 
+mmanev1: posts small blind $0.01
+Tagula_blue: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 9d]
+Lorpugo: folds 
+MeepoBoy: raises $0.04 to $0.06
+darksenja1: raises $0.14 to $0.20
+stars702515: folds 
+mmanev1: folds 
+Tagula_blue: folds 
+MeepoBoy: folds 
+Uncalled bet ($0.14) returned to darksenja1
+darksenja1 collected $0.15 from pot
+darksenja1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: stars702515 (button) folded before Flop (didn't bet)
+Seat 2: mmanev1 (small blind) folded before Flop
+Seat 3: Tagula_blue (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy folded before Flop
+Seat 6: darksenja1 collected ($0.15)
+
+
+
+PokerStars Hand #239627765011:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:39:55 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: stars702515 ($1.97 in chips) 
+Seat 2: mmanev1 ($2.66 in chips) 
+Seat 3: Tagula_blue ($3.27 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: MeepoBoy ($2.81 in chips) 
+Seat 6: darksenja1 ($2.21 in chips) 
+Tagula_blue: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Jd]
+MeepoBoy: raises $0.04 to $0.06
+darksenja1: folds 
+stars702515: folds 
+mmanev1: folds 
+Tagula_blue: raises $0.14 to $0.20
+Lorpugo: folds 
+MeepoBoy: raises $2.61 to $2.81 and is all-in
+Tagula_blue: calls $2.61
+*** FLOP *** [2d 9c 8c]
+*** TURN *** [2d 9c 8c] [7d]
+*** RIVER *** [2d 9c 8c 7d] [2s]
+*** SHOW DOWN ***
+Tagula_blue: shows [As Ks] (a pair of Deuces)
+MeepoBoy: shows [Ac Ad] (two pair, Aces and Deuces)
+MeepoBoy collected $5.44 from pot
+Tagula_blue cashed out the hand for $0.66 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $5.64 | Rake $0.20 
+Board [2d 9c 8c 7d 2s]
+Seat 1: stars702515 folded before Flop (didn't bet)
+Seat 2: mmanev1 (button) folded before Flop (didn't bet)
+Seat 3: Tagula_blue (small blind) showed [As Ks] and lost with a pair of Deuces (cashed out).
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: MeepoBoy showed [Ac Ad] and won ($5.44) with two pair, Aces and Deuces
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627776939:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:40:28 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: stars702515 ($1.97 in chips) 
+Seat 2: mmanev1 ($2.66 in chips) 
+Seat 3: Tagula_blue ($1.12 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: MeepoBoy ($5.44 in chips) 
+Seat 6: darksenja1 ($2.21 in chips) 
+Lorpugo: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 6c]
+darksenja1: folds 
+stars702515: calls $0.02
+mmanev1: folds 
+Tagula_blue: calls $0.02
+Lorpugo: calls $0.01
+MeepoBoy: checks 
+*** FLOP *** [7c 6h Ad]
+Lorpugo: bets $0.03
+MeepoBoy: folds 
+stars702515: folds 
+Tagula_blue: calls $0.03
+*** TURN *** [7c 6h Ad] [2s]
+Lorpugo: bets $0.07
+Tagula_blue: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c 6h Ad 2s]
+Seat 1: stars702515 folded on the Flop
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Tagula_blue (button) folded on the Turn
+Seat 4: Lorpugo (small blind) collected ($0.14)
+Seat 5: MeepoBoy (big blind) folded on the Flop
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627803090:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:41:41 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: stars702515 ($1.95 in chips) 
+Seat 2: mmanev1 ($2.66 in chips) 
+Seat 3: Tagula_blue ($1.95 in chips) 
+Seat 4: Lorpugo ($1.69 in chips) 
+Seat 5: MeepoBoy ($5.42 in chips) 
+Seat 6: darksenja1 ($2.21 in chips) 
+MeepoBoy: posts small blind $0.01
+darksenja1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jh]
+stars702515: folds 
+mmanev1: folds 
+Tagula_blue has timed out
+Tagula_blue: folds 
+Lorpugo: raises $0.04 to $0.06
+MeepoBoy: folds 
+darksenja1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: stars702515 folded before Flop (didn't bet)
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Tagula_blue folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: MeepoBoy (small blind) folded before Flop
+Seat 6: darksenja1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239627815133:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:42:15 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: stars702515 ($1.95 in chips) 
+Seat 2: mmanev1 ($2.66 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 5: MeepoBoy ($5.41 in chips) 
+Seat 6: darksenja1 ($2.19 in chips) 
+darksenja1: posts small blind $0.01
+stars702515: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ts]
+mmanev1: folds 
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: raises $0.04 to $0.06
+stars702515: calls $0.04
+*** FLOP *** [3c 7h 9h]
+Tagula_blue leaves the table
+darksenja1: bets $0.04
+stars702515: calls $0.04
+*** TURN *** [3c 7h 9h] [5h]
+darksenja1: bets $0.12
+stars702515: folds 
+Uncalled bet ($0.12) returned to darksenja1
+darksenja1 collected $0.19 from pot
+darksenja1: doesn't show hand 
+Samoels joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3c 7h 9h 5h]
+Seat 1: stars702515 (big blind) folded on the Turn
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 6: darksenja1 (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #239627823052:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:42:37 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: stars702515 ($1.85 in chips) 
+Seat 2: mmanev1 ($2.66 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 5: MeepoBoy ($5.41 in chips) 
+Seat 6: darksenja1 ($2.28 in chips) 
+stars702515: posts small blind $0.01
+mmanev1: posts big blind $0.02
+Samoels: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6h]
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: folds 
+stars702515: folds 
+Uncalled bet ($0.01) returned to mmanev1
+mmanev1 collected $0.02 from pot
+mmanev1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: stars702515 (small blind) folded before Flop
+Seat 2: mmanev1 (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627826071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:42:45 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: stars702515 ($1.84 in chips) 
+Seat 2: mmanev1 ($2.67 in chips) 
+Seat 3: Samoels ($0.80 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 5: MeepoBoy ($5.41 in chips) 
+Seat 6: darksenja1 ($2.28 in chips) 
+mmanev1: posts small blind $0.01
+Samoels: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 3d]
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: folds 
+stars702515: folds 
+mmanev1: raises $0.04 to $0.06
+Samoels: calls $0.04
+*** FLOP *** [8s Td Qs]
+mmanev1: bets $0.06
+Samoels: calls $0.06
+*** TURN *** [8s Td Qs] [2s]
+mmanev1: checks 
+Samoels: bets $0.10
+mmanev1: folds 
+Uncalled bet ($0.10) returned to Samoels
+Samoels collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8s Td Qs 2s]
+Seat 1: stars702515 (button) folded before Flop (didn't bet)
+Seat 2: mmanev1 (small blind) folded on the Turn
+Seat 3: Samoels (big blind) collected ($0.23)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627845034:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:43:38 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: stars702515 ($1.84 in chips) 
+Seat 2: mmanev1 ($2.55 in chips) 
+Seat 3: Samoels ($0.91 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 5: MeepoBoy ($5.41 in chips) 
+Seat 6: darksenja1 ($2.28 in chips) 
+Samoels: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 8d]
+MeepoBoy: folds 
+darksenja1: folds 
+stars702515: folds 
+mmanev1: folds 
+Samoels: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: stars702515 folded before Flop (didn't bet)
+Seat 2: mmanev1 (button) folded before Flop (didn't bet)
+Seat 3: Samoels (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627848343:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:43:47 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: stars702515 ($1.84 in chips) 
+Seat 2: mmanev1 ($2.55 in chips) 
+Seat 3: Samoels ($0.90 in chips) 
+Seat 4: Lorpugo ($1.73 in chips) 
+Seat 5: MeepoBoy ($5.41 in chips) 
+Seat 6: darksenja1 ($2.28 in chips) 
+Lorpugo: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ac]
+darksenja1: folds 
+stars702515: calls $0.02
+mmanev1: folds 
+Samoels: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+MeepoBoy: folds 
+stars702515: calls $0.04
+*** FLOP *** [6c 8h 4d]
+Lorpugo: checks 
+stars702515: checks 
+Samoels: checks 
+*** TURN *** [6c 8h 4d] [As]
+Lorpugo: bets $0.10
+stars702515: folds 
+Samoels: calls $0.10
+*** RIVER *** [6c 8h 4d As] [6s]
+Lorpugo: checks 
+Samoels: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Tc Ac] (two pair, Aces and Sixes)
+Samoels: mucks hand 
+Lorpugo collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [6c 8h 4d As 6s]
+Seat 1: stars702515 folded on the Turn
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Samoels (button) mucked [5h 9h]
+Seat 4: Lorpugo (small blind) showed [Tc Ac] and won ($0.39) with two pair, Aces and Sixes
+Seat 5: MeepoBoy (big blind) folded before Flop
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627871498:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:44:52 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: stars702515 ($1.78 in chips) 
+Seat 2: mmanev1 ($2.55 in chips) 
+Seat 3: Samoels ($0.74 in chips) 
+Seat 4: Lorpugo ($1.96 in chips) 
+Seat 5: MeepoBoy ($5.39 in chips) 
+Seat 6: darksenja1 ($2.28 in chips) 
+MeepoBoy: posts small blind $0.01
+darksenja1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2d]
+stars702515: folds 
+mmanev1: folds 
+Samoels: folds 
+Lorpugo: raises $0.04 to $0.06
+MeepoBoy: folds 
+darksenja1: calls $0.04
+*** FLOP *** [Qd Ad 6h]
+darksenja1: checks 
+Lorpugo: bets $0.07
+darksenja1: calls $0.07
+*** TURN *** [Qd Ad 6h] [5s]
+darksenja1: checks 
+Lorpugo: bets $0.32
+darksenja1: folds 
+Uncalled bet ($0.32) returned to Lorpugo
+Lorpugo collected $0.26 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qd Ad 6h 5s]
+Seat 1: stars702515 folded before Flop (didn't bet)
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Samoels folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.26)
+Seat 5: MeepoBoy (small blind) folded before Flop
+Seat 6: darksenja1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239627889497:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:45:42 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: stars702515 ($1.78 in chips) 
+Seat 2: mmanev1 ($2.55 in chips) 
+Seat 3: Samoels ($0.74 in chips) 
+Seat 4: Lorpugo ($2.09 in chips) 
+Seat 5: MeepoBoy ($5.38 in chips) 
+Seat 6: darksenja1 ($2.15 in chips) 
+darksenja1: posts small blind $0.01
+stars702515: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kc]
+mmanev1: raises $0.04 to $0.06
+Samoels: folds 
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: folds 
+stars702515: folds 
+Uncalled bet ($0.04) returned to mmanev1
+mmanev1 collected $0.05 from pot
+mmanev1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: stars702515 (big blind) folded before Flop
+Seat 2: mmanev1 collected ($0.05)
+Seat 3: Samoels folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 6: darksenja1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239627894865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:45:57 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: stars702515 ($1.76 in chips) 
+Seat 2: mmanev1 ($2.58 in chips) 
+Seat 3: Samoels ($0.74 in chips) 
+Seat 4: Lorpugo ($2.09 in chips) 
+Seat 5: MeepoBoy ($5.38 in chips) 
+Seat 6: darksenja1 ($2.14 in chips) 
+stars702515: posts small blind $0.01
+mmanev1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8s]
+Samoels: folds 
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: folds 
+stars702515: calls $0.01
+mmanev1: checks 
+*** FLOP *** [7c Kc 3c]
+stars702515: checks 
+mmanev1: bets $0.02
+stars702515: folds 
+Uncalled bet ($0.02) returned to mmanev1
+mmanev1 collected $0.04 from pot
+mmanev1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7c Kc 3c]
+Seat 1: stars702515 (small blind) folded on the Flop
+Seat 2: mmanev1 (big blind) collected ($0.04)
+Seat 3: Samoels folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627905133:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:46:26 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: stars702515 ($1.74 in chips) 
+Seat 2: mmanev1 ($2.60 in chips) 
+Seat 3: Samoels ($0.74 in chips) 
+Seat 4: Lorpugo ($2.09 in chips) 
+Seat 5: MeepoBoy ($5.38 in chips) 
+Seat 6: darksenja1 ($2.14 in chips) 
+mmanev1: posts small blind $0.01
+Samoels: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3h]
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: raises $0.03 to $0.05
+stars702515: calls $0.05
+mmanev1: folds 
+Samoels: calls $0.03
+*** FLOP *** [3d Ts Qc]
+Samoels: checks 
+darksenja1: bets $0.10
+stars702515: calls $0.10
+Samoels: folds 
+*** TURN *** [3d Ts Qc] [6h]
+darksenja1: bets $0.28
+stars702515: calls $0.28
+*** RIVER *** [3d Ts Qc 6h] [9h]
+darksenja1: bets $0.70
+stars702515: calls $0.70
+*** SHOW DOWN ***
+darksenja1: shows [Th Td] (three of a kind, Tens)
+stars702515: mucks hand 
+darksenja1 collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.32 | Rake $0.08 
+Board [3d Ts Qc 6h 9h]
+Seat 1: stars702515 (button) mucked [Qd Jd]
+Seat 2: mmanev1 (small blind) folded before Flop
+Seat 3: Samoels (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 showed [Th Td] and won ($2.24) with three of a kind, Tens
+
+
+
+PokerStars Hand #239627926525:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:47:25 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: stars702515 ($0.61 in chips) 
+Seat 2: mmanev1 ($2.59 in chips) 
+Seat 3: Samoels ($0.69 in chips) 
+Seat 4: Lorpugo ($2.09 in chips) 
+Seat 5: MeepoBoy ($5.38 in chips) 
+Seat 6: darksenja1 ($3.25 in chips) 
+Samoels: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2h]
+MeepoBoy: folds 
+darksenja1: folds 
+stars702515: folds 
+stars702515 leaves the table
+mmanev1: raises $0.04 to $0.06
+Samoels: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to mmanev1
+mmanev1 collected $0.05 from pot
+mmanev1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: stars702515 folded before Flop (didn't bet)
+Seat 2: mmanev1 (button) collected ($0.05)
+Seat 3: Samoels (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627932321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:47:41 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 2: mmanev1 ($2.62 in chips) 
+Seat 3: Samoels ($0.68 in chips) 
+Seat 4: Lorpugo ($2.07 in chips) 
+Seat 5: MeepoBoy ($5.38 in chips) 
+Seat 6: darksenja1 ($3.25 in chips) 
+Lorpugo: posts small blind $0.01
+MeepoBoy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 5h]
+Matthew7771 joins the table at seat #1 
+darksenja1: folds 
+mmanev1: folds 
+Samoels: folds 
+Lorpugo: raises $0.04 to $0.06
+MeepoBoy: calls $0.04
+*** FLOP *** [6d Ad 9s]
+Lorpugo: bets $0.04
+MeepoBoy: calls $0.04
+*** TURN *** [6d Ad 9s] [6s]
+Lorpugo: checks 
+MeepoBoy: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to MeepoBoy
+MeepoBoy collected $0.19 from pot
+MeepoBoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6d Ad 9s 6s]
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Samoels (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the Turn
+Seat 5: MeepoBoy (big blind) collected ($0.19)
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627954071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:48:42 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 2: mmanev1 ($2.62 in chips) 
+Seat 3: Samoels ($0.68 in chips) 
+Seat 4: Lorpugo ($1.97 in chips) 
+Seat 5: MeepoBoy ($5.47 in chips) 
+Seat 6: darksenja1 ($3.25 in chips) 
+MeepoBoy: posts small blind $0.01
+darksenja1: posts big blind $0.02
+Matthew7771: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kd]
+mmanev1: folds 
+Samoels: folds 
+Lorpugo: raises $0.04 to $0.06
+Samoels leaves the table
+MeepoBoy: folds 
+darksenja1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 3: Samoels folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: MeepoBoy (small blind) folded before Flop
+Seat 6: darksenja1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239627960217:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:48:59 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($2 in chips) 
+Seat 2: mmanev1 ($2.62 in chips) 
+Seat 4: Lorpugo ($2 in chips) 
+Seat 5: MeepoBoy ($5.46 in chips) 
+Seat 6: darksenja1 ($3.23 in chips) 
+darksenja1: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5h]
+mmanev1: folds 
+mmanev1 leaves the table
+Lorpugo: folds 
+MeepoBoy: folds 
+darksenja1: raises $0.04 to $0.06
+Matthew7771: folds 
+Uncalled bet ($0.04) returned to darksenja1
+darksenja1 collected $0.04 from pot
+darksenja1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: mmanev1 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MeepoBoy (button) folded before Flop (didn't bet)
+Seat 6: darksenja1 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239627969790:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:49:25 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.98 in chips) 
+Seat 4: Lorpugo ($2 in chips) 
+Seat 5: MeepoBoy ($5.46 in chips) 
+Seat 6: darksenja1 ($3.25 in chips) 
+Matthew7771: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 7d]
+MeepoBoy: folds 
+kicks4living joins the table at seat #2 
+darksenja1: folds 
+Matthew7771: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: MeepoBoy folded before Flop (didn't bet)
+Seat 6: darksenja1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627973778:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:49:37 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.97 in chips) 
+Seat 4: Lorpugo ($2.01 in chips) 
+Seat 6: darksenja1 ($3.25 in chips) 
+Lorpugo: posts small blind $0.01
+MeepoBoy: is sitting out 
+darksenja1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9h]
+Matthew7771: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to darksenja1
+darksenja1 collected $0.02 from pot
+darksenja1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: darksenja1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239627976216:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:49:43 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.97 in chips) 
+Seat 4: Lorpugo ($2 in chips) 
+Seat 6: darksenja1 ($3.26 in chips) 
+darksenja1: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+kicks4living: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Jd]
+Lorpugo: raises $0.04 to $0.06
+darksenja1: calls $0.05
+Matthew7771: calls $0.04
+*** FLOP *** [7s 3d 6c]
+darksenja1: checks 
+Matthew7771: checks 
+Lorpugo: checks 
+*** TURN *** [7s 3d 6c] [7d]
+darksenja1: checks 
+Matthew7771: checks 
+Lorpugo: checks 
+*** RIVER *** [7s 3d 6c 7d] [5s]
+darksenja1: checks 
+Matthew7771: checks 
+CrazyKooky joins the table at seat #3 
+Lorpugo: checks 
+*** SHOW DOWN ***
+darksenja1: shows [As Qh] (a pair of Sevens)
+Matthew7771: mucks hand 
+Lorpugo: mucks hand 
+darksenja1 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7s 3d 6c 7d 5s]
+Seat 1: Matthew7771 (big blind) mucked [9c Tc]
+Seat 4: Lorpugo (button) mucked [9h Jd]
+Seat 6: darksenja1 (small blind) showed [As Qh] and won ($0.17) with a pair of Sevens
+
+
+
+PokerStars Hand #239627990691:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:50:24 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.91 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 4: Lorpugo ($1.94 in chips) 
+Seat 6: darksenja1 ($3.37 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+CrazyKooky: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Kd]
+Lorpugo: raises $0.04 to $0.06
+darksenja1: folds 
+Matthew7771: folds 
+kicks4living: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 6: darksenja1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239627997912:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:50:45 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.90 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2 in chips) 
+Seat 4: Lorpugo ($1.97 in chips) 
+Seat 6: darksenja1 ($3.37 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Th]
+Lorpugo has timed out
+Lorpugo: folds 
+darksenja1: folds 
+Matthew7771: folds 
+kicks4living: folds 
+Uncalled bet ($0.01) returned to CrazyKooky
+CrazyKooky collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628005190:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:51:05 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.90 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.01 in chips) 
+Seat 4: Lorpugo ($1.97 in chips) 
+Seat 6: darksenja1 ($3.37 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3s]
+darksenja1: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) folded before Flop (didn't bet)
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 6: darksenja1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628009097:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:51:16 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.90 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2 in chips) 
+Seat 4: Lorpugo ($1.98 in chips) 
+Lorpugo: posts small blind $0.01
+darksenja1: is sitting out 
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 2d]
+darksenja1 leaves the table
+agused joins the table at seat #6 
+kicks4living: raises $0.04 to $0.06
+MeepoBoy leaves the table
+CrazyKooky: folds 
+Lorpugo: calls $0.05
+Matthew7771: folds 
+*** FLOP *** [Th 5c Td]
+Lorpugo: checks 
+kicks4living: bets $0.07
+gochoman111 joins the table at seat #5 
+Lorpugo: raises $0.09 to $0.16
+kicks4living: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Th 5c Td]
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living folded on the Flop
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.27)
+
+
+
+PokerStars Hand #239628022892:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:51:55 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.88 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2 in chips) 
+Seat 4: Lorpugo ($2.12 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3d]
+CrazyKooky: folds 
+Lorpugo: folds 
+Matthew7771: folds 
+Uncalled bet ($0.01) returned to kicks4living
+kicks4living collected $0.02 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) collected ($0.02)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628026149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:52:04 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.87 in chips) 
+Seat 2: kicks4living ($2.01 in chips) 
+Seat 3: CrazyKooky ($2 in chips) 
+Seat 4: Lorpugo ($2.12 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+gochoman111: sits out 
+agused: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 3s]
+Lorpugo: folds 
+Matthew7771: raises $0.04 to $0.06
+kicks4living: calls $0.05
+CrazyKooky: folds 
+*** FLOP *** [Th 9c Jh]
+kicks4living: bets $0.11
+Matthew7771: folds 
+Uncalled bet ($0.11) returned to kicks4living
+kicks4living collected $0.14 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Th 9c Jh]
+Seat 1: Matthew7771 (button) folded on the Flop
+Seat 2: kicks4living (small blind) collected ($0.14)
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628033077:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:52:23 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.81 in chips) 
+Seat 2: kicks4living ($2.09 in chips) 
+Seat 3: CrazyKooky ($1.98 in chips) 
+Seat 4: Lorpugo ($2.12 in chips) 
+Seat 5: gochoman111 ($1.60 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+gochoman111: posts big blind $0.02
+agused: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 7s]
+gochoman111: raises $0.05 to $0.07
+Matthew7771: folds 
+kicks4living: raises $2.02 to $2.09 and is all-in
+CrazyKooky: folds 
+Lorpugo: folds 
+gochoman111: calls $1.53 and is all-in
+Uncalled bet ($0.49) returned to kicks4living
+*** FLOP *** [2s 6d 5d]
+*** TURN *** [2s 6d 5d] [Qs]
+*** RIVER *** [2s 6d 5d Qs] [7h]
+*** SHOW DOWN ***
+gochoman111: shows [Ac As] (a pair of Aces)
+kicks4living: shows [Kc Ad] (high card Ace)
+gochoman111 collected $3.12 from pot
+*** SUMMARY ***
+Total pot $3.23 | Rake $0.11 
+Board [2s 6d 5d Qs 7h]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) showed [Kc Ad] and lost with high card Ace
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: gochoman111 showed [Ac As] and won ($3.12) with a pair of Aces
+
+
+
+PokerStars Hand #239628041737:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:52:48 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.81 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($1.97 in chips) 
+Seat 4: Lorpugo ($2.10 in chips) 
+Seat 5: gochoman111 ($3.12 in chips) 
+Lorpugo: posts small blind $0.01
+gochoman111: posts big blind $0.02
+agused: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Ac]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+gochoman111: folds 
+CrazyKooky: raises $1.77 to $1.97 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.77) returned to CrazyKooky
+CrazyKooky collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) collected ($0.42)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: gochoman111 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239628053576:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:53:22 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.81 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.19 in chips) 
+Seat 4: Lorpugo ($1.90 in chips) 
+Seat 5: gochoman111 ($3.10 in chips) 
+Seat 6: agused ($2 in chips) 
+gochoman111: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6s]
+Matthew7771: folds 
+kicks4living: raises $0.03 to $0.05
+CrazyKooky: calls $0.05
+Lorpugo: folds 
+gochoman111: folds 
+agused: calls $0.03
+*** FLOP *** [6h 4d 8c]
+agused: checks 
+kicks4living: checks 
+CrazyKooky: bets $0.07
+agused: folds 
+kicks4living: folds 
+Uncalled bet ($0.07) returned to CrazyKooky
+CrazyKooky collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6h 4d 8c]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded on the Flop
+Seat 3: CrazyKooky collected ($0.15)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: gochoman111 (small blind) folded before Flop
+Seat 6: agused (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239628068430:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:54:04 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($1.81 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.29 in chips) 
+Seat 4: Lorpugo ($1.90 in chips) 
+Seat 5: gochoman111 ($3.09 in chips) 
+Seat 6: agused ($1.95 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 7s]
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+gochoman111: folds 
+agused: calls $0.05
+Matthew7771: folds 
+*** FLOP *** [Qh Th 6s]
+agused: checks 
+Lorpugo: checks 
+*** TURN *** [Qh Th 6s] [7c]
+agused: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to agused
+agused collected $0.14 from pot
+agused: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qh Th 6s 7c]
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the Turn
+Seat 5: gochoman111 (button) folded before Flop (didn't bet)
+Seat 6: agused (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #239628081523:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:54:41 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.79 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.29 in chips) 
+Seat 4: Lorpugo ($1.84 in chips) 
+Seat 5: gochoman111 ($3.09 in chips) 
+Seat 6: agused ($2.03 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Tc]
+CrazyKooky: folds 
+Lorpugo: folds 
+gochoman111: folds 
+agused: folds 
+Matthew7771: folds 
+Uncalled bet ($0.01) returned to kicks4living
+kicks4living collected $0.02 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) collected ($0.02)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628085595:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:54:52 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.78 in chips) 
+Seat 2: kicks4living ($2.01 in chips) 
+Seat 3: CrazyKooky ($2.29 in chips) 
+Seat 4: Lorpugo ($1.84 in chips) 
+Seat 5: gochoman111 ($3.09 in chips) 
+Seat 6: agused ($2.03 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3s]
+Lorpugo: folds 
+gochoman111: folds 
+agused: raises $0.04 to $0.06
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: calls $0.04
+*** FLOP *** [7s 6s 2c]
+CrazyKooky: checks 
+agused: bets $0.06
+CrazyKooky: calls $0.06
+*** TURN *** [7s 6s 2c] [Qs]
+CrazyKooky: bets $0.12
+agused: folds 
+Uncalled bet ($0.12) returned to CrazyKooky
+CrazyKooky collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7s 6s 2c Qs]
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) collected ($0.24)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused folded on the Turn
+
+
+
+PokerStars Hand #239628099508:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:55:39 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.78 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.41 in chips) 
+Seat 4: Lorpugo ($1.84 in chips) 
+Seat 5: gochoman111 ($3.09 in chips) 
+Seat 6: agused ($1.91 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7s]
+gochoman111: raises $0.04 to $0.06
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to gochoman111
+gochoman111 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) folded before Flop (didn't bet)
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: gochoman111 collected ($0.05)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628103398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:55:53 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.78 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.40 in chips) 
+Seat 4: Lorpugo ($1.82 in chips) 
+Seat 5: gochoman111 ($3.12 in chips) 
+Seat 6: agused ($1.91 in chips) 
+Lorpugo: posts small blind $0.01
+gochoman111: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Qd]
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: calls $0.02
+Lorpugo: folds 
+gochoman111: checks 
+*** FLOP *** [4h Ah 8c]
+gochoman111: checks 
+CrazyKooky: checks 
+*** TURN *** [4h Ah 8c] [5h]
+gochoman111: checks 
+CrazyKooky: bets $0.02
+gochoman111: calls $0.02
+*** RIVER *** [4h Ah 8c 5h] [3d]
+gochoman111: bets $0.09
+CrazyKooky: folds 
+Uncalled bet ($0.09) returned to gochoman111
+gochoman111 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4h Ah 8c 5h 3d]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded on the River
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: gochoman111 (big blind) collected ($0.09)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628115832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:56:39 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.78 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.36 in chips) 
+Seat 4: Lorpugo ($1.81 in chips) 
+Seat 5: gochoman111 ($3.17 in chips) 
+Seat 6: agused ($1.91 in chips) 
+gochoman111: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9h]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: raises $0.04 to $0.06
+Lorpugo: folds 
+gochoman111: folds 
+agused: folds 
+Uncalled bet ($0.04) returned to CrazyKooky
+CrazyKooky collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky collected ($0.05)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: gochoman111 (small blind) folded before Flop
+Seat 6: agused (big blind) folded before Flop
+
+
+
+PokerStars Hand #239628120554:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:56:57 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($1.78 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.39 in chips) 
+Seat 4: Lorpugo ($1.81 in chips) 
+Seat 5: gochoman111 ($3.16 in chips) 
+Seat 6: agused ($1.89 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 2d]
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+gochoman111: folds 
+agused: raises $0.04 to $0.06
+Matthew7771: folds 
+Uncalled bet ($0.04) returned to agused
+agused collected $0.04 from pot
+agused: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 (button) folded before Flop (didn't bet)
+Seat 6: agused (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239628123928:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:57:09 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.76 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.39 in chips) 
+Seat 4: Lorpugo ($1.81 in chips) 
+Seat 5: gochoman111 ($3.16 in chips) 
+Seat 6: agused ($1.91 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Kc]
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+gochoman111: calls $0.06
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+*** FLOP *** [Kh 3c 5c]
+Lorpugo: checks 
+gochoman111: checks 
+*** TURN *** [Kh 3c 5c] [Td]
+Lorpugo: bets $0.05
+gochoman111: calls $0.05
+*** RIVER *** [Kh 3c 5c Td] [2d]
+Lorpugo: bets $0.26
+gochoman111: folds 
+Uncalled bet ($0.26) returned to Lorpugo
+Lorpugo collected $0.24 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kh 3c 5c Td 2d]
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) folded before Flop
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.24)
+Seat 5: gochoman111 folded on the River
+Seat 6: agused (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628133872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:57:46 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.75 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.39 in chips) 
+Seat 4: Lorpugo ($1.94 in chips) 
+Seat 5: gochoman111 ($3.05 in chips) 
+Seat 6: agused ($1.91 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ac]
+Lorpugo: folds 
+gochoman111: folds 
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+Uncalled bet ($0.01) returned to CrazyKooky
+CrazyKooky collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628137727:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:58:00 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.75 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.40 in chips) 
+Seat 4: Lorpugo ($1.94 in chips) 
+Seat 5: gochoman111 ($3.05 in chips) 
+Seat 6: agused ($1.91 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 6d]
+gochoman111: calls $0.02
+agused: calls $0.02
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [4d 7c 3c]
+CrazyKooky: checks 
+Lorpugo: checks 
+gochoman111: checks 
+agused: bets $0.04
+CrazyKooky: calls $0.04
+Lorpugo: folds 
+gochoman111: folds 
+*** TURN *** [4d 7c 3c] [Qd]
+CrazyKooky: checks 
+agused: checks 
+*** RIVER *** [4d 7c 3c Qd] [5s]
+CrazyKooky: bets $0.06
+agused: calls $0.06
+*** SHOW DOWN ***
+CrazyKooky: shows [Ac 2c] (a straight, Ace to Five)
+agused: mucks hand 
+CrazyKooky collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4d 7c 3c Qd 5s]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) folded before Flop (didn't bet)
+Seat 3: CrazyKooky (small blind) showed [Ac 2c] and won ($0.27) with a straight, Ace to Five
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: gochoman111 folded on the Flop
+Seat 6: agused mucked [Ah 7s]
+
+
+
+PokerStars Hand #239628157228:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:59:12 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.75 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.55 in chips) 
+Seat 4: Lorpugo ($1.92 in chips) 
+Seat 5: gochoman111 ($3.03 in chips) 
+Seat 6: agused ($1.79 in chips) 
+Lorpugo: posts small blind $0.01
+gochoman111: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 6d]
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+gochoman111: calls $0.04
+*** FLOP *** [Qs Jh 5d]
+Lorpugo: checks 
+gochoman111: checks 
+*** TURN *** [Qs Jh 5d] [Ah]
+Lorpugo: checks 
+gochoman111: checks 
+*** RIVER *** [Qs Jh 5d Ah] [5h]
+Lorpugo: bets $0.06
+gochoman111: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qs Jh 5d Ah 5h]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.12)
+Seat 5: gochoman111 (big blind) folded on the River
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628168105:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 14:59:52 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.75 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.55 in chips) 
+Seat 4: Lorpugo ($1.98 in chips) 
+Seat 5: gochoman111 ($2.97 in chips) 
+Seat 6: agused ($1.79 in chips) 
+gochoman111: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4h]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+gochoman111: calls $0.01
+agused: checks 
+*** FLOP *** [6d 3d Qd]
+gochoman111: checks 
+agused: checks 
+*** TURN *** [6d 3d Qd] [2s]
+gochoman111: checks 
+agused: checks 
+*** RIVER *** [6d 3d Qd 2s] [9h]
+gochoman111: checks 
+agused: checks 
+*** SHOW DOWN ***
+gochoman111: shows [8c Ah] (high card Ace)
+agused: shows [Tc Ad] (high card Ace - Queen+Ten kicker)
+agused collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6d 3d Qd 2s 9h]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: gochoman111 (small blind) showed [8c Ah] and lost with high card Ace
+Seat 6: agused (big blind) showed [Tc Ad] and won ($0.04) with high card Ace
+
+
+
+PokerStars Hand #239628182333:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:00:42 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($1.75 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.55 in chips) 
+Seat 4: Lorpugo ($1.98 in chips) 
+Seat 5: gochoman111 ($2.95 in chips) 
+Seat 6: agused ($1.81 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qh]
+kicks4living: folds 
+CrazyKooky: calls $0.02
+Lorpugo: folds 
+gochoman111: calls $0.02
+agused: raises $0.04 to $0.06
+Matthew7771: folds 
+CrazyKooky: calls $0.04
+gochoman111: calls $0.04
+*** FLOP *** [7c 8d 3c]
+agused: checks 
+CrazyKooky: checks 
+gochoman111: bets $0.19
+agused: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.19) returned to gochoman111
+gochoman111 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7c 8d 3c]
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 (button) collected ($0.19)
+Seat 6: agused (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239628202870:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:01:47 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.73 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.49 in chips) 
+Seat 4: Lorpugo ($1.98 in chips) 
+Seat 5: gochoman111 ($3.08 in chips) 
+Seat 6: agused ($1.75 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9d]
+CrazyKooky: folds 
+Lorpugo: raises $0.05 to $0.07
+gochoman111: folds 
+agused: folds 
+Matthew7771: folds 
+kicks4living: raises $0.17 to $0.24
+Lorpugo: folds 
+Uncalled bet ($0.17) returned to kicks4living
+kicks4living collected $0.15 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) collected ($0.15)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628211367:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:02:11 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.72 in chips) 
+Seat 2: kicks4living ($2.08 in chips) 
+Seat 3: CrazyKooky ($2.49 in chips) 
+Seat 4: Lorpugo ($1.91 in chips) 
+Seat 5: gochoman111 ($3.08 in chips) 
+Seat 6: agused ($1.75 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9h]
+Lorpugo: folds 
+gochoman111: raises $0.04 to $0.06
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.04) returned to gochoman111
+gochoman111 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 collected ($0.05)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628217728:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:02:29 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.72 in chips) 
+Seat 2: kicks4living ($2.07 in chips) 
+Seat 3: CrazyKooky ($2.47 in chips) 
+Seat 4: Lorpugo ($1.91 in chips) 
+Seat 5: gochoman111 ($3.11 in chips) 
+Seat 6: agused ($1.75 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 3h]
+gochoman111: folds 
+agused: folds 
+Matthew7771: folds 
+kicks4living: raises $0.02 to $0.04
+CrazyKooky: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [Js 9s 7c]
+CrazyKooky: checks 
+kicks4living: checks 
+*** TURN *** [Js 9s 7c] [8s]
+CrazyKooky: checks 
+kicks4living: checks 
+*** RIVER *** [Js 9s 7c 8s] [6c]
+CrazyKooky: checks 
+kicks4living: bets $0.04
+CrazyKooky: folds 
+Uncalled bet ($0.04) returned to kicks4living
+kicks4living collected $0.10 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Js 9s 7c 8s 6c]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) collected ($0.10)
+Seat 3: CrazyKooky (small blind) folded on the River
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628233217:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:03:13 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.72 in chips) 
+Seat 2: kicks4living ($2.13 in chips) 
+Seat 3: CrazyKooky ($2.43 in chips) 
+Seat 4: Lorpugo ($1.89 in chips) 
+Seat 5: gochoman111 ($3.11 in chips) 
+Seat 6: agused ($1.75 in chips) 
+Lorpugo: posts small blind $0.01
+gochoman111: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Kh]
+agused: raises $0.02 to $0.04
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: raises $0.10 to $0.14
+gochoman111: folds 
+agused: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.10)
+Seat 5: gochoman111 (big blind) folded before Flop
+Seat 6: agused folded before Flop
+
+
+
+PokerStars Hand #239628240645:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:03:34 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.72 in chips) 
+Seat 2: kicks4living ($2.13 in chips) 
+Seat 3: CrazyKooky ($2.43 in chips) 
+Seat 4: Lorpugo ($1.95 in chips) 
+Seat 5: gochoman111 ($3.09 in chips) 
+Seat 6: agused ($1.71 in chips) 
+gochoman111: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 8d]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+gochoman111: calls $0.05
+agused: folds 
+*** FLOP *** [5s 9d 6h]
+gochoman111: checks 
+Lorpugo: bets $0.09
+gochoman111: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 9d 6h]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.14)
+Seat 5: gochoman111 (small blind) folded on the Flop
+Seat 6: agused (big blind) folded before Flop
+
+
+
+PokerStars Hand #239628250456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:04:01 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($1.72 in chips) 
+Seat 2: kicks4living ($2.13 in chips) 
+Seat 3: CrazyKooky ($2.43 in chips) 
+Seat 4: Lorpugo ($2.03 in chips) 
+Seat 5: gochoman111 ($3.03 in chips) 
+Seat 6: agused ($1.69 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3d]
+kicks4living: folds 
+CrazyKooky: calls $0.02
+Lorpugo: folds 
+gochoman111: folds 
+agused: folds 
+Matthew7771: checks 
+*** FLOP *** [Ac 8s 7c]
+Matthew7771: checks 
+CrazyKooky: bets $0.04
+Matthew7771: raises $0.04 to $0.08
+CrazyKooky: calls $0.04
+*** TURN *** [Ac 8s 7c] [9d]
+Matthew7771: checks 
+CrazyKooky: checks 
+*** RIVER *** [Ac 8s 7c 9d] [4h]
+Matthew7771: bets $0.15
+CrazyKooky: folds 
+Uncalled bet ($0.15) returned to Matthew7771
+Matthew7771 collected $0.20 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ac 8s 7c 9d 4h]
+Seat 1: Matthew7771 (big blind) collected ($0.20)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 (button) folded before Flop (didn't bet)
+Seat 6: agused (small blind) folded before Flop
+
+
+
+PokerStars Hand #239628765834:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:04:44 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.82 in chips) 
+Seat 2: kicks4living ($2.13 in chips) 
+Seat 3: CrazyKooky ($2.33 in chips) 
+Seat 4: Lorpugo ($2.03 in chips) 
+Seat 5: gochoman111 ($3.03 in chips) 
+Seat 6: agused ($1.68 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Js]
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+gochoman111: folds 
+agused: calls $0.06
+Matthew7771: folds 
+kicks4living: calls $0.04
+*** FLOP *** [Td As Kd]
+kicks4living: checks 
+Lorpugo: bets $0.12
+agused: calls $0.12
+kicks4living: folds 
+*** TURN *** [Td As Kd] [2c]
+Lorpugo: bets $0.14
+agused: calls $0.14
+*** RIVER *** [Td As Kd 2c] [2h]
+Lorpugo: checks 
+agused: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ad Js] (two pair, Aces and Deuces)
+agused: shows [3s Ac] (two pair, Aces and Deuces)
+Lorpugo collected $0.35 from pot
+agused collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Td As Kd 2c 2h]
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) folded on the Flop
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [Ad Js] and won ($0.35) with two pair, Aces and Deuces
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused (button) showed [3s Ac] and won ($0.34) with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #239628786348:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:05:39 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.81 in chips) 
+Seat 2: kicks4living ($2.07 in chips) 
+Seat 3: CrazyKooky ($2.33 in chips) 
+Seat 4: Lorpugo ($2.06 in chips) 
+Seat 5: gochoman111 ($3.03 in chips) 
+Seat 6: agused ($1.70 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Jd]
+Lorpugo: folds 
+gochoman111 has timed out
+gochoman111: folds 
+agused: folds 
+Matthew7771: raises $0.04 to $0.06
+kicks4living: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.04) returned to Matthew7771
+Matthew7771 collected $0.05 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 (button) collected ($0.05)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628795250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:06:03 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.84 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.31 in chips) 
+Seat 4: Lorpugo ($2.06 in chips) 
+Seat 6: agused ($1.70 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Tc]
+agused: folds 
+Matthew7771: raises $0.04 to $0.06
+kicks4living: folds 
+CrazyKooky: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [Ks Ts 8h]
+CrazyKooky: checks 
+Lorpugo: bets $0.06
+Matthew7771: raises $0.06 to $0.12
+CrazyKooky: folds 
+Lorpugo: calls $0.06
+*** TURN *** [Ks Ts 8h] [Kh]
+Lorpugo: checks 
+Matthew7771: bets $0.23
+Lorpugo: calls $0.23
+*** RIVER *** [Ks Ts 8h Kh] [Jd]
+Lorpugo: checks 
+Matthew7771: bets $0.48
+Lorpugo: calls $0.48
+*** SHOW DOWN ***
+Matthew7771: shows [9s As] (a pair of Kings)
+Lorpugo: shows [Js Tc] (two pair, Kings and Jacks)
+Lorpugo collected $1.78 from pot
+*** SUMMARY ***
+Total pot $1.84 | Rake $0.06 
+Board [Ks Ts 8h Kh Jd]
+Seat 1: Matthew7771 showed [9s As] and lost with a pair of Kings
+Seat 2: kicks4living (button) folded before Flop (didn't bet)
+Seat 3: CrazyKooky (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) showed [Js Tc] and won ($1.78) with two pair, Kings and Jacks
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628811258:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:06:45 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($0.95 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.25 in chips) 
+Seat 4: Lorpugo ($2.95 in chips) 
+Seat 5: gochoman111 ($3.03 in chips) 
+Seat 6: agused ($1.70 in chips) 
+Lorpugo: posts small blind $0.01
+gochoman111: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qd]
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+gochoman111: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: gochoman111 (big blind) folded before Flop
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628820023:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:07:09 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($0.95 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.25 in chips) 
+Seat 4: Lorpugo ($2.97 in chips) 
+Seat 5: gochoman111 ($3.01 in chips) 
+Seat 6: agused ($1.70 in chips) 
+gochoman111: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Js]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+gochoman111: folds 
+agused: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop
+Seat 4: Lorpugo (button) collected ($0.07)
+Seat 5: gochoman111 (small blind) folded before Flop
+Seat 6: agused (big blind) folded before Flop
+
+
+
+PokerStars Hand #239628825537:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:07:23 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($0.95 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.23 in chips) 
+Seat 4: Lorpugo ($3.02 in chips) 
+Seat 5: gochoman111 ($3 in chips) 
+Seat 6: agused ($1.68 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kd]
+kicks4living: raises $0.03 to $0.05
+CrazyKooky: folds 
+Lorpugo: folds 
+gochoman111: folds 
+agused: folds 
+Matthew7771: folds 
+Uncalled bet ($0.03) returned to kicks4living
+kicks4living collected $0.05 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living collected ($0.05)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 (button) folded before Flop (didn't bet)
+Seat 6: agused (small blind) folded before Flop
+
+
+
+PokerStars Hand #239628830017:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:07:35 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($0.93 in chips) 
+Seat 2: kicks4living ($2.09 in chips) 
+Seat 3: CrazyKooky ($2.23 in chips) 
+Seat 4: Lorpugo ($3.02 in chips) 
+Seat 5: gochoman111 ($3 in chips) 
+Seat 6: agused ($1.67 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ad]
+CrazyKooky: raises $0.04 to $0.06
+Lorpugo: folds 
+gochoman111: folds 
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+Uncalled bet ($0.04) returned to CrazyKooky
+CrazyKooky collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) folded before Flop
+Seat 3: CrazyKooky collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: gochoman111 folded before Flop (didn't bet)
+Seat 6: agused (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628834339:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:07:47 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2.07 in chips) 
+Seat 3: CrazyKooky ($2.26 in chips) 
+Seat 4: Lorpugo ($3.02 in chips) 
+Seat 6: agused ($1.67 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ts]
+Lorpugo: raises $0.04 to $0.06
+agused: calls $0.06
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: calls $0.04
+*** FLOP *** [Qh Jc Ah]
+CrazyKooky: checks 
+Lorpugo: bets $0.06
+agused: calls $0.06
+CrazyKooky: folds 
+*** TURN *** [Qh Jc Ah] [5d]
+Lorpugo: bets $0.36
+agused: folds 
+Uncalled bet ($0.36) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qh Jc Ah 5d]
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) folded on the Flop
+Seat 4: Lorpugo collected ($0.30)
+Seat 6: agused folded on the Turn
+
+
+
+PokerStars Hand #239628847872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:08:23 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.20 in chips) 
+Seat 4: Lorpugo ($3.20 in chips) 
+Seat 6: agused ($1.55 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4s]
+agused: raises $0.02 to $0.04
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to agused
+agused collected $0.05 from pot
+agused: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) folded before Flop (didn't bet)
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 6: agused collected ($0.05)
+
+
+
+PokerStars Hand #239628852935:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:08:36 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.19 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 6: agused ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ts]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to agused
+agused collected $0.02 from pot
+agused: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: agused (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239628859673:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:08:55 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.19 in chips) 
+Seat 4: Lorpugo ($3.17 in chips) 
+Seat 6: agused ($1.59 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 8c]
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+agused: calls $0.01
+Matthew7771: checks 
+*** FLOP *** [Ks Ac 8s]
+agused: bets $0.04
+Matthew7771: folds 
+Uncalled bet ($0.04) returned to agused
+agused collected $0.04 from pot
+agused: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ks Ac 8s]
+Seat 1: Matthew7771 (big blind) folded on the Flop
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: agused (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239628867862:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:09:17 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($0.90 in chips) 
+Seat 2: kicks4living ($2.06 in chips) 
+Seat 3: CrazyKooky ($2.19 in chips) 
+Seat 4: Lorpugo ($3.17 in chips) 
+Seat 6: agused ($1.61 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 7s]
+CrazyKooky: folds 
+Lorpugo: folds 
+agused: folds 
+Matthew7771: raises $0.04 to $0.06
+kicks4living: folds 
+Uncalled bet ($0.04) returned to Matthew7771
+Matthew7771 collected $0.04 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Matthew7771 (small blind) collected ($0.04)
+Seat 2: kicks4living (big blind) folded before Flop
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: agused (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628873630:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:09:32 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2.04 in chips) 
+Seat 3: CrazyKooky ($2.19 in chips) 
+Seat 4: Lorpugo ($3.17 in chips) 
+Seat 6: agused ($1.61 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Jd]
+Lorpugo: raises $0.04 to $0.06
+agused: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628879048:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:09:46 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2.03 in chips) 
+Seat 3: CrazyKooky ($2.17 in chips) 
+Seat 4: Lorpugo ($3.20 in chips) 
+Seat 6: agused ($1.61 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ac]
+agused: folds 
+Matthew7771: folds 
+kicks4living: raises $0.02 to $0.04
+CrazyKooky: calls $0.03
+Lorpugo: raises $0.12 to $0.16
+kicks4living: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) folded before Flop
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.12)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628889294:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:10:14 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2 in chips) 
+Seat 3: CrazyKooky ($2.13 in chips) 
+Seat 4: Lorpugo ($3.28 in chips) 
+Seat 6: agused ($1.61 in chips) 
+Lorpugo: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Qh]
+Matthew7771: folds 
+kicks4living: calls $0.02
+CrazyKooky: folds 
+Lorpugo: folds 
+agused: checks 
+*** FLOP *** [7s 6d 3h]
+agused: checks 
+kicks4living: bets $0.04
+agused: folds 
+Uncalled bet ($0.04) returned to kicks4living
+kicks4living collected $0.05 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7s 6d 3h]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living collected ($0.05)
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: agused (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239628897169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:10:34 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($0.92 in chips) 
+Seat 2: kicks4living ($2.03 in chips) 
+Seat 3: CrazyKooky ($2.13 in chips) 
+Seat 4: Lorpugo ($3.27 in chips) 
+Seat 6: agused ($1.59 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 8c]
+kicks4living: folds 
+CrazyKooky: calls $0.02
+Lorpugo: calls $0.02
+agused: folds 
+Matthew7771: checks 
+*** FLOP *** [Jd 3s 9s]
+Matthew7771: checks 
+CrazyKooky: checks 
+gochoman111 is disconnected 
+Lorpugo: checks 
+*** TURN *** [Jd 3s 9s] [Jh]
+Matthew7771: checks 
+CrazyKooky: checks 
+Lorpugo: checks 
+*** RIVER *** [Jd 3s 9s Jh] [5s]
+Matthew7771: checks 
+CrazyKooky: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Matthew7771: shows [7d Td] (a pair of Jacks)
+CrazyKooky: shows [Th Ad] (a pair of Jacks - Ace kicker)
+Lorpugo: mucks hand 
+CrazyKooky collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Jd 3s 9s Jh 5s]
+Seat 1: Matthew7771 (big blind) showed [7d Td] and lost with a pair of Jacks
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky showed [Th Ad] and won ($0.07) with a pair of Jacks
+Seat 4: Lorpugo (button) mucked [7h 8c]
+Seat 6: agused (small blind) folded before Flop
+
+
+
+PokerStars Hand #239628916350:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:11:25 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($0.90 in chips) 
+Seat 2: kicks4living ($2.03 in chips) 
+Seat 3: CrazyKooky ($2.18 in chips) 
+Seat 4: Lorpugo ($3.25 in chips) 
+Seat 6: agused ($1.58 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 7c]
+CrazyKooky: folds 
+Lorpugo: raises $0.02 to $0.04
+agused: folds 
+Matthew7771: folds 
+kicks4living: calls $0.02
+*** FLOP *** [5s Kh 7h]
+kicks4living: checks 
+Lorpugo: bets $0.03
+kicks4living: raises $0.09 to $0.12
+Lorpugo: calls $0.09
+*** TURN *** [5s Kh 7h] [Jd]
+kicks4living: bets $0.21
+Lorpugo: folds 
+Uncalled bet ($0.21) returned to kicks4living
+kicks4living collected $0.32 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5s Kh 7h Jd]
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) collected ($0.32)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the Turn
+Seat 6: agused (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628932613:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:12:09 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($0.89 in chips) 
+Seat 2: kicks4living ($2.19 in chips) 
+Seat 3: CrazyKooky ($2.18 in chips) 
+Seat 4: Lorpugo ($3.09 in chips) 
+Seat 6: agused ($1.58 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9h]
+Lorpugo: raises $0.02 to $0.04
+agused: folds 
+Matthew7771: raises $0.02 to $0.06
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [6c Js 6h]
+Lorpugo: checks 
+Matthew7771: checks 
+*** TURN *** [6c Js 6h] [3d]
+Lorpugo: bets $0.05
+Matthew7771: raises $0.05 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to Matthew7771
+Matthew7771 collected $0.24 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c Js 6h 3d]
+Seat 1: Matthew7771 (button) collected ($0.24)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded on the Turn
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239628945088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:12:41 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.02 in chips) 
+Seat 2: kicks4living ($2.18 in chips) 
+Seat 3: CrazyKooky ($2.16 in chips) 
+Seat 4: Lorpugo ($2.98 in chips) 
+Seat 6: agused ($1.58 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 3s]
+agused: raises $0.04 to $0.06
+Matthew7771: raises $0.12 to $0.18
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+agused: folds 
+Uncalled bet ($0.12) returned to Matthew7771
+Matthew7771 collected $0.15 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Matthew7771 collected ($0.15)
+Seat 2: kicks4living (button) folded before Flop (didn't bet)
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 6: agused folded before Flop
+
+
+
+PokerStars Hand #239628951213:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:12:58 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.11 in chips) 
+Seat 2: kicks4living ($2.18 in chips) 
+Seat 3: CrazyKooky ($2.15 in chips) 
+Seat 4: Lorpugo ($2.96 in chips) 
+Seat 6: agused ($1.52 in chips) 
+Lorpugo: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6c]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+agused: folds 
+CrazyKooky: calls $0.14
+*** FLOP *** [7c Td Th]
+Lorpugo: bets $0.21
+CrazyKooky: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.41 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [7c Td Th]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded on the Flop
+Seat 4: Lorpugo (small blind) collected ($0.41)
+Seat 6: agused (big blind) folded before Flop
+
+
+
+PokerStars Hand #239628961998:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:13:26 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.11 in chips) 
+Seat 2: kicks4living ($2.18 in chips) 
+Seat 3: CrazyKooky ($1.95 in chips) 
+Seat 4: Lorpugo ($3.17 in chips) 
+Seat 6: agused ($1.50 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Jh]
+kicks4living: folds 
+CrazyKooky: raises $0.06 to $0.08
+Lorpugo: folds 
+agused: calls $0.07
+Matthew7771: folds 
+*** FLOP *** [Th 8c 4s]
+agused: checks 
+CrazyKooky: bets $0.08
+agused: folds 
+Uncalled bet ($0.08) returned to CrazyKooky
+CrazyKooky collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Th 8c 4s]
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky collected ($0.17)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: agused (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239628970775:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:13:50 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.09 in chips) 
+Seat 2: kicks4living ($2.18 in chips) 
+Seat 3: CrazyKooky ($2.04 in chips) 
+Seat 4: Lorpugo ($3.17 in chips) 
+Seat 6: agused ($1.42 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8d]
+CrazyKooky: calls $0.02
+Lorpugo: raises $0.04 to $0.06
+agused: calls $0.06
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+*** FLOP *** [Ts 5s 9c]
+Lorpugo: bets $0.05
+agused: calls $0.05
+*** TURN *** [Ts 5s 9c] [Tc]
+Lorpugo: bets $0.30
+agused: calls $0.30
+*** RIVER *** [Ts 5s 9c Tc] [7s]
+Lorpugo: checks 
+agused: bets $0.42
+Lorpugo: calls $0.42
+*** SHOW DOWN ***
+agused: shows [9d Js] (two pair, Tens and Nines)
+Lorpugo: shows [Td 8d] (three of a kind, Tens)
+Lorpugo collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.06 
+Board [Ts 5s 9c Tc 7s]
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) folded before Flop
+Seat 3: CrazyKooky folded before Flop
+Seat 4: Lorpugo showed [Td 8d] and won ($1.65) with three of a kind, Tens
+Seat 6: agused (button) showed [9d Js] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Hand #239629009421:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:15:32 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.08 in chips) 
+Seat 2: kicks4living ($2.16 in chips) 
+Seat 3: CrazyKooky ($2.02 in chips) 
+Seat 4: Lorpugo ($3.99 in chips) 
+Seat 6: agused ($0.59 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Qh]
+Lorpugo: folds 
+agused: folds 
+Matthew7771: folds 
+kicks4living: raises $0.02 to $0.04
+CrazyKooky: folds 
+Uncalled bet ($0.02) returned to kicks4living
+kicks4living collected $0.04 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) collected ($0.04)
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629017221:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:15:52 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.08 in chips) 
+Seat 2: kicks4living ($2.18 in chips) 
+Seat 3: CrazyKooky ($2 in chips) 
+Seat 4: Lorpugo ($3.99 in chips) 
+Seat 6: agused ($0.59 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 2h]
+agused: folds 
+Matthew7771: raises $0.04 to $0.06
+kicks4living: raises $0.10 to $0.16
+CrazyKooky: raises $1.84 to $2 and is all-in
+Lorpugo: folds 
+Matthew7771: folds 
+kicks4living: folds 
+Uncalled bet ($1.84) returned to CrazyKooky
+CrazyKooky collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: Matthew7771 folded before Flop
+Seat 2: kicks4living (button) folded before Flop
+Seat 3: CrazyKooky (small blind) collected ($0.40)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 6: agused folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629027871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:16:20 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.02 in chips) 
+Seat 2: kicks4living ($2.02 in chips) 
+Seat 3: CrazyKooky ($2.24 in chips) 
+Seat 4: Lorpugo ($3.97 in chips) 
+Seat 6: agused ($0.59 in chips) 
+Lorpugo: posts small blind $0.01
+agused: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Ad]
+Matthew7771: raises $1 to $1.02 and is all-in
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+agused: folds 
+Uncalled bet ($1) returned to Matthew7771
+Matthew7771 collected $0.05 from pot
+gochoman111 leaves the table
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 collected ($0.05)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: agused (big blind) folded before Flop
+
+
+
+PokerStars Hand #239629035497:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:16:40 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.05 in chips) 
+Seat 2: kicks4living ($2.02 in chips) 
+Seat 3: CrazyKooky ($2.24 in chips) 
+Seat 4: Lorpugo ($3.96 in chips) 
+Seat 6: agused ($0.57 in chips) 
+agused: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ts]
+m5n7b8 joins the table at seat #5 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+agused: calls $0.05
+Matthew7771: folds 
+*** FLOP *** [3h Ac 3d]
+agused: checks 
+Lorpugo: bets $0.05
+agused: raises $0.46 to $0.51 and is all-in
+Lorpugo: folds 
+Uncalled bet ($0.46) returned to agused
+agused collected $0.23 from pot
+agused: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3h Ac 3d]
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the Flop
+Seat 6: agused (small blind) collected ($0.23)
+
+
+
+PokerStars Hand #239629046993:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:17:10 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.03 in chips) 
+Seat 2: kicks4living ($2.02 in chips) 
+Seat 3: CrazyKooky ($2.24 in chips) 
+Seat 4: Lorpugo ($3.85 in chips) 
+Seat 6: agused ($0.69 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+m5n7b8: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8h]
+CrazyKooky: folds 
+Lorpugo: folds 
+agused: raises $0.04 to $0.06
+Matthew7771: calls $0.05
+kicks4living: raises $1.96 to $2.02 and is all-in
+agused: calls $0.63 and is all-in
+Matthew7771: folds 
+Uncalled bet ($1.33) returned to kicks4living
+*** FLOP *** [Jd Js Ad]
+*** TURN *** [Jd Js Ad] [3c]
+*** RIVER *** [Jd Js Ad 3c] [Td]
+*** SHOW DOWN ***
+kicks4living: shows [Qh Jh] (three of a kind, Jacks)
+agused: shows [4s As] (two pair, Aces and Jacks)
+kicks4living collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 
+Board [Jd Js Ad 3c Td]
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) showed [Qh Jh] and won ($1.39) with three of a kind, Jacks
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: agused (button) showed [4s As] and lost with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #239629064699:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:17:57 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($0.97 in chips) 
+Seat 2: kicks4living ($2.72 in chips) 
+Seat 3: CrazyKooky ($2.24 in chips) 
+Seat 4: Lorpugo ($3.85 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+m5n7b8: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6c]
+Lorpugo: folds 
+agused leaves the table
+Matthew7771: folds 
+kicks4living: raises $0.02 to $0.04
+CrazyKooky: folds 
+Uncalled bet ($0.02) returned to kicks4living
+kicks4living collected $0.04 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Matthew7771 (button) folded before Flop (didn't bet)
+Seat 2: kicks4living (small blind) collected ($0.04)
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629070864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:18:13 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($0.97 in chips) 
+Seat 2: kicks4living ($2.74 in chips) 
+Seat 3: CrazyKooky ($2.22 in chips) 
+Seat 4: Lorpugo ($3.85 in chips) 
+CrazyKooky: posts small blind $0.01
+hwk515 joins the table at seat #6 
+Lorpugo: posts big blind $0.02
+m5n7b8: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 8c]
+Matthew7771: raises $0.95 to $0.97 and is all-in
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+Uncalled bet ($0.95) returned to Matthew7771
+Matthew7771 collected $0.05 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 collected ($0.05)
+Seat 2: kicks4living (button) folded before Flop (didn't bet)
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239629076663:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:18:28 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1 in chips) 
+Seat 2: kicks4living ($2.74 in chips) 
+Seat 3: CrazyKooky ($2.21 in chips) 
+Seat 4: Lorpugo ($3.83 in chips) 
+Seat 5: m5n7b8 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+m5n7b8: posts big blind $0.02
+hwk515: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 5h]
+Matthew7771: calls $0.02
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: calls $0.01
+m5n7b8: checks 
+*** FLOP *** [Td 4c 2c]
+Lorpugo: checks 
+m5n7b8: checks 
+Matthew7771: bets $0.98 and is all-in
+Lorpugo: folds 
+m5n7b8: folds 
+Uncalled bet ($0.98) returned to Matthew7771
+Matthew7771 collected $0.06 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Td 4c 2c]
+Seat 1: Matthew7771 collected ($0.06)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 5: m5n7b8 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239629092033:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:19:09 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.04 in chips) 
+Seat 2: kicks4living ($2.74 in chips) 
+Seat 3: CrazyKooky ($2.21 in chips) 
+Seat 4: Lorpugo ($3.81 in chips) 
+Seat 5: m5n7b8 ($2 in chips) 
+Seat 6: hwk515 ($2 in chips) 
+m5n7b8: posts small blind $0.01
+hwk515: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 5h]
+Matthew7771: folds 
+kicks4living: raises $0.03 to $0.05
+CrazyKooky: calls $0.05
+Lorpugo: calls $0.05
+m5n7b8: folds 
+hwk515: folds 
+*** FLOP *** [9h 5c 4h]
+kicks4living: bets $0.10
+CrazyKooky: folds 
+Lorpugo: raises $0.19 to $0.29
+kicks4living: folds 
+Uncalled bet ($0.19) returned to Lorpugo
+Lorpugo collected $0.37 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [9h 5c 4h]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded on the Flop
+Seat 3: CrazyKooky folded on the Flop
+Seat 4: Lorpugo (button) collected ($0.37)
+Seat 5: m5n7b8 (small blind) folded before Flop
+Seat 6: hwk515 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239629104810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:19:43 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($1.04 in chips) 
+Seat 2: kicks4living ($2.59 in chips) 
+Seat 3: CrazyKooky ($2.16 in chips) 
+Seat 4: Lorpugo ($4.03 in chips) 
+Seat 5: m5n7b8 ($2 in chips) 
+Seat 6: hwk515 ($1.98 in chips) 
+hwk515: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 4h]
+kicks4living: raises $0.03 to $0.05
+CrazyKooky: folds 
+Lorpugo: folds 
+m5n7b8: raises $0.13 to $0.18
+hwk515: folds 
+Matthew7771: folds 
+kicks4living: folds 
+Uncalled bet ($0.13) returned to m5n7b8
+m5n7b8 collected $0.13 from pot
+m5n7b8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Matthew7771 (big blind) folded before Flop
+Seat 2: kicks4living folded before Flop
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: m5n7b8 (button) collected ($0.13)
+Seat 6: hwk515 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239629120030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:20:22 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.02 in chips) 
+Seat 2: kicks4living ($2.54 in chips) 
+Seat 3: CrazyKooky ($2.16 in chips) 
+Seat 4: Lorpugo ($4.03 in chips) 
+Seat 5: m5n7b8 ($2.08 in chips) 
+Seat 6: hwk515 ($1.97 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 4d]
+CrazyKooky is disconnected 
+CrazyKooky has timed out while disconnected
+CrazyKooky: folds 
+Lorpugo: folds 
+m5n7b8: folds 
+hwk515: folds 
+Matthew7771: raises $0.04 to $0.06
+kicks4living: calls $0.04
+*** FLOP *** [Td 6h 3s]
+Matthew7771: checks 
+kicks4living: bets $0.07
+Matthew7771: folds 
+Uncalled bet ($0.07) returned to kicks4living
+kicks4living collected $0.12 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Td 6h 3s]
+Seat 1: Matthew7771 (small blind) folded on the Flop
+Seat 2: kicks4living (big blind) collected ($0.12)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: m5n7b8 folded before Flop (didn't bet)
+Seat 6: hwk515 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629132547:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:20:55 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($0.96 in chips) 
+Seat 2: kicks4living ($2.60 in chips) 
+Seat 3: CrazyKooky ($2.16 in chips) 
+Seat 4: Lorpugo ($4.03 in chips) 
+Seat 5: m5n7b8 ($2.08 in chips) 
+Seat 6: hwk515 ($1.97 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ac]
+Lorpugo: raises $0.04 to $0.06
+m5n7b8: folds 
+hwk515: folds 
+Matthew7771: raises $0.90 to $0.96 and is all-in
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+Uncalled bet ($0.90) returned to Matthew7771
+Matthew7771 collected $0.15 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Matthew7771 (button) collected ($0.15)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop
+Seat 5: m5n7b8 folded before Flop (didn't bet)
+Seat 6: hwk515 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629142169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:21:20 ET
+Table 'Itha III' 6-max Seat #2 is the button
+Seat 1: Matthew7771 ($1.05 in chips) 
+Seat 2: kicks4living ($2.59 in chips) 
+Seat 3: CrazyKooky ($2.14 in chips) 
+Seat 4: Lorpugo ($3.97 in chips) 
+Seat 5: m5n7b8 ($2.08 in chips) 
+Seat 6: hwk515 ($1.97 in chips) 
+CrazyKooky: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9s]
+m5n7b8: folds 
+hwk515: calls $0.02
+Matthew7771: folds 
+kicks4living: raises $0.07 to $0.09
+CrazyKooky: folds 
+Lorpugo: folds 
+hwk515: folds 
+Uncalled bet ($0.07) returned to kicks4living
+kicks4living collected $0.07 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living (button) collected ($0.07)
+Seat 3: CrazyKooky (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: m5n7b8 folded before Flop (didn't bet)
+Seat 6: hwk515 folded before Flop
+
+
+
+PokerStars Hand #239629150151:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:21:41 ET
+Table 'Itha III' 6-max Seat #3 is the button
+Seat 1: Matthew7771 ($1.05 in chips) 
+Seat 2: kicks4living ($2.64 in chips) 
+Seat 3: CrazyKooky ($2.13 in chips) 
+Seat 4: Lorpugo ($3.95 in chips) 
+Seat 5: m5n7b8 ($2.08 in chips) 
+Seat 6: hwk515 ($1.95 in chips) 
+Lorpugo: posts small blind $0.01
+m5n7b8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 4d]
+hwk515: folds 
+Matthew7771: folds 
+kicks4living: raises $0.03 to $0.05
+CrazyKooky: calls $0.05
+Lorpugo: folds 
+m5n7b8: folds 
+*** FLOP *** [3h 3s 9d]
+kicks4living: bets $0.08
+CrazyKooky: folds 
+Uncalled bet ($0.08) returned to kicks4living
+kicks4living collected $0.13 from pot
+kicks4living: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3h 3s 9d]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living collected ($0.13)
+Seat 3: CrazyKooky (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: m5n7b8 (big blind) folded before Flop
+Seat 6: hwk515 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629158958:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:22:04 ET
+Table 'Itha III' 6-max Seat #4 is the button
+Seat 1: Matthew7771 ($1.05 in chips) 
+Seat 2: kicks4living ($2.72 in chips) 
+Seat 3: CrazyKooky ($2.08 in chips) 
+Seat 4: Lorpugo ($3.94 in chips) 
+Seat 5: m5n7b8 ($2.06 in chips) 
+Seat 6: hwk515 ($1.95 in chips) 
+m5n7b8: posts small blind $0.01
+hwk515: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ad]
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: raises $0.04 to $0.06
+m5n7b8: folds 
+hwk515: calls $0.04
+*** FLOP *** [8d 2c 7s]
+hwk515: checks 
+Lorpugo: checks 
+*** TURN *** [8d 2c 7s] [7d]
+hwk515: checks 
+Lorpugo: checks 
+*** RIVER *** [8d 2c 7s 7d] [4s]
+hwk515: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+hwk515: shows [As 6s] (a pair of Sevens)
+Lorpugo: shows [Jc Ad] (a pair of Sevens - Ace+Jack kicker)
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d 2c 7s 7d 4s]
+Seat 1: Matthew7771 folded before Flop (didn't bet)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) showed [Jc Ad] and won ($0.13) with a pair of Sevens
+Seat 5: m5n7b8 (small blind) folded before Flop
+Seat 6: hwk515 (big blind) showed [As 6s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #239629173347:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:22:42 ET
+Table 'Itha III' 6-max Seat #5 is the button
+Seat 1: Matthew7771 ($1.05 in chips) 
+Seat 2: kicks4living ($2.72 in chips) 
+Seat 3: CrazyKooky ($2.08 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: m5n7b8 ($2.05 in chips) 
+Seat 6: hwk515 ($1.89 in chips) 
+hwk515: posts small blind $0.01
+Matthew7771: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 4c]
+kicks4living: folds 
+CrazyKooky: folds 
+Lorpugo: folds 
+m5n7b8: folds 
+hwk515: folds 
+Uncalled bet ($0.01) returned to Matthew7771
+Matthew7771 collected $0.02 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Matthew7771 (big blind) collected ($0.02)
+Seat 2: kicks4living folded before Flop (didn't bet)
+Seat 3: CrazyKooky folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: m5n7b8 (button) folded before Flop (didn't bet)
+Seat 6: hwk515 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239629177463:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:22:53 ET
+Table 'Itha III' 6-max Seat #6 is the button
+Seat 1: Matthew7771 ($1.06 in chips) 
+Seat 2: kicks4living ($2.72 in chips) 
+Seat 3: CrazyKooky ($2.08 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: m5n7b8 ($2.05 in chips) 
+Seat 6: hwk515 ($1.88 in chips) 
+Matthew7771: posts small blind $0.01
+kicks4living: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8c]
+CrazyKooky: calls $0.02
+Lorpugo: folds 
+m5n7b8: raises $0.06 to $0.08
+hwk515: folds 
+Matthew7771: folds 
+kicks4living: folds 
+CrazyKooky: calls $0.06
+*** FLOP *** [6s Jd 8h]
+CrazyKooky: bets $0.04
+m5n7b8: calls $0.04
+*** TURN *** [6s Jd 8h] [Kd]
+CrazyKooky: bets $0.08
+m5n7b8: calls $0.08
+*** RIVER *** [6s Jd 8h Kd] [3s]
+CrazyKooky: bets $0.20
+m5n7b8: calls $0.20
+*** SHOW DOWN ***
+CrazyKooky: shows [Qs Ts] (high card King)
+m5n7b8: shows [Ac Ks] (a pair of Kings)
+m5n7b8 collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.04 
+Board [6s Jd 8h Kd 3s]
+Seat 1: Matthew7771 (small blind) folded before Flop
+Seat 2: kicks4living (big blind) folded before Flop
+Seat 3: CrazyKooky showed [Qs Ts] and lost with high card King
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: m5n7b8 showed [Ac Ks] and won ($0.79) with a pair of Kings
+Seat 6: hwk515 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239629198969:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/03 15:23:49 ET
+Table 'Itha III' 6-max Seat #1 is the button
+Seat 1: Matthew7771 ($1.05 in chips) 
+Seat 2: kicks4living ($2.70 in chips) 
+Seat 3: CrazyKooky ($1.68 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: m5n7b8 ($2.44 in chips) 
+Seat 6: hwk515 ($1.88 in chips) 
+kicks4living: posts small blind $0.01
+CrazyKooky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 4d]
+Lorpugo: folds 
+m5n7b8: folds 
+hwk515: folds 
+Matthew7771: raises $0.04 to $0.06
+kicks4living: folds 
+CrazyKooky: folds 
+Uncalled bet ($0.04) returned to Matthew7771
+Matthew7771 collected $0.05 from pot
+Matthew7771: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Matthew7771 (button) collected ($0.05)
+Seat 2: kicks4living (small blind) folded before Flop
+Seat 3: CrazyKooky (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: m5n7b8 folded before Flop (didn't bet)
+Seat 6: hwk515 folded before Flop (didn't bet)
+
+
+

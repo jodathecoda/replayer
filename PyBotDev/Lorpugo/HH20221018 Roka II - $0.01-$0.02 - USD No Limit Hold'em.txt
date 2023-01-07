@@ -1,0 +1,810 @@
+﻿PokerStars Hand #239303039770:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:45:54 ET
+Table 'Roka II' 6-max Seat #6 is the button
+Seat 2: dogge55 ($1.05 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Sir-GraFFe ($1.63 in chips) 
+Seat 5: cucinpasare ($1.84 in chips) 
+Seat 6: Seat4125 ($2.04 in chips) 
+dogge55: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Kc]
+Sir-GraFFe: folds 
+cucinpasare: folds 
+Seat4125: folds 
+dogge55: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+dogge55: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: dogge55 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.04)
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare folded before Flop (didn't bet)
+Seat 6: Seat4125 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303043073:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:46:09 ET
+Table 'Roka II' 6-max Seat #2 is the button
+Seat 1: kutyalab2 ($2 in chips) 
+Seat 2: dogge55 ($1.03 in chips) 
+Seat 3: Lorpugo ($1.62 in chips) 
+Seat 4: Sir-GraFFe ($1.63 in chips) 
+Seat 5: cucinpasare ($1.84 in chips) 
+Seat 6: Seat4125 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+Sir-GraFFe: posts big blind $0.02
+kutyalab2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5c]
+cucinpasare: raises $0.06 to $0.08
+Seat4125: folds 
+kutyalab2: folds 
+dogge55: folds 
+Lorpugo: folds 
+Sir-GraFFe: folds 
+Uncalled bet ($0.06) returned to cucinpasare
+cucinpasare collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 2: dogge55 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Sir-GraFFe (big blind) folded before Flop
+Seat 5: cucinpasare collected ($0.07)
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303046147:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:46:23 ET
+Table 'Roka II' 6-max Seat #3 is the button
+Seat 1: kutyalab2 ($2 in chips) 
+Seat 2: dogge55 ($1.03 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: Sir-GraFFe ($1.61 in chips) 
+Seat 5: cucinpasare ($1.89 in chips) 
+Seat 6: Seat4125 ($2.04 in chips) 
+Sir-GraFFe: posts small blind $0.01
+cucinpasare: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Jd]
+Seat4125: folds 
+kutyalab2: folds 
+dogge55: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+Sir-GraFFe: folds 
+cucinpasare: folds 
+dogge55: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 2: dogge55 folded before Flop
+Seat 3: Lorpugo (button) collected ($0.07)
+Seat 4: Sir-GraFFe (small blind) folded before Flop
+Seat 5: cucinpasare (big blind) folded before Flop
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303049103:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:46:36 ET
+Table 'Roka II' 6-max Seat #4 is the button
+Seat 1: kutyalab2 ($2 in chips) 
+Seat 2: dogge55 ($1.01 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Sir-GraFFe ($1.60 in chips) 
+Seat 5: cucinpasare ($1.87 in chips) 
+Seat 6: Seat4125 ($2.04 in chips) 
+cucinpasare: posts small blind $0.01
+Seat4125: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7c]
+kutyalab2: raises $0.04 to $0.06
+dogge55: folds 
+Lorpugo: folds 
+Sir-GraFFe: folds 
+cucinpasare: calls $0.05
+Seat4125: folds 
+*** FLOP *** [Jc Tc Js]
+cucinpasare: checks 
+kutyalab2: bets $0.11
+cucinpasare: calls $0.11
+*** TURN *** [Jc Tc Js] [Ah]
+cucinpasare: checks 
+kutyalab2: bets $0.26
+cucinpasare: calls $0.26
+*** RIVER *** [Jc Tc Js Ah] [9h]
+cucinpasare: checks 
+kutyalab2: checks 
+*** SHOW DOWN ***
+cucinpasare: shows [7s As] (two pair, Aces and Jacks)
+kutyalab2: shows [Jd Qs] (three of a kind, Jacks)
+kutyalab2 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [Jc Tc Js Ah 9h]
+Seat 1: kutyalab2 showed [Jd Qs] and won ($0.85) with three of a kind, Jacks
+Seat 2: dogge55 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Sir-GraFFe (button) folded before Flop (didn't bet)
+Seat 5: cucinpasare (small blind) showed [7s As] and lost with two pair, Aces and Jacks
+Seat 6: Seat4125 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239303058888:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:47:19 ET
+Table 'Roka II' 6-max Seat #5 is the button
+Seat 1: kutyalab2 ($2.42 in chips) 
+Seat 2: dogge55 ($1.01 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Sir-GraFFe ($1.60 in chips) 
+Seat 5: cucinpasare ($1.44 in chips) 
+Seat 6: Seat4125 ($2.02 in chips) 
+Seat4125: posts small blind $0.01
+kutyalab2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6h]
+dogge55: calls $0.02
+Lorpugo: folds 
+Sir-GraFFe: folds 
+cucinpasare: folds 
+Seat4125: raises $0.04 to $0.06
+kutyalab2: folds 
+dogge55: calls $0.04
+*** FLOP *** [Th 6c Jh]
+Seat4125: checks 
+dogge55: checks 
+*** TURN *** [Th 6c Jh] [7d]
+Seat4125: checks 
+dogge55: bets $0.02
+Seat4125: calls $0.02
+*** RIVER *** [Th 6c Jh 7d] [Kc]
+Seat4125: checks 
+dogge55: checks 
+*** SHOW DOWN ***
+Seat4125: shows [Ad 5d] (high card Ace)
+dogge55: shows [2c 2s] (a pair of Deuces)
+dogge55 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Th 6c Jh 7d Kc]
+Seat 1: kutyalab2 (big blind) folded before Flop
+Seat 2: dogge55 showed [2c 2s] and won ($0.17) with a pair of Deuces
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare (button) folded before Flop (didn't bet)
+Seat 6: Seat4125 (small blind) showed [Ad 5d] and lost with high card Ace
+
+
+
+PokerStars Hand #239303067553:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:47:57 ET
+Table 'Roka II' 6-max Seat #6 is the button
+Seat 1: kutyalab2 ($2.40 in chips) 
+Seat 2: dogge55 ($1.10 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Sir-GraFFe ($1.60 in chips) 
+Seat 5: cucinpasare ($1.44 in chips) 
+Seat 6: Seat4125 ($1.94 in chips) 
+kutyalab2: posts small blind $0.01
+dogge55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 8s]
+Lorpugo: folds 
+Sir-GraFFe: raises $0.05 to $0.07
+cucinpasare: folds 
+Seat4125: raises $0.05 to $0.12
+kutyalab2: folds 
+dogge55: folds 
+Sir-GraFFe: calls $0.05
+*** FLOP *** [As Qs Jc]
+Sir-GraFFe: checks 
+Seat4125: bets $0.16
+Sir-GraFFe: folds 
+Uncalled bet ($0.16) returned to Seat4125
+Seat4125 collected $0.26 from pot
+Seat4125: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [As Qs Jc]
+Seat 1: kutyalab2 (small blind) folded before Flop
+Seat 2: dogge55 (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Sir-GraFFe folded on the Flop
+Seat 5: cucinpasare folded before Flop (didn't bet)
+Seat 6: Seat4125 (button) collected ($0.26)
+
+
+
+PokerStars Hand #239303073844:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:48:26 ET
+Table 'Roka II' 6-max Seat #1 is the button
+Seat 1: kutyalab2 ($2.39 in chips) 
+Seat 2: dogge55 ($1.08 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Sir-GraFFe ($1.48 in chips) 
+Seat 5: cucinpasare ($1.44 in chips) 
+Seat 6: Seat4125 ($2.08 in chips) 
+dogge55: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4s]
+Sir-GraFFe: folds 
+cucinpasare: raises $0.04 to $0.06
+Seat4125: raises $0.04 to $0.10
+kutyalab2: folds 
+dogge55: folds 
+Lorpugo: folds 
+cucinpasare: calls $0.04
+*** FLOP *** [Jc 6c 2c]
+cucinpasare: checks 
+Seat4125: bets $0.10
+cucinpasare: calls $0.10
+*** TURN *** [Jc 6c 2c] [8c]
+cucinpasare: checks 
+Seat4125: checks 
+*** RIVER *** [Jc 6c 2c 8c] [9s]
+cucinpasare: bets $0.14
+Seat4125: folds 
+Uncalled bet ($0.14) returned to cucinpasare
+cucinpasare collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Jc 6c 2c 8c 9s]
+Seat 1: kutyalab2 (button) folded before Flop (didn't bet)
+Seat 2: dogge55 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare collected ($0.41)
+Seat 6: Seat4125 folded on the River
+
+
+
+PokerStars Hand #239303083386:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:49:08 ET
+Table 'Roka II' 6-max Seat #2 is the button
+Seat 1: kutyalab2 ($2.39 in chips) 
+Seat 2: dogge55 ($1.07 in chips) 
+Seat 3: Lorpugo ($1.64 in chips) 
+Seat 4: Sir-GraFFe ($1.48 in chips) 
+Seat 5: cucinpasare ($1.65 in chips) 
+Seat 6: Seat4125 ($1.88 in chips) 
+Lorpugo: posts small blind $0.01
+Sir-GraFFe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 8s]
+cucinpasare: folds 
+Seat4125: folds 
+kutyalab2: folds 
+dogge55: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+Sir-GraFFe: folds 
+dogge55: calls $0.06
+*** FLOP *** [6d Th 2h]
+Lorpugo: bets $0.17
+dogge55: folds 
+Uncalled bet ($0.17) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6d Th 2h]
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 2: dogge55 (button) folded on the Flop
+Seat 3: Lorpugo (small blind) collected ($0.17)
+Seat 4: Sir-GraFFe (big blind) folded before Flop
+Seat 5: cucinpasare folded before Flop (didn't bet)
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303089208:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:49:33 ET
+Table 'Roka II' 6-max Seat #3 is the button
+Seat 1: kutyalab2 ($2.39 in chips) 
+Seat 2: dogge55 ($0.99 in chips) 
+Seat 3: Lorpugo ($1.73 in chips) 
+Seat 4: Sir-GraFFe ($1.46 in chips) 
+Seat 5: cucinpasare ($1.65 in chips) 
+Seat 6: Seat4125 ($1.88 in chips) 
+Sir-GraFFe: posts small blind $0.01
+cucinpasare: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6d]
+Seat4125: raises $0.04 to $0.06
+kutyalab2: folds 
+dogge55: calls $0.06
+Lorpugo: folds 
+Sir-GraFFe: folds 
+cucinpasare: folds 
+*** FLOP *** [7s 6c 2h]
+Seat4125: checks 
+dogge55: bets $0.02
+Seat4125: folds 
+Uncalled bet ($0.02) returned to dogge55
+dogge55 collected $0.14 from pot
+dogge55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 6c 2h]
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 2: dogge55 collected ($0.14)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Sir-GraFFe (small blind) folded before Flop
+Seat 5: cucinpasare (big blind) folded before Flop
+Seat 6: Seat4125 folded on the Flop
+
+
+
+PokerStars Hand #239303093589:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:49:52 ET
+Table 'Roka II' 6-max Seat #4 is the button
+Seat 1: kutyalab2 ($2.39 in chips) 
+Seat 2: dogge55 ($1.07 in chips) 
+Seat 3: Lorpugo ($1.73 in chips) 
+Seat 4: Sir-GraFFe ($1.45 in chips) 
+Seat 5: cucinpasare ($1.63 in chips) 
+Seat 6: Seat4125 ($1.82 in chips) 
+cucinpasare: posts small blind $0.01
+Seat4125: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6c]
+kutyalab2: folds 
+dogge55: folds 
+Lorpugo: raises $0.04 to $0.06
+Sir-GraFFe: folds 
+cucinpasare: calls $0.05
+Seat4125: folds 
+*** FLOP *** [Jc 2h 3h]
+cucinpasare: checks 
+Lorpugo: checks 
+*** TURN *** [Jc 2h 3h] [Th]
+cucinpasare: checks 
+Lorpugo: checks 
+*** RIVER *** [Jc 2h 3h Th] [8d]
+cucinpasare: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+cucinpasare: shows [Ah 9d] (high card Ace)
+Lorpugo: mucks hand 
+cucinpasare collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jc 2h 3h Th 8d]
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 2: dogge55 folded before Flop (didn't bet)
+Seat 3: Lorpugo mucked [9c 6c]
+Seat 4: Sir-GraFFe (button) folded before Flop (didn't bet)
+Seat 5: cucinpasare (small blind) showed [Ah 9d] and won ($0.14) with high card Ace
+Seat 6: Seat4125 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239303107810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:50:54 ET
+Table 'Roka II' 6-max Seat #5 is the button
+Seat 1: kutyalab2 ($2.39 in chips) 
+Seat 2: dogge55 ($1.07 in chips) 
+Seat 3: Lorpugo ($1.67 in chips) 
+Seat 4: Sir-GraFFe ($1.45 in chips) 
+Seat 5: cucinpasare ($1.71 in chips) 
+Seat 6: Seat4125 ($1.80 in chips) 
+Seat4125: posts small blind $0.01
+kutyalab2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Kc]
+dogge55: folds 
+Lorpugo: raises $0.04 to $0.06
+Sir-GraFFe: folds 
+cucinpasare: calls $0.06
+Seat4125: calls $0.05
+kutyalab2: folds 
+*** FLOP *** [Ts Qs 8d]
+Seat4125: checks 
+Lorpugo: checks 
+cucinpasare: checks 
+*** TURN *** [Ts Qs 8d] [2c]
+Seat4125: checks 
+Lorpugo: checks 
+cucinpasare: checks 
+*** RIVER *** [Ts Qs 8d 2c] [2d]
+Seat4125: checks 
+Lorpugo: checks 
+cucinpasare: checks 
+*** SHOW DOWN ***
+Seat4125: shows [Jd 7d] (a pair of Deuces)
+Lorpugo: shows [Jc Kc] (a pair of Deuces - King kicker)
+cucinpasare: shows [3c 3s] (two pair, Threes and Deuces)
+cucinpasare collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ts Qs 8d 2c 2d]
+Seat 1: kutyalab2 (big blind) folded before Flop
+Seat 2: dogge55 folded before Flop (didn't bet)
+Seat 3: Lorpugo showed [Jc Kc] and lost with a pair of Deuces
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare (button) showed [3c 3s] and won ($0.19) with two pair, Threes and Deuces
+Seat 6: Seat4125 (small blind) showed [Jd 7d] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #239303119456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:51:45 ET
+Table 'Roka II' 6-max Seat #6 is the button
+Seat 1: kutyalab2 ($2.37 in chips) 
+Seat 2: dogge55 ($1.07 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: Sir-GraFFe ($1.45 in chips) 
+Seat 5: cucinpasare ($1.84 in chips) 
+Seat 6: Seat4125 ($1.74 in chips) 
+kutyalab2: posts small blind $0.01
+dogge55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qh]
+Lorpugo: raises $0.04 to $0.06
+Sir-GraFFe: folds 
+cucinpasare: folds 
+Seat4125: folds 
+kutyalab2: calls $0.05
+dogge55: folds 
+*** FLOP *** [4d 8d 4s]
+kutyalab2: checks 
+Lorpugo: checks 
+*** TURN *** [4d 8d 4s] [7s]
+kutyalab2: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to kutyalab2
+kutyalab2 collected $0.14 from pot
+kutyalab2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d 8d 4s 7s]
+Seat 1: kutyalab2 (small blind) collected ($0.14)
+Seat 2: dogge55 (big blind) folded before Flop
+Seat 3: Lorpugo folded on the Turn
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare folded before Flop (didn't bet)
+Seat 6: Seat4125 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303130407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:52:33 ET
+Table 'Roka II' 6-max Seat #1 is the button
+Seat 1: kutyalab2 ($2.45 in chips) 
+Seat 2: dogge55 ($1.05 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Sir-GraFFe ($1.45 in chips) 
+Seat 5: cucinpasare ($1.84 in chips) 
+Seat 6: Seat4125 ($2 in chips) 
+dogge55: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ah]
+Sir-GraFFe: folds 
+cucinpasare: calls $0.02
+Seat4125: folds 
+kutyalab2: calls $0.02
+dogge55: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+cucinpasare: folds 
+kutyalab2: folds 
+dogge55: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: kutyalab2 (button) folded before Flop
+Seat 2: dogge55 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.08)
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare folded before Flop
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303136361:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:52:59 ET
+Table 'Roka II' 6-max Seat #2 is the button
+Seat 1: kutyalab2 ($2.43 in chips) 
+Seat 2: dogge55 ($1.03 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Sir-GraFFe ($1.45 in chips) 
+Seat 5: cucinpasare ($1.82 in chips) 
+Seat 6: Seat4125 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Sir-GraFFe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Tc]
+cucinpasare: folds 
+Seat4125: folds 
+kutyalab2 has timed out
+kutyalab2: folds 
+dogge55: calls $0.02
+Lorpugo: raises $0.14 to $0.16
+Sir-GraFFe: folds 
+dogge55: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 2: dogge55 (button) folded before Flop
+Seat 3: Lorpugo (small blind) collected ($0.06)
+Seat 4: Sir-GraFFe (big blind) folded before Flop
+Seat 5: cucinpasare folded before Flop (didn't bet)
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303142367:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:53:25 ET
+Table 'Roka II' 6-max Seat #3 is the button
+Seat 2: dogge55 ($1.01 in chips) 
+Seat 3: Lorpugo ($1.70 in chips) 
+Seat 4: Sir-GraFFe ($1.43 in chips) 
+Seat 5: cucinpasare ($1.82 in chips) 
+Seat 6: Seat4125 ($2 in chips) 
+Sir-GraFFe: posts small blind $0.01
+cucinpasare: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Qs]
+Seat4125: folds 
+dogge55: folds 
+Lorpugo: raises $0.04 to $0.06
+Sir-GraFFe: folds 
+cucinpasare: calls $0.04
+*** FLOP *** [8d 8c Ah]
+cucinpasare: checks 
+Lorpugo: bets $0.09
+cucinpasare: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d 8c Ah]
+Seat 2: dogge55 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.13)
+Seat 4: Sir-GraFFe (small blind) folded before Flop
+Seat 5: cucinpasare (big blind) folded on the Flop
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303149095:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:53:55 ET
+Table 'Roka II' 6-max Seat #4 is the button
+Seat 1: kutyalab2 ($2.43 in chips) 
+Seat 2: dogge55 ($1.01 in chips) 
+Seat 3: Lorpugo ($1.77 in chips) 
+Seat 4: Sir-GraFFe ($1.42 in chips) 
+Seat 5: cucinpasare ($1.76 in chips) 
+Seat 6: Seat4125 ($2 in chips) 
+cucinpasare: posts small blind $0.01
+Seat4125: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 2h]
+kutyalab2: folds 
+dogge55: calls $0.02
+Lorpugo: folds 
+Sir-GraFFe: folds 
+cucinpasare: raises $0.04 to $0.06
+Seat4125: calls $0.04
+dogge55: calls $0.04
+*** FLOP *** [Qs 8s Ah]
+cucinpasare: bets $0.06
+Seat4125: folds 
+dogge55: folds 
+Uncalled bet ($0.06) returned to cucinpasare
+cucinpasare collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qs 8s Ah]
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 2: dogge55 folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Sir-GraFFe (button) folded before Flop (didn't bet)
+Seat 5: cucinpasare (small blind) collected ($0.17)
+Seat 6: Seat4125 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239303154670:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:54:19 ET
+Table 'Roka II' 6-max Seat #5 is the button
+Seat 1: kutyalab2 ($2.43 in chips) 
+Seat 2: dogge55 ($0.95 in chips) 
+Seat 3: Lorpugo ($1.77 in chips) 
+Seat 4: Sir-GraFFe ($1.42 in chips) 
+Seat 5: cucinpasare ($1.87 in chips) 
+Seat 6: Seat4125 ($1.94 in chips) 
+Seat4125: posts small blind $0.01
+kutyalab2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qh]
+dogge55: raises $0.02 to $0.04
+Lorpugo: folds 
+Sir-GraFFe: folds 
+cucinpasare: folds 
+Seat4125: folds 
+kutyalab2: calls $0.02
+*** FLOP *** [4h Ah Kh]
+kutyalab2: checks 
+dogge55: bets $0.02
+kutyalab2: calls $0.02
+*** TURN *** [4h Ah Kh] [2h]
+kutyalab2: checks 
+dogge55: bets $0.02
+kutyalab2: calls $0.02
+*** RIVER *** [4h Ah Kh 2h] [4c]
+kutyalab2: checks 
+dogge55: checks 
+*** SHOW DOWN ***
+kutyalab2: shows [Th Kc] (a flush, Ace high)
+dogge55: mucks hand 
+kutyalab2 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4h Ah Kh 2h 4c]
+Seat 1: kutyalab2 (big blind) showed [Th Kc] and won ($0.16) with a flush, Ace high
+Seat 2: dogge55 mucked [Jd 8s]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare (button) folded before Flop (didn't bet)
+Seat 6: Seat4125 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239303162776:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:54:54 ET
+Table 'Roka II' 6-max Seat #6 is the button
+Seat 1: kutyalab2 ($2.51 in chips) 
+Seat 3: Lorpugo ($1.77 in chips) 
+Seat 4: Sir-GraFFe ($1.42 in chips) 
+Seat 5: cucinpasare ($1.87 in chips) 
+Seat 6: Seat4125 ($1.93 in chips) 
+kutyalab2: posts small blind $0.01
+dogge55: is sitting out 
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ts]
+Sir-GraFFe: folds 
+cucinpasare: folds 
+Seat4125: raises $0.04 to $0.06
+kutyalab2: calls $0.05
+dogge55 leaves the table
+Lorpugo: folds 
+*** FLOP *** [Qc Qd 9s]
+kutyalab2: bets $0.02
+Seat4125: calls $0.02
+*** TURN *** [Qc Qd 9s] [Kc]
+kutyalab2: bets $0.08
+Seat4125: calls $0.08
+*** RIVER *** [Qc Qd 9s Kc] [5d]
+kutyalab2: checks 
+TheRunkst joins the table at seat #2 
+Seat4125: bets $0.26
+kutyalab2: calls $0.26
+*** SHOW DOWN ***
+Seat4125: shows [8c 7c] (a pair of Queens)
+kutyalab2: shows [Td Kh] (two pair, Kings and Queens)
+kutyalab2 collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [Qc Qd 9s Kc 5d]
+Seat 1: kutyalab2 (small blind) showed [Td Kh] and won ($0.83) with two pair, Kings and Queens
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Sir-GraFFe folded before Flop (didn't bet)
+Seat 5: cucinpasare folded before Flop (didn't bet)
+Seat 6: Seat4125 (button) showed [8c 7c] and lost with a pair of Queens
+
+
+
+PokerStars Hand #239303175033:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:55:54 ET
+Table 'Roka II' 6-max Seat #1 is the button
+Seat 1: kutyalab2 ($2.92 in chips) 
+Seat 3: Lorpugo ($1.75 in chips) 
+Seat 4: Sir-GraFFe ($1.42 in chips) 
+Seat 5: cucinpasare ($1.87 in chips) 
+Seat 6: Seat4125 ($1.51 in chips) 
+Lorpugo: posts small blind $0.01
+Sir-GraFFe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 3s]
+cucinpasare: raises $0.04 to $0.06
+Seat4125: folds 
+kutyalab2: calls $0.06
+Lorpugo: folds 
+Sir-GraFFe: folds 
+*** FLOP *** [3c Ah 7s]
+cucinpasare: bets $0.06
+kutyalab2: folds 
+Uncalled bet ($0.06) returned to cucinpasare
+cucinpasare collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3c Ah 7s]
+Seat 1: kutyalab2 (button) folded on the Flop
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Sir-GraFFe (big blind) folded before Flop
+Seat 5: cucinpasare collected ($0.14)
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303178933:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:56:14 ET
+Table 'Roka II' 6-max Seat #3 is the button
+Seat 1: kutyalab2 ($2.86 in chips) 
+Seat 3: Lorpugo ($1.74 in chips) 
+Seat 4: Sir-GraFFe ($1.40 in chips) 
+Seat 5: cucinpasare ($1.95 in chips) 
+Seat 6: Seat4125 ($2 in chips) 
+Sir-GraFFe: posts small blind $0.01
+cucinpasare: posts big blind $0.02
+TheRunkst: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ad]
+Seat4125: folds 
+kutyalab2: folds 
+Lorpugo: raises $0.04 to $0.06
+Sir-GraFFe: folds 
+cucinpasare: calls $0.04
+*** FLOP *** [3s 6d Ts]
+cucinpasare: checks 
+Lorpugo: checks 
+*** TURN *** [3s 6d Ts] [2s]
+cucinpasare: checks 
+Lorpugo: checks 
+*** RIVER *** [3s 6d Ts 2s] [Ks]
+cucinpasare: checks 
+Lorpugo: bets $0.18
+cucinpasare: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s 6d Ts 2s Ks]
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.13)
+Seat 4: Sir-GraFFe (small blind) folded before Flop
+Seat 5: cucinpasare (big blind) folded on the River
+Seat 6: Seat4125 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303185465:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:56:48 ET
+Table 'Roka II' 6-max Seat #4 is the button
+Seat 1: kutyalab2 ($2.86 in chips) 
+Seat 3: Lorpugo ($1.81 in chips) 
+Seat 4: Sir-GraFFe ($1.39 in chips) 
+Seat 5: cucinpasare ($1.89 in chips) 
+Seat 6: Seat4125 ($2 in chips) 
+cucinpasare: posts small blind $0.01
+Seat4125: posts big blind $0.02
+TheRunkst: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 2s]
+kutyalab2: folds 
+Lorpugo: raises $0.04 to $0.06
+Sir-GraFFe: folds 
+cucinpasare: calls $0.05
+Seat4125: folds 
+*** FLOP *** [9h 5c 7h]
+cucinpasare: checks 
+Lorpugo: bets $0.09
+cucinpasare: calls $0.09
+*** TURN *** [9h 5c 7h] [6s]
+cucinpasare: checks 
+Lorpugo: bets $0.22
+cucinpasare: raises $0.22 to $0.44
+Lorpugo: folds 
+Uncalled bet ($0.22) returned to cucinpasare
+cucinpasare collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [9h 5c 7h 6s]
+Seat 1: kutyalab2 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Turn
+Seat 4: Sir-GraFFe (button) folded before Flop (didn't bet)
+Seat 5: cucinpasare (small blind) collected ($0.73)
+Seat 6: Seat4125 (big blind) folded before Flop
+
+
+

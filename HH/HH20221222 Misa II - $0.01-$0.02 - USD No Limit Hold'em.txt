@@ -1,0 +1,855 @@
+﻿PokerStars Hand #240623045661:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:19:50 ET
+Table 'Misa II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Pechorin.G ($2.73 in chips) 
+Seat 5: Montanatl ($0.82 in chips) 
+Seat 6: Bondz0 ($2.03 in chips) 
+Bondz0: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3c]
+Pechorin.G: folds 
+Montanatl: calls $0.02
+Bondz0: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [4c 5c 2d]
+Bondz0: bets $0.02
+Lorpugo: calls $0.02
+Montanatl: calls $0.02
+*** TURN *** [4c 5c 2d] [Jh]
+Bondz0: bets $0.08
+Lorpugo: calls $0.08
+Montanatl: folds 
+*** RIVER *** [4c 5c 2d Jh] [3s]
+Bondz0: bets $0.30
+Lorpugo: folds 
+Uncalled bet ($0.30) returned to Bondz0
+Bondz0 collected $0.27 from pot
+Bondz0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4c 5c 2d Jh 3s]
+Seat 1: Lorpugo (big blind) folded on the River
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 5: Montanatl (button) folded on the Turn
+Seat 6: Bondz0 (small blind) collected ($0.27)
+
+
+
+PokerStars Hand #240623068286:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:20:56 ET
+Table 'Misa II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: Pechorin.G ($2.73 in chips) 
+Seat 5: Montanatl ($0.78 in chips) 
+Seat 6: Bondz0 ($2.18 in chips) 
+Lorpugo: posts small blind $0.01
+Pechorin.G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Jc]
+Montanatl: calls $0.02
+Bondz0: folds 
+Lorpugo: folds 
+Pechorin.G: raises $0.08 to $0.10
+Montanatl: folds 
+Uncalled bet ($0.08) returned to Pechorin.G
+Pechorin.G collected $0.05 from pot
+Pechorin.G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Pechorin.G (big blind) collected ($0.05)
+Seat 5: Montanatl folded before Flop
+Seat 6: Bondz0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623072669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:21:09 ET
+Table 'Misa II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.47 in chips) 
+Seat 2: Pechorin.G ($2.76 in chips) 
+Seat 3: Dansken107 ($1.02 in chips) 
+Seat 5: Montanatl ($0.76 in chips) 
+Seat 6: Bondz0 ($2.18 in chips) 
+Pechorin.G: posts small blind $0.01
+Dansken107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ah]
+Montanatl: calls $0.02
+Bondz0: folds 
+Lorpugo: raises $0.08 to $0.10
+Pechorin.G: folds 
+Dansken107: folds 
+Montanatl: calls $0.08
+*** FLOP *** [Jd 7s 5c]
+Montanatl: checks 
+Lorpugo: checks 
+*** TURN *** [Jd 7s 5c] [Ks]
+Montanatl: checks 
+Lorpugo: checks 
+*** RIVER *** [Jd 7s 5c Ks] [Jh]
+Montanatl: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Montanatl: shows [Td 8h] (a pair of Jacks)
+Lorpugo: shows [8c Ah] (a pair of Jacks - Ace kicker)
+Lorpugo collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jd 7s 5c Ks Jh]
+Seat 1: Lorpugo (button) showed [8c Ah] and won ($0.22) with a pair of Jacks
+Seat 2: Pechorin.G (small blind) folded before Flop
+Seat 3: Dansken107 (big blind) folded before Flop
+Seat 5: Montanatl showed [Td 8h] and lost with a pair of Jacks
+Seat 6: Bondz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623094587:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:22:14 ET
+Table 'Misa II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.59 in chips) 
+Seat 2: Pechorin.G ($2.75 in chips) 
+Seat 3: Dansken107 ($1 in chips) 
+Seat 5: Montanatl ($0.66 in chips) 
+Seat 6: Bondz0 ($2.18 in chips) 
+Dansken107: posts small blind $0.01
+Montanatl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6c]
+Bondz0: folds 
+Lorpugo: raises $0.04 to $0.06
+Pechorin.G: folds 
+Dansken107: raises $0.06 to $0.12
+Montanatl: calls $0.10
+Lorpugo: calls $0.06
+*** FLOP *** [7d 3h 9h]
+Dansken107: checks 
+Montanatl: bets $0.02
+Lorpugo: calls $0.02
+Dansken107: calls $0.02
+*** TURN *** [7d 3h 9h] [8s]
+Dansken107: checks 
+Montanatl: checks 
+Lorpugo: bets $0.30
+Dansken107: folds 
+Montanatl: raises $0.22 to $0.52 and is all-in
+Lorpugo: calls $0.22
+*** RIVER *** [7d 3h 9h 8s] [2s]
+*** SHOW DOWN ***
+Montanatl: shows [Jd Td] (a straight, Seven to Jack)
+Lorpugo: shows [Ad 6c] (high card Ace)
+Montanatl collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [7d 3h 9h 8s 2s]
+Seat 1: Lorpugo showed [Ad 6c] and lost with high card Ace
+Seat 2: Pechorin.G (button) folded before Flop (didn't bet)
+Seat 3: Dansken107 (small blind) folded on the Turn
+Seat 5: Montanatl (big blind) showed [Jd Td] and won ($1.41) with a straight, Seven to Jack
+Seat 6: Bondz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623116451:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:23:18 ET
+Table 'Misa II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($0.93 in chips) 
+Seat 2: Pechorin.G ($2.75 in chips) 
+Seat 3: Dansken107 ($0.86 in chips) 
+Seat 5: Montanatl ($1.41 in chips) 
+Seat 6: Bondz0 ($2.18 in chips) 
+Montanatl: posts small blind $0.01
+Bondz0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9c]
+Lorpugo: folds 
+Pechorin.G: folds 
+Dansken107: raises $0.03 to $0.05
+Montanatl: folds 
+Bondz0: folds 
+Uncalled bet ($0.03) returned to Dansken107
+Dansken107 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 (button) collected ($0.05)
+Seat 5: Montanatl (small blind) folded before Flop
+Seat 6: Bondz0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240623120827:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:23:30 ET
+Table 'Misa II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 2: Pechorin.G ($2.75 in chips) 
+Seat 3: Dansken107 ($0.89 in chips) 
+Seat 4: strigoi3096 ($2.33 in chips) 
+Seat 5: Montanatl ($1.40 in chips) 
+Seat 6: Bondz0 ($2.16 in chips) 
+Bondz0: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+strigoi3096: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Ts]
+Pechorin.G: folds 
+Dansken107: calls $0.02
+strigoi3096: checks 
+Montanatl: calls $0.02
+Bondz0: folds 
+Lorpugo: checks 
+*** FLOP *** [9c Kd Qh]
+Lorpugo: checks 
+Dansken107: checks 
+strigoi3096: checks 
+Montanatl: checks 
+*** TURN *** [9c Kd Qh] [Qc]
+Lorpugo: checks 
+Dansken107: bets $0.05
+strigoi3096: folds 
+Montanatl: calls $0.05
+Lorpugo: folds 
+*** RIVER *** [9c Kd Qh Qc] [Kc]
+Dansken107: bets $0.08
+Montanatl: calls $0.08
+*** SHOW DOWN ***
+Dansken107: shows [3c 4s] (two pair, Kings and Queens)
+Montanatl: shows [Ah 6h] (two pair, Kings and Queens - Ace kicker)
+Montanatl collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [9c Kd Qh Qc Kc]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 showed [3c 4s] and lost with two pair, Kings and Queens
+Seat 4: strigoi3096 folded on the Turn (didn't bet)
+Seat 5: Montanatl (button) showed [Ah 6h] and won ($0.35) with two pair, Kings and Queens
+Seat 6: Bondz0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240623141400:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:24:31 ET
+Table 'Misa II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.71 in chips) 
+Seat 2: Pechorin.G ($2.75 in chips) 
+Seat 3: Dansken107 ($0.74 in chips) 
+Seat 4: strigoi3096 ($2.30 in chips) 
+Seat 5: Montanatl ($1.60 in chips) 
+Seat 6: Bondz0 ($2.15 in chips) 
+Lorpugo: posts small blind $0.01
+Pechorin.G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Td]
+Dansken107: calls $0.02
+strigoi3096: calls $0.02
+Montanatl: folds 
+Bondz0: folds 
+Lorpugo: calls $0.01
+Pechorin.G: checks 
+*** FLOP *** [Ts 6s 6c]
+Lorpugo: bets $0.04
+Pechorin.G: folds 
+Dansken107: folds 
+strigoi3096: calls $0.04
+*** TURN *** [Ts 6s 6c] [8s]
+Lorpugo: bets $0.12
+strigoi3096: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ts 6s 6c 8s]
+Seat 1: Lorpugo (small blind) collected ($0.15)
+Seat 2: Pechorin.G (big blind) folded on the Flop
+Seat 3: Dansken107 folded on the Flop
+Seat 4: strigoi3096 folded on the Turn
+Seat 5: Montanatl folded before Flop (didn't bet)
+Seat 6: Bondz0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623163627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:25:35 ET
+Table 'Misa II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.80 in chips) 
+Seat 2: Pechorin.G ($2.73 in chips) 
+Seat 3: Dansken107 ($0.72 in chips) 
+Seat 4: strigoi3096 ($2.24 in chips) 
+Seat 5: Montanatl ($1.60 in chips) 
+Seat 6: Bondz0 ($2.15 in chips) 
+Pechorin.G: posts small blind $0.01
+Dansken107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Td]
+strigoi3096: calls $0.02
+Montanatl: calls $0.02
+Bondz0: folds 
+Lorpugo: raises $0.08 to $0.10
+Pechorin.G: calls $0.09
+Dansken107: calls $0.08
+strigoi3096: calls $0.08
+Montanatl: calls $0.08
+*** FLOP *** [Jc 3s Jh]
+Pechorin.G: checks 
+Dansken107: bets $0.16
+strigoi3096: calls $0.16
+Montanatl: calls $0.16
+Lorpugo: raises $1.54 to $1.70 and is all-in
+Pechorin.G: folds 
+Dansken107: calls $0.46 and is all-in
+strigoi3096: calls $1.54
+Montanatl: folds 
+*** TURN *** [Jc 3s Jh] [Ts]
+*** RIVER *** [Jc 3s Jh Ts] [8c]
+*** SHOW DOWN ***
+strigoi3096: shows [Qc Qh] (two pair, Queens and Jacks)
+Lorpugo: shows [Th Td] (a full house, Tens full of Jacks)
+Lorpugo collected $2.09 from side pot
+Dansken107: shows [Jd Tc] (a full house, Jacks full of Tens)
+Dansken107 collected $2.43 from main pot
+strigoi3096 cashed out the hand for $2.19 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $4.68 Main pot $2.43. Side pot $2.09. | Rake $0.16 
+Board [Jc 3s Jh Ts 8c]
+Seat 1: Lorpugo (button) showed [Th Td] and won ($2.09) with a full house, Tens full of Jacks
+Seat 2: Pechorin.G (small blind) folded on the Flop
+Seat 3: Dansken107 (big blind) showed [Jd Tc] and won ($2.43) with a full house, Jacks full of Tens
+Seat 4: strigoi3096 showed [Qc Qh] and lost with two pair, Queens and Jacks (cashed out).
+Seat 5: Montanatl folded on the Flop
+Seat 6: Bondz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623191131:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:26:56 ET
+Table 'Misa II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.09 in chips) 
+Seat 2: Pechorin.G ($2.63 in chips) 
+Seat 3: Dansken107 ($2.43 in chips) 
+Seat 4: strigoi3096 ($2.63 in chips) 
+Seat 5: Montanatl ($1.34 in chips) 
+Seat 6: Bondz0 ($2.15 in chips) 
+Dansken107: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Td]
+Montanatl: calls $0.02
+Bondz0: folds 
+Lorpugo: raises $0.07 to $0.09
+Pechorin.G: folds 
+Dansken107: folds 
+strigoi3096: calls $0.07
+Montanatl: calls $0.07
+*** FLOP *** [7h 4h Th]
+strigoi3096: checks 
+Montanatl: checks 
+Lorpugo: bets $0.32
+strigoi3096: folds 
+Montanatl: calls $0.32
+*** TURN *** [7h 4h Th] [6d]
+Montanatl: checks 
+Lorpugo: bets $1.68 and is all-in
+Montanatl: calls $0.93 and is all-in
+Uncalled bet ($0.75) returned to Lorpugo
+*** RIVER *** [7h 4h Th 6d] [7c]
+*** SHOW DOWN ***
+Montanatl: shows [Ts 8d] (two pair, Tens and Sevens)
+Lorpugo: shows [Jh Td] (two pair, Tens and Sevens - Jack kicker)
+Lorpugo collected $2.68 from pot
+*** SUMMARY ***
+Total pot $2.78 | Rake $0.10 
+Board [7h 4h Th 6d 7c]
+Seat 1: Lorpugo showed [Jh Td] and won ($2.68) with two pair, Tens and Sevens
+Seat 2: Pechorin.G (button) folded before Flop (didn't bet)
+Seat 3: Dansken107 (small blind) folded before Flop
+Seat 4: strigoi3096 (big blind) folded on the Flop
+Seat 5: Montanatl showed [Ts 8d] and lost with two pair, Tens and Sevens
+Seat 6: Bondz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623208933:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:27:47 ET
+Table 'Misa II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.43 in chips) 
+Seat 2: Pechorin.G ($2.63 in chips) 
+Seat 3: Dansken107 ($2.42 in chips) 
+Seat 4: strigoi3096 ($2.54 in chips) 
+Seat 6: Bondz0 ($2.15 in chips) 
+strigoi3096: posts small blind $0.01
+Bondz0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Js]
+Lorpugo: folds 
+Montanatl leaves the table
+Pechorin.G: folds 
+kirill_kub joins the table at seat #5 
+Dansken107: folds 
+strigoi3096: calls $0.01
+Bondz0: checks 
+*** FLOP *** [2s Ks 9s]
+strigoi3096: checks 
+Bondz0: bets $0.02
+strigoi3096: calls $0.02
+*** TURN *** [2s Ks 9s] [8c]
+strigoi3096: checks 
+Bondz0: bets $0.06
+strigoi3096: calls $0.06
+*** RIVER *** [2s Ks 9s 8c] [Kh]
+strigoi3096: checks 
+Bondz0: checks 
+*** SHOW DOWN ***
+strigoi3096: shows [4s 9d] (two pair, Kings and Nines)
+Bondz0: mucks hand 
+strigoi3096 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2s Ks 9s 8c Kh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 (button) folded before Flop (didn't bet)
+Seat 4: strigoi3096 (small blind) showed [4s 9d] and won ($0.19) with two pair, Kings and Nines
+Seat 6: Bondz0 (big blind) mucked [Jd 6s]
+
+
+
+PokerStars Hand #240623225858:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:28:37 ET
+Table 'Misa II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.43 in chips) 
+Seat 2: Pechorin.G ($2.63 in chips) 
+Seat 3: Dansken107 ($2.42 in chips) 
+Seat 4: strigoi3096 ($2.63 in chips) 
+Seat 6: Bondz0 ($2.05 in chips) 
+Bondz0: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5h]
+Pechorin.G: raises $0.04 to $0.06
+Dansken107: folds 
+strigoi3096: calls $0.06
+Bondz0: folds 
+Lorpugo: folds 
+*** FLOP *** [Qc 3s 9h]
+Pechorin.G: checks 
+strigoi3096: checks 
+*** TURN *** [Qc 3s 9h] [3c]
+Pechorin.G: checks 
+strigoi3096: checks 
+*** RIVER *** [Qc 3s 9h 3c] [7d]
+Pechorin.G: checks 
+strigoi3096: checks 
+*** SHOW DOWN ***
+Pechorin.G: shows [8h 8c] (two pair, Eights and Threes)
+strigoi3096: mucks hand 
+Pechorin.G collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qc 3s 9h 3c 7d]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Pechorin.G showed [8h 8c] and won ($0.14) with two pair, Eights and Threes
+Seat 3: Dansken107 folded before Flop (didn't bet)
+Seat 4: strigoi3096 (button) mucked [Kd Ts]
+Seat 6: Bondz0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240623258683:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:30:11 ET
+Table 'Misa II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.41 in chips) 
+Seat 2: Pechorin.G ($2.71 in chips) 
+Seat 3: Dansken107 ($2.42 in chips) 
+Seat 4: strigoi3096 ($2.57 in chips) 
+Seat 6: Bondz0 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+Pechorin.G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ts]
+Dansken107: raises $0.03 to $0.05
+strigoi3096: folds 
+Bondz0: folds 
+Lorpugo: folds 
+Pechorin.G: folds 
+Uncalled bet ($0.03) returned to Dansken107
+Dansken107 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Pechorin.G (big blind) folded before Flop
+Seat 3: Dansken107 collected ($0.05)
+Seat 4: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Bondz0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623264143:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:30:27 ET
+Table 'Misa II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.40 in chips) 
+Seat 2: Pechorin.G ($2.69 in chips) 
+Seat 3: Dansken107 ($2.45 in chips) 
+Seat 4: strigoi3096 ($2.57 in chips) 
+Seat 6: Bondz0 ($2.04 in chips) 
+Pechorin.G: posts small blind $0.01
+Dansken107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ad]
+strigoi3096 has timed out
+strigoi3096: folds 
+Bondz0: folds 
+Lorpugo: raises $0.04 to $0.06
+Pechorin.G: raises $0.18 to $0.24
+Dansken107: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to Pechorin.G
+Pechorin.G collected $0.14 from pot
+Pechorin.G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop
+Seat 2: Pechorin.G (small blind) collected ($0.14)
+Seat 3: Dansken107 (big blind) folded before Flop
+Seat 4: strigoi3096 folded before Flop (didn't bet)
+Seat 6: Bondz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623273382:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:30:53 ET
+Table 'Misa II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.34 in chips) 
+Seat 2: Pechorin.G ($2.77 in chips) 
+Seat 3: Dansken107 ($2.43 in chips) 
+Seat 4: strigoi3096 ($2.57 in chips) 
+Seat 6: Bondz0 ($2.04 in chips) 
+Dansken107: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 3h]
+Bondz0: folds 
+Lorpugo: folds 
+Bondz0 leaves the table
+Pechorin.G: folds 
+Dansken107: calls $0.01
+strigoi3096: checks 
+*** FLOP *** [9c 2h Qc]
+ka3rkm joins the table at seat #6 
+Dansken107: bets $0.04
+strigoi3096: calls $0.04
+*** TURN *** [9c 2h Qc] [6h]
+Dansken107: checks 
+strigoi3096: checks 
+*** RIVER *** [9c 2h Qc 6h] [Th]
+Dansken107: checks 
+strigoi3096: checks 
+*** SHOW DOWN ***
+Dansken107: shows [3d 4d] (high card Queen)
+strigoi3096: shows [6c 4c] (a pair of Sixes)
+strigoi3096 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9c 2h Qc 6h Th]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Pechorin.G (button) folded before Flop (didn't bet)
+Seat 3: Dansken107 (small blind) showed [3d 4d] and lost with high card Queen
+Seat 4: strigoi3096 (big blind) showed [6c 4c] and won ($0.12) with a pair of Sixes
+Seat 6: Bondz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623287301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:31:32 ET
+Table 'Misa II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.34 in chips) 
+Seat 2: Pechorin.G ($2.77 in chips) 
+Seat 3: Dansken107 ($2.37 in chips) 
+Seat 4: strigoi3096 ($2.63 in chips) 
+Seat 5: kirill_kub ($2 in chips) 
+strigoi3096: posts small blind $0.01
+kirill_kub: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4c]
+Lorpugo: folds 
+Pechorin.G: folds 
+Dansken107: raises $0.03 to $0.05
+strigoi3096: calls $0.04
+kirill_kub: folds 
+*** FLOP *** [4d 5c Ks]
+strigoi3096: checks 
+Dansken107: bets $0.06
+strigoi3096: folds 
+Uncalled bet ($0.06) returned to Dansken107
+Dansken107 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4d 5c Ks]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 (button) collected ($0.12)
+Seat 4: strigoi3096 (small blind) folded on the Flop
+Seat 5: kirill_kub (big blind) folded before Flop
+
+
+
+PokerStars Hand #240623299803:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:32:08 ET
+Table 'Misa II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.34 in chips) 
+Seat 2: Pechorin.G ($2.77 in chips) 
+Seat 3: Dansken107 ($2.44 in chips) 
+Seat 4: strigoi3096 ($2.58 in chips) 
+Seat 5: kirill_kub ($2 in chips) 
+Seat 6: ka3rkm ($2 in chips) 
+kirill_kub: posts small blind $0.01
+ka3rkm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4d]
+Lorpugo: raises $0.04 to $0.06
+Pechorin.G: folds 
+Dansken107: calls $0.06
+strigoi3096: folds 
+kirill_kub: folds 
+ka3rkm: folds 
+*** FLOP *** [Kc 2c 3s]
+Lorpugo: bets $0.12
+Dansken107: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kc 2c 3s]
+Seat 1: Lorpugo collected ($0.14)
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 folded on the Flop
+Seat 4: strigoi3096 (button) folded before Flop (didn't bet)
+Seat 5: kirill_kub (small blind) folded before Flop
+Seat 6: ka3rkm (big blind) folded before Flop
+
+
+
+PokerStars Hand #240623321031:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:33:09 ET
+Table 'Misa II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.42 in chips) 
+Seat 2: Pechorin.G ($2.77 in chips) 
+Seat 3: Dansken107 ($2.38 in chips) 
+Seat 4: strigoi3096 ($2.58 in chips) 
+Seat 5: kirill_kub ($2 in chips) 
+Seat 6: ka3rkm ($2 in chips) 
+ka3rkm: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qh]
+Pechorin.G: folds 
+Dansken107: calls $0.02
+strigoi3096: calls $0.02
+kirill_kub: folds 
+ka3rkm: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Qd Td 5d]
+ka3rkm: checks 
+Lorpugo: checks 
+Dansken107: bets $0.06
+strigoi3096: calls $0.06
+ka3rkm: folds 
+Lorpugo: calls $0.06
+*** TURN *** [Qd Td 5d] [As]
+Lorpugo: checks 
+Dansken107: checks 
+strigoi3096: checks 
+*** RIVER *** [Qd Td 5d As] [7s]
+Lorpugo: bets $0.08
+Dansken107: folds 
+strigoi3096: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.25 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Qd Td 5d As 7s]
+Seat 1: Lorpugo (big blind) collected ($0.25)
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 folded on the River
+Seat 4: strigoi3096 folded on the River
+Seat 5: kirill_kub (button) folded before Flop (didn't bet)
+Seat 6: ka3rkm (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240623362193:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:35:05 ET
+Table 'Misa II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.59 in chips) 
+Seat 2: Pechorin.G ($2.77 in chips) 
+Seat 3: Dansken107 ($2.30 in chips) 
+Seat 4: strigoi3096 ($2.50 in chips) 
+Seat 5: kirill_kub ($2 in chips) 
+Seat 6: ka3rkm ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Pechorin.G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6d]
+Dansken107: calls $0.02
+strigoi3096: calls $0.02
+kirill_kub: folds 
+ka3rkm: folds 
+Lorpugo: calls $0.01
+Pechorin.G: checks 
+*** FLOP *** [7s 5d 4d]
+Lorpugo: bets $0.06
+Pechorin.G: calls $0.06
+Dansken107: folds 
+strigoi3096: folds 
+*** TURN *** [7s 5d 4d] [4h]
+Lorpugo: bets $0.14
+Pechorin.G: calls $0.14
+*** RIVER *** [7s 5d 4d 4h] [Jd]
+Lorpugo: bets $0.50
+Pechorin.G: folds 
+Uncalled bet ($0.50) returned to Lorpugo
+Lorpugo collected $0.46 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [7s 5d 4d 4h Jd]
+Seat 1: Lorpugo (small blind) collected ($0.46)
+Seat 2: Pechorin.G (big blind) folded on the River
+Seat 3: Dansken107 folded on the Flop
+Seat 4: strigoi3096 folded on the Flop
+Seat 5: kirill_kub folded before Flop (didn't bet)
+Seat 6: ka3rkm (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623399531:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:36:51 ET
+Table 'Misa II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.83 in chips) 
+Seat 2: Pechorin.G ($2.55 in chips) 
+Seat 3: Dansken107 ($2.28 in chips) 
+Seat 4: strigoi3096 ($2.48 in chips) 
+Seat 5: kirill_kub ($2 in chips) 
+Seat 6: ka3rkm ($2 in chips) 
+Pechorin.G: posts small blind $0.01
+Dansken107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 9h]
+strigoi3096: calls $0.02
+kirill_kub: folds 
+ka3rkm: folds 
+Lorpugo: raises $0.08 to $0.10
+Pechorin.G: folds 
+Dansken107: folds 
+strigoi3096: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.07)
+Seat 2: Pechorin.G (small blind) folded before Flop
+Seat 3: Dansken107 (big blind) folded before Flop
+Seat 4: strigoi3096 folded before Flop
+Seat 5: kirill_kub folded before Flop (didn't bet)
+Seat 6: ka3rkm folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623407828:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:37:15 ET
+Table 'Misa II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.88 in chips) 
+Seat 2: Pechorin.G ($2.54 in chips) 
+Seat 3: Dansken107 ($2.26 in chips) 
+Seat 4: strigoi3096 ($2.46 in chips) 
+Seat 5: kirill_kub ($2 in chips) 
+Seat 6: ka3rkm ($2 in chips) 
+Dansken107: posts small blind $0.01
+strigoi3096: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Kc]
+kirill_kub: folds 
+ka3rkm: folds 
+Lorpugo: raises $0.04 to $0.06
+Pechorin.G: folds 
+Dansken107: folds 
+strigoi3096: calls $0.04
+*** FLOP *** [Jh Qd Ad]
+strigoi3096: checks 
+Lorpugo: bets $0.09
+strigoi3096: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jh Qd Ad]
+Seat 1: Lorpugo collected ($0.13)
+Seat 2: Pechorin.G (button) folded before Flop (didn't bet)
+Seat 3: Dansken107 (small blind) folded before Flop
+Seat 4: strigoi3096 (big blind) folded on the Flop
+Seat 5: kirill_kub folded before Flop (didn't bet)
+Seat 6: ka3rkm folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623424693:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:38:03 ET
+Table 'Misa II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.95 in chips) 
+Seat 2: Pechorin.G ($2.54 in chips) 
+Seat 3: Dansken107 ($2.25 in chips) 
+Seat 4: strigoi3096 ($2.40 in chips) 
+Seat 5: kirill_kub ($2 in chips) 
+Seat 6: ka3rkm ($2 in chips) 
+strigoi3096: posts small blind $0.01
+kirill_kub: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 4d]
+ka3rkm: folds 
+Lorpugo: folds 
+Pechorin.G: folds 
+Dansken107: raises $0.03 to $0.05
+strigoi3096: calls $0.04
+kirill_kub: raises $0.23 to $0.28
+Dansken107: folds 
+strigoi3096: folds 
+Uncalled bet ($0.23) returned to kirill_kub
+kirill_kub collected $0.15 from pot
+kirill_kub: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 (button) folded before Flop
+Seat 4: strigoi3096 (small blind) folded before Flop
+Seat 5: kirill_kub (big blind) collected ($0.15)
+Seat 6: ka3rkm folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240623435073:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 13:38:32 ET
+Table 'Misa II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.95 in chips) 
+Seat 2: Pechorin.G ($2.54 in chips) 
+Seat 3: Dansken107 ($2.20 in chips) 
+Seat 4: strigoi3096 ($2.35 in chips) 
+Seat 5: kirill_kub ($2.10 in chips) 
+Seat 6: ka3rkm ($2 in chips) 
+kirill_kub: posts small blind $0.01
+ka3rkm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Th]
+Lorpugo: raises $0.04 to $0.06
+Pechorin.G: folds 
+Dansken107: calls $0.06
+strigoi3096: folds 
+kirill_kub: folds 
+ka3rkm: calls $0.04
+*** FLOP *** [6d 5c 7c]
+ka3rkm: checks 
+Lorpugo: checks 
+Dansken107: bets $0.12
+ka3rkm: folds 
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to Dansken107
+Dansken107 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6d 5c 7c]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Pechorin.G folded before Flop (didn't bet)
+Seat 3: Dansken107 collected ($0.18)
+Seat 4: strigoi3096 (button) folded before Flop (didn't bet)
+Seat 5: kirill_kub (small blind) folded before Flop
+Seat 6: ka3rkm (big blind) folded on the Flop
+
+
+

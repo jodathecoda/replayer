@@ -1,0 +1,78 @@
+﻿PokerStars Hand #240644862247: Tournament #3519955433, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:01:46 ET
+Table '3519955433 1' 3-max Seat #1 is the button
+Seat 1: NZOldFart (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: Rips16 (500 in chips) 
+Lorpugo: posts small blind 10
+Rips16: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 4h]
+NZOldFart: folds 
+Lorpugo: raises 20 to 40
+Rips16: raises 460 to 500 and is all-in
+Lorpugo: folds 
+Uncalled bet (460) returned to Rips16
+Rips16 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: NZOldFart (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Rips16 (big blind) collected (80)
+
+
+
+PokerStars Hand #240644867253: Tournament #3519955433, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:02:00 ET
+Table '3519955433 1' 3-max Seat #2 is the button
+Seat 1: NZOldFart (500 in chips) 
+Seat 2: Lorpugo (460 in chips) 
+Seat 3: Rips16 (540 in chips) 
+Rips16: posts small blind 10
+NZOldFart: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Tc]
+Lorpugo: raises 40 to 60
+Rips16: folds 
+NZOldFart: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: NZOldFart (big blind) folded before Flop
+Seat 2: Lorpugo (button) collected (50)
+Seat 3: Rips16 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644871471: Tournament #3519955433, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:02:13 ET
+Table '3519955433 1' 3-max Seat #3 is the button
+Seat 1: NZOldFart (480 in chips) 
+Seat 2: Lorpugo (490 in chips) 
+Seat 3: Rips16 (530 in chips) 
+NZOldFart: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Kc]
+Rips16: calls 20
+NZOldFart: folds 
+Lorpugo: raises 50 to 70
+Rips16: raises 460 to 530 and is all-in
+Lorpugo: calls 420 and is all-in
+Uncalled bet (40) returned to Rips16
+*** FLOP *** [7d 2c 6h]
+*** TURN *** [7d 2c 6h] [5s]
+*** RIVER *** [7d 2c 6h 5s] [Ts]
+*** SHOW DOWN ***
+Lorpugo: shows [As Kc] (high card Ace)
+Rips16: shows [Kh Ks] (a pair of Kings)
+Rips16 collected 990 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [7d 2c 6h 5s Ts]
+Seat 1: NZOldFart (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [As Kc] and lost with high card Ace
+Seat 3: Rips16 (button) showed [Kh Ks] and won (990) with a pair of Kings
+
+
+

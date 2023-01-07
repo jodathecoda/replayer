@@ -1,0 +1,2594 @@
+﻿PokerStars Hand #239691005733:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:37:37 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: avtogena ($0.80 in chips) 
+Seat 3: stretch_dct ($2.52 in chips) 
+Seat 4: Dyszka90 ($8.51 in chips) 
+Seat 5: ksen666 ($0.97 in chips) 
+Seat 6: Tillernaks ($6.56 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Kc]
+avtogena: calls $0.02
+stretch_dct: raises $0.06 to $0.08
+Dyszka90: folds 
+ksen666: folds 
+Tillernaks: calls $0.07
+Lorpugo: folds 
+avtogena: calls $0.06
+*** FLOP *** [7c 9d 3d]
+Tillernaks: checks 
+avtogena: bets $0.02
+stretch_dct: calls $0.02
+Tillernaks: folds 
+*** TURN *** [7c 9d 3d] [2h]
+avtogena: bets $0.29
+stretch_dct: folds 
+Uncalled bet ($0.29) returned to avtogena
+avtogena collected $0.29 from pot
+avtogena: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7c 9d 3d 2h]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: avtogena collected ($0.29)
+Seat 3: stretch_dct folded on the Turn
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: ksen666 (button) folded before Flop (didn't bet)
+Seat 6: Tillernaks (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239691025778:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:38:20 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.58 in chips) 
+Seat 2: avtogena ($0.99 in chips) 
+Seat 3: stretch_dct ($2.42 in chips) 
+Seat 4: Dyszka90 ($8.51 in chips) 
+Seat 5: ksen666 ($0.97 in chips) 
+Seat 6: Tillernaks ($6.48 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8c]
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+ksen666: calls $0.06
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: calls $0.04
+*** FLOP *** [5c 2c 4d]
+avtogena: checks 
+Dyszka90: checks 
+ksen666: checks 
+*** TURN *** [5c 2c 4d] [Ah]
+avtogena: checks 
+Dyszka90: bets $0.14
+ksen666: folds 
+avtogena: folds 
+Uncalled bet ($0.14) returned to Dyszka90
+Dyszka90 collected $0.18 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5c 2c 4d Ah]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: avtogena (big blind) folded on the Turn
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 collected ($0.18)
+Seat 5: ksen666 folded on the Turn
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691054422:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:39:22 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: avtogena ($0.93 in chips) 
+Seat 3: stretch_dct ($2.42 in chips) 
+Seat 4: Dyszka90 ($8.63 in chips) 
+Seat 5: ksen666 ($0.91 in chips) 
+Seat 6: Tillernaks ($6.48 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4c]
+Dyszka90: folds 
+ksen666: folds 
+Tillernaks: raises $0.04 to $0.06
+Lorpugo: folds 
+avtogena: raises $0.12 to $0.18
+stretch_dct: folds 
+Tillernaks: calls $0.12
+*** FLOP *** [Jc Ac 3d]
+avtogena: bets $0.37
+Tillernaks: calls $0.37
+*** TURN *** [Jc Ac 3d] [Js]
+avtogena: bets $0.38 and is all-in
+Tillernaks: calls $0.38
+*** RIVER *** [Jc Ac 3d Js] [8d]
+*** SHOW DOWN ***
+avtogena: shows [Ad Kh] (two pair, Aces and Jacks)
+Tillernaks: shows [5h Ah] (two pair, Aces and Jacks - lower kicker)
+avtogena cashed out the hand for $1.73 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $1.88 | Rake $0.07 
+Board [Jc Ac 3d Js 8d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: avtogena (small blind) showed [Ad Kh] and won ($1.81) with two pair, Aces and Jacks (pot not awarded as player cashed out)
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: ksen666 folded before Flop (didn't bet)
+Seat 6: Tillernaks showed [5h Ah] and lost with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #239691080485:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:40:18 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: avtogena ($1.73 in chips) 
+Seat 3: stretch_dct ($2.40 in chips) 
+Seat 5: ksen666 ($0.91 in chips) 
+Seat 6: Tillernaks ($5.55 in chips) 
+stretch_dct: posts small blind $0.01
+ksen666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c As]
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: folds 
+stretch_dct: folds 
+ksen666: calls $0.04
+*** FLOP *** [2h 2s Js]
+ksen666: checks 
+Lorpugo: bets $0.09
+ksen666: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2h 2s Js]
+Seat 1: Lorpugo collected ($0.13)
+Seat 2: avtogena (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 5: ksen666 (big blind) folded on the Flop
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691091209:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:40:41 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.64 in chips) 
+Seat 2: avtogena ($1.73 in chips) 
+Seat 3: stretch_dct ($2.39 in chips) 
+Seat 5: ksen666 ($0.85 in chips) 
+Seat 6: Tillernaks ($5.55 in chips) 
+ksen666: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 3s]
+Lorpugo: raises $0.04 to $0.06
+avtogena: folds 
+stretch_dct: folds 
+ksen666: calls $0.05
+Tillernaks: calls $0.04
+*** FLOP *** [Ad 2d As]
+ksen666: checks 
+Tillernaks: checks 
+Lorpugo: bets $0.11
+ksen666: calls $0.11
+Tillernaks: folds 
+*** TURN *** [Ad 2d As] [Td]
+ksen666: checks 
+Lorpugo: bets $0.26
+ksen666: calls $0.26
+*** RIVER *** [Ad 2d As Td] [Ah]
+ksen666: checks 
+Lorpugo: bets $1.21 and is all-in
+ksen666: calls $0.42 and is all-in
+Uncalled bet ($0.79) returned to Lorpugo
+*** SHOW DOWN ***
+Lorpugo: shows [3d 3s] (a full house, Aces full of Threes)
+ksen666: shows [4d 6d] (a flush, Ace high)
+Lorpugo collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.06 
+Board [Ad 2d As Td Ah]
+Seat 1: Lorpugo showed [3d 3s] and won ($1.70) with a full house, Aces full of Threes
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 5: ksen666 (small blind) showed [4d 6d] and lost with a flush, Ace high
+Seat 6: Tillernaks (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239691114719:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:41:32 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.49 in chips) 
+Seat 2: avtogena ($1.73 in chips) 
+Seat 3: stretch_dct ($2.39 in chips) 
+Seat 6: Tillernaks ($5.49 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2c]
+stretch_dct: folds 
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.04)
+Seat 2: avtogena (big blind) folded before Flop
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691121707:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:41:47 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.51 in chips) 
+Seat 2: avtogena ($1.71 in chips) 
+Seat 3: stretch_dct ($2.39 in chips) 
+Seat 6: Tillernaks ($5.49 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6s]
+Tillernaks: raises $0.04 to $0.06
+Lorpugo: folds 
+avtogena: calls $0.05
+stretch_dct: folds 
+*** FLOP *** [2c 5h 8h]
+avtogena: checks 
+Tillernaks: bets $0.08
+avtogena: calls $0.08
+*** TURN *** [2c 5h 8h] [Th]
+ksen666 leaves the table
+avtogena: checks 
+Basílico joins the table at seat #5 
+Tillernaks: checks 
+*** RIVER *** [2c 5h 8h Th] [Kc]
+avtogena: checks 
+Tillernaks: checks 
+*** SHOW DOWN ***
+avtogena: shows [Ah Jc] (high card Ace)
+Tillernaks: shows [7h 7s] (a pair of Sevens)
+Tillernaks collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2c 5h 8h Th Kc]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: avtogena (small blind) showed [Ah Jc] and lost with high card Ace
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 6: Tillernaks showed [7h 7s] and won ($0.29) with a pair of Sevens
+
+
+
+PokerStars Hand #239691140224:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:42:27 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.51 in chips) 
+Seat 2: avtogena ($1.57 in chips) 
+Seat 3: stretch_dct ($2.37 in chips) 
+Seat 5: Basílico ($1.60 in chips) 
+Seat 6: Tillernaks ($5.64 in chips) 
+stretch_dct: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Qh]
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: calls $0.06
+stretch_dct: folds 
+Basílico: folds 
+*** FLOP *** [2c 8s 5s]
+Lorpugo: bets $0.09
+avtogena: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 8s 5s]
+Seat 1: Lorpugo collected ($0.14)
+Seat 2: avtogena (button) folded on the Flop
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 5: Basílico (big blind) folded before Flop
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691154030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:42:56 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.59 in chips) 
+Seat 2: avtogena ($1.51 in chips) 
+Seat 3: stretch_dct ($2.36 in chips) 
+Seat 5: Basílico ($1.58 in chips) 
+Seat 6: Tillernaks ($5.64 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 3h]
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: raises $0.03 to $0.05
+Basílico: raises $0.05 to $0.10
+Tillernaks: calls $0.08
+stretch_dct: folds 
+*** FLOP *** [9c 6d 8h]
+Basílico: bets $0.06
+Tillernaks: raises $0.16 to $0.22
+Basílico: calls $0.16
+*** TURN *** [9c 6d 8h] [7c]
+Basílico: bets $0.08
+Tillernaks: raises $5.24 to $5.32 and is all-in
+Basílico: folds 
+Uncalled bet ($5.24) returned to Tillernaks
+Tillernaks collected $0.82 from pot
+Tillernaks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [9c 6d 8h 7c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop
+Seat 5: Basílico (small blind) folded on the Turn
+Seat 6: Tillernaks (big blind) collected ($0.82)
+
+
+
+PokerStars Hand #239691175153:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:43:42 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.59 in chips) 
+Seat 2: avtogena ($1.51 in chips) 
+Seat 3: stretch_dct ($2.31 in chips) 
+Seat 5: Basílico ($1.18 in chips) 
+Seat 6: Tillernaks ($6.06 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 4s]
+avtogena: folds 
+stretch_dct: folds 
+Basílico: calls $0.02
+Tillernaks: folds 
+Lorpugo: checks 
+*** FLOP *** [7d 2d 5h]
+Lorpugo: checks 
+Basílico: checks 
+*** TURN *** [7d 2d 5h] [Td]
+Lorpugo: checks 
+Basílico: checks 
+*** RIVER *** [7d 2d 5h Td] [Th]
+Lorpugo: checks 
+Basílico: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [8h 4s] (a pair of Tens)
+Basílico: shows [Ks 6s] (a pair of Tens - King kicker)
+Basílico collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7d 2d 5h Td Th]
+Seat 1: Lorpugo (big blind) showed [8h 4s] and lost with a pair of Tens
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 5: Basílico (button) showed [Ks 6s] and won ($0.05) with a pair of Tens
+Seat 6: Tillernaks (small blind) folded before Flop
+
+
+
+PokerStars Hand #239691189808:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:44:14 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.57 in chips) 
+Seat 2: avtogena ($1.51 in chips) 
+Seat 3: stretch_dct ($2.31 in chips) 
+Seat 5: Basílico ($1.21 in chips) 
+Seat 6: Tillernaks ($6.05 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 2c]
+stretch_dct: folds 
+Basílico: raises $0.06 to $0.08
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: folds 
+Uncalled bet ($0.06) returned to Basílico
+Basílico collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: avtogena (big blind) folded before Flop
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 5: Basílico collected ($0.05)
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691196706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:44:29 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.56 in chips) 
+Seat 2: avtogena ($1.49 in chips) 
+Seat 3: stretch_dct ($2.31 in chips) 
+Seat 5: Basílico ($1.24 in chips) 
+Seat 6: Tillernaks ($6.05 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jd]
+Basílico: raises $0.06 to $0.08
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Uncalled bet ($0.06) returned to Basílico
+Basílico collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: avtogena (small blind) folded before Flop
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 5: Basílico collected ($0.05)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691202927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:44:42 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.56 in chips) 
+Seat 2: avtogena ($1.48 in chips) 
+Seat 3: stretch_dct ($2.29 in chips) 
+Seat 5: Basílico ($1.27 in chips) 
+Seat 6: Tillernaks ($6.05 in chips) 
+stretch_dct: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ac]
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: calls $0.06
+stretch_dct: folds 
+Basílico: calls $0.04
+*** FLOP *** [3h 2s 5h]
+Basílico: checks 
+Lorpugo: bets $0.06
+avtogena: calls $0.06
+Basílico: calls $0.06
+*** TURN *** [3h 2s 5h] [7h]
+Basílico: checks 
+Lorpugo: checks 
+avtogena: checks 
+*** RIVER *** [3h 2s 5h 7h] [8h]
+Basílico: bets $0.08
+Lorpugo: calls $0.08
+avtogena: folds 
+*** SHOW DOWN ***
+Basílico: shows [Kh Qh] (a flush, King high)
+Lorpugo: mucks hand 
+Basílico collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [3h 2s 5h 7h 8h]
+Seat 1: Lorpugo mucked [6h Ac]
+Seat 2: avtogena (button) folded on the River
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 5: Basílico (big blind) showed [Kh Qh] and won ($0.51) with a flush, King high
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691227845:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:45:35 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: avtogena ($1.36 in chips) 
+Seat 3: stretch_dct ($2.28 in chips) 
+Seat 5: Basílico ($1.58 in chips) 
+Seat 6: Tillernaks ($6.05 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 9s]
+Lorpugo: raises $0.04 to $0.06
+avtogena: folds 
+stretch_dct: folds 
+Basílico: folds 
+Tillernaks: calls $0.04
+*** FLOP *** [Th Tc 2d]
+Tillernaks: checks 
+Lorpugo: bets $0.09
+Tillernaks: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th Tc 2d]
+Seat 1: Lorpugo collected ($0.13)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 5: Basílico (small blind) folded before Flop
+Seat 6: Tillernaks (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239691245251:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:46:13 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.43 in chips) 
+Seat 2: avtogena ($1.36 in chips) 
+Seat 3: stretch_dct ($2.28 in chips) 
+Seat 5: Basílico ($1.57 in chips) 
+Seat 6: Tillernaks ($5.99 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2s]
+avtogena: folds 
+stretch_dct: folds 
+Basílico: raises $0.06 to $0.08
+Tillernaks: folds 
+Lorpugo: calls $0.06
+*** FLOP *** [Tc 4s Jh]
+Lorpugo: checks 
+Basílico: bets $0.08
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Basílico
+Basílico collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Tc 4s Jh]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 5: Basílico (button) collected ($0.16)
+Seat 6: Tillernaks (small blind) folded before Flop
+
+
+
+PokerStars Hand #239691262161:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:46:49 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.35 in chips) 
+Seat 2: avtogena ($1.36 in chips) 
+Seat 3: stretch_dct ($2.28 in chips) 
+Seat 5: Basílico ($1.65 in chips) 
+Seat 6: Tillernaks ($5.98 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+Dyszka90: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5d]
+stretch_dct: folds 
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: calls $0.04
+*** FLOP *** [9d 3c 7s]
+Lorpugo: bets $0.08
+avtogena: calls $0.08
+*** TURN *** [9d 3c 7s] [9c]
+Lorpugo: checks 
+avtogena: bets $0.27
+Lorpugo: raises $0.41 to $0.68
+avtogena: folds 
+Uncalled bet ($0.41) returned to Lorpugo
+Lorpugo collected $0.79 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [9d 3c 7s 9c]
+Seat 1: Lorpugo (small blind) collected ($0.79)
+Seat 2: avtogena (big blind) folded on the Turn
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691278209:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:47:24 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.73 in chips) 
+Seat 2: avtogena ($0.95 in chips) 
+Seat 3: stretch_dct ($2.28 in chips) 
+Seat 5: Basílico ($1.65 in chips) 
+Seat 6: Tillernaks ($5.98 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+Dyszka90: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9h]
+Basílico: raises $0.06 to $0.08
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Uncalled bet ($0.06) returned to Basílico
+Basílico collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: avtogena (small blind) folded before Flop
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 5: Basílico collected ($0.05)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691285151:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:47:39 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.73 in chips) 
+Seat 2: avtogena ($0.94 in chips) 
+Seat 3: stretch_dct ($2.26 in chips) 
+Seat 4: Dyszka90 ($8.63 in chips) 
+Seat 5: Basílico ($1.68 in chips) 
+Seat 6: Tillernaks ($5.98 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2h]
+Basílico: calls $0.02
+Tillernaks: raises $0.08 to $0.10
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: calls $0.08
+Basílico: calls $0.08
+*** FLOP *** [6c Qh Ts]
+Dyszka90: checks 
+Basílico: checks 
+Tillernaks: checks 
+*** TURN *** [6c Qh Ts] [5h]
+Dyszka90: bets $0.23
+Basílico: calls $0.23
+Tillernaks: folds 
+*** RIVER *** [6c Qh Ts 5h] [5c]
+Dyszka90: bets $0.56
+Basílico: calls $0.56
+*** SHOW DOWN ***
+Dyszka90: shows [Qc Ac] (two pair, Queens and Fives)
+Basílico: mucks hand 
+Dyszka90 collected $1.82 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.07 
+Board [6c Qh Ts 5h 5c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) showed [Qc Ac] and won ($1.82) with two pair, Queens and Fives
+Seat 5: Basílico mucked [As Th]
+Seat 6: Tillernaks folded on the Turn
+
+
+
+PokerStars Hand #239691313498:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:48:40 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.73 in chips) 
+Seat 2: avtogena ($0.94 in chips) 
+Seat 3: stretch_dct ($2.25 in chips) 
+Seat 4: Dyszka90 ($9.56 in chips) 
+Seat 5: Basílico ($0.79 in chips) 
+Seat 6: Tillernaks ($5.88 in chips) 
+Dyszka90: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 4h]
+Tillernaks: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: folds 
+Basílico: folds 
+*** FLOP *** [5c 6s 9s]
+Tillernaks: bets $0.08
+Lorpugo: calls $0.08
+*** TURN *** [5c 6s 9s] [Js]
+Tillernaks: checks 
+Lorpugo: checks 
+*** RIVER *** [5c 6s 9s Js] [3c]
+Tillernaks: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Tillernaks: shows [Kc 6c] (a pair of Sixes)
+Lorpugo: mucks hand 
+Tillernaks collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [5c 6s 9s Js 3c]
+Seat 1: Lorpugo mucked [4d 4h]
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 4: Dyszka90 (small blind) folded before Flop
+Seat 5: Basílico (big blind) folded before Flop
+Seat 6: Tillernaks showed [Kc 6c] and won ($0.30) with a pair of Sixes
+
+
+
+PokerStars Hand #239691329380:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:49:15 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.59 in chips) 
+Seat 2: avtogena ($0.94 in chips) 
+Seat 3: stretch_dct ($2.25 in chips) 
+Seat 4: Dyszka90 ($9.55 in chips) 
+Seat 5: Basílico ($0.77 in chips) 
+Seat 6: Tillernaks ($6.04 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2h]
+Lorpugo: folds 
+avtogena: raises $0.02 to $0.04
+stretch_dct: folds 
+Dyszka90: raises $0.08 to $0.12
+Basílico: folds 
+Tillernaks: calls $0.10
+avtogena: calls $0.08
+*** FLOP *** [4c Js 4h]
+Tillernaks: checks 
+avtogena: checks 
+Dyszka90: checks 
+*** TURN *** [4c Js 4h] [Jd]
+Tillernaks: checks 
+avtogena: checks 
+Dyszka90: bets $0.04
+Tillernaks: folds 
+avtogena: raises $0.40 to $0.44
+Dyszka90: calls $0.40
+*** RIVER *** [4c Js 4h Jd] [5s]
+avtogena: bets $0.38 and is all-in
+Dyszka90: calls $0.38
+*** SHOW DOWN ***
+avtogena: shows [Jh Kd] (a full house, Jacks full of Fours)
+Dyszka90: shows [7c 7d] (two pair, Jacks and Sevens)
+avtogena collected $1.94 from pot
+*** SUMMARY ***
+Total pot $2.01 | Rake $0.07 
+Board [4c Js 4h Jd 5s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena showed [Jh Kd] and won ($1.94) with a full house, Jacks full of Fours
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) showed [7c 7d] and lost with two pair, Jacks and Sevens
+Seat 5: Basílico (small blind) folded before Flop
+Seat 6: Tillernaks (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239691369946:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:50:43 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.59 in chips) 
+Seat 2: avtogena ($1.94 in chips) 
+Seat 3: stretch_dct ($2.25 in chips) 
+Seat 4: Dyszka90 ($8.61 in chips) 
+Seat 5: Basílico ($0.76 in chips) 
+Seat 6: Tillernaks ($5.92 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h As]
+avtogena: raises $0.02 to $0.04
+stretch_dct: folds 
+Dyszka90: folds 
+Basílico: calls $0.04
+Tillernaks: raises $0.24 to $0.28
+Lorpugo: folds 
+avtogena: folds 
+Basílico: folds 
+Uncalled bet ($0.24) returned to Tillernaks
+Tillernaks collected $0.14 from pot
+Tillernaks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: avtogena folded before Flop
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico (button) folded before Flop
+Seat 6: Tillernaks (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #239691379069:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:51:03 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.57 in chips) 
+Seat 2: avtogena ($1.90 in chips) 
+Seat 3: stretch_dct ($2.25 in chips) 
+Seat 4: Dyszka90 ($8.61 in chips) 
+Seat 5: Basílico ($0.72 in chips) 
+Seat 6: Tillernaks ($6.02 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9h]
+stretch_dct: folds 
+Dyszka90: folds 
+Basílico: raises $0.10 to $0.12
+Tillernaks: folds 
+Lorpugo: calls $0.11
+avtogena: folds 
+*** FLOP *** [Qs Kd Jd]
+Lorpugo: checks 
+Basílico: bets $0.10
+Lorpugo: raises $2.35 to $2.45 and is all-in
+Basílico: folds 
+Uncalled bet ($2.35) returned to Lorpugo
+Lorpugo collected $0.44 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Qs Kd Jd]
+Seat 1: Lorpugo (small blind) collected ($0.44)
+Seat 2: avtogena (big blind) folded before Flop
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico folded on the Flop
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691399428:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:51:48 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: avtogena ($1.88 in chips) 
+Seat 3: stretch_dct ($2.25 in chips) 
+Seat 4: Dyszka90 ($8.61 in chips) 
+Seat 5: Basílico ($0.50 in chips) 
+Seat 6: Tillernaks ($6.02 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Kd]
+Dyszka90: raises $0.04 to $0.06
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: calls $0.05
+stretch_dct: calls $0.04
+*** FLOP *** [2s Ks 8s]
+avtogena: checks 
+stretch_dct: checks 
+Dyszka90: bets $0.02
+avtogena: folds 
+stretch_dct: folds 
+Uncalled bet ($0.02) returned to Dyszka90
+Dyszka90 collected $0.17 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [2s Ks 8s]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: avtogena (small blind) folded on the Flop
+Seat 3: stretch_dct (big blind) folded on the Flop
+Seat 4: Dyszka90 collected ($0.17)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691420871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:52:36 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: avtogena ($1.82 in chips) 
+Seat 3: stretch_dct ($2.19 in chips) 
+Seat 4: Dyszka90 ($8.72 in chips) 
+Seat 5: Basílico ($0.50 in chips) 
+Seat 6: Tillernaks ($6.02 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 4s]
+Basílico: raises $0.48 to $0.50 and is all-in
+Tillernaks: calls $0.50
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: calls $0.48
+*** FLOP *** [6d Jh 2c]
+Dyszka90: bets $0.15
+Tillernaks: calls $0.15
+*** TURN *** [6d Jh 2c] [9d]
+Dyszka90: bets $1.31
+Tillernaks: calls $1.31
+*** RIVER *** [6d Jh 2c 9d] [8h]
+Dyszka90: bets $6.76 and is all-in
+Tillernaks: calls $4.06 and is all-in
+Uncalled bet ($2.70) returned to Dyszka90
+*** SHOW DOWN ***
+Dyszka90: shows [9h 9c] (three of a kind, Nines)
+Tillernaks: shows [8d 8s] (three of a kind, Eights)
+Dyszka90 collected $10.79 from side pot
+Basílico: shows [Ac Kh] (high card Ace)
+Dyszka90 collected $1.46 from main pot
+*** SUMMARY ***
+Total pot $12.55 Main pot $1.46. Side pot $10.79. | Rake $0.30 
+Board [6d Jh 2c 9d 8h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) showed [9h 9c] and won ($12.25) with three of a kind, Nines
+Seat 5: Basílico showed [Ac Kh] and lost with high card Ace
+Seat 6: Tillernaks showed [8d 8s] and lost with three of a kind, Eights
+
+
+
+PokerStars Hand #239691438542:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:53:15 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: avtogena ($1.82 in chips) 
+Seat 3: stretch_dct ($2.18 in chips) 
+Seat 4: Dyszka90 ($14.95 in chips) 
+Seat 6: Tillernaks ($2 in chips) 
+Dyszka90: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ts]
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.03 to $0.05
+Tillernaks: calls $0.03
+*** FLOP *** [8s 7d Js]
+Dyszka90: bets $0.02
+Tillernaks: calls $0.02
+*** TURN *** [8s 7d Js] [9s]
+Dyszka90: checks 
+Tillernaks: bets $0.14
+Dyszka90: folds 
+Uncalled bet ($0.14) returned to Tillernaks
+Tillernaks collected $0.14 from pot
+Tillernaks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8s 7d Js 9s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 4: Dyszka90 (small blind) folded on the Turn
+Seat 6: Tillernaks (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #239691456208:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:53:54 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: avtogena ($1.82 in chips) 
+Seat 3: stretch_dct ($2.18 in chips) 
+Seat 4: Dyszka90 ($14.88 in chips) 
+Seat 6: Tillernaks ($2.07 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 6s]
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: folds 
+Tillernaks: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (big blind) collected ($0.02)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) folded before Flop (didn't bet)
+Seat 6: Tillernaks (small blind) folded before Flop
+
+
+
+PokerStars Hand #239691462572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:54:08 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.80 in chips) 
+Seat 2: avtogena ($1.82 in chips) 
+Seat 3: stretch_dct ($2.18 in chips) 
+Seat 4: Dyszka90 ($14.88 in chips) 
+Seat 5: Basílico ($2 in chips) 
+Seat 6: Tillernaks ($2.06 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+Basílico: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3c]
+stretch_dct: folds 
+Dyszka90: raises $0.06 to $0.08
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: calls $0.06
+*** FLOP *** [4c Ad 2d]
+avtogena: checks 
+Dyszka90: checks 
+*** TURN *** [4c Ad 2d] [Qh]
+avtogena: checks 
+Dyszka90: bets $0.14
+avtogena: folds 
+Uncalled bet ($0.14) returned to Dyszka90
+Dyszka90 collected $0.19 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4c Ad 2d Qh]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: avtogena (big blind) folded on the Turn
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 collected ($0.19)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691486327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:55:00 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: avtogena ($1.74 in chips) 
+Seat 3: stretch_dct ($2.18 in chips) 
+Seat 4: Dyszka90 ($14.99 in chips) 
+Seat 5: Basílico ($1.97 in chips) 
+Seat 6: Tillernaks ($2.06 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jh]
+Dyszka90: folds 
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: calls $0.05
+stretch_dct: folds 
+*** FLOP *** [Th 4d Td]
+avtogena: checks 
+Lorpugo: bets $0.07
+avtogena: raises $0.07 to $0.14
+Lorpugo: calls $0.07
+*** TURN *** [Th 4d Td] [8c]
+avtogena: checks 
+Lorpugo: bets $0.30
+avtogena: folds 
+Uncalled bet ($0.30) returned to Lorpugo
+Lorpugo collected $0.41 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Th 4d Td 8c]
+Seat 1: Lorpugo (button) collected ($0.41)
+Seat 2: avtogena (small blind) folded on the Turn
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691501387:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:55:54 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3 in chips) 
+Seat 2: avtogena ($1.54 in chips) 
+Seat 3: stretch_dct ($2.16 in chips) 
+Seat 4: Dyszka90 ($14.99 in chips) 
+Seat 5: Basílico ($1.97 in chips) 
+Seat 6: Tillernaks ($2.06 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4s]
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: raises $0.03 to $0.05
+stretch_dct: folds 
+Dyszka90: raises $0.08 to $0.13
+avtogena: calls $0.08
+*** FLOP *** [Ad Ah 4h]
+Dyszka90: bets $0.03
+avtogena: calls $0.03
+*** TURN *** [Ad Ah 4h] [Qs]
+Dyszka90: bets $0.24
+avtogena: folds 
+Uncalled bet ($0.24) returned to Dyszka90
+Dyszka90 collected $0.32 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ad Ah 4h Qs]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena (button) folded on the Turn
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) collected ($0.32)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691517554:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:56:53 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3 in chips) 
+Seat 2: avtogena ($1.38 in chips) 
+Seat 3: stretch_dct ($2.15 in chips) 
+Seat 4: Dyszka90 ($15.15 in chips) 
+Seat 6: Tillernaks ($2.06 in chips) 
+Dyszka90: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Tc]
+Lorpugo: raises $0.04 to $0.06
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: folds 
+Tillernaks: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 4: Dyszka90 (small blind) folded before Flop
+Seat 6: Tillernaks (big blind) folded before Flop
+
+
+
+PokerStars Hand #239691524860:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:57:20 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.03 in chips) 
+Seat 2: avtogena ($1.38 in chips) 
+Seat 3: stretch_dct ($2.15 in chips) 
+Seat 4: Dyszka90 ($15.14 in chips) 
+Seat 6: Tillernaks ($2.04 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Qc]
+avtogena: raises $0.02 to $0.04
+stretch_dct: folds 
+Dyszka90: calls $0.04
+Tillernaks: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [8s 2c 7h]
+Lorpugo: checks 
+avtogena: checks 
+Dyszka90: checks 
+*** TURN *** [8s 2c 7h] [9c]
+Lorpugo: checks 
+avtogena: checks 
+Dyszka90: checks 
+*** RIVER *** [8s 2c 7h 9c] [Ks]
+Lorpugo: bets $0.13
+avtogena: folds 
+Dyszka90: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8s 2c 7h 9c Ks]
+Seat 1: Lorpugo (big blind) collected ($0.13)
+Seat 2: avtogena folded on the River
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) folded on the River
+Seat 6: Tillernaks (small blind) folded before Flop
+
+
+
+PokerStars Hand #239691553459:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 12:59:03 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.12 in chips) 
+Seat 2: avtogena ($1.34 in chips) 
+Seat 3: stretch_dct ($2.15 in chips) 
+Seat 4: Dyszka90 ($15.10 in chips) 
+Seat 5: Basílico ($1.97 in chips) 
+Seat 6: Tillernaks ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+Basílico: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Js]
+stretch_dct: raises $0.06 to $0.08
+Dyszka90: folds 
+Basílico: calls $0.06
+Tillernaks: calls $0.08
+Lorpugo: folds 
+avtogena: calls $0.06
+*** FLOP *** [Jd Qs 3h]
+avtogena: checks 
+stretch_dct: bets $0.11
+Basílico: calls $0.11
+Tillernaks: folds 
+avtogena: calls $0.11
+*** TURN *** [Jd Qs 3h] [9h]
+avtogena: checks 
+stretch_dct: checks 
+Basílico: bets $0.32
+avtogena: calls $0.32
+stretch_dct: calls $0.32
+*** RIVER *** [Jd Qs 3h 9h] [5s]
+avtogena: checks 
+stretch_dct: checks 
+Basílico: bets $0.78
+avtogena: folds 
+stretch_dct: folds 
+Uncalled bet ($0.78) returned to Basílico
+Basílico collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [Jd Qs 3h 9h 5s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: avtogena (big blind) folded on the River
+Seat 3: stretch_dct folded on the River
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico collected ($1.57)
+Seat 6: Tillernaks (button) folded on the Flop
+
+
+
+PokerStars Hand #239691576388:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:00:21 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.11 in chips) 
+Seat 2: avtogena ($0.83 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($15.10 in chips) 
+Seat 5: Basílico ($3.02 in chips) 
+Seat 6: Tillernaks ($2 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5s]
+Dyszka90: folds 
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: raises $0.03 to $0.05
+stretch_dct: calls $0.03
+*** FLOP *** [Th Kd Qc]
+avtogena: bets $0.05
+stretch_dct: calls $0.05
+*** TURN *** [Th Kd Qc] [9d]
+avtogena: checks 
+stretch_dct: checks 
+*** RIVER *** [Th Kd Qc 9d] [2s]
+avtogena: checks 
+stretch_dct: checks 
+*** SHOW DOWN ***
+avtogena: shows [Ah 3d] (high card Ace)
+stretch_dct: shows [6c Ad] (high card Ace)
+avtogena collected $0.10 from pot
+stretch_dct collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Th Kd Qc 9d 2s]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: avtogena (small blind) showed [Ah 3d] and won ($0.10) with high card Ace
+Seat 3: stretch_dct (big blind) showed [6c Ad] and won ($0.09) with high card Ace
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691591204:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:01:05 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.11 in chips) 
+Seat 2: avtogena ($0.83 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($15.10 in chips) 
+Seat 5: Basílico ($3.02 in chips) 
+Seat 6: Tillernaks ($2 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 9d]
+Basílico: calls $0.02
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: calls $0.04
+Basílico: calls $0.04
+*** FLOP *** [3c Jc 5s]
+Dyszka90: checks 
+Basílico: bets $0.09
+Lorpugo: folds 
+Dyszka90: raises $0.09 to $0.18
+Basílico: calls $0.09
+*** TURN *** [3c Jc 5s] [Ac]
+Dyszka90: bets $0.40
+Basílico: calls $0.40
+*** RIVER *** [3c Jc 5s Ac] [Qd]
+Dyszka90: checks 
+Basílico: checks 
+*** SHOW DOWN ***
+Dyszka90: shows [2h 6d] (high card Ace)
+Basílico: shows [5c 5h] (three of a kind, Fives)
+Basílico collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [3c Jc 5s Ac Qd]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: avtogena (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) showed [2h 6d] and lost with high card Ace
+Seat 5: Basílico showed [5c 5h] and won ($1.30) with three of a kind, Fives
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691620780:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:02:19 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.05 in chips) 
+Seat 2: avtogena ($0.83 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.46 in chips) 
+Seat 5: Basílico ($3.68 in chips) 
+Seat 6: Tillernaks ($2 in chips) 
+Dyszka90: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 8d]
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: raises $0.03 to $0.05
+Dyszka90: folds 
+Basílico: calls $0.03
+*** FLOP *** [3s 3c 5s]
+Basílico: checks 
+stretch_dct: checks 
+*** TURN *** [3s 3c 5s] [7h]
+Basílico: bets $0.11
+stretch_dct: folds 
+Uncalled bet ($0.11) returned to Basílico
+Basílico collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3s 3c 5s 7h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded on the Turn
+Seat 4: Dyszka90 (small blind) folded before Flop
+Seat 5: Basílico (big blind) collected ($0.11)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691633088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:02:46 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.05 in chips) 
+Seat 2: avtogena ($0.83 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.45 in chips) 
+Seat 5: Basílico ($3.74 in chips) 
+Seat 6: Tillernaks ($2 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 7d]
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+Basílico: raises $0.08 to $0.14
+Tillernaks: raises $1.86 to $2 and is all-in
+Dyszka90: folds 
+Basílico: calls $1.86
+*** FLOP *** [5c 2d Ts]
+*** TURN *** [5c 2d Ts] [Ks]
+*** RIVER *** [5c 2d Ts Ks] [Jh]
+*** SHOW DOWN ***
+Basílico: shows [Qc Qh] (a pair of Queens)
+Tillernaks: shows [Ac Kc] (a pair of Kings)
+Tillernaks collected $3.92 from pot
+*** SUMMARY ***
+Total pot $4.06 | Rake $0.14 
+Board [5c 2d Ts Ks Jh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) folded before Flop
+Seat 5: Basílico (small blind) showed [Qc Qh] and lost with a pair of Queens
+Seat 6: Tillernaks (big blind) showed [Ac Kc] and won ($3.92) with a pair of Kings
+
+
+
+PokerStars Hand #239691651224:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:03:24 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.05 in chips) 
+Seat 2: avtogena ($0.83 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.39 in chips) 
+Seat 5: Basílico ($1.74 in chips) 
+Seat 6: Tillernaks ($3.92 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6s]
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: folds 
+Basílico: calls $0.02
+Tillernaks: folds 
+Lorpugo: checks 
+*** FLOP *** [7h As 4d]
+Lorpugo: checks 
+Basílico: checks 
+*** TURN *** [7h As 4d] [6c]
+Lorpugo: bets $0.02
+Basílico: raises $0.09 to $0.11
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to Basílico
+Basílico collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7h As 4d 6c]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico (button) collected ($0.09)
+Seat 6: Tillernaks (small blind) folded before Flop
+
+
+
+PokerStars Hand #239691665473:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:03:55 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.01 in chips) 
+Seat 2: avtogena ($0.83 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.39 in chips) 
+Seat 5: Basílico ($1.79 in chips) 
+Seat 6: Tillernaks ($3.91 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5h]
+stretch_dct: raises $0.04 to $0.06
+Dyszka90: folds 
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+avtogena: folds 
+Uncalled bet ($0.04) returned to stretch_dct
+stretch_dct collected $0.05 from pot
+stretch_dct: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: avtogena (big blind) folded before Flop
+Seat 3: stretch_dct collected ($0.05)
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691672380:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:04:10 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3 in chips) 
+Seat 2: avtogena ($0.81 in chips) 
+Seat 3: stretch_dct ($2.03 in chips) 
+Seat 4: Dyszka90 ($14.39 in chips) 
+Seat 5: Basílico ($1.79 in chips) 
+Seat 6: Tillernaks ($3.91 in chips) 
+avtogena: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 7s]
+Dyszka90: folds 
+Basílico: raises $0.10 to $0.12
+Tillernaks: calls $0.12
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+*** FLOP *** [4s 9d 7h]
+Basílico: bets $0.10
+Tillernaks: folds 
+Uncalled bet ($0.10) returned to Basílico
+Basílico collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4s 9d 7h]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: avtogena (small blind) folded before Flop
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico collected ($0.26)
+Seat 6: Tillernaks folded on the Flop
+
+
+
+PokerStars Hand #239691685081:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:04:36 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3 in chips) 
+Seat 2: avtogena ($0.80 in chips) 
+Seat 3: stretch_dct ($2.01 in chips) 
+Seat 4: Dyszka90 ($14.39 in chips) 
+Seat 5: Basílico ($1.93 in chips) 
+Seat 6: Tillernaks ($3.79 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Kd]
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+avtogena: calls $0.06
+stretch_dct: folds 
+Dyszka90: raises $0.23 to $0.29
+Lorpugo: folds 
+avtogena: folds 
+Uncalled bet ($0.23) returned to Dyszka90
+Dyszka90 collected $0.19 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: Lorpugo folded before Flop
+Seat 2: avtogena (button) folded before Flop
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) collected ($0.19)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691702534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:05:12 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.94 in chips) 
+Seat 2: avtogena ($0.80 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.52 in chips) 
+Seat 5: Basílico ($1.93 in chips) 
+Seat 6: Tillernaks ($3.79 in chips) 
+Dyszka90: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4c]
+Tillernaks: raises $0.06 to $0.08
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: calls $0.07
+Basílico: calls $0.06
+*** FLOP *** [2d Tc 9s]
+Dyszka90: checks 
+Basílico: bets $0.08
+Tillernaks: calls $0.08
+Dyszka90: folds 
+*** TURN *** [2d Tc 9s] [4d]
+Basílico: bets $0.12
+Tillernaks: calls $0.12
+*** RIVER *** [2d Tc 9s 4d] [9c]
+Basílico: bets $0.31
+Tillernaks: folds 
+Uncalled bet ($0.31) returned to Basílico
+Basílico collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [2d Tc 9s 4d 9c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 4: Dyszka90 (small blind) folded on the Flop
+Seat 5: Basílico (big blind) collected ($0.62)
+Seat 6: Tillernaks folded on the River
+
+
+
+PokerStars Hand #239691726217:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:06:02 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.94 in chips) 
+Seat 2: avtogena ($0.80 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.44 in chips) 
+Seat 5: Basílico ($2.27 in chips) 
+Seat 6: Tillernaks ($3.51 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 4s]
+Lorpugo: folds 
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+Basílico: calls $0.05
+Tillernaks: folds 
+*** FLOP *** [Ad 8c As]
+Basílico: checks 
+Dyszka90: checks 
+*** TURN *** [Ad 8c As] [Kc]
+Basílico: checks 
+Dyszka90: checks 
+*** RIVER *** [Ad 8c As Kc] [8s]
+Basílico: checks 
+Dyszka90: bets $0.02
+Basílico: calls $0.02
+*** SHOW DOWN ***
+Dyszka90: shows [7d 6s] (two pair, Aces and Eights)
+Basílico: shows [6c Qc] (two pair, Aces and Eights)
+Basílico collected $0.09 from pot
+Dyszka90 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ad 8c As Kc 8s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) showed [7d 6s] and won ($0.08) with two pair, Aces and Eights
+Seat 5: Basílico (small blind) showed [6c Qc] and won ($0.09) with two pair, Aces and Eights
+Seat 6: Tillernaks (big blind) folded before Flop
+
+
+
+PokerStars Hand #239691742514:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:06:35 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.94 in chips) 
+Seat 2: avtogena ($0.80 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.44 in chips) 
+Seat 5: Basílico ($2.28 in chips) 
+Seat 6: Tillernaks ($3.49 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 8s]
+avtogena: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+Basílico: calls $0.06
+Tillernaks: folds 
+Lorpugo: folds 
+*** FLOP *** [Qs As Qh]
+Dyszka90: checks 
+Basílico: checks 
+*** TURN *** [Qs As Qh] [7d]
+Dyszka90: checks 
+Basílico: bets $0.02
+Dyszka90: calls $0.02
+*** RIVER *** [Qs As Qh 7d] [Ac]
+Dyszka90: bets $14.36 and is all-in
+Basílico: folds 
+Uncalled bet ($14.36) returned to Dyszka90
+Dyszka90 collected $0.18 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qs As Qh 7d Ac]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: avtogena folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 collected ($0.18)
+Seat 5: Basílico (button) folded on the River
+Seat 6: Tillernaks (small blind) folded before Flop
+
+
+
+PokerStars Hand #239691762562:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:07:17 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.92 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.54 in chips) 
+Seat 5: Basílico ($2.20 in chips) 
+Seat 6: Tillernaks ($3.48 in chips) 
+Lorpugo: posts small blind $0.01
+avtogena: is sitting out 
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kc]
+Dyszka90: raises $0.04 to $0.06
+Basílico: calls $0.06
+avtogena leaves the table
+Tillernaks: folds 
+Lorpugo: folds 
+stretch_dct: folds 
+*** FLOP *** [8s Jh 3c]
+aburo303 joins the table at seat #2 
+Dyszka90: bets $0.02
+Basílico: calls $0.02
+*** TURN *** [8s Jh 3c] [As]
+Dyszka90: bets $0.14
+Basílico: calls $0.14
+*** RIVER *** [8s Jh 3c As] [6h]
+Dyszka90: bets $0.34
+Basílico: folds 
+Uncalled bet ($0.34) returned to Dyszka90
+Dyszka90 collected $0.45 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [8s Jh 3c As 6h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 4: Dyszka90 collected ($0.45)
+Seat 5: Basílico folded on the River
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691777449:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:07:48 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.91 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.77 in chips) 
+Seat 5: Basílico ($1.98 in chips) 
+Seat 6: Tillernaks ($3.48 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 6s]
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+stretch_dct: raises $0.04 to $0.06
+Dyszka90: raises $0.12 to $0.18
+stretch_dct: folds 
+Uncalled bet ($0.12) returned to Dyszka90
+Dyszka90 collected $0.12 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) collected ($0.12)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691791716:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:08:18 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.91 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.83 in chips) 
+Seat 5: Basílico ($1.98 in chips) 
+Seat 6: Tillernaks ($3.48 in chips) 
+Dyszka90: posts small blind $0.01
+Basílico: posts big blind $0.02
+aburo303: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6s]
+Tillernaks: folds 
+Lorpugo: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.03 to $0.05
+Basílico: calls $0.03
+*** FLOP *** [Jd Qs 7d]
+Dyszka90: bets $0.02
+Basílico: calls $0.02
+*** TURN *** [Jd Qs 7d] [Jh]
+Dyszka90: bets $0.05
+Basílico: raises $0.05 to $0.10
+Dyszka90: folds 
+Uncalled bet ($0.05) returned to Basílico
+Basílico collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jd Qs 7d Jh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 4: Dyszka90 (small blind) folded on the Turn
+Seat 5: Basílico (big blind) collected ($0.23)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691806859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:08:49 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.91 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.71 in chips) 
+Seat 5: Basílico ($2.09 in chips) 
+Seat 6: Tillernaks ($3.48 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+aburo303: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Jh]
+Lorpugo: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+Basílico: folds 
+Tillernaks: calls $0.04
+*** FLOP *** [9h 3s 5h]
+Tillernaks: bets $0.08
+Dyszka90: folds 
+Uncalled bet ($0.08) returned to Tillernaks
+Tillernaks collected $0.13 from pot
+Tillernaks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h 3s 5h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) folded on the Flop
+Seat 5: Basílico (small blind) folded before Flop
+Seat 6: Tillernaks (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #239691821112:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:09:19 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.91 in chips) 
+Seat 3: stretch_dct ($2 in chips) 
+Seat 4: Dyszka90 ($14.65 in chips) 
+Seat 5: Basílico ($2.08 in chips) 
+Seat 6: Tillernaks ($3.55 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+aburo303: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 5d]
+stretch_dct: raises $0.04 to $0.06
+Dyszka90: calls $0.06
+Basílico: folds 
+Tillernaks: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [Ad Jh 2d]
+Tillernaks: bets $0.19
+stretch_dct: calls $0.19
+Dyszka90: folds 
+*** TURN *** [Ad Jh 2d] [Jc]
+Tillernaks: checks 
+stretch_dct: checks 
+*** RIVER *** [Ad Jh 2d Jc] [8h]
+Tillernaks: checks 
+stretch_dct: checks 
+*** SHOW DOWN ***
+Tillernaks: shows [Td Qd] (a pair of Jacks)
+stretch_dct: shows [Ah 2h] (two pair, Aces and Jacks)
+stretch_dct collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Ad Jh 2d Jc 8h]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: stretch_dct showed [Ah 2h] and won ($0.56) with two pair, Aces and Jacks
+Seat 4: Dyszka90 folded on the Flop
+Seat 5: Basílico (button) folded before Flop (didn't bet)
+Seat 6: Tillernaks (small blind) showed [Td Qd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #239691845734:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:10:10 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.89 in chips) 
+Seat 2: aburo303 ($2 in chips) 
+Seat 3: stretch_dct ($2.31 in chips) 
+Seat 4: Dyszka90 ($14.59 in chips) 
+Seat 5: Basílico ($2.08 in chips) 
+Seat 6: Tillernaks ($3.30 in chips) 
+Lorpugo: posts small blind $0.01
+aburo303: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ac]
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+Basílico: calls $0.06
+Tillernaks: folds 
+Lorpugo: folds 
+aburo303: folds 
+*** FLOP *** [Jc 7s 4c]
+Dyszka90: checks 
+Basílico: checks 
+*** TURN *** [Jc 7s 4c] [2d]
+Dyszka90: checks 
+Basílico: checks 
+*** RIVER *** [Jc 7s 4c 2d] [2h]
+Dyszka90: bets $0.11
+Basílico: folds 
+Uncalled bet ($0.11) returned to Dyszka90
+Dyszka90 collected $0.14 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jc 7s 4c 2d 2h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: aburo303 (big blind) folded before Flop
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 collected ($0.14)
+Seat 5: Basílico folded on the River
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691862994:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:10:47 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.88 in chips) 
+Seat 2: aburo303 ($1.98 in chips) 
+Seat 3: stretch_dct ($2.31 in chips) 
+Seat 4: Dyszka90 ($14.67 in chips) 
+Seat 5: Basílico ($2.02 in chips) 
+Seat 6: Tillernaks ($3.30 in chips) 
+aburo303: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8d]
+Dyszka90: raises $0.04 to $0.06
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+aburo303: calls $0.05
+stretch_dct: folds 
+*** FLOP *** [Qs Kc Ah]
+aburo303: bets $0.07
+Dyszka90: folds 
+Uncalled bet ($0.07) returned to aburo303
+aburo303 collected $0.14 from pot
+aburo303: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs Kc Ah]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: aburo303 (small blind) collected ($0.14)
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 4: Dyszka90 folded on the Flop
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691890098:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:11:44 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.88 in chips) 
+Seat 2: aburo303 ($2.06 in chips) 
+Seat 3: stretch_dct ($2.29 in chips) 
+Seat 4: Dyszka90 ($14.61 in chips) 
+Seat 5: Basílico ($2.02 in chips) 
+Seat 6: Tillernaks ($3.30 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Kd]
+Basílico: calls $0.02
+Tillernaks: raises $0.06 to $0.08
+Lorpugo: calls $0.08
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: folds 
+Basílico: calls $0.06
+*** FLOP *** [Kc Jc Tc]
+Basílico: checks 
+Tillernaks: checks 
+Lorpugo: bets $0.09
+Basílico: folds 
+Tillernaks: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.26 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kc Jc Tc]
+Seat 1: Lorpugo collected ($0.26)
+Seat 2: aburo303 (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) folded before Flop
+Seat 5: Basílico folded on the Flop
+Seat 6: Tillernaks folded on the Flop
+
+
+
+PokerStars Hand #239691906344:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:12:20 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.06 in chips) 
+Seat 2: aburo303 ($2.06 in chips) 
+Seat 3: stretch_dct ($2.28 in chips) 
+Seat 4: Dyszka90 ($14.59 in chips) 
+Seat 5: Basílico ($1.94 in chips) 
+Seat 6: Tillernaks ($3.22 in chips) 
+Dyszka90: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3h]
+Tillernaks: folds 
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.03 to $0.05
+Basílico: raises $0.05 to $0.10
+Dyszka90: calls $0.05
+*** FLOP *** [9c 4h 6c]
+Dyszka90: checks 
+Basílico: bets $0.09
+Dyszka90: raises $0.09 to $0.18
+Basílico: calls $0.09
+*** TURN *** [9c 4h 6c] [5c]
+Dyszka90: bets $0.41
+Basílico: calls $0.41
+*** RIVER *** [9c 4h 6c 5c] [5d]
+Dyszka90: bets $13.90 and is all-in
+Basílico: calls $1.25 and is all-in
+Uncalled bet ($12.65) returned to Dyszka90
+*** SHOW DOWN ***
+Dyszka90: shows [8c 7c] (a straight flush, Five to Nine)
+Basílico: shows [Kc Ac] (a flush, Ace high)
+Dyszka90 collected $3.74 from pot
+*** SUMMARY ***
+Total pot $3.88 | Rake $0.14 
+Board [9c 4h 6c 5c 5d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: aburo303 folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 4: Dyszka90 (small blind) showed [8c 7c] and won ($3.74) with a straight flush, Five to Nine
+Seat 5: Basílico (big blind) showed [Kc Ac] and lost with a flush, Ace high
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239691940819:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:13:31 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.06 in chips) 
+Seat 2: aburo303 ($2.06 in chips) 
+Seat 3: stretch_dct ($2.28 in chips) 
+Seat 4: Dyszka90 ($16.39 in chips) 
+Seat 6: Tillernaks ($3.22 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 6c]
+aburo303: folds 
+stretch_dct: raises $0.03 to $0.05
+Dyszka90: calls $0.05
+Tillernaks: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [7s 8h Ts]
+Tillernaks: checks 
+Lorpugo: checks 
+stretch_dct: bets $0.06
+Dyszka90: calls $0.06
+Tillernaks: folds 
+Lorpugo: folds 
+*** TURN *** [7s 8h Ts] [Jd]
+stretch_dct: checks 
+Dyszka90: bets $0.03
+stretch_dct: raises $0.28 to $0.31
+Dyszka90: folds 
+Uncalled bet ($0.28) returned to stretch_dct
+stretch_dct collected $0.37 from pot
+stretch_dct: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [7s 8h Ts Jd]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: aburo303 folded before Flop (didn't bet)
+Seat 3: stretch_dct collected ($0.37)
+Seat 4: Dyszka90 (button) folded on the Turn
+Seat 6: Tillernaks (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239691975073:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:14:43 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.01 in chips) 
+Seat 2: aburo303 ($2.06 in chips) 
+Seat 3: stretch_dct ($2.51 in chips) 
+Seat 4: Dyszka90 ($16.25 in chips) 
+Seat 5: Basílico ($1.49 in chips) 
+Seat 6: Tillernaks ($3.17 in chips) 
+Lorpugo: posts small blind $0.01
+aburo303: posts big blind $0.02
+Basílico: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9c]
+stretch_dct: folds 
+Dyszka90: folds 
+Basílico: calls $0.02
+Tillernaks: raises $0.10 to $0.12
+Lorpugo: folds 
+aburo303: calls $0.10
+Basílico: calls $0.10
+*** FLOP *** [6h 8h 7d]
+aburo303: checks 
+Basílico: checks 
+Tillernaks: checks 
+*** TURN *** [6h 8h 7d] [5d]
+aburo303: checks 
+Basílico: checks 
+Tillernaks: checks 
+*** RIVER *** [6h 8h 7d 5d] [Qd]
+aburo303: checks 
+Basílico: checks 
+Tillernaks: checks 
+*** SHOW DOWN ***
+aburo303: shows [As Kh] (high card Ace)
+Basílico: mucks hand 
+Tillernaks: mucks hand 
+aburo303 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [6h 8h 7d 5d Qd]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: aburo303 (big blind) showed [As Kh] and won ($0.37) with high card Ace
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico mucked [Kc Th]
+Seat 6: Tillernaks (button) mucked [Ah Jc]
+
+
+
+PokerStars Hand #239691995538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:15:24 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3 in chips) 
+Seat 2: aburo303 ($2.31 in chips) 
+Seat 3: stretch_dct ($2.51 in chips) 
+Seat 4: Dyszka90 ($16.25 in chips) 
+Seat 5: Basílico ($1.36 in chips) 
+Seat 6: Tillernaks ($3.05 in chips) 
+aburo303: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9d]
+Dyszka90: folds 
+Basílico: raises $0.06 to $0.08
+Tillernaks: calls $0.08
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: calls $0.06
+*** FLOP *** [6d 4d 5s]
+stretch_dct: checks 
+Basílico: bets $0.12
+Tillernaks: folds 
+stretch_dct: calls $0.12
+*** TURN *** [6d 4d 5s] [Td]
+stretch_dct: checks 
+Basílico: bets $0.23
+stretch_dct: folds 
+Uncalled bet ($0.23) returned to Basílico
+Basílico collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [6d 4d 5s Td]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: aburo303 (small blind) folded before Flop
+Seat 3: stretch_dct (big blind) folded on the Turn
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico collected ($0.47)
+Seat 6: Tillernaks folded on the Flop
+
+
+
+PokerStars Hand #239692020734:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:16:16 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3 in chips) 
+Seat 2: aburo303 ($2.30 in chips) 
+Seat 3: stretch_dct ($2.31 in chips) 
+Seat 4: Dyszka90 ($16.25 in chips) 
+Seat 5: Basílico ($1.63 in chips) 
+Seat 6: Tillernaks ($2.97 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8s]
+Basílico: folds 
+Tillernaks: folds 
+Lorpugo: raises $0.04 to $0.06
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.18 to $0.24
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to Dyszka90
+Dyszka90 collected $0.13 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Lorpugo folded before Flop
+Seat 2: aburo303 (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) collected ($0.13)
+Seat 5: Basílico folded before Flop (didn't bet)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239692035067:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:16:46 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.94 in chips) 
+Seat 2: aburo303 ($2.30 in chips) 
+Seat 3: stretch_dct ($2.30 in chips) 
+Seat 4: Dyszka90 ($16.32 in chips) 
+Seat 5: Basílico ($1.63 in chips) 
+Seat 6: Tillernaks ($2.97 in chips) 
+Dyszka90: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2c]
+Tillernaks: folds 
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: raises $0.03 to $0.05
+Dyszka90: folds 
+Basílico: calls $0.03
+*** FLOP *** [5h 9d 9h]
+Basílico: checks 
+stretch_dct: bets $0.04
+Basílico: calls $0.04
+*** TURN *** [5h 9d 9h] [Td]
+Basílico: checks 
+stretch_dct: bets $0.14
+Basílico: raises $0.14 to $0.28
+stretch_dct: folds 
+Uncalled bet ($0.14) returned to Basílico
+Basílico collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5h 9d 9h Td]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: aburo303 folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded on the Turn
+Seat 4: Dyszka90 (small blind) folded before Flop
+Seat 5: Basílico (big blind) collected ($0.45)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239692060534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:17:38 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.94 in chips) 
+Seat 2: aburo303 ($2.30 in chips) 
+Seat 3: stretch_dct ($2.07 in chips) 
+Seat 4: Dyszka90 ($16.31 in chips) 
+Seat 5: Basílico ($1.85 in chips) 
+Seat 6: Tillernaks ($2.97 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4d]
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+Basílico: folds 
+Tillernaks: folds 
+Uncalled bet ($0.04) returned to Dyszka90
+Dyszka90 collected $0.05 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: aburo303 folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) collected ($0.05)
+Seat 5: Basílico (small blind) folded before Flop
+Seat 6: Tillernaks (big blind) folded before Flop
+
+
+
+PokerStars Hand #239692066637:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:17:51 ET
+Table 'Poincare III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.94 in chips) 
+Seat 2: aburo303 ($2.30 in chips) 
+Seat 3: stretch_dct ($2.07 in chips) 
+Seat 4: Dyszka90 ($16.34 in chips) 
+Seat 5: Basílico ($1.84 in chips) 
+Seat 6: Tillernaks ($2.95 in chips) 
+Tillernaks: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 7h]
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.04 to $0.06
+Basílico: folds 
+Tillernaks: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [Ts 5h Ah]
+Tillernaks: checks 
+Lorpugo: checks 
+Dyszka90: checks 
+*** TURN *** [Ts 5h Ah] [Ks]
+Tillernaks: checks 
+Lorpugo: checks 
+Dyszka90: checks 
+*** RIVER *** [Ts 5h Ah Ks] [8s]
+Tillernaks: checks 
+Lorpugo: checks 
+Dyszka90: bets $0.24
+Tillernaks: folds 
+Lorpugo: folds 
+Uncalled bet ($0.24) returned to Dyszka90
+Dyszka90 collected $0.17 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ts 5h Ah Ks 8s]
+Seat 1: Lorpugo (big blind) folded on the River
+Seat 2: aburo303 folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 collected ($0.17)
+Seat 5: Basílico (button) folded before Flop (didn't bet)
+Seat 6: Tillernaks (small blind) folded on the River
+
+
+
+PokerStars Hand #239692110114:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:19:20 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.88 in chips) 
+Seat 2: aburo303 ($2.30 in chips) 
+Seat 3: stretch_dct ($2.07 in chips) 
+Seat 4: Dyszka90 ($16.45 in chips) 
+Seat 5: Basílico ($1.84 in chips) 
+Seat 6: Tillernaks ($2.89 in chips) 
+Lorpugo: posts small blind $0.01
+aburo303: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qh]
+stretch_dct: folds 
+Dyszka90: folds 
+Basílico: calls $0.02
+Tillernaks: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+aburo303: folds 
+Basílico: calls $0.08
+Tillernaks: calls $0.08
+*** FLOP *** [4h 9h 2h]
+Lorpugo: bets $0.10
+Basílico: calls $0.10
+Tillernaks: folds 
+*** TURN *** [4h 9h 2h] [8s]
+Lorpugo: bets $0.25
+Basílico: calls $0.25
+*** RIVER *** [4h 9h 2h 8s] [8c]
+Lorpugo: checks 
+Basílico: bets $0.38
+Lorpugo: raises $2.05 to $2.43 and is all-in
+Basílico: folds 
+Uncalled bet ($2.05) returned to Lorpugo
+Lorpugo collected $1.72 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.78 | Rake $0.06 
+Board [4h 9h 2h 8s 8c]
+Seat 1: Lorpugo (small blind) collected ($1.72)
+Seat 2: aburo303 (big blind) folded before Flop
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico folded on the River
+Seat 6: Tillernaks (button) folded on the Flop
+
+
+
+PokerStars Hand #239692146846:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:20:37 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.77 in chips) 
+Seat 2: aburo303 ($2.28 in chips) 
+Seat 3: stretch_dct ($2.07 in chips) 
+Seat 4: Dyszka90 ($16.45 in chips) 
+Seat 5: Basílico ($1.01 in chips) 
+Seat 6: Tillernaks ($2.79 in chips) 
+aburo303: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9s]
+Dyszka90: folds 
+Basílico: raises $0.06 to $0.08
+Tillernaks: calls $0.08
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+*** FLOP *** [8s 3h Ts]
+Basílico: bets $0.06
+Tillernaks: calls $0.06
+*** TURN *** [8s 3h Ts] [Ac]
+Basílico: bets $0.10
+Tillernaks: folds 
+Uncalled bet ($0.10) returned to Basílico
+Basílico collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8s 3h Ts Ac]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: aburo303 (small blind) folded before Flop
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 4: Dyszka90 folded before Flop (didn't bet)
+Seat 5: Basílico collected ($0.30)
+Seat 6: Tillernaks folded on the Turn
+
+
+
+PokerStars Hand #239692165361:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:21:15 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.77 in chips) 
+Seat 2: aburo303 ($2.27 in chips) 
+Seat 3: stretch_dct ($2.05 in chips) 
+Seat 4: Dyszka90 ($16.45 in chips) 
+Seat 5: Basílico ($1.17 in chips) 
+Seat 6: Tillernaks ($2.65 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4s]
+Basílico: calls $0.02
+Tillernaks: folds 
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: checks 
+*** FLOP *** [Qh 7c Ks]
+Dyszka90 has timed out
+Dyszka90: checks 
+Basílico: checks 
+*** TURN *** [Qh 7c Ks] [5d]
+Dyszka90 has timed out
+Dyszka90: checks 
+Basílico: bets $0.02
+Dyszka90: calls $0.02
+*** RIVER *** [Qh 7c Ks 5d] [5s]
+Dyszka90: checks 
+Basílico: checks 
+*** SHOW DOWN ***
+Dyszka90: shows [5c Ts] (three of a kind, Fives)
+Basílico: shows [4h 4c] (two pair, Fives and Fours)
+Dyszka90 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qh 7c Ks 5d 5s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: aburo303 (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) showed [5c Ts] and won ($0.09) with three of a kind, Fives
+Seat 5: Basílico showed [4h 4c] and lost with two pair, Fives and Fours
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239692217738:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:23:03 ET
+Table 'Poincare III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.77 in chips) 
+Seat 2: aburo303 ($2.27 in chips) 
+Seat 3: stretch_dct ($2.04 in chips) 
+Seat 4: Dyszka90 ($16.50 in chips) 
+Seat 5: Basílico ($1.13 in chips) 
+Seat 6: Tillernaks ($2.65 in chips) 
+Dyszka90: posts small blind $0.01
+Basílico: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 2h]
+Tillernaks: folds 
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: raises $0.03 to $0.05
+Basílico: calls $0.03
+*** FLOP *** [5c 4d 9c]
+Dyszka90: bets $0.02
+Basílico: calls $0.02
+*** TURN *** [5c 4d 9c] [Th]
+Dyszka90: bets $0.02
+Basílico: calls $0.02
+*** RIVER *** [5c 4d 9c Th] [Qh]
+Dyszka90: bets $0.13
+Basílico: folds 
+Uncalled bet ($0.13) returned to Dyszka90
+Dyszka90 collected $0.17 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5c 4d 9c Th Qh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: aburo303 folded before Flop (didn't bet)
+Seat 3: stretch_dct (button) folded before Flop (didn't bet)
+Seat 4: Dyszka90 (small blind) collected ($0.17)
+Seat 5: Basílico (big blind) folded on the River
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239692241520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:23:53 ET
+Table 'Poincare III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.77 in chips) 
+Seat 2: aburo303 ($2.27 in chips) 
+Seat 3: stretch_dct ($2.04 in chips) 
+Seat 4: Dyszka90 ($16.58 in chips) 
+Seat 5: Basílico ($1.04 in chips) 
+Seat 6: Tillernaks ($2.65 in chips) 
+Basílico: posts small blind $0.01
+Tillernaks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5d]
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90 has timed out
+Dyszka90: folds 
+Basílico: folds 
+Uncalled bet ($0.01) returned to Tillernaks
+Basílico leaves the table
+Tillernaks collected $0.02 from pot
+Tillernaks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: aburo303 folded before Flop (didn't bet)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 4: Dyszka90 (button) folded before Flop (didn't bet)
+Seat 5: Basílico (small blind) folded before Flop
+Seat 6: Tillernaks (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239692252406:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:24:15 ET
+Table 'Poincare III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.77 in chips) 
+Seat 2: aburo303 ($2.27 in chips) 
+Seat 3: stretch_dct ($2.04 in chips) 
+Seat 6: Tillernaks ($2.66 in chips) 
+Lorpugo: posts small blind $0.01
+aburo303: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9c]
+stretch_dct: folds 
+Tillernaks: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to aburo303
+aburo303 collected $0.02 from pot
+aburo303: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: aburo303 (big blind) collected ($0.02)
+Seat 3: stretch_dct folded before Flop (didn't bet)
+Seat 6: Tillernaks (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239692256924:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:24:24 ET
+Table 'Poincare III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.76 in chips) 
+Seat 2: aburo303 ($2.28 in chips) 
+Seat 3: stretch_dct ($2.04 in chips) 
+Seat 4: Dyszka90 ($16.58 in chips) 
+Seat 6: Tillernaks ($2.66 in chips) 
+aburo303: posts small blind $0.01
+stretch_dct: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qd]
+Dyszka90: raises $0.04 to $0.06
+Tillernaks: folds 
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+Uncalled bet ($0.04) returned to Dyszka90
+Dyszka90 collected $0.05 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: aburo303 (small blind) folded before Flop
+Seat 3: stretch_dct (big blind) folded before Flop
+Seat 4: Dyszka90 collected ($0.05)
+Seat 6: Tillernaks folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239692264708:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/06 13:24:41 ET
+Table 'Poincare III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.76 in chips) 
+Seat 2: aburo303 ($2.27 in chips) 
+Seat 3: stretch_dct ($2.02 in chips) 
+Seat 4: Dyszka90 ($16.61 in chips) 
+Seat 6: Tillernaks ($2.66 in chips) 
+stretch_dct: posts small blind $0.01
+Dyszka90: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5d]
+Tillernaks: raises $0.04 to $0.06
+Lorpugo: folds 
+aburo303: folds 
+stretch_dct: folds 
+Dyszka90: calls $0.04
+*** FLOP *** [7d 6d As]
+Dyszka90: checks 
+Tillernaks: checks 
+*** TURN *** [7d 6d As] [5s]
+Dyszka90: bets $0.18
+Tillernaks: folds 
+Uncalled bet ($0.18) returned to Dyszka90
+Dyszka90 collected $0.13 from pot
+Dyszka90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7d 6d As 5s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: aburo303 (button) folded before Flop (didn't bet)
+Seat 3: stretch_dct (small blind) folded before Flop
+Seat 4: Dyszka90 (big blind) collected ($0.13)
+Seat 6: Tillernaks folded on the Turn
+
+
+

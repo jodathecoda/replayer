@@ -1,0 +1,1321 @@
+﻿PokerStars Hand #239588480971:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:38:36 ET
+Table 'Leonce III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Akkarim755 ($2.19 in chips) 
+Seat 3: GibsBySea ($2.28 in chips) 
+Seat 4: ale 4550 ($7.54 in chips) 
+Seat 5: Yahari2007 ($1.49 in chips) 
+Seat 6: zanderro ($0.78 in chips) 
+zanderro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9c]
+Akkarim755: folds 
+GibsBySea: folds 
+ale 4550: folds 
+Yahari2007: raises $0.02 to $0.04
+zanderro: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [5c Jh 5s]
+zanderro: checks 
+Lorpugo: bets $0.04
+Yahari2007: raises $0.08 to $0.12
+zanderro: folds 
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Yahari2007
+Yahari2007 collected $0.19 from pot
+Yahari2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5c Jh 5s]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: GibsBySea folded before Flop (didn't bet)
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Yahari2007 (button) collected ($0.19)
+Seat 6: zanderro (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239588495787:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:39:15 ET
+Table 'Leonce III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.52 in chips) 
+Seat 2: Akkarim755 ($2.19 in chips) 
+Seat 3: GibsBySea ($2.28 in chips) 
+Seat 4: ale 4550 ($7.54 in chips) 
+Seat 5: Yahari2007 ($1.60 in chips) 
+Seat 6: zanderro ($0.74 in chips) 
+Lorpugo: posts small blind $0.01
+Akkarim755: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 6h]
+GibsBySea: folds 
+ale 4550: folds 
+Yahari2007: calls $0.02
+zanderro: calls $0.02
+Lorpugo: calls $0.01
+Akkarim755: checks 
+*** FLOP *** [2c 4c Ac]
+Lorpugo: checks 
+Akkarim755: bets $0.02
+Yahari2007: raises $0.02 to $0.04
+zanderro: folds 
+Lorpugo: calls $0.04
+Akkarim755: calls $0.02
+*** TURN *** [2c 4c Ac] [7c]
+Lorpugo: checks 
+Akkarim755: checks 
+Yahari2007: bets $0.19
+Lorpugo: folds 
+Akkarim755: folds 
+Uncalled bet ($0.19) returned to Yahari2007
+Yahari2007 collected $0.19 from pot
+Yahari2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c 4c Ac 7c]
+Seat 1: Lorpugo (small blind) folded on the Turn
+Seat 2: Akkarim755 (big blind) folded on the Turn
+Seat 3: GibsBySea folded before Flop (didn't bet)
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Yahari2007 collected ($0.19)
+Seat 6: zanderro (button) folded on the Flop
+
+
+
+PokerStars Hand #239588516066:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:40:09 ET
+Table 'Leonce III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.46 in chips) 
+Seat 2: Akkarim755 ($2.13 in chips) 
+Seat 3: GibsBySea ($2.28 in chips) 
+Seat 4: ale 4550 ($7.54 in chips) 
+Seat 5: Yahari2007 ($1.73 in chips) 
+Seat 6: zanderro ($0.72 in chips) 
+Akkarim755: posts small blind $0.01
+GibsBySea: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ks]
+ale 4550: folds 
+Yahari2007: folds 
+zanderro: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+Akkarim755: calls $0.09
+GibsBySea: calls $0.08
+zanderro: calls $0.08
+*** FLOP *** [2h Jh Jd]
+Akkarim755: checks 
+GibsBySea: checks 
+zanderro: checks 
+Lorpugo: bets $0.26
+Akkarim755: folds 
+GibsBySea: calls $0.26
+zanderro: folds 
+*** TURN *** [2h Jh Jd] [Kd]
+GibsBySea: checks 
+Lorpugo: bets $0.24
+GibsBySea: raises $0.73 to $0.97
+Lorpugo: raises $0.13 to $1.10 and is all-in
+GibsBySea: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $2.76 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.86 | Rake $0.10 
+Board [2h Jh Jd Kd]
+Seat 1: Lorpugo (button) collected ($2.76)
+Seat 2: Akkarim755 (small blind) folded on the Flop
+Seat 3: GibsBySea (big blind) folded on the Turn
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Yahari2007 folded before Flop (didn't bet)
+Seat 6: zanderro folded on the Flop
+
+
+
+PokerStars Hand #239588553169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:41:47 ET
+Table 'Leonce III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.89 in chips) 
+Seat 2: Akkarim755 ($2.03 in chips) 
+Seat 3: GibsBySea ($0.95 in chips) 
+Seat 4: ale 4550 ($7.54 in chips) 
+Seat 5: Yahari2007 ($1.73 in chips) 
+Seat 6: zanderro ($0.62 in chips) 
+GibsBySea: posts small blind $0.01
+ale 4550: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7h]
+Yahari2007: folds 
+zanderro: folds 
+Lorpugo: folds 
+Akkarim755: raises $0.02 to $0.04
+GibsBySea: folds 
+ale 4550: calls $0.02
+*** FLOP *** [Jd 7s 6c]
+GibsBySea leaves the table
+ale 4550: checks 
+Akkarim755: checks 
+*** TURN *** [Jd 7s 6c] [Jc]
+ale 4550: bets $0.03
+Akkarim755: folds 
+Uncalled bet ($0.03) returned to ale 4550
+ale 4550 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jd 7s 6c Jc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 (button) folded on the Turn
+Seat 3: GibsBySea (small blind) folded before Flop
+Seat 4: ale 4550 (big blind) collected ($0.09)
+Seat 5: Yahari2007 folded before Flop (didn't bet)
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588568965:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:42:29 ET
+Table 'Leonce III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.89 in chips) 
+Seat 2: Akkarim755 ($1.99 in chips) 
+Seat 4: ale 4550 ($7.59 in chips) 
+Seat 5: Yahari2007 ($1.73 in chips) 
+Seat 6: zanderro ($0.62 in chips) 
+Yahari2007: posts small blind $0.01
+zanderro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Jh]
+Lorpugo: folds 
+maciejass83 joins the table at seat #3 
+Akkarim755: folds 
+ale 4550: folds 
+Yahari2007: raises $0.02 to $0.04
+zanderro: calls $0.02
+*** FLOP *** [Th 4c 8s]
+Yahari2007: bets $0.08
+zanderro: calls $0.08
+*** TURN *** [Th 4c 8s] [8h]
+Yahari2007: bets $0.23
+zanderro: folds 
+Uncalled bet ($0.23) returned to Yahari2007
+Yahari2007 collected $0.23 from pot
+Yahari2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Th 4c 8s 8h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 4: ale 4550 (button) folded before Flop (didn't bet)
+Seat 5: Yahari2007 (small blind) collected ($0.23)
+Seat 6: zanderro (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239588580961:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:43:01 ET
+Table 'Leonce III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.89 in chips) 
+Seat 2: Akkarim755 ($1.99 in chips) 
+Seat 4: ale 4550 ($7.59 in chips) 
+Seat 5: Yahari2007 ($1.84 in chips) 
+Seat 6: zanderro ($0.50 in chips) 
+zanderro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+maciejass83: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Kc]
+Akkarim755: folds 
+ale 4550: raises $0.03 to $0.05
+Yahari2007: folds 
+zanderro: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to ale 4550
+ale 4550 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 4: ale 4550 collected ($0.05)
+Seat 5: Yahari2007 (button) folded before Flop (didn't bet)
+Seat 6: zanderro (small blind) folded before Flop
+
+
+
+PokerStars Hand #239588593741:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:43:35 ET
+Table 'Leonce III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.87 in chips) 
+Seat 2: Akkarim755 ($1.99 in chips) 
+Seat 4: ale 4550 ($7.62 in chips) 
+Seat 5: Yahari2007 ($1.84 in chips) 
+Seat 6: zanderro ($0.49 in chips) 
+Lorpugo: posts small blind $0.01
+Akkarim755: posts big blind $0.02
+maciejass83: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Kc]
+ale 4550: folds 
+Yahari2007 is disconnected 
+Yahari2007 has timed out while being disconnected
+Yahari2007: folds 
+zanderro: folds 
+Lorpugo: raises $0.04 to $0.06
+Akkarim755: calls $0.04
+*** FLOP *** [Qs 8c Kh]
+Lorpugo: bets $0.04
+Akkarim755: raises $0.08 to $0.12
+Lorpugo: raises $0.24 to $0.36
+Akkarim755: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.35 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qs 8c Kh]
+Seat 1: Lorpugo (small blind) collected ($0.35)
+Seat 2: Akkarim755 (big blind) folded on the Flop
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Yahari2007 folded before Flop (didn't bet)
+Seat 6: zanderro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588617959:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:44:39 ET
+Table 'Leonce III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.04 in chips) 
+Seat 2: Akkarim755 ($1.81 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.62 in chips) 
+Seat 5: Yahari2007 ($1.84 in chips) 
+Seat 6: zanderro ($0.49 in chips) 
+Akkarim755: posts small blind $0.01
+maciejass83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2h]
+ale 4550: folds 
+Yahari2007: calls $0.02
+zanderro: folds 
+Lorpugo: folds 
+Akkarim755: raises $0.06 to $0.08
+maciejass83: folds 
+Yahari2007: raises $0.18 to $0.26
+Akkarim755: folds 
+Uncalled bet ($0.18) returned to Yahari2007
+Yahari2007 collected $0.18 from pot
+Yahari2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Akkarim755 (small blind) folded before Flop
+Seat 3: maciejass83 (big blind) folded before Flop
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Yahari2007 collected ($0.18)
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588628698:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:45:08 ET
+Table 'Leonce III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.04 in chips) 
+Seat 2: Akkarim755 ($1.73 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.62 in chips) 
+Seat 5: Yahari2007 ($1.94 in chips) 
+Seat 6: zanderro ($0.49 in chips) 
+maciejass83: posts small blind $0.01
+ale 4550: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9s]
+Yahari2007: calls $0.02
+zanderro: folds 
+Lorpugo: calls $0.02
+Akkarim755: folds 
+maciejass83: calls $0.01
+ale 4550: checks 
+*** FLOP *** [Ac Jc Kd]
+maciejass83: checks 
+ale 4550: checks 
+Yahari2007: bets $0.06
+Lorpugo: folds 
+maciejass83: folds 
+ale 4550: folds 
+Uncalled bet ($0.06) returned to Yahari2007
+Yahari2007 collected $0.08 from pot
+Yahari2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ac Jc Kd]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Akkarim755 (button) folded before Flop (didn't bet)
+Seat 3: maciejass83 (small blind) folded on the Flop
+Seat 4: ale 4550 (big blind) folded on the Flop
+Seat 5: Yahari2007 collected ($0.08)
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588643051:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:45:46 ET
+Table 'Leonce III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.02 in chips) 
+Seat 2: Akkarim755 ($1.73 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.60 in chips) 
+Seat 5: Yahari2007 ($2 in chips) 
+Seat 6: zanderro ($0.49 in chips) 
+ale 4550: posts small blind $0.01
+Yahari2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9c]
+zanderro: calls $0.02
+Lorpugo: folds 
+Akkarim755: raises $0.02 to $0.04
+maciejass83: folds 
+ale 4550: folds 
+Yahari2007: calls $0.02
+zanderro: calls $0.02
+*** FLOP *** [8h Jd 9h]
+Yahari2007: checks 
+zanderro: checks 
+Akkarim755: checks 
+*** TURN *** [8h Jd 9h] [4c]
+Yahari2007: checks 
+zanderro: bets $0.13
+Akkarim755: calls $0.13
+Yahari2007: folds 
+*** RIVER *** [8h Jd 9h 4c] [Qh]
+zanderro: bets $0.30
+Akkarim755: calls $0.30
+*** SHOW DOWN ***
+zanderro: shows [Jh Th] (a straight flush, Eight to Queen)
+Akkarim755: mucks hand 
+zanderro collected $0.96 from pot
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [8h Jd 9h 4c Qh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 mucked [Qd Ks]
+Seat 3: maciejass83 (button) folded before Flop (didn't bet)
+Seat 4: ale 4550 (small blind) folded before Flop
+Seat 5: Yahari2007 (big blind) folded on the Turn
+Seat 6: zanderro showed [Jh Th] and won ($0.96) with a straight flush, Eight to Queen
+
+
+
+PokerStars Hand #239588673024:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:47:06 ET
+Table 'Leonce III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.02 in chips) 
+Seat 2: Akkarim755 ($1.26 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.59 in chips) 
+Seat 5: Yahari2007 ($1.96 in chips) 
+Seat 6: zanderro ($0.98 in chips) 
+Yahari2007: posts small blind $0.01
+zanderro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Th]
+Lorpugo: folds 
+Akkarim755: raises $0.02 to $0.04
+maciejass83: folds 
+ale 4550: folds 
+Yahari2007: calls $0.03
+zanderro: calls $0.02
+*** FLOP *** [Ah 7h 7s]
+Yahari2007: checks 
+zanderro: checks 
+Akkarim755: bets $0.18
+Yahari2007: folds 
+zanderro: folds 
+Uncalled bet ($0.18) returned to Akkarim755
+Akkarim755 collected $0.12 from pot
+Akkarim755: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ah 7h 7s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 collected ($0.12)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 (button) folded before Flop (didn't bet)
+Seat 5: Yahari2007 (small blind) folded on the Flop
+Seat 6: zanderro (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239588690645:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:47:53 ET
+Table 'Leonce III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.02 in chips) 
+Seat 2: Akkarim755 ($1.34 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.59 in chips) 
+Seat 5: Yahari2007 ($1.92 in chips) 
+Seat 6: zanderro ($0.94 in chips) 
+zanderro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 8d]
+Akkarim755: folds 
+maciejass83: folds 
+ale 4550: folds 
+Yahari2007: raises $0.02 to $0.04
+zanderro: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [4h As Ts]
+Lorpugo: checks 
+Yahari2007: bets $0.08
+Lorpugo: calls $0.08
+*** TURN *** [4h As Ts] [8c]
+Lorpugo: checks 
+Yahari2007: bets $0.24
+Lorpugo: calls $0.24
+*** RIVER *** [4h As Ts 8c] [8s]
+Lorpugo: checks 
+Yahari2007: bets $1.56 and is all-in
+Lorpugo: calls $1.56
+*** SHOW DOWN ***
+Yahari2007: shows [Kd 5c] (a pair of Eights)
+Lorpugo: shows [Ac 8d] (a full house, Eights full of Aces)
+Lorpugo collected $3.72 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.13 
+Board [4h As Ts 8c 8s]
+Seat 1: Lorpugo (big blind) showed [Ac 8d] and won ($3.72) with a full house, Eights full of Aces
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Yahari2007 (button) showed [Kd 5c] and lost with a pair of Eights
+Seat 6: zanderro (small blind) folded before Flop
+
+
+
+PokerStars Hand #239588718210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:49:06 ET
+Table 'Leonce III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($4.82 in chips) 
+Seat 2: Akkarim755 ($1.34 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.59 in chips) 
+Seat 6: zanderro ($0.93 in chips) 
+Lorpugo: posts small blind $0.01
+Akkarim755: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Tc]
+maciejass83: raises $0.05 to $0.07
+ale 4550: raises $0.11 to $0.18
+zanderro: folds 
+Yahari2007 leaves the table
+Lorpugo: folds 
+Akkarim755: folds 
+maciejass83: folds 
+Uncalled bet ($0.11) returned to ale 4550
+ale 4550 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Akkarim755 (big blind) folded before Flop
+Seat 3: maciejass83 folded before Flop
+Seat 4: ale 4550 collected ($0.17)
+Seat 6: zanderro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588726323:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:49:28 ET
+Table 'Leonce III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($4.81 in chips) 
+Seat 2: Akkarim755 ($1.32 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.69 in chips) 
+Seat 6: zanderro ($0.93 in chips) 
+Akkarim755: posts small blind $0.01
+maciejass83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9c]
+manu779477 joins the table at seat #5 
+ale 4550: folds 
+zanderro: folds 
+Lorpugo: raises $0.04 to $0.06
+Akkarim755: calls $0.05
+manu779477 is disconnected 
+maciejass83: folds 
+*** FLOP *** [7s Td Kh]
+Akkarim755: checks 
+Lorpugo: checks 
+*** TURN *** [7s Td Kh] [9s]
+Akkarim755: checks 
+Lorpugo: checks 
+*** RIVER *** [7s Td Kh 9s] [Kc]
+Akkarim755: checks 
+Lorpugo: bets $0.05
+Akkarim755: calls $0.05
+*** SHOW DOWN ***
+Lorpugo: shows [Ah 9c] (two pair, Kings and Nines)
+Akkarim755: mucks hand 
+Lorpugo collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7s Td Kh 9s Kc]
+Seat 1: Lorpugo (button) showed [Ah 9c] and won ($0.23) with two pair, Kings and Nines
+Seat 2: Akkarim755 (small blind) mucked [3d 3c]
+Seat 3: maciejass83 (big blind) folded before Flop
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588742974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:50:12 ET
+Table 'Leonce III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($4.93 in chips) 
+Seat 2: Akkarim755 ($1.21 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.69 in chips) 
+Seat 6: zanderro ($0.93 in chips) 
+maciejass83: posts small blind $0.01
+ale 4550: posts big blind $0.02
+manu779477: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Td]
+zanderro: folds 
+Lorpugo: raises $0.04 to $0.06
+Akkarim755: calls $0.06
+maciejass83: folds 
+ale 4550: folds 
+*** FLOP *** [9h 7h Kh]
+Lorpugo: bets $0.02
+Akkarim755: raises $1.13 to $1.15 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.13) returned to Akkarim755
+Akkarim755 collected $0.18 from pot
+Akkarim755: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9h 7h Kh]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Akkarim755 (button) collected ($0.18)
+Seat 3: maciejass83 (small blind) folded before Flop
+Seat 4: ale 4550 (big blind) folded before Flop
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588754266:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:50:42 ET
+Table 'Leonce III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($4.85 in chips) 
+Seat 2: Akkarim755 ($1.31 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.67 in chips) 
+Seat 5: manu779477 ($1.60 in chips) 
+Seat 6: zanderro ($0.93 in chips) 
+ale 4550: posts small blind $0.01
+manu779477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ts]
+zanderro: calls $0.02
+Lorpugo: folds 
+Akkarim755: folds 
+maciejass83: folds 
+ale 4550: folds 
+manu779477: checks 
+*** FLOP *** [4s Js Qh]
+manu779477: checks 
+zanderro: bets $0.02
+manu779477: raises $0.02 to $0.04
+zanderro: calls $0.02
+*** TURN *** [4s Js Qh] [3c]
+manu779477: bets $0.02
+zanderro: calls $0.02
+*** RIVER *** [4s Js Qh 3c] [5d]
+manu779477: bets $1.52 and is all-in
+zanderro: folds 
+Uncalled bet ($1.52) returned to manu779477
+manu779477 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4s Js Qh 3c 5d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 (button) folded before Flop (didn't bet)
+Seat 4: ale 4550 (small blind) folded before Flop
+Seat 5: manu779477 (big blind) collected ($0.16)
+Seat 6: zanderro folded on the River
+
+
+
+PokerStars Hand #239588769836:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:51:23 ET
+Table 'Leonce III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($4.85 in chips) 
+Seat 2: Akkarim755 ($1.31 in chips) 
+Seat 3: maciejass83 ($2 in chips) 
+Seat 4: ale 4550 ($7.66 in chips) 
+Seat 5: manu779477 ($1.68 in chips) 
+Seat 6: zanderro ($0.85 in chips) 
+manu779477: posts small blind $0.01
+zanderro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ac]
+Lorpugo: folds 
+Akkarim755: folds 
+maciejass83: raises $0.04 to $0.06
+ale 4550: folds 
+manu779477: folds 
+zanderro: folds 
+Uncalled bet ($0.04) returned to maciejass83
+maciejass83 collected $0.05 from pot
+maciejass83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 collected ($0.05)
+Seat 4: ale 4550 (button) folded before Flop (didn't bet)
+Seat 5: manu779477 (small blind) folded before Flop
+Seat 6: zanderro (big blind) folded before Flop
+
+
+
+PokerStars Hand #239588781973:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:51:56 ET
+Table 'Leonce III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($4.85 in chips) 
+Seat 2: Akkarim755 ($1.31 in chips) 
+Seat 3: maciejass83 ($2.03 in chips) 
+Seat 4: ale 4550 ($7.66 in chips) 
+Seat 5: manu779477 ($1.67 in chips) 
+Seat 6: zanderro ($0.83 in chips) 
+zanderro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Tc]
+Akkarim755: folds 
+maciejass83: folds 
+ale 4550: raises $0.03 to $0.05
+manu779477: calls $0.05
+zanderro: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [4h 2h Td]
+zanderro: checks 
+Lorpugo: bets $0.13
+ale 4550: folds 
+manu779477: folds 
+zanderro: calls $0.13
+*** TURN *** [4h 2h Td] [Ad]
+zanderro: checks 
+Lorpugo: bets $0.32
+zanderro: calls $0.32
+*** RIVER *** [4h 2h Td Ad] [Js]
+zanderro: checks 
+Lorpugo: bets $1.06
+zanderro: folds 
+Uncalled bet ($1.06) returned to Lorpugo
+Lorpugo collected $1.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.04 
+Board [4h 2h Td Ad Js]
+Seat 1: Lorpugo (big blind) collected ($1.06)
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 folded on the Flop
+Seat 5: manu779477 (button) folded on the Flop
+Seat 6: zanderro (small blind) folded on the River
+
+
+
+PokerStars Hand #239588811411:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:53:15 ET
+Table 'Leonce III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($5.41 in chips) 
+Seat 2: Akkarim755 ($1.31 in chips) 
+Seat 3: maciejass83 ($2.03 in chips) 
+Seat 4: ale 4550 ($7.61 in chips) 
+Seat 5: manu779477 ($1.62 in chips) 
+Seat 6: zanderro ($0.33 in chips) 
+Lorpugo: posts small blind $0.01
+Akkarim755: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6d]
+maciejass83: raises $0.05 to $0.07
+ale 4550: folds 
+manu779477: calls $0.07
+zanderro: folds 
+Lorpugo: folds 
+Akkarim755: folds 
+*** FLOP *** [7d 2c 8d]
+maciejass83: bets $0.16
+manu779477: calls $0.16
+*** TURN *** [7d 2c 8d] [4c]
+maciejass83: bets $0.47
+manu779477: folds 
+Uncalled bet ($0.47) returned to maciejass83
+maciejass83 collected $0.47 from pot
+maciejass83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [7d 2c 8d 4c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Akkarim755 (big blind) folded before Flop
+Seat 3: maciejass83 collected ($0.47)
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: manu779477 folded on the Turn
+Seat 6: zanderro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588826070:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:53:54 ET
+Table 'Leonce III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($5.40 in chips) 
+Seat 2: Akkarim755 ($1.29 in chips) 
+Seat 3: maciejass83 ($2.27 in chips) 
+Seat 4: ale 4550 ($7.61 in chips) 
+Seat 5: manu779477 ($1.39 in chips) 
+Seat 6: zanderro ($0.33 in chips) 
+Akkarim755: posts small blind $0.01
+maciejass83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5d]
+ale 4550: folds 
+manu779477: folds 
+manu779477 leaves the table
+zanderro: folds 
+Lorpugo: raises $0.04 to $0.06
+Akkarim755: calls $0.05
+maciejass83: raises $0.26 to $0.32
+Izrael991 joins the table at seat #5 
+Lorpugo: folds 
+Akkarim755: folds 
+Uncalled bet ($0.26) returned to maciejass83
+maciejass83 collected $0.18 from pot
+maciejass83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop
+Seat 2: Akkarim755 (small blind) folded before Flop
+Seat 3: maciejass83 (big blind) collected ($0.18)
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: manu779477 folded before Flop (didn't bet)
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588837751:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:54:26 ET
+Table 'Leonce III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($5.34 in chips) 
+Seat 2: Akkarim755 ($1.23 in chips) 
+Seat 3: maciejass83 ($2.39 in chips) 
+Seat 4: ale 4550 ($7.61 in chips) 
+Seat 6: zanderro ($0.33 in chips) 
+maciejass83: posts small blind $0.01
+ale 4550: posts big blind $0.02
+Izrael991: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 7d]
+zanderro: folds 
+Lorpugo: folds 
+Akkarim755: raises $0.02 to $0.04
+maciejass83: raises $0.12 to $0.16
+ale 4550: folds 
+Akkarim755: calls $0.12
+*** FLOP *** [Td Qh 9h]
+maciejass83: bets $0.33
+Akkarim755: folds 
+Uncalled bet ($0.33) returned to maciejass83
+maciejass83 collected $0.33 from pot
+maciejass83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Td Qh 9h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 (button) folded on the Flop
+Seat 3: maciejass83 (small blind) collected ($0.33)
+Seat 4: ale 4550 (big blind) folded before Flop
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588846890:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:54:51 ET
+Table 'Leonce III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($5.34 in chips) 
+Seat 2: Akkarim755 ($1.07 in chips) 
+Seat 3: maciejass83 ($2.56 in chips) 
+Seat 4: ale 4550 ($7.59 in chips) 
+Seat 5: Izrael991 ($1.98 in chips) 
+Seat 6: zanderro ($0.33 in chips) 
+ale 4550: posts small blind $0.01
+Izrael991: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Ac]
+zanderro: folds 
+Lorpugo: folds 
+Akkarim755: folds 
+maciejass83: folds 
+ale 4550: folds 
+Uncalled bet ($0.01) returned to Izrael991
+Izrael991 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 (button) folded before Flop (didn't bet)
+Seat 4: ale 4550 (small blind) folded before Flop
+Seat 5: Izrael991 (big blind) collected ($0.02)
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588852830:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:55:07 ET
+Table 'Leonce III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($5.34 in chips) 
+Seat 2: Akkarim755 ($1.07 in chips) 
+Seat 3: maciejass83 ($2.56 in chips) 
+Seat 4: ale 4550 ($7.58 in chips) 
+Seat 5: Izrael991 ($1.99 in chips) 
+Seat 6: zanderro ($0.33 in chips) 
+Izrael991: posts small blind $0.01
+zanderro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Qs]
+Lorpugo: folds 
+Akkarim755: folds 
+maciejass83: folds 
+ale 4550: folds 
+Izrael991: calls $0.01
+zanderro: checks 
+*** FLOP *** [8c 9h Ks]
+Izrael991: checks 
+zanderro: bets $0.02
+Izrael991: calls $0.02
+*** TURN *** [8c 9h Ks] [Ad]
+Izrael991: checks 
+zanderro: bets $0.02
+Izrael991: calls $0.02
+*** RIVER *** [8c 9h Ks Ad] [5h]
+Izrael991: checks 
+zanderro: checks 
+*** SHOW DOWN ***
+Izrael991: shows [Td Qc] (high card Ace)
+zanderro: shows [Kh 3s] (a pair of Kings)
+zanderro collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8c 9h Ks Ad 5h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 (button) folded before Flop (didn't bet)
+Seat 5: Izrael991 (small blind) showed [Td Qc] and lost with high card Ace
+Seat 6: zanderro (big blind) showed [Kh 3s] and won ($0.12) with a pair of Kings
+
+
+
+PokerStars Hand #239588866001:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:55:55 ET
+Table 'Leonce III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($5.34 in chips) 
+Seat 2: Akkarim755 ($1.07 in chips) 
+Seat 3: maciejass83 ($2.56 in chips) 
+Seat 4: ale 4550 ($7.58 in chips) 
+Seat 5: Izrael991 ($1.93 in chips) 
+Seat 6: zanderro ($0.39 in chips) 
+zanderro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 3s]
+Akkarim755: raises $0.02 to $0.04
+maciejass83: folds 
+ale 4550: calls $0.04
+Izrael991: folds 
+zanderro: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [2c 9c 8h]
+Izrael991 leaves the table
+zanderro: checks 
+Akkarim755: bets $0.14
+ale 4550: folds 
+zanderro: folds 
+Uncalled bet ($0.14) returned to Akkarim755
+Akkarim755 collected $0.14 from pot
+Akkarim755: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2c 9c 8h]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Akkarim755 collected ($0.14)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 folded on the Flop
+Seat 5: Izrael991 (button) folded before Flop (didn't bet)
+Seat 6: zanderro (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239588876483:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:56:32 ET
+Table 'Leonce III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($5.32 in chips) 
+Seat 2: Akkarim755 ($1.17 in chips) 
+Seat 3: maciejass83 ($2.56 in chips) 
+Seat 4: ale 4550 ($7.54 in chips) 
+Seat 6: zanderro ($0.35 in chips) 
+Br4nc4l30n3 joins the table at seat #5 
+Lorpugo: posts small blind $0.01
+Akkarim755: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 8h]
+maciejass83: folds 
+ale 4550: raises $0.03 to $0.05
+zanderro: folds 
+Lorpugo: folds 
+Akkarim755: calls $0.03
+*** FLOP *** [Kc 9c 5c]
+Akkarim755: bets $0.08
+ale 4550: calls $0.08
+*** TURN *** [Kc 9c 5c] [3h]
+Akkarim755: checks 
+ale 4550: bets $0.20
+Akkarim755: folds 
+Uncalled bet ($0.20) returned to ale 4550
+ale 4550 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kc 9c 5c 3h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Akkarim755 (big blind) folded on the Turn
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 collected ($0.26)
+Seat 6: zanderro (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588889352:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:57:18 ET
+Table 'Leonce III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($5.31 in chips) 
+Seat 2: Akkarim755 ($1.04 in chips) 
+Seat 3: maciejass83 ($2.56 in chips) 
+Seat 4: ale 4550 ($7.67 in chips) 
+Seat 5: Br4nc4l30n3 ($1 in chips) 
+Seat 6: zanderro ($0.35 in chips) 
+Akkarim755: posts small blind $0.01
+maciejass83: posts big blind $0.02
+Br4nc4l30n3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qh]
+ale 4550: raises $0.08 to $0.10
+Br4nc4l30n3: folds 
+zanderro: calls $0.10
+Lorpugo: folds 
+Akkarim755: folds 
+maciejass83: folds 
+*** FLOP *** [Ts Jc 3s]
+ale 4550: bets $0.08
+zanderro: raises $0.08 to $0.16
+ale 4550: folds 
+Uncalled bet ($0.08) returned to zanderro
+zanderro collected $0.40 from pot
+zanderro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ts Jc 3s]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Akkarim755 (small blind) folded before Flop
+Seat 3: maciejass83 (big blind) folded before Flop
+Seat 4: ale 4550 folded on the Flop
+Seat 5: Br4nc4l30n3 folded before Flop (didn't bet)
+Seat 6: zanderro collected ($0.40)
+
+
+
+PokerStars Hand #239588899553:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:57:54 ET
+Table 'Leonce III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($5.31 in chips) 
+Seat 2: Akkarim755 ($1.03 in chips) 
+Seat 3: maciejass83 ($2.54 in chips) 
+Seat 4: ale 4550 ($7.49 in chips) 
+Seat 5: Br4nc4l30n3 ($0.98 in chips) 
+Seat 6: zanderro ($0.57 in chips) 
+maciejass83: posts small blind $0.01
+ale 4550: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3h]
+Br4nc4l30n3: folds 
+zanderro: folds 
+Lorpugo: folds 
+Akkarim755: raises $0.02 to $0.04
+maciejass83: folds 
+ale 4550: calls $0.02
+*** FLOP *** [8s 7h Qh]
+ale 4550: checks 
+Akkarim755: bets $0.06
+ale 4550: folds 
+Uncalled bet ($0.06) returned to Akkarim755
+Akkarim755 collected $0.09 from pot
+Akkarim755: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8s 7h Qh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 (button) collected ($0.09)
+Seat 3: maciejass83 (small blind) folded before Flop
+Seat 4: ale 4550 (big blind) folded on the Flop
+Seat 5: Br4nc4l30n3 folded before Flop (didn't bet)
+Seat 6: zanderro folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239588906683:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:58:19 ET
+Table 'Leonce III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($5.31 in chips) 
+Seat 2: Akkarim755 ($1.08 in chips) 
+Seat 3: maciejass83 ($2.53 in chips) 
+Seat 4: ale 4550 ($7.45 in chips) 
+Seat 5: Br4nc4l30n3 ($0.98 in chips) 
+Seat 6: zanderro ($0.57 in chips) 
+ale 4550: posts small blind $0.01
+Br4nc4l30n3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Th]
+zanderro: calls $0.02
+Lorpugo: calls $0.02
+Akkarim755: folds 
+maciejass83: raises $0.10 to $0.12
+ale 4550: folds 
+Br4nc4l30n3: folds 
+zanderro: calls $0.10
+Lorpugo: calls $0.10
+*** FLOP *** [Qh 2h As]
+zanderro: checks 
+Lorpugo: checks 
+maciejass83: bets $0.26
+zanderro: calls $0.26
+Lorpugo: calls $0.26
+*** TURN *** [Qh 2h As] [2d]
+zanderro: checks 
+Lorpugo: checks 
+maciejass83: checks 
+*** RIVER *** [Qh 2h As 2d] [7d]
+zanderro: bets $0.19 and is all-in
+Lorpugo: folds 
+maciejass83: folds 
+Uncalled bet ($0.19) returned to zanderro
+zanderro collected $1.13 from pot
+zanderro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.17 | Rake $0.04 
+Board [Qh 2h As 2d 7d]
+Seat 1: Lorpugo folded on the River
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 (button) folded on the River
+Seat 4: ale 4550 (small blind) folded before Flop
+Seat 5: Br4nc4l30n3 (big blind) folded before Flop
+Seat 6: zanderro collected ($1.13)
+
+
+
+PokerStars Hand #239588932882:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 14:59:53 ET
+Table 'Leonce III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($4.93 in chips) 
+Seat 2: Akkarim755 ($1.08 in chips) 
+Seat 3: maciejass83 ($2.15 in chips) 
+Seat 4: ale 4550 ($7.44 in chips) 
+Seat 5: Br4nc4l30n3 ($0.96 in chips) 
+Seat 6: zanderro ($1.32 in chips) 
+Br4nc4l30n3: posts small blind $0.01
+zanderro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 5s]
+Lorpugo: folds 
+Akkarim755: raises $0.02 to $0.04
+maciejass83: folds 
+ale 4550: folds 
+Br4nc4l30n3: folds 
+zanderro: calls $0.02
+*** FLOP *** [Kd As 9h]
+zanderro: checks 
+Akkarim755: bets $1.04 and is all-in
+zanderro: folds 
+Uncalled bet ($1.04) returned to Akkarim755
+Akkarim755 collected $0.09 from pot
+Akkarim755: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd As 9h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 collected ($0.09)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 (button) folded before Flop (didn't bet)
+Seat 5: Br4nc4l30n3 (small blind) folded before Flop
+Seat 6: zanderro (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239588941438:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 15:00:23 ET
+Table 'Leonce III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($4.93 in chips) 
+Seat 2: Akkarim755 ($1.13 in chips) 
+Seat 3: maciejass83 ($2.15 in chips) 
+Seat 4: ale 4550 ($7.44 in chips) 
+Seat 5: Br4nc4l30n3 ($0.95 in chips) 
+Seat 6: zanderro ($1.28 in chips) 
+zanderro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 2s]
+Akkarim755: folds 
+maciejass83: folds 
+ale 4550: folds 
+Br4nc4l30n3: raises $0.02 to $0.04
+zanderro: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [As Qs 2c]
+zanderro: checks 
+Lorpugo: bets $0.06
+Br4nc4l30n3: calls $0.06
+zanderro: folds 
+*** TURN *** [As Qs 2c] [Qh]
+Lorpugo: bets $0.12
+Br4nc4l30n3: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [As Qs 2c Qh]
+Seat 1: Lorpugo (big blind) collected ($0.23)
+Seat 2: Akkarim755 folded before Flop (didn't bet)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Br4nc4l30n3 (button) folded on the Turn
+Seat 6: zanderro (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239588961279:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 15:01:26 ET
+Table 'Leonce III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($5.06 in chips) 
+Seat 2: Akkarim755 ($1.13 in chips) 
+Seat 3: maciejass83 ($2.15 in chips) 
+Seat 4: ale 4550 ($7.44 in chips) 
+Seat 5: Br4nc4l30n3 ($0.85 in chips) 
+Seat 6: zanderro ($1.24 in chips) 
+Lorpugo: posts small blind $0.01
+Akkarim755: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 2s]
+maciejass83: folds 
+ale 4550: raises $0.03 to $0.05
+Br4nc4l30n3: folds 
+zanderro: calls $0.05
+Lorpugo: folds 
+Akkarim755: raises $0.03 to $0.08
+ale 4550: calls $0.03
+zanderro: calls $0.03
+*** FLOP *** [2d Jh 8s]
+Akkarim755: bets $0.08
+ale 4550: calls $0.08
+zanderro: folds 
+*** TURN *** [2d Jh 8s] [Qs]
+Akkarim755: bets $0.06
+ale 4550: folds 
+Uncalled bet ($0.06) returned to Akkarim755
+Akkarim755 collected $0.40 from pot
+Akkarim755: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2d Jh 8s Qs]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Akkarim755 (big blind) collected ($0.40)
+Seat 3: maciejass83 folded before Flop (didn't bet)
+Seat 4: ale 4550 folded on the Turn
+Seat 5: Br4nc4l30n3 folded before Flop (didn't bet)
+Seat 6: zanderro (button) folded on the Flop
+
+
+
+PokerStars Hand #239588979335:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 15:02:18 ET
+Table 'Leonce III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($5.05 in chips) 
+Seat 2: Akkarim755 ($1.37 in chips) 
+Seat 3: maciejass83 ($2.15 in chips) 
+Seat 4: ale 4550 ($7.28 in chips) 
+Seat 5: Br4nc4l30n3 ($0.85 in chips) 
+Seat 6: zanderro ($1.16 in chips) 
+Akkarim755: posts small blind $0.01
+maciejass83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2s]
+ale 4550: folds 
+Br4nc4l30n3 has timed out
+Br4nc4l30n3: folds 
+zanderro: calls $0.02
+Lorpugo: folds 
+Akkarim755: folds 
+Br4nc4l30n3 is disconnected 
+maciejass83: raises $0.06 to $0.08
+zanderro: calls $0.06
+*** FLOP *** [Jd Qs Ts]
+maciejass83: bets $0.16
+zanderro: folds 
+Uncalled bet ($0.16) returned to maciejass83
+maciejass83 collected $0.16 from pot
+maciejass83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Jd Qs Ts]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Akkarim755 (small blind) folded before Flop
+Seat 3: maciejass83 (big blind) collected ($0.16)
+Seat 4: ale 4550 folded before Flop (didn't bet)
+Seat 5: Br4nc4l30n3 folded before Flop (didn't bet)
+Seat 6: zanderro folded on the Flop
+
+
+
+PokerStars Hand #239588997572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 15:03:07 ET
+Table 'Leonce III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($5.05 in chips) 
+Seat 2: Akkarim755 ($1.36 in chips) 
+Seat 3: maciejass83 ($2.23 in chips) 
+Seat 4: ale 4550 ($7.28 in chips) 
+Seat 6: zanderro ($1.08 in chips) 
+maciejass83: posts small blind $0.01
+ale 4550: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2s]
+zanderro: calls $0.02
+Lorpugo: folds 
+Akkarim755: folds 
+maciejass83: raises $0.06 to $0.08
+ale 4550: folds 
+zanderro: folds 
+Uncalled bet ($0.06) returned to maciejass83
+maciejass83 collected $0.06 from pot
+maciejass83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Akkarim755 (button) folded before Flop (didn't bet)
+Seat 3: maciejass83 (small blind) collected ($0.06)
+Seat 4: ale 4550 (big blind) folded before Flop
+Seat 6: zanderro folded before Flop
+
+
+
+PokerStars Hand #239589003788:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/11/01 15:03:24 ET
+Table 'Leonce III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($5.05 in chips) 
+Seat 2: Akkarim755 ($1.36 in chips) 
+Seat 3: maciejass83 ($2.27 in chips) 
+Seat 4: ale 4550 ($7.26 in chips) 
+Seat 6: zanderro ($1.06 in chips) 
+ale 4550: posts small blind $0.01
+zanderro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 4c]
+Lorpugo: raises $0.04 to $0.06
+Akkarim755: calls $0.06
+maciejass83: folds 
+ale 4550: folds 
+zanderro: calls $0.04
+*** FLOP *** [6h Kc 7d]
+zanderro: checks 
+Lorpugo: bets $0.09
+Akkarim755: folds 
+zanderro: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6h Kc 7d]
+Seat 1: Lorpugo collected ($0.18)
+Seat 2: Akkarim755 folded on the Flop
+Seat 3: maciejass83 (button) folded before Flop (didn't bet)
+Seat 4: ale 4550 (small blind) folded before Flop
+Seat 6: zanderro (big blind) folded on the Flop
+
+
+

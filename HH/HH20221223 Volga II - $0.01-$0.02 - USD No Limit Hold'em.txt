@@ -1,0 +1,4184 @@
+﻿PokerStars Hand #240643513996:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:54:52 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Chong lll ($1.79 in chips) 
+Seat 3: Ar198513 ($0.78 in chips) 
+Seat 4: alexandruraz ($2.13 in chips) 
+Seat 5: Kinlenis ($2.97 in chips) 
+Seat 6: marilen92 ($1.73 in chips) 
+marilen92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 9s]
+Chong lll: calls $0.02
+Ar198513: calls $0.02
+alexandruraz: raises $0.06 to $0.08
+Kinlenis: folds 
+marilen92: folds 
+Lorpugo: calls $0.06
+Chong lll: folds 
+Ar198513: calls $0.06
+*** FLOP *** [5c Td Qc]
+Lorpugo: checks 
+Ar198513: checks 
+alexandruraz: bets $0.13
+Lorpugo: raises $0.26 to $0.39
+Ar198513: folds 
+alexandruraz: calls $0.26
+*** TURN *** [5c Td Qc] [4s]
+Lorpugo: bets $1.13 and is all-in
+alexandruraz: folds 
+Uncalled bet ($1.13) returned to Lorpugo
+Lorpugo collected $1.01 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [5c Td Qc 4s]
+Seat 1: Lorpugo (big blind) collected ($1.01)
+Seat 2: Chong lll folded before Flop
+Seat 3: Ar198513 folded on the Flop
+Seat 4: alexandruraz folded on the Turn
+Seat 5: Kinlenis (button) folded before Flop (didn't bet)
+Seat 6: marilen92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240643530461:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:55:49 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.14 in chips) 
+Seat 2: Chong lll ($1.77 in chips) 
+Seat 3: Ar198513 ($0.70 in chips) 
+Seat 4: alexandruraz ($2 in chips) 
+Seat 5: Kinlenis ($2.97 in chips) 
+Seat 6: marilen92 ($1.72 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jc]
+Ar198513: folds 
+alexandruraz: folds 
+Kinlenis: folds 
+marilen92: calls $0.02
+Lorpugo: folds 
+Chong lll: checks 
+*** FLOP *** [4h Js 2d]
+Chong lll: checks 
+marilen92: checks 
+*** TURN *** [4h Js 2d] [7c]
+Chong lll: checks 
+marilen92: bets $0.03
+Chong lll: calls $0.03
+*** RIVER *** [4h Js 2d 7c] [Ks]
+Chong lll: checks 
+marilen92: checks 
+*** SHOW DOWN ***
+Chong lll: shows [5s 6s] (high card King)
+marilen92: shows [6d Jd] (a pair of Jacks)
+marilen92 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h Js 2d 7c Ks]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) showed [5s 6s] and lost with high card King
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: alexandruraz folded before Flop (didn't bet)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: marilen92 (button) showed [6d Jd] and won ($0.11) with a pair of Jacks
+
+
+
+PokerStars Hand #240643542391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:56:34 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.13 in chips) 
+Seat 2: Chong lll ($1.72 in chips) 
+Seat 3: Ar198513 ($0.70 in chips) 
+Seat 4: alexandruraz ($2 in chips) 
+Seat 5: Kinlenis ($2.97 in chips) 
+Seat 6: marilen92 ($1.78 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 5s]
+alexandruraz: folds 
+Kinlenis: folds 
+marilen92: calls $0.02
+Lorpugo: folds 
+Chong lll: calls $0.01
+Ar198513: checks 
+*** FLOP *** [3h 8s Td]
+Chong lll: checks 
+Ar198513: bets $0.04
+marilen92: calls $0.04
+Chong lll: calls $0.04
+*** TURN *** [3h 8s Td] [5h]
+Chong lll: checks 
+Ar198513: bets $0.04
+marilen92: calls $0.04
+Chong lll: calls $0.04
+*** RIVER *** [3h 8s Td 5h] [Qh]
+Chong lll: checks 
+Ar198513: bets $0.06
+marilen92: calls $0.06
+Chong lll: folds 
+*** SHOW DOWN ***
+Ar198513: shows [Qs Tc] (two pair, Queens and Tens)
+marilen92: mucks hand 
+Ar198513 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [3h 8s Td 5h Qh]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded on the River
+Seat 3: Ar198513 (big blind) showed [Qs Tc] and won ($0.41) with two pair, Queens and Tens
+Seat 4: alexandruraz folded before Flop (didn't bet)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: marilen92 mucked [Js Qc]
+
+
+
+PokerStars Hand #240643559870:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:57:40 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.13 in chips) 
+Seat 2: Chong lll ($1.62 in chips) 
+Seat 3: Ar198513 ($0.95 in chips) 
+Seat 5: Kinlenis ($2.97 in chips) 
+Seat 6: marilen92 ($1.62 in chips) 
+Ar198513: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qc]
+marilen92: calls $0.02
+alexandruraz leaves the table
+Lorpugo: raises $0.07 to $0.09
+fabio-bibi joins the table at seat #4 
+Chong lll: calls $0.09
+Ar198513: folds 
+Kinlenis: folds 
+marilen92: calls $0.07
+*** FLOP *** [6s Kh 4d]
+marilen92: checks 
+Lorpugo: bets $0.15
+Chong lll: raises $0.30 to $0.45
+marilen92: folds 
+Lorpugo: folds 
+Uncalled bet ($0.30) returned to Chong lll
+Chong lll collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [6s Kh 4d]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Chong lll (button) collected ($0.58)
+Seat 3: Ar198513 (small blind) folded before Flop
+Seat 5: Kinlenis (big blind) folded before Flop
+Seat 6: marilen92 folded on the Flop
+
+
+
+PokerStars Hand #240643569135:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:58:15 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.89 in chips) 
+Seat 2: Chong lll ($1.96 in chips) 
+Seat 3: Ar198513 ($0.94 in chips) 
+Seat 5: Kinlenis ($2.95 in chips) 
+Seat 6: marilen92 ($1.53 in chips) 
+Kinlenis: posts small blind $0.01
+marilen92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9h]
+Lorpugo: folds 
+Chong lll: calls $0.02
+Ar198513: calls $0.02
+Kinlenis: folds 
+marilen92: checks 
+*** FLOP *** [4s 6c Kh]
+marilen92: checks 
+Chong lll: checks 
+Ar198513: checks 
+*** TURN *** [4s 6c Kh] [5h]
+marilen92: checks 
+Chong lll: checks 
+Ar198513: checks 
+*** RIVER *** [4s 6c Kh 5h] [Ac]
+marilen92: checks 
+Chong lll: checks 
+Ar198513: checks 
+*** SHOW DOWN ***
+marilen92: shows [8h Tc] (high card Ace)
+Chong lll: shows [Qc Jd] (high card Ace - King+Queen kicker)
+Ar198513: mucks hand 
+Chong lll collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4s 6c Kh 5h Ac]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll showed [Qc Jd] and won ($0.07) with high card Ace
+Seat 3: Ar198513 (button) mucked [Js 7c]
+Seat 5: Kinlenis (small blind) folded before Flop
+Seat 6: marilen92 (big blind) showed [8h Tc] and lost with high card Ace
+
+
+
+PokerStars Hand #240643587643:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:59:24 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.89 in chips) 
+Seat 2: Chong lll ($2.01 in chips) 
+Seat 3: Ar198513 ($0.92 in chips) 
+Seat 5: Kinlenis ($2.94 in chips) 
+Seat 6: marilen92 ($1.51 in chips) 
+marilen92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6s]
+Chong lll: calls $0.02
+Ar198513: folds 
+Kinlenis: folds 
+marilen92: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ah 3c Ks]
+marilen92: checks 
+Lorpugo: checks 
+Chong lll: bets $0.04
+marilen92: folds 
+Lorpugo: calls $0.04
+*** TURN *** [Ah 3c Ks] [Td]
+Lorpugo: checks 
+Chong lll: bets $0.04
+Lorpugo: raises $0.11 to $0.15
+Chong lll: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.21 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Ah 3c Ks Td]
+Seat 1: Lorpugo (big blind) collected ($0.21)
+Seat 2: Chong lll folded on the Turn
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 5: Kinlenis (button) folded before Flop (didn't bet)
+Seat 6: marilen92 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240643598004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:00:04 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 2: Chong lll ($1.91 in chips) 
+Seat 3: Ar198513 ($0.92 in chips) 
+Seat 5: Kinlenis ($2.94 in chips) 
+Seat 6: marilen92 ($1.49 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4s]
+Ar198513: calls $0.02
+Kinlenis: folds 
+marilen92: folds 
+Lorpugo: folds 
+Chong lll: checks 
+*** FLOP *** [5c 4c 2s]
+marilen92 leaves the table
+Chong lll: checks 
+Ar198513: checks 
+*** TURN *** [5c 4c 2s] [7s]
+Chong lll: checks 
+Ar198513: checks 
+*** RIVER *** [5c 4c 2s 7s] [6h]
+Chong lll: checks 
+Ar198513: bets $0.04
+Chong lll: folds 
+Uncalled bet ($0.04) returned to Ar198513
+Ar198513 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5c 4c 2s 7s 6h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded on the River
+Seat 3: Ar198513 collected ($0.05)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: marilen92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643608124:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:00:41 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.89 in chips) 
+Seat 3: Ar198513 ($0.95 in chips) 
+Seat 5: Kinlenis ($2.94 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6h]
+Kinlenis: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Uncalled bet ($0.01) returned to Ar198513
+Ar198513 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) collected ($0.02)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643610391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:00:49 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.88 in chips) 
+Seat 3: Ar198513 ($0.96 in chips) 
+Seat 4: fabio-bibi ($0.80 in chips) 
+Seat 5: Kinlenis ($2.94 in chips) 
+Ar198513: posts small blind $0.01
+fabio-bibi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3d]
+Kinlenis: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: calls $0.01
+fabio-bibi: checks 
+*** FLOP *** [6c 8s 5h]
+Ar198513: checks 
+fabio-bibi: checks 
+*** TURN *** [6c 8s 5h] [4s]
+Ar198513: checks 
+fabio-bibi: bets $0.02
+Ar198513: folds 
+Uncalled bet ($0.02) returned to fabio-bibi
+fabio-bibi collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6c 8s 5h 4s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) folded on the Turn
+Seat 4: fabio-bibi (big blind) collected ($0.04)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643619212:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:01:18 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.88 in chips) 
+Seat 3: Ar198513 ($0.94 in chips) 
+Seat 4: fabio-bibi ($0.82 in chips) 
+Seat 5: Kinlenis ($2.94 in chips) 
+fabio-bibi: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ad]
+Lorpugo: folds 
+Chong lll: calls $0.02
+Ar198513: calls $0.02
+fabio-bibi: calls $0.01
+Kinlenis: checks 
+*** FLOP *** [As Kd 6h]
+fabio-bibi: checks 
+Kinlenis: bets $0.02
+Chong lll: calls $0.02
+Ar198513: calls $0.02
+fabio-bibi: folds 
+*** TURN *** [As Kd 6h] [3d]
+Kinlenis: bets $0.02
+Chong lll: calls $0.02
+Ar198513: calls $0.02
+*** RIVER *** [As Kd 6h 3d] [3s]
+Kinlenis: bets $0.10
+Chong lll: folds 
+Dav55_00 joins the table at seat #6 
+Ar198513: folds 
+Uncalled bet ($0.10) returned to Kinlenis
+Kinlenis collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [As Kd 6h 3d 3s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded on the River
+Seat 3: Ar198513 (button) folded on the River
+Seat 4: fabio-bibi (small blind) folded on the Flop
+Seat 5: Kinlenis (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #240643630124:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:01:53 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.82 in chips) 
+Seat 3: Ar198513 ($0.88 in chips) 
+Seat 4: fabio-bibi ($0.80 in chips) 
+Seat 5: Kinlenis ($3.07 in chips) 
+Seat 6: Dav55_00 ($2 in chips) 
+Kinlenis: posts small blind $0.01
+Dav55_00: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ts]
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: calls $0.02
+fabio-bibi: folds 
+Kinlenis: calls $0.01
+Dav55_00: checks 
+*** FLOP *** [Qd Js Kc]
+Kinlenis: checks 
+Dav55_00: bets $0.02
+Ar198513: folds 
+Kinlenis: calls $0.02
+*** TURN *** [Qd Js Kc] [2c]
+Kinlenis: checks 
+Dav55_00: bets $0.02
+Kinlenis: calls $0.02
+*** RIVER *** [Qd Js Kc 2c] [5h]
+Kinlenis: checks 
+Dav55_00: bets $0.30
+Kinlenis: folds 
+Uncalled bet ($0.30) returned to Dav55_00
+Dav55_00 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qd Js Kc 2c 5h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 folded on the Flop
+Seat 4: fabio-bibi (button) folded before Flop (didn't bet)
+Seat 5: Kinlenis (small blind) folded on the River
+Seat 6: Dav55_00 (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #240643647430:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:02:46 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.82 in chips) 
+Seat 3: Ar198513 ($0.86 in chips) 
+Seat 4: fabio-bibi ($0.80 in chips) 
+Seat 5: Kinlenis ($3.01 in chips) 
+Seat 6: Dav55_00 ($2.08 in chips) 
+Dav55_00: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 2h]
+Chong lll: raises $0.04 to $0.06
+Ar198513: folds 
+fabio-bibi: folds 
+Kinlenis: calls $0.06
+Dav55_00: folds 
+Lorpugo: folds 
+*** FLOP *** [4c As 4h]
+Chong lll: checks 
+Kinlenis: checks 
+*** TURN *** [4c As 4h] [5s]
+Chong lll: checks 
+Kinlenis: bets $0.07
+Chong lll: folds 
+Uncalled bet ($0.07) returned to Kinlenis
+Kinlenis collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4c As 4h 5s]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Chong lll folded on the Turn
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: fabio-bibi folded before Flop (didn't bet)
+Seat 5: Kinlenis (button) collected ($0.14)
+Seat 6: Dav55_00 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240643659576:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:03:22 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.76 in chips) 
+Seat 3: Ar198513 ($0.86 in chips) 
+Seat 4: fabio-bibi ($0.80 in chips) 
+Seat 5: Kinlenis ($3.09 in chips) 
+Seat 6: Dav55_00 ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2c]
+Ar198513: calls $0.02
+fabio-bibi: calls $0.02
+Kinlenis: folds 
+Dav55_00: calls $0.02
+Lorpugo: folds 
+Chong lll: checks 
+*** FLOP *** [Jd 3s 7s]
+Chong lll: checks 
+Ar198513: checks 
+fabio-bibi: checks 
+Dav55_00: bets $0.06
+Chong lll: raises $0.06 to $0.12
+Ar198513: folds 
+fabio-bibi: calls $0.12
+Dav55_00: folds 
+*** TURN *** [Jd 3s 7s] [2d]
+Chong lll: bets $0.19
+fabio-bibi: calls $0.19
+*** RIVER *** [Jd 3s 7s 2d] [Kd]
+Chong lll: checks 
+fabio-bibi: bets $0.47 and is all-in
+Chong lll: calls $0.47
+*** SHOW DOWN ***
+fabio-bibi: shows [7h Kh] (two pair, Kings and Sevens)
+Chong lll: shows [Jh 3c] (two pair, Jacks and Threes)
+fabio-bibi collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.06 
+Board [Jd 3s 7s 2d Kd]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) showed [Jh 3c] and lost with two pair, Jacks and Threes
+Seat 3: Ar198513 folded on the Flop
+Seat 4: fabio-bibi showed [7h Kh] and won ($1.65) with two pair, Kings and Sevens
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: Dav55_00 (button) folded on the Flop
+
+
+
+PokerStars Hand #240643686529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:04:41 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.96 in chips) 
+Seat 2: Chong lll ($0.96 in chips) 
+Seat 3: Ar198513 ($0.84 in chips) 
+Seat 4: fabio-bibi ($1.65 in chips) 
+Seat 5: Kinlenis ($3.09 in chips) 
+Seat 6: Dav55_00 ($1.99 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 6s]
+fabio-bibi: calls $0.02
+Kinlenis: folds 
+Dav55_00: calls $0.02
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: checks 
+*** FLOP *** [Ks 7h Jh]
+Ar198513: bets $0.02
+fabio-bibi: calls $0.02
+Dav55_00: folds 
+*** TURN *** [Ks 7h Jh] [Ac]
+Ar198513: bets $0.02
+fabio-bibi: calls $0.02
+*** RIVER *** [Ks 7h Jh Ac] [As]
+Ar198513: bets $0.02
+fabio-bibi: folds 
+Uncalled bet ($0.02) returned to Ar198513
+Ar198513 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks 7h Jh Ac As]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) collected ($0.14)
+Seat 4: fabio-bibi folded on the River
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: Dav55_00 folded on the Flop
+
+
+
+PokerStars Hand #240643697150:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:05:13 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.96 in chips) 
+Seat 2: Chong lll ($0.95 in chips) 
+Seat 3: Ar198513 ($0.92 in chips) 
+Seat 4: fabio-bibi ($1.59 in chips) 
+Seat 5: Kinlenis ($3.09 in chips) 
+Seat 6: Dav55_00 ($1.97 in chips) 
+Ar198513: posts small blind $0.01
+fabio-bibi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Tc]
+Kinlenis: folds 
+Dav55_00: folds 
+Lorpugo: folds 
+Chong lll: raises $0.93 to $0.95 and is all-in
+Ar198513: folds 
+fabio-bibi: folds 
+Uncalled bet ($0.93) returned to Chong lll
+fabio-bibi leaves the table
+Chong lll collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) collected ($0.05)
+Seat 3: Ar198513 (small blind) folded before Flop
+Seat 4: fabio-bibi (big blind) folded before Flop
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: Dav55_00 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643702456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:05:29 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.96 in chips) 
+Seat 2: Chong lll ($0.98 in chips) 
+Seat 3: Ar198513 ($0.91 in chips) 
+Seat 5: Kinlenis ($3.09 in chips) 
+Seat 6: Dav55_00 ($1.97 in chips) 
+Kinlenis: posts small blind $0.01
+Dav55_00: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 2h]
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: folds 
+Kinlenis: raises $0.04 to $0.06
+Dav55_00: raises $1.91 to $1.97 and is all-in
+Kinlenis: calls $1.91
+*** FLOP *** [6s 2s Ad]
+17seventeen17 joins the table at seat #4 
+*** TURN *** [6s 2s Ad] [Th]
+*** RIVER *** [6s 2s Ad Th] [3h]
+*** SHOW DOWN ***
+Kinlenis: shows [As Qd] (a pair of Aces)
+Dav55_00: shows [9s 6d] (a pair of Sixes)
+Kinlenis collected $3.80 from pot
+*** SUMMARY ***
+Total pot $3.94 | Rake $0.14 
+Board [6s 2s Ad Th 3h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 (button) folded before Flop (didn't bet)
+Seat 5: Kinlenis (small blind) showed [As Qd] and won ($3.80) with a pair of Aces
+Seat 6: Dav55_00 (big blind) showed [9s 6d] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #240643713474:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:06:01 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.96 in chips) 
+Seat 2: Chong lll ($0.98 in chips) 
+Seat 3: Ar198513 ($0.91 in chips) 
+Seat 5: Kinlenis ($4.92 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 4s]
+Ar198513: calls $0.02
+Kinlenis: folds 
+Lorpugo: folds 
+Dav55_00 leaves the table
+Chong lll: checks 
+*** FLOP *** [2d 2c Qd]
+Chong lll: checks 
+Ar198513: bets $0.02
+Chong lll: folds 
+Uncalled bet ($0.02) returned to Ar198513
+Ar198513 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d 2c Qd]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded on the Flop
+Seat 3: Ar198513 collected ($0.05)
+Seat 5: Kinlenis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643720359:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:06:21 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($0.96 in chips) 
+Seat 3: Ar198513 ($0.94 in chips) 
+Seat 5: Kinlenis ($4.92 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 3c]
+Kinlenis: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Uncalled bet ($0.01) returned to Ar198513
+Ar198513 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) collected ($0.02)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643722885:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:06:29 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($0.95 in chips) 
+Seat 3: Ar198513 ($0.95 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.92 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qh]
+Kinlenis: folds 
+Lorpugo: folds 
+Chong lll: calls $0.02
+Ar198513: calls $0.01
+17seventeen17: checks 
+*** FLOP *** [Ac 6h 4c]
+Ar198513: bets $0.02
+17seventeen17: folds 
+Chong lll: calls $0.02
+*** TURN *** [Ac 6h 4c] [4d]
+Ar198513: bets $0.02
+Chong lll: calls $0.02
+*** RIVER *** [Ac 6h 4c 4d] [7s]
+demianhyde joins the table at seat #6 
+Ar198513: bets $0.02
+Chong lll: folds 
+Uncalled bet ($0.02) returned to Ar198513
+Ar198513 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ac 6h 4c 4d 7s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded on the River
+Seat 3: Ar198513 (small blind) collected ($0.14)
+Seat 4: 17seventeen17 (big blind) folded on the Flop
+Seat 5: Kinlenis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643734369:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:07:02 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($0.89 in chips) 
+Seat 3: Ar198513 ($1.03 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.92 in chips) 
+17seventeen17: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ac]
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: folds 
+17seventeen17: folds 
+Kinlenis: calls $0.04
+*** FLOP *** [6s 2d 7c]
+Kinlenis: checks 
+Lorpugo: bets $0.07
+Kinlenis: calls $0.07
+*** TURN *** [6s 2d 7c] [3d]
+Kinlenis: checks 
+Lorpugo: bets $0.17
+Kinlenis: calls $0.17
+*** RIVER *** [6s 2d 7c 3d] [As]
+Kinlenis: checks 
+Lorpugo: bets $0.36
+Kinlenis: folds 
+Uncalled bet ($0.36) returned to Lorpugo
+Lorpugo collected $0.59 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [6s 2d 7c 3d As]
+Seat 1: Lorpugo collected ($0.59)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 (button) folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 5: Kinlenis (big blind) folded on the River
+
+
+
+PokerStars Hand #240643757106:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:08:09 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.24 in chips) 
+Seat 2: Chong lll ($0.89 in chips) 
+Seat 3: Ar198513 ($1.03 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.62 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Kinlenis: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 6d]
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: folds 
+17seventeen17: folds 
+Kinlenis: calls $0.05
+demianhyde: folds 
+*** FLOP *** [Kd Tc Ks]
+Kinlenis: checks 
+Lorpugo: bets $0.07
+Kinlenis: calls $0.07
+*** TURN *** [Kd Tc Ks] [5d]
+Kinlenis: checks 
+Lorpugo: bets $0.09
+Kinlenis: raises $0.15 to $0.24
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Kinlenis
+Kinlenis collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Kd Tc Ks 5d]
+Seat 1: Lorpugo folded on the Turn
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Kinlenis (small blind) collected ($0.44)
+Seat 6: demianhyde (big blind) folded before Flop
+
+
+
+PokerStars Hand #240643775569:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:09:03 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.02 in chips) 
+Seat 2: Chong lll ($0.89 in chips) 
+Seat 3: Ar198513 ($1.03 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.84 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Qs]
+Chong lll: folds 
+Ar198513: raises $0.02 to $0.04
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Ar198513
+Ar198513 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 collected ($0.05)
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis (button) folded before Flop (didn't bet)
+Seat 6: demianhyde (small blind) folded before Flop
+
+
+
+PokerStars Hand #240643780836:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:09:18 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 2: Chong lll ($0.89 in chips) 
+Seat 3: Ar198513 ($1.06 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.84 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 6s]
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: raises $0.04 to $0.06
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: folds 
+Uncalled bet ($0.04) returned to Kinlenis
+Kinlenis collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded before Flop
+Seat 3: Ar198513 folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis collected ($0.07)
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643788244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:09:40 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($0.87 in chips) 
+Seat 3: Ar198513 ($1.04 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.89 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Ks]
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: calls $0.04
+*** FLOP *** [7h 8h Js]
+Ar198513: checks 
+Lorpugo: checks 
+*** TURN *** [7h 8h Js] [4d]
+Ar198513: checks 
+Lorpugo: bets $0.02
+Ar198513: calls $0.02
+*** RIVER *** [7h 8h Js 4d] [4s]
+Ar198513: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Ar198513: shows [8c 8s] (a full house, Eights full of Fours)
+Lorpugo: mucks hand 
+Ar198513 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [7h 8h Js 4d 4s]
+Seat 1: Lorpugo (button) mucked [7d Ks]
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) showed [8c 8s] and won ($0.16) with a full house, Eights full of Fours
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643801833:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:10:19 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Chong lll ($0.86 in chips) 
+Seat 3: Ar198513 ($1.12 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.89 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 5s]
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: calls $0.01
+17seventeen17: checks 
+*** FLOP *** [Qs 7d 3s]
+Ar198513: bets $0.02
+17seventeen17: folds 
+Uncalled bet ($0.02) returned to Ar198513
+Ar198513 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qs 7d 3s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) collected ($0.04)
+Seat 4: 17seventeen17 (big blind) folded on the Flop
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643811513:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:10:47 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Chong lll ($0.86 in chips) 
+Seat 3: Ar198513 ($1.14 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.89 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+17seventeen17: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 9d]
+demianhyde: raises $0.03 to $0.05
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: folds 
+17seventeen17: folds 
+Kinlenis: folds 
+Uncalled bet ($0.03) returned to demianhyde
+demianhyde collected $0.05 from pot
+demianhyde: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 (button) folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 5: Kinlenis (big blind) folded before Flop
+Seat 6: demianhyde collected ($0.05)
+
+
+
+PokerStars Hand #240643817212:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:11:03 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Chong lll ($0.86 in chips) 
+Seat 3: Ar198513 ($1.14 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.87 in chips) 
+Seat 6: demianhyde ($2.03 in chips) 
+Kinlenis: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 4d]
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: checks 
+*** FLOP *** [3c As 6h]
+demianhyde: checks 
+Ar198513: bets $0.02
+demianhyde: folds 
+Uncalled bet ($0.02) returned to Ar198513
+Ar198513 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c As 6h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 collected ($0.05)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Kinlenis (small blind) folded before Flop
+Seat 6: demianhyde (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240643825300:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:11:27 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Chong lll ($0.86 in chips) 
+Seat 3: Ar198513 ($1.17 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.86 in chips) 
+Seat 6: demianhyde ($2.01 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Tc]
+Chong lll: folds 
+Ar198513: folds 
+17seventeen17: folds 
+Kinlenis: raises $0.04 to $0.06
+demianhyde: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [4h Qd 9d]
+demianhyde: checks 
+Kinlenis: bets $0.07
+demianhyde: folds 
+Uncalled bet ($0.07) returned to Kinlenis
+Kinlenis collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4h Qd 9d]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis (button) collected ($0.14)
+Seat 6: demianhyde (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240643839751:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:12:09 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.89 in chips) 
+Seat 2: Chong lll ($0.86 in chips) 
+Seat 3: Ar198513 ($1.17 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.94 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7d]
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: calls $0.02
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: checks 
+*** FLOP *** [5h Qc 7s]
+Chong lll: checks 
+Ar198513: checks 
+Kinlenis: bets $0.05
+Chong lll: folds 
+Ar198513: folds 
+Uncalled bet ($0.05) returned to Kinlenis
+Kinlenis collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [5h Qc 7s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded on the Flop
+Seat 3: Ar198513 folded on the Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis collected ($0.07)
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643851678:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:12:43 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.88 in chips) 
+Seat 2: Chong lll ($0.84 in chips) 
+Seat 3: Ar198513 ($1.15 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.99 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Th]
+17seventeen17: raises $0.03 to $0.05
+Kinlenis: folds 
+demianhyde: calls $0.05
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: folds 
+*** FLOP *** [4c Td 9h]
+17seventeen17: checks 
+demianhyde: checks 
+*** TURN *** [4c Td 9h] [Js]
+17seventeen17: checks 
+demianhyde: checks 
+*** RIVER *** [4c Td 9h Js] [2d]
+17seventeen17: checks 
+demianhyde: checks 
+*** SHOW DOWN ***
+17seventeen17: shows [Ah 7h] (high card Ace)
+demianhyde: shows [2s As] (a pair of Deuces)
+demianhyde collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c Td 9h Js 2d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) folded before Flop
+Seat 4: 17seventeen17 showed [Ah 7h] and lost with high card Ace
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde showed [2s As] and won ($0.13) with a pair of Deuces
+
+
+
+PokerStars Hand #240643865151:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:13:22 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.88 in chips) 
+Seat 2: Chong lll ($0.83 in chips) 
+Seat 3: Ar198513 ($1.13 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($4.99 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5s]
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: calls $0.01
+17seventeen17: checks 
+*** FLOP *** [4s Kh Ad]
+Ar198513: checks 
+17seventeen17: checks 
+*** TURN *** [4s Kh Ad] [As]
+Ar198513: checks 
+17seventeen17: checks 
+*** RIVER *** [4s Kh Ad As] [7c]
+Ar198513: checks 
+17seventeen17: checks 
+*** SHOW DOWN ***
+Ar198513: shows [2s Td] (a pair of Aces)
+17seventeen17: shows [Js Tc] (a pair of Aces - King+Jack kicker)
+17seventeen17 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4s Kh Ad As 7c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) showed [2s Td] and lost with a pair of Aces
+Seat 4: 17seventeen17 (big blind) showed [Js Tc] and won ($0.04) with a pair of Aces
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643877381:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:13:57 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.88 in chips) 
+Seat 2: Chong lll ($0.83 in chips) 
+Seat 3: Ar198513 ($1.11 in chips) 
+Seat 4: 17seventeen17 ($2.02 in chips) 
+Seat 5: Kinlenis ($4.99 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+17seventeen17: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Qd]
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: calls $0.02
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: checks 
+*** FLOP *** [6c 3h 6h]
+Kinlenis: checks 
+Chong lll: checks 
+Ar198513: bets $0.02
+Kinlenis: calls $0.02
+Chong lll: folds 
+*** TURN *** [6c 3h 6h] [Td]
+Kinlenis: checks 
+Ar198513: bets $0.04
+Kinlenis: folds 
+Uncalled bet ($0.04) returned to Ar198513
+Ar198513 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6c 3h 6h Td]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded on the Flop
+Seat 3: Ar198513 (button) collected ($0.11)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 5: Kinlenis (big blind) folded on the Turn
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643890327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:14:35 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.88 in chips) 
+Seat 2: Chong lll ($0.81 in chips) 
+Seat 3: Ar198513 ($1.18 in chips) 
+Seat 4: 17seventeen17 ($2.01 in chips) 
+Seat 5: Kinlenis ($4.95 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+Kinlenis: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9d]
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: folds 
+17seventeen17: folds 
+Kinlenis: folds 
+Uncalled bet ($0.01) returned to demianhyde
+demianhyde collected $0.02 from pot
+demianhyde: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Kinlenis (small blind) folded before Flop
+Seat 6: demianhyde (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240643895245:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:14:49 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.88 in chips) 
+Seat 2: Chong lll ($0.81 in chips) 
+Seat 3: Ar198513 ($1.18 in chips) 
+Seat 4: 17seventeen17 ($2.01 in chips) 
+Seat 5: Kinlenis ($4.94 in chips) 
+Seat 6: demianhyde ($2.09 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 8s]
+Chong lll: calls $0.02
+Ar198513: folds 
+17seventeen17: folds 
+Kinlenis: raises $0.10 to $0.12
+demianhyde: folds 
+Lorpugo: calls $0.10
+Chong lll: folds 
+*** FLOP *** [4c 3d Kh]
+Lorpugo: checks 
+Kinlenis: bets $0.13
+Lorpugo: calls $0.13
+*** TURN *** [4c 3d Kh] [Tc]
+Lorpugo: checks 
+Kinlenis: bets $0.26
+Lorpugo: folds 
+Uncalled bet ($0.26) returned to Kinlenis
+Kinlenis collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [4c 3d Kh Tc]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: Chong lll folded before Flop
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis (button) collected ($0.51)
+Seat 6: demianhyde (small blind) folded before Flop
+
+
+
+PokerStars Hand #240643908616:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:15:28 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.63 in chips) 
+Seat 2: Chong lll ($0.79 in chips) 
+Seat 3: Ar198513 ($1.18 in chips) 
+Seat 4: 17seventeen17 ($2.01 in chips) 
+Seat 5: Kinlenis ($5.20 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Td]
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: calls $0.02
+demianhyde: folds 
+Lorpugo: calls $0.01
+Chong lll: checks 
+*** FLOP *** [Ts Qd As]
+Lorpugo: bets $0.03
+Chong lll: folds 
+Ar198513: calls $0.03
+Kinlenis: raises $0.09 to $0.12
+Lorpugo: calls $0.09
+Ar198513: folds 
+*** TURN *** [Ts Qd As] [6c]
+Lorpugo: checks 
+Kinlenis: bets $0.21
+Lorpugo: calls $0.21
+*** RIVER *** [Ts Qd As 6c] [Js]
+Lorpugo: checks 
+Kinlenis: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qs Td] (two pair, Queens and Tens)
+Kinlenis: shows [Qh Th] (two pair, Queens and Tens)
+Lorpugo collected $0.37 from pot
+Kinlenis collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Ts Qd As 6c Js]
+Seat 1: Lorpugo (small blind) showed [Qs Td] and won ($0.37) with two pair, Queens and Tens
+Seat 2: Chong lll (big blind) folded on the Flop
+Seat 3: Ar198513 folded on the Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis showed [Qh Th] and won ($0.37) with two pair, Queens and Tens
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643925815:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:16:17 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.65 in chips) 
+Seat 2: Chong lll ($0.77 in chips) 
+Seat 3: Ar198513 ($1.13 in chips) 
+Seat 4: 17seventeen17 ($2.01 in chips) 
+Seat 5: Kinlenis ($5.22 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5d]
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: calls $0.05
+Ar198513: folds 
+*** FLOP *** [9s 6s 9c]
+Chong lll: checks 
+Lorpugo: bets $0.05
+Chong lll: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s 6s 9c]
+Seat 1: Lorpugo (button) collected ($0.14)
+Seat 2: Chong lll (small blind) folded on the Flop
+Seat 3: Ar198513 (big blind) folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643935604:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:16:45 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 2: Chong lll ($0.71 in chips) 
+Seat 3: Ar198513 ($1.11 in chips) 
+Seat 4: 17seventeen17 ($2.01 in chips) 
+Seat 5: Kinlenis ($5.22 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Js]
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: calls $0.01
+17seventeen17: checks 
+*** FLOP *** [9d 7d Qc]
+Ar198513: checks 
+17seventeen17: checks 
+*** TURN *** [9d 7d Qc] [8s]
+Ar198513: checks 
+17seventeen17: checks 
+*** RIVER *** [9d 7d Qc 8s] [8d]
+Ar198513: checks 
+17seventeen17: checks 
+*** SHOW DOWN ***
+Ar198513: shows [6d 3s] (a pair of Eights)
+17seventeen17: shows [7c 2h] (two pair, Eights and Sevens)
+17seventeen17 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d 7d Qc 8s 8d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) showed [6d 3s] and lost with a pair of Eights
+Seat 4: 17seventeen17 (big blind) showed [7c 2h] and won ($0.04) with two pair, Eights and Sevens
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643944279:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:17:11 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 2: Chong lll ($0.71 in chips) 
+Seat 3: Ar198513 ($1.09 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Kinlenis ($5.22 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+17seventeen17: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5s]
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: raises $0.02 to $0.04
+17seventeen17: raises $0.12 to $0.16
+Kinlenis: folds 
+Ar198513: folds 
+Uncalled bet ($0.12) returned to 17seventeen17
+17seventeen17 collected $0.10 from pot
+17seventeen17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 (button) folded before Flop
+Seat 4: 17seventeen17 (small blind) collected ($0.10)
+Seat 5: Kinlenis (big blind) folded before Flop
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643954131:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:17:39 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 2: Chong lll ($0.71 in chips) 
+Seat 3: Ar198513 ($1.05 in chips) 
+Seat 4: 17seventeen17 ($2.09 in chips) 
+Seat 5: Kinlenis ($5.20 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+Kinlenis: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6h]
+Lorpugo: folds 
+Chong lll has timed out
+Chong lll: folds 
+Ar198513: calls $0.02
+17seventeen17: raises $0.04 to $0.06
+Kinlenis: folds 
+demianhyde: folds 
+Ar198513: calls $0.04
+*** FLOP *** [7c 4c 2c]
+Ar198513: bets $0.06
+17seventeen17: folds 
+Uncalled bet ($0.06) returned to Ar198513
+Ar198513 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7c 4c 2c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 collected ($0.14)
+Seat 4: 17seventeen17 (button) folded on the Flop
+Seat 5: Kinlenis (small blind) folded before Flop
+Seat 6: demianhyde (big blind) folded before Flop
+
+
+
+PokerStars Hand #240643967091:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:18:17 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 2: Chong lll ($0.71 in chips) 
+Seat 3: Ar198513 ($1.13 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Kinlenis ($5.19 in chips) 
+Seat 6: demianhyde ($2.06 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 5c]
+Chong lll: folds 
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: raises $0.08 to $0.10
+Lorpugo: folds 
+Ar198513: folds 
+Uncalled bet ($0.08) returned to demianhyde
+demianhyde collected $0.06 from pot
+demianhyde: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis (button) folded before Flop (didn't bet)
+Seat 6: demianhyde (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #240643976539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:18:44 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.71 in chips) 
+Seat 2: Chong lll ($0.71 in chips) 
+Seat 3: Ar198513 ($1.11 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Kinlenis ($5.19 in chips) 
+Seat 6: demianhyde ($2.10 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ah]
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: raises $0.10 to $0.12
+Chong lll: folds 
+Ar198513: calls $0.10
+*** FLOP *** [As 9c 5h]
+Lorpugo: checks 
+Ar198513: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [As 9c 5h] [9h]
+Lorpugo: bets $0.50
+Ar198513: folds 
+Uncalled bet ($0.50) returned to Lorpugo
+Lorpugo collected $0.37 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [As 9c 5h 9h]
+Seat 1: Lorpugo (small blind) collected ($0.37)
+Seat 2: Chong lll (big blind) folded before Flop
+Seat 3: Ar198513 folded on the Turn
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643994769:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:19:37 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.90 in chips) 
+Seat 2: Chong lll ($0.69 in chips) 
+Seat 3: Ar198513 ($0.93 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Kinlenis ($5.19 in chips) 
+Seat 6: demianhyde ($2.10 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8c]
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: calls $0.04
+*** FLOP *** [Td Th Tc]
+Ar198513: checks 
+Lorpugo: bets $0.09
+Ar198513: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td Th Tc]
+Seat 1: Lorpugo (button) collected ($0.13)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) folded on the Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644002639:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:20:00 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($0.68 in chips) 
+Seat 3: Ar198513 ($0.87 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Kinlenis ($5.19 in chips) 
+Seat 6: demianhyde ($2.10 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Kd]
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: folds 
+17seventeen17: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) folded before Flop
+Seat 4: 17seventeen17 (big blind) folded before Flop
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644010628:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:20:23 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 2: Chong lll ($0.68 in chips) 
+Seat 3: Ar198513 ($0.86 in chips) 
+Seat 4: 17seventeen17 ($2.01 in chips) 
+Seat 5: Kinlenis ($5.19 in chips) 
+Seat 6: demianhyde ($2.10 in chips) 
+17seventeen17: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 5s]
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: calls $0.02
+Ar198513: calls $0.02
+17seventeen17: calls $0.01
+Kinlenis: checks 
+*** FLOP *** [Qc 6c 4s]
+17seventeen17: checks 
+Kinlenis: checks 
+Chong lll: bets $0.04
+Ar198513: calls $0.04
+17seventeen17: folds 
+Kinlenis: calls $0.04
+*** TURN *** [Qc 6c 4s] [9s]
+Kinlenis: checks 
+Chong lll: bets $0.04
+Ar198513: calls $0.04
+Kinlenis: calls $0.04
+*** RIVER *** [Qc 6c 4s 9s] [Jd]
+Kinlenis: checks 
+Chong lll: checks 
+Ar198513: checks 
+*** SHOW DOWN ***
+Kinlenis: shows [6d Kc] (a pair of Sixes)
+Chong lll: mucks hand 
+Ar198513: shows [9d Ac] (a pair of Nines)
+Ar198513 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qc 6c 4s 9s Jd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll mucked [8c 7c]
+Seat 3: Ar198513 (button) showed [9d Ac] and won ($0.31) with a pair of Nines
+Seat 4: 17seventeen17 (small blind) folded on the Flop
+Seat 5: Kinlenis (big blind) showed [6d Kc] and lost with a pair of Sixes
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644028669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:21:16 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 2: Chong lll ($0.58 in chips) 
+Seat 3: Ar198513 ($1.07 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($5.09 in chips) 
+Seat 6: demianhyde ($2.10 in chips) 
+Kinlenis: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ac]
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: calls $0.06
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: folds 
+*** FLOP *** [Jh 6d 2s]
+Lorpugo: checks 
+Ar198513: checks 
+*** TURN *** [Jh 6d 2s] [Jd]
+Lorpugo: checks 
+Ar198513: checks 
+*** RIVER *** [Jh 6d 2s Jd] [3d]
+Lorpugo: checks 
+Ar198513: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Ar198513
+Ar198513 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh 6d 2s Jd 3d]
+Seat 1: Lorpugo folded on the River
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 collected ($0.14)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Kinlenis (small blind) folded before Flop
+Seat 6: demianhyde (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644044418:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:22:02 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.94 in chips) 
+Seat 2: Chong lll ($0.58 in chips) 
+Seat 3: Ar198513 ($1.15 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Kinlenis ($5.08 in chips) 
+Seat 6: demianhyde ($2.08 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 3c]
+Chong lll: calls $0.02
+Ar198513: folds 
+17seventeen17: raises $0.03 to $0.05
+Kinlenis: calls $0.05
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: calls $0.03
+*** FLOP *** [6h Qc Kd]
+Chong lll: checks 
+17seventeen17: bets $0.09
+Kinlenis: folds 
+Chong lll: folds 
+Uncalled bet ($0.09) returned to 17seventeen17
+17seventeen17 collected $0.17 from pot
+17seventeen17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6h Qc Kd]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Chong lll folded on the Flop
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: 17seventeen17 collected ($0.17)
+Seat 5: Kinlenis (button) folded on the Flop
+Seat 6: demianhyde (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644058822:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:22:44 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.92 in chips) 
+Seat 2: Chong lll ($0.53 in chips) 
+Seat 3: Ar198513 ($1.15 in chips) 
+Seat 4: 17seventeen17 ($2.12 in chips) 
+Seat 5: Kinlenis ($5.03 in chips) 
+Seat 6: demianhyde ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5h]
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: raises $0.09 to $0.11
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: raises $0.42 to $0.53 and is all-in
+Ar198513: folds 
+Kinlenis: calls $0.42
+*** FLOP *** [9h 2c Qh]
+*** TURN *** [9h 2c Qh] [3s]
+*** RIVER *** [9h 2c Qh 3s] [4h]
+*** SHOW DOWN ***
+Chong lll: shows [Kd Ks] (a pair of Kings)
+Kinlenis: shows [Ad Kh] (high card Ace)
+Chong lll collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [9h 2c Qh 3s 4h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) showed [Kd Ks] and won ($1.05) with a pair of Kings
+Seat 3: Ar198513 folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis showed [Ad Kh] and lost with high card Ace
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644071130:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:23:19 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Chong lll ($1.05 in chips) 
+Seat 3: Ar198513 ($1.13 in chips) 
+Seat 4: 17seventeen17 ($2.12 in chips) 
+Seat 5: Kinlenis ($4.50 in chips) 
+Seat 6: demianhyde ($2.07 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ad]
+17seventeen17: folds 
+Kinlenis: raises $0.06 to $0.08
+demianhyde: calls $0.08
+Lorpugo: calls $0.08
+Chong lll: folds 
+Ar198513: calls $0.06
+*** FLOP *** [6s 7s 4s]
+Ar198513: checks 
+Kinlenis: checks 
+demianhyde: checks 
+Lorpugo: checks 
+*** TURN *** [6s 7s 4s] [Ts]
+Ar198513: checks 
+Kinlenis: checks 
+demianhyde: checks 
+Lorpugo: checks 
+*** RIVER *** [6s 7s 4s Ts] [5c]
+Ar198513: checks 
+Kinlenis: checks 
+demianhyde: checks 
+Lorpugo: bets $0.06
+Ar198513: folds 
+Kinlenis: folds 
+demianhyde: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6s 7s 4s Ts 5c]
+Seat 1: Lorpugo (button) collected ($0.32)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) folded on the River
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis folded on the River
+Seat 6: demianhyde folded on the River
+
+
+
+PokerStars Hand #240644095079:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:24:29 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.15 in chips) 
+Seat 2: Chong lll ($1.04 in chips) 
+Seat 3: Ar198513 ($1.05 in chips) 
+Seat 4: 17seventeen17 ($2.12 in chips) 
+Seat 5: Kinlenis ($4.42 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s As]
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: calls $0.05
+17seventeen17: folds 
+*** FLOP *** [6s 6c Ac]
+Ar198513: checks 
+Lorpugo: bets $0.05
+Ar198513: calls $0.05
+*** TURN *** [6s 6c Ac] [Td]
+Ar198513: checks 
+Lorpugo: checks 
+*** RIVER *** [6s 6c Ac Td] [5h]
+Ar198513: bets $0.06
+Lorpugo: calls $0.06
+*** SHOW DOWN ***
+Ar198513: shows [Ad Qh] (two pair, Aces and Sixes)
+Lorpugo: mucks hand 
+Ar198513 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6s 6c Ac Td 5h]
+Seat 1: Lorpugo mucked [4s As]
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) showed [Ad Qh] and won ($0.35) with two pair, Aces and Sixes
+Seat 4: 17seventeen17 (big blind) folded before Flop
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644108638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:25:08 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.98 in chips) 
+Seat 2: Chong lll ($1.04 in chips) 
+Seat 3: Ar198513 ($1.23 in chips) 
+Seat 4: 17seventeen17 ($2.10 in chips) 
+Seat 5: Kinlenis ($4.42 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+17seventeen17: posts small blind $0.01
+Kinlenis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4d]
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: folds 
+17seventeen17: folds 
+Uncalled bet ($0.01) returned to Kinlenis
+Kinlenis collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 (button) folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 5: Kinlenis (big blind) collected ($0.02)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644115633:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:25:28 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.98 in chips) 
+Seat 2: Chong lll ($1.04 in chips) 
+Seat 3: Ar198513 ($1.23 in chips) 
+Seat 4: 17seventeen17 ($2.09 in chips) 
+Seat 5: Kinlenis ($4.43 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Kinlenis: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 6c]
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: calls $0.06
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: folds 
+*** FLOP *** [2c 2s 9h]
+Lorpugo: checks 
+Ar198513: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Ar198513
+Ar198513 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 2s 9h]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 collected ($0.14)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Kinlenis (small blind) folded before Flop
+Seat 6: demianhyde (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644126757:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:26:00 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.92 in chips) 
+Seat 2: Chong lll ($1.04 in chips) 
+Seat 3: Ar198513 ($1.31 in chips) 
+Seat 4: 17seventeen17 ($2.09 in chips) 
+Seat 5: Kinlenis ($4.42 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Kc]
+Chong lll: folds 
+Ar198513: calls $0.02
+17seventeen17: folds 
+Kinlenis: folds 
+demianhyde: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Th 2s Td]
+demianhyde: checks 
+Lorpugo: checks 
+Ar198513: checks 
+*** TURN *** [Th 2s Td] [9c]
+demianhyde: checks 
+Lorpugo: bets $0.04
+Ar198513: calls $0.04
+demianhyde: folds 
+*** RIVER *** [Th 2s Td 9c] [Qs]
+Lorpugo: checks 
+Ar198513: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [9s Kc] (two pair, Tens and Nines)
+Ar198513: mucks hand 
+Lorpugo collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Th 2s Td 9c Qs]
+Seat 1: Lorpugo (big blind) showed [9s Kc] and won ($0.14) with two pair, Tens and Nines
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 mucked [5h 5d]
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis (button) folded before Flop (didn't bet)
+Seat 6: demianhyde (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240644148018:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:27:02 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 2: Chong lll ($1.04 in chips) 
+Seat 3: Ar198513 ($1.25 in chips) 
+Seat 4: 17seventeen17 ($2.09 in chips) 
+Seat 5: Kinlenis ($4.42 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3d]
+Ar198513: raises $0.02 to $0.04
+17seventeen17: folds 
+Kinlenis: calls $0.04
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+*** FLOP *** [Kc Ad Qh]
+Ar198513: checks 
+Kinlenis: bets $0.06
+Ar198513: calls $0.06
+*** TURN *** [Kc Ad Qh] [6d]
+Ar198513: checks 
+Kinlenis: bets $0.11
+Ar198513: calls $0.11
+*** RIVER *** [Kc Ad Qh 6d] [7h]
+Ar198513: checks 
+Kinlenis: checks 
+*** SHOW DOWN ***
+Ar198513: shows [Ah Qd] (two pair, Aces and Queens)
+Kinlenis: mucks hand 
+Ar198513 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Kc Ad Qh 6d 7h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded before Flop
+Seat 3: Ar198513 showed [Ah Qd] and won ($0.43) with two pair, Aces and Queens
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis mucked [Ks Jd]
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644170133:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:28:06 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.02 in chips) 
+Seat 3: Ar198513 ($1.47 in chips) 
+Seat 4: 17seventeen17 ($2.09 in chips) 
+Seat 5: Kinlenis ($4.21 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7c]
+17seventeen17: folds 
+Kinlenis: raises $0.08 to $0.10
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: folds 
+Uncalled bet ($0.08) returned to Kinlenis
+Kinlenis collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Kinlenis collected ($0.05)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644175548:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:28:22 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.01 in chips) 
+Seat 3: Ar198513 ($1.45 in chips) 
+Seat 4: 17seventeen17 ($2.09 in chips) 
+Seat 5: Kinlenis ($4.24 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Td]
+Kinlenis: folds 
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: raises $0.02 to $0.04
+Kinlenis leaves the table
+17seventeen17: folds 
+Uncalled bet ($0.02) returned to Ar198513
+Ar198513 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) collected ($0.04)
+Seat 4: 17seventeen17 (big blind) folded before Flop
+Seat 5: Kinlenis folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644181804:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:28:39 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.01 in chips) 
+Seat 3: Ar198513 ($1.47 in chips) 
+Seat 4: 17seventeen17 ($2.07 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+17seventeen17: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 3s]
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Ar198513: folds 
+Laserkart3 joins the table at seat #5 
+17seventeen17: folds 
+demianhyde: calls $0.04
+*** FLOP *** [Ks 9d Td]
+demianhyde: checks 
+Lorpugo: checks 
+*** TURN *** [Ks 9d Td] [Qc]
+demianhyde: checks 
+Lorpugo: checks 
+*** RIVER *** [Ks 9d Td Qc] [4s]
+demianhyde: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+demianhyde: shows [2c Ac] (high card Ace)
+Lorpugo: shows [3d 3s] (a pair of Threes)
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks 9d Td Qc 4s]
+Seat 1: Lorpugo showed [3d 3s] and won ($0.13) with a pair of Threes
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Ar198513 (button) folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 6: demianhyde (big blind) showed [2c Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #240644198580:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:29:28 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.06 in chips) 
+Seat 2: Chong lll ($1.01 in chips) 
+Seat 3: Ar198513 ($1.47 in chips) 
+Seat 4: 17seventeen17 ($2.06 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h As]
+Chong lll: calls $0.02
+Ar198513: folds 
+17seventeen17: folds 
+demianhyde: folds 
+Lorpugo: raises $0.05 to $0.07
+Chong lll: calls $0.05
+*** FLOP *** [5h Qc 8s]
+Lorpugo: checks 
+Chong lll: checks 
+*** TURN *** [5h Qc 8s] [6h]
+Lorpugo: checks 
+Chong lll: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Chong lll
+Chong lll collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5h Qc 8s 6h]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: Chong lll collected ($0.14)
+Seat 3: Ar198513 folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 6: demianhyde (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644212911:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:30:10 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.99 in chips) 
+Seat 2: Chong lll ($1.08 in chips) 
+Seat 3: Ar198513 ($1.47 in chips) 
+Seat 4: 17seventeen17 ($2.06 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 5h]
+Ar198513: calls $0.02
+17seventeen17: folds 
+demianhyde: folds 
+Lorpugo: calls $0.01
+Chong lll: checks 
+*** FLOP *** [Qs 4d Td]
+Lorpugo: checks 
+Chong lll: bets $0.02
+Ar198513: calls $0.02
+Lorpugo: folds 
+*** TURN *** [Qs 4d Td] [9c]
+Chong lll: bets $0.02
+Ar198513: calls $0.02
+*** RIVER *** [Qs 4d Td 9c] [7h]
+Chong lll: bets $0.02
+Ar198513: folds 
+Uncalled bet ($0.02) returned to Chong lll
+Chong lll collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 4d Td 9c 7h]
+Seat 1: Lorpugo (small blind) folded on the Flop
+Seat 2: Chong lll (big blind) collected ($0.14)
+Seat 3: Ar198513 folded on the River
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644225639:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:30:45 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.16 in chips) 
+Seat 3: Ar198513 ($1.41 in chips) 
+Seat 4: 17seventeen17 ($2.06 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Chong lll: posts small blind $0.01
+Ar198513: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3h]
+17seventeen17: folds 
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Uncalled bet ($0.01) returned to Ar198513
+Ar198513 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Ar198513 (big blind) collected ($0.02)
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644229034:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:30:54 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.15 in chips) 
+Seat 3: Ar198513 ($1.42 in chips) 
+Seat 4: 17seventeen17 ($2.06 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Ar198513: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4s]
+demianhyde: raises $0.04 to $0.06
+Lorpugo: folds 
+Chong lll: folds 
+Ar198513: calls $0.05
+17seventeen17: folds 
+*** FLOP *** [9s 3s 4d]
+Ar198513: checks 
+demianhyde: bets $0.04
+Ar198513: calls $0.04
+*** TURN *** [9s 3s 4d] [2d]
+Ar198513: checks 
+demianhyde: checks 
+*** RIVER *** [9s 3s 4d 2d] [3d]
+Ar198513: checks 
+demianhyde: checks 
+*** SHOW DOWN ***
+Ar198513: shows [Tc Jh] (a pair of Threes)
+demianhyde: shows [Ks Ac] (a pair of Threes - Ace kicker)
+demianhyde collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [9s 3s 4d 2d 3d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Ar198513 (small blind) showed [Tc Jh] and lost with a pair of Threes
+Seat 4: 17seventeen17 (big blind) folded before Flop
+Seat 6: demianhyde showed [Ks Ac] and won ($0.21) with a pair of Threes
+
+
+
+PokerStars Hand #240644240736:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:31:27 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.15 in chips) 
+Seat 3: Ar198513 ($1.32 in chips) 
+Seat 4: 17seventeen17 ($2.04 in chips) 
+Seat 5: Laserkart3 ($1.70 in chips) 
+Seat 6: demianhyde ($2.11 in chips) 
+17seventeen17: posts small blind $0.01
+Laserkart3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Th]
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: calls $0.02
+Ar198513: folds 
+17seventeen17: folds 
+Laserkart3: checks 
+*** FLOP *** [Kd Jh Ks]
+Laserkart3: bets $0.02
+Chong lll: calls $0.02
+*** TURN *** [Kd Jh Ks] [9c]
+Laserkart3: bets $0.02
+Chong lll: calls $0.02
+*** RIVER *** [Kd Jh Ks 9c] [Kc]
+Laserkart3: bets $0.02
+Ar198513 leaves the table
+Chong lll: raises $0.17 to $0.19
+Laserkart3: calls $0.17
+*** SHOW DOWN ***
+Chong lll: shows [Tc Kh] (four of a kind, Kings)
+Laserkart3: mucks hand 
+Chong lll collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Kd Jh Ks 9c Kc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll showed [Tc Kh] and won ($0.49) with four of a kind, Kings
+Seat 3: Ar198513 (button) folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 5: Laserkart3 (big blind) mucked [2d Jd]
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644255784:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:32:09 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.39 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Laserkart3 ($1.45 in chips) 
+Seat 6: demianhyde ($2.11 in chips) 
+Laserkart3: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Js]
+Lorpugo: folds 
+Chong lll: folds 
+17seventeen17: folds 
+Laserkart3: folds 
+Uncalled bet ($0.01) returned to demianhyde
+demianhyde collected $0.02 from pot
+demianhyde: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Laserkart3 (small blind) folded before Flop
+Seat 6: demianhyde (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240644260300:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:32:22 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.39 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Laserkart3 ($1.44 in chips) 
+Seat 6: demianhyde ($2.12 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 2h]
+Chong lll: folds 
+17seventeen17: folds 
+Laserkart3: raises $0.04 to $0.06
+demianhyde: folds 
+Delbroek joins the table at seat #3 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Laserkart3
+Laserkart3 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Laserkart3 (button) collected ($0.05)
+Seat 6: demianhyde (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644266608:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:32:39 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($1.39 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Laserkart3 ($1.47 in chips) 
+Seat 6: demianhyde ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 9s]
+17seventeen17: folds 
+Laserkart3: raises $0.02 to $0.04
+demianhyde: calls $0.04
+Lorpugo: calls $0.03
+Chong lll: calls $0.02
+*** FLOP *** [4c Qh Tc]
+Lorpugo: checks 
+Chong lll: bets $0.08
+Laserkart3: folds 
+demianhyde: calls $0.08
+Lorpugo: folds 
+*** TURN *** [4c Qh Tc] [5h]
+Chong lll: bets $0.16
+demianhyde: calls $0.16
+*** RIVER *** [4c Qh Tc 5h] [Kh]
+Chong lll: checks 
+demianhyde: checks 
+*** SHOW DOWN ***
+Chong lll: shows [Qs 4s] (two pair, Queens and Fours)
+demianhyde: mucks hand 
+Chong lll collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [4c Qh Tc 5h Kh]
+Seat 1: Lorpugo (small blind) folded on the Flop
+Seat 2: Chong lll (big blind) showed [Qs 4s] and won ($0.62) with two pair, Queens and Fours
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Laserkart3 folded on the Flop
+Seat 6: demianhyde (button) mucked [6c 7c]
+
+
+
+PokerStars Hand #240644286805:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:33:36 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Chong lll ($1.73 in chips) 
+Seat 3: Delbroek ($0.80 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Laserkart3 ($1.43 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qh]
+17seventeen17: folds 
+Laserkart3: calls $0.02
+demianhyde: folds 
+Lorpugo: raises $0.08 to $0.10
+Chong lll: folds 
+Delbroek: folds 
+Laserkart3: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.07)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Delbroek (big blind) folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Laserkart3 folded before Flop
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644295924:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:34:01 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.96 in chips) 
+Seat 2: Chong lll ($1.72 in chips) 
+Seat 3: Delbroek ($0.78 in chips) 
+Seat 4: 17seventeen17 ($2.03 in chips) 
+Seat 5: Laserkart3 ($1.41 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Delbroek: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 8c]
+Laserkart3: calls $0.02
+demianhyde: calls $0.02
+Lorpugo: calls $0.02
+Chong lll: folds 
+Delbroek: calls $0.01
+17seventeen17: checks 
+*** FLOP *** [4c 4d Jc]
+Delbroek: checks 
+17seventeen17: checks 
+Laserkart3: checks 
+demianhyde: checks 
+Lorpugo: checks 
+*** TURN *** [4c 4d Jc] [7h]
+Delbroek: checks 
+17seventeen17: checks 
+Laserkart3: bets $0.10
+demianhyde: folds 
+Lorpugo: folds 
+Delbroek: folds 
+17seventeen17: folds 
+Uncalled bet ($0.10) returned to Laserkart3
+Laserkart3 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4c 4d Jc 7h]
+Seat 1: Lorpugo folded on the Turn
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Delbroek (small blind) folded on the Turn
+Seat 4: 17seventeen17 (big blind) folded on the Turn
+Seat 5: Laserkart3 collected ($0.10)
+Seat 6: demianhyde folded on the Turn
+
+
+
+PokerStars Hand #240644313614:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:34:51 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.94 in chips) 
+Seat 2: Chong lll ($1.72 in chips) 
+Seat 3: Delbroek ($0.76 in chips) 
+Seat 4: 17seventeen17 ($2.01 in chips) 
+Seat 5: Laserkart3 ($1.49 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+17seventeen17: posts small blind $0.01
+Laserkart3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5d]
+demianhyde: folds 
+Lorpugo: raises $0.08 to $0.10
+Chong lll: folds 
+Delbroek: folds 
+17seventeen17: folds 
+Laserkart3: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek (button) folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 5: Laserkart3 (big blind) folded before Flop
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644319409:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:35:07 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.72 in chips) 
+Seat 3: Delbroek ($0.76 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Laserkart3 ($1.47 in chips) 
+Seat 6: demianhyde ($2 in chips) 
+Laserkart3: posts small blind $0.01
+demianhyde: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8h]
+Lorpugo: folds 
+Chong lll: folds 
+Delbroek: calls $0.02
+17seventeen17: folds 
+Laserkart3: calls $0.01
+demianhyde: checks 
+*** FLOP *** [Kd 7h 6s]
+Laserkart3: checks 
+demianhyde: checks 
+Delbroek: checks 
+*** TURN *** [Kd 7h 6s] [Qs]
+Laserkart3: bets $0.02
+demianhyde: calls $0.02
+Delbroek: folds 
+*** RIVER *** [Kd 7h 6s Qs] [6d]
+Laserkart3: checks 
+demianhyde: bets $0.04
+Laserkart3: folds 
+Uncalled bet ($0.04) returned to demianhyde
+demianhyde collected $0.10 from pot
+demianhyde: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kd 7h 6s Qs 6d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek folded on the Turn
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Laserkart3 (small blind) folded on the River
+Seat 6: demianhyde (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #240644330875:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:35:39 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.72 in chips) 
+Seat 3: Delbroek ($0.74 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Laserkart3 ($1.43 in chips) 
+Seat 6: demianhyde ($2.06 in chips) 
+demianhyde: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 3d]
+Chong lll: folds 
+Delbroek: calls $0.02
+17seventeen17: folds 
+Laserkart3: calls $0.02
+demianhyde: raises $0.10 to $0.12
+Lorpugo: folds 
+Delbroek: folds 
+Laserkart3: folds 
+Uncalled bet ($0.10) returned to demianhyde
+demianhyde collected $0.08 from pot
+demianhyde: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Laserkart3 (button) folded before Flop
+Seat 6: demianhyde (small blind) collected ($0.08)
+
+
+
+PokerStars Hand #240644340660:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:36:06 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($1.72 in chips) 
+Seat 3: Delbroek ($0.72 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Laserkart3 ($1.41 in chips) 
+Seat 6: demianhyde ($2.12 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Jh]
+Delbroek: calls $0.02
+17seventeen17: folds 
+Laserkart3: folds 
+demianhyde: folds 
+Lorpugo: folds 
+Chong lll: checks 
+*** FLOP *** [8s 5s 9d]
+Chong lll: bets $0.02
+Delbroek: calls $0.02
+*** TURN *** [8s 5s 9d] [6h]
+Chong lll: bets $0.02
+Delbroek: calls $0.02
+*** RIVER *** [8s 5s 9d 6h] [2s]
+Chong lll: checks 
+Delbroek: bets $0.07
+Chong lll: calls $0.07
+*** SHOW DOWN ***
+Delbroek: shows [Qd Jd] (high card Queen)
+Chong lll: shows [9s Qc] (a pair of Nines)
+Chong lll collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8s 5s 9d 6h 2s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) showed [9s Qc] and won ($0.26) with a pair of Nines
+Seat 3: Delbroek showed [Qd Jd] and lost with high card Queen
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+Seat 6: demianhyde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644354080:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:36:43 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.94 in chips) 
+Seat 2: Chong lll ($1.85 in chips) 
+Seat 3: Delbroek ($0.59 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Laserkart3 ($1.41 in chips) 
+Seat 6: demianhyde ($2.12 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Jc]
+17seventeen17: folds 
+Laserkart3: folds 
+demianhyde: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Delbroek: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Delbroek (big blind) folded before Flop
+Seat 4: 17seventeen17 folded before Flop (didn't bet)
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644359847:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:36:59 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: Chong lll ($1.84 in chips) 
+Seat 3: Delbroek ($0.57 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Laserkart3 ($1.41 in chips) 
+Seat 6: demianhyde ($2.12 in chips) 
+Delbroek: posts small blind $0.01
+17seventeen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8d]
+Laserkart3: folds 
+demianhyde: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: calls $0.06
+Delbroek: folds 
+17seventeen17: folds 
+*** FLOP *** [Jd 5d Kh]
+Lorpugo: checks 
+Chong lll: checks 
+*** TURN *** [Jd 5d Kh] [Qh]
+Lorpugo: bets $0.05
+Chong lll: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jd 5d Kh Qh]
+Seat 1: Lorpugo collected ($0.14)
+Seat 2: Chong lll (button) folded on the Turn
+Seat 3: Delbroek (small blind) folded before Flop
+Seat 4: 17seventeen17 (big blind) folded before Flop
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+Seat 6: demianhyde folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644374368:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:37:40 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.05 in chips) 
+Seat 2: Chong lll ($1.78 in chips) 
+Seat 3: Delbroek ($0.56 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Laserkart3 ($1.41 in chips) 
+17seventeen17: posts small blind $0.01
+Laserkart3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jd]
+Lorpugo: folds 
+Chong lll: raises $0.04 to $0.06
+Delbroek: folds 
+17seventeen17: folds 
+Laserkart3: folds 
+Uncalled bet ($0.04) returned to Chong lll
+Chong lll collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll collected ($0.05)
+Seat 3: Delbroek (button) folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (small blind) folded before Flop
+Seat 5: Laserkart3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644379647:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:37:54 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.05 in chips) 
+Seat 2: Chong lll ($1.81 in chips) 
+Seat 3: Delbroek ($0.56 in chips) 
+Seat 4: 17seventeen17 ($2 in chips) 
+Seat 5: Laserkart3 ($1.39 in chips) 
+Laserkart3: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ah]
+Chong lll: folds 
+Delbroek: folds 
+17seventeen17: folds 
+Laserkart3: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+Laserkart3: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (big blind) collected ($0.04)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek folded before Flop (didn't bet)
+Seat 4: 17seventeen17 (button) folded before Flop (didn't bet)
+Seat 5: Laserkart3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644386511:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:38:13 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.07 in chips) 
+Seat 2: Chong lll ($1.81 in chips) 
+Seat 3: Delbroek ($0.56 in chips) 
+Seat 5: Laserkart3 ($1.37 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 4s]
+demianhyde leaves the table
+Delbroek: calls $0.02
+Laserkart3: raises $0.02 to $0.04
+Lorpugo: folds 
+Chong lll: folds 
+Delbroek: calls $0.02
+*** FLOP *** [4d 9d 3s]
+Delbroek: bets $0.04
+Laserkart3: calls $0.04
+*** TURN *** [4d 9d 3s] [6c]
+Delbroek: bets $0.06
+Laserkart3: calls $0.06
+*** RIVER *** [4d 9d 3s 6c] [Kd]
+Delbroek: bets $0.10
+Laserkart3: raises $0.10 to $0.20
+sumiji joins the table at seat #6 
+Delbroek: folds 
+Uncalled bet ($0.10) returned to Laserkart3
+Laserkart3 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [4d 9d 3s 6c Kd]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded before Flop
+Seat 3: Delbroek folded on the River
+Seat 5: Laserkart3 (button) collected ($0.49)
+
+
+
+PokerStars Hand #240644398014:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:38:45 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.06 in chips) 
+Seat 2: Chong lll ($1.79 in chips) 
+Seat 3: Delbroek ($0.32 in chips) 
+Seat 5: Laserkart3 ($1.62 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Js]
+Laserkart3: calls $0.02
+Lorpugo: folds 
+Chong lll: calls $0.01
+Delbroek: checks 
+*** FLOP *** [Qs Ts Qh]
+17seventeen17 leaves the table
+Chong lll: bets $0.02
+Delbroek: folds 
+Laserkart3: folds 
+Uncalled bet ($0.02) returned to Chong lll
+Chong lll collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qs Ts Qh]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) collected ($0.06)
+Seat 3: Delbroek (big blind) folded on the Flop
+Seat 5: Laserkart3 folded on the Flop
+
+
+
+PokerStars Hand #240644407112:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:39:10 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.06 in chips) 
+Seat 2: Chong lll ($1.83 in chips) 
+Seat 3: Delbroek ($0.30 in chips) 
+Seat 5: Laserkart3 ($1.60 in chips) 
+Seat 6: sumiji ($1.60 in chips) 
+Delbroek: posts small blind $0.01
+Laserkart3: posts big blind $0.02
+sumiji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 3s]
+sumiji: checks 
+Lorpugo: folds 
+Chong lll: folds 
+Delbroek: calls $0.01
+Laserkart3: checks 
+*** FLOP *** [5h 2d 9c]
+Delbroek: checks 
+Laserkart3: bets $0.02
+sumiji: calls $0.02
+Delbroek: calls $0.02
+*** TURN *** [5h 2d 9c] [5d]
+Delbroek: checks 
+Laserkart3: bets $0.02
+sumiji: calls $0.02
+Delbroek: calls $0.02
+*** RIVER *** [5h 2d 9c 5d] [3c]
+Delbroek: checks 
+Laserkart3: bets $0.02
+sumiji: calls $0.02
+Delbroek: folds 
+*** SHOW DOWN ***
+Laserkart3: shows [Ac 5s] (three of a kind, Fives)
+sumiji: mucks hand 
+Laserkart3 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5h 2d 9c 5d 3c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Delbroek (small blind) folded on the River
+Seat 5: Laserkart3 (big blind) showed [Ac 5s] and won ($0.21) with three of a kind, Fives
+Seat 6: sumiji mucked [Ah 6c]
+
+
+
+PokerStars Hand #240644422111:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:39:52 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.06 in chips) 
+Seat 2: Chong lll ($1.83 in chips) 
+Seat 3: Delbroek ($0.24 in chips) 
+Seat 5: Laserkart3 ($1.73 in chips) 
+Seat 6: sumiji ($1.52 in chips) 
+Laserkart3: posts small blind $0.01
+sumiji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2d]
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Delbroek: folds 
+Laserkart3: folds 
+sumiji: calls $0.04
+*** FLOP *** [Qd Kc Qc]
+joao_gui1997 joins the table at seat #4 
+sumiji: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [Qd Kc Qc] [8d]
+sumiji: checks 
+Lorpugo: checks 
+*** RIVER *** [Qd Kc Qc 8d] [7c]
+sumiji: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+sumiji: shows [4h 4s] (two pair, Queens and Fours)
+Lorpugo: mucks hand 
+sumiji collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd Kc Qc 8d 7c]
+Seat 1: Lorpugo mucked [Ad 2d]
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek (button) folded before Flop (didn't bet)
+Seat 5: Laserkart3 (small blind) folded before Flop
+Seat 6: sumiji (big blind) showed [4h 4s] and won ($0.16) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #240644446824:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:41:01 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.98 in chips) 
+Seat 2: Chong lll ($1.83 in chips) 
+Seat 3: Delbroek ($0.24 in chips) 
+Seat 5: Laserkart3 ($1.72 in chips) 
+Seat 6: sumiji ($1.60 in chips) 
+sumiji: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ks]
+Chong lll: folds 
+Delbroek: folds 
+Laserkart3: folds 
+sumiji: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [9s 2s 4d]
+sumiji: checks 
+Lorpugo: bets $0.02
+sumiji: calls $0.02
+*** TURN *** [9s 2s 4d] [2c]
+sumiji: checks 
+Lorpugo: bets $0.02
+sumiji: calls $0.02
+*** RIVER *** [9s 2s 4d 2c] [4s]
+sumiji: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+sumiji: shows [Ah Tc] (two pair, Fours and Deuces)
+Lorpugo: mucks hand 
+sumiji collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9s 2s 4d 2c 4s]
+Seat 1: Lorpugo (big blind) mucked [3h Ks]
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek folded before Flop (didn't bet)
+Seat 5: Laserkart3 (button) folded before Flop (didn't bet)
+Seat 6: sumiji (small blind) showed [Ah Tc] and won ($0.12) with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #240644461876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:41:42 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.92 in chips) 
+Seat 2: Chong lll ($1.83 in chips) 
+Seat 3: Delbroek ($0.24 in chips) 
+Seat 5: Laserkart3 ($1.72 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2d]
+Laserkart3: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Uncalled bet ($0.01) returned to Delbroek
+Delbroek collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Delbroek (big blind) collected ($0.02)
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644464719:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:41:50 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.92 in chips) 
+Seat 2: Chong lll ($1.82 in chips) 
+Seat 3: Delbroek ($0.25 in chips) 
+Seat 4: joao_gui1997 ($0.80 in chips) 
+Seat 5: Laserkart3 ($1.72 in chips) 
+Delbroek: posts small blind $0.01
+joao_gui1997: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ac]
+Laserkart3: folds 
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Delbroek: folds 
+joao_gui1997: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Delbroek (small blind) folded before Flop
+Seat 4: joao_gui1997 (big blind) folded before Flop
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644469870:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:42:04 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($1.82 in chips) 
+Seat 3: Delbroek ($0.24 in chips) 
+Seat 4: joao_gui1997 ($0.78 in chips) 
+Seat 5: Laserkart3 ($1.72 in chips) 
+joao_gui1997: posts small blind $0.01
+Laserkart3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 9d]
+Lorpugo: folds 
+Chong lll: calls $0.02
+Delbroek: folds 
+joao_gui1997: calls $0.01
+Laserkart3: checks 
+*** FLOP *** [6d As Ac]
+joao_gui1997: checks 
+Laserkart3: bets $0.02
+Chong lll: calls $0.02
+joao_gui1997: folds 
+*** TURN *** [6d As Ac] [3d]
+Laserkart3: bets $0.02
+Chong lll: calls $0.02
+*** RIVER *** [6d As Ac 3d] [7s]
+Laserkart3: bets $0.02
+Chong lll: raises $0.09 to $0.11
+Laserkart3: folds 
+Uncalled bet ($0.09) returned to Chong lll
+Chong lll collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6d As Ac 3d 7s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll collected ($0.17)
+Seat 3: Delbroek (button) folded before Flop (didn't bet)
+Seat 4: joao_gui1997 (small blind) folded on the Flop
+Seat 5: Laserkart3 (big blind) folded on the River
+
+
+
+PokerStars Hand #240644484467:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:42:45 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($1.91 in chips) 
+Seat 3: Delbroek ($0.24 in chips) 
+Seat 4: joao_gui1997 ($0.76 in chips) 
+Seat 5: Laserkart3 ($1.64 in chips) 
+Seat 6: sumiji ($1.66 in chips) 
+Laserkart3: posts small blind $0.01
+sumiji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+Lorpugo: folds 
+Chong lll: folds 
+Delbroek: calls $0.02
+joao_gui1997: folds 
+Laserkart3: calls $0.01
+sumiji: checks 
+*** FLOP *** [Ts Ah 9c]
+Laserkart3: checks 
+sumiji: checks 
+Delbroek: bets $0.02
+Laserkart3: calls $0.02
+sumiji: calls $0.02
+*** TURN *** [Ts Ah 9c] [5s]
+Laserkart3: checks 
+sumiji: checks 
+Delbroek: bets $0.02
+Laserkart3: folds 
+sumiji: calls $0.02
+*** RIVER *** [Ts Ah 9c 5s] [7s]
+sumiji: bets $0.60
+Delbroek: folds 
+Uncalled bet ($0.60) returned to sumiji
+sumiji collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ts Ah 9c 5s 7s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek folded on the River
+Seat 4: joao_gui1997 (button) folded before Flop (didn't bet)
+Seat 5: Laserkart3 (small blind) folded on the Turn
+Seat 6: sumiji (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #240644501035:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:43:30 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 2: Chong lll ($1.91 in chips) 
+Seat 3: Delbroek ($0.18 in chips) 
+Seat 4: joao_gui1997 ($0.76 in chips) 
+Seat 5: Laserkart3 ($1.60 in chips) 
+Seat 6: sumiji ($1.75 in chips) 
+sumiji: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7s]
+Chong lll: folds 
+Delbroek: calls $0.02
+joao_gui1997: folds 
+Laserkart3: folds 
+sumiji: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5h 2d Jh]
+sumiji: checks 
+Lorpugo: checks 
+Delbroek: checks 
+*** TURN *** [5h 2d Jh] [8c]
+sumiji: checks 
+Lorpugo: bets $0.12
+Delbroek: folds 
+sumiji: raises $0.12 to $0.24
+Lorpugo: calls $0.12
+*** RIVER *** [5h 2d Jh 8c] [9s]
+sumiji: bets $0.56
+Lorpugo: folds 
+Uncalled bet ($0.56) returned to sumiji
+sumiji collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [5h 2d Jh 8c 9s]
+Seat 1: Lorpugo (big blind) folded on the River
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek folded on the Turn
+Seat 4: joao_gui1997 folded before Flop (didn't bet)
+Seat 5: Laserkart3 (button) folded before Flop (didn't bet)
+Seat 6: sumiji (small blind) collected ($0.52)
+
+
+
+PokerStars Hand #240644514939:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:44:09 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.69 in chips) 
+Seat 2: Chong lll ($1.91 in chips) 
+Seat 3: Delbroek ($0.16 in chips) 
+Seat 4: joao_gui1997 ($0.76 in chips) 
+Seat 5: Laserkart3 ($1.60 in chips) 
+Seat 6: sumiji ($2.01 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4s]
+Delbroek: folds 
+joao_gui1997: folds 
+Laserkart3: folds 
+sumiji: calls $0.02
+Lorpugo: calls $0.01
+Chong lll: checks 
+*** FLOP *** [Td 2h 9s]
+Lorpugo: checks 
+Chong lll: checks 
+sumiji: checks 
+*** TURN *** [Td 2h 9s] [5d]
+Lorpugo: checks 
+Chong lll: checks 
+sumiji: checks 
+*** RIVER *** [Td 2h 9s 5d] [5s]
+Lorpugo: checks 
+Chong lll: checks 
+sumiji: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qd 4s] (a pair of Fives)
+Chong lll: shows [Qs Jc] (a pair of Fives - Queen+Jack kicker)
+sumiji: mucks hand 
+Chong lll collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Td 2h 9s 5d 5s]
+Seat 1: Lorpugo (small blind) showed [Qd 4s] and lost with a pair of Fives
+Seat 2: Chong lll (big blind) showed [Qs Jc] and won ($0.06) with a pair of Fives
+Seat 3: Delbroek folded before Flop (didn't bet)
+Seat 4: joao_gui1997 folded before Flop (didn't bet)
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+Seat 6: sumiji (button) mucked [Jd 6h]
+
+
+
+PokerStars Hand #240644530416:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:44:52 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: Chong lll ($1.95 in chips) 
+Seat 3: Delbroek ($0.16 in chips) 
+Seat 4: joao_gui1997 ($0.76 in chips) 
+Seat 5: Laserkart3 ($1.60 in chips) 
+Seat 6: sumiji ($1.99 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6d]
+joao_gui1997: folds 
+Laserkart3: folds 
+sumiji: calls $0.02
+Lorpugo: folds 
+Chong lll: raises $0.04 to $0.06
+Delbroek: folds 
+sumiji: calls $0.04
+*** FLOP *** [Ks 4s 8d]
+Chong lll: checks 
+sumiji: checks 
+*** TURN *** [Ks 4s 8d] [8h]
+Chong lll: bets $0.06
+sumiji: calls $0.06
+*** RIVER *** [Ks 4s 8d 8h] [7c]
+Chong lll: bets $0.06
+sumiji: calls $0.06
+*** SHOW DOWN ***
+Chong lll: shows [Jh Jc] (two pair, Jacks and Eights)
+sumiji: shows [Kh 9h] (two pair, Kings and Eights)
+sumiji collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Ks 4s 8d 8h 7c]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) showed [Jh Jc] and lost with two pair, Jacks and Eights
+Seat 3: Delbroek (big blind) folded before Flop
+Seat 4: joao_gui1997 folded before Flop (didn't bet)
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+Seat 6: sumiji showed [Kh 9h] and won ($0.37) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #240644543176:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:45:28 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: Chong lll ($1.77 in chips) 
+Seat 3: Delbroek ($0.14 in chips) 
+Seat 4: joao_gui1997 ($0.76 in chips) 
+Seat 5: Laserkart3 ($1.60 in chips) 
+Seat 6: sumiji ($2.18 in chips) 
+Delbroek: posts small blind $0.01
+joao_gui1997: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qd]
+Laserkart3: raises $0.02 to $0.04
+sumiji: calls $0.04
+Lorpugo: folds 
+Chong lll: calls $0.04
+Delbroek: folds 
+joao_gui1997: calls $0.02
+*** FLOP *** [3d Qs Qh]
+joao_gui1997: checks 
+Laserkart3: checks 
+sumiji: checks 
+Chong lll: checks 
+*** TURN *** [3d Qs Qh] [8c]
+joao_gui1997: bets $0.04
+Laserkart3: calls $0.04
+sumiji: calls $0.04
+Chong lll: folds 
+*** RIVER *** [3d Qs Qh 8c] [9c]
+joao_gui1997: bets $0.08
+Laserkart3: folds 
+sumiji: folds 
+Uncalled bet ($0.08) returned to joao_gui1997
+joao_gui1997 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3d Qs Qh 8c 9c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded on the Turn
+Seat 3: Delbroek (small blind) folded before Flop
+Seat 4: joao_gui1997 (big blind) collected ($0.28)
+Seat 5: Laserkart3 folded on the River
+Seat 6: sumiji folded on the River
+
+
+
+PokerStars Hand #240644558694:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:46:10 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: Chong lll ($1.73 in chips) 
+Seat 3: Delbroek ($0.13 in chips) 
+Seat 4: joao_gui1997 ($0.96 in chips) 
+Seat 5: Laserkart3 ($1.52 in chips) 
+Seat 6: sumiji ($2.10 in chips) 
+joao_gui1997: posts small blind $0.01
+Laserkart3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8h]
+sumiji: calls $0.02
+Lorpugo: calls $0.02
+Chong lll: folds 
+Delbroek: calls $0.02
+joao_gui1997: raises $0.10 to $0.12
+Laserkart3: folds 
+sumiji: calls $0.10
+Lorpugo: calls $0.10
+Delbroek: folds 
+*** FLOP *** [2h Kc Tc]
+joao_gui1997: bets $0.20
+sumiji: folds 
+Lorpugo: folds 
+Uncalled bet ($0.20) returned to joao_gui1997
+joao_gui1997 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [2h Kc Tc]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek (button) folded before Flop
+Seat 4: joao_gui1997 (small blind) collected ($0.39)
+Seat 5: Laserkart3 (big blind) folded before Flop
+Seat 6: sumiji folded on the Flop
+
+
+
+PokerStars Hand #240644575233:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:46:56 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.55 in chips) 
+Seat 2: Chong lll ($1.73 in chips) 
+Seat 3: Delbroek ($0.11 in chips) 
+Seat 4: joao_gui1997 ($1.23 in chips) 
+Seat 5: Laserkart3 ($1.50 in chips) 
+Seat 6: sumiji ($1.98 in chips) 
+Laserkart3: posts small blind $0.01
+sumiji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 3h]
+Lorpugo: folds 
+Chong lll: folds 
+Delbroek: calls $0.02
+joao_gui1997: folds 
+Laserkart3: calls $0.01
+sumiji: checks 
+*** FLOP *** [Tc Qs Kd]
+Laserkart3: checks 
+sumiji: checks 
+Delbroek: checks 
+*** TURN *** [Tc Qs Kd] [8s]
+Laserkart3: checks 
+sumiji: checks 
+Delbroek: bets $0.02
+Laserkart3: calls $0.02
+sumiji: calls $0.02
+*** RIVER *** [Tc Qs Kd 8s] [Ah]
+Laserkart3: checks 
+sumiji: checks 
+Delbroek: checks 
+*** SHOW DOWN ***
+Laserkart3: shows [Th 5c] (a pair of Tens)
+sumiji: shows [Qd 2c] (a pair of Queens)
+Delbroek: mucks hand 
+sumiji collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc Qs Kd 8s Ah]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek mucked [9c Ts]
+Seat 4: joao_gui1997 (button) folded before Flop (didn't bet)
+Seat 5: Laserkart3 (small blind) showed [Th 5c] and lost with a pair of Tens
+Seat 6: sumiji (big blind) showed [Qd 2c] and won ($0.12) with a pair of Queens
+
+
+
+PokerStars Hand #240644587875:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:47:31 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.55 in chips) 
+Seat 2: Chong lll ($1.73 in chips) 
+Seat 3: Delbroek ($0.07 in chips) 
+Seat 4: joao_gui1997 ($1.23 in chips) 
+Seat 5: Laserkart3 ($1.46 in chips) 
+Seat 6: sumiji ($2.06 in chips) 
+sumiji: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 7d]
+Chong lll: calls $0.02
+Delbroek: calls $0.02
+joao_gui1997: folds 
+Laserkart3: raises $0.02 to $0.04
+sumiji: calls $0.03
+Lorpugo: calls $0.02
+Chong lll: calls $0.02
+Delbroek: calls $0.02
+*** FLOP *** [Kc 2h 6h]
+sumiji: checks 
+Lorpugo: checks 
+joao_gui1997 leaves the table
+Chong lll: checks 
+Delbroek: bets $0.03 and is all-in
+Laserkart3: calls $0.03
+sumiji: folds 
+coolest dino joins the table at seat #4 
+Lorpugo: folds 
+Chong lll: folds 
+*** TURN *** [Kc 2h 6h] [Qh]
+*** RIVER *** [Kc 2h 6h Qh] [Qd]
+*** SHOW DOWN ***
+Delbroek: shows [9c Ks] (two pair, Kings and Queens)
+Laserkart3: shows [Ad Th] (a pair of Queens)
+Delbroek cashed out the hand for $0.21
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Kc 2h 6h Qh Qd]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: Chong lll folded on the Flop
+Seat 3: Delbroek showed [9c Ks] and won ($0.25) with two pair, Kings and Queens (pot not awarded as player cashed out)
+Seat 4: joao_gui1997 folded before Flop (didn't bet)
+Seat 5: Laserkart3 (button) showed [Ad Th] and lost with a pair of Queens
+Seat 6: sumiji (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240644611437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:48:36 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.51 in chips) 
+Seat 2: Chong lll ($1.69 in chips) 
+Seat 3: Delbroek ($0.21 in chips) 
+Seat 5: Laserkart3 ($1.39 in chips) 
+Seat 6: sumiji ($2.02 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c As]
+Delbroek: calls $0.02
+Laserkart3: calls $0.02
+sumiji: folds 
+Lorpugo: raises $0.08 to $0.10
+Chong lll: folds 
+Delbroek: folds 
+Laserkart3: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.08)
+Seat 2: Chong lll (big blind) folded before Flop
+Seat 3: Delbroek folded before Flop
+Seat 5: Laserkart3 folded before Flop
+Seat 6: sumiji (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644619694:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:48:59 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: Chong lll ($1.67 in chips) 
+Seat 3: Delbroek ($0.19 in chips) 
+Seat 5: Laserkart3 ($1.37 in chips) 
+Seat 6: sumiji ($2.02 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 4h]
+Laserkart3: calls $0.02
+sumiji: calls $0.02
+Lorpugo: folds 
+Chong lll: calls $0.01
+Delbroek: checks 
+*** FLOP *** [Kd Kh 2c]
+Chong lll: checks 
+Delbroek: checks 
+Laserkart3: checks 
+sumiji: checks 
+*** TURN *** [Kd Kh 2c] [8c]
+Chong lll: checks 
+Delbroek: checks 
+Laserkart3: checks 
+sumiji: checks 
+*** RIVER *** [Kd Kh 2c 8c] [5s]
+Chong lll: checks 
+Delbroek: checks 
+Laserkart3: checks 
+sumiji: checks 
+*** SHOW DOWN ***
+Chong lll: shows [Td Jd] (a pair of Kings)
+Delbroek: mucks hand 
+Laserkart3: shows [7c Qd] (a pair of Kings - Queen kicker)
+sumiji: mucks hand 
+Laserkart3 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kd Kh 2c 8c 5s]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) showed [Td Jd] and lost with a pair of Kings
+Seat 3: Delbroek (big blind) mucked [7h Jh]
+Seat 5: Laserkart3 showed [7c Qd] and won ($0.08) with a pair of Kings
+Seat 6: sumiji mucked [3h Tc]
+
+
+
+PokerStars Hand #240644632988:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:49:36 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: Chong lll ($1.65 in chips) 
+Seat 3: Delbroek ($0.17 in chips) 
+Seat 4: coolest dino ($2 in chips) 
+Seat 5: Laserkart3 ($1.43 in chips) 
+Seat 6: sumiji ($2 in chips) 
+Delbroek: posts small blind $0.01
+coolest dino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Tc]
+Laserkart3: folds 
+sumiji: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+Chong lll: folds 
+Delbroek: folds 
+coolest dino: folds 
+sumiji: calls $0.08
+*** FLOP *** [Kc 3d 4s]
+sumiji: checks 
+Lorpugo: bets $0.11
+sumiji: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.22 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Kc 3d 4s]
+Seat 1: Lorpugo collected ($0.22)
+Seat 2: Chong lll (button) folded before Flop (didn't bet)
+Seat 3: Delbroek (small blind) folded before Flop
+Seat 4: coolest dino (big blind) folded before Flop
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+Seat 6: sumiji folded on the Flop
+
+
+
+PokerStars Hand #240644644343:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:50:08 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.69 in chips) 
+Seat 2: Chong lll ($1.65 in chips) 
+Seat 3: Delbroek ($0.16 in chips) 
+Seat 4: coolest dino ($2 in chips) 
+Seat 5: Laserkart3 ($1.43 in chips) 
+Seat 6: sumiji ($1.90 in chips) 
+coolest dino: posts small blind $0.01
+Laserkart3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7s]
+sumiji: calls $0.02
+Lorpugo: folds 
+Chong lll: calls $0.02
+Delbroek: folds 
+coolest dino: folds 
+Laserkart3: checks 
+*** FLOP *** [5d 6d 8h]
+Laserkart3: checks 
+sumiji: checks 
+Chong lll: bets $0.04
+Laserkart3: folds 
+sumiji: folds 
+Uncalled bet ($0.04) returned to Chong lll
+Chong lll collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [5d 6d 8h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll collected ($0.07)
+Seat 3: Delbroek (button) folded before Flop (didn't bet)
+Seat 4: coolest dino (small blind) folded before Flop
+Seat 5: Laserkart3 (big blind) folded on the Flop
+Seat 6: sumiji folded on the Flop
+
+
+
+PokerStars Hand #240644654480:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:50:36 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.69 in chips) 
+Seat 2: Chong lll ($1.70 in chips) 
+Seat 3: Delbroek ($0.16 in chips) 
+Seat 4: coolest dino ($2 in chips) 
+Seat 5: Laserkart3 ($1.41 in chips) 
+Seat 6: sumiji ($1.88 in chips) 
+Laserkart3: posts small blind $0.01
+sumiji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 2s]
+Lorpugo: folds 
+Chong lll: calls $0.02
+Delbroek: folds 
+coolest dino: folds 
+Laserkart3: calls $0.01
+sumiji: checks 
+*** FLOP *** [7s Ts Qh]
+Laserkart3: checks 
+sumiji: checks 
+Chong lll: checks 
+*** TURN *** [7s Ts Qh] [9d]
+Laserkart3: checks 
+sumiji: checks 
+Chong lll: checks 
+*** RIVER *** [7s Ts Qh 9d] [3d]
+Laserkart3: checks 
+sumiji: checks 
+Chong lll: checks 
+*** SHOW DOWN ***
+Laserkart3: shows [Kh 2d] (high card King)
+sumiji: shows [4c 9s] (a pair of Nines)
+Chong lll: shows [Ac 9h] (a pair of Nines - Ace kicker)
+Chong lll collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7s Ts Qh 9d 3d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll showed [Ac 9h] and won ($0.06) with a pair of Nines
+Seat 3: Delbroek folded before Flop (didn't bet)
+Seat 4: coolest dino (button) folded before Flop (didn't bet)
+Seat 5: Laserkart3 (small blind) showed [Kh 2d] and lost with high card King
+Seat 6: sumiji (big blind) showed [4c 9s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #240644669147:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:51:17 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.69 in chips) 
+Seat 2: Chong lll ($1.74 in chips) 
+Seat 3: Delbroek ($0.16 in chips) 
+Seat 4: coolest dino ($2 in chips) 
+Seat 5: Laserkart3 ($1.39 in chips) 
+Seat 6: sumiji ($1.86 in chips) 
+sumiji: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ac]
+Chong lll: calls $0.02
+Delbroek: folds 
+coolest dino: folds 
+Laserkart3: folds 
+sumiji: folds 
+Lorpugo: checks 
+*** FLOP *** [2s 5s Qs]
+Lorpugo: checks 
+Chong lll: checks 
+*** TURN *** [2s 5s Qs] [7s]
+Lorpugo: checks 
+Chong lll: checks 
+*** RIVER *** [2s 5s Qs 7s] [8h]
+Lorpugo: checks 
+Chong lll: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6c Ac] (high card Ace)
+Chong lll: shows [Ad 9c] (high card Ace - Queen+Nine kicker)
+Chong lll collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s 5s Qs 7s 8h]
+Seat 1: Lorpugo (big blind) showed [6c Ac] and lost with high card Ace
+Seat 2: Chong lll showed [Ad 9c] and won ($0.05) with high card Ace
+Seat 3: Delbroek folded before Flop (didn't bet)
+Seat 4: coolest dino folded before Flop (didn't bet)
+Seat 5: Laserkart3 (button) folded before Flop (didn't bet)
+Seat 6: sumiji (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644682403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:51:54 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: Chong lll ($1.77 in chips) 
+Seat 3: Delbroek ($0.16 in chips) 
+Seat 4: coolest dino ($2 in chips) 
+Seat 5: Laserkart3 ($1.39 in chips) 
+Seat 6: sumiji ($1.85 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Qs]
+Delbroek: calls $0.02
+coolest dino: folds 
+Laserkart3: calls $0.02
+sumiji: calls $0.02
+Lorpugo: folds 
+Chong lll: checks 
+*** FLOP *** [Ah Kd 7h]
+Chong lll: checks 
+Delbroek: checks 
+Laserkart3: checks 
+sumiji: checks 
+*** TURN *** [Ah Kd 7h] [Ac]
+Chong lll: checks 
+Delbroek: bets $0.02
+Laserkart3: folds 
+sumiji: calls $0.02
+Chong lll: folds 
+*** RIVER *** [Ah Kd 7h Ac] [Jh]
+Delbroek: bets $0.04
+sumiji: calls $0.04
+*** SHOW DOWN ***
+Delbroek: shows [Ks 2c] (two pair, Aces and Kings)
+sumiji: shows [Kc 5c] (two pair, Aces and Kings)
+Delbroek collected $0.10 from pot
+sumiji collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ah Kd 7h Ac Jh]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded on the Turn
+Seat 3: Delbroek showed [Ks 2c] and won ($0.10) with two pair, Aces and Kings
+Seat 4: coolest dino folded before Flop (didn't bet)
+Seat 5: Laserkart3 folded on the Turn
+Seat 6: sumiji (button) showed [Kc 5c] and won ($0.10) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #240644700999:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:52:46 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.66 in chips) 
+Seat 2: Chong lll ($1.75 in chips) 
+Seat 3: Delbroek ($0.18 in chips) 
+Seat 4: coolest dino ($2 in chips) 
+Seat 5: Laserkart3 ($1.37 in chips) 
+Seat 6: sumiji ($1.87 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Jc]
+coolest dino: raises $0.04 to $0.06
+Laserkart3: folds 
+sumiji: calls $0.06
+Lorpugo: calls $0.06
+Chong lll: calls $0.05
+Delbroek: folds 
+*** FLOP *** [Td 8c 6d]
+Chong lll: checks 
+coolest dino: checks 
+sumiji: checks 
+Lorpugo: bets $0.08
+Chong lll: folds 
+coolest dino: folds 
+sumiji: calls $0.08
+*** TURN *** [Td 8c 6d] [5s]
+sumiji: checks 
+Lorpugo: bets $0.50
+sumiji: raises $0.50 to $1
+Lorpugo: calls $0.50
+*** RIVER *** [Td 8c 6d 5s] [6s]
+sumiji: bets $0.02
+Lorpugo: raises $0.50 to $0.52 and is all-in
+sumiji: calls $0.50
+*** SHOW DOWN ***
+Lorpugo: shows [7c Jc] (a pair of Sixes)
+sumiji: shows [9s 7s] (a straight, Six to Ten)
+sumiji collected $3.31 from pot
+*** SUMMARY ***
+Total pot $3.46 | Rake $0.15 
+Board [Td 8c 6d 5s 6s]
+Seat 1: Lorpugo (button) showed [7c Jc] and lost with a pair of Sixes
+Seat 2: Chong lll (small blind) folded on the Flop
+Seat 3: Delbroek (big blind) folded before Flop
+Seat 4: coolest dino folded on the Flop
+Seat 5: Laserkart3 folded before Flop (didn't bet)
+Seat 6: sumiji showed [9s 7s] and won ($3.31) with a straight, Six to Ten
+
+
+
+PokerStars Hand #240644748807:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:55:01 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Chong lll ($1.65 in chips) 
+Seat 3: Delbroek ($0.15 in chips) 
+Seat 4: coolest dino ($3.36 in chips) 
+Seat 6: sumiji ($3.48 in chips) 
+coolest dino: posts small blind $0.01
+sumiji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5c]
+Lorpugo: raises $0.04 to $0.06
+Laserkart3 leaves the table
+Chong lll: calls $0.06
+Delbroek: calls $0.06
+coolest dino: folds 
+LittleKonred joins the table at seat #5 
+sumiji: folds 
+*** FLOP *** [3d Td Th]
+Lorpugo: checks 
+Chong lll: checks 
+Delbroek: bets $0.09 and is all-in
+Lorpugo: folds 
+Chong lll: calls $0.09
+*** TURN *** [3d Td Th] [7s]
+*** RIVER *** [3d Td Th 7s] [Jh]
+*** SHOW DOWN ***
+Chong lll: shows [Kd Qd] (a pair of Tens)
+Delbroek: shows [Kh Ks] (two pair, Kings and Tens)
+Delbroek cashed out the hand for $0.24
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3d Td Th 7s Jh]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: Chong lll showed [Kd Qd] and lost with a pair of Tens
+Seat 3: Delbroek (button) showed [Kh Ks] and won ($0.38) with two pair, Kings and Tens (pot not awarded as player cashed out)
+Seat 4: coolest dino (small blind) folded before Flop
+Seat 6: sumiji (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644763831:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:55:53 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.54 in chips) 
+Seat 2: Chong lll ($1.50 in chips) 
+Seat 3: Delbroek ($0.24 in chips) 
+Seat 4: coolest dino ($3.35 in chips) 
+Seat 6: sumiji ($3.46 in chips) 
+sumiji: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9s]
+Chong lll: folds 
+Delbroek: calls $0.02
+coolest dino: folds 
+sumiji: folds 
+Lorpugo: checks 
+*** FLOP *** [5s 2d 7h]
+Lorpugo: bets $0.03
+Delbroek: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s 2d 7h]
+Seat 1: Lorpugo (big blind) collected ($0.05)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek folded on the Flop
+Seat 4: coolest dino (button) folded before Flop (didn't bet)
+Seat 6: sumiji (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644772628:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:56:26 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: Chong lll ($1.50 in chips) 
+Seat 3: Delbroek ($0.22 in chips) 
+Seat 4: coolest dino ($3.35 in chips) 
+Seat 6: sumiji ($3.45 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Kd]
+Delbroek: folds 
+coolest dino: raises $0.04 to $0.06
+sumiji: calls $0.06
+Lorpugo: folds 
+Chong lll: folds 
+*** FLOP *** [Th 3s 7d]
+coolest dino: bets $0.05
+sumiji: calls $0.05
+*** TURN *** [Th 3s 7d] [Jd]
+coolest dino: bets $0.16
+sumiji: calls $0.16
+*** RIVER *** [Th 3s 7d Jd] [3d]
+coolest dino: checks 
+sumiji: checks 
+*** SHOW DOWN ***
+coolest dino: shows [Jh As] (two pair, Jacks and Threes)
+sumiji: mucks hand 
+coolest dino collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Th 3s 7d Jd 3d]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) folded before Flop
+Seat 3: Delbroek folded before Flop (didn't bet)
+Seat 4: coolest dino showed [Jh As] and won ($0.55) with two pair, Jacks and Threes
+Seat 6: sumiji (button) mucked [5c 6d]
+
+
+
+PokerStars Hand #240644782379:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:57:03 ET
+Table 'Volga II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Chong lll ($1.48 in chips) 
+Seat 3: Delbroek ($0.22 in chips) 
+Seat 4: coolest dino ($3.63 in chips) 
+Seat 6: sumiji ($3.18 in chips) 
+Chong lll: posts small blind $0.01
+Delbroek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 3c]
+coolest dino: folds 
+sumiji: folds 
+Lorpugo: folds 
+Chong lll: folds 
+Uncalled bet ($0.01) returned to Delbroek
+Delbroek collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Chong lll (small blind) folded before Flop
+Seat 3: Delbroek (big blind) collected ($0.02)
+Seat 4: coolest dino folded before Flop (didn't bet)
+Seat 6: sumiji folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644784358:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:57:10 ET
+Table 'Volga II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Chong lll ($1.47 in chips) 
+Seat 3: Delbroek ($0.23 in chips) 
+Seat 4: coolest dino ($3.63 in chips) 
+Seat 6: sumiji ($3.18 in chips) 
+Delbroek: posts small blind $0.01
+coolest dino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Kd]
+sumiji: calls $0.02
+Lorpugo: folds 
+Chong lll: calls $0.02
+Delbroek: calls $0.01
+coolest dino: raises $0.13 to $0.15
+sumiji: folds 
+Chong lll: folds 
+Delbroek: folds 
+Uncalled bet ($0.13) returned to coolest dino
+coolest dino collected $0.08 from pot
+coolest dino: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll (button) folded before Flop
+Seat 3: Delbroek (small blind) folded before Flop
+Seat 4: coolest dino (big blind) collected ($0.08)
+Seat 6: sumiji folded before Flop
+
+
+
+PokerStars Hand #240644789087:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:57:28 ET
+Table 'Volga II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: Chong lll ($1.45 in chips) 
+Seat 3: Delbroek ($0.21 in chips) 
+Seat 4: coolest dino ($3.69 in chips) 
+Seat 5: LittleKonred ($2 in chips) 
+Seat 6: sumiji ($3.16 in chips) 
+coolest dino: posts small blind $0.01
+LittleKonred: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8h]
+sumiji: calls $0.02
+Lorpugo: raises $0.04 to $0.06
+Chong lll: folds 
+Delbroek: folds 
+coolest dino: folds 
+LittleKonred: folds 
+sumiji: calls $0.04
+*** FLOP *** [7s Ad 3s]
+sumiji: checks 
+Lorpugo: checks 
+*** TURN *** [7s Ad 3s] [6c]
+sumiji: checks 
+Lorpugo: bets $0.18
+sumiji: calls $0.18
+*** RIVER *** [7s Ad 3s 6c] [5s]
+sumiji: checks 
+Lorpugo: bets $1.32 and is all-in
+sumiji: folds 
+Uncalled bet ($1.32) returned to Lorpugo
+Lorpugo collected $0.49 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [7s Ad 3s 6c 5s]
+Seat 1: Lorpugo collected ($0.49)
+Seat 2: Chong lll folded before Flop (didn't bet)
+Seat 3: Delbroek (button) folded before Flop (didn't bet)
+Seat 4: coolest dino (small blind) folded before Flop
+Seat 5: LittleKonred (big blind) folded before Flop
+Seat 6: sumiji folded on the River
+
+
+
+PokerStars Hand #240644800806:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:58:11 ET
+Table 'Volga II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.81 in chips) 
+Seat 2: Chong lll ($1.45 in chips) 
+Seat 3: Delbroek ($0.21 in chips) 
+Seat 4: coolest dino ($3.68 in chips) 
+Seat 5: LittleKonred ($2 in chips) 
+Seat 6: sumiji ($2.92 in chips) 
+LittleKonred: posts small blind $0.01
+sumiji: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ts]
+Lorpugo: folds 
+Chong lll: calls $0.02
+Delbroek: folds 
+coolest dino: folds 
+LittleKonred: folds 
+sumiji: checks 
+*** FLOP *** [Kc 6d Ac]
+sumiji: checks 
+Chong lll: checks 
+*** TURN *** [Kc 6d Ac] [Ad]
+sumiji: checks 
+Chong lll: checks 
+*** RIVER *** [Kc 6d Ac Ad] [Kd]
+sumiji: checks 
+Chong lll: checks 
+*** SHOW DOWN ***
+sumiji: shows [3s Th] (two pair, Aces and Kings)
+Chong lll: mucks hand 
+sumiji collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kc 6d Ac Ad Kd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Chong lll mucked [2s 2h]
+Seat 3: Delbroek folded before Flop (didn't bet)
+Seat 4: coolest dino (button) folded before Flop (didn't bet)
+Seat 5: LittleKonred (small blind) folded before Flop
+Seat 6: sumiji (big blind) showed [3s Th] and won ($0.05) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #240644809266:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:58:43 ET
+Table 'Volga II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.81 in chips) 
+Seat 2: Chong lll ($1.43 in chips) 
+Seat 3: Delbroek ($0.21 in chips) 
+Seat 4: coolest dino ($3.68 in chips) 
+Seat 5: LittleKonred ($2 in chips) 
+Seat 6: sumiji ($2.95 in chips) 
+sumiji: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Qd]
+Chong lll: calls $0.02
+Delbroek: calls $0.02
+coolest dino: folds 
+LittleKonred: folds 
+sumiji: folds 
+Lorpugo: checks 
+*** FLOP *** [7h 4c 4s]
+Lorpugo: checks 
+Chong lll: bets $0.04
+Delbroek: calls $0.04
+Lorpugo: folds 
+*** TURN *** [7h 4c 4s] [3d]
+Chong lll: bets $0.04
+Delbroek: calls $0.04
+*** RIVER *** [7h 4c 4s 3d] [5s]
+Chong lll: bets $0.04
+Delbroek: raises $0.07 to $0.11 and is all-in
+Chong lll: calls $0.07
+*** SHOW DOWN ***
+Delbroek: shows [4h 4d] (four of a kind, Fours)
+Chong lll: shows [As 7c] (two pair, Sevens and Fours)
+Delbroek collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7h 4c 4s 3d 5s]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: Chong lll showed [As 7c] and lost with two pair, Sevens and Fours
+Seat 3: Delbroek showed [4h 4d] and won ($0.43) with four of a kind, Fours
+Seat 4: coolest dino folded before Flop (didn't bet)
+Seat 5: LittleKonred (button) folded before Flop (didn't bet)
+Seat 6: sumiji (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644823228:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:59:35 ET
+Table 'Volga II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.79 in chips) 
+Seat 2: Chong lll ($1.22 in chips) 
+Seat 3: Delbroek ($0.43 in chips) 
+Seat 4: coolest dino ($3.68 in chips) 
+Seat 5: LittleKonred ($2 in chips) 
+Seat 6: sumiji ($2.94 in chips) 
+Lorpugo: posts small blind $0.01
+Chong lll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 2d]
+Delbroek: calls $0.02
+coolest dino: folds 
+LittleKonred: raises $0.06 to $0.08
+sumiji: folds 
+Lorpugo: folds 
+Chong lll: calls $0.06
+Delbroek: folds 
+*** FLOP *** [Td 4c Js]
+Chong lll: checks 
+LittleKonred: checks 
+*** TURN *** [Td 4c Js] [5s]
+Chong lll: bets $0.04
+LittleKonred: folds 
+Uncalled bet ($0.04) returned to Chong lll
+Chong lll collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Td 4c Js 5s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Chong lll (big blind) collected ($0.18)
+Seat 3: Delbroek folded before Flop
+Seat 4: coolest dino folded before Flop (didn't bet)
+Seat 5: LittleKonred folded on the Turn
+Seat 6: sumiji (button) folded before Flop (didn't bet)
+
+
+

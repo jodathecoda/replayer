@@ -1,0 +1,5974 @@
+﻿PokerStars Hand #239331672336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:22:35 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: gebdra ($2.39 in chips) 
+Seat 3: cordobes555 ($5.21 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: losprasatos ($1.77 in chips) 
+cordobes555: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ad]
+Draconiel: folds 
+losprasatos: calls $0.02
+gebdra: folds 
+Kaneda_DV joins the table at seat #2 
+cordobes555: folds 
+Lorpugo: raises $0.10 to $0.12
+losprasatos: calls $0.10
+*** FLOP *** [Tc 7s 5s]
+Lorpugo: checks 
+losprasatos: bets $0.30
+Lorpugo: folds 
+Uncalled bet ($0.30) returned to losprasatos
+losprasatos collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Tc 7s 5s]
+Seat 1: gebdra (button) folded before Flop (didn't bet)
+Seat 3: cordobes555 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: losprasatos collected ($0.24)
+
+
+
+PokerStars Hand #239331691680:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:23:28 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: gebdra ($2.39 in chips) 
+Seat 3: cordobes555 ($5.20 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: losprasatos ($1.89 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+Kaneda_DV: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 2h]
+losprasatos: folds 
+gebdra: raises $0.04 to $0.06
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel: folds 
+Uncalled bet ($0.04) returned to gebdra
+gebdra collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gebdra collected ($0.05)
+Seat 3: cordobes555 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Draconiel (big blind) folded before Flop
+Seat 6: losprasatos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239331700952:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:23:54 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: gebdra ($2.42 in chips) 
+Seat 3: cordobes555 ($5.20 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: losprasatos ($1.89 in chips) 
+Draconiel: posts small blind $0.01
+losprasatos: posts big blind $0.02
+Kaneda_DV: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Qc]
+gebdra: raises $0.04 to $0.06
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel: folds 
+losprasatos: folds 
+Uncalled bet ($0.04) returned to gebdra
+gebdra collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gebdra collected ($0.05)
+Seat 3: cordobes555 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Draconiel (small blind) folded before Flop
+Seat 6: losprasatos (big blind) folded before Flop
+
+
+
+PokerStars Hand #239331713372:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:24:29 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: gebdra ($2.45 in chips) 
+Seat 3: cordobes555 ($5.20 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: losprasatos ($1.87 in chips) 
+losprasatos: posts small blind $0.01
+gebdra: posts big blind $0.02
+Kaneda_DV: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ks]
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel: folds 
+losprasatos: calls $0.01
+gebdra: raises $0.07 to $0.09
+losprasatos: calls $0.07
+*** FLOP *** [Kh 8c Ts]
+losprasatos: checks 
+gebdra: bets $0.08
+losprasatos: raises $0.08 to $0.16
+gebdra: calls $0.08
+*** TURN *** [Kh 8c Ts] [2c]
+losprasatos: bets $0.90
+gebdra: raises $1.14 to $2.04
+losprasatos: calls $0.72 and is all-in
+Uncalled bet ($0.42) returned to gebdra
+*** RIVER *** [Kh 8c Ts 2c] [5h]
+*** SHOW DOWN ***
+losprasatos: shows [Kc Td] (two pair, Kings and Tens)
+gebdra: shows [8s 8h] (three of a kind, Eights)
+gebdra collected $3.58 from pot
+*** SUMMARY ***
+Total pot $3.74 | Rake $0.16 
+Board [Kh 8c Ts 2c 5h]
+Seat 1: gebdra (big blind) showed [8s 8h] and won ($3.58) with three of a kind, Eights
+Seat 3: cordobes555 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel (button) folded before Flop (didn't bet)
+Seat 6: losprasatos (small blind) showed [Kc Td] and lost with two pair, Kings and Tens
+
+
+
+PokerStars Hand #239331736592:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:25:35 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: gebdra ($4.16 in chips) 
+Seat 3: cordobes555 ($5.20 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+cordobes555: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5h]
+Draconiel: folds 
+gebdra: folds 
+cordobes555: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+gebdra leaves the table
+cordobes555: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: gebdra (button) folded before Flop (didn't bet)
+Seat 3: cordobes555 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.04)
+Seat 5: Draconiel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239331744257:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:25:56 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 3: cordobes555 ($5.18 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+Kaneda_DV: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ac]
+cordobes555: folds 
+losprasatos leaves the table
+Lorpugo: raises $0.04 to $0.06
+Draconiel: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: cordobes555 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: Draconiel (big blind) folded before Flop
+
+
+
+PokerStars Hand #239331749002:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:26:09 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.18 in chips) 
+Seat 4: Lorpugo ($1.64 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Draconiel: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9s]
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel has timed out
+Draconiel: folds 
+Uncalled bet ($0.01) returned to Kaneda_DV
+Kaneda_DV collected $0.02 from pot
+Kaneda_DV: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Kaneda_DV (big blind) collected ($0.02)
+Seat 3: cordobes555 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Draconiel (small blind) folded before Flop
+
+
+
+PokerStars Hand #239331770322:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:27:09 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: Kaneda_DV ($2.01 in chips) 
+Seat 3: cordobes555 ($5.18 in chips) 
+Seat 4: Lorpugo ($1.64 in chips) 
+cordobes555: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 9s]
+Glinssky joins the table at seat #1 
+Kaneda_DV: folds 
+cordobes555: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: cordobes555 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239331773217:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:27:18 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2.01 in chips) 
+Seat 3: cordobes555 ($5.17 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Lorpugo: posts small blind $0.01
+Glinssky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ac]
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: raises $0.04 to $0.06
+Glinssky: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Glinssky (big blind) folded before Flop
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: cordobes555 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239331777665:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:27:30 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2.01 in chips) 
+Seat 3: cordobes555 ($5.17 in chips) 
+Seat 4: Lorpugo ($1.67 in chips) 
+Glinssky: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 8d]
+manumarlats2000 joins the table at seat #6 
+cordobes555: folds 
+Lorpugo: raises $0.04 to $0.06
+Glinssky: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Glinssky (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: cordobes555 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #239331783794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:27:47 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.17 in chips) 
+Seat 4: Lorpugo ($1.70 in chips) 
+Kaneda_DV: posts small blind $0.01
+cordobes555: posts big blind $0.02
+manumarlats2000: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ad]
+Lorpugo: raises $0.04 to $0.06
+Glinssky: folds 
+Kaneda_DV: folds 
+cordobes555 has timed out
+cordobes555: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Glinssky (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: cordobes555 (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239331803518:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:28:43 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.73 in chips) 
+Seat 6: manumarlats2000 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+manumarlats2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ts]
+Glinssky: folds 
+Kaneda_DV: folds 
+Lorpugo: raises $0.04 to $0.06
+manumarlats2000: calls $0.04
+*** FLOP *** [8c As 4d]
+Lorpugo: checks 
+manumarlats2000: checks 
+*** TURN *** [8c As 4d] [3h]
+Lorpugo: bets $0.04
+manumarlats2000: calls $0.04
+*** RIVER *** [8c As 4d 3h] [8h]
+Lorpugo: checks 
+manumarlats2000: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to manumarlats2000
+manumarlats2000 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8c As 4d 3h 8h]
+Seat 1: Glinssky folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the River
+Seat 6: manumarlats2000 (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #239331817078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:29:21 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 6: manumarlats2000 ($2.09 in chips) 
+manumarlats2000: posts small blind $0.01
+Glinssky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5h]
+Kaneda_DV: folds 
+Lorpugo: folds 
+manumarlats2000: folds 
+Uncalled bet ($0.01) returned to Glinssky
+Glinssky collected $0.02 from pot
+Glinssky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Glinssky (big blind) collected ($0.02)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: manumarlats2000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239331819633:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:29:29 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: Glinssky ($2.01 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 6: manumarlats2000 ($2.08 in chips) 
+Glinssky: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ac]
+Lorpugo: raises $0.04 to $0.06
+manumarlats2000: folds 
+Glinssky: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Glinssky (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 6: manumarlats2000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239331824004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:29:41 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.66 in chips) 
+Seat 6: manumarlats2000 ($2.08 in chips) 
+Kaneda_DV: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h As]
+manumarlats2000: folds 
+Glinssky: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Glinssky (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 6: manumarlats2000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239331827184:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:29:50 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.67 in chips) 
+Seat 6: manumarlats2000 ($2.08 in chips) 
+Lorpugo: posts small blind $0.01
+manumarlats2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 2d]
+Glinssky: folds 
+Kaneda_DV: folds 
+Lorpugo: raises $0.06 to $0.08
+manumarlats2000: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Glinssky folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 6: manumarlats2000 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239331832484:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:30:05 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.69 in chips) 
+Seat 6: manumarlats2000 ($2.06 in chips) 
+manumarlats2000: posts small blind $0.01
+Glinssky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qh]
+Kaneda_DV: folds 
+Lorpugo: folds 
+manumarlats2000: calls $0.01
+Glinssky: checks 
+*** FLOP *** [4s Ad Kc]
+manumarlats2000: checks 
+Glinssky: checks 
+*** TURN *** [4s Ad Kc] [3d]
+manumarlats2000: checks 
+Glinssky: bets $0.03
+manumarlats2000: calls $0.03
+*** RIVER *** [4s Ad Kc 3d] [8h]
+manumarlats2000: checks 
+Glinssky: checks 
+*** SHOW DOWN ***
+manumarlats2000: shows [Jd 4c] (a pair of Fours)
+Glinssky: shows [8d 5s] (a pair of Eights)
+Glinssky collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4s Ad Kc 3d 8h]
+Seat 1: Glinssky (big blind) showed [8d 5s] and won ($0.10) with a pair of Eights
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: manumarlats2000 (small blind) showed [Jd 4c] and lost with a pair of Fours
+
+
+
+PokerStars Hand #239331840976:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:30:28 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: Glinssky ($2.05 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.69 in chips) 
+Seat 6: manumarlats2000 ($2.01 in chips) 
+Glinssky: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Tc]
+Lorpugo: raises $0.04 to $0.06
+manumarlats2000: folds 
+Glinssky: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Glinssky (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 6: manumarlats2000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239331844728:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:30:39 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: Glinssky ($2.04 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 6: manumarlats2000 ($2.01 in chips) 
+Kaneda_DV: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3c]
+manumarlats2000: calls $0.02
+Glinssky: raises $0.06 to $0.08
+Kaneda_DV: folds 
+Lorpugo: folds 
+manumarlats2000: calls $0.06
+*** FLOP *** [3d 7c Td]
+manumarlats2000: bets $0.09
+Draconiel is disconnected 
+Glinssky: folds 
+Uncalled bet ($0.09) returned to manumarlats2000
+manumarlats2000 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3d 7c Td]
+Seat 1: Glinssky (button) folded on the Flop
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 6: manumarlats2000 collected ($0.18)
+
+
+
+PokerStars Hand #239331853728:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:31:04 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.70 in chips) 
+Seat 6: manumarlats2000 ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+manumarlats2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qc]
+Glinssky: raises $0.04 to $0.06
+Kaneda_DV: folds 
+Lorpugo: folds 
+manumarlats2000: calls $0.04
+*** FLOP *** [Qs 8s Ah]
+manumarlats2000: checks 
+Glinssky: bets $0.09
+manumarlats2000: calls $0.09
+*** TURN *** [Qs 8s Ah] [Td]
+manumarlats2000: checks 
+cordobes555 is disconnected 
+Glinssky: checks 
+*** RIVER *** [Qs 8s Ah Td] [4s]
+manumarlats2000: checks 
+Glinssky: checks 
+*** SHOW DOWN ***
+manumarlats2000: shows [8h 6h] (a pair of Eights)
+Glinssky: shows [Js Jh] (a pair of Jacks)
+Glinssky collected $0.30 from pot
+Draconiel leaves the table
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qs 8s Ah Td 4s]
+Seat 1: Glinssky showed [Js Jh] and won ($0.30) with a pair of Jacks
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: manumarlats2000 (big blind) showed [8h 6h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #239331868983:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:31:47 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: Glinssky ($2.15 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.69 in chips) 
+Seat 6: manumarlats2000 ($1.96 in chips) 
+manumarlats2000: posts small blind $0.01
+Glinssky: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8s]
+Kaneda_DV: folds 
+Lorpugo: raises $0.04 to $0.06
+manumarlats2000: folds 
+Glinssky: calls $0.04
+*** FLOP *** [Qc 6d 6h]
+Glinssky: checks 
+Lorpugo: bets $0.04
+Glinssky: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qc 6d 6h]
+Seat 1: Glinssky (big blind) folded on the Flop
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.13)
+Seat 6: manumarlats2000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239331874769:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:32:04 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: Glinssky ($2.09 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.76 in chips) 
+Seat 6: manumarlats2000 ($1.95 in chips) 
+Glinssky: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 6c]
+Lorpugo: raises $0.04 to $0.06
+manumarlats2000: raises $0.04 to $0.10
+Glinssky: folds 
+Kaneda_DV: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Kd 8h 7h]
+Lorpugo: checks 
+manumarlats2000: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to manumarlats2000
+manumarlats2000 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Kd 8h 7h]
+Seat 1: Glinssky (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 4: Lorpugo folded on the Flop
+Seat 6: manumarlats2000 (button) collected ($0.22)
+
+
+
+PokerStars Hand #239331883772:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:32:29 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: Glinssky ($2.08 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.15 in chips) 
+Seat 4: Lorpugo ($1.66 in chips) 
+Seat 6: manumarlats2000 ($2.07 in chips) 
+Kaneda_DV: posts small blind $0.01
+cordobes555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 9c]
+Lorpugo: raises $0.04 to $0.06
+manumarlats2000: calls $0.06
+Glinssky: raises $0.20 to $0.26
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: folds 
+manumarlats2000: calls $0.20
+*** FLOP *** [2h 9d Qd]
+manumarlats2000: checks 
+Glinssky: bets $0.28
+manumarlats2000: folds 
+Uncalled bet ($0.28) returned to Glinssky
+Glinssky collected $0.59 from pot
+Glinssky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [2h 9d Qd]
+Seat 1: Glinssky (button) collected ($0.59)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: cordobes555 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop
+Seat 6: manumarlats2000 folded on the Flop
+
+
+
+PokerStars Hand #239331896819:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:33:06 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: Glinssky ($2.41 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.13 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 6: manumarlats2000 ($1.81 in chips) 
+cordobes555: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 6h]
+manumarlats2000: calls $0.02
+Glinssky: raises $0.06 to $0.08
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: folds 
+manumarlats2000: raises $0.19 to $0.27
+Draconiel joins the table at seat #5 
+Glinssky: calls $0.19
+*** FLOP *** [Jd 3s 9s]
+manumarlats2000: bets $0.27
+Glinssky: calls $0.27
+*** TURN *** [Jd 3s 9s] [9c]
+manumarlats2000: bets $0.53
+Glinssky: raises $1.34 to $1.87 and is all-in
+manumarlats2000: calls $0.74 and is all-in
+Uncalled bet ($0.60) returned to Glinssky
+*** RIVER *** [Jd 3s 9s 9c] [6d]
+*** SHOW DOWN ***
+manumarlats2000: shows [Kc Kh] (two pair, Kings and Nines)
+Glinssky: shows [Qh Jh] (two pair, Jacks and Nines)
+manumarlats2000 collected $3.52 from pot
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.13 
+Board [Jd 3s 9s 9c 6d]
+Seat 1: Glinssky showed [Qh Jh] and lost with two pair, Jacks and Nines
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: cordobes555 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 6: manumarlats2000 showed [Kc Kh] and won ($3.52) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #239331911926:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:33:50 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: Glinssky ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.12 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: manumarlats2000 ($3.52 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5d]
+manumarlats2000: calls $0.02
+Glinssky: folds 
+Glinssky leaves the table
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel: checks 
+*** FLOP *** [6d 7d 2h]
+Donald Duck 222 joins the table at seat #1 
+Draconiel: checks 
+manumarlats2000: checks 
+*** TURN *** [6d 7d 2h] [Kd]
+Draconiel: checks 
+manumarlats2000: bets $0.05
+Draconiel: folds 
+Uncalled bet ($0.05) returned to manumarlats2000
+manumarlats2000 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d 7d 2h Kd]
+Seat 1: Glinssky folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: cordobes555 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Draconiel (big blind) folded on the Turn
+Seat 6: manumarlats2000 collected ($0.05)
+
+
+
+PokerStars Hand #239331928042:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:34:36 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.12 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: manumarlats2000 ($3.55 in chips) 
+Draconiel: posts small blind $0.01
+manumarlats2000: posts big blind $0.02
+Donald Duck 222: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5d]
+Donald Duck 222 leaves the table
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: raises $0.04 to $0.06
+Draconiel: folds 
+manumarlats2000: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: cordobes555 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: Draconiel (small blind) folded before Flop
+Seat 6: manumarlats2000 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239331937665:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:35:04 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.12 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: manumarlats2000 ($3.53 in chips) 
+manumarlats2000: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7h]
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel: folds 
+manumarlats2000: raises $0.04 to $0.06
+Kaneda_DV: folds 
+Uncalled bet ($0.04) returned to manumarlats2000
+DanteDenisAA joins the table at seat #1 
+manumarlats2000 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: cordobes555 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel (button) folded before Flop (didn't bet)
+Seat 6: manumarlats2000 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239331943714:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:35:21 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.12 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: Draconiel ($2 in chips) 
+Seat 6: manumarlats2000 ($3.55 in chips) 
+Kaneda_DV: posts small blind $0.01
+cordobes555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Jc]
+Lorpugo: folds 
+Draconiel: raises $0.03 to $0.05
+manumarlats2000: raises $0.11 to $0.16
+Kaneda_DV: folds 
+cordobes555: folds 
+Draconiel: calls $0.11
+*** FLOP *** [2s 5d Qh]
+Draconiel: checks 
+manumarlats2000: bets $0.17
+Draconiel: calls $0.17
+*** TURN *** [2s 5d Qh] [3c]
+Draconiel: checks 
+manumarlats2000: bets $0.33
+Draconiel: calls $0.33
+*** RIVER *** [2s 5d Qh 3c] [Js]
+Draconiel: checks 
+manumarlats2000: bets $0.54
+Draconiel: calls $0.54
+*** SHOW DOWN ***
+manumarlats2000: shows [Kd 8s] (high card King)
+Draconiel: shows [Ks Qc] (a pair of Queens)
+Draconiel collected $2.34 from pot
+*** SUMMARY ***
+Total pot $2.43 | Rake $0.09 
+Board [2s 5d Qh 3c Js]
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: cordobes555 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel showed [Ks Qc] and won ($2.34) with a pair of Queens
+Seat 6: manumarlats2000 (button) showed [Kd 8s] and lost with high card King
+
+
+
+PokerStars Hand #239331966989:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:36:28 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.10 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: Draconiel ($3.14 in chips) 
+Seat 6: manumarlats2000 ($2.35 in chips) 
+cordobes555: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+DanteDenisAA: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ac]
+Draconiel: raises $0.03 to $0.05
+manumarlats2000: raises $0.33 to $0.38
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel: folds 
+Uncalled bet ($0.33) returned to manumarlats2000
+manumarlats2000 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: cordobes555 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: Draconiel folded before Flop
+Seat 6: manumarlats2000 collected ($0.13)
+
+
+
+PokerStars Hand #239331977942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:37:00 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.09 in chips) 
+Seat 4: Lorpugo ($1.61 in chips) 
+Seat 5: Draconiel ($3.09 in chips) 
+Seat 6: manumarlats2000 ($2.43 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+DanteDenisAA: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 4d]
+manumarlats2000: folds 
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: raises $0.04 to $0.06
+Draconiel: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: cordobes555 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: Draconiel (big blind) folded before Flop
+Seat 6: manumarlats2000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239331983312:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:37:15 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.09 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: Draconiel ($3.07 in chips) 
+Seat 6: manumarlats2000 ($2.43 in chips) 
+Draconiel: posts small blind $0.01
+manumarlats2000: posts big blind $0.02
+DanteDenisAA: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3d]
+Kaneda_DV: folds 
+cordobes555: folds 
+Lorpugo: folds 
+Draconiel: raises $0.04 to $0.06
+manumarlats2000: calls $0.04
+*** FLOP *** [Qc Kd 7s]
+Draconiel: checks 
+manumarlats2000: checks 
+*** TURN *** [Qc Kd 7s] [As]
+Draconiel: checks 
+manumarlats2000: checks 
+*** RIVER *** [Qc Kd 7s As] [8s]
+Draconiel: checks 
+manumarlats2000: bets $0.12
+Draconiel: calls $0.12
+*** SHOW DOWN ***
+manumarlats2000: shows [Qs Kh] (two pair, Kings and Queens)
+Draconiel: mucks hand 
+manumarlats2000 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qc Kd 7s As 8s]
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: cordobes555 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Draconiel (small blind) mucked [Ad 2d]
+Seat 6: manumarlats2000 (big blind) showed [Qs Kh] and won ($0.35) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #239331996075:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:37:52 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.09 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: Draconiel ($2.89 in chips) 
+Seat 6: manumarlats2000 ($2.60 in chips) 
+manumarlats2000: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Kd]
+Kaneda_DV: folds 
+cordobes555: calls $0.02
+Lorpugo: folds 
+Draconiel: raises $0.07 to $0.09
+manumarlats2000: folds 
+DanteDenisAA: folds 
+cordobes555: folds 
+Uncalled bet ($0.07) returned to Draconiel
+Draconiel collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: cordobes555 folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel (button) collected ($0.07)
+Seat 6: manumarlats2000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332006769:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:38:23 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.07 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: Draconiel ($2.94 in chips) 
+Seat 6: manumarlats2000 ($2.59 in chips) 
+DanteDenisAA: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Js]
+cordobes555: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Draconiel: folds 
+manumarlats2000: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+*** FLOP *** [7h 5c 3c]
+cordobes555: checks 
+Lorpugo: bets $0.07
+cordobes555: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7h 5c 3c]
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: cordobes555 folded on the Flop
+Seat 4: Lorpugo collected ($0.14)
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: manumarlats2000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332019092:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:38:59 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: cordobes555 ($5.01 in chips) 
+Seat 4: Lorpugo ($1.71 in chips) 
+Seat 5: Draconiel ($2.94 in chips) 
+Seat 6: manumarlats2000 ($2.59 in chips) 
+Kaneda_DV: posts small blind $0.01
+cordobes555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7c]
+Lorpugo: folds 
+Draconiel: raises $0.03 to $0.05
+manumarlats2000: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+cordobes555: folds 
+Uncalled bet ($0.03) returned to Draconiel
+Draconiel collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: cordobes555 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel collected ($0.05)
+Seat 6: manumarlats2000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332025007:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:39:16 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.71 in chips) 
+Seat 5: Draconiel ($2.97 in chips) 
+Seat 6: manumarlats2000 ($2.59 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 2h]
+cordobes555 leaves the table
+manumarlats2000: raises $0.04 to $0.06
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Lorpugo: folds 
+Draconiel: folds 
+Uncalled bet ($0.04) returned to manumarlats2000
+manumarlats2000 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Draconiel (big blind) folded before Flop
+Seat 6: manumarlats2000 collected ($0.05)
+
+
+
+PokerStars Hand #239332030303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:39:31 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 4: Lorpugo ($1.70 in chips) 
+Seat 5: Draconiel ($2.95 in chips) 
+Seat 6: manumarlats2000 ($2.62 in chips) 
+Draconiel: posts small blind $0.01
+manumarlats2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qh]
+DanteDenisAA: raises $0.03 to $0.05
+Kaneda_DV: folds 
+Lorpugo: calls $0.05
+Draconiel: folds 
+manumarlats2000: folds 
+*** FLOP *** [Ad 5d 7h]
+DanteDenisAA: checks 
+Gustaavinho! joins the table at seat #3 
+Lorpugo: checks 
+*** TURN *** [Ad 5d 7h] [4c]
+DanteDenisAA: checks 
+Lorpugo: bets $0.08
+DanteDenisAA: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ad 5d 7h 4c]
+Seat 1: DanteDenisAA folded on the Turn
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.13)
+Seat 5: Draconiel (small blind) folded before Flop
+Seat 6: manumarlats2000 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332042126:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:40:05 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($2 in chips) 
+Seat 4: Lorpugo ($1.78 in chips) 
+Seat 5: Draconiel ($2.94 in chips) 
+Seat 6: manumarlats2000 ($2.60 in chips) 
+manumarlats2000: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+Gustaavinho!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ah]
+Kaneda_DV: raises $0.06 to $0.08
+Gustaavinho!: calls $0.06
+Lorpugo: folds 
+Draconiel: folds 
+manumarlats2000: folds 
+DanteDenisAA: folds 
+*** FLOP *** [5h 8d Ac]
+Kaneda_DV: bets $0.10
+Gustaavinho!: folds 
+Uncalled bet ($0.10) returned to Kaneda_DV
+Kaneda_DV collected $0.18 from pot
+Kaneda_DV: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 8d Ac]
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 2: Kaneda_DV collected ($0.18)
+Seat 3: Gustaavinho! folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel (button) folded before Flop (didn't bet)
+Seat 6: manumarlats2000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332054538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:40:41 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2.10 in chips) 
+Seat 3: Gustaavinho! ($1.92 in chips) 
+Seat 4: Lorpugo ($1.78 in chips) 
+Seat 5: Draconiel ($2.94 in chips) 
+Seat 6: manumarlats2000 ($2.59 in chips) 
+DanteDenisAA: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3s]
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: folds 
+Draconiel: folds 
+manumarlats2000: calls $0.06
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+*** FLOP *** [Kd 5h 8c]
+Gustaavinho!: checks 
+manumarlats2000: checks 
+*** TURN *** [Kd 5h 8c] [8s]
+Gustaavinho!: bets $0.11
+manumarlats2000: calls $0.11
+*** RIVER *** [Kd 5h 8c 8s] [4s]
+Gustaavinho!: bets $0.26
+manumarlats2000: raises $0.26 to $0.52
+Gustaavinho!: calls $0.26
+*** SHOW DOWN ***
+manumarlats2000: shows [9h Jh] (a pair of Eights)
+Gustaavinho!: shows [Kh Ad] (two pair, Kings and Eights)
+Gustaavinho! collected $1.36 from pot
+*** SUMMARY ***
+Total pot $1.41 | Rake $0.05 
+Board [Kd 5h 8c 8s 4s]
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: Gustaavinho! showed [Kh Ad] and won ($1.36) with two pair, Kings and Eights
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: manumarlats2000 (button) showed [9h Jh] and lost with a pair of Eights
+
+
+
+PokerStars Hand #239332084059:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:42:07 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2.08 in chips) 
+Seat 3: Gustaavinho! ($2.59 in chips) 
+Seat 4: Lorpugo ($1.78 in chips) 
+Seat 5: Draconiel ($2.94 in chips) 
+Seat 6: manumarlats2000 ($1.90 in chips) 
+Kaneda_DV: posts small blind $0.01
+Gustaavinho!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Qd]
+Lorpugo: raises $0.02 to $0.04
+Draconiel: folds 
+manumarlats2000: folds 
+DanteDenisAA: folds 
+Kaneda_DV: raises $0.10 to $0.14
+Gustaavinho!: folds 
+Lorpugo: raises $0.34 to $0.48
+Kaneda_DV: folds 
+Uncalled bet ($0.34) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: Gustaavinho! (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.30)
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: manumarlats2000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332102666:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:43:01 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($2.57 in chips) 
+Seat 4: Lorpugo ($1.94 in chips) 
+Seat 5: Draconiel ($2.94 in chips) 
+Seat 6: manumarlats2000 ($1.90 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2h]
+Draconiel: folds 
+manumarlats2000: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+*** FLOP *** [3c Js 4h]
+Gustaavinho!: bets $0.06
+Lorpugo: raises $0.12 to $0.18
+Gustaavinho!: calls $0.12
+*** TURN *** [3c Js 4h] [Jc]
+Gustaavinho!: checks 
+Lorpugo: bets $0.30
+Gustaavinho!: calls $0.30
+*** RIVER *** [3c Js 4h Jc] [4d]
+Gustaavinho!: checks 
+Lorpugo: bets $1.40 and is all-in
+Gustaavinho!: calls $1.40
+*** SHOW DOWN ***
+Lorpugo: shows [Jh 2h] (a full house, Jacks full of Fours)
+Gustaavinho!: shows [Ac 3d] (two pair, Jacks and Fours)
+Lorpugo collected $3.74 from pot
+*** SUMMARY ***
+Total pot $3.88 | Rake $0.14 
+Board [3c Js 4h Jc 4d]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (small blind) showed [Ac 3d] and lost with two pair, Jacks and Fours
+Seat 4: Lorpugo (big blind) showed [Jh 2h] and won ($3.74) with a full house, Jacks full of Fours
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: manumarlats2000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332132885:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:44:30 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.63 in chips) 
+Seat 4: Lorpugo ($3.74 in chips) 
+Seat 5: Draconiel ($2.94 in chips) 
+Seat 6: manumarlats2000 ($1.90 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4h]
+manumarlats2000: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Draconiel
+Draconiel collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Draconiel (big blind) collected ($0.02)
+Seat 6: manumarlats2000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332138879:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:44:48 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.63 in chips) 
+Seat 4: Lorpugo ($3.73 in chips) 
+Seat 5: Draconiel ($2.95 in chips) 
+Seat 6: manumarlats2000 ($1.90 in chips) 
+Draconiel: posts small blind $0.01
+manumarlats2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 3d]
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: folds 
+Draconiel: raises $0.04 to $0.06
+manumarlats2000: calls $0.04
+*** FLOP *** [As 8s 6h]
+Draconiel: checks 
+manumarlats2000: bets $0.06
+Draconiel: raises $0.24 to $0.30
+manumarlats2000: calls $0.24
+*** TURN *** [As 8s 6h] [2c]
+Draconiel: bets $2.59 and is all-in
+manumarlats2000: calls $1.54 and is all-in
+Uncalled bet ($1.05) returned to Draconiel
+*** RIVER *** [As 8s 6h 2c] [7h]
+*** SHOW DOWN ***
+Draconiel: shows [Ac Ah] (three of a kind, Aces)
+manumarlats2000: shows [8d Qh] (a pair of Eights)
+Draconiel collected $3.67 from pot
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.13 
+Board [As 8s 6h 2c 7h]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Draconiel (small blind) showed [Ac Ah] and won ($3.67) with three of a kind, Aces
+Seat 6: manumarlats2000 (big blind) showed [8d Qh] and lost with a pair of Eights
+
+
+
+PokerStars Hand #239332161823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:45:56 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.63 in chips) 
+Seat 4: Lorpugo ($3.73 in chips) 
+Seat 5: Draconiel ($4.72 in chips) 
+DanteDenisAA: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 9d]
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: folds 
+Draconiel: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.04) returned to Gustaavinho!
+Gustaavinho! collected $0.05 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: Gustaavinho! collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332168065:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:46:15 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.66 in chips) 
+Seat 4: Lorpugo ($3.73 in chips) 
+Seat 5: Draconiel ($4.72 in chips) 
+Kaneda_DV: posts small blind $0.01
+Gustaavinho!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 4d]
+Lorpugo: folds 
+Draconiel: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.01) returned to Gustaavinho!
+Gustaavinho! collected $0.02 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: Gustaavinho! (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332172653:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:46:29 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.67 in chips) 
+Seat 4: Lorpugo ($3.73 in chips) 
+Seat 5: Draconiel ($4.72 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2c]
+Draconiel: folds 
+DanteDenisAA: folds 
+Kaneda_DV: raises $0.03 to $0.05
+Gustaavinho!: raises $0.12 to $0.17
+Lorpugo: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.12) returned to Gustaavinho!
+Gustaavinho! collected $0.12 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop
+Seat 3: Gustaavinho! (small blind) collected ($0.12)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: Draconiel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332179395:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:46:49 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.74 in chips) 
+Seat 4: Lorpugo ($3.71 in chips) 
+Seat 5: Draconiel ($4.72 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5c]
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: folds 
+Draconiel: folds 
+Uncalled bet ($0.04) returned to Gustaavinho!
+Gustaavinho! collected $0.05 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) collected ($0.05)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Draconiel (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332189003:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:47:18 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.77 in chips) 
+Seat 4: Lorpugo ($3.70 in chips) 
+Seat 5: Draconiel ($4.70 in chips) 
+Draconiel: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Kd]
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: raises $0.04 to $0.06
+Draconiel: calls $0.05
+DanteDenisAA: folds 
+*** FLOP *** [Th 9d 6h]
+Draconiel: checks 
+Lorpugo: checks 
+*** TURN *** [Th 9d 6h] [2s]
+Draconiel: bets $0.11
+Lorpugo: calls $0.11
+*** RIVER *** [Th 9d 6h 2s] [Ts]
+Draconiel: bets $0.26
+manumarlats2000 leaves the table
+Lorpugo: raises $0.34 to $0.60
+Grimmie1307 joins the table at seat #6 
+Draconiel: raises $3.93 to $4.53 and is all-in
+Grimmie1307 leaves the table
+Lorpugo: folds 
+Uncalled bet ($3.93) returned to Draconiel
+Draconiel collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05 
+Board [Th 9d 6h 2s Ts]
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the River
+Seat 5: Draconiel (small blind) collected ($1.51)
+
+
+
+PokerStars Hand #239332225922:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:49:10 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.77 in chips) 
+Seat 4: Lorpugo ($2.93 in chips) 
+Kaneda_DV: posts small blind $0.01
+Gustaavinho!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Th]
+Lorpugo: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Uncalled bet ($0.01) returned to Gustaavinho!
+Gustaavinho! collected $0.02 from pot
+Gustaavinho!: doesn't show hand 
+Draconiel leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: Gustaavinho! (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332229067:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:49:20 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.78 in chips) 
+Seat 4: Lorpugo ($2.93 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4c]
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.76 to $0.78 and is all-in
+Lorpugo: folds 
+Uncalled bet ($0.76) returned to Gustaavinho!
+Gustaavinho! collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (small blind) collected ($0.04)
+Seat 4: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332233720:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:49:34 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.80 in chips) 
+Seat 4: Lorpugo ($2.91 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qd]
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.02 to $0.04
+Lorpugo: folds 
+Draconiel joins the table at seat #5 
+DanteDenisAA: calls $0.02
+*** FLOP *** [3h 7s 8h]
+DanteDenisAA: checks 
+Gustaavinho!: checks 
+*** TURN *** [3h 7s 8h] [5c]
+DanteDenisAA: checks 
+Gustaavinho!: bets $0.06
+DanteDenisAA: folds 
+Uncalled bet ($0.06) returned to Gustaavinho!
+Gustaavinho! collected $0.09 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3h 7s 8h 5c]
+Seat 1: DanteDenisAA (big blind) folded on the Turn
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) collected ($0.09)
+Seat 4: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332250981:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:50:26 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.85 in chips) 
+Seat 4: Lorpugo ($2.90 in chips) 
+DanteDenisAA: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3h]
+Gustaavinho!: folds 
+3n3JotaJR joins the table at seat #6 
+Lorpugo: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.01) returned to Kaneda_DV
+Kaneda_DV collected $0.02 from pot
+Kaneda_DV: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) collected ($0.02)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332257252:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:50:45 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2.01 in chips) 
+Seat 3: Gustaavinho! ($0.85 in chips) 
+Seat 4: Lorpugo ($2.90 in chips) 
+Kaneda_DV: posts small blind $0.01
+Gustaavinho!: posts big blind $0.02
+Draconiel: sits out 
+3n3JotaJR: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9s]
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: Gustaavinho! (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239332261716:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:50:59 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.83 in chips) 
+Seat 4: Lorpugo ($2.93 in chips) 
+Seat 6: 3n3JotaJR ($0.80 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Draconiel: sits out 
+3n3JotaJR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Kd]
+3n3JotaJR: checks 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: raises $0.05 to $0.07
+3n3JotaJR: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.05)
+Seat 6: 3n3JotaJR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332277129:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:51:45 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.82 in chips) 
+Seat 4: Lorpugo ($2.96 in chips) 
+Seat 5: Draconiel ($5.44 in chips) 
+Seat 6: 3n3JotaJR ($0.78 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Jc]
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+Draconiel: folds 
+Gustaavinho!: calls $0.14
+*** FLOP *** [6h 4c Kh]
+Lorpugo: checks 
+Gustaavinho!: checks 
+*** TURN *** [6h 4c Kh] [7d]
+Lorpugo: checks 
+Gustaavinho!: checks 
+*** RIVER *** [6h 4c Kh 7d] [Kd]
+Lorpugo: checks 
+Gustaavinho!: bets $0.41
+Lorpugo: folds 
+Uncalled bet ($0.41) returned to Gustaavinho!
+Gustaavinho! collected $0.41 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [6h 4c Kh 7d Kd]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) collected ($0.41)
+Seat 4: Lorpugo (small blind) folded on the River
+Seat 5: Draconiel (big blind) folded before Flop
+Seat 6: 3n3JotaJR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332294220:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:52:37 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1.03 in chips) 
+Seat 4: Lorpugo ($2.76 in chips) 
+Seat 5: Draconiel ($5.42 in chips) 
+Seat 6: 3n3JotaJR ($0.78 in chips) 
+Draconiel: posts small blind $0.01
+3n3JotaJR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 4h]
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: raises $0.04 to $0.06
+Draconiel: folds 
+3n3JotaJR: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: Draconiel (small blind) folded before Flop
+Seat 6: 3n3JotaJR (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332302551:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:53:03 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1.03 in chips) 
+Seat 4: Lorpugo ($2.79 in chips) 
+Seat 5: Draconiel ($5.41 in chips) 
+Seat 6: 3n3JotaJR ($0.76 in chips) 
+3n3JotaJR: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qs]
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: raises $0.04 to $0.06
+Draconiel: folds 
+3n3JotaJR: calls $0.05
+DanteDenisAA: folds 
+*** FLOP *** [4s 5h As]
+3n3JotaJR: checks 
+Lorpugo: bets $0.18
+3n3JotaJR: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4s 5h As]
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.14)
+Seat 5: Draconiel (button) folded before Flop (didn't bet)
+Seat 6: 3n3JotaJR (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239332314664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:53:39 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1.03 in chips) 
+Seat 4: Lorpugo ($2.87 in chips) 
+Seat 5: Draconiel ($5.41 in chips) 
+Seat 6: 3n3JotaJR ($0.70 in chips) 
+DanteDenisAA: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9d]
+Gustaavinho!: folds 
+Lorpugo: raises $0.04 to $0.06
+Draconiel: raises $0.15 to $0.21
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Lorpugo: calls $0.15
+*** FLOP *** [Tc 7h 4s]
+Lorpugo: checks 
+Draconiel: checks 
+*** TURN *** [Tc 7h 4s] [Jh]
+Lorpugo: bets $0.14
+Draconiel: raises $0.36 to $0.50
+Lorpugo: folds 
+Uncalled bet ($0.36) returned to Draconiel
+Draconiel collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Tc 7h 4s Jh]
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the Turn
+Seat 5: Draconiel collected ($0.70)
+Seat 6: 3n3JotaJR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332329009:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:54:23 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1.03 in chips) 
+Seat 4: Lorpugo ($2.52 in chips) 
+Seat 5: Draconiel ($5.76 in chips) 
+Seat 6: 3n3JotaJR ($0.70 in chips) 
+Kaneda_DV: posts small blind $0.01
+Gustaavinho!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Ah]
+Lorpugo: raises $0.04 to $0.06
+Draconiel: raises $0.15 to $0.21
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Draconiel
+Draconiel collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: Gustaavinho! (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop
+Seat 5: Draconiel collected ($0.15)
+Seat 6: 3n3JotaJR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332341039:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:55:00 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1.01 in chips) 
+Seat 4: Lorpugo ($2.46 in chips) 
+Seat 5: Draconiel ($5.85 in chips) 
+Seat 6: 3n3JotaJR ($0.70 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6c]
+Draconiel: folds 
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Gustaavinho!
+Gustaavinho! collected $0.04 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (small blind) collected ($0.04)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: 3n3JotaJR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332347220:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:55:21 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1.03 in chips) 
+Seat 4: Lorpugo ($2.44 in chips) 
+Seat 5: Draconiel ($5.85 in chips) 
+Seat 6: 3n3JotaJR ($0.70 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5d]
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+Draconiel: folds 
+Gustaavinho!: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) folded before Flop
+Seat 4: Lorpugo (small blind) collected ($0.14)
+Seat 5: Draconiel (big blind) folded before Flop
+Seat 6: 3n3JotaJR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332354005:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:55:47 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.97 in chips) 
+Seat 4: Lorpugo ($2.52 in chips) 
+Seat 5: Draconiel ($5.83 in chips) 
+Seat 6: 3n3JotaJR ($0.70 in chips) 
+Draconiel: posts small blind $0.01
+3n3JotaJR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 4h]
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: folds 
+Draconiel: folds 
+3n3JotaJR: folds 
+Uncalled bet ($0.04) returned to Gustaavinho!
+Gustaavinho! collected $0.05 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! collected ($0.05)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Draconiel (small blind) folded before Flop
+Seat 6: 3n3JotaJR (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332360893:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:56:14 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1 in chips) 
+Seat 4: Lorpugo ($2.52 in chips) 
+Seat 5: Draconiel ($5.82 in chips) 
+Seat 6: 3n3JotaJR ($0.68 in chips) 
+3n3JotaJR: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Qd]
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: folds 
+Draconiel: folds 
+3n3JotaJR: calls $0.01
+DanteDenisAA: checks 
+*** FLOP *** [5c 7s Td]
+3n3JotaJR: checks 
+DanteDenisAA: checks 
+*** TURN *** [5c 7s Td] [7h]
+3n3JotaJR: checks 
+DanteDenisAA: checks 
+*** RIVER *** [5c 7s Td 7h] [Kd]
+3n3JotaJR: bets $0.02
+DanteDenisAA: calls $0.02
+*** SHOW DOWN ***
+3n3JotaJR: shows [3d 3h] (two pair, Sevens and Threes)
+DanteDenisAA: shows [Ks 6s] (two pair, Kings and Sevens)
+DanteDenisAA collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5c 7s Td 7h Kd]
+Seat 1: DanteDenisAA (big blind) showed [Ks 6s] and won ($0.08) with two pair, Kings and Sevens
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel (button) folded before Flop (didn't bet)
+Seat 6: 3n3JotaJR (small blind) showed [3d 3h] and lost with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #239332378684:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:57:22 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2.04 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1 in chips) 
+Seat 4: Lorpugo ($2.52 in chips) 
+Seat 5: Draconiel ($5.82 in chips) 
+Seat 6: 3n3JotaJR ($0.64 in chips) 
+DanteDenisAA: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Js]
+Gustaavinho!: folds 
+Lorpugo: raises $0.04 to $0.06
+Draconiel: folds 
+3n3JotaJR: calls $0.06
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+*** FLOP *** [3d 6s 8c]
+Lorpugo: checks 
+3n3JotaJR: checks 
+*** TURN *** [3d 6s 8c] [4c]
+Lorpugo: checks 
+3n3JotaJR: checks 
+*** RIVER *** [3d 6s 8c 4c] [6d]
+Lorpugo: checks 
+3n3JotaJR: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ad Js] (a pair of Sixes)
+3n3JotaJR: mucks hand 
+Lorpugo collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3d 6s 8c 4c 6d]
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [Ad Js] and won ($0.14) with a pair of Sixes
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: 3n3JotaJR (button) mucked [Td Ac]
+
+
+
+PokerStars Hand #239332391680:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:58:11 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2.03 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1 in chips) 
+Seat 4: Lorpugo ($2.60 in chips) 
+Seat 5: Draconiel ($5.82 in chips) 
+Seat 6: 3n3JotaJR ($0.58 in chips) 
+Kaneda_DV: posts small blind $0.01
+Gustaavinho!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Ad]
+Lorpugo: raises $0.04 to $0.06
+Draconiel: raises $0.15 to $0.21
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Draconiel
+Draconiel collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (small blind) folded before Flop
+Seat 3: Gustaavinho! (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop
+Seat 5: Draconiel collected ($0.15)
+Seat 6: 3n3JotaJR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332400052:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:58:43 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2.03 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($0.98 in chips) 
+Seat 4: Lorpugo ($2.54 in chips) 
+Seat 5: Draconiel ($5.91 in chips) 
+Seat 6: 3n3JotaJR ($0.58 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ts]
+Draconiel: folds 
+3n3JotaJR: calls $0.02
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.06 to $0.08
+Lorpugo: calls $0.06
+3n3JotaJR: calls $0.06
+*** FLOP *** [2d 7h Tc]
+Gustaavinho!: bets $0.15
+Lorpugo: raises $2.31 to $2.46 and is all-in
+3n3JotaJR: folds 
+Gustaavinho!: calls $0.75 and is all-in
+Uncalled bet ($1.56) returned to Lorpugo
+*** TURN *** [2d 7h Tc] [4d]
+*** RIVER *** [2d 7h Tc 4d] [3s]
+*** SHOW DOWN ***
+Gustaavinho!: shows [Td 7d] (two pair, Tens and Sevens)
+Lorpugo: shows [9s Ts] (a pair of Tens)
+Gustaavinho! collected $1.97 from pot
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.07 
+Board [2d 7h Tc 4d 3s]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV (button) folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (small blind) showed [Td 7d] and won ($1.97) with two pair, Tens and Sevens
+Seat 4: Lorpugo (big blind) showed [9s Ts] and lost with a pair of Tens
+Seat 5: Draconiel folded before Flop (didn't bet)
+Seat 6: 3n3JotaJR folded on the Flop
+
+
+
+PokerStars Hand #239332415059:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 17:59:40 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2.03 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($1.97 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($5.91 in chips) 
+Seat 6: 3n3JotaJR ($0.50 in chips) 
+Lorpugo: posts small blind $0.01
+Draconiel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.05 to $0.07
+Lorpugo: folds 
+Draconiel: folds 
+Uncalled bet ($0.05) returned to Gustaavinho!
+Gustaavinho! collected $0.05 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) collected ($0.05)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Draconiel (big blind) folded before Flop
+Seat 6: 3n3JotaJR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332424862:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:00:17 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2.03 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($2 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($5.89 in chips) 
+Seat 6: 3n3JotaJR ($0.50 in chips) 
+Draconiel: posts small blind $0.01
+3n3JotaJR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 2d]
+DanteDenisAA: raises $0.03 to $0.05
+Kaneda_DV: folds 
+Gustaavinho!: folds 
+Lorpugo: folds 
+Draconiel: folds 
+3n3JotaJR: folds 
+Uncalled bet ($0.03) returned to DanteDenisAA
+DanteDenisAA collected $0.05 from pot
+DanteDenisAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA collected ($0.05)
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Draconiel (small blind) folded before Flop
+Seat 6: 3n3JotaJR (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332428671:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:00:31 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: DanteDenisAA ($2.06 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($2 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($5.88 in chips) 
+Seat 6: 3n3JotaJR ($0.48 in chips) 
+3n3JotaJR: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 6h]
+Kaneda_DV: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: folds 
+Draconiel: folds 
+3n3JotaJR: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.04) returned to Gustaavinho!
+Gustaavinho! collected $0.05 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 2: Kaneda_DV folded before Flop (didn't bet)
+Seat 3: Gustaavinho! collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel (button) folded before Flop (didn't bet)
+Seat 6: 3n3JotaJR (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332438723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:01:06 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2.04 in chips) 
+Seat 2: Kaneda_DV ($2 in chips) 
+Seat 3: Gustaavinho! ($2.03 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: Draconiel ($5.88 in chips) 
+Seat 6: 3n3JotaJR ($0.47 in chips) 
+DanteDenisAA: posts small blind $0.01
+Kaneda_DV: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8c]
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: folds 
+Draconiel: raises $0.04 to $0.10
+3n3JotaJR: folds 
+3n3JotaJR leaves the table
+DanteDenisAA: folds 
+Kaneda_DV: folds 
+Valen_DLC joins the table at seat #6 
+Gustaavinho!: calls $0.04
+*** FLOP *** [8d Qh Jc]
+Gustaavinho!: checks 
+Draconiel: bets $0.11
+Gustaavinho!: raises $0.32 to $0.43
+Kaneda_DV leaves the table
+Draconiel has timed out
+Draconiel: folds 
+Uncalled bet ($0.32) returned to Gustaavinho!
+Gustaavinho! collected $0.43 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8d Qh Jc]
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: Kaneda_DV (big blind) folded before Flop
+Seat 3: Gustaavinho! collected ($0.43)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Draconiel folded on the Flop
+Seat 6: 3n3JotaJR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332460879:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:02:18 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2.03 in chips) 
+Seat 3: Gustaavinho! ($2.25 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 6: Valen_DLC ($2 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Td]
+Valen_DLC: checks 
+DanteDenisAA: folds 
+Gustaavinho!: folds 
+marcin116 joins the table at seat #2 
+Lorpugo: checks 
+*** FLOP *** [7c 2c Kh]
+Lorpugo: bets $0.02
+Valen_DLC: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c 2c Kh]
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.05)
+Seat 6: Valen_DLC folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #239332469735:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:02:46 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2.03 in chips) 
+Seat 3: Gustaavinho! ($2.24 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 6: Valen_DLC ($1.98 in chips) 
+Lorpugo: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+marcin116: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6d]
+DanteDenisAA: folds 
+Gustaavinho!: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+Valen_DLC: calls $0.04
+*** FLOP *** [8c Ah Ts]
+Lorpugo: checks 
+Valen_DLC: checks 
+Gustaavinho!: bets $0.10
+Lorpugo: calls $0.10
+Valen_DLC: folds 
+*** TURN *** [8c Ah Ts] [9s]
+Lorpugo: bets $0.24
+Gustaavinho!: calls $0.24
+*** RIVER *** [8c Ah Ts 9s] [Td]
+Lorpugo: checks 
+Gustaavinho!: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ac 6d] (two pair, Aces and Tens)
+Gustaavinho!: shows [As Kc] (two pair, Aces and Tens - King kicker)
+Gustaavinho! collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [8c Ah Ts 9s Td]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) showed [As Kc] and won ($0.83) with two pair, Aces and Tens
+Seat 4: Lorpugo (small blind) showed [Ac 6d] and lost with two pair, Aces and Tens
+Seat 6: Valen_DLC (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239332487416:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:03:42 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2.03 in chips) 
+Seat 3: Gustaavinho! ($2.67 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 6: Valen_DLC ($1.92 in chips) 
+Valen_DLC: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+marcin116: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qh]
+Gustaavinho!: folds 
+Lorpugo: raises $0.04 to $0.06
+Valen_DLC: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332493762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:04:02 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2.01 in chips) 
+Seat 2: marcin116 ($2 in chips) 
+Seat 3: Gustaavinho! ($2.67 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 6: Valen_DLC ($1.91 in chips) 
+DanteDenisAA: posts small blind $0.01
+marcin116: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 3s]
+Gustaavinho!: folds 
+Lorpugo: raises $0.04 to $0.06
+Valen_DLC: folds 
+DanteDenisAA: calls $0.05
+marcin116: folds 
+*** FLOP *** [5s Js 8s]
+DanteDenisAA: checks 
+Lorpugo: checks 
+*** TURN *** [5s Js 8s] [Th]
+DanteDenisAA: checks 
+Lorpugo: checks 
+*** RIVER *** [5s Js 8s Th] [9c]
+DanteDenisAA: checks 
+Lorpugo: bets $0.18
+DanteDenisAA: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s Js 8s Th 9c]
+Seat 1: DanteDenisAA (small blind) folded on the River
+Seat 2: marcin116 (big blind) folded before Flop
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.14)
+Seat 6: Valen_DLC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332517607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:05:16 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: marcin116 ($2 in chips) 
+Seat 3: Gustaavinho! ($2.67 in chips) 
+Seat 4: Lorpugo ($1.71 in chips) 
+Seat 6: Valen_DLC ($1.91 in chips) 
+marcin116: posts small blind $0.01
+Gustaavinho!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 7c]
+Lorpugo: raises $0.04 to $0.06
+Valen_DLC: calls $0.06
+DanteDenisAA: folds 
+marcin116: folds 
+Gustaavinho!: folds 
+*** FLOP *** [Ks 7d 2s]
+Lorpugo: bets $0.05
+Valen_DLC: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks 7d 2s]
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: marcin116 (small blind) folded before Flop
+Seat 3: Gustaavinho! (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.14)
+Seat 6: Valen_DLC folded on the Flop
+
+
+
+PokerStars Hand #239332524728:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:05:38 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: marcin116 ($2 in chips) 
+Seat 3: Gustaavinho! ($2.65 in chips) 
+Seat 4: Lorpugo ($1.79 in chips) 
+Seat 6: Valen_DLC ($1.85 in chips) 
+Gustaavinho!: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 4h]
+Valen_DLC: folds 
+DanteDenisAA: folds 
+marcin116: folds 
+Gustaavinho!: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [Th 9h Kh]
+Gustaavinho!: bets $0.08
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Gustaavinho!
+Gustaavinho! collected $0.08 from pot
+Gustaavinho!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Th 9h Kh]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: marcin116 (button) folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (small blind) collected ($0.08)
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332533335:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:06:05 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: marcin116 ($2 in chips) 
+Seat 3: Gustaavinho! ($2.69 in chips) 
+Seat 4: Lorpugo ($1.75 in chips) 
+Seat 6: Valen_DLC ($1.85 in chips) 
+Lorpugo: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Jc]
+DanteDenisAA: raises $0.03 to $0.05
+marcin116: folds 
+Gustaavinho!: folds 
+Lorpugo: folds 
+Valen_DLC: calls $0.03
+*** FLOP *** [7h 4d 6h]
+Valen_DLC: checks 
+DanteDenisAA: checks 
+*** TURN *** [7h 4d 6h] [8c]
+Valen_DLC: bets $0.06
+DanteDenisAA: calls $0.06
+*** RIVER *** [7h 4d 6h 8c] [Kc]
+Valen_DLC: checks 
+DanteDenisAA: checks 
+*** SHOW DOWN ***
+Valen_DLC: shows [Jd 9c] (high card King)
+DanteDenisAA: shows [Kd 9d] (a pair of Kings)
+DanteDenisAA collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [7h 4d 6h 8c Kc]
+Seat 1: DanteDenisAA showed [Kd 9d] and won ($0.22) with a pair of Kings
+Seat 2: marcin116 folded before Flop (didn't bet)
+Seat 3: Gustaavinho! (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: Valen_DLC (big blind) showed [Jd 9c] and lost with high card King
+
+
+
+PokerStars Hand #239332545859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:06:44 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2.11 in chips) 
+Seat 2: marcin116 ($2 in chips) 
+Seat 3: Gustaavinho! ($2.69 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 6: Valen_DLC ($1.89 in chips) 
+Valen_DLC: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 6c]
+marcin116: raises $0.05 to $0.07
+Gustaavinho!: calls $0.07
+Lorpugo: folds 
+Valen_DLC: folds 
+DanteDenisAA: folds 
+*** FLOP *** [9h Tc 2s]
+marcin116: bets $0.11
+Gustaavinho!: folds 
+Uncalled bet ($0.11) returned to marcin116
+marcin116 collected $0.16 from pot
+marcin116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9h Tc 2s]
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 2: marcin116 collected ($0.16)
+Seat 3: Gustaavinho! folded on the Flop
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332559937:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:07:29 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2.09 in chips) 
+Seat 2: marcin116 ($2.09 in chips) 
+Seat 3: Gustaavinho! ($2.62 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 6: Valen_DLC ($1.88 in chips) 
+DanteDenisAA: posts small blind $0.01
+marcin116: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9c]
+Gustaavinho!: folds 
+Gustaavinho! leaves the table
+Lorpugo: folds 
+Valen_DLC: raises $0.02 to $0.04
+DanteDenisAA: folds 
+marcin116: raises $0.09 to $0.13
+Valen_DLC: folds 
+Uncalled bet ($0.09) returned to marcin116
+marcin116 collected $0.09 from pot
+marcin116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: marcin116 (big blind) collected ($0.09)
+Seat 3: Gustaavinho! folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: Valen_DLC (button) folded before Flop
+
+
+
+PokerStars Hand #239332566946:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:07:51 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2.08 in chips) 
+Seat 2: marcin116 ($2.14 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 6: Valen_DLC ($1.96 in chips) 
+marcin116: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4s]
+Valen_DLC: raises $0.03 to $0.05
+DanteDenisAA: folds 
+marcin116: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to Valen_DLC
+marcin116 leaves the table
+Valen_DLC collected $0.05 from pot
+Valen_DLC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 2: marcin116 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 6: Valen_DLC collected ($0.05)
+
+
+
+PokerStars Hand #239332569605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:08:00 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2.08 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 6: Valen_DLC ($1.99 in chips) 
+Valen_DLC: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 9h]
+Lorpugo: raises $0.04 to $0.06
+Valen_DLC: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DanteDenisAA (big blind) folded before Flop
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332575502:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:08:18 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2.06 in chips) 
+Seat 4: Lorpugo ($1.75 in chips) 
+Seat 6: Valen_DLC ($1.98 in chips) 
+DanteDenisAA: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 3s]
+Valen_DLC: raises $0.02 to $0.04
+DanteDenisAA: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [4h Jh 7s]
+DanteDenisAA: checks 
+nico1nied joins the table at seat #2 
+Lorpugo: bets $0.04
+Valen_DLC: calls $0.04
+DanteDenisAA: folds 
+*** TURN *** [4h Jh 7s] [5h]
+Lorpugo: bets $0.02
+Valen_DLC: raises $0.08 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Valen_DLC
+Valen_DLC collected $0.23 from pot
+Valen_DLC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4h Jh 7s 5h]
+Seat 1: DanteDenisAA (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 6: Valen_DLC (button) collected ($0.23)
+
+
+
+PokerStars Hand #239332588003:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:08:58 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2.02 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 6: Valen_DLC ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d As]
+DanteDenisAA: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+Valen_DLC: calls $0.03
+*** FLOP *** [2h Kd 5s]
+Lorpugo: checks 
+Valen_DLC: checks 
+DanteDenisAA: checks 
+*** TURN *** [2h Kd 5s] [8d]
+Lorpugo: checks 
+Valen_DLC: checks 
+DanteDenisAA: checks 
+*** RIVER *** [2h Kd 5s 8d] [4c]
+Lorpugo: checks 
+Valen_DLC: bets $0.06
+DanteDenisAA: folds 
+Phavorito joins the table at seat #3 
+Lorpugo: calls $0.06
+*** SHOW DOWN ***
+Valen_DLC: shows [Ts 9c] (high card King)
+Lorpugo: shows [5d As] (a pair of Fives)
+Lorpugo collected $0.26 from pot
+Draconiel leaves the table
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2h Kd 5s 8d 4c]
+Seat 1: DanteDenisAA (button) folded on the River
+Seat 4: Lorpugo (small blind) showed [5d As] and won ($0.26) with a pair of Fives
+Seat 6: Valen_DLC (big blind) showed [Ts 9c] and lost with high card King
+
+
+
+PokerStars Hand #239332602493:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:09:44 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 4: Lorpugo ($1.80 in chips) 
+Seat 6: Valen_DLC ($2 in chips) 
+Valen_DLC: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+nico1nied: sits out 
+Phavorito: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 3d]
+Lorpugo: folds 
+Valen_DLC: folds 
+Uncalled bet ($0.01) returned to DanteDenisAA
+Taratuta89 joins the table at seat #5 
+DanteDenisAA collected $0.02 from pot
+DanteDenisAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: DanteDenisAA (big blind) collected ($0.02)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332604974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:09:52 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: DanteDenisAA ($2.01 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($1.80 in chips) 
+Seat 6: Valen_DLC ($1.99 in chips) 
+DanteDenisAA: posts small blind $0.01
+nico1nied: posts big blind $0.02
+Phavorito: sits out 
+Taratuta89: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qs]
+Lorpugo: raises $0.04 to $0.06
+Valen_DLC: raises $0.10 to $0.16
+DanteDenisAA: folds 
+nico1nied: folds 
+Lorpugo: calls $0.10
+*** FLOP *** [8h Kc Jh]
+Lorpugo: bets $0.11
+Valen_DLC: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.34 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [8h Kc Jh]
+Seat 1: DanteDenisAA (small blind) folded before Flop
+Seat 2: nico1nied (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.34)
+Seat 6: Valen_DLC (button) folded on the Flop
+
+
+
+PokerStars Hand #239332615149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:10:24 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: DanteDenisAA ($2 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 3: Phavorito ($1.60 in chips) 
+Seat 4: Lorpugo ($1.98 in chips) 
+Seat 6: Valen_DLC ($1.83 in chips) 
+nico1nied: posts small blind $0.01
+Phavorito: posts big blind $0.02
+Taratuta89: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Td]
+Lorpugo: folds 
+Valen_DLC: folds 
+DanteDenisAA: raises $0.03 to $0.05
+nico1nied: folds 
+Phavorito: calls $0.03
+*** FLOP *** [As 4h 5c]
+Phavorito: checks 
+DanteDenisAA: checks 
+*** TURN *** [As 4h 5c] [Th]
+Phavorito: checks 
+DanteDenisAA: checks 
+*** RIVER *** [As 4h 5c Th] [7d]
+Phavorito: checks 
+DanteDenisAA: checks 
+*** SHOW DOWN ***
+Phavorito: shows [2d Kh] (high card Ace)
+DanteDenisAA: shows [Qh Kd] (high card Ace - King+Queen kicker)
+DanteDenisAA collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [As 4h 5c Th 7d]
+Seat 1: DanteDenisAA (button) showed [Qh Kd] and won ($0.11) with high card Ace
+Seat 2: nico1nied (small blind) folded before Flop
+Seat 3: Phavorito (big blind) showed [2d Kh] and lost with high card Ace
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332626363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:10:59 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: DanteDenisAA ($2.06 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 3: Phavorito ($1.55 in chips) 
+Seat 4: Lorpugo ($1.98 in chips) 
+Seat 6: Valen_DLC ($2 in chips) 
+Phavorito: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Taratuta89: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 8h]
+Valen_DLC: folds 
+DanteDenisAA: folds 
+nico1nied: raises $0.04 to $0.06
+Phavorito: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Ac Qh Qs]
+Lorpugo: checks 
+nico1nied: bets $0.04
+Lorpugo: raises $0.07 to $0.11
+nico1nied: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ac Qh Qs]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: nico1nied (button) folded on the Flop
+Seat 3: Phavorito (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.20)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332646445:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:12:03 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: DanteDenisAA ($2.06 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 3: Phavorito ($1.54 in chips) 
+Seat 4: Lorpugo ($2.08 in chips) 
+Seat 5: Taratuta89 ($2 in chips) 
+Seat 6: Valen_DLC ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Taratuta89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jd]
+Valen_DLC: folds 
+DanteDenisAA: folds 
+nico1nied: folds 
+Phavorito: calls $0.02
+Lorpugo: folds 
+Taratuta89: checks 
+*** FLOP *** [7h 9c Ac]
+Taratuta89: bets $0.04
+Phavorito: calls $0.04
+*** TURN *** [7h 9c Ac] [8h]
+Taratuta89: bets $0.14
+Phavorito: calls $0.14
+*** RIVER *** [7h 9c Ac 8h] [5s]
+Taratuta89: checks 
+Phavorito: checks 
+*** SHOW DOWN ***
+Taratuta89: shows [As 9h] (two pair, Aces and Nines)
+Phavorito: mucks hand 
+Taratuta89 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [7h 9c Ac 8h 5s]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 3: Phavorito (button) mucked [Td Th]
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Taratuta89 (big blind) showed [As 9h] and won ($0.40) with two pair, Aces and Nines
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332668127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:13:12 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: DanteDenisAA ($2.06 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 3: Phavorito ($1.34 in chips) 
+Seat 4: Lorpugo ($2.07 in chips) 
+Seat 5: Taratuta89 ($2.20 in chips) 
+Seat 6: Valen_DLC ($2 in chips) 
+Taratuta89: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Td]
+DanteDenisAA: folds 
+nico1nied: raises $0.04 to $0.06
+Phavorito: folds 
+Lorpugo: folds 
+Taratuta89: folds 
+Valen_DLC: calls $0.04
+*** FLOP *** [Th Ts Qs]
+Valen_DLC: checks 
+nico1nied: bets $0.04
+Valen_DLC: folds 
+Uncalled bet ($0.04) returned to nico1nied
+nico1nied collected $0.13 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th Ts Qs]
+Seat 1: DanteDenisAA folded before Flop (didn't bet)
+Seat 2: nico1nied collected ($0.13)
+Seat 3: Phavorito folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Taratuta89 (small blind) folded before Flop
+Seat 6: Valen_DLC (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239332678721:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:13:46 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 2: nico1nied ($2.07 in chips) 
+Seat 3: Phavorito ($1.34 in chips) 
+Seat 4: Lorpugo ($2.07 in chips) 
+Seat 5: Taratuta89 ($2.19 in chips) 
+Seat 6: Valen_DLC ($1.94 in chips) 
+Valen_DLC: posts small blind $0.01
+DanteDenisAA: is sitting out 
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Jc]
+DanteDenisAA leaves the table
+Phavorito has timed out
+Phavorito: folds 
+Lorpugo: folds 
+Taratuta89: folds 
+Valen_DLC: folds 
+Uncalled bet ($0.01) returned to nico1nied
+nico1nied collected $0.02 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: nico1nied (big blind) collected ($0.02)
+Seat 3: Phavorito folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Taratuta89 (button) folded before Flop (didn't bet)
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332685046:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:14:07 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 2: nico1nied ($2.08 in chips) 
+Seat 4: Lorpugo ($2.07 in chips) 
+Seat 5: Taratuta89 ($2.19 in chips) 
+Seat 6: Valen_DLC ($1.93 in chips) 
+nico1nied: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kh]
+Taratuta89: raises $0.04 to $0.06
+Valen_DLC: folds 
+nico1nied: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [6s 8s Qh]
+Lorpugo: bets $0.06
+Taratuta89: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+macaco2308 joins the table at seat #1 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s 8s Qh]
+Seat 2: nico1nied (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.13)
+Seat 5: Taratuta89 folded on the Flop
+Seat 6: Valen_DLC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332690914:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:14:25 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: nico1nied ($2.07 in chips) 
+Seat 4: Lorpugo ($2.14 in chips) 
+Seat 5: Taratuta89 ($2.13 in chips) 
+Seat 6: Valen_DLC ($1.93 in chips) 
+Lorpugo: posts small blind $0.01
+Taratuta89: posts big blind $0.02
+macaco2308: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9h]
+Valen_DLC: folds 
+nico1nied: folds 
+Lorpugo: raises $0.04 to $0.06
+Taratuta89: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: nico1nied (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: Taratuta89 (big blind) folded before Flop
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332696450:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:14:44 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: nico1nied ($2.07 in chips) 
+Seat 4: Lorpugo ($2.16 in chips) 
+Seat 5: Taratuta89 ($2.11 in chips) 
+Seat 6: Valen_DLC ($1.93 in chips) 
+Taratuta89: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+macaco2308: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Th]
+nico1nied: raises $0.04 to $0.06
+Lorpugo: folds 
+Taratuta89: folds 
+Valen_DLC: folds 
+Uncalled bet ($0.04) returned to nico1nied
+nico1nied collected $0.05 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: nico1nied collected ($0.05)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Taratuta89 (small blind) folded before Flop
+Seat 6: Valen_DLC (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332701927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:15:01 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: macaco2308 ($0.80 in chips) 
+Seat 2: nico1nied ($2.10 in chips) 
+Seat 4: Lorpugo ($2.16 in chips) 
+Seat 5: Taratuta89 ($2.10 in chips) 
+Seat 6: Valen_DLC ($1.91 in chips) 
+Valen_DLC: posts small blind $0.01
+macaco2308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9c]
+nico1nied: folds 
+Lorpugo: raises $0.04 to $0.06
+Taratuta89: folds 
+Valen_DLC: folds 
+macaco2308: calls $0.04
+*** FLOP *** [Qs Ad 5c]
+macaco2308: checks 
+Lorpugo: bets $0.04
+macaco2308: calls $0.04
+*** TURN *** [Qs Ad 5c] [As]
+macaco2308: checks 
+Lorpugo: checks 
+*** RIVER *** [Qs Ad 5c As] [8h]
+macaco2308: checks 
+Lorpugo: bets $0.24
+macaco2308: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Qs Ad 5c As 8h]
+Seat 1: macaco2308 (big blind) folded on the River
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.20)
+Seat 5: Taratuta89 (button) folded before Flop (didn't bet)
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332718541:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:15:54 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: macaco2308 ($0.70 in chips) 
+Seat 2: nico1nied ($2.10 in chips) 
+Seat 4: Lorpugo ($2.26 in chips) 
+Seat 5: Taratuta89 ($2.10 in chips) 
+Seat 6: Valen_DLC ($1.90 in chips) 
+macaco2308: posts small blind $0.01
+nico1nied: posts big blind $0.02
+Phavorito: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Ad]
+Lorpugo: raises $0.04 to $0.06
+Taratuta89: folds 
+Valen_DLC: folds 
+macaco2308: raises $0.64 to $0.70 and is all-in
+nico1nied: folds 
+Lorpugo: folds 
+Uncalled bet ($0.64) returned to macaco2308
+macaco2308 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: macaco2308 (small blind) collected ($0.14)
+Seat 2: nico1nied (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop
+Seat 5: Taratuta89 folded before Flop (didn't bet)
+Seat 6: Valen_DLC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332727364:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:16:22 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: macaco2308 ($0.78 in chips) 
+Seat 2: nico1nied ($2.08 in chips) 
+Seat 3: Phavorito ($1.34 in chips) 
+Seat 4: Lorpugo ($2.20 in chips) 
+Seat 5: Taratuta89 ($2.10 in chips) 
+Seat 6: Valen_DLC ($1.90 in chips) 
+nico1nied: posts small blind $0.01
+Phavorito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3d]
+Lorpugo: folds 
+Taratuta89: raises $0.04 to $0.06
+Valen_DLC: folds 
+macaco2308: calls $0.06
+nico1nied: calls $0.05
+Phavorito: folds 
+*** FLOP *** [9s 6d Js]
+nico1nied: checks 
+Taratuta89: checks 
+macaco2308: bets $0.10
+nico1nied: calls $0.10
+Taratuta89: calls $0.10
+*** TURN *** [9s 6d Js] [8s]
+Valen_DLC leaves the table
+nico1nied: checks 
+Taratuta89: checks 
+penfold00 joins the table at seat #6 
+macaco2308: bets $0.20
+nico1nied: folds 
+Taratuta89: calls $0.20
+*** RIVER *** [9s 6d Js 8s] [2s]
+Taratuta89: bets $0.42
+macaco2308: folds 
+Uncalled bet ($0.42) returned to Taratuta89
+Taratuta89 collected $0.87 from pot
+Taratuta89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [9s 6d Js 8s 2s]
+Seat 1: macaco2308 (button) folded on the River
+Seat 2: nico1nied (small blind) folded on the Turn
+Seat 3: Phavorito (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Taratuta89 collected ($0.87)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332754213:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:17:49 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: macaco2308 ($0.42 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 3: Phavorito ($1.32 in chips) 
+Seat 4: Lorpugo ($2.20 in chips) 
+Seat 5: Taratuta89 ($2.61 in chips) 
+Phavorito: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+penfold00: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8s]
+Taratuta89: folds 
+Taratuta89 leaves the table
+macaco2308: calls $0.02
+nico1nied: folds 
+Phavorito: folds 
+Lorpugo: checks 
+*** FLOP *** [6h 2c Js]
+Lorpugo: checks 
+macaco2308: checks 
+*** TURN *** [6h 2c Js] [2d]
+100676123 joins the table at seat #5 
+Lorpugo: checks 
+macaco2308: checks 
+*** RIVER *** [6h 2c Js 2d] [Td]
+Lorpugo: checks 
+macaco2308: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qh 8s] (a pair of Deuces)
+macaco2308: shows [6c 5d] (two pair, Sixes and Deuces)
+macaco2308 collected $0.05 from pot
+penfold00 leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h 2c Js 2d Td]
+Seat 1: macaco2308 showed [6c 5d] and won ($0.05) with two pair, Sixes and Deuces
+Seat 2: nico1nied (button) folded before Flop (didn't bet)
+Seat 3: Phavorito (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [Qh 8s] and lost with a pair of Deuces
+Seat 5: Taratuta89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332765795:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:18:26 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: macaco2308 ($0.45 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 3: Phavorito ($1.31 in chips) 
+Seat 4: Lorpugo ($2.18 in chips) 
+Seat 5: 100676123 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+100676123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2d]
+macaco2308: calls $0.02
+nico1nied: raises $0.06 to $0.08
+Phavorito: calls $0.08
+ULISSES 222 joins the table at seat #6 
+Lorpugo: folds 
+100676123: folds 
+macaco2308: calls $0.06
+*** FLOP *** [7d Jh Jc]
+macaco2308: checks 
+nico1nied: bets $0.09
+Phavorito: calls $0.09
+macaco2308: folds 
+*** TURN *** [7d Jh Jc] [3h]
+nico1nied: bets $0.21
+Phavorito: folds 
+Uncalled bet ($0.21) returned to nico1nied
+nico1nied collected $0.43 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7d Jh Jc 3h]
+Seat 1: macaco2308 folded on the Flop
+Seat 2: nico1nied collected ($0.43)
+Seat 3: Phavorito (button) folded on the Turn
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 100676123 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332776534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:19:01 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: macaco2308 ($0.37 in chips) 
+Seat 2: nico1nied ($2.26 in chips) 
+Seat 3: Phavorito ($1.14 in chips) 
+Seat 4: Lorpugo ($2.17 in chips) 
+Seat 5: 100676123 ($1.98 in chips) 
+Seat 6: ULISSES 222 ($2 in chips) 
+100676123: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 8h]
+macaco2308: calls $0.02
+nico1nied: folds 
+Phavorito: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+100676123: folds 
+ULISSES 222: folds 
+macaco2308: calls $0.10
+Phavorito: folds 
+*** FLOP *** [3d 3c Tc]
+macaco2308: checks 
+Lorpugo: bets $2.05 and is all-in
+macaco2308: folds 
+Uncalled bet ($2.05) returned to Lorpugo
+Lorpugo collected $0.28 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3d 3c Tc]
+Seat 1: macaco2308 folded on the Flop
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 3: Phavorito folded before Flop
+Seat 4: Lorpugo (button) collected ($0.28)
+Seat 5: 100676123 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332790416:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:19:45 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: macaco2308 ($0.25 in chips) 
+Seat 2: nico1nied ($2.26 in chips) 
+Seat 3: Phavorito ($1.12 in chips) 
+Seat 4: Lorpugo ($2.33 in chips) 
+Seat 5: 100676123 ($1.97 in chips) 
+Seat 6: ULISSES 222 ($1.98 in chips) 
+ULISSES 222: posts small blind $0.01
+macaco2308: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc As]
+nico1nied: folds 
+Phavorito: folds 
+Lorpugo: raises $0.04 to $0.06
+100676123: folds 
+ULISSES 222: folds 
+macaco2308: calls $0.04
+*** FLOP *** [3s Kh 2c]
+macaco2308: checks 
+Lorpugo: bets $0.04
+macaco2308: calls $0.04
+*** TURN *** [3s Kh 2c] [Ad]
+macaco2308: checks 
+Lorpugo: bets $0.07
+macaco2308: calls $0.07
+*** RIVER *** [3s Kh 2c Ad] [Kc]
+macaco2308: checks 
+Lorpugo: bets $0.02
+macaco2308: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.34 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [3s Kh 2c Ad Kc]
+Seat 1: macaco2308 (big blind) folded on the River
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 3: Phavorito folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.34)
+Seat 5: 100676123 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332804914:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:20:32 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: macaco2308 ($0.08 in chips) 
+Seat 2: nico1nied ($2.26 in chips) 
+Seat 3: Phavorito ($1.12 in chips) 
+Seat 4: Lorpugo ($2.50 in chips) 
+Seat 5: 100676123 ($1.97 in chips) 
+Seat 6: ULISSES 222 ($1.97 in chips) 
+macaco2308: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Jh]
+Phavorito: folds 
+Lorpugo: raises $0.04 to $0.06
+100676123: calls $0.06
+ULISSES 222: folds 
+macaco2308: calls $0.05
+nico1nied: calls $0.04
+*** FLOP *** [9h Kd Jc]
+macaco2308: bets $0.02 and is all-in
+nico1nied: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+100676123: calls $0.10
+nico1nied: calls $0.08
+*** TURN *** [9h Kd Jc] [7d]
+nico1nied: checks 
+Lorpugo: bets $0.27
+100676123: folds 
+nico1nied: folds 
+Uncalled bet ($0.27) returned to Lorpugo
+*** RIVER *** [9h Kd Jc 7d] [4s]
+*** SHOW DOWN ***
+Lorpugo: shows [Th Jh] (a pair of Jacks)
+Lorpugo collected $0.23 from side pot
+macaco2308: shows [9d Tc] (a pair of Nines)
+Lorpugo collected $0.31 from main pot
+*** SUMMARY ***
+Total pot $0.56 Main pot $0.31. Side pot $0.23. | Rake $0.02 
+Board [9h Kd Jc 7d 4s]
+Seat 1: macaco2308 (small blind) showed [9d Tc] and lost with a pair of Nines
+Seat 2: nico1nied (big blind) folded on the Turn
+Seat 3: Phavorito folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [Th Jh] and won ($0.54) with a pair of Jacks
+Seat 5: 100676123 folded on the Turn
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332830946:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:21:56 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: nico1nied ($2.10 in chips) 
+Seat 3: Phavorito ($1.12 in chips) 
+Seat 4: Lorpugo ($2.88 in chips) 
+Seat 5: 100676123 ($1.81 in chips) 
+Seat 6: ULISSES 222 ($1.97 in chips) 
+Phavorito: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td As]
+100676123: calls $0.02
+ULISSES 222: folds 
+nico1nied: folds 
+Phavorito: folds 
+Lorpugo: raises $0.08 to $0.10
+100676123: calls $0.08
+*** FLOP *** [Jd 4h 5c]
+macaco2308 leaves the table
+Lorpugo: bets $0.07
+100676123: calls $0.07
+*** TURN *** [Jd 4h 5c] [Qh]
+luddepb joins the table at seat #1 
+Lorpugo: bets $0.44
+100676123: folds 
+Uncalled bet ($0.44) returned to Lorpugo
+Lorpugo collected $0.34 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Jd 4h 5c Qh]
+Seat 2: nico1nied (button) folded before Flop (didn't bet)
+Seat 3: Phavorito (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.34)
+Seat 5: 100676123 folded on the Turn
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332847331:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:22:49 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: luddepb ($2 in chips) 
+Seat 2: nico1nied ($2.10 in chips) 
+Seat 3: Phavorito ($1.11 in chips) 
+Seat 4: Lorpugo ($3.05 in chips) 
+Seat 5: 100676123 ($1.64 in chips) 
+Seat 6: ULISSES 222 ($1.97 in chips) 
+Lorpugo: posts small blind $0.01
+100676123: posts big blind $0.02
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 8d]
+ULISSES 222 has timed out
+ULISSES 222: folds 
+luddepb: checks 
+nico1nied: folds 
+Phavorito: folds 
+Lorpugo: calls $0.01
+100676123: raises $0.04 to $0.06
+luddepb: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [4h 6h Td]
+Lorpugo: checks 
+100676123: checks 
+*** TURN *** [4h 6h Td] [As]
+Lorpugo: bets $0.10
+100676123: calls $0.10
+*** RIVER *** [4h 6h Td As] [Tc]
+Lorpugo: bets $0.11
+100676123: raises $0.11 to $0.22
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to 100676123
+100676123 collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [4h 6h Td As Tc]
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 3: Phavorito (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the River
+Seat 5: 100676123 (big blind) collected ($0.54)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332874016:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:24:16 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: luddepb ($1.98 in chips) 
+Seat 2: nico1nied ($2.10 in chips) 
+Seat 3: Phavorito ($1.11 in chips) 
+Seat 4: Lorpugo ($2.78 in chips) 
+Seat 5: 100676123 ($1.91 in chips) 
+Seat 6: ULISSES 222 ($1.97 in chips) 
+100676123: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2c]
+luddepb: folds 
+nico1nied: folds 
+Phavorito has timed out
+Phavorito: folds 
+Lorpugo: folds 
+100676123: calls $0.01
+ULISSES 222: checks 
+*** FLOP *** [Kd 7h 8d]
+100676123: bets $0.02
+ULISSES 222: calls $0.02
+*** TURN *** [Kd 7h 8d] [Jh]
+100676123: bets $0.02
+ULISSES 222: raises $0.06 to $0.08
+100676123: folds 
+Uncalled bet ($0.06) returned to ULISSES 222
+ULISSES 222 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kd 7h 8d Jh]
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 3: Phavorito folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: 100676123 (small blind) folded on the Turn
+Seat 6: ULISSES 222 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239332888050:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:25:02 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: luddepb ($1.98 in chips) 
+Seat 2: nico1nied ($2.10 in chips) 
+Seat 4: Lorpugo ($2.78 in chips) 
+Seat 5: 100676123 ($1.85 in chips) 
+Seat 6: ULISSES 222 ($2.03 in chips) 
+ULISSES 222: posts small blind $0.01
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 7s]
+nico1nied: folds 
+Lorpugo: raises $0.04 to $0.06
+100676123: calls $0.06
+ULISSES 222: folds 
+luddepb: folds 
+*** FLOP *** [7d 8c Qd]
+Lorpugo: checks 
+100676123: checks 
+*** TURN *** [7d 8c Qd] [4c]
+Lorpugo: bets $0.14
+100676123: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7d 8c Qd 4c]
+Seat 1: luddepb (big blind) folded before Flop
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.14)
+Seat 5: 100676123 (button) folded on the Turn
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239332907240:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:26:06 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: luddepb ($1.96 in chips) 
+Seat 2: nico1nied ($2.10 in chips) 
+Seat 3: Phavorito ($1.11 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: 100676123 ($1.79 in chips) 
+Seat 6: ULISSES 222 ($2.02 in chips) 
+luddepb: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 7h]
+Phavorito is disconnected 
+Phavorito has timed out while disconnected
+Phavorito: folds 
+Lorpugo: folds 
+100676123: folds 
+ULISSES 222: folds 
+luddepb: raises $0.02 to $0.04
+nico1nied: folds 
+Uncalled bet ($0.02) returned to luddepb
+luddepb collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: luddepb (small blind) collected ($0.04)
+Seat 2: nico1nied (big blind) folded before Flop
+Seat 3: Phavorito folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 100676123 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332915250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:26:32 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: luddepb ($1.98 in chips) 
+Seat 2: nico1nied ($2.08 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: 100676123 ($1.79 in chips) 
+Seat 6: ULISSES 222 ($2.02 in chips) 
+nico1nied: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4h]
+100676123: folds 
+ULISSES 222: folds 
+luddepb: folds 
+nico1nied: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: luddepb (button) folded before Flop (didn't bet)
+Seat 2: nico1nied (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: 100676123 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332918062:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:26:41 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: luddepb ($1.98 in chips) 
+Seat 2: nico1nied ($2.07 in chips) 
+Seat 4: Lorpugo ($2.87 in chips) 
+Seat 5: 100676123 ($1.79 in chips) 
+Seat 6: ULISSES 222 ($2.02 in chips) 
+Lorpugo: posts small blind $0.01
+100676123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 6c]
+ULISSES 222: folds 
+luddepb: folds 
+nico1nied: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+100676123: calls $0.04
+*** FLOP *** [3s Qh Ah]
+Lorpugo: checks 
+100676123: checks 
+nico1nied: bets $0.06
+Lorpugo: folds 
+100676123: calls $0.06
+*** TURN *** [3s Qh Ah] [4s]
+100676123: checks 
+nico1nied: checks 
+*** RIVER *** [3s Qh Ah 4s] [5c]
+100676123: bets $0.02
+nico1nied: folds 
+Uncalled bet ($0.02) returned to 100676123
+100676123 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3s Qh Ah 4s 5c]
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied (button) folded on the River
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 5: 100676123 (big blind) collected ($0.29)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332936567:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:27:43 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: luddepb ($1.98 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($2.81 in chips) 
+Seat 5: 100676123 ($1.96 in chips) 
+Seat 6: ULISSES 222 ($2.02 in chips) 
+100676123: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Kh]
+luddepb: folds 
+nico1nied: folds 
+Lorpugo: raises $0.04 to $0.06
+100676123: folds 
+ULISSES 222: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: 100676123 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332941918:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:28:01 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: luddepb ($1.98 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($2.84 in chips) 
+Seat 5: 100676123 ($1.95 in chips) 
+Seat 6: ULISSES 222 ($2 in chips) 
+ULISSES 222: posts small blind $0.01
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3c]
+nico1nied: folds 
+Lorpugo: folds 
+100676123: calls $0.02
+ULISSES 222: raises $0.06 to $0.08
+luddepb: folds 
+100676123: folds 
+Uncalled bet ($0.06) returned to ULISSES 222
+ULISSES 222 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: luddepb (big blind) folded before Flop
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 100676123 (button) folded before Flop
+Seat 6: ULISSES 222 (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #239332948293:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:28:22 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: luddepb ($1.96 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($2.84 in chips) 
+Seat 5: 100676123 ($1.93 in chips) 
+Seat 6: ULISSES 222 ($2.04 in chips) 
+luddepb: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 4d]
+Lorpugo: folds 
+100676123: folds 
+ULISSES 222: folds 
+luddepb: folds 
+Uncalled bet ($0.01) returned to nico1nied
+nico1nied collected $0.02 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: luddepb (small blind) folded before Flop
+Seat 2: nico1nied (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 100676123 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332952198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:28:34 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: luddepb ($1.95 in chips) 
+Seat 2: nico1nied ($2.01 in chips) 
+Seat 4: Lorpugo ($2.84 in chips) 
+Seat 5: 100676123 ($1.93 in chips) 
+Seat 6: ULISSES 222 ($2.04 in chips) 
+nico1nied: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4h]
+100676123: folds 
+ULISSES 222: folds 
+luddepb: folds 
+nico1nied: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: luddepb (button) folded before Flop (didn't bet)
+Seat 2: nico1nied (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: 100676123 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332954632:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:28:43 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: luddepb ($1.95 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($2.85 in chips) 
+Seat 5: 100676123 ($1.93 in chips) 
+Seat 6: ULISSES 222 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+100676123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5h]
+ULISSES 222: folds 
+luddepb: folds 
+nico1nied: raises $0.04 to $0.06
+Lorpugo: folds 
+100676123: calls $0.04
+*** FLOP *** [Qd Ad Js]
+100676123: checks 
+nico1nied: bets $0.04
+100676123: raises $0.04 to $0.08
+nico1nied: calls $0.04
+*** TURN *** [Qd Ad Js] [Ks]
+100676123: bets $0.28
+nico1nied: folds 
+Uncalled bet ($0.28) returned to 100676123
+100676123 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qd Ad Js Ks]
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied (button) folded on the Turn
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 100676123 (big blind) collected ($0.28)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239332980912:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:30:11 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: luddepb ($1.95 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($2.84 in chips) 
+Seat 5: 100676123 ($2.07 in chips) 
+Seat 6: ULISSES 222 ($2.04 in chips) 
+100676123: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Th]
+luddepb: folds 
+nico1nied: raises $0.04 to $0.06
+Lorpugo: raises $0.10 to $0.16
+100676123: folds 
+ULISSES 222: folds 
+nico1nied: calls $0.10
+*** FLOP *** [Ac Qs 8s]
+nico1nied: checks 
+Lorpugo: bets $0.09
+nico1nied: calls $0.09
+*** TURN *** [Ac Qs 8s] [Td]
+nico1nied: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac Qs 8s Td] [3d]
+nico1nied: bets $0.34
+Lorpugo: folds 
+Uncalled bet ($0.34) returned to nico1nied
+nico1nied collected $0.51 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ac Qs 8s Td 3d]
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied collected ($0.51)
+Seat 4: Lorpugo (button) folded on the River
+Seat 5: 100676123 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239332995556:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:30:59 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: luddepb ($1.95 in chips) 
+Seat 2: nico1nied ($2.26 in chips) 
+Seat 4: Lorpugo ($2.59 in chips) 
+Seat 5: 100676123 ($2.06 in chips) 
+Seat 6: ULISSES 222 ($2.02 in chips) 
+ULISSES 222: posts small blind $0.01
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5s]
+nico1nied: folds 
+Lorpugo: folds 
+100676123: calls $0.02
+ULISSES 222: calls $0.01
+luddepb: checks 
+*** FLOP *** [2s 8s Qd]
+ULISSES 222: checks 
+luddepb: bets $0.06
+100676123: folds 
+ULISSES 222: calls $0.06
+*** TURN *** [2s 8s Qd] [Ad]
+ULISSES 222: checks 
+luddepb: bets $0.17
+ULISSES 222: calls $0.17
+*** RIVER *** [2s 8s Qd Ad] [7c]
+ULISSES 222: checks 
+luddepb: checks 
+*** SHOW DOWN ***
+ULISSES 222: shows [7s Qs] (two pair, Queens and Sevens)
+luddepb: mucks hand 
+ULISSES 222 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [2s 8s Qd Ad 7c]
+Seat 1: luddepb (big blind) mucked [Kc 2d]
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 100676123 (button) folded on the Flop
+Seat 6: ULISSES 222 (small blind) showed [7s Qs] and won ($0.50) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #239333009663:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:31:45 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: luddepb ($1.70 in chips) 
+Seat 2: nico1nied ($2.26 in chips) 
+Seat 4: Lorpugo ($2.59 in chips) 
+Seat 5: 100676123 ($2.04 in chips) 
+Seat 6: ULISSES 222 ($2.27 in chips) 
+luddepb: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+Lorpugo has timed out
+Lorpugo: folds 
+100676123: calls $0.02
+ULISSES 222: folds 
+luddepb: calls $0.01
+nico1nied: checks 
+*** FLOP *** [Kc Js 6s]
+luddepb: checks 
+nico1nied: checks 
+100676123: checks 
+*** TURN *** [Kc Js 6s] [Qd]
+luddepb: bets $0.06
+nico1nied: calls $0.06
+100676123: calls $0.06
+*** RIVER *** [Kc Js 6s Qd] [Kd]
+luddepb: checks 
+nico1nied: bets $0.11
+100676123: calls $0.11
+luddepb: folds 
+*** SHOW DOWN ***
+nico1nied: shows [Ts 7d] (a pair of Kings)
+100676123: shows [Qh Th] (two pair, Kings and Queens)
+100676123 collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Kc Js 6s Qd Kd]
+Seat 1: luddepb (small blind) folded on the River
+Seat 2: nico1nied (big blind) showed [Ts 7d] and lost with a pair of Kings
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 100676123 showed [Qh Th] and won ($0.44) with two pair, Kings and Queens
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333027027:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:32:43 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: luddepb ($1.62 in chips) 
+Seat 2: nico1nied ($2.07 in chips) 
+Seat 4: Lorpugo ($2.59 in chips) 
+Seat 5: 100676123 ($2.29 in chips) 
+Seat 6: ULISSES 222 ($2.27 in chips) 
+nico1nied: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7h]
+100676123: folds 
+ULISSES 222: folds 
+luddepb: folds 
+nico1nied: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: luddepb (button) folded before Flop (didn't bet)
+Seat 2: nico1nied (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: 100676123 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333031489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:32:57 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: luddepb ($1.62 in chips) 
+Seat 2: nico1nied ($2.06 in chips) 
+Seat 4: Lorpugo ($2.60 in chips) 
+Seat 5: 100676123 ($2.29 in chips) 
+Seat 6: ULISSES 222 ($2.27 in chips) 
+Lorpugo: posts small blind $0.01
+100676123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8h]
+ULISSES 222: raises $0.04 to $0.06
+luddepb: folds 
+nico1nied: folds 
+Lorpugo: folds 
+100676123: folds 
+Uncalled bet ($0.04) returned to ULISSES 222
+ULISSES 222 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 100676123 (big blind) folded before Flop
+Seat 6: ULISSES 222 collected ($0.05)
+
+
+
+PokerStars Hand #239333036894:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:33:15 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: luddepb ($1.62 in chips) 
+Seat 2: nico1nied ($2.06 in chips) 
+Seat 4: Lorpugo ($2.59 in chips) 
+Seat 5: 100676123 ($2.27 in chips) 
+Seat 6: ULISSES 222 ($2.30 in chips) 
+100676123: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Tc]
+luddepb: folds 
+nico1nied: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+100676123: folds 
+ULISSES 222: calls $0.04
+*** FLOP *** [Th 2c 8s]
+ULISSES 222: checks 
+nico1nied: bets $0.06
+Lorpugo: raises $0.15 to $0.21
+ULISSES 222: folds 
+nico1nied: calls $0.15
+*** TURN *** [Th 2c 8s] [8h]
+nico1nied: checks 
+Lorpugo: bets $0.29
+nico1nied: calls $0.29
+*** RIVER *** [Th 2c 8s 8h] [Qh]
+nico1nied: checks 
+Lorpugo: bets $0.57
+nico1nied: calls $0.57
+*** SHOW DOWN ***
+Lorpugo: shows [Qd Tc] (two pair, Queens and Tens)
+nico1nied: mucks hand 
+Lorpugo collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.08 
+Board [Th 2c 8s 8h Qh]
+Seat 1: luddepb folded before Flop (didn't bet)
+Seat 2: nico1nied mucked [Jh Jd]
+Seat 4: Lorpugo (button) showed [Qd Tc] and won ($2.25) with two pair, Queens and Tens
+Seat 5: 100676123 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239333056858:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:34:22 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: luddepb ($1.62 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($3.71 in chips) 
+Seat 5: 100676123 ($2.26 in chips) 
+Seat 6: ULISSES 222 ($2.24 in chips) 
+ULISSES 222: posts small blind $0.01
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 6s]
+nico1nied: folds 
+Lorpugo: raises $0.04 to $0.06
+100676123: folds 
+ULISSES 222: folds 
+luddepb: raises $0.12 to $0.18
+Lorpugo: calls $0.12
+*** FLOP *** [Ks 8s 5s]
+luddepb: bets $0.18
+Lorpugo: raises $0.34 to $0.52
+luddepb: calls $0.34
+*** TURN *** [Ks 8s 5s] [Jh]
+luddepb: bets $0.92 and is all-in
+Lorpugo: calls $0.92
+*** RIVER *** [Ks 8s 5s Jh] [4h]
+*** SHOW DOWN ***
+luddepb: shows [Jc Ah] (a pair of Jacks)
+Lorpugo: shows [4s 6s] (a flush, King high)
+Lorpugo collected $3.14 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.11 
+Board [Ks 8s 5s Jh 4h]
+Seat 1: luddepb (big blind) showed [Jc Ah] and lost with a pair of Jacks
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [4s 6s] and won ($3.14) with a flush, King high
+Seat 5: 100676123 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333072230:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:35:13 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($5.23 in chips) 
+Seat 5: 100676123 ($2.26 in chips) 
+Seat 6: ULISSES 222 ($2.23 in chips) 
+nico1nied: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Kh]
+100676123: calls $0.02
+ULISSES 222: folds 
+nico1nied: folds 
+Lorpugo: checks 
+*** FLOP *** [9h 3d Qd]
+Lorpugo: checks 
+100676123: checks 
+*** TURN *** [9h 3d Qd] [8h]
+Lorpugo: checks 
+100676123: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to 100676123
+100676123 collected $0.05 from pot
+Phavorito leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 3d Qd 8h]
+Seat 2: nico1nied (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 5: 100676123 collected ($0.05)
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333082484:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:35:47 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: luddepb ($2 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($5.21 in chips) 
+Seat 5: 100676123 ($2.29 in chips) 
+Seat 6: ULISSES 222 ($2.23 in chips) 
+Lorpugo: posts small blind $0.01
+100676123: posts big blind $0.02
+luddepb: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6d]
+ULISSES 222 has timed out
+ULISSES 222: folds 
+luddepb: raises $0.04 to $0.06
+nico1nied: folds 
+Lorpugo: folds 
+100676123: folds 
+Uncalled bet ($0.04) returned to luddepb
+luddepb collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: luddepb collected ($0.06)
+Seat 2: nico1nied (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 100676123 (big blind) folded before Flop
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333088896:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:36:09 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: luddepb ($2.03 in chips) 
+Seat 2: nico1nied ($2 in chips) 
+Seat 4: Lorpugo ($5.20 in chips) 
+Seat 5: 100676123 ($2.27 in chips) 
+100676123: posts small blind $0.01
+luddepb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ah]
+nico1nied: folds 
+Lorpugo: raises $0.04 to $0.06
+100676123: calls $0.05
+luddepb: raises $0.12 to $0.18
+Lorpugo: calls $0.12
+100676123: folds 
+*** FLOP *** [6h 7c 3c]
+luddepb: checks 
+Lorpugo: bets $0.27
+luddepb: raises $0.27 to $0.54
+Catgut20645 joins the table at seat #3 
+Lorpugo: raises $4.48 to $5.02 and is all-in
+luddepb: calls $1.31 and is all-in
+Uncalled bet ($3.17) returned to Lorpugo
+*** TURN *** [6h 7c 3c] [Ts]
+*** RIVER *** [6h 7c 3c Ts] [2d]
+*** SHOW DOWN ***
+luddepb: shows [Ks Kd] (a pair of Kings)
+Lorpugo: shows [As Ah] (a pair of Aces)
+Lorpugo collected $3.98 from pot
+luddepb cashed out the hand for $0.37
+*** SUMMARY ***
+Total pot $4.12 | Rake $0.14 
+Board [6h 7c 3c Ts 2d]
+Seat 1: luddepb (big blind) showed [Ks Kd] and lost with a pair of Kings (cashed out).
+Seat 2: nico1nied folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) showed [As Ah] and won ($3.98) with a pair of Aces
+Seat 5: 100676123 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333106481:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:37:07 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: luddepb ($0.37 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($7.15 in chips) 
+Seat 5: 100676123 ($2.21 in chips) 
+luddepb: posts small blind $0.01
+nico1nied: is sitting out 
+Catgut20645: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 7s]
+nico1nied leaves the table
+Lorpugo: folds 
+100676123: calls $0.02
+luddepb: calls $0.01
+Catgut20645: checks 
+*** FLOP *** [3h Jc Ad]
+claytonAAKK joins the table at seat #2 
+luddepb: bets $0.03
+Catgut20645: folds 
+100676123: calls $0.03
+*** TURN *** [3h Jc Ad] [8h]
+luddepb: bets $0.06
+100676123: calls $0.06
+*** RIVER *** [3h Jc Ad 8h] [2d]
+luddepb: checks 
+100676123: bets $2.10 and is all-in
+luddepb: folds 
+Uncalled bet ($2.10) returned to 100676123
+100676123 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3h Jc Ad 8h 2d]
+Seat 1: luddepb (small blind) folded on the River
+Seat 3: Catgut20645 (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 100676123 (button) collected ($0.23)
+
+
+
+PokerStars Hand #239333125358:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:38:10 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: luddepb ($0.26 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($7.15 in chips) 
+Seat 5: 100676123 ($2.33 in chips) 
+Catgut20645: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+ULISSES 222: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2c]
+100676123: calls $0.02
+luddepb: calls $0.02
+Catgut20645: folds 
+Lorpugo: checks 
+*** FLOP *** [Jh 9s 8s]
+Lorpugo: checks 
+100676123: bets $0.02
+luddepb: calls $0.02
+Lorpugo: calls $0.02
+*** TURN *** [Jh 9s 8s] [2s]
+Lorpugo: bets $0.09
+100676123: folds 
+luddepb: raises $0.13 to $0.22 and is all-in
+Lorpugo: calls $0.13
+*** RIVER *** [Jh 9s 8s 2s] [4d]
+*** SHOW DOWN ***
+Lorpugo: shows [9h 2c] (two pair, Nines and Deuces)
+luddepb: shows [Ad Ac] (a pair of Aces)
+Lorpugo collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Jh 9s 8s 2s 4d]
+Seat 1: luddepb (button) showed [Ad Ac] and lost with a pair of Aces
+Seat 3: Catgut20645 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [9h 2c] and won ($0.55) with two pair, Nines and Deuces
+Seat 5: 100676123 folded on the Turn
+
+
+
+PokerStars Hand #239333143028:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:39:09 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 2: claytonAAKK ($1.35 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($7.44 in chips) 
+Seat 5: 100676123 ($2.29 in chips) 
+Seat 6: ULISSES 222 ($2.23 in chips) 
+Lorpugo: posts small blind $0.01
+100676123: posts big blind $0.02
+ULISSES 222: posts small & big blinds $0.03
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ac]
+luddepb is disconnected 
+ULISSES 222: checks 
+claytonAAKK: checks 
+Catgut20645: folds 
+Lorpugo: raises $0.10 to $0.12
+100676123: folds 
+ULISSES 222: folds 
+claytonAAKK: calls $0.10
+*** FLOP *** [2s 9s 2c]
+100676123 leaves the table
+Lorpugo: bets $0.18
+claytonAAKK: calls $0.18
+*** TURN *** [2s 9s 2c] [7d]
+luzbel6662019 joins the table at seat #5 
+Lorpugo: bets $0.21
+claytonAAKK: raises $0.21 to $0.42
+Lorpugo: folds 
+Uncalled bet ($0.21) returned to claytonAAKK
+claytonAAKK collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [2s 9s 2c 7d]
+Seat 2: claytonAAKK collected ($1.03)
+Seat 3: Catgut20645 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the Turn
+Seat 5: 100676123 (big blind) folded before Flop
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333161661:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:40:12 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: claytonAAKK ($1.87 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.93 in chips) 
+Seat 6: ULISSES 222 ($2.20 in chips) 
+ULISSES 222: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9c]
+Catgut20645: folds 
+Lorpugo: raises $0.04 to $0.06
+ULISSES 222: folds 
+claytonAAKK: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: claytonAAKK (big blind) folded before Flop
+Seat 3: Catgut20645 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333170101:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:40:41 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 2: claytonAAKK ($1.85 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.96 in chips) 
+Seat 6: ULISSES 222 ($2.19 in chips) 
+claytonAAKK: posts small blind $0.01
+Catgut20645: posts big blind $0.02
+luzbel6662019: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 6s]
+Lorpugo: raises $0.04 to $0.06
+ULISSES 222: folds 
+claytonAAKK: calls $0.05
+Catgut20645: folds 
+*** FLOP *** [2c 5c Jh]
+claytonAAKK: checks 
+Lorpugo: bets $0.05
+claytonAAKK: calls $0.05
+*** TURN *** [2c 5c Jh] [Th]
+claytonAAKK: checks 
+Lorpugo: checks 
+*** RIVER *** [2c 5c Jh Th] [7s]
+claytonAAKK: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to claytonAAKK
+claytonAAKK collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2c 5c Jh Th 7s]
+Seat 2: claytonAAKK (small blind) collected ($0.23)
+Seat 3: Catgut20645 (big blind) folded before Flop
+Seat 4: Lorpugo folded on the River
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333180920:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:41:18 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: claytonAAKK ($1.97 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.85 in chips) 
+Seat 6: ULISSES 222 ($2.19 in chips) 
+Catgut20645: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+luzbel6662019: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9c]
+ULISSES 222 has timed out
+ULISSES 222: folds 
+claytonAAKK: folds 
+Catgut20645: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: claytonAAKK (button) folded before Flop (didn't bet)
+Seat 3: Catgut20645 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333186303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:41:36 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 2: claytonAAKK ($1.97 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.86 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Seat 6: ULISSES 222 ($2.19 in chips) 
+Lorpugo: posts small blind $0.01
+luzbel6662019: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Js]
+ULISSES 222: folds 
+claytonAAKK: calls $0.02
+Catgut20645: folds 
+Lorpugo: calls $0.01
+luzbel6662019: checks 
+*** FLOP *** [9h 8s Qh]
+Lorpugo: checks 
+luzbel6662019: checks 
+claytonAAKK: bets $0.06
+Lorpugo: folds 
+luzbel6662019: folds 
+Uncalled bet ($0.06) returned to claytonAAKK
+claytonAAKK collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9h 8s Qh]
+Seat 2: claytonAAKK collected ($0.06)
+Seat 3: Catgut20645 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 5: luzbel6662019 (big blind) folded on the Flop
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333198904:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:42:19 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: claytonAAKK ($2.01 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.84 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Seat 6: ULISSES 222 ($2.19 in chips) 
+luzbel6662019: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ks]
+claytonAAKK: calls $0.02
+Catgut20645: folds 
+Lorpugo: raises $0.10 to $0.12
+luzbel6662019: folds 
+ULISSES 222: folds 
+claytonAAKK: calls $0.10
+*** FLOP *** [4c Ad 4s]
+claytonAAKK: bets $0.26
+Lorpugo: folds 
+Uncalled bet ($0.26) returned to claytonAAKK
+claytonAAKK collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4c Ad 4s]
+Seat 2: claytonAAKK collected ($0.26)
+Seat 3: Catgut20645 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the Flop
+Seat 5: luzbel6662019 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239333214529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:43:13 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 2: claytonAAKK ($2.15 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.72 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Seat 6: ULISSES 222 ($2.17 in chips) 
+ULISSES 222: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 3c]
+Catgut20645: folds 
+Lorpugo: folds 
+luzbel6662019 has timed out
+luzbel6662019: folds 
+ULISSES 222: folds 
+Uncalled bet ($0.01) returned to claytonAAKK
+claytonAAKK collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: claytonAAKK (big blind) collected ($0.02)
+Seat 3: Catgut20645 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: luzbel6662019 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333225502:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:43:51 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 2: claytonAAKK ($2.16 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.72 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Seat 6: ULISSES 222 ($2.16 in chips) 
+claytonAAKK: posts small blind $0.01
+Catgut20645: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jc]
+Lorpugo: raises $0.04 to $0.06
+luzbel6662019: folds 
+ULISSES 222: folds 
+claytonAAKK: calls $0.05
+Catgut20645: calls $0.04
+*** FLOP *** [Ac 4d 7c]
+claytonAAKK: checks 
+Catgut20645: checks 
+Lorpugo: checks 
+*** TURN *** [Ac 4d 7c] [Kh]
+claytonAAKK: checks 
+Catgut20645: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac 4d 7c Kh] [Qc]
+claytonAAKK: bets $0.17
+Catgut20645: folds 
+Lorpugo: folds 
+Uncalled bet ($0.17) returned to claytonAAKK
+claytonAAKK collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ac 4d 7c Kh Qc]
+Seat 2: claytonAAKK (small blind) collected ($0.17)
+Seat 3: Catgut20645 (big blind) folded on the River
+Seat 4: Lorpugo folded on the River
+Seat 5: luzbel6662019 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333241686:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:44:46 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: claytonAAKK ($2.27 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.66 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Catgut20645: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7d]
+luzbel6662019: folds 
+claytonAAKK: folds 
+Catgut20645: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: claytonAAKK (button) folded before Flop (didn't bet)
+Seat 3: Catgut20645 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: luzbel6662019 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333243807:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:44:53 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 2: claytonAAKK ($2.27 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.67 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+luzbel6662019: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3h]
+claytonAAKK: folds 
+Catgut20645: raises $0.02 to $0.04
+Lorpugo: folds 
+luzbel6662019: folds 
+Uncalled bet ($0.02) returned to Catgut20645
+Catgut20645 collected $0.05 from pot
+Catgut20645: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: claytonAAKK folded before Flop (didn't bet)
+Seat 3: Catgut20645 (button) collected ($0.05)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: luzbel6662019 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239333247994:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:45:08 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: claytonAAKK ($2.27 in chips) 
+Seat 3: Catgut20645 ($2.03 in chips) 
+Seat 4: Lorpugo ($6.66 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+luzbel6662019: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Kd]
+Catgut20645: folds 
+Lorpugo: raises $0.04 to $0.06
+luzbel6662019: folds 
+claytonAAKK: calls $0.04
+*** FLOP *** [9h Kc 6s]
+claytonAAKK: checks 
+Lorpugo: bets $0.09
+claytonAAKK: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h Kc 6s]
+Seat 2: claytonAAKK (big blind) folded on the Flop
+Seat 3: Catgut20645 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.13)
+Seat 5: luzbel6662019 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333255366:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:45:33 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 2: claytonAAKK ($2.21 in chips) 
+Seat 3: Catgut20645 ($2.03 in chips) 
+Seat 4: Lorpugo ($6.73 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+claytonAAKK: posts small blind $0.01
+Catgut20645: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Kd]
+Lorpugo: raises $0.04 to $0.06
+luzbel6662019: folds 
+claytonAAKK: folds 
+Catgut20645: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: claytonAAKK (small blind) folded before Flop
+Seat 3: Catgut20645 (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: luzbel6662019 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333259799:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:45:48 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: claytonAAKK ($2.20 in chips) 
+Seat 3: Catgut20645 ($2.01 in chips) 
+Seat 4: Lorpugo ($6.76 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Catgut20645: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qc]
+luzbel6662019: folds 
+claytonAAKK: calls $0.02
+Catgut20645: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [3s 4s 8c]
+Catgut20645: checks 
+Lorpugo: bets $0.04
+claytonAAKK: calls $0.04
+Catgut20645: folds 
+*** TURN *** [3s 4s 8c] [4h]
+Lorpugo: bets $0.18
+claytonAAKK: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3s 4s 8c 4h]
+Seat 2: claytonAAKK (button) folded on the Turn
+Seat 3: Catgut20645 (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) collected ($0.14)
+Seat 5: luzbel6662019 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333273534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:46:37 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 2: claytonAAKK ($2.14 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($6.84 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+luzbel6662019: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ts]
+claytonAAKK: calls $0.02
+Catgut20645: folds 
+Lorpugo: calls $0.01
+luzbel6662019: checks 
+*** FLOP *** [4s 5h Tc]
+Lorpugo: bets $0.04
+luzbel6662019: calls $0.04
+claytonAAKK: folds 
+*** TURN *** [4s 5h Tc] [2h]
+Lorpugo: bets $0.14
+luzbel6662019: raises $0.14 to $0.28
+Lorpugo: calls $0.14
+*** RIVER *** [4s 5h Tc 2h] [3d]
+Lorpugo: bets $6.50 and is all-in
+luzbel6662019: folds 
+Uncalled bet ($6.50) returned to Lorpugo
+Lorpugo collected $0.68 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [4s 5h Tc 2h 3d]
+Seat 2: claytonAAKK folded on the Flop
+Seat 3: Catgut20645 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.68)
+Seat 5: luzbel6662019 (big blind) folded on the River
+
+
+
+PokerStars Hand #239333289241:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:47:32 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: claytonAAKK ($2.12 in chips) 
+Seat 3: Catgut20645 ($2 in chips) 
+Seat 4: Lorpugo ($7.18 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+luzbel6662019: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7d]
+Catgut20645 has timed out
+Catgut20645: folds 
+Lorpugo: folds 
+luzbel6662019: folds 
+Uncalled bet ($0.01) returned to claytonAAKK
+claytonAAKK collected $0.02 from pot
+luddepb leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: claytonAAKK (big blind) collected ($0.02)
+Seat 3: Catgut20645 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: luzbel6662019 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333294600:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:47:50 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 2: claytonAAKK ($2.13 in chips) 
+Seat 4: Lorpugo ($7.18 in chips) 
+Seat 5: luzbel6662019 ($2 in chips) 
+claytonAAKK: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Tc]
+luzbel6662019: raises $0.03 to $0.05
+claytonAAKK: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [3d Kc 3c]
+Lorpugo: checks 
+Catgut20645 leaves the table
+luzbel6662019: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [3d Kc 3c] [Qh]
+Lorpugo: checks 
+luzbel6662019: checks 
+*** RIVER *** [3d Kc 3c Qh] [2s]
+Lorpugo: checks 
+luzbel6662019: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to luzbel6662019
+luzbel6662019 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3d Kc 3c Qh 2s]
+Seat 2: claytonAAKK (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the River
+Seat 5: luzbel6662019 (button) collected ($0.22)
+
+
+
+PokerStars Hand #239333306593:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:48:33 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: claytonAAKK ($2.12 in chips) 
+Seat 4: Lorpugo ($7.07 in chips) 
+Seat 5: luzbel6662019 ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+luzbel6662019: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6d]
+claytonAAKK: calls $0.02
+Lorpugo: calls $0.01
+luzbel6662019: checks 
+*** FLOP *** [3s Qs Tc]
+Lorpugo: checks 
+luzbel6662019: checks 
+claytonAAKK: bets $0.10
+Lorpugo: folds 
+luzbel6662019: folds 
+Uncalled bet ($0.10) returned to claytonAAKK
+claytonAAKK collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3s Qs Tc]
+Seat 2: claytonAAKK (button) collected ($0.06)
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 5: luzbel6662019 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239333314388:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:48:59 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 2: claytonAAKK ($2.16 in chips) 
+Seat 4: Lorpugo ($7.05 in chips) 
+Seat 5: luzbel6662019 ($2.09 in chips) 
+luzbel6662019: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6s]
+Lorpugo: raises $0.05 to $0.07
+luzbel6662019: raises $0.13 to $0.20
+claytonAAKK: folds 
+Lorpugo: calls $0.13
+*** FLOP *** [4s 7s 5c]
+luzbel6662019: bets $0.21
+Lorpugo: calls $0.21
+*** TURN *** [4s 7s 5c] [7c]
+luzbel6662019: bets $1.68 and is all-in
+nachopof12 joins the table at seat #1 
+Lorpugo: folds 
+Uncalled bet ($1.68) returned to luzbel6662019
+luzbel6662019 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [4s 7s 5c 7c]
+Seat 2: claytonAAKK (big blind) folded before Flop
+Seat 4: Lorpugo (button) folded on the Turn
+Seat 5: luzbel6662019 (small blind) collected ($0.81)
+
+
+
+PokerStars Hand #239333335709:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:50:14 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 2: claytonAAKK ($2.14 in chips) 
+Seat 4: Lorpugo ($6.64 in chips) 
+Seat 5: luzbel6662019 ($2.49 in chips) 
+claytonAAKK: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9c]
+luzbel6662019: folds 
+luzbel6662019 leaves the table
+claytonAAKK: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+claytonAAKK: calls $0.10
+*** FLOP *** [Ac 2c Qh]
+claytonAAKK: checks 
+Lorpugo: bets $0.08
+claytonAAKK: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ac 2c Qh]
+Seat 2: claytonAAKK (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) collected ($0.23)
+Seat 5: luzbel6662019 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333343586:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:50:42 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: nachopof12 ($2 in chips) 
+Seat 2: claytonAAKK ($2.02 in chips) 
+Seat 4: Lorpugo ($6.75 in chips) 
+Lorpugo: posts small blind $0.01
+nachopof12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qh]
+claytonAAKK: folds 
+Lorpugo: raises $0.04 to $0.06
+nachopof12: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+ULISSES 222 leaves the table
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nachopof12 (big blind) folded before Flop
+Seat 2: claytonAAKK (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239333346579:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:50:52 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: nachopof12 ($1.98 in chips) 
+Seat 2: claytonAAKK ($2.02 in chips) 
+Seat 4: Lorpugo ($6.77 in chips) 
+nachopof12: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9h]
+Lorpugo: raises $0.04 to $0.06
+nachopof12: folds 
+claytonAAKK: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nachopof12 (small blind) folded before Flop
+Seat 2: claytonAAKK (big blind) folded before Flop
+Seat 4: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #239333353744:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:51:18 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: nachopof12 ($1.99 in chips) 
+Seat 2: claytonAAKK ($2 in chips) 
+Seat 4: Lorpugo ($6.80 in chips) 
+claytonAAKK: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Kd]
+nachopof12: folds 
+claytonAAKK: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+claytonAAKK: calls $0.10
+*** FLOP *** [3d Ts 5h]
+claytonAAKK: checks 
+Lorpugo: bets $0.15
+claytonAAKK: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3d Ts 5h]
+Seat 1: nachopof12 (button) folded before Flop (didn't bet)
+Seat 2: claytonAAKK (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) collected ($0.23)
+
+
+
+PokerStars Hand #239333360563:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:51:42 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: nachopof12 ($2 in chips) 
+Seat 2: claytonAAKK ($1.88 in chips) 
+Seat 4: Lorpugo ($6.91 in chips) 
+Lorpugo: posts small blind $0.01
+nachopof12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3c]
+claytonAAKK: calls $0.02
+Lorpugo: calls $0.01
+Souza821 joins the table at seat #3 
+nachopof12: raises $0.06 to $0.08
+claytonAAKK: calls $0.06
+kenknight1 joins the table at seat #5 
+Lorpugo: calls $0.06
+*** FLOP *** [As Jd 4s]
+Lorpugo: checks 
+ULISSES 222 joins the table at seat #6 
+nachopof12: checks 
+claytonAAKK: checks 
+*** TURN *** [As Jd 4s] [2d]
+Lorpugo: bets $0.08
+nachopof12: calls $0.08
+claytonAAKK: folds 
+*** RIVER *** [As Jd 4s 2d] [3d]
+Lorpugo: bets $0.52
+nachopof12: calls $0.52
+*** SHOW DOWN ***
+Lorpugo: shows [5s 3c] (a straight, Ace to Five)
+nachopof12: mucks hand 
+Lorpugo collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 
+Board [As Jd 4s 2d 3d]
+Seat 1: nachopof12 (big blind) mucked [Kh Jc]
+Seat 2: claytonAAKK (button) folded on the Turn
+Seat 4: Lorpugo (small blind) showed [5s 3c] and won ($1.39) with a straight, Ace to Five
+
+
+
+PokerStars Hand #239333374747:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:52:32 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: nachopof12 ($1.32 in chips) 
+Seat 2: claytonAAKK ($1.80 in chips) 
+Seat 3: Souza821 ($0.80 in chips) 
+Seat 4: Lorpugo ($7.62 in chips) 
+nachopof12: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+Souza821: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3s]
+Souza821: checks 
+Lorpugo: folds 
+nachopof12: folds 
+claytonAAKK: checks 
+*** FLOP *** [Kh Kd 9c]
+claytonAAKK: checks 
+Souza821: checks 
+*** TURN *** [Kh Kd 9c] [2c]
+claytonAAKK: checks 
+Souza821: checks 
+*** RIVER *** [Kh Kd 9c 2c] [9d]
+claytonAAKK: checks 
+Souza821: checks 
+*** SHOW DOWN ***
+claytonAAKK: shows [Th Jh] (two pair, Kings and Nines)
+Souza821: shows [3d Qh] (two pair, Kings and Nines - Queen kicker)
+Souza821 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh Kd 9c 2c 9d]
+Seat 1: nachopof12 (small blind) folded before Flop
+Seat 2: claytonAAKK (big blind) showed [Th Jh] and lost with two pair, Kings and Nines
+Seat 3: Souza821 showed [3d Qh] and won ($0.05) with two pair, Kings and Nines
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333383836:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:53:04 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: nachopof12 ($2 in chips) 
+Seat 2: claytonAAKK ($1.78 in chips) 
+Seat 3: Souza821 ($0.83 in chips) 
+Seat 4: Lorpugo ($7.62 in chips) 
+Seat 6: ULISSES 222 ($2.16 in chips) 
+claytonAAKK: posts small blind $0.01
+Souza821: posts big blind $0.02
+kenknight1: sits out 
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ts]
+Lorpugo: raises $0.04 to $0.06
+ULISSES 222: folds 
+nachopof12: folds 
+claytonAAKK: raises $0.16 to $0.22
+Souza821: folds 
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to claytonAAKK
+claytonAAKK collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0 
+Seat 1: nachopof12 (button) folded before Flop (didn't bet)
+Seat 2: claytonAAKK (small blind) collected ($0.16)
+Seat 3: Souza821 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333393280:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:53:38 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: nachopof12 ($2 in chips) 
+Seat 2: claytonAAKK ($1.88 in chips) 
+Seat 3: Souza821 ($0.81 in chips) 
+Seat 4: Lorpugo ($7.56 in chips) 
+Seat 6: ULISSES 222 ($2.14 in chips) 
+Souza821: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+kenknight1: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qs]
+ULISSES 222 has timed out
+ULISSES 222: folds 
+nachopof12: raises $0.03 to $0.05
+claytonAAKK: calls $0.05
+Souza821: calls $0.04
+Lorpugo: raises $0.20 to $0.25
+nachopof12: calls $0.20
+claytonAAKK: folds 
+Souza821: folds 
+*** FLOP *** [Jd 8h 6h]
+Lorpugo: checks 
+nachopof12: checks 
+*** TURN *** [Jd 8h 6h] [As]
+Lorpugo: bets $0.58
+nachopof12: calls $0.58
+*** RIVER *** [Jd 8h 6h As] [Ks]
+Lorpugo: checks 
+nachopof12: bets $1.17 and is all-in
+Lorpugo: calls $1.17
+*** SHOW DOWN ***
+nachopof12: shows [6c 6d] (three of a kind, Sixes)
+Lorpugo: shows [Ad Qs] (a pair of Aces)
+nachopof12 collected $3.96 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.14 
+Board [Jd 8h 6h As Ks]
+Seat 1: nachopof12 showed [6c 6d] and won ($3.96) with three of a kind, Sixes
+Seat 2: claytonAAKK (button) folded before Flop
+Seat 3: Souza821 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [Ad Qs] and lost with a pair of Aces
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333410597:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:54:41 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: nachopof12 ($3.96 in chips) 
+Seat 2: claytonAAKK ($1.83 in chips) 
+Seat 3: Souza821 ($0.76 in chips) 
+Seat 4: Lorpugo ($5.56 in chips) 
+Seat 5: kenknight1 ($0.80 in chips) 
+Seat 6: ULISSES 222 ($2.14 in chips) 
+Lorpugo: posts small blind $0.01
+kenknight1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4s]
+ULISSES 222: folds 
+nachopof12: folds 
+claytonAAKK: calls $0.02
+Souza821: calls $0.02
+Lorpugo: folds 
+kenknight1: checks 
+*** FLOP *** [5s 3d 4h]
+kenknight1: checks 
+claytonAAKK: checks 
+Souza821: checks 
+*** TURN *** [5s 3d 4h] [2d]
+kenknight1: checks 
+claytonAAKK: checks 
+Souza821: checks 
+*** RIVER *** [5s 3d 4h 2d] [Ah]
+kenknight1: bets $0.03
+claytonAAKK: calls $0.03
+Souza821: calls $0.03
+*** SHOW DOWN ***
+kenknight1: shows [Qs 6h] (a straight, Deuce to Six)
+claytonAAKK: mucks hand 
+Souza821: mucks hand 
+kenknight1 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [5s 3d 4h 2d Ah]
+Seat 1: nachopof12 folded before Flop (didn't bet)
+Seat 2: claytonAAKK mucked [2h Th]
+Seat 3: Souza821 (button) mucked [Qh Jc]
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: kenknight1 (big blind) showed [Qs 6h] and won ($0.15) with a straight, Deuce to Six
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333423453:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:55:32 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: nachopof12 ($3.96 in chips) 
+Seat 2: claytonAAKK ($1.78 in chips) 
+Seat 3: Souza821 ($0.71 in chips) 
+Seat 4: Lorpugo ($5.55 in chips) 
+Seat 5: kenknight1 ($0.90 in chips) 
+Seat 6: ULISSES 222 ($2.14 in chips) 
+kenknight1: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Kh]
+nachopof12: raises $0.03 to $0.05
+claytonAAKK: calls $0.05
+Souza821: folds 
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: calls $0.03
+*** FLOP *** [Qc 5d 8d]
+ULISSES 222: checks 
+nachopof12: bets $0.10
+claytonAAKK: folds 
+ULISSES 222: folds 
+Uncalled bet ($0.10) returned to nachopof12
+nachopof12 collected $0.15 from pot
+nachopof12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Qc 5d 8d]
+Seat 1: nachopof12 collected ($0.15)
+Seat 2: claytonAAKK folded on the Flop
+Seat 3: Souza821 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: kenknight1 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239333432429:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:56:12 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: nachopof12 ($4.06 in chips) 
+Seat 2: claytonAAKK ($1.73 in chips) 
+Seat 3: Souza821 ($0.71 in chips) 
+Seat 4: Lorpugo ($5.55 in chips) 
+Seat 5: kenknight1 ($0.89 in chips) 
+Seat 6: ULISSES 222 ($2.09 in chips) 
+ULISSES 222: posts small blind $0.01
+nachopof12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6c]
+claytonAAKK: folds 
+Souza821: calls $0.02
+Lorpugo: folds 
+kenknight1 has timed out
+kenknight1: folds 
+ULISSES 222: folds 
+nachopof12: checks 
+*** FLOP *** [5s 6h 3h]
+nachopof12: checks 
+Souza821: checks 
+*** TURN *** [5s 6h 3h] [Qd]
+nachopof12: checks 
+Souza821: bets $0.04
+nachopof12: calls $0.04
+*** RIVER *** [5s 6h 3h Qd] [8c]
+nachopof12: checks 
+Souza821: bets $0.10
+nachopof12: folds 
+Uncalled bet ($0.10) returned to Souza821
+Souza821 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5s 6h 3h Qd 8c]
+Seat 1: nachopof12 (big blind) folded on the River
+Seat 2: claytonAAKK folded before Flop (didn't bet)
+Seat 3: Souza821 collected ($0.13)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333449087:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:57:27 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: nachopof12 ($4 in chips) 
+Seat 2: claytonAAKK ($1.73 in chips) 
+Seat 3: Souza821 ($0.78 in chips) 
+Seat 4: Lorpugo ($5.55 in chips) 
+Seat 5: kenknight1 ($0.89 in chips) 
+Seat 6: ULISSES 222 ($2.08 in chips) 
+nachopof12: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 2h]
+Souza821: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+kenknight1: folds 
+ULISSES 222: folds 
+nachopof12: folds 
+claytonAAKK: calls $0.02
+Souza821: calls $0.02
+*** FLOP *** [4h 2c Jd]
+claytonAAKK: checks 
+Souza821: checks 
+Lorpugo: bets $0.04
+claytonAAKK: calls $0.04
+Souza821: folds 
+*** TURN *** [4h 2c Jd] [Qh]
+claytonAAKK: checks 
+Lorpugo: bets $0.30
+claytonAAKK: folds 
+Uncalled bet ($0.30) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4h 2c Jd Qh]
+Seat 1: nachopof12 (small blind) folded before Flop
+Seat 2: claytonAAKK (big blind) folded on the Turn
+Seat 3: Souza821 folded on the Flop
+Seat 4: Lorpugo collected ($0.20)
+Seat 5: kenknight1 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333464057:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:58:33 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: nachopof12 ($3.99 in chips) 
+Seat 2: claytonAAKK ($1.65 in chips) 
+Seat 3: Souza821 ($0.74 in chips) 
+Seat 4: Lorpugo ($5.67 in chips) 
+Seat 5: kenknight1 ($0.89 in chips) 
+Seat 6: ULISSES 222 ($2.08 in chips) 
+claytonAAKK: posts small blind $0.01
+Souza821: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Qd]
+Lorpugo: folds 
+kenknight1 has timed out
+kenknight1: folds 
+ULISSES 222: raises $0.04 to $0.06
+nachopof12: folds 
+claytonAAKK: calls $0.05
+Souza821: calls $0.04
+*** FLOP *** [4s 9s 8d]
+claytonAAKK: checks 
+Souza821: bets $0.08
+ULISSES 222: folds 
+claytonAAKK: calls $0.08
+*** TURN *** [4s 9s 8d] [3s]
+claytonAAKK: checks 
+Souza821: checks 
+*** RIVER *** [4s 9s 8d 3s] [6h]
+claytonAAKK: checks 
+Souza821: checks 
+*** SHOW DOWN ***
+claytonAAKK: shows [6d 7h] (a pair of Sixes)
+Souza821: shows [8h Ac] (a pair of Eights)
+Souza821 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [4s 9s 8d 3s 6h]
+Seat 1: nachopof12 (button) folded before Flop (didn't bet)
+Seat 2: claytonAAKK (small blind) showed [6d 7h] and lost with a pair of Sixes
+Seat 3: Souza821 (big blind) showed [8h Ac] and won ($0.33) with a pair of Eights
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 folded on the Flop
+
+
+
+PokerStars Hand #239333480465:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 18:59:47 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 1: nachopof12 ($3.99 in chips) 
+Seat 2: claytonAAKK ($1.51 in chips) 
+Seat 3: Souza821 ($0.93 in chips) 
+Seat 4: Lorpugo ($5.67 in chips) 
+Seat 5: kenknight1 ($0.89 in chips) 
+Seat 6: ULISSES 222 ($2.02 in chips) 
+Souza821: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Kd]
+kenknight1: calls $0.02
+ULISSES 222: raises $0.10 to $0.12
+nachopof12: calls $0.12
+claytonAAKK: folds 
+Souza821: folds 
+Lorpugo: folds 
+kenknight1: folds 
+*** FLOP *** [3s 3d 4h]
+ULISSES 222: bets $0.28
+nachopof12: folds 
+Uncalled bet ($0.28) returned to ULISSES 222
+ULISSES 222 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3s 3d 4h]
+Seat 1: nachopof12 folded on the Flop
+Seat 2: claytonAAKK (button) folded before Flop (didn't bet)
+Seat 3: Souza821 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: kenknight1 folded before Flop
+Seat 6: ULISSES 222 collected ($0.28)
+
+
+
+PokerStars Hand #239333491447:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:00:36 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: nachopof12 ($3.87 in chips) 
+Seat 2: claytonAAKK ($1.51 in chips) 
+Seat 3: Souza821 ($0.92 in chips) 
+Seat 4: Lorpugo ($5.65 in chips) 
+Seat 5: kenknight1 ($0.87 in chips) 
+Seat 6: ULISSES 222 ($2.18 in chips) 
+Lorpugo: posts small blind $0.01
+kenknight1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7h]
+ULISSES 222: folds 
+nachopof12: folds 
+claytonAAKK has timed out
+claytonAAKK: folds 
+Souza821: folds 
+Lorpugo: raises $0.04 to $0.06
+kenknight1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nachopof12 folded before Flop (didn't bet)
+Seat 2: claytonAAKK folded before Flop (didn't bet)
+Seat 3: Souza821 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: kenknight1 (big blind) folded before Flop
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333500539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:01:12 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: nachopof12 ($3.87 in chips) 
+Seat 2: claytonAAKK ($1.51 in chips) 
+Seat 3: Souza821 ($0.92 in chips) 
+Seat 4: Lorpugo ($5.67 in chips) 
+Seat 5: kenknight1 ($0.85 in chips) 
+Seat 6: ULISSES 222 ($2.18 in chips) 
+kenknight1: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Tc]
+nachopof12: folds 
+claytonAAKK has timed out
+claytonAAKK: folds 
+Souza821: calls $0.02
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: checks 
+*** FLOP *** [2s 4d 9d]
+ULISSES 222: checks 
+Souza821: checks 
+*** TURN *** [2s 4d 9d] [4s]
+ULISSES 222: checks 
+Souza821: checks 
+*** RIVER *** [2s 4d 9d 4s] [2h]
+ULISSES 222: checks 
+Souza821: checks 
+*** SHOW DOWN ***
+ULISSES 222: shows [7c Qd] (two pair, Fours and Deuces)
+Souza821: shows [5d As] (two pair, Fours and Deuces - Ace kicker)
+Souza821 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s 4d 9d 4s 2h]
+Seat 1: nachopof12 folded before Flop (didn't bet)
+Seat 2: claytonAAKK folded before Flop (didn't bet)
+Seat 3: Souza821 showed [5d As] and won ($0.05) with two pair, Fours and Deuces
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: kenknight1 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) showed [7c Qd] and lost with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #239333516819:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:02:13 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: nachopof12 ($3.87 in chips) 
+Seat 2: claytonAAKK ($1.51 in chips) 
+Seat 3: Souza821 ($0.95 in chips) 
+Seat 4: Lorpugo ($5.67 in chips) 
+Seat 5: kenknight1 ($0.84 in chips) 
+Seat 6: ULISSES 222 ($2.16 in chips) 
+ULISSES 222: posts small blind $0.01
+nachopof12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4h]
+claytonAAKK: folds 
+Souza821: calls $0.02
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: raises $0.02 to $0.04
+nachopof12: folds 
+Souza821: calls $0.02
+*** FLOP *** [6c Kh Qs]
+ULISSES 222: checks 
+Souza821: bets $0.04
+ULISSES 222: calls $0.04
+*** TURN *** [6c Kh Qs] [9h]
+ULISSES 222: checks 
+Souza821: bets $0.06
+ULISSES 222: calls $0.06
+*** RIVER *** [6c Kh Qs 9h] [Ks]
+ULISSES 222: checks 
+Souza821: checks 
+*** SHOW DOWN ***
+ULISSES 222: shows [Qc Ts] (two pair, Kings and Queens)
+Souza821: mucks hand 
+ULISSES 222 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6c Kh Qs 9h Ks]
+Seat 1: nachopof12 (big blind) folded before Flop
+Seat 2: claytonAAKK folded before Flop (didn't bet)
+Seat 3: Souza821 mucked [5h Qh]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) showed [Qc Ts] and won ($0.29) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #239333530567:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:03:04 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: nachopof12 ($3.85 in chips) 
+Seat 2: claytonAAKK ($1.51 in chips) 
+Seat 3: Souza821 ($0.81 in chips) 
+Seat 4: Lorpugo ($5.67 in chips) 
+Seat 5: kenknight1 ($0.84 in chips) 
+Seat 6: ULISSES 222 ($2.31 in chips) 
+nachopof12: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8s]
+Souza821: calls $0.02
+Lorpugo: folds 
+kenknight1: raises $0.04 to $0.06
+ULISSES 222: calls $0.06
+nachopof12: folds 
+claytonAAKK: calls $0.04
+Souza821: calls $0.04
+*** FLOP *** [8h 9s Js]
+claytonAAKK: checks 
+Souza821: checks 
+kenknight1: checks 
+ULISSES 222: checks 
+*** TURN *** [8h 9s Js] [3d]
+claytonAAKK: checks 
+Souza821: checks 
+kenknight1: checks 
+ULISSES 222: checks 
+*** RIVER *** [8h 9s Js 3d] [9h]
+claytonAAKK: checks 
+Souza821: checks 
+kenknight1: bets $0.08
+ULISSES 222 has timed out
+ULISSES 222: folds 
+claytonAAKK: folds 
+Souza821: folds 
+Uncalled bet ($0.08) returned to kenknight1
+kenknight1 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8h 9s Js 3d 9h]
+Seat 1: nachopof12 (small blind) folded before Flop
+Seat 2: claytonAAKK (big blind) folded on the River
+Seat 3: Souza821 folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 collected ($0.24)
+Seat 6: ULISSES 222 (button) folded on the River
+
+
+
+PokerStars Hand #239333561483:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:04:59 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: claytonAAKK ($1.45 in chips) 
+Seat 3: Souza821 ($0.75 in chips) 
+Seat 4: Lorpugo ($5.67 in chips) 
+Seat 5: kenknight1 ($1.02 in chips) 
+Souza821: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ts]
+kenknight1: folds 
+claytonAAKK has timed out
+claytonAAKK: folds 
+Souza821: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Js 7c 4h]
+Souza821: checks 
+Lorpugo: bets $0.02
+Souza821: calls $0.02
+*** TURN *** [Js 7c 4h] [Th]
+Souza821: checks 
+Lorpugo: bets $0.04
+Souza821: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Js 7c 4h Th]
+Seat 2: claytonAAKK (button) folded before Flop (didn't bet)
+Seat 3: Souza821 (small blind) folded on the Turn
+Seat 4: Lorpugo (big blind) collected ($0.08)
+Seat 5: kenknight1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333572741:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:05:41 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 1: nachopof12 ($3.84 in chips) 
+Seat 2: claytonAAKK ($1.45 in chips) 
+Seat 3: Souza821 ($0.71 in chips) 
+Seat 4: Lorpugo ($5.71 in chips) 
+Seat 5: kenknight1 ($1.02 in chips) 
+Seat 6: ULISSES 222 ($2.25 in chips) 
+Lorpugo: posts small blind $0.01
+kenknight1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 8c]
+ULISSES 222: folds 
+nachopof12: raises $0.03 to $0.05
+claytonAAKK: calls $0.05
+Souza821: calls $0.05
+Lorpugo: calls $0.04
+kenknight1: calls $0.03
+*** FLOP *** [Ac Qh 4c]
+Lorpugo: bets $0.12
+kenknight1: folds 
+nachopof12: folds 
+claytonAAKK: folds 
+Souza821: raises $0.54 to $0.66 and is all-in
+Lorpugo: calls $0.54
+*** TURN *** [Ac Qh 4c] [5d]
+*** RIVER *** [Ac Qh 4c 5d] [7c]
+*** SHOW DOWN ***
+Lorpugo: shows [Ah 8c] (a pair of Aces)
+Souza821: shows [Qc Jd] (a pair of Queens)
+Lorpugo collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [Ac Qh 4c 5d 7c]
+Seat 1: nachopof12 folded on the Flop
+Seat 2: claytonAAKK folded on the Flop
+Seat 3: Souza821 (button) showed [Qc Jd] and lost with a pair of Queens
+Seat 4: Lorpugo (small blind) showed [Ah 8c] and won ($1.52) with a pair of Aces
+Seat 5: kenknight1 (big blind) folded on the Flop
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333590247:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:06:48 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: nachopof12 ($3.79 in chips) 
+Seat 2: claytonAAKK ($1.40 in chips) 
+Seat 4: Lorpugo ($6.52 in chips) 
+Seat 5: kenknight1 ($0.97 in chips) 
+Seat 6: ULISSES 222 ($2.25 in chips) 
+kenknight1: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ad]
+nachopof12: folds 
+Souza821 leaves the table
+claytonAAKK: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+liliaesponjosa joins the table at seat #3 
+kenknight1: calls $0.11
+ULISSES 222: folds 
+claytonAAKK: calls $0.10
+*** FLOP *** [Ts 8d 3d]
+kenknight1: checks 
+claytonAAKK: checks 
+Lorpugo: bets $0.58
+kenknight1: folds 
+claytonAAKK: folds 
+Uncalled bet ($0.58) returned to Lorpugo
+Lorpugo collected $0.37 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Ts 8d 3d]
+Seat 1: nachopof12 folded before Flop (didn't bet)
+Seat 2: claytonAAKK folded on the Flop
+Seat 4: Lorpugo (button) collected ($0.37)
+Seat 5: kenknight1 (small blind) folded on the Flop
+Seat 6: ULISSES 222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239333607955:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:07:55 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: nachopof12 ($3.79 in chips) 
+Seat 2: claytonAAKK ($1.28 in chips) 
+Seat 4: Lorpugo ($6.77 in chips) 
+Seat 5: kenknight1 ($0.85 in chips) 
+Seat 6: ULISSES 222 ($2.23 in chips) 
+ULISSES 222: posts small blind $0.01
+nachopof12: posts big blind $0.02
+liliaesponjosa: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5s]
+claytonAAKK: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+kenknight1: folds 
+ULISSES 222: folds 
+nachopof12: folds 
+claytonAAKK: calls $0.10
+*** FLOP *** [2c Js Tc]
+claytonAAKK: bets $1.16 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.16) returned to claytonAAKK
+claytonAAKK collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2c Js Tc]
+Seat 1: nachopof12 (big blind) folded before Flop
+Seat 2: claytonAAKK collected ($0.26)
+Seat 4: Lorpugo folded on the Flop
+Seat 5: kenknight1 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333615495:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:08:24 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: nachopof12 ($3.77 in chips) 
+Seat 2: claytonAAKK ($1.42 in chips) 
+Seat 4: Lorpugo ($6.65 in chips) 
+Seat 5: kenknight1 ($0.85 in chips) 
+Seat 6: ULISSES 222 ($2.22 in chips) 
+nachopof12: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+liliaesponjosa: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3d]
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: raises $0.08 to $0.10
+nachopof12: folds 
+claytonAAKK: folds 
+Uncalled bet ($0.08) returned to ULISSES 222
+ULISSES 222 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nachopof12 (small blind) folded before Flop
+Seat 2: claytonAAKK (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239333627823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:09:11 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: nachopof12 ($3.76 in chips) 
+Seat 2: claytonAAKK ($1.40 in chips) 
+Seat 3: liliaesponjosa ($2 in chips) 
+Seat 4: Lorpugo ($6.65 in chips) 
+Seat 5: kenknight1 ($0.85 in chips) 
+Seat 6: ULISSES 222 ($2.25 in chips) 
+claytonAAKK: posts small blind $0.01
+liliaesponjosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Td]
+Lorpugo: raises $0.04 to $0.06
+kenknight1: raises $0.11 to $0.17
+ULISSES 222: folds 
+nachopof12: folds 
+claytonAAKK: folds 
+liliaesponjosa: folds 
+Lorpugo: calls $0.11
+*** FLOP *** [Ah 7s 3h]
+Lorpugo: bets $0.12
+kenknight1: calls $0.12
+*** TURN *** [Ah 7s 3h] [5s]
+Lorpugo: bets $6.36 and is all-in
+kenknight1: calls $0.56 and is all-in
+Uncalled bet ($5.80) returned to Lorpugo
+*** RIVER *** [Ah 7s 3h 5s] [4s]
+*** SHOW DOWN ***
+Lorpugo: shows [Kh Td] (high card Ace)
+kenknight1: shows [Jc Js] (a pair of Jacks)
+kenknight1 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.73 | Rake $0.06 
+Board [Ah 7s 3h 5s 4s]
+Seat 1: nachopof12 (button) folded before Flop (didn't bet)
+Seat 2: claytonAAKK (small blind) folded before Flop
+Seat 3: liliaesponjosa (big blind) folded before Flop
+Seat 4: Lorpugo showed [Kh Td] and lost with high card Ace
+Seat 5: kenknight1 showed [Jc Js] and won ($1.67) with a pair of Jacks
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333642847:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:10:08 ET
+Table 'Elisa II' 6-max Seat #2 is the button
+Seat 2: claytonAAKK ($1.39 in chips) 
+Seat 3: liliaesponjosa ($2 in chips) 
+Seat 4: Lorpugo ($5.80 in chips) 
+Seat 5: kenknight1 ($1.67 in chips) 
+Seat 6: ULISSES 222 ($2.25 in chips) 
+liliaesponjosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6s]
+kenknight1: folds 
+ULISSES 222: raises $0.04 to $0.06
+claytonAAKK: calls $0.06
+liliaesponjosa: folds 
+Lorpugo: folds 
+*** FLOP *** [As 5c 2d]
+ULISSES 222: checks 
+claytonAAKK: checks 
+*** TURN *** [As 5c 2d] [8c]
+ULISSES 222 has timed out
+ULISSES 222: checks 
+claytonAAKK: checks 
+*** RIVER *** [As 5c 2d 8c] [7s]
+ULISSES 222: checks 
+claytonAAKK: checks 
+*** SHOW DOWN ***
+ULISSES 222: shows [9s Ts] (high card Ace)
+claytonAAKK: shows [Td Kh] (high card Ace - King kicker)
+claytonAAKK collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As 5c 2d 8c 7s]
+Seat 2: claytonAAKK (button) showed [Td Kh] and won ($0.14) with high card Ace
+Seat 3: liliaesponjosa (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: kenknight1 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 showed [9s Ts] and lost with high card Ace
+
+
+
+PokerStars Hand #239333660393:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:11:16 ET
+Table 'Elisa II' 6-max Seat #3 is the button
+Seat 2: claytonAAKK ($1.47 in chips) 
+Seat 3: liliaesponjosa ($2 in chips) 
+Seat 4: Lorpugo ($5.78 in chips) 
+Seat 5: kenknight1 ($1.67 in chips) 
+Seat 6: ULISSES 222 ($2.19 in chips) 
+Lorpugo: posts small blind $0.01
+kenknight1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5d]
+ULISSES 222: folds 
+claytonAAKK: calls $0.02
+liliaesponjosa: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+kenknight1: calls $0.04
+claytonAAKK: calls $0.04
+*** FLOP *** [2s As 7h]
+Lorpugo: checks 
+kenknight1: checks 
+claytonAAKK: checks 
+liliaesponjosa: bets $0.09
+Lorpugo: folds 
+kenknight1: folds 
+claytonAAKK: folds 
+Uncalled bet ($0.09) returned to liliaesponjosa
+liliaesponjosa collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2s As 7h]
+Seat 2: claytonAAKK folded on the Flop
+Seat 3: liliaesponjosa (button) collected ($0.23)
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 5: kenknight1 (big blind) folded on the Flop
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239333674054:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:12:08 ET
+Table 'Elisa II' 6-max Seat #4 is the button
+Seat 1: nachopof12 ($3.76 in chips) 
+Seat 2: claytonAAKK ($1.41 in chips) 
+Seat 3: liliaesponjosa ($2.17 in chips) 
+Seat 4: Lorpugo ($5.72 in chips) 
+Seat 5: kenknight1 ($1.61 in chips) 
+Seat 6: ULISSES 222 ($2.19 in chips) 
+kenknight1: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Js]
+nachopof12: raises $0.03 to $0.05
+claytonAAKK: folds 
+liliaesponjosa: calls $0.05
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: folds 
+*** FLOP *** [Ah Tc 5s]
+nachopof12: bets $0.04
+liliaesponjosa: calls $0.04
+*** TURN *** [Ah Tc 5s] [8d]
+nachopof12: bets $0.10
+liliaesponjosa: calls $0.10
+*** RIVER *** [Ah Tc 5s 8d] [5c]
+nachopof12: bets $0.20
+liliaesponjosa: folds 
+Uncalled bet ($0.20) returned to nachopof12
+nachopof12 collected $0.40 from pot
+nachopof12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ah Tc 5s 8d 5c]
+Seat 1: nachopof12 collected ($0.40)
+Seat 2: claytonAAKK folded before Flop (didn't bet)
+Seat 3: liliaesponjosa folded on the River
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: kenknight1 (small blind) folded before Flop
+Seat 6: ULISSES 222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239333686169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:12:56 ET
+Table 'Elisa II' 6-max Seat #5 is the button
+Seat 1: nachopof12 ($3.97 in chips) 
+Seat 2: claytonAAKK ($1.41 in chips) 
+Seat 3: liliaesponjosa ($2 in chips) 
+Seat 4: Lorpugo ($5.72 in chips) 
+Seat 5: kenknight1 ($1.60 in chips) 
+Seat 6: ULISSES 222 ($2.17 in chips) 
+ULISSES 222: posts small blind $0.01
+nachopof12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2h]
+claytonAAKK: folds 
+liliaesponjosa: raises $0.04 to $0.06
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: folds 
+nachopof12: folds 
+Uncalled bet ($0.04) returned to liliaesponjosa
+liliaesponjosa collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nachopof12 (big blind) folded before Flop
+Seat 2: claytonAAKK folded before Flop (didn't bet)
+Seat 3: liliaesponjosa collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 (button) folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239333693722:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:13:25 ET
+Table 'Elisa II' 6-max Seat #6 is the button
+Seat 1: nachopof12 ($3.95 in chips) 
+Seat 2: claytonAAKK ($1.41 in chips) 
+Seat 3: liliaesponjosa ($2.03 in chips) 
+Seat 4: Lorpugo ($5.72 in chips) 
+Seat 5: kenknight1 ($1.60 in chips) 
+Seat 6: ULISSES 222 ($2.16 in chips) 
+nachopof12: posts small blind $0.01
+claytonAAKK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 5d]
+liliaesponjosa: folds 
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: raises $0.04 to $0.06
+nachopof12: folds 
+claytonAAKK: folds 
+Uncalled bet ($0.04) returned to ULISSES 222
+ULISSES 222 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nachopof12 (small blind) folded before Flop
+Seat 2: claytonAAKK (big blind) folded before Flop
+Seat 3: liliaesponjosa folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239333700467:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/19 19:13:51 ET
+Table 'Elisa II' 6-max Seat #1 is the button
+Seat 1: nachopof12 ($3.94 in chips) 
+Seat 2: claytonAAKK ($1.39 in chips) 
+Seat 3: liliaesponjosa ($2.03 in chips) 
+Seat 4: Lorpugo ($5.72 in chips) 
+Seat 5: kenknight1 ($1.60 in chips) 
+Seat 6: ULISSES 222 ($2.19 in chips) 
+claytonAAKK: posts small blind $0.01
+liliaesponjosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ah]
+Lorpugo has timed out
+Lorpugo: folds 
+kenknight1: folds 
+ULISSES 222: folds 
+nachopof12: folds 
+claytonAAKK: calls $0.01
+liliaesponjosa: checks 
+*** FLOP *** [Jc 5h 3h]
+claytonAAKK: checks 
+liliaesponjosa: bets $0.04
+claytonAAKK: folds 
+Uncalled bet ($0.04) returned to liliaesponjosa
+liliaesponjosa collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jc 5h 3h]
+Seat 1: nachopof12 (button) folded before Flop (didn't bet)
+Seat 2: claytonAAKK (small blind) folded on the Flop
+Seat 3: liliaesponjosa (big blind) collected ($0.04)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: kenknight1 folded before Flop (didn't bet)
+Seat 6: ULISSES 222 folded before Flop (didn't bet)
+
+
+

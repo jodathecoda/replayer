@@ -1,0 +1,156 @@
+﻿PokerStars Hand #239692757615: Tournament #3496678905, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:41:37 ET
+Table '3496678905 1' 3-max Seat #1 is the button
+Seat 1: jaa40 (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: Jujuloo (500 in chips) 
+Lorpugo: posts small blind 10
+Jujuloo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ks]
+jaa40: folds 
+Lorpugo: raises 40 to 60
+Jujuloo: calls 40
+*** FLOP *** [2c Ts Kd]
+Lorpugo: bets 40
+Jujuloo: calls 40
+*** TURN *** [2c Ts Kd] [Ah]
+Lorpugo: checks 
+Jujuloo: bets 120
+Lorpugo: calls 120
+*** RIVER *** [2c Ts Kd Ah] [3s]
+Lorpugo: checks 
+Jujuloo: bets 220
+Lorpugo: folds 
+Uncalled bet (220) returned to Jujuloo
+Jujuloo collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [2c Ts Kd Ah 3s]
+Seat 1: jaa40 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the River
+Seat 3: Jujuloo (big blind) collected (440)
+
+
+
+PokerStars Hand #239692780789: Tournament #3496678905, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:42:24 ET
+Table '3496678905 1' 3-max Seat #2 is the button
+Seat 1: jaa40 (500 in chips) 
+Seat 2: Lorpugo (280 in chips) 
+Seat 3: Jujuloo (720 in chips) 
+Jujuloo: posts small blind 10
+jaa40: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ad]
+Lorpugo: raises 260 to 280 and is all-in
+Jujuloo: folds 
+jaa40: folds 
+Uncalled bet (260) returned to Lorpugo
+Lorpugo collected 50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: jaa40 (big blind) folded before Flop
+Seat 2: Lorpugo (button) collected (50)
+Seat 3: Jujuloo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239692786312: Tournament #3496678905, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:42:35 ET
+Table '3496678905 1' 3-max Seat #3 is the button
+Seat 1: jaa40 (480 in chips) 
+Seat 2: Lorpugo (310 in chips) 
+Seat 3: Jujuloo (710 in chips) 
+jaa40: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Qc]
+Jujuloo: calls 20
+jaa40: folds 
+Lorpugo: checks 
+*** FLOP *** [9d 6d Tc]
+Lorpugo: checks 
+Jujuloo: checks 
+*** TURN *** [9d 6d Tc] [5c]
+Lorpugo: bets 20
+Jujuloo: calls 20
+*** RIVER *** [9d 6d Tc 5c] [Jd]
+Lorpugo: checks 
+Jujuloo: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5s Qc] (a pair of Fives)
+Jujuloo: shows [8d 8s] (a pair of Eights)
+Jujuloo collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9d 6d Tc 5c Jd]
+Seat 1: jaa40 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [5s Qc] and lost with a pair of Fives
+Seat 3: Jujuloo (button) showed [8d 8s] and won (90) with a pair of Eights
+
+
+
+PokerStars Hand #239692803997: Tournament #3496678905, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:43:11 ET
+Table '3496678905 1' 3-max Seat #1 is the button
+Seat 1: jaa40 (470 in chips) 
+Seat 2: Lorpugo (270 in chips) 
+Seat 3: Jujuloo (760 in chips) 
+Lorpugo: posts small blind 10
+Jujuloo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 8d]
+jaa40: raises 40 to 60
+Lorpugo: calls 50
+Jujuloo: folds 
+*** FLOP *** [Js 7d Jc]
+Lorpugo: checks 
+jaa40: checks 
+*** TURN *** [Js 7d Jc] [8h]
+Lorpugo: bets 92
+jaa40: folds 
+Uncalled bet (92) returned to Lorpugo
+Lorpugo collected 140 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Js 7d Jc 8h]
+Seat 1: jaa40 (button) folded on the Turn
+Seat 2: Lorpugo (small blind) collected (140)
+Seat 3: Jujuloo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239692815779: Tournament #3496678905, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:43:35 ET
+Table '3496678905 1' 3-max Seat #2 is the button
+Seat 1: jaa40 (410 in chips) 
+Seat 2: Lorpugo (350 in chips) 
+Seat 3: Jujuloo (740 in chips) 
+Jujuloo: posts small blind 10
+jaa40: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8d]
+Lorpugo: raises 20 to 40
+Jujuloo: folds 
+jaa40: raises 40 to 80
+Lorpugo: calls 40
+*** FLOP *** [7s Qh Qd]
+jaa40: checks 
+Lorpugo: bets 112
+jaa40: raises 112 to 224
+Lorpugo: raises 46 to 270 and is all-in
+jaa40: calls 46
+*** TURN *** [7s Qh Qd] [9d]
+*** RIVER *** [7s Qh Qd 9d] [4d]
+*** SHOW DOWN ***
+jaa40: shows [Qc Kc] (three of a kind, Queens)
+Lorpugo: shows [7c 8d] (two pair, Queens and Sevens)
+jaa40 collected 710 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [7s Qh Qd 9d 4d]
+Seat 1: jaa40 (big blind) showed [Qc Kc] and won (710) with three of a kind, Queens
+Seat 2: Lorpugo (button) showed [7c 8d] and lost with two pair, Queens and Sevens
+Seat 3: Jujuloo (small blind) folded before Flop
+
+
+

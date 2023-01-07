@@ -1,0 +1,563 @@
+﻿PokerStars Hand #239186572339:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:05:53 ET
+Table 'Ilse' 6-max Seat #3 is the button
+Seat 1: Fpithers ($4.23 in chips) 
+Seat 3: SidneyCrosby8 ($2.79 in chips) 
+Seat 4: Volkoff_V_A ($2.01 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Volkoff_V_A: posts small blind $0.01
+CristianS9503: is sitting out 
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9s]
+Fpithers: folds 
+SidneyCrosby8: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Volkoff_V_A
+Volkoff_V_A collected $0.04 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Fpithers folded before Flop (didn't bet)
+Seat 3: SidneyCrosby8 (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239186576229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:06:05 ET
+Table 'Ilse' 6-max Seat #4 is the button
+Seat 1: Fpithers ($4.23 in chips) 
+Seat 2: batmunkh0128 ($1.46 in chips) 
+Seat 3: SidneyCrosby8 ($2.79 in chips) 
+Seat 4: Volkoff_V_A ($2.03 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+Fpithers: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3c]
+batmunkh0128 has timed out
+batmunkh0128: folds 
+SidneyCrosby8: folds 
+Volkoff_V_A: folds 
+Lorpugo: raises $0.04 to $0.06
+Fpithers: calls $0.04
+*** FLOP *** [8h 4s 6s]
+Lorpugo: bets $0.08
+Fpithers: calls $0.08
+*** TURN *** [8h 4s 6s] [7h]
+Lorpugo: bets $0.18
+Fpithers: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [8h 4s 6s 7h]
+Seat 1: Fpithers (big blind) folded on the Turn
+Seat 2: batmunkh0128 folded before Flop (didn't bet)
+Seat 3: SidneyCrosby8 folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.27)
+
+
+
+PokerStars Hand #239186592526:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:06:56 ET
+Table 'Ilse' 6-max Seat #6 is the button
+Seat 1: Fpithers ($4.09 in chips) 
+Seat 2: batmunkh0128 ($1.46 in chips) 
+Seat 3: SidneyCrosby8 ($2.79 in chips) 
+Seat 4: Volkoff_V_A ($2.03 in chips) 
+Seat 6: Lorpugo ($1.71 in chips) 
+Fpithers: posts small blind $0.01
+batmunkh0128: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 4c]
+SidneyCrosby8: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Fpithers: folds 
+batmunkh0128: folds 
+*** FLOP *** [9d 8d 2d]
+Volkoff_V_A: checks 
+Lorpugo: checks 
+*** TURN *** [9d 8d 2d] [7c]
+Volkoff_V_A: checks 
+Lorpugo: bets $0.09
+Volkoff_V_A: calls $0.09
+*** RIVER *** [9d 8d 2d 7c] [Tc]
+Volkoff_V_A: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Volkoff_V_A: shows [Kd Qh] (high card King)
+Lorpugo: shows [6c 4c] (a straight, Six to Ten)
+Lorpugo collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [9d 8d 2d 7c Tc]
+Seat 1: Fpithers (small blind) folded before Flop
+Seat 2: batmunkh0128 (big blind) folded before Flop
+Seat 3: SidneyCrosby8 folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A showed [Kd Qh] and lost with high card King
+Seat 6: Lorpugo (button) showed [6c 4c] and won ($0.32) with a straight, Six to Ten
+
+
+
+PokerStars Hand #239186608657:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:07:46 ET
+Table 'Ilse' 6-max Seat #1 is the button
+Seat 1: Fpithers ($4.08 in chips) 
+Seat 2: batmunkh0128 ($1.44 in chips) 
+Seat 3: SidneyCrosby8 ($2.79 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+batmunkh0128: posts small blind $0.01
+SidneyCrosby8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 7c]
+Volkoff_V_A: folds 
+Lorpugo: raises $0.04 to $0.06
+Fpithers: folds 
+batmunkh0128: folds 
+SidneyCrosby8: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Fpithers (button) folded before Flop (didn't bet)
+Seat 2: batmunkh0128 (small blind) folded before Flop
+Seat 3: SidneyCrosby8 (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239186614832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:08:05 ET
+Table 'Ilse' 6-max Seat #2 is the button
+Seat 1: Fpithers ($4.08 in chips) 
+Seat 2: batmunkh0128 ($1.43 in chips) 
+Seat 3: SidneyCrosby8 ($2.77 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.91 in chips) 
+SidneyCrosby8: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 2d]
+Lorpugo: raises $0.04 to $0.06
+Fpithers: folds 
+batmunkh0128: raises $0.16 to $0.22
+SidneyCrosby8: folds 
+Volkoff_V_A: folds 
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to batmunkh0128
+batmunkh0128 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Fpithers folded before Flop (didn't bet)
+Seat 2: batmunkh0128 (button) collected ($0.15)
+Seat 3: SidneyCrosby8 (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #239186621585:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:08:27 ET
+Table 'Ilse' 6-max Seat #3 is the button
+Seat 1: Fpithers ($4.08 in chips) 
+Seat 2: batmunkh0128 ($1.52 in chips) 
+Seat 3: SidneyCrosby8 ($2.76 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Th]
+Fpithers: folds 
+batmunkh0128: raises $0.02 to $0.04
+SidneyCrosby8: folds 
+Volkoff_V_A: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [7c Jc Qc]
+Lorpugo: bets $0.06
+batmunkh0128: calls $0.06
+*** TURN *** [7c Jc Qc] [5d]
+Lorpugo: bets $0.13
+batmunkh0128: calls $0.13
+*** RIVER *** [7c Jc Qc 5d] [Tc]
+Lorpugo: checks 
+batmunkh0128: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qs Th] (two pair, Queens and Tens)
+batmunkh0128: shows [Ts Qd] (two pair, Queens and Tens)
+Lorpugo collected $0.23 from pot
+batmunkh0128 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [7c Jc Qc 5d Tc]
+Seat 1: Fpithers folded before Flop (didn't bet)
+Seat 2: batmunkh0128 showed [Ts Qd] and won ($0.22) with two pair, Queens and Tens
+Seat 3: SidneyCrosby8 (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [Qs Th] and won ($0.23) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #239186633806:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:09:05 ET
+Table 'Ilse' 6-max Seat #4 is the button
+Seat 1: Fpithers ($4.08 in chips) 
+Seat 2: batmunkh0128 ($1.51 in chips) 
+Seat 3: SidneyCrosby8 ($2.76 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+Lorpugo: posts small blind $0.01
+Fpithers: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kd]
+batmunkh0128: calls $0.02
+SidneyCrosby8: raises $0.08 to $0.10
+Volkoff_V_A: folds 
+Lorpugo: calls $0.09
+Fpithers: folds 
+batmunkh0128: folds 
+*** FLOP *** [4h 5s 9d]
+Lorpugo: checks 
+SidneyCrosby8: bets $0.08
+Lorpugo: calls $0.08
+*** TURN *** [4h 5s 9d] [3c]
+Lorpugo: checks 
+SidneyCrosby8: bets $0.29
+Lorpugo: folds 
+Uncalled bet ($0.29) returned to SidneyCrosby8
+SidneyCrosby8 collected $0.39 from pot
+SidneyCrosby8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [4h 5s 9d 3c]
+Seat 1: Fpithers (big blind) folded before Flop
+Seat 2: batmunkh0128 folded before Flop
+Seat 3: SidneyCrosby8 collected ($0.39)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239186647291:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:09:47 ET
+Table 'Ilse' 6-max Seat #6 is the button
+Seat 1: Fpithers ($4.06 in chips) 
+Seat 2: batmunkh0128 ($1.49 in chips) 
+Seat 3: SidneyCrosby8 ($2.97 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+Fpithers: posts small blind $0.01
+batmunkh0128: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8d]
+SidneyCrosby8: folds 
+Volkoff_V_A: folds 
+Lorpugo: folds 
+Fpithers: folds 
+Uncalled bet ($0.01) returned to batmunkh0128
+batmunkh0128 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Fpithers (small blind) folded before Flop
+Seat 2: batmunkh0128 (big blind) collected ($0.02)
+Seat 3: SidneyCrosby8 folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186650025:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:09:55 ET
+Table 'Ilse' 6-max Seat #1 is the button
+Seat 1: Fpithers ($4.05 in chips) 
+Seat 2: batmunkh0128 ($1.50 in chips) 
+Seat 3: SidneyCrosby8 ($2.97 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+batmunkh0128: posts small blind $0.01
+SidneyCrosby8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ts]
+Volkoff_V_A: folds 
+Lorpugo: folds 
+Fpithers: folds 
+batmunkh0128: raises $0.02 to $0.04
+SidneyCrosby8: folds 
+Uncalled bet ($0.02) returned to batmunkh0128
+batmunkh0128 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Fpithers (button) folded before Flop (didn't bet)
+Seat 2: batmunkh0128 (small blind) collected ($0.04)
+Seat 3: SidneyCrosby8 (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186654774:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:10:10 ET
+Table 'Ilse' 6-max Seat #2 is the button
+Seat 1: Fpithers ($4.05 in chips) 
+Seat 2: batmunkh0128 ($1.52 in chips) 
+Seat 3: SidneyCrosby8 ($2.95 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+SidneyCrosby8: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Ks]
+Lorpugo: folds 
+Fpithers: folds 
+batmunkh0128: calls $0.02
+SidneyCrosby8: raises $0.10 to $0.12
+Volkoff_V_A: calls $0.10
+batmunkh0128: folds 
+*** FLOP *** [9c 2s 4c]
+SidneyCrosby8: checks 
+Volkoff_V_A: bets $0.08
+SidneyCrosby8: folds 
+Uncalled bet ($0.08) returned to Volkoff_V_A
+Volkoff_V_A collected $0.25 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [9c 2s 4c]
+Seat 1: Fpithers folded before Flop (didn't bet)
+Seat 2: batmunkh0128 (button) folded before Flop
+Seat 3: SidneyCrosby8 (small blind) folded on the Flop
+Seat 4: Volkoff_V_A (big blind) collected ($0.25)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186665532:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:10:43 ET
+Table 'Ilse' 6-max Seat #3 is the button
+Seat 1: Fpithers ($4.05 in chips) 
+Seat 2: batmunkh0128 ($1.50 in chips) 
+Seat 3: SidneyCrosby8 ($2.83 in chips) 
+Seat 4: Volkoff_V_A ($2.13 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7d]
+Fpithers: folds 
+batmunkh0128: folds 
+SidneyCrosby8: raises $0.04 to $0.06
+Volkoff_V_A: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [3d Jc Kh]
+Lorpugo: checks 
+SidneyCrosby8: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to SidneyCrosby8
+SidneyCrosby8 collected $0.13 from pot
+SidneyCrosby8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d Jc Kh]
+Seat 1: Fpithers folded before Flop (didn't bet)
+Seat 2: batmunkh0128 folded before Flop (didn't bet)
+Seat 3: SidneyCrosby8 (button) collected ($0.13)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239186676557:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:11:18 ET
+Table 'Ilse' 6-max Seat #4 is the button
+Seat 1: Fpithers ($4.05 in chips) 
+Seat 2: batmunkh0128 ($1.50 in chips) 
+Seat 3: SidneyCrosby8 ($2.90 in chips) 
+Seat 4: Volkoff_V_A ($2.12 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+Lorpugo: posts small blind $0.01
+Fpithers: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kc]
+batmunkh0128: folds 
+SidneyCrosby8: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Lorpugo: folds 
+Fpithers: folds 
+Uncalled bet ($0.04) returned to Volkoff_V_A
+Volkoff_V_A collected $0.05 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Fpithers (big blind) folded before Flop
+Seat 2: batmunkh0128 folded before Flop (didn't bet)
+Seat 3: SidneyCrosby8 folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) collected ($0.05)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239186681215:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:11:32 ET
+Table 'Ilse' 6-max Seat #6 is the button
+Seat 1: Fpithers ($4.03 in chips) 
+Seat 2: batmunkh0128 ($1.50 in chips) 
+Seat 3: SidneyCrosby8 ($2.90 in chips) 
+Seat 4: Volkoff_V_A ($2.15 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Fpithers: posts small blind $0.01
+batmunkh0128: posts big blind $0.02
+CristianS9503: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7h]
+SidneyCrosby8: raises $0.04 to $0.06
+Volkoff_V_A: calls $0.06
+Lorpugo: folds 
+Fpithers: folds 
+batmunkh0128: calls $0.04
+*** FLOP *** [9d 4s 5d]
+batmunkh0128: checks 
+SidneyCrosby8: bets $0.09
+Volkoff_V_A: calls $0.09
+batmunkh0128: folds 
+*** TURN *** [9d 4s 5d] [Qc]
+SidneyCrosby8: bets $0.32
+Volkoff_V_A: folds 
+Uncalled bet ($0.32) returned to SidneyCrosby8
+SidneyCrosby8 collected $0.36 from pot
+SidneyCrosby8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [9d 4s 5d Qc]
+Seat 1: Fpithers (small blind) folded before Flop
+Seat 2: batmunkh0128 (big blind) folded on the Flop
+Seat 3: SidneyCrosby8 collected ($0.36)
+Seat 4: Volkoff_V_A folded on the Turn
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239186698901:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:12:27 ET
+Table 'Ilse' 6-max Seat #1 is the button
+Seat 1: Fpithers ($4.02 in chips) 
+Seat 2: batmunkh0128 ($1.44 in chips) 
+Seat 3: SidneyCrosby8 ($3.11 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+batmunkh0128: posts small blind $0.01
+SidneyCrosby8: posts big blind $0.02
+CristianS9503: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 7c]
+Volkoff_V_A has timed out
+Volkoff_V_A: folds 
+Lorpugo: raises $0.04 to $0.06
+Fpithers: calls $0.06
+batmunkh0128: calls $0.05
+SidneyCrosby8: calls $0.04
+*** FLOP *** [7s 4s Kc]
+batmunkh0128: checks 
+SidneyCrosby8: checks 
+Lorpugo: bets $0.11
+Fpithers: folds 
+batmunkh0128: calls $0.11
+SidneyCrosby8: folds 
+*** TURN *** [7s 4s Kc] [9c]
+batmunkh0128: checks 
+Lorpugo: checks 
+*** RIVER *** [7s 4s Kc 9c] [3h]
+batmunkh0128: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+batmunkh0128: shows [6d As] (high card Ace)
+Lorpugo: shows [6c 7c] (a pair of Sevens)
+Lorpugo collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [7s 4s Kc 9c 3h]
+Seat 1: Fpithers (button) folded on the Flop
+Seat 2: batmunkh0128 (small blind) showed [6d As] and lost with high card Ace
+Seat 3: SidneyCrosby8 (big blind) folded on the Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [6c 7c] and won ($0.44) with a pair of Sevens
+
+
+
+PokerStars Hand #239186716767:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:13:21 ET
+Table 'Ilse' 6-max Seat #2 is the button
+Seat 1: Fpithers ($3.96 in chips) 
+Seat 2: batmunkh0128 ($1.27 in chips) 
+Seat 3: SidneyCrosby8 ($3.05 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+SidneyCrosby8: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+CristianS9503: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 3s]
+Lorpugo: raises $0.04 to $0.06
+Fpithers: folds 
+batmunkh0128: folds 
+SidneyCrosby8: folds 
+Volkoff_V_A: calls $0.04
+*** FLOP *** [3d 8h 3h]
+Volkoff_V_A: checks 
+Lorpugo: bets $0.04
+Volkoff_V_A: raises $0.16 to $0.20
+Lorpugo: calls $0.16
+*** TURN *** [3d 8h 3h] [6c]
+Volkoff_V_A: bets $0.39
+Lorpugo: raises $0.39 to $0.78
+Volkoff_V_A: calls $0.39
+*** RIVER *** [3d 8h 3h 6c] [Jh]
+Volkoff_V_A: bets $0.96 and is all-in
+Lorpugo: calls $0.83 and is all-in
+Uncalled bet ($0.13) returned to Volkoff_V_A
+*** SHOW DOWN ***
+Volkoff_V_A: shows [8c 8d] (a full house, Eights full of Threes)
+Lorpugo: shows [3c 3s] (four of a kind, Threes)
+Lorpugo collected $3.62 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.13 
+Board [3d 8h 3h 6c Jh]
+Seat 1: Fpithers folded before Flop (didn't bet)
+Seat 2: batmunkh0128 (button) folded before Flop (didn't bet)
+Seat 3: SidneyCrosby8 (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) showed [8c 8d] and lost with a full house, Eights full of Threes
+Seat 6: Lorpugo showed [3c 3s] and won ($3.62) with four of a kind, Threes
+
+
+
+PokerStars Hand #239186746300:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/12 13:14:51 ET
+Table 'Ilse' 6-max Seat #3 is the button
+Seat 1: Fpithers ($3.96 in chips) 
+Seat 2: batmunkh0128 ($1.27 in chips) 
+Seat 3: SidneyCrosby8 ($3.04 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: CristianS9503 ($2 in chips) 
+Seat 6: Lorpugo ($3.62 in chips) 
+Volkoff_V_A: posts small blind $0.01
+CristianS9503: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6h]
+Lorpugo: folds 
+Fpithers: folds 
+batmunkh0128: folds 
+SidneyCrosby8: raises $0.04 to $0.06
+Volkoff_V_A: folds 
+CristianS9503: calls $0.04
+*** FLOP *** [2s 5h 2h]
+CristianS9503: checks 
+SidneyCrosby8: bets $0.04
+CristianS9503: folds 
+Uncalled bet ($0.04) returned to SidneyCrosby8
+SidneyCrosby8 collected $0.13 from pot
+SidneyCrosby8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2s 5h 2h]
+Seat 1: Fpithers folded before Flop (didn't bet)
+Seat 2: batmunkh0128 folded before Flop (didn't bet)
+Seat 3: SidneyCrosby8 (button) collected ($0.13)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: CristianS9503 (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,335 @@
+﻿PokerStars Hand #240963639982: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/06 18:45:29 ET
+Table '3527393838 1' 3-max Seat #1 is the button
+Seat 1: Paredise10 (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: Romulo005 (500 in chips) 
+Lorpugo: posts small blind 10
+Romulo005: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3c]
+Paredise10: calls 20
+Lorpugo: raises 480 to 500 and is all-in
+Romulo005: folds 
+Paredise10: folds 
+Uncalled bet (480) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Paredise10 (button) folded before Flop
+Seat 2: Lorpugo (small blind) collected (60)
+Seat 3: Romulo005 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240963645100: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/06 18:45:43 ET
+Table '3527393838 1' 3-max Seat #2 is the button
+Seat 1: Paredise10 (480 in chips) 
+Seat 2: Lorpugo (540 in chips) 
+Seat 3: Romulo005 (480 in chips) 
+Romulo005: posts small blind 10
+Paredise10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 2c]
+Lorpugo: folds 
+Romulo005: calls 10
+Paredise10: checks 
+*** FLOP *** [Td Tc 2h]
+Romulo005: checks 
+Paredise10: checks 
+*** TURN *** [Td Tc 2h] [As]
+Romulo005: checks 
+Paredise10: checks 
+*** RIVER *** [Td Tc 2h As] [8d]
+Romulo005: checks 
+Paredise10: checks 
+*** SHOW DOWN ***
+Romulo005: shows [Qh Ks] (a pair of Tens)
+Paredise10: mucks hand 
+Romulo005 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td Tc 2h As 8d]
+Seat 1: Paredise10 (big blind) mucked [Jd 4s]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Romulo005 (small blind) showed [Qh Ks] and won (40) with a pair of Tens
+
+
+
+PokerStars Hand #240963652896: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/06 18:46:04 ET
+Table '3527393838 1' 3-max Seat #3 is the button
+Seat 1: Paredise10 (460 in chips) 
+Seat 2: Lorpugo (540 in chips) 
+Seat 3: Romulo005 (500 in chips) 
+Paredise10: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Th]
+Romulo005: raises 20 to 40
+Paredise10: calls 30
+Lorpugo: calls 20
+*** FLOP *** [5c Ks 4c]
+Paredise10: checks 
+Lorpugo: bets 79
+Romulo005: calls 79
+Paredise10: calls 79
+*** TURN *** [5c Ks 4c] [2c]
+Paredise10: checks 
+Lorpugo: bets 421 and is all-in
+Romulo005: folds 
+Paredise10: folds 
+Uncalled bet (421) returned to Lorpugo
+Lorpugo collected 357 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 357 | Rake 0 
+Board [5c Ks 4c 2c]
+Seat 1: Paredise10 (small blind) folded on the Turn
+Seat 2: Lorpugo (big blind) collected (357)
+Seat 3: Romulo005 (button) folded on the Turn
+
+
+
+PokerStars Hand #240963667729: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/06 18:46:44 ET
+Table '3527393838 1' 3-max Seat #1 is the button
+Seat 1: Paredise10 (341 in chips) 
+Seat 2: Lorpugo (778 in chips) 
+Seat 3: Romulo005 (381 in chips) 
+Lorpugo: posts small blind 10
+Romulo005: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Jc]
+Paredise10: calls 20
+Lorpugo: raises 20 to 40
+Romulo005: calls 20
+Paredise10: calls 20
+*** FLOP *** [2c 7c Ac]
+Lorpugo: checks 
+Romulo005: bets 120
+Paredise10: folds 
+Lorpugo: calls 120
+*** TURN *** [2c 7c Ac] [Qh]
+Lorpugo: checks 
+Romulo005: bets 221 and is all-in
+Lorpugo: calls 221
+*** RIVER *** [2c 7c Ac Qh] [2d]
+*** SHOW DOWN ***
+Lorpugo: shows [Jh Jc] (two pair, Jacks and Deuces)
+Romulo005: shows [7s 4h] (two pair, Sevens and Deuces)
+Lorpugo collected 802 from pot
+Romulo005 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 802 | Rake 0 
+Board [2c 7c Ac Qh 2d]
+Seat 1: Paredise10 (button) folded on the Flop
+Seat 2: Lorpugo (small blind) showed [Jh Jc] and won (802) with two pair, Jacks and Deuces
+Seat 3: Romulo005 (big blind) showed [7s 4h] and lost with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #240963682469: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/06 18:47:24 ET
+Table '3527393838 1' 3-max Seat #2 is the button
+Seat 1: Paredise10 (301 in chips) 
+Seat 2: Lorpugo (1199 in chips) 
+Lorpugo: posts small blind 10
+Paredise10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5c]
+Lorpugo: raises 1179 to 1199 and is all-in
+Paredise10: folds 
+Uncalled bet (1179) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Paredise10 (big blind) folded before Flop
+Seat 2: Lorpugo (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #240963686375: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:47:34 ET
+Table '3527393838 1' 3-max Seat #1 is the button
+Seat 1: Paredise10 (281 in chips) 
+Seat 2: Lorpugo (1219 in chips) 
+Paredise10: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 2d]
+Paredise10: calls 15
+Lorpugo: checks 
+*** FLOP *** [5d Jc 4h]
+Lorpugo: checks 
+Paredise10: bets 30
+Lorpugo: folds 
+Uncalled bet (30) returned to Paredise10
+Paredise10 collected 60 from pot
+Paredise10: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Jc 4h]
+Seat 1: Paredise10 (button) (small blind) collected (60)
+Seat 2: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240963691625: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:47:48 ET
+Table '3527393838 1' 3-max Seat #2 is the button
+Seat 1: Paredise10 (311 in chips) 
+Seat 2: Lorpugo (1189 in chips) 
+Lorpugo: posts small blind 15
+Paredise10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ac]
+Lorpugo: raises 30 to 60
+Paredise10: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Paredise10 (big blind) folded before Flop
+Seat 2: Lorpugo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #240963694098: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:47:55 ET
+Table '3527393838 1' 3-max Seat #1 is the button
+Seat 1: Paredise10 (281 in chips) 
+Seat 2: Lorpugo (1219 in chips) 
+Paredise10: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qh]
+Paredise10: raises 251 to 281 and is all-in
+Lorpugo: folds 
+Uncalled bet (251) returned to Paredise10
+Paredise10 collected 60 from pot
+Paredise10: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Paredise10 (button) (small blind) collected (60)
+Seat 2: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240963696855: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:48:03 ET
+Table '3527393838 1' 3-max Seat #2 is the button
+Seat 1: Paredise10 (311 in chips) 
+Seat 2: Lorpugo (1189 in chips) 
+Lorpugo: posts small blind 15
+Paredise10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 4c]
+Lorpugo: folds 
+Uncalled bet (15) returned to Paredise10
+Paredise10 collected 30 from pot
+Paredise10: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Paredise10 (big blind) collected (30)
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #240963698516: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:48:07 ET
+Table '3527393838 1' 3-max Seat #1 is the button
+Seat 1: Paredise10 (326 in chips) 
+Seat 2: Lorpugo (1174 in chips) 
+Paredise10: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qs]
+Paredise10: calls 15
+Lorpugo: checks 
+*** FLOP *** [6d As 2d]
+Lorpugo: checks 
+Paredise10: checks 
+*** TURN *** [6d As 2d] [3s]
+Lorpugo: bets 30
+Paredise10: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d As 2d 3s]
+Seat 1: Paredise10 (button) (small blind) folded on the Turn
+Seat 2: Lorpugo (big blind) collected (60)
+
+
+
+PokerStars Hand #240963707644: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:48:32 ET
+Table '3527393838 1' 3-max Seat #2 is the button
+Seat 1: Paredise10 (296 in chips) 
+Seat 2: Lorpugo (1204 in chips) 
+Lorpugo: posts small blind 15
+Paredise10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 8h]
+Lorpugo: raises 1174 to 1204 and is all-in
+Paredise10: calls 266 and is all-in
+Uncalled bet (908) returned to Lorpugo
+*** FLOP *** [Qc 4s Jc]
+*** TURN *** [Qc 4s Jc] [6h]
+*** RIVER *** [Qc 4s Jc 6h] [Ad]
+*** SHOW DOWN ***
+Paredise10: shows [8s Ac] (a pair of Aces)
+Lorpugo: shows [9d 8h] (high card Ace)
+Paredise10 collected 592 from pot
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Board [Qc 4s Jc 6h Ad]
+Seat 1: Paredise10 (big blind) showed [8s Ac] and won (592) with a pair of Aces
+Seat 2: Lorpugo (button) (small blind) showed [9d 8h] and lost with high card Ace
+
+
+
+PokerStars Hand #240963714224: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:48:50 ET
+Table '3527393838 1' 3-max Seat #1 is the button
+Seat 1: Paredise10 (592 in chips) 
+Seat 2: Lorpugo (908 in chips) 
+Paredise10: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Kd]
+Paredise10: calls 15
+Lorpugo: raises 878 to 908 and is all-in
+Paredise10: folds 
+Uncalled bet (878) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Paredise10 (button) (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected (60)
+
+
+
+PokerStars Hand #240963717931: Tournament #3527393838, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/01/06 18:49:00 ET
+Table '3527393838 1' 3-max Seat #2 is the button
+Seat 1: Paredise10 (562 in chips) 
+Seat 2: Lorpugo (938 in chips) 
+Lorpugo: posts small blind 15
+Paredise10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2h]
+Lorpugo: raises 908 to 938 and is all-in
+Paredise10: calls 532 and is all-in
+Uncalled bet (376) returned to Lorpugo
+*** FLOP *** [5d 5s Th]
+*** TURN *** [5d 5s Th] [9c]
+*** RIVER *** [5d 5s Th 9c] [Qc]
+*** SHOW DOWN ***
+Paredise10: shows [Kh 3h] (a pair of Fives)
+Lorpugo: shows [Ac 2h] (a pair of Fives - Ace kicker)
+Lorpugo collected 1124 from pot
+Paredise10 finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1124 | Rake 0 
+Board [5d 5s Th 9c Qc]
+Seat 1: Paredise10 (big blind) showed [Kh 3h] and lost with a pair of Fives
+Seat 2: Lorpugo (button) (small blind) showed [Ac 2h] and won (1124) with a pair of Fives
+
+
+

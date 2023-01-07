@@ -1,0 +1,362 @@
+﻿PokerStars Hand #239468982844:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:15:45 ET
+Table 'Theresia II' 6-max Seat #6 is the button
+Seat 1: em2699 ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: vezelvu1 ($1.62 in chips) 
+Seat 5: vitalikto ($3.31 in chips) 
+Seat 6: LOLAPOKER98 ($4.81 in chips) 
+em2699: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Fabiano_bars: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ks]
+vezelvu1: folds 
+vitalikto: folds 
+LOLAPOKER98: folds 
+em2699: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to em2699
+em2699 collected $0.04 from pot
+em2699: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: em2699 (small blind) collected ($0.04)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: vezelvu1 folded before Flop (didn't bet)
+Seat 5: vitalikto folded before Flop (didn't bet)
+Seat 6: LOLAPOKER98 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239468991447:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:16:07 ET
+Table 'Theresia II' 6-max Seat #1 is the button
+Seat 1: em2699 ($2.02 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Fabiano_bars ($0.80 in chips) 
+Seat 4: vezelvu1 ($1.62 in chips) 
+Seat 5: vitalikto ($3.31 in chips) 
+Seat 6: LOLAPOKER98 ($4.81 in chips) 
+Lorpugo: posts small blind $0.01
+Fabiano_bars: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 6d]
+vezelvu1: raises $0.02 to $0.04
+vitalikto has timed out
+vitalikto: folds 
+LOLAPOKER98: calls $0.04
+em2699: folds 
+Lorpugo: folds 
+Fabiano_bars: folds 
+*** FLOP *** [Ad 4d Js]
+vezelvu1: bets $0.11
+LOLAPOKER98: folds 
+Uncalled bet ($0.11) returned to vezelvu1
+vezelvu1 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ad 4d Js]
+Seat 1: em2699 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Fabiano_bars (big blind) folded before Flop
+Seat 4: vezelvu1 collected ($0.11)
+Seat 5: vitalikto folded before Flop (didn't bet)
+Seat 6: LOLAPOKER98 folded on the Flop
+
+
+
+PokerStars Hand #239469009976:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:16:54 ET
+Table 'Theresia II' 6-max Seat #2 is the button
+Seat 1: em2699 ($2.02 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Fabiano_bars ($0.78 in chips) 
+Seat 4: vezelvu1 ($1.69 in chips) 
+Seat 6: LOLAPOKER98 ($4.77 in chips) 
+Fabiano_bars: posts small blind $0.01
+vezelvu1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5d]
+LOLAPOKER98: folds 
+em2699: folds 
+Lorpugo: folds 
+Fabiano_bars: calls $0.01
+vezelvu1: checks 
+*** FLOP *** [3c Ah 4d]
+Fabiano_bars: checks 
+vezelvu1: checks 
+*** TURN *** [3c Ah 4d] [3d]
+Fabiano_bars: bets $0.02
+vezelvu1: calls $0.02
+*** RIVER *** [3c Ah 4d 3d] [9h]
+Fabiano_bars: checks 
+vezelvu1: checks 
+*** SHOW DOWN ***
+Fabiano_bars: shows [8d 7d] (a pair of Threes)
+vezelvu1: shows [Qs 4s] (two pair, Fours and Threes)
+vezelvu1 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3c Ah 4d 3d 9h]
+Seat 1: em2699 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Fabiano_bars (small blind) showed [8d 7d] and lost with a pair of Threes
+Seat 4: vezelvu1 (big blind) showed [Qs 4s] and won ($0.08) with two pair, Fours and Threes
+Seat 6: LOLAPOKER98 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469024815:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:17:31 ET
+Table 'Theresia II' 6-max Seat #3 is the button
+Seat 1: em2699 ($2.02 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Fabiano_bars ($0.74 in chips) 
+Seat 4: vezelvu1 ($1.73 in chips) 
+Seat 6: LOLAPOKER98 ($4.77 in chips) 
+vezelvu1: posts small blind $0.01
+LOLAPOKER98: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qd]
+em2699: folds 
+Lorpugo: raises $0.04 to $0.06
+Fabiano_bars: raises $0.04 to $0.10
+vezelvu1: folds 
+LOLAPOKER98: folds 
+Lorpugo: raises $0.23 to $0.33
+Fabiano_bars: raises $0.41 to $0.74 and is all-in
+Lorpugo: calls $0.41
+*** FLOP *** [8c Qs 9c]
+*** TURN *** [8c Qs 9c] [5s]
+*** RIVER *** [8c Qs 9c 5s] [4d]
+*** SHOW DOWN ***
+Lorpugo: shows [Kd Qd] (a pair of Queens)
+Fabiano_bars: shows [Ad Td] (high card Ace)
+Lorpugo collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.51 | Rake $0.05 
+Board [8c Qs 9c 5s 4d]
+Seat 1: em2699 folded before Flop (didn't bet)
+Seat 2: Lorpugo showed [Kd Qd] and won ($1.46) with a pair of Queens
+Seat 3: Fabiano_bars (button) showed [Ad Td] and lost with high card Ace
+Seat 4: vezelvu1 (small blind) folded before Flop
+Seat 6: LOLAPOKER98 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239469041645:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:18:15 ET
+Table 'Theresia II' 6-max Seat #4 is the button
+Seat 1: em2699 ($2.02 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 4: vezelvu1 ($1.72 in chips) 
+Seat 6: LOLAPOKER98 ($4.75 in chips) 
+LOLAPOKER98: posts small blind $0.01
+em2699: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2d]
+Fabiano_bars leaves the table
+Lorpugo: folds 
+vezelvu1: folds 
+LOLAPOKER98: raises $0.04 to $0.06
+em2699: calls $0.04
+*** FLOP *** [6d Ks Th]
+maravilla804 joins the table at seat #3 
+LOLAPOKER98: bets $0.04
+em2699: calls $0.04
+*** TURN *** [6d Ks Th] [3h]
+LOLAPOKER98: checks 
+em2699: checks 
+*** RIVER *** [6d Ks Th 3h] [Kh]
+LOLAPOKER98: bets $0.14
+em2699: calls $0.14
+*** SHOW DOWN ***
+LOLAPOKER98: shows [Kc 2c] (three of a kind, Kings)
+em2699: mucks hand 
+LOLAPOKER98 collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [6d Ks Th 3h Kh]
+Seat 1: em2699 (big blind) mucked [Ts Jh]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: vezelvu1 (button) folded before Flop (didn't bet)
+Seat 6: LOLAPOKER98 (small blind) showed [Kc 2c] and won ($0.46) with three of a kind, Kings
+
+
+
+PokerStars Hand #239469057308:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:18:55 ET
+Table 'Theresia II' 6-max Seat #6 is the button
+Seat 1: em2699 ($2 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 3: maravilla804 ($1.30 in chips) 
+Seat 4: vezelvu1 ($1.72 in chips) 
+Seat 6: LOLAPOKER98 ($4.97 in chips) 
+em2699: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+maravilla804: posts big blind $0.02
+vitalikto: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 8d]
+maravilla804: checks 
+vezelvu1: folds 
+LOLAPOKER98: folds 
+em2699: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+maravilla804: folds 
+*** FLOP *** [Tc 8s Td]
+em2699: checks 
+Lorpugo: bets $0.09
+em2699: calls $0.09
+*** TURN *** [Tc 8s Td] [6h]
+em2699: checks 
+Lorpugo: bets $0.24
+em2699: raises $0.24 to $0.48
+Lorpugo: calls $0.24
+*** RIVER *** [Tc 8s Td 6h] [9c]
+em2699: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+em2699: shows [9h 7c] (a straight, Six to Ten)
+Lorpugo: mucks hand 
+em2699 collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.04 
+Board [Tc 8s Td 6h 9c]
+Seat 1: em2699 (small blind) showed [9h 7c] and won ($1.24) with a straight, Six to Ten
+Seat 2: Lorpugo (big blind) mucked [9s 8d]
+Seat 3: maravilla804 folded before Flop (didn't bet)
+Seat 4: vezelvu1 folded before Flop (didn't bet)
+Seat 6: LOLAPOKER98 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469092164:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:20:23 ET
+Table 'Theresia II' 6-max Seat #1 is the button
+Seat 1: em2699 ($2.61 in chips) 
+Seat 2: Lorpugo ($1.69 in chips) 
+Seat 4: vezelvu1 ($1.72 in chips) 
+Seat 6: LOLAPOKER98 ($4.97 in chips) 
+Lorpugo: posts small blind $0.01
+vezelvu1: posts big blind $0.02
+vitalikto: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 4d]
+LOLAPOKER98: raises $0.03 to $0.05
+em2699: folds 
+Lorpugo: calls $0.04
+vezelvu1: folds 
+*** FLOP *** [6d Qh 2d]
+Lorpugo: bets $0.08
+LOLAPOKER98: raises $0.24 to $0.32
+Lorpugo: folds 
+Uncalled bet ($0.24) returned to LOLAPOKER98
+LOLAPOKER98 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6d Qh 2d]
+Seat 1: em2699 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 4: vezelvu1 (big blind) folded before Flop
+Seat 6: LOLAPOKER98 collected ($0.27)
+
+
+
+PokerStars Hand #239469107552:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:21:03 ET
+Table 'Theresia II' 6-max Seat #2 is the button
+Seat 1: em2699 ($2.61 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: vezelvu1 ($1.70 in chips) 
+Seat 5: vitalikto ($3.31 in chips) 
+Seat 6: LOLAPOKER98 ($5.11 in chips) 
+vezelvu1: posts small blind $0.01
+vitalikto: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3c]
+LOLAPOKER98: folds 
+em2699: raises $0.04 to $0.06
+Lorpugo: folds 
+maravilla804 is disconnected 
+vezelvu1: folds 
+vitalikto: raises $0.06 to $0.12
+em2699: calls $0.06
+*** FLOP *** [9s Ac 5s]
+vitalikto: checks 
+em2699: checks 
+*** TURN *** [9s Ac 5s] [8s]
+vitalikto: bets $0.12
+em2699: calls $0.12
+*** RIVER *** [9s Ac 5s 8s] [Ah]
+vitalikto: bets $0.24
+em2699: folds 
+Uncalled bet ($0.24) returned to vitalikto
+vitalikto collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [9s Ac 5s 8s Ah]
+Seat 1: em2699 folded on the River
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: vezelvu1 (small blind) folded before Flop
+Seat 5: vitalikto (big blind) collected ($0.47)
+Seat 6: LOLAPOKER98 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469140079:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:22:26 ET
+Table 'Theresia II' 6-max Seat #4 is the button
+Seat 1: em2699 ($2.37 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: vezelvu1 ($1.69 in chips) 
+Seat 5: vitalikto ($3.54 in chips) 
+Seat 6: LOLAPOKER98 ($5.11 in chips) 
+vitalikto: posts small blind $0.01
+LOLAPOKER98: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ah]
+em2699: folds 
+Lorpugo: raises $0.05 to $0.07
+vezelvu1: folds 
+vitalikto: folds 
+LOLAPOKER98: calls $0.05
+*** FLOP *** [Qh 8d 3s]
+LOLAPOKER98: checks 
+Lorpugo: bets $1.53 and is all-in
+LOLAPOKER98: folds 
+Uncalled bet ($1.53) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh 8d 3s]
+Seat 1: em2699 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.14)
+Seat 4: vezelvu1 (button) folded before Flop (didn't bet)
+Seat 5: vitalikto (small blind) folded before Flop
+Seat 6: LOLAPOKER98 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239469148175:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:22:47 ET
+Table 'Theresia II' 6-max Seat #5 is the button
+Seat 1: em2699 ($2.37 in chips) 
+Seat 2: Lorpugo ($1.67 in chips) 
+Seat 4: vezelvu1 ($1.69 in chips) 
+Seat 5: vitalikto ($3.53 in chips) 
+Seat 6: LOLAPOKER98 ($5.04 in chips) 
+LOLAPOKER98: posts small blind $0.01
+em2699: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Jd]
+Lorpugo: raises $0.05 to $0.07
+vezelvu1: raises $1.62 to $1.69 and is all-in
+vitalikto: folds 
+LOLAPOKER98: folds 
+em2699: folds 
+Lorpugo: folds 
+Uncalled bet ($1.62) returned to vezelvu1
+vezelvu1 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: em2699 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 4: vezelvu1 collected ($0.17)
+Seat 5: vitalikto (button) folded before Flop (didn't bet)
+Seat 6: LOLAPOKER98 (small blind) folded before Flop
+
+
+

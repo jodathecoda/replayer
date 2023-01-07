@@ -1,0 +1,559 @@
+﻿PokerStars Hand #240796512438:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:59:45 ET
+Table 'Lilofee II' 6-max Seat #6 is the button
+Seat 1: gucky1405 ($0.86 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: So sick dude ($2.50 in chips) 
+Seat 4: rsctl2009 ($1.65 in chips) 
+Seat 5: nikomanev ($2.45 in chips) 
+Seat 6: ge0m ($2.25 in chips) 
+gucky1405: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 9s]
+So sick dude: folds 
+rsctl2009: folds 
+nikomanev: calls $0.02
+ge0m: calls $0.02
+gucky1405: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [7c Td 5s]
+gucky1405: checks 
+Lorpugo: checks 
+nikomanev: checks 
+ge0m: bets $0.04
+gucky1405: folds 
+Lorpugo: calls $0.04
+nikomanev: folds 
+*** TURN *** [7c Td 5s] [4s]
+Lorpugo: checks 
+ge0m: bets $0.08
+Lorpugo: raises $0.20 to $0.28
+ge0m: calls $0.20
+*** RIVER *** [7c Td 5s 4s] [8c]
+Lorpugo: bets $1.26 and is all-in
+ge0m: folds 
+Uncalled bet ($1.26) returned to Lorpugo
+Lorpugo collected $0.69 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [7c Td 5s 4s 8c]
+Seat 1: gucky1405 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected ($0.69)
+Seat 3: So sick dude folded before Flop (didn't bet)
+Seat 4: rsctl2009 folded before Flop (didn't bet)
+Seat 5: nikomanev folded on the Flop
+Seat 6: ge0m (button) folded on the River
+
+
+
+PokerStars Hand #240796539834:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:01:28 ET
+Table 'Lilofee II' 6-max Seat #1 is the button
+Seat 1: gucky1405 ($0.84 in chips) 
+Seat 2: Lorpugo ($1.95 in chips) 
+Seat 3: So sick dude ($2.50 in chips) 
+Seat 4: rsctl2009 ($1.65 in chips) 
+Seat 5: nikomanev ($2.43 in chips) 
+Seat 6: ge0m ($1.91 in chips) 
+Lorpugo: posts small blind $0.01
+So sick dude: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2d]
+rsctl2009: calls $0.02
+nikomanev: folds 
+ge0m: folds 
+gucky1405: calls $0.02
+Lorpugo: calls $0.01
+So sick dude: checks 
+*** FLOP *** [Ac 3s 2c]
+Lorpugo: checks 
+So sick dude: bets $0.08
+rsctl2009: calls $0.08
+gucky1405: raises $0.08 to $0.16
+Lorpugo: folds 
+So sick dude: folds 
+rsctl2009: calls $0.08
+*** TURN *** [Ac 3s 2c] [3c]
+rsctl2009: checks 
+gucky1405: bets $0.20
+rsctl2009: calls $0.20
+*** RIVER *** [Ac 3s 2c 3c] [Tc]
+rsctl2009: checks 
+gucky1405: bets $0.10
+rsctl2009: calls $0.10
+*** SHOW DOWN ***
+gucky1405: shows [Ah Td] (two pair, Aces and Tens)
+rsctl2009: mucks hand 
+gucky1405 collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.08 | Rake $0.05 
+Board [Ac 3s 2c 3c Tc]
+Seat 1: gucky1405 (button) showed [Ah Td] and won ($1.03) with two pair, Aces and Tens
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: So sick dude (big blind) folded on the Flop
+Seat 4: rsctl2009 mucked [4s As]
+Seat 5: nikomanev folded before Flop (didn't bet)
+Seat 6: ge0m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240796556977:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:02:28 ET
+Table 'Lilofee II' 6-max Seat #2 is the button
+Seat 1: gucky1405 ($1.39 in chips) 
+Seat 2: Lorpugo ($1.93 in chips) 
+Seat 3: So sick dude ($2.40 in chips) 
+Seat 4: rsctl2009 ($1.17 in chips) 
+Seat 5: nikomanev ($2.43 in chips) 
+Seat 6: ge0m ($1.91 in chips) 
+So sick dude: posts small blind $0.01
+rsctl2009: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ad]
+nikomanev: folds 
+ge0m: calls $0.02
+gucky1405: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+So sick dude: calls $0.11
+rsctl2009: folds 
+ge0m: folds 
+gucky1405: calls $0.10
+*** FLOP *** [Jh 3s Ac]
+rsctl2009 leaves the table
+So sick dude: checks 
+gucky1405: checks 
+Lorpugo: bets $0.20
+SteveeeH joins the table at seat #4 
+So sick dude: folds 
+gucky1405: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.39 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Jh 3s Ac]
+Seat 1: gucky1405 folded on the Flop
+Seat 2: Lorpugo (button) collected ($0.39)
+Seat 3: So sick dude (small blind) folded on the Flop
+Seat 4: rsctl2009 (big blind) folded before Flop
+Seat 5: nikomanev folded before Flop (didn't bet)
+Seat 6: ge0m folded before Flop
+
+
+
+PokerStars Hand #240796572745:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:03:23 ET
+Table 'Lilofee II' 6-max Seat #3 is the button
+Seat 1: gucky1405 ($1.27 in chips) 
+Seat 2: Lorpugo ($2.20 in chips) 
+Seat 3: So sick dude ($2.28 in chips) 
+Seat 5: nikomanev ($2.43 in chips) 
+Seat 6: ge0m ($1.89 in chips) 
+nikomanev: posts small blind $0.01
+ge0m: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Kc]
+gucky1405: calls $0.02
+Lorpugo: calls $0.02
+So sick dude: folds 
+nikomanev: calls $0.01
+ge0m: raises $0.04 to $0.06
+gucky1405: calls $0.04
+Lorpugo: calls $0.04
+nikomanev: folds 
+*** FLOP *** [Ts 2d Qd]
+ge0m: bets $0.10
+gucky1405: calls $0.10
+Lorpugo: folds 
+*** TURN *** [Ts 2d Qd] [Ks]
+ge0m: bets $0.20
+gucky1405: calls $0.20
+*** RIVER *** [Ts 2d Qd Ks] [2c]
+ge0m: bets $0.10
+gucky1405: raises $0.30 to $0.40
+ge0m: calls $0.30
+*** SHOW DOWN ***
+gucky1405: shows [3d Jd] (a pair of Deuces)
+ge0m: shows [Td 7d] (two pair, Tens and Deuces)
+ge0m collected $1.54 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.06 
+Board [Ts 2d Qd Ks 2c]
+Seat 1: gucky1405 showed [3d Jd] and lost with a pair of Deuces
+Seat 2: Lorpugo folded on the Flop
+Seat 3: So sick dude (button) folded before Flop (didn't bet)
+Seat 5: nikomanev (small blind) folded before Flop
+Seat 6: ge0m (big blind) showed [Td 7d] and won ($1.54) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #240796590670:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:04:24 ET
+Table 'Lilofee II' 6-max Seat #5 is the button
+Seat 1: gucky1405 ($0.51 in chips) 
+Seat 2: Lorpugo ($2.14 in chips) 
+Seat 3: So sick dude ($2.28 in chips) 
+Seat 5: nikomanev ($2.41 in chips) 
+Seat 6: ge0m ($2.67 in chips) 
+ge0m: posts small blind $0.01
+gucky1405: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Jc]
+Lorpugo: folds 
+So sick dude: folds 
+nikomanev: folds 
+ge0m: raises $0.04 to $0.06
+gucky1405: calls $0.04
+*** FLOP *** [8h 3d Ah]
+ge0m: checks 
+gucky1405: bets $0.20
+ge0m: raises $0.52 to $0.72
+gucky1405: calls $0.25 and is all-in
+Uncalled bet ($0.27) returned to ge0m
+*** TURN *** [8h 3d Ah] [Kh]
+*** RIVER *** [8h 3d Ah Kh] [Kd]
+*** SHOW DOWN ***
+ge0m: shows [Ac 5c] (two pair, Aces and Kings)
+gucky1405: shows [Jd Td] (a pair of Kings)
+ge0m collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [8h 3d Ah Kh Kd]
+Seat 1: gucky1405 (big blind) showed [Jd Td] and lost with a pair of Kings
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: So sick dude folded before Flop (didn't bet)
+Seat 5: nikomanev (button) folded before Flop (didn't bet)
+Seat 6: ge0m (small blind) showed [Ac 5c] and won ($0.98) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #240796604055:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:05:08 ET
+Table 'Lilofee II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($2.14 in chips) 
+Seat 3: So sick dude ($2.28 in chips) 
+Seat 5: nikomanev ($2.41 in chips) 
+Seat 6: ge0m ($3.14 in chips) 
+Lorpugo: posts small blind $0.01
+So sick dude: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 3c]
+nikomanev: folds 
+ge0m: raises $0.05 to $0.07
+Lorpugo: folds 
+So sick dude: folds 
+Uncalled bet ($0.05) returned to ge0m
+ge0m collected $0.05 from pot
+ge0m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: So sick dude (big blind) folded before Flop
+Seat 5: nikomanev folded before Flop (didn't bet)
+Seat 6: ge0m (button) collected ($0.05)
+
+
+
+PokerStars Hand #240796609050:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:05:25 ET
+Table 'Lilofee II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 3: So sick dude ($2.26 in chips) 
+Seat 4: SteveeeH ($2 in chips) 
+Seat 5: nikomanev ($2.41 in chips) 
+Seat 6: ge0m ($3.17 in chips) 
+So sick dude: posts small blind $0.01
+SteveeeH: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 8s]
+nikomanev: folds 
+ge0m: raises $0.04 to $0.06
+Lorpugo: folds 
+So sick dude: folds 
+SteveeeH: calls $0.04
+*** FLOP *** [9s 9d 7c]
+SteveeeH: checks 
+ge0m: bets $0.08
+SteveeeH: folds 
+Uncalled bet ($0.08) returned to ge0m
+ge0m collected $0.13 from pot
+ge0m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9s 9d 7c]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: So sick dude (small blind) folded before Flop
+Seat 4: SteveeeH (big blind) folded on the Flop
+Seat 5: nikomanev folded before Flop (didn't bet)
+Seat 6: ge0m collected ($0.13)
+
+
+
+PokerStars Hand #240796617799:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:05:53 ET
+Table 'Lilofee II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 3: So sick dude ($2.25 in chips) 
+Seat 4: SteveeeH ($1.94 in chips) 
+Seat 5: nikomanev ($2.41 in chips) 
+Seat 6: ge0m ($3.24 in chips) 
+SteveeeH: posts small blind $0.01
+nikomanev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4d]
+ge0m: folds 
+Lorpugo: folds 
+So sick dude: folds 
+SteveeeH: folds 
+Uncalled bet ($0.01) returned to nikomanev
+nikomanev collected $0.02 from pot
+nikomanev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: So sick dude (button) folded before Flop (didn't bet)
+Seat 4: SteveeeH (small blind) folded before Flop
+Seat 5: nikomanev (big blind) collected ($0.02)
+Seat 6: ge0m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240796623637:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:06:12 ET
+Table 'Lilofee II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 3: So sick dude ($2.25 in chips) 
+Seat 4: SteveeeH ($1.93 in chips) 
+Seat 5: nikomanev ($2.42 in chips) 
+Seat 6: ge0m ($3.24 in chips) 
+nikomanev: posts small blind $0.01
+ge0m: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8c]
+Lorpugo: folds 
+So sick dude: folds 
+SteveeeH: folds 
+nikomanev: calls $0.01
+ge0m: checks 
+*** FLOP *** [Qc Ad 2h]
+nikomanev: bets $0.02
+ge0m: calls $0.02
+*** TURN *** [Qc Ad 2h] [8s]
+nikomanev: checks 
+ge0m: checks 
+*** RIVER *** [Qc Ad 2h 8s] [Td]
+nikomanev: bets $0.04
+ge0m: folds 
+Uncalled bet ($0.04) returned to nikomanev
+nikomanev collected $0.08 from pot
+nikomanev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qc Ad 2h 8s Td]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: So sick dude folded before Flop (didn't bet)
+Seat 4: SteveeeH (button) folded before Flop (didn't bet)
+Seat 5: nikomanev (small blind) collected ($0.08)
+Seat 6: ge0m (big blind) folded on the River
+
+
+
+PokerStars Hand #240796632005:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:06:39 ET
+Table 'Lilofee II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 3: So sick dude ($2.25 in chips) 
+Seat 4: SteveeeH ($1.93 in chips) 
+Seat 5: nikomanev ($2.46 in chips) 
+Seat 6: ge0m ($3.20 in chips) 
+ge0m: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 8h]
+So sick dude: raises $0.04 to $0.06
+SteveeeH: folds 
+nikomanev: folds 
+ge0m: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [2d Qh As]
+Lorpugo: checks 
+So sick dude: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to So sick dude
+So sick dude collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d Qh As]
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: So sick dude collected ($0.13)
+Seat 4: SteveeeH folded before Flop (didn't bet)
+Seat 5: nikomanev (button) folded before Flop (didn't bet)
+Seat 6: ge0m (small blind) folded before Flop
+
+
+
+PokerStars Hand #240796641961:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:07:11 ET
+Table 'Lilofee II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($2.07 in chips) 
+Seat 3: So sick dude ($2.32 in chips) 
+Seat 4: SteveeeH ($1.93 in chips) 
+Seat 5: nikomanev ($2.46 in chips) 
+Seat 6: ge0m ($3.19 in chips) 
+Lorpugo: posts small blind $0.01
+So sick dude: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9d]
+SteveeeH: folds 
+nikomanev: folds 
+ge0m: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+So sick dude: folds 
+ge0m: calls $0.14
+*** FLOP *** [2h Qc Ts]
+Lorpugo: checks 
+ge0m: bets $0.21
+Lorpugo: folds 
+Uncalled bet ($0.21) returned to ge0m
+ge0m collected $0.41 from pot
+ge0m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [2h Qc Ts]
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: So sick dude (big blind) folded before Flop
+Seat 4: SteveeeH folded before Flop (didn't bet)
+Seat 5: nikomanev folded before Flop (didn't bet)
+Seat 6: ge0m (button) collected ($0.41)
+
+
+
+PokerStars Hand #240796654799:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:07:52 ET
+Table 'Lilofee II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: So sick dude ($2.30 in chips) 
+Seat 4: SteveeeH ($1.93 in chips) 
+Seat 5: nikomanev ($2.46 in chips) 
+Seat 6: ge0m ($3.40 in chips) 
+So sick dude: posts small blind $0.01
+SteveeeH: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8d]
+nikomanev: folds 
+ge0m: raises $0.04 to $0.06
+Lorpugo: folds 
+So sick dude: folds 
+SteveeeH: folds 
+Uncalled bet ($0.04) returned to ge0m
+ge0m collected $0.05 from pot
+ge0m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: So sick dude (small blind) folded before Flop
+Seat 4: SteveeeH (big blind) folded before Flop
+Seat 5: nikomanev folded before Flop (didn't bet)
+Seat 6: ge0m collected ($0.05)
+
+
+
+PokerStars Hand #240796661400:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:08:13 ET
+Table 'Lilofee II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 3: So sick dude ($2.29 in chips) 
+Seat 4: SteveeeH ($1.91 in chips) 
+Seat 5: nikomanev ($2.46 in chips) 
+Seat 6: ge0m ($3.43 in chips) 
+SteveeeH: posts small blind $0.01
+nikomanev: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9d]
+ge0m: folds 
+Lorpugo: raises $0.04 to $0.06
+So sick dude: folds 
+SteveeeH: calls $0.05
+nikomanev: folds 
+*** FLOP *** [2c 4h 9c]
+SteveeeH: checks 
+Lorpugo: bets $0.09
+SteveeeH: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2c 4h 9c]
+Seat 2: Lorpugo collected ($0.14)
+Seat 3: So sick dude (button) folded before Flop (didn't bet)
+Seat 4: SteveeeH (small blind) folded on the Flop
+Seat 5: nikomanev (big blind) folded before Flop
+Seat 6: ge0m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240796677188:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:09:03 ET
+Table 'Lilofee II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.95 in chips) 
+Seat 3: So sick dude ($2.29 in chips) 
+Seat 4: SteveeeH ($1.85 in chips) 
+Seat 5: nikomanev ($2.44 in chips) 
+Seat 6: ge0m ($3.43 in chips) 
+nikomanev: posts small blind $0.01
+ge0m: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Jc]
+Lorpugo: folds 
+So sick dude: folds 
+SteveeeH: folds 
+nikomanev: calls $0.01
+ge0m: checks 
+*** FLOP *** [3c 4c 6c]
+nikomanev: checks 
+ge0m: checks 
+*** TURN *** [3c 4c 6c] [8h]
+nikomanev: checks 
+ge0m: bets $0.04
+nikomanev: folds 
+Uncalled bet ($0.04) returned to ge0m
+ge0m collected $0.04 from pot
+ge0m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3c 4c 6c 8h]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: So sick dude folded before Flop (didn't bet)
+Seat 4: SteveeeH (button) folded before Flop (didn't bet)
+Seat 5: nikomanev (small blind) folded on the Turn
+Seat 6: ge0m (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #240796688472:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:09:39 ET
+Table 'Lilofee II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.95 in chips) 
+Seat 3: So sick dude ($2.29 in chips) 
+Seat 4: SteveeeH ($1.85 in chips) 
+Seat 5: nikomanev ($2.42 in chips) 
+Seat 6: ge0m ($3.45 in chips) 
+ge0m: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ah]
+So sick dude: folds 
+SteveeeH: folds 
+nikomanev: calls $0.02
+ge0m: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+nikomanev: calls $0.08
+ge0m: folds 
+*** FLOP *** [6s 6c 2c]
+Lorpugo: bets $1.85 and is all-in
+nikomanev: calls $1.85
+*** TURN *** [6s 6c 2c] [7c]
+*** RIVER *** [6s 6c 2c 7c] [6h]
+*** SHOW DOWN ***
+Lorpugo: shows [Kh Ah] (three of a kind, Sixes)
+nikomanev: shows [4c 5c] (a flush, Seven high)
+nikomanev collected $3.78 from pot
+*** SUMMARY ***
+Total pot $3.92 | Rake $0.14 
+Board [6s 6c 2c 7c 6h]
+Seat 2: Lorpugo (big blind) showed [Kh Ah] and lost with three of a kind, Sixes
+Seat 3: So sick dude folded before Flop (didn't bet)
+Seat 4: SteveeeH folded before Flop (didn't bet)
+Seat 5: nikomanev (button) showed [4c 5c] and won ($3.78) with a flush, Seven high
+Seat 6: ge0m (small blind) folded before Flop
+
+
+

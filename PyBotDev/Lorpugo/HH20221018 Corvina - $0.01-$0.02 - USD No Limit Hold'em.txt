@@ -1,0 +1,638 @@
+﻿PokerStars Hand #239303035398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:45:34 ET
+Table 'Corvina' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: Neemos ($2.45 in chips) 
+Seat 3: nsc01 ($3.23 in chips) 
+Seat 4: fn1305 ($2.07 in chips) 
+Seat 6: livu asu ($1.35 in chips) 
+HuhnDesTeufels is disconnected 
+HuhnDesTeufels has timed out while disconnected
+HuhnDesTeufels: is sitting out 
+livu asu: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2s]
+Neemos: folds 
+nsc01: folds 
+fn1305: raises $0.03 to $0.05
+livu asu: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [Ad 2d Js]
+livu asu: checks 
+HuhnDesTeufels leaves the table
+fn1305: bets $0.04
+livu asu: folds 
+Uncalled bet ($0.04) returned to fn1305
+fn1305 collected $0.12 from pot
+fn1305: doesn't show hand 
+ConnorD97 joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ad 2d Js]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Neemos folded before Flop (didn't bet)
+Seat 3: nsc01 folded before Flop (didn't bet)
+Seat 4: fn1305 (button) collected ($0.12)
+Seat 6: livu asu (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239303042636:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:46:07 ET
+Table 'Corvina' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.58 in chips) 
+Seat 2: Neemos ($2.45 in chips) 
+Seat 3: nsc01 ($3.23 in chips) 
+Seat 4: fn1305 ($2.14 in chips) 
+Seat 6: livu asu ($1.30 in chips) 
+Lorpugo: posts small blind $0.01
+Neemos: posts big blind $0.02
+ConnorD97: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Td]
+nsc01: folds 
+fn1305: folds 
+livu asu: calls $0.02
+Lorpugo: calls $0.01
+Neemos: checks 
+*** FLOP *** [2s Th Ks]
+Lorpugo: checks 
+Neemos: bets $0.03
+livu asu: folds 
+Lorpugo: calls $0.03
+*** TURN *** [2s Th Ks] [9h]
+Lorpugo: checks 
+Neemos: bets $0.09
+Lorpugo: raises $0.19 to $0.28
+Neemos: calls $0.19
+*** RIVER *** [2s Th Ks 9h] [As]
+Lorpugo: checks 
+Neemos: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [9s Td] (two pair, Tens and Nines)
+Neemos: mucks hand 
+Lorpugo collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [2s Th Ks 9h As]
+Seat 1: Lorpugo (small blind) showed [9s Td] and won ($0.66) with two pair, Tens and Nines
+Seat 2: Neemos (big blind) mucked [6d Kc]
+Seat 3: nsc01 folded before Flop (didn't bet)
+Seat 4: fn1305 folded before Flop (didn't bet)
+Seat 6: livu asu (button) folded on the Flop
+
+
+
+PokerStars Hand #239303057127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:47:11 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Neemos ($2.12 in chips) 
+Seat 3: nsc01 ($3.23 in chips) 
+Seat 4: fn1305 ($2.14 in chips) 
+Seat 6: livu asu ($1.28 in chips) 
+Neemos: posts small blind $0.01
+nsc01: posts big blind $0.02
+ConnorD97: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4h]
+fn1305: folds 
+livu asu: calls $0.02
+Lorpugo: folds 
+Neemos: folds 
+nsc01: checks 
+*** FLOP *** [Qs 6d 2d]
+nsc01: checks 
+livu asu: checks 
+*** TURN *** [Qs 6d 2d] [Qc]
+nsc01: checks 
+livu asu: checks 
+*** RIVER *** [Qs 6d 2d Qc] [Jc]
+nsc01: checks 
+livu asu: bets $0.06
+nsc01: folds 
+Uncalled bet ($0.06) returned to livu asu
+livu asu collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs 6d 2d Qc Jc]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Neemos (small blind) folded before Flop
+Seat 3: nsc01 (big blind) folded on the River
+Seat 4: fn1305 folded before Flop (didn't bet)
+Seat 6: livu asu collected ($0.05)
+
+
+
+PokerStars Hand #239303065460:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:47:48 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Neemos ($2.11 in chips) 
+Seat 3: nsc01 ($3.21 in chips) 
+Seat 4: fn1305 ($2.14 in chips) 
+Seat 6: livu asu ($1.31 in chips) 
+nsc01: posts small blind $0.01
+fn1305: posts big blind $0.02
+ConnorD97: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Tc]
+livu asu: calls $0.02
+Lorpugo: folds 
+Neemos: folds 
+nsc01: raises $0.02 to $0.04
+fn1305: calls $0.02
+livu asu: calls $0.02
+*** FLOP *** [Qd 3h Jc]
+nsc01: checks 
+fn1305: checks 
+livu asu: checks 
+*** TURN *** [Qd 3h Jc] [2c]
+nsc01: bets $0.12
+fn1305: folds 
+livu asu: calls $0.12
+*** RIVER *** [Qd 3h Jc 2c] [7d]
+nsc01: checks 
+livu asu: checks 
+*** SHOW DOWN ***
+nsc01: shows [Ac 9c] (high card Ace)
+livu asu: shows [4d 2h] (a pair of Deuces)
+livu asu collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qd 3h Jc 2c 7d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Neemos (button) folded before Flop (didn't bet)
+Seat 3: nsc01 (small blind) showed [Ac 9c] and lost with high card Ace
+Seat 4: fn1305 (big blind) folded on the Turn
+Seat 6: livu asu showed [4d 2h] and won ($0.35) with a pair of Deuces
+
+
+
+PokerStars Hand #239303076043:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:48:35 ET
+Table 'Corvina' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Neemos ($2.11 in chips) 
+Seat 3: nsc01 ($3.05 in chips) 
+Seat 4: fn1305 ($2.10 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($1.50 in chips) 
+fn1305: posts small blind $0.01
+ConnorD97: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 6c]
+livu asu: calls $0.02
+Lorpugo: folds 
+Neemos: raises $0.06 to $0.08
+nsc01: calls $0.08
+fn1305: folds 
+ConnorD97: folds 
+livu asu: calls $0.06
+*** FLOP *** [8d Td 7h]
+livu asu: checks 
+Neemos: bets $0.20
+nsc01: calls $0.20
+livu asu: calls $0.20
+*** TURN *** [8d Td 7h] [Ac]
+livu asu: checks 
+Neemos: checks 
+nsc01: checks 
+*** RIVER *** [8d Td 7h Ac] [8c]
+livu asu: bets $0.20
+Neemos: calls $0.20
+nsc01: folds 
+*** SHOW DOWN ***
+livu asu: shows [Ah Jh] (two pair, Aces and Eights)
+Neemos: mucks hand 
+livu asu collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.05 
+Board [8d Td 7h Ac 8c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Neemos mucked [Ks Kh]
+Seat 3: nsc01 (button) folded on the River
+Seat 4: fn1305 (small blind) folded before Flop
+Seat 5: ConnorD97 (big blind) folded before Flop
+Seat 6: livu asu showed [Ah Jh] and won ($1.22) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #239303090757:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:49:40 ET
+Table 'Corvina' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Neemos ($2 in chips) 
+Seat 3: nsc01 ($2.77 in chips) 
+Seat 4: fn1305 ($2.09 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($2.24 in chips) 
+ConnorD97: posts small blind $0.01
+livu asu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7d]
+Lorpugo: folds 
+Neemos: folds 
+nsc01: raises $0.02 to $0.04
+fn1305: calls $0.04
+ConnorD97: folds 
+livu asu: calls $0.02
+*** FLOP *** [3c Ks 8s]
+livu asu: checks 
+nsc01: checks 
+fn1305: bets $0.04
+livu asu: calls $0.04
+nsc01: calls $0.04
+*** TURN *** [3c Ks 8s] [7h]
+livu asu: checks 
+nsc01: bets $0.12
+fn1305: calls $0.12
+livu asu: folds 
+*** RIVER *** [3c Ks 8s 7h] [Qc]
+nsc01: checks 
+fn1305: bets $0.23
+nsc01: folds 
+Uncalled bet ($0.23) returned to fn1305
+fn1305 collected $0.47 from pot
+fn1305: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [3c Ks 8s 7h Qc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: Neemos folded before Flop (didn't bet)
+Seat 3: nsc01 folded on the River
+Seat 4: fn1305 (button) collected ($0.47)
+Seat 5: ConnorD97 (small blind) folded before Flop
+Seat 6: livu asu (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239303102318:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:50:30 ET
+Table 'Corvina' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: Neemos ($2 in chips) 
+Seat 3: nsc01 ($2.57 in chips) 
+Seat 4: fn1305 ($2.36 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($2.16 in chips) 
+livu asu: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 9s]
+Neemos: folds 
+nsc01: folds 
+fn1305: folds 
+ConnorD97: folds 
+livu asu: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [Ts 6h Js]
+livu asu: checks 
+Lorpugo: checks 
+*** TURN *** [Ts 6h Js] [8h]
+livu asu: bets $0.06
+Lorpugo: calls $0.06
+*** RIVER *** [Ts 6h Js 8h] [2s]
+livu asu: bets $0.10
+Lorpugo: raises $0.28 to $0.38
+livu asu: calls $0.28
+*** SHOW DOWN ***
+Lorpugo: shows [Kc 9s] (high card King)
+livu asu: shows [Td 5h] (a pair of Tens)
+livu asu collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.04 
+Board [Ts 6h Js 8h 2s]
+Seat 1: Lorpugo (big blind) showed [Kc 9s] and lost with high card King
+Seat 2: Neemos folded before Flop (didn't bet)
+Seat 3: nsc01 folded before Flop (didn't bet)
+Seat 4: fn1305 folded before Flop (didn't bet)
+Seat 5: ConnorD97 (button) folded before Flop (didn't bet)
+Seat 6: livu asu (small blind) showed [Td 5h] and won ($0.92) with a pair of Tens
+
+
+
+PokerStars Hand #239303118008:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:51:39 ET
+Table 'Corvina' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.43 in chips) 
+Seat 2: Neemos ($2 in chips) 
+Seat 3: nsc01 ($2.57 in chips) 
+Seat 4: fn1305 ($2.36 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($2.60 in chips) 
+Lorpugo: posts small blind $0.01
+Neemos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3d]
+nsc01: folds 
+fn1305: raises $0.03 to $0.05
+ConnorD97: folds 
+livu asu: raises $0.03 to $0.08
+Lorpugo: folds 
+Neemos: folds 
+fn1305: calls $0.03
+*** FLOP *** [4h 8c 9s]
+fn1305: checks 
+livu asu: checks 
+*** TURN *** [4h 8c 9s] [7d]
+fn1305: checks 
+livu asu: checks 
+*** RIVER *** [4h 8c 9s 7d] [7h]
+fn1305: bets $0.12
+livu asu: calls $0.12
+*** SHOW DOWN ***
+fn1305: shows [8d Td] (two pair, Eights and Sevens)
+livu asu: mucks hand 
+fn1305 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [4h 8c 9s 7d 7h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Neemos (big blind) folded before Flop
+Seat 3: nsc01 folded before Flop (didn't bet)
+Seat 4: fn1305 showed [8d Td] and won ($0.41) with two pair, Eights and Sevens
+Seat 5: ConnorD97 folded before Flop (didn't bet)
+Seat 6: livu asu (button) mucked [Ks Jh]
+
+
+
+PokerStars Hand #239303126687:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:52:17 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.42 in chips) 
+Seat 2: Neemos ($2 in chips) 
+Seat 3: nsc01 ($2.57 in chips) 
+Seat 4: fn1305 ($2.57 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($2.40 in chips) 
+Neemos: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 4h]
+fn1305: raises $0.03 to $0.05
+ConnorD97: folds 
+livu asu: calls $0.05
+Lorpugo: folds 
+Neemos: folds 
+nsc01: calls $0.03
+*** FLOP *** [7c Qs 2s]
+nsc01: checks 
+fn1305: bets $0.04
+livu asu: calls $0.04
+Neemos leaves the table
+nsc01: folds 
+*** TURN *** [7c Qs 2s] [4s]
+fn1305: bets $0.06
+livu asu: calls $0.06
+*** RIVER *** [7c Qs 2s 4s] [3h]
+fn1305: checks 
+livu asu: checks 
+*** SHOW DOWN ***
+fn1305: shows [Qd Ts] (a pair of Queens)
+livu asu: mucks hand 
+fn1305 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [7c Qs 2s 4s 3h]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Neemos (small blind) folded before Flop
+Seat 3: nsc01 (big blind) folded on the Flop
+Seat 4: fn1305 showed [Qd Ts] and won ($0.35) with a pair of Queens
+Seat 5: ConnorD97 folded before Flop (didn't bet)
+Seat 6: livu asu mucked [Ac 3d]
+
+
+
+PokerStars Hand #239303136664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:53:00 ET
+Table 'Corvina' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 3: nsc01 ($2.52 in chips) 
+Seat 4: fn1305 ($2.77 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($2.25 in chips) 
+fn1305: posts small blind $0.01
+ConnorD97: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ks]
+cherry620 joins the table at seat #2 
+livu asu: calls $0.02
+Lorpugo: folds 
+nsc01: folds 
+fn1305: calls $0.01
+ConnorD97: checks 
+*** FLOP *** [4h 2c 2d]
+fn1305: checks 
+ConnorD97: checks 
+livu asu: checks 
+*** TURN *** [4h 2c 2d] [5h]
+fn1305: checks 
+ConnorD97: checks 
+livu asu: checks 
+*** RIVER *** [4h 2c 2d 5h] [7s]
+fn1305: checks 
+ConnorD97: checks 
+livu asu: bets $0.06
+fn1305: folds 
+ConnorD97: folds 
+Uncalled bet ($0.06) returned to livu asu
+livu asu collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4h 2c 2d 5h 7s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: nsc01 (button) folded before Flop (didn't bet)
+Seat 4: fn1305 (small blind) folded on the River
+Seat 5: ConnorD97 (big blind) folded on the River
+Seat 6: livu asu collected ($0.06)
+
+
+
+PokerStars Hand #239303147551:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:53:48 ET
+Table 'Corvina' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 3: nsc01 ($2.52 in chips) 
+Seat 4: fn1305 ($2.75 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($2.29 in chips) 
+ConnorD97: posts small blind $0.01
+livu asu: posts big blind $0.02
+cherry620: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jd]
+Lorpugo: raises $0.04 to $0.06
+nsc01: folds 
+fn1305: folds 
+ConnorD97: folds 
+livu asu: raises $0.04 to $0.10
+Lorpugo: calls $0.04
+*** FLOP *** [Jc Kc 3c]
+livu asu: checks 
+Lorpugo: checks 
+*** TURN *** [Jc Kc 3c] [4h]
+livu asu: bets $0.08
+Lorpugo: calls $0.08
+*** RIVER *** [Jc Kc 3c 4h] [3d]
+livu asu: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+livu asu: shows [8s Ts] (a pair of Threes)
+Lorpugo: shows [Qd Jd] (two pair, Jacks and Threes)
+Lorpugo collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jc Kc 3c 4h 3d]
+Seat 1: Lorpugo showed [Qd Jd] and won ($0.36) with two pair, Jacks and Threes
+Seat 3: nsc01 folded before Flop (didn't bet)
+Seat 4: fn1305 (button) folded before Flop (didn't bet)
+Seat 5: ConnorD97 (small blind) folded before Flop
+Seat 6: livu asu (big blind) showed [8s Ts] and lost with a pair of Threes
+
+
+
+PokerStars Hand #239303160630:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:54:45 ET
+Table 'Corvina' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 3: nsc01 ($2.52 in chips) 
+Seat 4: fn1305 ($2.75 in chips) 
+Seat 5: ConnorD97 ($2 in chips) 
+Seat 6: livu asu ($2.11 in chips) 
+livu asu: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+cherry620: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5c]
+nsc01: raises $0.02 to $0.04
+fn1305: folds 
+ConnorD97: raises $0.12 to $0.16
+livu asu: folds 
+Lorpugo: folds 
+nsc01: calls $0.12
+*** FLOP *** [Tc 7c 6c]
+livu asu leaves the table
+nsc01: checks 
+ConnorD97: checks 
+*** TURN *** [Tc 7c 6c] [3h]
+nsc01: bets $0.34
+Andry00701 joins the table at seat #6 
+ConnorD97: calls $0.34
+*** RIVER *** [Tc 7c 6c 3h] [2s]
+nsc01: bets $2.02 and is all-in
+ConnorD97: calls $1.50 and is all-in
+Uncalled bet ($0.52) returned to nsc01
+*** SHOW DOWN ***
+nsc01: shows [Ts As] (a pair of Tens)
+ConnorD97: shows [9c Ac] (a flush, Ace high)
+ConnorD97 collected $3.89 from pot
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.14 
+Board [Tc 7c 6c 3h 2s]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: nsc01 showed [Ts As] and lost with a pair of Tens
+Seat 4: fn1305 folded before Flop (didn't bet)
+Seat 5: ConnorD97 (button) showed [9c Ac] and won ($3.89) with a flush, Ace high
+Seat 6: livu asu (small blind) folded before Flop
+
+
+
+PokerStars Hand #239303169753:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:55:27 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.76 in chips) 
+Seat 3: nsc01 ($2 in chips) 
+Seat 4: fn1305 ($2.75 in chips) 
+Seat 5: ConnorD97 ($3.89 in chips) 
+Seat 6: Andry00701 ($2 in chips) 
+nsc01: posts small blind $0.01
+fn1305: posts big blind $0.02
+Andry00701: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ad]
+ConnorD97: folds 
+Andry00701: checks 
+Lorpugo: raises $0.07 to $0.09
+nsc01: folds 
+fn1305: calls $0.07
+Andry00701: folds 
+*** FLOP *** [7s Qh 5d]
+fn1305: checks 
+Lorpugo: bets $0.07
+fn1305: calls $0.07
+*** TURN *** [7s Qh 5d] [4h]
+fn1305: checks 
+Lorpugo: checks 
+*** RIVER *** [7s Qh 5d 4h] [Ah]
+fn1305: checks 
+Lorpugo: bets $0.50
+fn1305: raises $0.67 to $1.17
+Lorpugo: calls $0.67
+*** SHOW DOWN ***
+fn1305: shows [6h Th] (a flush, Ace high)
+Lorpugo: mucks hand 
+fn1305 collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.11 
+Board [7s Qh 5d 4h Ah]
+Seat 1: Lorpugo (button) mucked [Js Ad]
+Seat 3: nsc01 (small blind) folded before Flop
+Seat 4: fn1305 (big blind) showed [6h Th] and won ($2.58) with a flush, Ace high
+Seat 5: ConnorD97 folded before Flop (didn't bet)
+Seat 6: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303179440:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:56:17 ET
+Table 'Corvina' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 3: nsc01 ($2 in chips) 
+Seat 4: fn1305 ($4 in chips) 
+Seat 5: ConnorD97 ($3.89 in chips) 
+Seat 6: Andry00701 ($1.98 in chips) 
+fn1305: posts small blind $0.01
+ConnorD97: posts big blind $0.02
+cherry620: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qc]
+Andry00701: folds 
+Lorpugo: folds 
+nsc01: folds 
+fn1305: folds 
+Uncalled bet ($0.01) returned to ConnorD97
+ConnorD97 collected $0.02 from pot
+ConnorD97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: nsc01 (button) folded before Flop (didn't bet)
+Seat 4: fn1305 (small blind) folded before Flop
+Seat 5: ConnorD97 (big blind) collected ($0.02)
+Seat 6: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239303181627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:56:28 ET
+Table 'Corvina' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 3: nsc01 ($2 in chips) 
+Seat 4: fn1305 ($3.99 in chips) 
+Seat 5: ConnorD97 ($3.90 in chips) 
+Seat 6: Andry00701 ($1.98 in chips) 
+ConnorD97: posts small blind $0.01
+Andry00701: posts big blind $0.02
+cherry620: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Jc]
+Lorpugo: raises $0.04 to $0.06
+nsc01: folds 
+fn1305: folds 
+ConnorD97: calls $0.05
+Andry00701: folds 
+*** FLOP *** [7c 7h 2d]
+ConnorD97: checks 
+Lorpugo: bets $0.09
+ConnorD97: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c 7h 2d]
+Seat 1: Lorpugo collected ($0.14)
+Seat 3: nsc01 folded before Flop (didn't bet)
+Seat 4: fn1305 (button) folded before Flop (didn't bet)
+Seat 5: ConnorD97 (small blind) folded on the Flop
+Seat 6: Andry00701 (big blind) folded before Flop
+
+
+

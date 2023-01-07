@@ -1,0 +1,5360 @@
+﻿PokerStars Hand #240687860250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:38:14 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($2.31 in chips) 
+Seat 5: S3Bucket ($2.61 in chips) 
+Seat 6: Cbantactics ($1.58 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ac]
+VillDimo: folds 
+carbonatx: folds 
+S3Bucket: raises $0.03 to $0.05
+Cbantactics: folds 
+STiffani: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Jd Kc 5d]
+Lorpugo: checks 
+S3Bucket: checks 
+*** TURN *** [Jd Kc 5d] [2c]
+Lorpugo: checks 
+S3Bucket: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to S3Bucket
+S3Bucket collected $0.11 from pot
+S3Bucket: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Jd Kc 5d 2c]
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: S3Bucket collected ($0.11)
+Seat 6: Cbantactics (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240687878538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:38:55 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.55 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($2.31 in chips) 
+Seat 5: S3Bucket ($2.67 in chips) 
+Seat 6: Cbantactics ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 2s]
+carbonatx: folds 
+S3Bucket: raises $0.03 to $0.05
+Cbantactics: calls $0.05
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+*** FLOP *** [Qc Jd 5d]
+S3Bucket: bets $0.03
+Cbantactics: calls $0.03
+*** TURN *** [Qc Jd 5d] [9h]
+S3Bucket: bets $0.05
+Cbantactics: calls $0.05
+*** RIVER *** [Qc Jd 5d 9h] [4h]
+S3Bucket: checks 
+Cbantactics: bets $0.14
+S3Bucket: folds 
+Uncalled bet ($0.14) returned to Cbantactics
+Cbantactics collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qc Jd 5d 9h 4h]
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: VillDimo (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: S3Bucket folded on the River
+Seat 6: Cbantactics collected ($0.28)
+
+
+
+PokerStars Hand #240687898657:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:39:40 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.93 in chips) 
+Seat 4: carbonatx ($2.31 in chips) 
+Seat 5: S3Bucket ($2.54 in chips) 
+Seat 6: Cbantactics ($1.73 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 9c]
+S3Bucket: raises $0.02 to $0.04
+Cbantactics: calls $0.04
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+*** FLOP *** [3c 3h 2c]
+S3Bucket: checks 
+Cbantactics: checks 
+*** TURN *** [3c 3h 2c] [8d]
+S3Bucket: checks 
+Cbantactics: checks 
+*** RIVER *** [3c 3h 2c 8d] [7s]
+S3Bucket: checks 
+Cbantactics: bets $0.11
+S3Bucket: calls $0.11
+*** SHOW DOWN ***
+Cbantactics: shows [7d Qd] (two pair, Sevens and Threes)
+S3Bucket: mucks hand 
+Cbantactics collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [3c 3h 2c 8d 7s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: VillDimo (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: S3Bucket mucked [Ad Kh]
+Seat 6: Cbantactics showed [7d Qd] and won ($0.32) with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #240687912931:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:40:12 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($2.29 in chips) 
+Seat 5: S3Bucket ($2.39 in chips) 
+Seat 6: Cbantactics ($1.90 in chips) 
+carbonatx: posts small blind $0.01
+S3Bucket: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Td]
+Cbantactics: raises $0.02 to $0.04
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: raises $0.16 to $0.20
+S3Bucket: folds 
+Cbantactics: folds 
+Uncalled bet ($0.16) returned to carbonatx
+carbonatx collected $0.10 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) collected ($0.10)
+Seat 5: S3Bucket (big blind) folded before Flop
+Seat 6: Cbantactics folded before Flop
+
+
+
+PokerStars Hand #240687922747:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:40:35 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($2.35 in chips) 
+Seat 5: S3Bucket ($2.37 in chips) 
+Seat 6: Cbantactics ($1.86 in chips) 
+S3Bucket: posts small blind $0.01
+Cbantactics: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 7d]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+S3Bucket: raises $0.04 to $0.06
+Cbantactics: calls $0.04
+*** FLOP *** [Ad 8c Tc]
+S3Bucket: checks 
+Cbantactics: checks 
+*** TURN *** [Ad 8c Tc] [As]
+S3Bucket: checks 
+Cbantactics: bets $0.06
+S3Bucket: calls $0.06
+*** RIVER *** [Ad 8c Tc As] [Qh]
+S3Bucket: checks 
+Cbantactics: bets $0.12
+S3Bucket: raises $0.52 to $0.64
+Cbantactics: folds 
+Uncalled bet ($0.52) returned to S3Bucket
+S3Bucket collected $0.46 from pot
+S3Bucket: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Ad 8c Tc As Qh]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: S3Bucket (small blind) collected ($0.46)
+Seat 6: Cbantactics (big blind) folded on the River
+
+
+
+PokerStars Hand #240687944853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:41:25 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($2.35 in chips) 
+Seat 5: S3Bucket ($2.59 in chips) 
+Seat 6: Cbantactics ($1.62 in chips) 
+Cbantactics: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 9d]
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: raises $0.04 to $0.06
+S3Bucket: raises $0.12 to $0.18
+Cbantactics: calls $0.17
+STiffani: folds 
+carbonatx: calls $0.12
+*** FLOP *** [Qh Jc Ad]
+Cbantactics: checks 
+carbonatx: checks 
+S3Bucket: bets $0.18
+Cbantactics: raises $0.18 to $0.36
+carbonatx: folds 
+S3Bucket: calls $0.18
+*** TURN *** [Qh Jc Ad] [8c]
+Cbantactics: bets $0.62
+S3Bucket: raises $1.43 to $2.05 and is all-in
+Cbantactics: calls $0.46 and is all-in
+Uncalled bet ($0.97) returned to S3Bucket
+*** RIVER *** [Qh Jc Ad 8c] [4d]
+*** SHOW DOWN ***
+Cbantactics: shows [Qc Qd] (three of a kind, Queens)
+S3Bucket: shows [Ac Kd] (a pair of Aces)
+Cbantactics collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.44 | Rake $0.12 
+Board [Qh Jc Ad 8c 4d]
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded on the Flop
+Seat 5: S3Bucket (button) showed [Ac Kd] and lost with a pair of Aces
+Seat 6: Cbantactics (small blind) showed [Qc Qd] and won ($3.32) with three of a kind, Queens
+
+
+
+PokerStars Hand #240687974412:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:42:31 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 5: S3Bucket ($0.97 in chips) 
+Seat 6: Cbantactics ($3.32 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ts]
+VillDimo: folds 
+carbonatx: folds 
+S3Bucket: folds 
+S3Bucket leaves the table
+Cbantactics: raises $0.02 to $0.04
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Cbantactics
+Cbantactics collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: S3Bucket folded before Flop (didn't bet)
+Seat 6: Cbantactics (button) collected ($0.05)
+
+
+
+PokerStars Hand #240687981194:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:42:47 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.52 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 6: Cbantactics ($3.35 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 9d]
+carbonatx: folds 
+Cbantactics: folds 
+STiffani: folds 
+Coutinho5299 joins the table at seat #5 
+Lorpugo: raises $0.04 to $0.06
+VillDimo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: VillDimo (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 6: Cbantactics folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240687990797:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:43:08 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.90 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 6: Cbantactics ($3.35 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2s]
+Cbantactics: folds 
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: raises $0.04 to $0.06
+carbonatx: folds 
+Uncalled bet ($0.04) returned to VillDimo
+VillDimo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: VillDimo (small blind) collected ($0.04)
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 6: Cbantactics folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240687998268:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:43:25 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($2.15 in chips) 
+Seat 5: Coutinho5299 ($1.60 in chips) 
+Seat 6: Cbantactics ($3.35 in chips) 
+carbonatx: posts small blind $0.01
+Coutinho5299: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ts]
+Cbantactics: raises $0.02 to $0.04
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Coutinho5299: calls $0.02
+*** FLOP *** [2c 5h 7c]
+Coutinho5299: checks 
+Cbantactics: bets $0.05
+Coutinho5299: calls $0.05
+*** TURN *** [2c 5h 7c] [Kh]
+Coutinho5299: checks 
+Cbantactics: bets $0.09
+Coutinho5299: calls $0.09
+*** RIVER *** [2c 5h 7c Kh] [3s]
+Coutinho5299: bets $0.26
+Cbantactics: folds 
+Uncalled bet ($0.26) returned to Coutinho5299
+Coutinho5299 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2c 5h 7c Kh 3s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Coutinho5299 (big blind) collected ($0.36)
+Seat 6: Cbantactics folded on the River
+
+
+
+PokerStars Hand #240688024292:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:44:24 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($2.14 in chips) 
+Seat 5: Coutinho5299 ($1.78 in chips) 
+Seat 6: Cbantactics ($3.17 in chips) 
+Coutinho5299: posts small blind $0.01
+Cbantactics: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5c]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: raises $0.03 to $0.05
+Coutinho5299: calls $0.04
+Cbantactics: calls $0.03
+*** FLOP *** [8s 7s 2s]
+Coutinho5299: checks 
+Cbantactics: bets $0.07
+carbonatx: calls $0.07
+Coutinho5299: calls $0.07
+*** TURN *** [8s 7s 2s] [9c]
+Coutinho5299: checks 
+Cbantactics: checks 
+carbonatx: bets $0.19
+Coutinho5299: folds 
+Cbantactics: calls $0.19
+*** RIVER *** [8s 7s 2s 9c] [3s]
+Cbantactics: bets $0.36
+carbonatx: raises $0.60 to $0.96
+Cbantactics: calls $0.60
+*** SHOW DOWN ***
+carbonatx: shows [4s As] (a flush, Ace high)
+Cbantactics: mucks hand 
+carbonatx collected $2.55 from pot
+*** SUMMARY ***
+Total pot $2.66 | Rake $0.11 
+Board [8s 7s 2s 9c 3s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) showed [4s As] and won ($2.55) with a flush, Ace high
+Seat 5: Coutinho5299 (small blind) folded on the Turn
+Seat 6: Cbantactics (big blind) mucked [Qs Ah]
+
+
+
+PokerStars Hand #240688067243:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:46:02 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($2 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($3.42 in chips) 
+Seat 5: Coutinho5299 ($1.66 in chips) 
+Seat 6: Cbantactics ($1.90 in chips) 
+Cbantactics: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ts]
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Coutinho5299: folds 
+Cbantactics: raises $0.02 to $0.04
+STiffani: raises $0.12 to $0.16
+Cbantactics: calls $0.12
+*** FLOP *** [Td 9d 3d]
+Cbantactics: checks 
+STiffani: bets $0.11
+Cbantactics: raises $0.53 to $0.64
+STiffani: calls $0.53
+*** TURN *** [Td 9d 3d] [8d]
+Cbantactics: checks 
+STiffani: bets $0.18
+Cbantactics: raises $0.92 to $1.10 and is all-in
+STiffani: calls $0.92
+*** RIVER *** [Td 9d 3d 8d] [Jh]
+*** SHOW DOWN ***
+Cbantactics: shows [Js Ac] (a pair of Jacks)
+STiffani: shows [Qd Ad] (a flush, Ace high)
+STiffani collected $3.67 from pot
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.13 
+Board [Td 9d 3d 8d Jh]
+Seat 1: STiffani (big blind) showed [Qd Ad] and won ($3.67) with a flush, Ace high
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Coutinho5299 (button) folded before Flop (didn't bet)
+Seat 6: Cbantactics (small blind) showed [Js Ac] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #240688098938:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:47:14 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.77 in chips) 
+Seat 2: Lorpugo ($1.54 in chips) 
+Seat 3: VillDimo ($2.92 in chips) 
+Seat 4: carbonatx ($3.42 in chips) 
+Seat 5: Coutinho5299 ($1.66 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Kd]
+carbonatx: raises $0.04 to $0.06
+Coutinho5299: folds 
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+Uncalled bet ($0.04) returned to carbonatx
+carbonatx collected $0.05 from pot
+Cbantactics is disconnected 
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: VillDimo (big blind) folded before Flop
+Seat 4: carbonatx collected ($0.05)
+Seat 5: Coutinho5299 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688103502:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:47:24 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.77 in chips) 
+Seat 2: Lorpugo ($1.53 in chips) 
+Seat 3: VillDimo ($2.90 in chips) 
+Seat 4: carbonatx ($3.45 in chips) 
+Seat 5: Coutinho5299 ($1.66 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2d]
+Coutinho5299: folds 
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: raises $0.04 to $0.06
+carbonatx: calls $0.04
+*** FLOP *** [5d 8h Jc]
+VillDimo: bets $0.06
+carbonatx: calls $0.06
+*** TURN *** [5d 8h Jc] [Tc]
+VillDimo: bets $0.16
+carbonatx: folds 
+Uncalled bet ($0.16) returned to VillDimo
+VillDimo collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5d 8h Jc Tc]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: VillDimo (small blind) collected ($0.23)
+Seat 4: carbonatx (big blind) folded on the Turn
+Seat 5: Coutinho5299 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688126374:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:48:15 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.77 in chips) 
+Seat 2: Lorpugo ($1.53 in chips) 
+Seat 3: VillDimo ($3.01 in chips) 
+Seat 4: carbonatx ($3.33 in chips) 
+Seat 5: Coutinho5299 ($1.66 in chips) 
+carbonatx: posts small blind $0.01
+Coutinho5299: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Jh]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: raises $0.04 to $0.06
+carbonatx: folds 
+Coutinho5299: calls $0.04
+*** FLOP *** [8h Qc 4h]
+Coutinho5299: checks 
+VillDimo: checks 
+*** TURN *** [8h Qc 4h] [8s]
+Coutinho5299: bets $0.10
+VillDimo: folds 
+Uncalled bet ($0.10) returned to Coutinho5299
+Coutinho5299 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8h Qc 4h 8s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo (button) folded on the Turn
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Coutinho5299 (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #240688149793:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:49:07 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.77 in chips) 
+Seat 2: Lorpugo ($1.53 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.32 in chips) 
+Seat 5: Coutinho5299 ($1.73 in chips) 
+Coutinho5299: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Jd]
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Coutinho5299: calls $0.01
+STiffani: checks 
+*** FLOP *** [Qh 6c Ts]
+Coutinho5299: bets $0.06
+STiffani: calls $0.06
+*** TURN *** [Qh 6c Ts] [6d]
+Coutinho5299: checks 
+STiffani: checks 
+*** RIVER *** [Qh 6c Ts 6d] [5h]
+Coutinho5299: checks 
+STiffani: checks 
+*** SHOW DOWN ***
+Coutinho5299: shows [Jc 7h] (a pair of Sixes)
+STiffani: shows [9d Jh] (a pair of Sixes)
+Coutinho5299 collected $0.08 from pot
+STiffani collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Qh 6c Ts 6d 5h]
+Seat 1: STiffani (big blind) showed [9d Jh] and won ($0.07) with a pair of Sixes
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Coutinho5299 (small blind) showed [Jc 7h] and won ($0.08) with a pair of Sixes
+
+
+
+PokerStars Hand #240688169401:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:49:52 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($3.76 in chips) 
+Seat 2: Lorpugo ($1.53 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.32 in chips) 
+Seat 5: Coutinho5299 ($1.73 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5d]
+VillDimo: folds 
+carbonatx: raises $0.06 to $0.08
+Coutinho5299: folds 
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to carbonatx
+carbonatx collected $0.05 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx collected ($0.05)
+Seat 5: Coutinho5299 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688176131:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:50:07 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.75 in chips) 
+Seat 2: Lorpugo ($1.51 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.35 in chips) 
+Seat 5: Coutinho5299 ($1.73 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7h]
+carbonatx: folds 
+Coutinho5299: folds 
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to VillDimo
+VillDimo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: VillDimo (big blind) collected ($0.02)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Coutinho5299 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688180260:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:50:16 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.75 in chips) 
+Seat 2: Lorpugo ($1.50 in chips) 
+Seat 3: VillDimo ($2.96 in chips) 
+Seat 4: carbonatx ($3.35 in chips) 
+Seat 5: Coutinho5299 ($1.73 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ad]
+Coutinho5299: calls $0.02
+STiffani: folds 
+Lorpugo: raises $0.08 to $0.10
+VillDimo: folds 
+carbonatx: folds 
+Coutinho5299: calls $0.08
+*** FLOP *** [5d As 7s]
+Coutinho5299: bets $0.16
+Lorpugo: calls $0.16
+*** TURN *** [5d As 7s] [3c]
+Coutinho5299: bets $0.40
+Lorpugo: raises $0.84 to $1.24 and is all-in
+Coutinho5299: calls $0.84
+*** RIVER *** [5d As 7s 3c] [9s]
+*** SHOW DOWN ***
+Coutinho5299: shows [Jc Js] (a pair of Jacks)
+Lorpugo: shows [3d Ad] (two pair, Aces and Threes)
+Lorpugo collected $2.92 from pot
+*** SUMMARY ***
+Total pot $3.03 | Rake $0.11 
+Board [5d As 7s 3c 9s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [3d Ad] and won ($2.92) with two pair, Aces and Threes
+Seat 3: VillDimo (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Coutinho5299 showed [Jc Js] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #240688212356:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:51:29 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.75 in chips) 
+Seat 2: Lorpugo ($2.92 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.33 in chips) 
+Seat 5: Coutinho5299 ($0.23 in chips) 
+carbonatx: posts small blind $0.01
+Coutinho5299: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 6h]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Uncalled bet ($0.01) returned to Coutinho5299
+Coutinho5299 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Coutinho5299 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240688217105:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:51:39 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.75 in chips) 
+Seat 2: Lorpugo ($2.92 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.32 in chips) 
+Coutinho5299 is disconnected 
+Coutinho5299 has timed out while disconnected
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7c]
+VillDimo: folds 
+carbonatx: folds 
+STiffani: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688224640:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:51:56 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.74 in chips) 
+Seat 2: Lorpugo ($2.93 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.32 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 2h]
+carbonatx: folds 
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to VillDimo
+VillDimo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: VillDimo (big blind) collected ($0.02)
+Seat 4: carbonatx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688229478:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:52:07 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.74 in chips) 
+Seat 2: Lorpugo ($2.92 in chips) 
+Seat 3: VillDimo ($2.96 in chips) 
+Seat 4: carbonatx ($3.32 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4d]
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+VillDimo: folds 
+carbonatx: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: VillDimo (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+
+
+
+PokerStars Hand #240688233984:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:52:17 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.74 in chips) 
+Seat 2: Lorpugo ($2.95 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.30 in chips) 
+carbonatx: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 7d]
+Lorpugo: raises $0.04 to $0.06
+VillDimo: folds 
+carbonatx: folds 
+STiffani: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: VillDimo (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688239968:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:52:31 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.72 in chips) 
+Seat 2: Lorpugo ($2.98 in chips) 
+Seat 3: VillDimo ($2.95 in chips) 
+Seat 4: carbonatx ($3.29 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 5s]
+VillDimo: raises $0.04 to $0.06
+carbonatx: folds 
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to VillDimo
+VillDimo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: VillDimo collected ($0.05)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688249853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:52:54 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.71 in chips) 
+Seat 2: Lorpugo ($2.96 in chips) 
+Seat 3: VillDimo ($2.98 in chips) 
+Seat 4: carbonatx ($3.29 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Tc]
+carbonatx: folds 
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to VillDimo
+VillDimo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: VillDimo (big blind) collected ($0.02)
+Seat 4: carbonatx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688253296:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:53:01 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.71 in chips) 
+Seat 2: Lorpugo ($2.95 in chips) 
+Seat 3: VillDimo ($2.99 in chips) 
+Seat 4: carbonatx ($3.29 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 6d]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+Uncalled bet ($0.01) returned to carbonatx
+carbonatx collected $0.02 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: VillDimo (small blind) folded before Flop
+Seat 4: carbonatx (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240688256694:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:53:09 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.71 in chips) 
+Seat 2: Lorpugo ($2.95 in chips) 
+Seat 3: VillDimo ($2.98 in chips) 
+Seat 4: carbonatx ($3.30 in chips) 
+carbonatx: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Ac]
+Lorpugo: raises $0.04 to $0.06
+VillDimo: calls $0.06
+carbonatx: folds 
+STiffani: folds 
+*** FLOP *** [Kh 3s 5h]
+Lorpugo: bets $0.05
+VillDimo: calls $0.05
+*** TURN *** [Kh 3s 5h] [3d]
+Lorpugo: bets $0.08
+VillDimo: calls $0.08
+*** RIVER *** [Kh 3s 5h 3d] [5c]
+Lorpugo: checks 
+VillDimo: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qh Ac] (two pair, Fives and Threes)
+VillDimo: shows [9s 9h] (two pair, Nines and Fives)
+VillDimo collected $0.40 from pot
+Coutinho5299 leaves the table
+Cbantactics leaves the table
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Kh 3s 5h 3d 5c]
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo showed [Qh Ac] and lost with two pair, Fives and Threes
+Seat 3: VillDimo (button) showed [9s 9h] and won ($0.40) with two pair, Nines and Fives
+Seat 4: carbonatx (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688285211:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:54:14 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.69 in chips) 
+Seat 2: Lorpugo ($2.76 in chips) 
+Seat 3: VillDimo ($3.19 in chips) 
+Seat 4: carbonatx ($3.29 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5s]
+VillDimo: folds 
+carbonatx: folds 
+STiffani: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688289698:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:54:24 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.68 in chips) 
+Seat 2: Lorpugo ($2.77 in chips) 
+Seat 3: VillDimo ($3.19 in chips) 
+Seat 4: carbonatx ($3.29 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 6c]
+carbonatx: raises $0.04 to $0.06
+STiffani: folds 
+Lorpugo: calls $0.05
+VillDimo: calls $0.04
+*** FLOP *** [5h Ad 3s]
+Pejep joins the table at seat #5 
+Lorpugo: checks 
+d1ablo84 joins the table at seat #6 
+VillDimo: checks 
+carbonatx: bets $0.06
+Lorpugo: calls $0.06
+VillDimo: folds 
+*** TURN *** [5h Ad 3s] [2h]
+Lorpugo: checks 
+carbonatx: checks 
+*** RIVER *** [5h Ad 3s 2h] [8s]
+Lorpugo: bets $0.02
+carbonatx: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [6d 6c] (a pair of Sixes)
+carbonatx: shows [Ts Tc] (a pair of Tens)
+carbonatx collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [5h Ad 3s 2h 8s]
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) showed [6d 6c] and lost with a pair of Sixes
+Seat 3: VillDimo (big blind) folded on the Flop
+Seat 4: carbonatx showed [Ts Tc] and won ($0.33) with a pair of Tens
+
+
+
+PokerStars Hand #240688310423:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:55:16 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.68 in chips) 
+Seat 2: Lorpugo ($2.63 in chips) 
+Seat 3: VillDimo ($3.13 in chips) 
+Seat 4: carbonatx ($3.48 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 3s]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+Uncalled bet ($0.01) returned to carbonatx
+carbonatx collected $0.02 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: VillDimo (small blind) folded before Flop
+Seat 4: carbonatx (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240688312354:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:55:24 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.68 in chips) 
+Seat 2: Lorpugo ($2.63 in chips) 
+Seat 3: VillDimo ($3.12 in chips) 
+Seat 4: carbonatx ($3.49 in chips) 
+Seat 5: Pejep ($2 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 5s]
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+VillDimo: calls $0.06
+carbonatx: folds 
+Pejep: folds 
+*** FLOP *** [3c Tc 9h]
+Lorpugo: bets $0.05
+VillDimo: calls $0.05
+*** TURN *** [3c Tc 9h] [Qd]
+Lorpugo: checks 
+VillDimo: checks 
+*** RIVER *** [3c Tc 9h Qd] [7s]
+Lorpugo: checks 
+VillDimo: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5h 5s] (a pair of Fives)
+VillDimo: shows [6c 6s] (a pair of Sixes)
+VillDimo collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c Tc 9h Qd 7s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo showed [5h 5s] and lost with a pair of Fives
+Seat 3: VillDimo (button) showed [6c 6s] and won ($0.24) with a pair of Sixes
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+
+
+
+PokerStars Hand #240688325385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:56:11 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.68 in chips) 
+Seat 2: Lorpugo ($2.52 in chips) 
+Seat 3: VillDimo ($3.25 in chips) 
+Seat 4: carbonatx ($3.48 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 2s]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: raises $0.03 to $0.05
+Pejep: calls $0.04
+d1ablo84: folds 
+*** FLOP *** [Ad 4d 7d]
+Pejep: checks 
+carbonatx: checks 
+*** TURN *** [Ad 4d 7d] [Th]
+Pejep: checks 
+carbonatx: checks 
+*** RIVER *** [Ad 4d 7d Th] [Js]
+Pejep: checks 
+carbonatx: checks 
+*** SHOW DOWN ***
+Pejep: shows [5d 5c] (a pair of Fives)
+carbonatx: mucks hand 
+Pejep collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ad 4d 7d Th Js]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) mucked [Qs 8s]
+Seat 5: Pejep (small blind) showed [5d 5c] and won ($0.12) with a pair of Fives
+Seat 6: d1ablo84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240688341473:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:57:09 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($3.68 in chips) 
+Seat 2: Lorpugo ($2.52 in chips) 
+Seat 3: VillDimo ($3.25 in chips) 
+Seat 4: carbonatx ($3.43 in chips) 
+Seat 5: Pejep ($2.07 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 7c]
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+STiffani: folds 
+Uncalled bet ($0.04) returned to d1ablo84
+d1ablo84 collected $0.04 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240688346689:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:57:27 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($3.66 in chips) 
+Seat 2: Lorpugo ($2.52 in chips) 
+Seat 3: VillDimo ($3.25 in chips) 
+Seat 4: carbonatx ($3.43 in chips) 
+Seat 5: Pejep ($2.07 in chips) 
+Seat 6: d1ablo84 ($2.02 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6s]
+VillDimo: folds 
+carbonatx: raises $0.04 to $0.06
+Pejep: calls $0.06
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+*** FLOP *** [Qd 7c 6c]
+carbonatx: checks 
+Pejep: checks 
+*** TURN *** [Qd 7c 6c] [Qc]
+carbonatx: checks 
+Pejep: checks 
+*** RIVER *** [Qd 7c 6c Qc] [As]
+carbonatx: checks 
+Pejep: checks 
+*** SHOW DOWN ***
+carbonatx: shows [Js Ad] (two pair, Aces and Queens)
+Pejep: mucks hand 
+carbonatx collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qd 7c 6c Qc As]
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx showed [Js Ad] and won ($0.14) with two pair, Aces and Queens
+Seat 5: Pejep mucked [3c 3d]
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688358156:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:58:08 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.65 in chips) 
+Seat 2: Lorpugo ($2.50 in chips) 
+Seat 3: VillDimo ($3.25 in chips) 
+Seat 4: carbonatx ($3.51 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.02 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 5h]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+STiffani: raises $0.15 to $0.21
+Lorpugo: folds 
+VillDimo: folds 
+d1ablo84: calls $0.15
+*** FLOP *** [8s 3c 8d]
+d1ablo84: checks 
+STiffani: bets $0.24
+d1ablo84: folds 
+Uncalled bet ($0.24) returned to STiffani
+STiffani collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8s 3c 8d]
+Seat 1: STiffani (button) collected ($0.43)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: VillDimo (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded on the Flop
+
+
+
+PokerStars Hand #240688374525:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:59:05 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.87 in chips) 
+Seat 2: Lorpugo ($2.49 in chips) 
+Seat 3: VillDimo ($3.23 in chips) 
+Seat 4: carbonatx ($3.51 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7s]
+Pejep: folds 
+d1ablo84: folds 
+STiffani: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+VillDimo: raises $0.20 to $0.26
+carbonatx: folds 
+STiffani: raises $0.74 to $1
+Lorpugo: folds 
+VillDimo: folds 
+Uncalled bet ($0.74) returned to STiffani
+STiffani collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: STiffani collected ($0.60)
+Seat 2: Lorpugo (button) folded before Flop
+Seat 3: VillDimo (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688388264:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 15:59:53 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($4.21 in chips) 
+Seat 2: Lorpugo ($2.43 in chips) 
+Seat 3: VillDimo ($2.97 in chips) 
+Seat 4: carbonatx ($3.49 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8c]
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: raises $0.04 to $0.06
+Pejep: folds 
+Uncalled bet ($0.04) returned to carbonatx
+carbonatx collected $0.04 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) collected ($0.04)
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688392157:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:00:07 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($4.21 in chips) 
+Seat 2: Lorpugo ($2.43 in chips) 
+Seat 3: VillDimo ($2.97 in chips) 
+Seat 4: carbonatx ($3.51 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 7h]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: raises $0.03 to $0.05
+Pejep: calls $0.04
+d1ablo84: folds 
+*** FLOP *** [2c Ad Qh]
+Pejep: checks 
+carbonatx: checks 
+*** TURN *** [2c Ad Qh] [7c]
+Pejep: checks 
+carbonatx: checks 
+*** RIVER *** [2c Ad Qh 7c] [6d]
+Pejep: checks 
+carbonatx: bets $0.04
+Pejep: folds 
+Uncalled bet ($0.04) returned to carbonatx
+carbonatx collected $0.12 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2c Ad Qh 7c 6d]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) collected ($0.12)
+Seat 5: Pejep (small blind) folded on the River
+Seat 6: d1ablo84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240688406806:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:00:53 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($4.21 in chips) 
+Seat 2: Lorpugo ($2.43 in chips) 
+Seat 3: VillDimo ($2.97 in chips) 
+Seat 4: carbonatx ($3.58 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 6s]
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Pejep: raises $0.03 to $0.05
+d1ablo84: folds 
+STiffani: folds 
+Uncalled bet ($0.03) returned to Pejep
+Pejep collected $0.05 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) collected ($0.05)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688416051:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:01:20 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($4.19 in chips) 
+Seat 2: Lorpugo ($2.43 in chips) 
+Seat 3: VillDimo ($2.97 in chips) 
+Seat 4: carbonatx ($3.58 in chips) 
+Seat 5: Pejep ($2.03 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5d]
+VillDimo: folds 
+carbonatx: raises $0.04 to $0.06
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [2d Ac 8h]
+Lorpugo: checks 
+carbonatx: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [2d Ac 8h] [6c]
+Lorpugo: checks 
+carbonatx: bets $0.15
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to carbonatx
+carbonatx collected $0.20 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2d Ac 8h 6c]
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx collected ($0.20)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688432830:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:02:02 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($4.18 in chips) 
+Seat 2: Lorpugo ($2.33 in chips) 
+Seat 3: VillDimo ($2.97 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.03 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+VillDimo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 3d]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: raises $0.03 to $0.05
+Lorpugo: folds 
+VillDimo: calls $0.03
+*** FLOP *** [7c Ac Kd]
+VillDimo: checks 
+STiffani: checks 
+*** TURN *** [7c Ac Kd] [9h]
+VillDimo: checks 
+STiffani: checks 
+*** RIVER *** [7c Ac Kd 9h] [Ks]
+VillDimo: checks 
+STiffani: checks 
+*** SHOW DOWN ***
+VillDimo: shows [9c Qc] (two pair, Kings and Nines)
+STiffani: mucks hand 
+VillDimo collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7c Ac Kd 9h Ks]
+Seat 1: STiffani (button) mucked [2c 2d]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: VillDimo (big blind) showed [9c Qc] and won ($0.11) with two pair, Kings and Nines
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688444481:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:02:30 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($4.13 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 3: VillDimo ($3.03 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.03 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+VillDimo: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 3d]
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+Uncalled bet ($0.01) returned to carbonatx
+carbonatx collected $0.02 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: VillDimo (small blind) folded before Flop
+Seat 4: carbonatx (big blind) collected ($0.02)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688449833:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:02:42 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($4.13 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 3: VillDimo ($3.02 in chips) 
+Seat 4: carbonatx ($3.69 in chips) 
+Seat 5: Pejep ($2.03 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d As]
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+VillDimo: folds 
+carbonatx: folds 
+Pejep: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: VillDimo (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688460364:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:03:07 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($4.13 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: VillDimo ($3.02 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6c]
+STiffani: folds 
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Pejep: folds 
+Uncalled bet ($0.01) returned to d1ablo84
+d1ablo84 collected $0.02 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240688465801:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:03:19 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($4.13 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: VillDimo ($3.02 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.01 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5s]
+Lorpugo: folds 
+VillDimo: folds 
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+STiffani: folds 
+Uncalled bet ($0.04) returned to Pejep
+Pejep collected $0.05 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) collected ($0.05)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688472294:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:03:34 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($4.11 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: VillDimo ($3.02 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.03 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2s]
+VillDimo: folds 
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+VillDimo leaves the table
+d1ablo84: raises $0.10 to $0.16
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3 joins the table at seat #3 
+Pejep: raises $0.35 to $0.51
+d1ablo84: folds 
+Uncalled bet ($0.35) returned to Pejep
+Pejep collected $0.35 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: VillDimo folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep collected ($0.35)
+Seat 6: d1ablo84 (button) folded before Flop
+
+
+
+PokerStars Hand #240688491028:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:04:15 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($4.10 in chips) 
+Seat 2: Lorpugo ($2.33 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.22 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 8h]
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+Uncalled bet ($0.04) returned to Pejep
+Pejep collected $0.05 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep collected ($0.05)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688500202:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:04:36 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($4.10 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.25 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Js]
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+Uncalled bet ($0.01) returned to carbonatx
+carbonatx collected $0.02 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) collected ($0.02)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688506078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:04:49 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($4.10 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.69 in chips) 
+Seat 5: Pejep ($2.25 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Ad]
+d1ablo84: raises $0.04 to $0.06
+STiffani: folds 
+Lorpugo: raises $0.15 to $0.21
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: calls $0.15
+*** FLOP *** [9s 3s 6d]
+d1ablo84: checks 
+Lorpugo: bets $0.22
+d1ablo84: folds 
+Uncalled bet ($0.22) returned to Lorpugo
+Lorpugo collected $0.43 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9s 3s 6d]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.43)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded on the Flop
+
+
+
+PokerStars Hand #240688522619:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:05:26 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($4.10 in chips) 
+Seat 2: Lorpugo ($2.54 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.23 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 7s]
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240688528291:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:05:39 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($4.10 in chips) 
+Seat 2: Lorpugo ($2.57 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.22 in chips) 
+Seat 6: d1ablo84 ($2 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Kh]
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+STiffani: folds 
+Uncalled bet ($0.04) returned to d1ablo84
+d1ablo84 collected $0.04 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240688538914:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:06:03 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($4.08 in chips) 
+Seat 2: Lorpugo ($2.57 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.22 in chips) 
+Seat 6: d1ablo84 ($2.02 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 4s]
+AcidShark3: raises $0.03 to $0.05
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to AcidShark3
+AcidShark3 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: AcidShark3 collected ($0.05)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688547621:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:06:22 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($4.07 in chips) 
+Seat 2: Lorpugo ($2.55 in chips) 
+Seat 3: AcidShark3 ($2.03 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.22 in chips) 
+Seat 6: d1ablo84 ($2.02 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 9c]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+STiffani: calls $0.06
+Lorpugo: folds 
+AcidShark3: folds 
+*** FLOP *** [Qd 9s 5s]
+d1ablo84: checks 
+STiffani: checks 
+*** TURN *** [Qd 9s 5s] [8s]
+d1ablo84: checks 
+STiffani: bets $0.08
+d1ablo84: calls $0.08
+*** RIVER *** [Qd 9s 5s 8s] [Qc]
+d1ablo84: checks 
+STiffani: checks 
+*** SHOW DOWN ***
+d1ablo84: shows [Tc Th] (two pair, Queens and Tens)
+STiffani: mucks hand 
+d1ablo84 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qd 9s 5s 8s Qc]
+Seat 1: STiffani (button) mucked [As Jd]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 showed [Tc Th] and won ($0.30) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #240688566034:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:07:03 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.54 in chips) 
+Seat 3: AcidShark3 ($2.01 in chips) 
+Seat 4: carbonatx ($3.68 in chips) 
+Seat 5: Pejep ($2.22 in chips) 
+Seat 6: d1ablo84 ($2.18 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 9c]
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+STiffani: folds 
+Lorpugo: calls $0.06
+AcidShark3: folds 
+carbonatx: folds 
+*** FLOP *** [Td As Jc]
+d1ablo84: checks 
+Lorpugo: checks 
+*** TURN *** [Td As Jc] [Th]
+d1ablo84: checks 
+Lorpugo: bets $0.02
+d1ablo84: calls $0.02
+*** RIVER *** [Td As Jc Th] [5s]
+d1ablo84: checks 
+Lorpugo: bets $0.02
+d1ablo84: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [9h 9c] (two pair, Tens and Nines)
+d1ablo84: shows [Kc Js] (two pair, Jacks and Tens)
+d1ablo84 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Td As Jc Th 5s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [9h 9c] and lost with two pair, Tens and Nines
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 showed [Kc Js] and won ($0.22) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #240688585065:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:07:45 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.44 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.66 in chips) 
+Seat 5: Pejep ($2.22 in chips) 
+Seat 6: d1ablo84 ($2.30 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 7d]
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: folds 
+carbonatx: raises $0.18 to $0.24
+Pejep: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to carbonatx
+carbonatx collected $0.14 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) collected ($0.14)
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688598435:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:08:15 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.38 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.74 in chips) 
+Seat 5: Pejep ($2.20 in chips) 
+Seat 6: d1ablo84 ($2.30 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9c]
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: raises $0.03 to $0.05
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: calls $0.03
+*** FLOP *** [3d Tc Jh]
+d1ablo84: checks 
+AcidShark3: bets $0.04
+d1ablo84: calls $0.04
+*** TURN *** [3d Tc Jh] [7h]
+d1ablo84: checks 
+AcidShark3: checks 
+*** RIVER *** [3d Tc Jh 7h] [2c]
+d1ablo84: bets $0.13
+AcidShark3: folds 
+Uncalled bet ($0.13) returned to d1ablo84
+d1ablo84 collected $0.18 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3d Tc Jh 7h 2c]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 folded on the River
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) collected ($0.18)
+
+
+
+PokerStars Hand #240688618589:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:09:00 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.38 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.74 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.39 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3d]
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Uncalled bet ($0.01) returned to STiffani
+STiffani collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688627259:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:09:20 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($3.94 in chips) 
+Seat 2: Lorpugo ($2.38 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.74 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.38 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 2c]
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: raises $0.03 to $0.05
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to d1ablo84
+d1ablo84 collected $0.05 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) collected ($0.05)
+
+
+
+PokerStars Hand #240688635096:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:09:38 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.36 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.74 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7s]
+carbonatx: raises $0.04 to $0.06
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+Uncalled bet ($0.04) returned to carbonatx
+carbonatx collected $0.05 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) folded before Flop
+Seat 4: carbonatx collected ($0.05)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688639878:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:09:48 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($3.77 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2d]
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: raises $0.03 to $0.05
+carbonatx: calls $0.03
+*** FLOP *** [2c 4s 8d]
+AcidShark3: checks 
+carbonatx: checks 
+*** TURN *** [2c 4s 8d] [Js]
+AcidShark3: checks 
+carbonatx: bets $0.05
+AcidShark3: calls $0.05
+*** RIVER *** [2c 4s 8d Js] [4c]
+AcidShark3: checks 
+carbonatx: checks 
+*** SHOW DOWN ***
+AcidShark3: shows [8c Qc] (two pair, Eights and Fours)
+carbonatx: mucks hand 
+AcidShark3 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c 4s 8d Js 4c]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: AcidShark3 (small blind) showed [8c Qc] and won ($0.19) with two pair, Eights and Fours
+Seat 4: carbonatx (big blind) mucked [Ad 5d]
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688660736:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:10:35 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: AcidShark3 ($2.09 in chips) 
+Seat 4: carbonatx ($3.67 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 2d]
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Uncalled bet ($0.01) returned to Pejep
+Pejep collected $0.02 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) collected ($0.02)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688666010:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:10:47 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: AcidShark3 ($2.09 in chips) 
+Seat 4: carbonatx ($3.66 in chips) 
+Seat 5: Pejep ($2.20 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2d]
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: raises $0.03 to $0.05
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: calls $0.03
+*** FLOP *** [Qs Kc Ah]
+d1ablo84: checks 
+AcidShark3: checks 
+*** TURN *** [Qs Kc Ah] [7s]
+d1ablo84: checks 
+AcidShark3: checks 
+*** RIVER *** [Qs Kc Ah 7s] [Ad]
+d1ablo84: checks 
+AcidShark3: checks 
+*** SHOW DOWN ***
+d1ablo84: shows [8h 8s] (two pair, Aces and Eights)
+AcidShark3: mucks hand 
+d1ablo84 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qs Kc Ah 7s Ad]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 mucked [5c 4c]
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) showed [8h 8s] and won ($0.11) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #240688688355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:11:37 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($3.93 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: AcidShark3 ($2.04 in chips) 
+Seat 4: carbonatx ($3.66 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.47 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5h]
+Lorpugo: folds 
+AcidShark3: raises $0.03 to $0.05
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Uncalled bet ($0.03) returned to AcidShark3
+AcidShark3 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 collected ($0.05)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688695604:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:11:54 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($3.91 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: AcidShark3 ($2.07 in chips) 
+Seat 4: carbonatx ($3.66 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.46 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ac]
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688701561:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:12:07 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($3.90 in chips) 
+Seat 2: Lorpugo ($2.36 in chips) 
+Seat 3: AcidShark3 ($2.07 in chips) 
+Seat 4: carbonatx ($3.66 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.46 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 5s]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to AcidShark3
+AcidShark3 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) collected ($0.02)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688706375:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:12:18 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($3.90 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: AcidShark3 ($2.08 in chips) 
+Seat 4: carbonatx ($3.66 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.46 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Kc]
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+STiffani: folds 
+Lorpugo: calls $0.06
+AcidShark3: folds 
+carbonatx: calls $0.04
+*** FLOP *** [5d Ad 6c]
+carbonatx: checks 
+d1ablo84: checks 
+Lorpugo: checks 
+*** TURN *** [5d Ad 6c] [4c]
+carbonatx: checks 
+d1ablo84: checks 
+Lorpugo: bets $0.12
+carbonatx: raises $0.30 to $0.42
+d1ablo84: folds 
+Lorpugo: calls $0.30
+*** RIVER *** [5d Ad 6c 4c] [Th]
+carbonatx: bets $0.62
+Lorpugo: calls $0.62
+*** SHOW DOWN ***
+carbonatx: shows [Jd 9d] (high card Ace)
+Lorpugo: shows [Ah Kc] (a pair of Aces)
+Lorpugo collected $2.19 from pot
+*** SUMMARY ***
+Total pot $2.27 | Rake $0.08 
+Board [5d Ad 6c 4c Th]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [Ah Kc] and won ($2.19) with a pair of Aces
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) showed [Jd 9d] and lost with high card Ace
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded on the Turn
+
+
+
+PokerStars Hand #240688743488:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:13:43 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($3.90 in chips) 
+Seat 2: Lorpugo ($3.44 in chips) 
+Seat 3: AcidShark3 ($2.07 in chips) 
+Seat 4: carbonatx ($2.56 in chips) 
+Seat 5: Pejep ($2.19 in chips) 
+Seat 6: d1ablo84 ($2.40 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qc]
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688750264:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:13:57 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($3.90 in chips) 
+Seat 2: Lorpugo ($3.47 in chips) 
+Seat 3: AcidShark3 ($2.07 in chips) 
+Seat 4: carbonatx ($2.55 in chips) 
+Seat 5: Pejep ($2.17 in chips) 
+Seat 6: d1ablo84 ($2.40 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 9d]
+STiffani: raises $0.04 to $0.06
+Lorpugo: folds 
+AcidShark3: calls $0.06
+carbonatx: calls $0.06
+Pejep: folds 
+d1ablo84: calls $0.04
+*** FLOP *** [3d 9s Js]
+d1ablo84: checks 
+STiffani: bets $0.13
+AcidShark3: calls $0.13
+carbonatx: folds 
+d1ablo84: folds 
+*** TURN *** [3d 9s Js] [Jd]
+STiffani: bets $0.27
+AcidShark3: raises $1.61 to $1.88 and is all-in
+STiffani: folds 
+Uncalled bet ($1.61) returned to AcidShark3
+AcidShark3 collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [3d 9s Js Jd]
+Seat 1: STiffani folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 collected ($1.01)
+Seat 4: carbonatx (button) folded on the Flop
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240688781774:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:15:08 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($3.44 in chips) 
+Seat 2: Lorpugo ($3.47 in chips) 
+Seat 3: AcidShark3 ($2.62 in chips) 
+Seat 4: carbonatx ($2.49 in chips) 
+Seat 5: Pejep ($2.16 in chips) 
+Seat 6: d1ablo84 ($2.34 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Kh]
+Lorpugo: raises $0.02 to $0.04
+AcidShark3: raises $0.08 to $0.12
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: raises $0.29 to $0.41
+Lorpugo: calls $0.37
+AcidShark3: calls $0.29
+*** FLOP *** [2s 4s 5c]
+STiffani: bets $3.03 and is all-in
+Lorpugo: folds 
+AcidShark3: folds 
+Uncalled bet ($3.03) returned to STiffani
+STiffani collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.04 
+Board [2s 4s 5c]
+Seat 1: STiffani (big blind) collected ($1.20)
+Seat 2: Lorpugo folded on the Flop
+Seat 3: AcidShark3 folded on the Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688799505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:15:46 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($4.23 in chips) 
+Seat 2: Lorpugo ($3.06 in chips) 
+Seat 3: AcidShark3 ($2.21 in chips) 
+Seat 4: carbonatx ($2.49 in chips) 
+Seat 5: Pejep ($2.16 in chips) 
+Seat 6: d1ablo84 ($2.33 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9d]
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Qs Kc Ks]
+Lorpugo: checks 
+Pejep: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [Qs Kc Ks] [4h]
+Lorpugo: checks 
+Pejep: checks 
+*** RIVER *** [Qs Kc Ks 4h] [3d]
+Lorpugo: checks 
+Pejep: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qd 9d] (two pair, Kings and Queens)
+Pejep: mucks hand 
+Lorpugo collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qs Kc Ks 4h 3d]
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Qd 9d] and won ($0.24) with two pair, Kings and Queens
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep mucked [Ac 4c]
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688820387:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:16:32 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($4.22 in chips) 
+Seat 2: Lorpugo ($3.18 in chips) 
+Seat 3: AcidShark3 ($2.21 in chips) 
+Seat 4: carbonatx ($2.49 in chips) 
+Seat 5: Pejep ($2.04 in chips) 
+Seat 6: d1ablo84 ($2.33 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Qh]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: raises $0.03 to $0.05
+Lorpugo: folds 
+AcidShark3: folds 
+Uncalled bet ($0.03) returned to STiffani
+STiffani collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani (button) collected ($0.05)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688826240:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:16:45 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($4.25 in chips) 
+Seat 2: Lorpugo ($3.17 in chips) 
+Seat 3: AcidShark3 ($2.19 in chips) 
+Seat 4: carbonatx ($2.49 in chips) 
+Seat 5: Pejep ($2.04 in chips) 
+Seat 6: d1ablo84 ($2.33 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jh]
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: folds 
+carbonatx: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688834047:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:17:02 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($4.25 in chips) 
+Seat 2: Lorpugo ($3.20 in chips) 
+Seat 3: AcidShark3 ($2.18 in chips) 
+Seat 4: carbonatx ($2.47 in chips) 
+Seat 5: Pejep ($2.04 in chips) 
+Seat 6: d1ablo84 ($2.33 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qs]
+d1ablo84: folds 
+STiffani: raises $0.04 to $0.06
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+Uncalled bet ($0.04) returned to STiffani
+STiffani collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: STiffani collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688840966:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:17:17 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($4.28 in chips) 
+Seat 2: Lorpugo ($3.20 in chips) 
+Seat 3: AcidShark3 ($2.18 in chips) 
+Seat 4: carbonatx ($2.46 in chips) 
+Seat 5: Pejep ($2.02 in chips) 
+Seat 6: d1ablo84 ($2.33 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 4c]
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: raises $0.03 to $0.05
+Pejep: folds 
+d1ablo84: calls $0.03
+*** FLOP *** [Ad 5d 5s]
+d1ablo84: checks 
+carbonatx: bets $0.04
+d1ablo84: raises $0.10 to $0.14
+carbonatx: folds 
+Uncalled bet ($0.10) returned to d1ablo84
+d1ablo84 collected $0.18 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ad 5d 5s]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded on the Flop
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) collected ($0.18)
+
+
+
+PokerStars Hand #240688856476:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:17:51 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: STiffani ($4.28 in chips) 
+Seat 2: Lorpugo ($3.20 in chips) 
+Seat 3: AcidShark3 ($2.18 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.42 in chips) 
+d1ablo84: posts small blind $0.01
+STiffani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ad]
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: raises $0.12 to $0.18
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: calls $0.12
+*** FLOP *** [4h Qs 9s]
+Lorpugo: checks 
+AcidShark3: bets $0.13
+Lorpugo: calls $0.13
+*** TURN *** [4h Qs 9s] [2s]
+Lorpugo: checks 
+AcidShark3: checks 
+*** RIVER *** [4h Qs 9s 2s] [Ah]
+Lorpugo: checks 
+AcidShark3: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Kd Ad] (a pair of Aces)
+AcidShark3: mucks hand 
+Lorpugo collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [4h Qs 9s 2s Ah]
+Seat 1: STiffani (big blind) folded before Flop
+Seat 2: Lorpugo showed [Kd Ad] and won ($0.63) with a pair of Aces
+Seat 3: AcidShark3 mucked [Tc Ac]
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688871496:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:18:25 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: STiffani ($4.26 in chips) 
+Seat 2: Lorpugo ($3.52 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+STiffani: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 4d]
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: STiffani (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688874455:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:18:31 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: STiffani ($4.25 in chips) 
+Seat 2: Lorpugo ($3.53 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7d]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: calls $0.04
+*** FLOP *** [9h Ks 5s]
+Lorpugo: bets $0.04
+AcidShark3: calls $0.04
+*** TURN *** [9h Ks 5s] [3h]
+Lorpugo: bets $0.13
+AcidShark3: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9h Ks 5s 3h]
+Seat 1: STiffani (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.19)
+Seat 3: AcidShark3 (big blind) folded on the Turn
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688892224:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:19:10 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: STiffani ($4.25 in chips) 
+Seat 2: Lorpugo ($3.62 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 4h]
+Pejep: folds 
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: raises $0.03 to $0.05
+carbonatx: folds 
+Uncalled bet ($0.03) returned to AcidShark3
+AcidShark3 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: AcidShark3 (small blind) collected ($0.04)
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688901724:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:19:30 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: STiffani ($4.25 in chips) 
+Seat 2: Lorpugo ($3.62 in chips) 
+Seat 3: AcidShark3 ($2.02 in chips) 
+Seat 4: carbonatx ($2.35 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 7d]
+d1ablo84: folds 
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: raises $0.04 to $0.06
+Pejep: folds 
+Uncalled bet ($0.04) returned to carbonatx
+carbonatx collected $0.04 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) collected ($0.04)
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688910463:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:19:49 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: STiffani ($4.25 in chips) 
+Seat 2: Lorpugo ($3.62 in chips) 
+Seat 3: AcidShark3 ($2.02 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 7s]
+STiffani: folds 
+Lorpugo: folds 
+AcidShark3: raises $0.03 to $0.05
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: calls $0.03
+*** FLOP *** [2c Ks 4h]
+d1ablo84: checks 
+AcidShark3: checks 
+*** TURN *** [2c Ks 4h] [3s]
+d1ablo84: checks 
+AcidShark3: checks 
+*** RIVER *** [2c Ks 4h 3s] [Kd]
+STiffani leaves the table
+d1ablo84: checks 
+AcidShark3: checks 
+*** SHOW DOWN ***
+d1ablo84: shows [5s 5c] (two pair, Kings and Fives)
+AcidShark3: mucks hand 
+d1ablo84 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2c Ks 4h 3s Kd]
+Seat 1: STiffani folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 mucked [Jc Qc]
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) showed [5s 5c] and won ($0.11) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #240688939210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:20:53 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($3.62 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.47 in chips) 
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 7c]
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240688945650:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:21:07 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 3: AcidShark3 ($2 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.46 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5h]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: raises $0.03 to $0.05
+Lorpugo: folds 
+AcidShark3: calls $0.03
+*** FLOP *** [Tc 3s 2s]
+AcidShark3: checks 
+d1ablo84: checks 
+*** TURN *** [Tc 3s 2s] [8h]
+AcidShark3: checks 
+d1ablo84: checks 
+*** RIVER *** [Tc 3s 2s 8h] [4c]
+AcidShark3: checks 
+d1ablo84: checks 
+*** SHOW DOWN ***
+AcidShark3: shows [Ah Js] (high card Ace)
+d1ablo84: mucks hand 
+AcidShark3 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Tc 3s 2s 8h 4c]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) showed [Ah Js] and won ($0.11) with high card Ace
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) mucked [Kd Qh]
+
+
+
+PokerStars Hand #240688966422:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:21:52 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($3.62 in chips) 
+Seat 3: AcidShark3 ($2.06 in chips) 
+Seat 4: carbonatx ($2.37 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.41 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 6s]
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Uncalled bet ($0.04) returned to d1ablo84
+d1ablo84 collected $0.05 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 collected ($0.05)
+
+
+
+PokerStars Hand #240688975740:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:22:13 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($3.62 in chips) 
+Seat 3: AcidShark3 ($2.05 in chips) 
+Seat 4: carbonatx ($2.35 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.44 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 7d]
+d1ablo84: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Uncalled bet ($0.01) returned to Pejep
+Pejep collected $0.02 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) collected ($0.02)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240688979532:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:22:21 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($3.62 in chips) 
+Seat 3: AcidShark3 ($2.05 in chips) 
+Seat 4: carbonatx ($2.34 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.44 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9c]
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: calls $0.04
+*** FLOP *** [9d 3s Qd]
+d1ablo84: checks 
+Lorpugo: checks 
+*** TURN *** [9d 3s Qd] [2d]
+d1ablo84: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to d1ablo84
+d1ablo84 collected $0.13 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9d 3s Qd 2d]
+Seat 2: Lorpugo folded on the Turn
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #240688995495:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:22:56 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($3.56 in chips) 
+Seat 3: AcidShark3 ($2.05 in chips) 
+Seat 4: carbonatx ($2.34 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.51 in chips) 
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7s]
+AcidShark3: raises $0.04 to $0.06
+carbonatx: folds 
+Gunslinger1999 joins the table at seat #1 
+Pejep: folds 
+d1ablo84: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to AcidShark3
+AcidShark3 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: AcidShark3 collected ($0.05)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240689002802:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:23:12 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($3.54 in chips) 
+Seat 3: AcidShark3 ($2.08 in chips) 
+Seat 4: carbonatx ($2.34 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.50 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 9c]
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+Lorpugo: folds 
+AcidShark3: folds 
+Uncalled bet ($0.04) returned to Pejep
+Pejep collected $0.05 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep collected ($0.05)
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689007575:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:23:23 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($0.80 in chips) 
+Seat 2: Lorpugo ($3.53 in chips) 
+Seat 3: AcidShark3 ($2.06 in chips) 
+Seat 4: carbonatx ($2.34 in chips) 
+Seat 5: Pejep ($2.03 in chips) 
+Seat 6: d1ablo84 ($2.50 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3h]
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: checks 
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: checks 
+*** FLOP *** [Ac Ts 2d]
+carbonatx: checks 
+Gunslinger1999: checks 
+*** TURN *** [Ac Ts 2d] [7h]
+carbonatx: checks 
+Gunslinger1999: bets $0.02
+carbonatx: folds 
+Uncalled bet ($0.02) returned to Gunslinger1999
+Gunslinger1999 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac Ts 2d 7h]
+Seat 1: Gunslinger1999 collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded on the Turn
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689024903:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:24:00 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($0.83 in chips) 
+Seat 2: Lorpugo ($3.53 in chips) 
+Seat 3: AcidShark3 ($2.05 in chips) 
+Seat 4: carbonatx ($2.32 in chips) 
+Seat 5: Pejep ($2.03 in chips) 
+Seat 6: d1ablo84 ($2.50 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 9d]
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+AcidShark3: raises $0.05 to $0.07
+carbonatx: folds 
+Pejep: folds 
+Gunslinger1999: calls $0.05
+*** FLOP *** [7c Ah 3d]
+Gunslinger1999: checks 
+AcidShark3: bets $0.05
+Gunslinger1999: folds 
+Uncalled bet ($0.05) returned to AcidShark3
+AcidShark3 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [7c Ah 3d]
+Seat 1: Gunslinger1999 folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 (button) collected ($0.16)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689039566:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:24:32 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.76 in chips) 
+Seat 2: Lorpugo ($3.53 in chips) 
+Seat 3: AcidShark3 ($2.14 in chips) 
+Seat 4: carbonatx ($2.31 in chips) 
+Seat 5: Pejep ($2.01 in chips) 
+Seat 6: d1ablo84 ($2.50 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 4c]
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.06
+*** FLOP *** [Ts Jd Qc]
+Gunslinger1999: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [Ts Jd Qc] [8c]
+Gunslinger1999: bets $0.04
+Lorpugo: raises $0.10 to $0.14
+Gunslinger1999: calls $0.10
+*** RIVER *** [Ts Jd Qc 8c] [Ad]
+Gunslinger1999: bets $0.18
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to Gunslinger1999
+Gunslinger1999 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Ts Jd Qc 8c Ad]
+Seat 1: Gunslinger1999 collected ($0.49)
+Seat 2: Lorpugo folded on the River
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240689067510:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:25:33 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($1.01 in chips) 
+Seat 2: Lorpugo ($3.29 in chips) 
+Seat 3: AcidShark3 ($2.14 in chips) 
+Seat 4: carbonatx ($2.31 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.48 in chips) 
+d1ablo84: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ts]
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: folds 
+carbonatx: calls $0.06
+Pejep: folds 
+d1ablo84: raises $0.26 to $0.32
+Gunslinger1999: folds 
+Lorpugo: folds 
+carbonatx: folds 
+Uncalled bet ($0.26) returned to d1ablo84
+d1ablo84 collected $0.20 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Gunslinger1999 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #240689078351:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:25:57 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($0.99 in chips) 
+Seat 2: Lorpugo ($3.23 in chips) 
+Seat 3: AcidShark3 ($2.14 in chips) 
+Seat 4: carbonatx ($2.25 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.62 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ac]
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+Gunslinger1999: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [Kd 9h 9s]
+Gunslinger1999: bets $0.02
+Lorpugo: folds 
+Pejep: calls $0.02
+*** TURN *** [Kd 9h 9s] [Qc]
+Gunslinger1999: bets $0.04
+Pejep: calls $0.04
+*** RIVER *** [Kd 9h 9s Qc] [8s]
+Gunslinger1999: bets $0.06
+Pejep: calls $0.06
+*** SHOW DOWN ***
+Gunslinger1999: shows [7s 7d] (two pair, Nines and Sevens)
+Pejep: shows [Qd Js] (two pair, Queens and Nines)
+Pejep collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Kd 9h 9s Qc 8s]
+Seat 1: Gunslinger1999 (small blind) showed [7s 7d] and lost with two pair, Nines and Sevens
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep showed [Qd Js] and won ($0.41) with two pair, Queens and Nines
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689105183:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:26:56 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($0.81 in chips) 
+Seat 2: Lorpugo ($3.17 in chips) 
+Seat 3: AcidShark3 ($2.14 in chips) 
+Seat 4: carbonatx ($2.25 in chips) 
+Seat 5: Pejep ($2.23 in chips) 
+Seat 6: d1ablo84 ($2.62 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Tc]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+AcidShark3: checks 
+*** FLOP *** [3s Qs Jc]
+AcidShark3: checks 
+Gunslinger1999: checks 
+*** TURN *** [3s Qs Jc] [6h]
+AcidShark3: checks 
+Gunslinger1999: checks 
+*** RIVER *** [3s Qs Jc 6h] [7c]
+AcidShark3: checks 
+Gunslinger1999: bets $0.02
+AcidShark3: folds 
+Uncalled bet ($0.02) returned to Gunslinger1999
+Gunslinger1999 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s Qs Jc 6h 7c]
+Seat 1: Gunslinger1999 (button) collected ($0.05)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) folded on the River
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689119095:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:27:27 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($0.84 in chips) 
+Seat 2: Lorpugo ($3.16 in chips) 
+Seat 3: AcidShark3 ($2.12 in chips) 
+Seat 4: carbonatx ($2.25 in chips) 
+Seat 5: Pejep ($2.23 in chips) 
+Seat 6: d1ablo84 ($2.62 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 8c]
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+Gunslinger1999: calls $0.06
+Lorpugo: calls $0.06
+AcidShark3: folds 
+carbonatx: folds 
+*** FLOP *** [Jh 6h 5h]
+Pejep: bets $0.08
+Gunslinger1999: folds 
+Lorpugo: calls $0.08
+*** TURN *** [Jh 6h 5h] [As]
+Pejep: bets $0.18
+Lorpugo: calls $0.18
+*** RIVER *** [Jh 6h 5h As] [7d]
+Pejep: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Pejep: shows [Jd Qd] (a pair of Jacks)
+Lorpugo: shows [Ah 8c] (a pair of Aces)
+Lorpugo collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Jh 6h 5h As 7d]
+Seat 1: Gunslinger1999 folded on the Flop
+Seat 2: Lorpugo (button) showed [Ah 8c] and won ($0.70) with a pair of Aces
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep showed [Jd Qd] and lost with a pair of Jacks
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689140332:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:28:13 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($0.78 in chips) 
+Seat 2: Lorpugo ($3.54 in chips) 
+Seat 3: AcidShark3 ($2.11 in chips) 
+Seat 4: carbonatx ($2.23 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.62 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7h]
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+Gunslinger1999: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Gunslinger1999 folded before Flop
+Seat 2: Lorpugo collected ($0.07)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689157412:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:28:51 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.76 in chips) 
+Seat 2: Lorpugo ($3.59 in chips) 
+Seat 3: AcidShark3 ($2.11 in chips) 
+Seat 4: carbonatx ($2.22 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.62 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5h]
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: checks 
+*** FLOP *** [Kh 5d 6s]
+d1ablo84: checks 
+Gunslinger1999: checks 
+*** TURN *** [Kh 5d 6s] [7h]
+d1ablo84: checks 
+Gunslinger1999: bets $0.02
+d1ablo84: folds 
+Uncalled bet ($0.02) returned to Gunslinger1999
+Gunslinger1999 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh 5d 6s 7h]
+Seat 1: Gunslinger1999 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240689171576:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:29:23 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($0.79 in chips) 
+Seat 2: Lorpugo ($3.59 in chips) 
+Seat 3: AcidShark3 ($2.11 in chips) 
+Seat 4: carbonatx ($2.22 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.60 in chips) 
+d1ablo84: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 3c]
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: raises $0.03 to $0.05
+d1ablo84: folds 
+Gunslinger1999: calls $0.03
+*** FLOP *** [Qh 4d 7h]
+Gunslinger1999: checks 
+Pejep: checks 
+*** TURN *** [Qh 4d 7h] [Qd]
+Gunslinger1999: bets $0.10
+Pejep: folds 
+Uncalled bet ($0.10) returned to Gunslinger1999
+Gunslinger1999 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qh 4d 7h Qd]
+Seat 1: Gunslinger1999 (big blind) collected ($0.11)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded on the Turn
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240689184402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:29:51 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($0.85 in chips) 
+Seat 2: Lorpugo ($3.59 in chips) 
+Seat 3: AcidShark3 ($2.11 in chips) 
+Seat 4: carbonatx ($2.22 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.59 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Td]
+AcidShark3: folds 
+carbonatx: raises $0.02 to $0.04
+Pejep: folds 
+d1ablo84: raises $0.08 to $0.12
+Gunslinger1999: folds 
+Lorpugo: folds 
+carbonatx: calls $0.08
+*** FLOP *** [8s 6d Ac]
+carbonatx: checks 
+d1ablo84: checks 
+*** TURN *** [8s 6d Ac] [Js]
+carbonatx: checks 
+d1ablo84: bets $0.18
+carbonatx: folds 
+Uncalled bet ($0.18) returned to d1ablo84
+d1ablo84 collected $0.26 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8s 6d Ac Js]
+Seat 1: Gunslinger1999 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded on the Turn
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) collected ($0.26)
+
+
+
+PokerStars Hand #240689208921:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:30:44 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($0.84 in chips) 
+Seat 2: Lorpugo ($3.57 in chips) 
+Seat 3: AcidShark3 ($2.11 in chips) 
+Seat 4: carbonatx ($2.10 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.73 in chips) 
+Lorpugo: posts small blind $0.01
+AcidShark3: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 3d]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: raises $0.04 to $0.06
+Gunslinger1999: calls $0.06
+Lorpugo: folds 
+AcidShark3: folds 
+*** FLOP *** [Qs 8s Js]
+d1ablo84: bets $0.04
+Gunslinger1999: calls $0.04
+*** TURN *** [Qs 8s Js] [6d]
+d1ablo84: checks 
+Gunslinger1999: bets $0.04
+d1ablo84: folds 
+Uncalled bet ($0.04) returned to Gunslinger1999
+Gunslinger1999 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Qs 8s Js 6d]
+Seat 1: Gunslinger1999 (button) collected ($0.22)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: AcidShark3 (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded on the Turn
+
+
+
+PokerStars Hand #240689233404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:31:37 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($0.96 in chips) 
+Seat 2: Lorpugo ($3.56 in chips) 
+Seat 3: AcidShark3 ($2.09 in chips) 
+Seat 4: carbonatx ($2.10 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.63 in chips) 
+AcidShark3: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 8s]
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: calls $0.02
+AcidShark3: folds 
+carbonatx: checks 
+*** FLOP *** [3s 3h 8c]
+carbonatx: checks 
+Gunslinger1999: checks 
+Lorpugo: bets $0.04
+carbonatx: folds 
+Gunslinger1999: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3s 3h 8c]
+Seat 1: Gunslinger1999 folded on the Flop
+Seat 2: Lorpugo (button) collected ($0.07)
+Seat 3: AcidShark3 (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded on the Flop
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689246438:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:32:06 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($0.94 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 3: AcidShark3 ($2.08 in chips) 
+Seat 4: carbonatx ($2.08 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.63 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2c]
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+AcidShark3: folds 
+carbonatx: raises $0.06 to $0.08
+Pejep: calls $0.06
+Gunslinger1999: folds 
+*** FLOP *** [Ah 9c 8d]
+carbonatx: checks 
+Pejep: checks 
+*** TURN *** [Ah 9c 8d] [8c]
+carbonatx: checks 
+Pejep: checks 
+*** RIVER *** [Ah 9c 8d 8c] [Jd]
+carbonatx: checks 
+Pejep: checks 
+*** SHOW DOWN ***
+carbonatx: shows [7d Ad] (two pair, Aces and Eights)
+Pejep: mucks hand 
+carbonatx collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ah 9c 8d 8c Jd]
+Seat 1: Gunslinger1999 folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: AcidShark3 (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) showed [7d Ad] and won ($0.17) with two pair, Aces and Eights
+Seat 5: Pejep (big blind) mucked [7s 7c]
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689260754:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:32:37 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.92 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 3: AcidShark3 ($2.08 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.63 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 6c]
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+AcidShark3: folds 
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: calls $0.02
+Gunslinger1999: calls $0.02
+*** FLOP *** [4h 6s 8d]
+d1ablo84: checks 
+Gunslinger1999: checks 
+Lorpugo: bets $0.07
+d1ablo84: folds 
+Gunslinger1999: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4h 6s 8d]
+Seat 1: Gunslinger1999 folded on the Flop
+Seat 2: Lorpugo collected ($0.13)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: d1ablo84 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240689280734:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:33:21 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($0.88 in chips) 
+Seat 2: Lorpugo ($3.70 in chips) 
+Seat 3: AcidShark3 ($2.08 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 5: Pejep ($2 in chips) 
+Seat 6: d1ablo84 ($2.59 in chips) 
+d1ablo84: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ac]
+Lorpugo: raises $0.04 to $0.06
+AcidShark3: calls $0.06
+carbonatx: folds 
+Pejep: raises $0.21 to $0.27
+d1ablo84: folds 
+Gunslinger1999: folds 
+Lorpugo: folds 
+AcidShark3: calls $0.21
+*** FLOP *** [2c 8d 9c]
+AcidShark3: checks 
+Pejep: bets $0.43
+AcidShark3: raises $1.38 to $1.81 and is all-in
+Pejep: calls $1.30 and is all-in
+Uncalled bet ($0.08) returned to AcidShark3
+*** TURN *** [2c 8d 9c] [Tc]
+*** RIVER *** [2c 8d 9c Tc] [Jh]
+*** SHOW DOWN ***
+AcidShark3: shows [7c 7d] (a straight, Seven to Jack)
+Pejep: shows [Jc Qh] (a straight, Eight to Queen)
+Pejep collected $3.95 from pot
+*** SUMMARY ***
+Total pot $4.09 | Rake $0.14 
+Board [2c 8d 9c Tc Jh]
+Seat 1: Gunslinger1999 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: AcidShark3 showed [7c 7d] and lost with a straight, Seven to Jack
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) showed [Jc Qh] and won ($3.95) with a straight, Eight to Queen
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240689300787:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:34:05 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($0.86 in chips) 
+Seat 2: Lorpugo ($3.64 in chips) 
+Seat 3: AcidShark3 ($0.08 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 5: Pejep ($3.95 in chips) 
+Seat 6: d1ablo84 ($2.58 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6d]
+AcidShark3: folds 
+AcidShark3 leaves the table
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [9d 3s 7h]
+Bernardix joins the table at seat #3 
+Gunslinger1999: checks 
+Lorpugo: bets $0.02
+Gunslinger1999: calls $0.02
+*** TURN *** [9d 3s 7h] [5c]
+Gunslinger1999: checks 
+Lorpugo: bets $0.04
+Gunslinger1999: calls $0.04
+*** RIVER *** [9d 3s 7h 5c] [Ac]
+Gunslinger1999: bets $0.14
+Lorpugo: raises $3.42 to $3.56 and is all-in
+Gunslinger1999: folds 
+Uncalled bet ($3.42) returned to Lorpugo
+Lorpugo collected $0.42 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [9d 3s 7h 5c Ac]
+Seat 1: Gunslinger1999 (small blind) folded on the River
+Seat 2: Lorpugo (big blind) collected ($0.42)
+Seat 3: AcidShark3 folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689334753:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:35:19 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($0.64 in chips) 
+Seat 2: Lorpugo ($3.84 in chips) 
+Seat 3: Bernardix ($1.60 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 5: Pejep ($3.95 in chips) 
+Seat 6: d1ablo84 ($2.58 in chips) 
+Lorpugo: posts small blind $0.01
+Bernardix: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Jh]
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: calls $0.01
+Bernardix: checks 
+*** FLOP *** [6c 3c 8s]
+Lorpugo: checks 
+Bernardix: checks 
+Gunslinger1999: bets $0.02
+Lorpugo: folds 
+Bernardix: calls $0.02
+*** TURN *** [6c 3c 8s] [2c]
+Bernardix: checks 
+Gunslinger1999: bets $0.16
+Bernardix: folds 
+Uncalled bet ($0.16) returned to Gunslinger1999
+Gunslinger1999 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6c 3c 8s 2c]
+Seat 1: Gunslinger1999 (button) collected ($0.10)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: Bernardix (big blind) folded on the Turn
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689353937:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:36:02 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($0.70 in chips) 
+Seat 2: Lorpugo ($3.82 in chips) 
+Seat 3: Bernardix ($1.56 in chips) 
+Seat 4: carbonatx ($2.17 in chips) 
+Seat 5: Pejep ($3.95 in chips) 
+Seat 6: d1ablo84 ($2.58 in chips) 
+Bernardix: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 6d]
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+Bernardix: folds 
+carbonatx: checks 
+*** FLOP *** [4d 3h 4c]
+carbonatx: checks 
+Gunslinger1999: checks 
+*** TURN *** [4d 3h 4c] [2h]
+carbonatx: checks 
+Gunslinger1999: bets $0.04
+carbonatx: folds 
+Uncalled bet ($0.04) returned to Gunslinger1999
+Gunslinger1999 collected $0.05 from pot
+Gunslinger1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d 3h 4c 2h]
+Seat 1: Gunslinger1999 collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Bernardix (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded on the Turn
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689375130:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:36:48 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($0.73 in chips) 
+Seat 2: Lorpugo ($3.82 in chips) 
+Seat 3: Bernardix ($1.55 in chips) 
+Seat 4: carbonatx ($2.15 in chips) 
+Seat 5: Pejep ($3.95 in chips) 
+Seat 6: d1ablo84 ($2.58 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Th]
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+Bernardix: calls $0.02
+carbonatx: calls $0.01
+Pejep: checks 
+*** FLOP *** [Jc 4d 5s]
+carbonatx: checks 
+Pejep: bets $0.02
+Gunslinger1999: calls $0.02
+Bernardix: calls $0.02
+carbonatx: folds 
+*** TURN *** [Jc 4d 5s] [3h]
+Pejep: checks 
+Gunslinger1999: bets $0.02
+Bernardix: calls $0.02
+Pejep: calls $0.02
+*** RIVER *** [Jc 4d 5s 3h] [9d]
+Pejep: checks 
+Gunslinger1999: bets $0.10
+Bernardix: folds 
+Pejep: folds 
+Uncalled bet ($0.10) returned to Gunslinger1999
+Gunslinger1999 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jc 4d 5s 3h 9d]
+Seat 1: Gunslinger1999 collected ($0.19)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Bernardix (button) folded on the River
+Seat 4: carbonatx (small blind) folded on the Flop
+Seat 5: Pejep (big blind) folded on the River
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689399282:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:37:41 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.86 in chips) 
+Seat 2: Lorpugo ($3.82 in chips) 
+Seat 3: Bernardix ($1.49 in chips) 
+Seat 4: carbonatx ($2.13 in chips) 
+Seat 5: Pejep ($3.89 in chips) 
+Seat 6: d1ablo84 ($2.58 in chips) 
+Pejep: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Qh]
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+Bernardix: folds 
+carbonatx: raises $0.05 to $0.07
+Pejep: calls $0.06
+d1ablo84: folds 
+Gunslinger1999: calls $0.05
+*** FLOP *** [Td 9c Jd]
+Pejep: checks 
+Gunslinger1999: bets $0.04
+carbonatx: calls $0.04
+Pejep: folds 
+*** TURN *** [Td 9c Jd] [Ad]
+Gunslinger1999: bets $0.06
+carbonatx: calls $0.06
+*** RIVER *** [Td 9c Jd Ad] [5h]
+Gunslinger1999: bets $0.26
+carbonatx: calls $0.26
+*** SHOW DOWN ***
+Gunslinger1999: shows [6s Qs] (high card Ace)
+carbonatx: shows [8c Jc] (a pair of Jacks)
+carbonatx collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Td 9c Jd Ad 5h]
+Seat 1: Gunslinger1999 showed [6s Qs] and lost with high card Ace
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Bernardix folded before Flop (didn't bet)
+Seat 4: carbonatx (button) showed [8c Jc] and won ($0.91) with a pair of Jacks
+Seat 5: Pejep (small blind) folded on the Flop
+Seat 6: d1ablo84 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240689427177:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:38:43 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($0.43 in chips) 
+Seat 2: Lorpugo ($3.82 in chips) 
+Seat 3: Bernardix ($1.49 in chips) 
+Seat 4: carbonatx ($2.61 in chips) 
+Seat 5: Pejep ($3.82 in chips) 
+Seat 6: d1ablo84 ($2.56 in chips) 
+d1ablo84: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 2c]
+Lorpugo: folds 
+Bernardix: raises $0.02 to $0.04
+carbonatx: folds 
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.02
+*** FLOP *** [Td Tc Ad]
+Gunslinger1999: checks 
+Bernardix: bets $0.06
+Gunslinger1999: folds 
+Uncalled bet ($0.06) returned to Bernardix
+Bernardix collected $0.09 from pot
+Bernardix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Td Tc Ad]
+Seat 1: Gunslinger1999 (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Bernardix collected ($0.09)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: d1ablo84 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240689441302:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:39:14 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($0.39 in chips) 
+Seat 2: Lorpugo ($3.82 in chips) 
+Seat 3: Bernardix ($1.54 in chips) 
+Seat 4: carbonatx ($2.61 in chips) 
+Seat 5: Pejep ($3.82 in chips) 
+Seat 6: d1ablo84 ($2.55 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ad]
+Bernardix: folds 
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+Gunslinger1999: raises $0.04 to $0.10
+Lorpugo: folds 
+Pejep: calls $0.04
+*** FLOP *** [Ah Jh 9d]
+Gunslinger1999: bets $0.29 and is all-in
+Pejep: folds 
+Uncalled bet ($0.29) returned to Gunslinger1999
+Gunslinger1999 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Ah Jh 9d]
+Seat 1: Gunslinger1999 (small blind) collected ($0.21)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Bernardix folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded on the Flop
+Seat 6: d1ablo84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689454986:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:39:44 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($0.50 in chips) 
+Seat 2: Lorpugo ($3.80 in chips) 
+Seat 3: Bernardix ($1.54 in chips) 
+Seat 4: carbonatx ($2.61 in chips) 
+Seat 5: Pejep ($3.72 in chips) 
+Seat 6: d1ablo84 ($2.55 in chips) 
+Lorpugo: posts small blind $0.01
+Bernardix: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 9h]
+carbonatx: raises $0.04 to $0.06
+Pejep: folds 
+d1ablo84: folds 
+Gunslinger1999: calls $0.06
+Lorpugo: folds 
+Bernardix: folds 
+*** FLOP *** [8c Tc Ks]
+carbonatx: checks 
+Gunslinger1999: bets $0.02
+carbonatx: calls $0.02
+*** TURN *** [8c Tc Ks] [Kh]
+carbonatx: checks 
+Gunslinger1999: bets $0.02
+carbonatx: calls $0.02
+*** RIVER *** [8c Tc Ks Kh] [2s]
+carbonatx: checks 
+Gunslinger1999: bets $0.14
+carbonatx: calls $0.14
+*** SHOW DOWN ***
+Gunslinger1999: shows [Jc 7h] (a pair of Kings)
+carbonatx: shows [Qc As] (a pair of Kings - Ace kicker)
+carbonatx collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [8c Tc Ks Kh 2s]
+Seat 1: Gunslinger1999 (button) showed [Jc 7h] and lost with a pair of Kings
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Bernardix (big blind) folded before Flop
+Seat 4: carbonatx showed [Qc As] and won ($0.49) with a pair of Kings
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689480899:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:40:42 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($0.26 in chips) 
+Seat 2: Lorpugo ($3.79 in chips) 
+Seat 3: Bernardix ($1.52 in chips) 
+Seat 4: carbonatx ($2.86 in chips) 
+Seat 5: Pejep ($3.72 in chips) 
+Seat 6: d1ablo84 ($2.55 in chips) 
+Bernardix: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qh]
+Pejep: raises $0.04 to $0.06
+d1ablo84: folds 
+Gunslinger1999: calls $0.06
+Lorpugo: folds 
+Bernardix: folds 
+carbonatx: folds 
+*** FLOP *** [Js 6h 2d]
+Pejep: checks 
+Gunslinger1999: bets $0.20 and is all-in
+Pejep: calls $0.20
+*** TURN *** [Js 6h 2d] [Ad]
+*** RIVER *** [Js 6h 2d Ad] [4s]
+*** SHOW DOWN ***
+Pejep: shows [Jc Kc] (a pair of Jacks)
+Gunslinger1999: shows [Ks 6s] (a pair of Sixes)
+Pejep collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Js 6h 2d Ad 4s]
+Seat 1: Gunslinger1999 showed [Ks 6s] and lost with a pair of Sixes
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Bernardix (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep showed [Jc Kc] and won ($0.53) with a pair of Jacks
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689501122:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:41:26 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($3.79 in chips) 
+Seat 3: Bernardix ($1.51 in chips) 
+Seat 4: carbonatx ($2.84 in chips) 
+Seat 5: Pejep ($3.99 in chips) 
+Seat 6: d1ablo84 ($2.55 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Tc]
+d1ablo84: folds 
+Lorpugo: raises $0.04 to $0.06
+Bernardix: folds 
+carbonatx: folds 
+Pejep: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: Bernardix (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: d1ablo84 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689508468:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:41:43 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.80 in chips) 
+Seat 2: Lorpugo ($3.82 in chips) 
+Seat 3: Bernardix ($1.51 in chips) 
+Seat 4: carbonatx ($2.83 in chips) 
+Seat 5: Pejep ($3.97 in chips) 
+Pejep: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6c]
+Lorpugo: raises $0.04 to $0.06
+Bernardix: folds 
+carbonatx: folds 
+d1ablo84 leaves the table
+Pejep: folds 
+Gunslinger1999: calls $0.04
+*** FLOP *** [Ah 7s 4h]
+Gunslinger1999: checks 
+Lorpugo: checks 
+*** TURN *** [Ah 7s 4h] [Tc]
+Gunslinger1999: bets $0.02
+Lorpugo: raises $0.11 to $0.13
+cbaritello joins the table at seat #6 
+Gunslinger1999: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.16 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ah 7s 4h Tc]
+Seat 1: Gunslinger1999 (big blind) folded on the Turn
+Seat 2: Lorpugo collected ($0.16)
+Seat 3: Bernardix folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) folded before Flop
+
+
+
+PokerStars Hand #240689524574:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:42:19 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($0.72 in chips) 
+Seat 2: Lorpugo ($3.90 in chips) 
+Seat 3: Bernardix ($1.51 in chips) 
+Seat 4: carbonatx ($2.83 in chips) 
+Seat 5: Pejep ($3.96 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6d]
+Bernardix: folds 
+carbonatx: folds 
+Pejep: folds 
+Gunslinger1999: calls $0.01
+Lorpugo: raises $0.04 to $0.06
+Gunslinger1999: calls $0.04
+*** FLOP *** [4d Ac Qc]
+Gunslinger1999: checks 
+Lorpugo: bets $0.06
+Gunslinger1999: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4d Ac Qc]
+Seat 1: Gunslinger1999 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected ($0.12)
+Seat 3: Bernardix folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689541656:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:42:57 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($0.66 in chips) 
+Seat 2: Lorpugo ($3.96 in chips) 
+Seat 3: Bernardix ($1.51 in chips) 
+Seat 4: carbonatx ($2.83 in chips) 
+Seat 5: Pejep ($3.96 in chips) 
+Lorpugo: posts small blind $0.01
+Bernardix: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Js]
+carbonatx: folds 
+Pejep: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+Bernardix: folds 
+Gunslinger1999: calls $0.06
+*** FLOP *** [Th Ks 8c]
+Lorpugo: checks 
+Gunslinger1999: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [Th Ks 8c] [2d]
+Lorpugo: checks 
+Gunslinger1999: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Gunslinger1999
+Gunslinger1999 collected $0.21 from pot
+Gunslinger1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Th Ks 8c 2d]
+Seat 1: Gunslinger1999 (button) collected ($0.21)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 3: Bernardix (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689559312:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:43:36 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($0.77 in chips) 
+Seat 2: Lorpugo ($3.86 in chips) 
+Seat 3: Bernardix ($1.49 in chips) 
+Seat 4: carbonatx ($2.83 in chips) 
+Seat 5: Pejep ($3.96 in chips) 
+Bernardix: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Jh]
+Pejep: folds 
+Gunslinger1999: folds 
+Lorpugo: folds 
+Bernardix: calls $0.01
+carbonatx: checks 
+*** FLOP *** [Qd 7h Kh]
+Bernardix: checks 
+carbonatx: bets $0.03
+Bernardix: calls $0.03
+*** TURN *** [Qd 7h Kh] [Jd]
+Bernardix: checks 
+carbonatx: bets $0.08
+Bernardix: calls $0.08
+*** RIVER *** [Qd 7h Kh Jd] [3c]
+Bernardix: checks 
+carbonatx: checks 
+*** SHOW DOWN ***
+Bernardix: shows [Qh 2h] (a pair of Queens)
+carbonatx: shows [4s Kd] (a pair of Kings)
+carbonatx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Qd 7h Kh Jd 3c]
+Seat 1: Gunslinger1999 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Bernardix (small blind) showed [Qh 2h] and lost with a pair of Queens
+Seat 4: carbonatx (big blind) showed [4s Kd] and won ($0.25) with a pair of Kings
+Seat 5: Pejep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689578818:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:44:20 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($0.77 in chips) 
+Seat 2: Lorpugo ($3.86 in chips) 
+Seat 3: Bernardix ($1.36 in chips) 
+Seat 4: carbonatx ($2.95 in chips) 
+Seat 5: Pejep ($3.96 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 3c]
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.04 to $0.06
+Bernardix: calls $0.06
+carbonatx: folds 
+Pejep: folds 
+Gunslinger1999: calls $0.04
+*** FLOP *** [8d 3h Ah]
+Gunslinger1999: checks 
+Lorpugo: bets $0.07
+Bernardix: folds 
+Gunslinger1999: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8d 3h Ah]
+Seat 1: Gunslinger1999 folded on the Flop
+Seat 2: Lorpugo collected ($0.20)
+Seat 3: Bernardix (button) folded on the Flop
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+
+
+
+PokerStars Hand #240689592122:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:44:50 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.71 in chips) 
+Seat 2: Lorpugo ($4 in chips) 
+Seat 3: Bernardix ($1.30 in chips) 
+Seat 4: carbonatx ($2.94 in chips) 
+Seat 5: Pejep ($3.94 in chips) 
+Seat 6: cbaritello ($2 in chips) 
+Pejep: posts small blind $0.01
+cbaritello: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Jd]
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+Bernardix: raises $0.04 to $0.06
+carbonatx: calls $0.06
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.04
+*** FLOP *** [2c 9s 8h]
+Gunslinger1999: checks 
+Bernardix: bets $0.12
+carbonatx: calls $0.12
+Gunslinger1999: folds 
+*** TURN *** [2c 9s 8h] [5h]
+Bernardix: checks 
+carbonatx: bets $0.23
+Bernardix: folds 
+Uncalled bet ($0.23) returned to carbonatx
+carbonatx collected $0.43 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c 9s 8h 5h]
+Seat 1: Gunslinger1999 folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Bernardix folded on the Turn
+Seat 4: carbonatx (button) collected ($0.43)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: cbaritello (big blind) folded before Flop
+
+
+
+PokerStars Hand #240689615321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:45:42 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($0.65 in chips) 
+Seat 2: Lorpugo ($4 in chips) 
+Seat 4: carbonatx ($3.19 in chips) 
+Seat 5: Pejep ($3.93 in chips) 
+Seat 6: cbaritello ($1.98 in chips) 
+cbaritello: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 3s]
+Bernardix leaves the table
+Lorpugo: calls $0.02
+carbonatx: folds 
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: checks 
+*** FLOP *** [9c 9h 4h]
+Gunslinger1999: checks 
+Lorpugo: bets $0.03
+Gunslinger1999: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c 9h 4h]
+Seat 1: Gunslinger1999 (big blind) folded on the Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: cbaritello (small blind) folded before Flop
+
+
+
+PokerStars Hand #240689624958:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:46:04 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($0.63 in chips) 
+Seat 2: Lorpugo ($4.03 in chips) 
+Seat 4: carbonatx ($3.19 in chips) 
+Seat 5: Pejep ($3.93 in chips) 
+Seat 6: cbaritello ($1.97 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 8c]
+carbonatx: raises $0.04 to $0.06
+Pejep: raises $0.16 to $0.22
+cbaritello: folds 
+Gunslinger1999: folds 
+luigi casanova joins the table at seat #3 
+Lorpugo: folds 
+carbonatx: folds 
+Uncalled bet ($0.16) returned to Pejep
+Pejep collected $0.15 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Gunslinger1999 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop
+Seat 5: Pejep collected ($0.15)
+Seat 6: cbaritello (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689631975:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:46:19 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($0.62 in chips) 
+Seat 2: Lorpugo ($4.01 in chips) 
+Seat 3: luigi casanova ($2 in chips) 
+Seat 4: carbonatx ($3.13 in chips) 
+Seat 5: Pejep ($4.02 in chips) 
+Seat 6: cbaritello ($1.97 in chips) 
+Lorpugo: posts small blind $0.01
+luigi casanova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh As]
+carbonatx: folds 
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+luigi casanova: folds 
+Gunslinger1999: raises $0.22 to $0.32
+Lorpugo: calls $0.22
+*** FLOP *** [Kh 8d 8s]
+Lorpugo: checks 
+Gunslinger1999: bets $0.30 and is all-in
+Lorpugo: calls $0.30
+*** TURN *** [Kh 8d 8s] [Kd]
+*** RIVER *** [Kh 8d 8s Kd] [Tc]
+*** SHOW DOWN ***
+Lorpugo: shows [Qh As] (two pair, Kings and Eights)
+Gunslinger1999: shows [Jd Jh] (two pair, Kings and Jacks)
+Gunslinger1999 collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.04 
+Board [Kh 8d 8s Kd Tc]
+Seat 1: Gunslinger1999 (button) showed [Jd Jh] and won ($1.22) with two pair, Kings and Jacks
+Seat 2: Lorpugo (small blind) showed [Qh As] and lost with two pair, Kings and Eights
+Seat 3: luigi casanova (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689647851:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:46:55 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($1.22 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: luigi casanova ($1.98 in chips) 
+Seat 4: carbonatx ($3.13 in chips) 
+Seat 5: Pejep ($4.02 in chips) 
+Seat 6: cbaritello ($1.97 in chips) 
+luigi casanova: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 9s]
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: calls $0.02
+luigi casanova: calls $0.01
+carbonatx: checks 
+*** FLOP *** [6c 7c 2h]
+luigi casanova: checks 
+carbonatx: checks 
+Gunslinger1999: checks 
+Lorpugo: checks 
+*** TURN *** [6c 7c 2h] [3s]
+luigi casanova: checks 
+carbonatx: checks 
+Gunslinger1999: bets $0.02
+Lorpugo: folds 
+luigi casanova: calls $0.02
+carbonatx: folds 
+*** RIVER *** [6c 7c 2h 3s] [8d]
+luigi casanova: checks 
+Gunslinger1999: bets $0.10
+luigi casanova: folds 
+Uncalled bet ($0.10) returned to Gunslinger1999
+Gunslinger1999 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6c 7c 2h 3s 8d]
+Seat 1: Gunslinger1999 collected ($0.12)
+Seat 2: Lorpugo (button) folded on the Turn
+Seat 3: luigi casanova (small blind) folded on the River
+Seat 4: carbonatx (big blind) folded on the Turn
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689677282:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:48:01 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($1.30 in chips) 
+Seat 2: Lorpugo ($3.37 in chips) 
+Seat 3: luigi casanova ($1.94 in chips) 
+Seat 4: carbonatx ($3.11 in chips) 
+Seat 5: Pejep ($4.02 in chips) 
+Seat 6: cbaritello ($1.97 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Kh]
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+luigi casanova: folds 
+carbonatx: folds 
+Pejep: raises $0.08 to $0.10
+Gunslinger1999: folds 
+Uncalled bet ($0.08) returned to Pejep
+Pejep collected $0.05 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gunslinger1999 folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) collected ($0.05)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689688077:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:48:26 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($1.28 in chips) 
+Seat 2: Lorpugo ($3.37 in chips) 
+Seat 3: luigi casanova ($1.94 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($4.05 in chips) 
+Seat 6: cbaritello ($1.97 in chips) 
+Pejep: posts small blind $0.01
+cbaritello: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2d]
+Gunslinger1999: folds 
+Lorpugo: folds 
+luigi casanova: calls $0.02
+carbonatx: folds 
+Pejep: raises $0.06 to $0.08
+cbaritello: calls $0.06
+luigi casanova: calls $0.06
+*** FLOP *** [Jh 7d 7h]
+Pejep: bets $0.16
+cbaritello: folds 
+luigi casanova: calls $0.16
+*** TURN *** [Jh 7d 7h] [6h]
+Pejep: bets $0.42
+luigi casanova: folds 
+Uncalled bet ($0.42) returned to Pejep
+Pejep collected $0.54 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [Jh 7d 7h 6h]
+Seat 1: Gunslinger1999 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova folded on the Turn
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) collected ($0.54)
+Seat 6: cbaritello (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240689708234:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:49:11 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($1.28 in chips) 
+Seat 2: Lorpugo ($3.37 in chips) 
+Seat 3: luigi casanova ($1.70 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($4.35 in chips) 
+Seat 6: cbaritello ($1.89 in chips) 
+cbaritello: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Th]
+Lorpugo: folds 
+luigi casanova: folds 
+carbonatx: folds 
+Pejep: folds 
+cbaritello: raises $0.04 to $0.06
+Gunslinger1999: raises $0.04 to $0.10
+cbaritello: calls $0.04
+*** FLOP *** [2d 7c Td]
+cbaritello: bets $0.06
+Gunslinger1999: calls $0.06
+*** TURN *** [2d 7c Td] [Js]
+cbaritello: checks 
+Gunslinger1999: bets $0.06
+cbaritello: calls $0.06
+*** RIVER *** [2d 7c Td Js] [5s]
+cbaritello: checks 
+Gunslinger1999: bets $0.20
+cbaritello: calls $0.20
+*** SHOW DOWN ***
+Gunslinger1999: shows [4s 4d] (a pair of Fours)
+cbaritello: shows [5c Ah] (a pair of Fives)
+cbaritello collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [2d 7c Td Js 5s]
+Seat 1: Gunslinger1999 (big blind) showed [4s 4d] and lost with a pair of Fours
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: cbaritello (small blind) showed [5c Ah] and won ($0.81) with a pair of Fives
+
+
+
+PokerStars Hand #240689730157:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:50:00 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($0.86 in chips) 
+Seat 2: Lorpugo ($3.37 in chips) 
+Seat 3: luigi casanova ($1.70 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($4.35 in chips) 
+Seat 6: cbaritello ($2.28 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 7s]
+luigi casanova: folds 
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+cbaritello: calls $0.06
+Gunslinger1999: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [9h 9s Js]
+Gunslinger1999: checks 
+Lorpugo: checks 
+Pejep: checks 
+cbaritello: checks 
+*** TURN *** [9h 9s Js] [8d]
+Gunslinger1999: bets $0.04
+Lorpugo: folds 
+Pejep: folds 
+cbaritello: calls $0.04
+*** RIVER *** [9h 9s Js 8d] [2d]
+Gunslinger1999: bets $0.08
+cbaritello: folds 
+Uncalled bet ($0.08) returned to Gunslinger1999
+Gunslinger1999 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [9h 9s Js 8d 2d]
+Seat 1: Gunslinger1999 (small blind) collected ($0.31)
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: luigi casanova folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded on the Turn
+Seat 6: cbaritello (button) folded on the River
+
+
+
+PokerStars Hand #240689756704:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:51:00 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($1.07 in chips) 
+Seat 2: Lorpugo ($3.31 in chips) 
+Seat 3: luigi casanova ($1.70 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($4.29 in chips) 
+Seat 6: cbaritello ($2.18 in chips) 
+Lorpugo: posts small blind $0.01
+luigi casanova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qd]
+carbonatx: folds 
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+luigi casanova: folds 
+Gunslinger1999: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Gunslinger1999 (button) folded before Flop
+Seat 2: Lorpugo (small blind) collected ($0.06)
+Seat 3: luigi casanova (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689766407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:51:22 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($1.05 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: luigi casanova ($1.68 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($4.29 in chips) 
+Seat 6: cbaritello ($2.18 in chips) 
+luigi casanova: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 6d]
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+luigi casanova: calls $0.01
+carbonatx: checks 
+*** FLOP *** [8h Qs Ah]
+luigi casanova: checks 
+carbonatx: checks 
+Gunslinger1999: checks 
+*** TURN *** [8h Qs Ah] [7h]
+luigi casanova: checks 
+carbonatx: checks 
+Gunslinger1999: bets $0.02
+luigi casanova: calls $0.02
+carbonatx: calls $0.02
+*** RIVER *** [8h Qs Ah 7h] [Ad]
+luigi casanova: checks 
+carbonatx: checks 
+Gunslinger1999: bets $0.08
+luigi casanova: folds 
+carbonatx: calls $0.08
+*** SHOW DOWN ***
+Gunslinger1999: shows [9d 4s] (a pair of Aces)
+carbonatx: shows [Qd Js] (two pair, Aces and Queens)
+carbonatx collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [8h Qs Ah 7h Ad]
+Seat 1: Gunslinger1999 showed [9d 4s] and lost with a pair of Aces
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: luigi casanova (small blind) folded on the River
+Seat 4: carbonatx (big blind) showed [Qd Js] and won ($0.27) with two pair, Aces and Queens
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689788578:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:52:11 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($0.93 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: luigi casanova ($1.64 in chips) 
+Seat 4: carbonatx ($3.25 in chips) 
+Seat 5: Pejep ($4.29 in chips) 
+Seat 6: cbaritello ($2.18 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Th]
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+luigi casanova: folds 
+carbonatx: folds 
+Pejep: raises $0.29 to $0.38
+Gunslinger1999: folds 
+Lorpugo: folds 
+Uncalled bet ($0.29) returned to Pejep
+Pejep collected $0.21 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: Gunslinger1999 folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: luigi casanova (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) collected ($0.21)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689802292:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:52:43 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.91 in chips) 
+Seat 2: Lorpugo ($3.26 in chips) 
+Seat 3: luigi casanova ($1.64 in chips) 
+Seat 4: carbonatx ($3.24 in chips) 
+Seat 5: Pejep ($4.41 in chips) 
+Seat 6: cbaritello ($2.18 in chips) 
+Pejep: posts small blind $0.01
+cbaritello: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Qc]
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+luigi casanova: folds 
+carbonatx: raises $0.05 to $0.07
+Pejep: folds 
+cbaritello: calls $0.05
+Gunslinger1999: calls $0.05
+*** FLOP *** [9c Js 3d]
+cbaritello: checks 
+Gunslinger1999: checks 
+carbonatx: checks 
+*** TURN *** [9c Js 3d] [Qs]
+cbaritello: bets $0.11
+Gunslinger1999: folds 
+carbonatx: folds 
+Uncalled bet ($0.11) returned to cbaritello
+cbaritello collected $0.21 from pot
+cbaritello: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [9c Js 3d Qs]
+Seat 1: Gunslinger1999 folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova folded before Flop (didn't bet)
+Seat 4: carbonatx (button) folded on the Turn
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: cbaritello (big blind) collected ($0.21)
+
+
+
+PokerStars Hand #240689817919:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:53:18 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($0.84 in chips) 
+Seat 2: Lorpugo ($3.26 in chips) 
+Seat 3: luigi casanova ($1.64 in chips) 
+Seat 4: carbonatx ($3.17 in chips) 
+Seat 5: Pejep ($4.40 in chips) 
+Seat 6: cbaritello ($2.32 in chips) 
+cbaritello: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ks]
+Lorpugo: folds 
+luigi casanova: calls $0.02
+carbonatx: raises $0.05 to $0.07
+Pejep: folds 
+cbaritello: calls $0.06
+Gunslinger1999: calls $0.05
+luigi casanova: calls $0.05
+*** FLOP *** [As Tc 2h]
+cbaritello: checks 
+Gunslinger1999: checks 
+luigi casanova: checks 
+carbonatx: checks 
+*** TURN *** [As Tc 2h] [7c]
+cbaritello: bets $0.14
+Gunslinger1999: calls $0.14
+luigi casanova: calls $0.14
+carbonatx: folds 
+*** RIVER *** [As Tc 2h 7c] [7s]
+cbaritello: bets $0.16
+Gunslinger1999: folds 
+luigi casanova: calls $0.16
+*** SHOW DOWN ***
+cbaritello: shows [Js Jd] (two pair, Jacks and Sevens)
+luigi casanova: shows [Ah 3d] (two pair, Aces and Sevens)
+luigi casanova collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [As Tc 2h 7c 7s]
+Seat 1: Gunslinger1999 (big blind) folded on the River
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova showed [Ah 3d] and won ($0.98) with two pair, Aces and Sevens
+Seat 4: carbonatx folded on the Turn
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: cbaritello (small blind) showed [Js Jd] and lost with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #240689846832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:54:24 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($0.63 in chips) 
+Seat 2: Lorpugo ($3.26 in chips) 
+Seat 3: luigi casanova ($2.25 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($4.40 in chips) 
+Seat 6: cbaritello ($1.95 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8s]
+luigi casanova: calls $0.02
+carbonatx: folds 
+Pejep: folds 
+cbaritello: raises $0.06 to $0.08
+Gunslinger1999: calls $0.07
+Lorpugo: calls $0.06
+luigi casanova: calls $0.06
+*** FLOP *** [8d 3s 4c]
+Gunslinger1999: checks 
+Lorpugo: checks 
+luigi casanova: checks 
+cbaritello: bets $0.16
+Gunslinger1999: folds 
+Lorpugo: calls $0.16
+luigi casanova: folds 
+*** TURN *** [8d 3s 4c] [Jd]
+Lorpugo: checks 
+cbaritello: checks 
+*** RIVER *** [8d 3s 4c Jd] [5d]
+Lorpugo: checks 
+cbaritello: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ts 8s] (a pair of Eights)
+cbaritello: mucks hand 
+Lorpugo collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [8d 3s 4c Jd 5d]
+Seat 1: Gunslinger1999 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) showed [Ts 8s] and won ($0.62) with a pair of Eights
+Seat 3: luigi casanova folded on the Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello (button) mucked [Ah Qs]
+
+
+
+PokerStars Hand #240689866121:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:55:12 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($0.55 in chips) 
+Seat 2: Lorpugo ($3.64 in chips) 
+Seat 3: luigi casanova ($2.17 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($4.40 in chips) 
+Seat 6: cbaritello ($1.71 in chips) 
+Lorpugo: posts small blind $0.01
+luigi casanova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Kh]
+carbonatx: folds 
+Pejep: raises $0.06 to $0.08
+cbaritello: calls $0.08
+Gunslinger1999: raises $0.16 to $0.24
+Lorpugo: folds 
+luigi casanova: folds 
+Pejep: calls $0.16
+cbaritello: calls $0.16
+*** FLOP *** [Qs 9c 5d]
+Pejep: checks 
+cbaritello: checks 
+Gunslinger1999: bets $0.31 and is all-in
+Pejep: calls $0.31
+cbaritello: calls $0.31
+*** TURN *** [Qs 9c 5d] [Tc]
+Pejep: checks 
+cbaritello: checks 
+*** RIVER *** [Qs 9c 5d Tc] [4c]
+Pejep: checks 
+cbaritello: checks 
+*** SHOW DOWN ***
+Pejep: shows [9s As] (a pair of Nines)
+cbaritello: shows [Ah 9h] (a pair of Nines)
+Gunslinger1999: shows [Kd Js] (a straight, Nine to King)
+Gunslinger1999 collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.68 | Rake $0.06 
+Board [Qs 9c 5d Tc 4c]
+Seat 1: Gunslinger1999 (button) showed [Kd Js] and won ($1.62) with a straight, Nine to King
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: luigi casanova (big blind) folded before Flop
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep showed [9s As] and lost with a pair of Nines
+Seat 6: cbaritello showed [Ah 9h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #240689880170:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:56:03 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($1.62 in chips) 
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 3: luigi casanova ($2.15 in chips) 
+Seat 4: carbonatx ($3.10 in chips) 
+Seat 5: Pejep ($3.85 in chips) 
+Seat 6: cbaritello ($1.16 in chips) 
+luigi casanova: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kd]
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+luigi casanova: folds 
+carbonatx: checks 
+*** FLOP *** [Jd 6c 8s]
+carbonatx: checks 
+Gunslinger1999: checks 
+*** TURN *** [Jd 6c 8s] [9h]
+carbonatx: checks 
+Gunslinger1999: checks 
+*** RIVER *** [Jd 6c 8s 9h] [7s]
+carbonatx: checks 
+Gunslinger1999: bets $0.20
+carbonatx: folds 
+Uncalled bet ($0.20) returned to Gunslinger1999
+Gunslinger1999 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd 6c 8s 9h 7s]
+Seat 1: Gunslinger1999 collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: luigi casanova (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded on the River
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689892344:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:56:45 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($1.65 in chips) 
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 3: luigi casanova ($2.14 in chips) 
+Seat 4: carbonatx ($3.08 in chips) 
+Seat 5: Pejep ($3.85 in chips) 
+Seat 6: cbaritello ($2 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 2c]
+cbaritello: raises $0.04 to $0.06
+Gunslinger1999: folds 
+Lorpugo: folds 
+luigi casanova: folds 
+carbonatx: folds 
+Pejep: folds 
+Uncalled bet ($0.04) returned to cbaritello
+cbaritello collected $0.05 from pot
+cbaritello: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gunslinger1999 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded before Flop
+Seat 6: cbaritello collected ($0.05)
+
+
+
+PokerStars Hand #240689897651:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:57:04 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($1.65 in chips) 
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 3: luigi casanova ($2.14 in chips) 
+Seat 4: carbonatx ($3.07 in chips) 
+Seat 5: Pejep ($3.83 in chips) 
+Seat 6: cbaritello ($2.03 in chips) 
+Pejep: posts small blind $0.01
+cbaritello: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4h]
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+luigi casanova: calls $0.02
+carbonatx: folds 
+Pejep: raises $0.14 to $0.16
+cbaritello: folds 
+Gunslinger1999: folds 
+luigi casanova: calls $0.14
+*** FLOP *** [Td 6d Ks]
+Pejep: bets $0.25
+luigi casanova: calls $0.25
+*** TURN *** [Td 6d Ks] [5s]
+Pejep: bets $0.58
+luigi casanova: folds 
+Uncalled bet ($0.58) returned to Pejep
+Pejep collected $0.83 from pot
+Pejep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [Td 6d Ks 5s]
+Seat 1: Gunslinger1999 folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova folded on the Turn
+Seat 4: carbonatx (button) folded before Flop (didn't bet)
+Seat 5: Pejep (small blind) collected ($0.83)
+Seat 6: cbaritello (big blind) folded before Flop
+
+
+
+PokerStars Hand #240689912445:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:57:55 ET
+Table 'Industria' 6-max Seat #5 is the button
+Seat 1: Gunslinger1999 ($1.63 in chips) 
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 3: luigi casanova ($1.73 in chips) 
+Seat 4: carbonatx ($3.07 in chips) 
+Seat 5: Pejep ($4.25 in chips) 
+Seat 6: cbaritello ($2.01 in chips) 
+cbaritello: posts small blind $0.01
+Gunslinger1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Qs]
+Lorpugo: folds 
+luigi casanova: folds 
+carbonatx: raises $0.04 to $0.06
+Pejep: folds 
+cbaritello: calls $0.05
+Gunslinger1999: calls $0.04
+*** FLOP *** [8h Ad Qh]
+cbaritello: checks 
+Gunslinger1999: bets $0.02
+carbonatx: folds 
+cbaritello: raises $0.06 to $0.08
+Gunslinger1999: calls $0.06
+*** TURN *** [8h Ad Qh] [Qc]
+cbaritello: checks 
+Gunslinger1999: bets $0.06
+cbaritello: calls $0.06
+*** RIVER *** [8h Ad Qh Qc] [Th]
+cbaritello: checks 
+Gunslinger1999: bets $0.28
+cbaritello: calls $0.28
+*** SHOW DOWN ***
+Gunslinger1999: shows [Ts 8c] (two pair, Queens and Tens)
+cbaritello: shows [As Jc] (two pair, Aces and Queens)
+cbaritello collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [8h Ad Qh Qc Th]
+Seat 1: Gunslinger1999 (big blind) showed [Ts 8c] and lost with two pair, Queens and Tens
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova folded before Flop (didn't bet)
+Seat 4: carbonatx folded on the Flop
+Seat 5: Pejep (button) folded before Flop (didn't bet)
+Seat 6: cbaritello (small blind) showed [As Jc] and won ($0.98) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #240689928629:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:58:51 ET
+Table 'Industria' 6-max Seat #6 is the button
+Seat 1: Gunslinger1999 ($1.15 in chips) 
+Seat 2: Lorpugo ($3.63 in chips) 
+Seat 3: luigi casanova ($1.73 in chips) 
+Seat 4: carbonatx ($3.01 in chips) 
+Seat 5: Pejep ($4.25 in chips) 
+Seat 6: cbaritello ($2.51 in chips) 
+Gunslinger1999: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6d]
+luigi casanova: folds 
+carbonatx: folds 
+Pejep: raises $0.04 to $0.06
+cbaritello: folds 
+Gunslinger1999: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [7h 8s Tc]
+Gunslinger1999: bets $0.04
+Pejep: folds 
+Uncalled bet ($0.04) returned to Gunslinger1999
+Gunslinger1999 collected $0.14 from pot
+Gunslinger1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7h 8s Tc]
+Seat 1: Gunslinger1999 (small blind) collected ($0.14)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: luigi casanova folded before Flop (didn't bet)
+Seat 4: carbonatx folded before Flop (didn't bet)
+Seat 5: Pejep folded on the Flop
+Seat 6: cbaritello (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689936416:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 16:59:18 ET
+Table 'Industria' 6-max Seat #1 is the button
+Seat 1: Gunslinger1999 ($1.23 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 3: luigi casanova ($1.73 in chips) 
+Seat 4: carbonatx ($3.01 in chips) 
+Seat 5: Pejep ($4.19 in chips) 
+Seat 6: cbaritello ($2.51 in chips) 
+Lorpugo: posts small blind $0.01
+luigi casanova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qh]
+carbonatx: raises $0.04 to $0.06
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.06
+Lorpugo: folds 
+luigi casanova: folds 
+*** FLOP *** [2s 3h Ad]
+carbonatx: checks 
+Gunslinger1999: bets $0.02
+carbonatx: calls $0.02
+*** TURN *** [2s 3h Ad] [6s]
+carbonatx: checks 
+Gunslinger1999: bets $0.06
+carbonatx: calls $0.06
+*** RIVER *** [2s 3h Ad 6s] [4c]
+carbonatx: checks 
+Gunslinger1999: bets $0.14
+carbonatx: calls $0.14
+*** SHOW DOWN ***
+Gunslinger1999: shows [9h Ah] (a pair of Aces)
+carbonatx: shows [As Tc] (a pair of Aces - Ten kicker)
+carbonatx collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [2s 3h Ad 6s 4c]
+Seat 1: Gunslinger1999 (button) showed [9h Ah] and lost with a pair of Aces
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: luigi casanova (big blind) folded before Flop
+Seat 4: carbonatx showed [As Tc] and won ($0.57) with a pair of Aces
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689948505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 17:00:01 ET
+Table 'Industria' 6-max Seat #2 is the button
+Seat 1: Gunslinger1999 ($0.95 in chips) 
+Seat 2: Lorpugo ($3.60 in chips) 
+Seat 3: luigi casanova ($1.71 in chips) 
+Seat 4: carbonatx ($3.30 in chips) 
+Seat 5: Pejep ($4.19 in chips) 
+Seat 6: cbaritello ($2.51 in chips) 
+luigi casanova: posts small blind $0.01
+carbonatx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Ah]
+Pejep: folds 
+cbaritello: raises $0.04 to $0.06
+Gunslinger1999: folds 
+Lorpugo: calls $0.06
+luigi casanova: folds 
+carbonatx: folds 
+*** FLOP *** [Jd 4s Jc]
+cbaritello: checks 
+Lorpugo: bets $0.05
+cbaritello: calls $0.05
+*** TURN *** [Jd 4s Jc] [7s]
+cbaritello: checks 
+Lorpugo: bets $0.08
+cbaritello: raises $0.12 to $0.20
+Lorpugo: calls $0.12
+*** RIVER *** [Jd 4s Jc 7s] [9h]
+cbaritello: bets $0.44
+Lorpugo: folds 
+Uncalled bet ($0.44) returned to cbaritello
+cbaritello collected $0.63 from pot
+cbaritello: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Jd 4s Jc 7s 9h]
+Seat 1: Gunslinger1999 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the River
+Seat 3: luigi casanova (small blind) folded before Flop
+Seat 4: carbonatx (big blind) folded before Flop
+Seat 5: Pejep folded before Flop (didn't bet)
+Seat 6: cbaritello collected ($0.63)
+
+
+
+PokerStars Hand #240689970871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 17:01:10 ET
+Table 'Industria' 6-max Seat #3 is the button
+Seat 1: Gunslinger1999 ($0.95 in chips) 
+Seat 2: Lorpugo ($3.29 in chips) 
+Seat 3: luigi casanova ($1.70 in chips) 
+Seat 4: carbonatx ($3.28 in chips) 
+Seat 5: Pejep ($4.19 in chips) 
+Seat 6: cbaritello ($2.83 in chips) 
+carbonatx: posts small blind $0.01
+Pejep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2h]
+cbaritello: folds 
+Gunslinger1999: calls $0.02
+Lorpugo: folds 
+luigi casanova: folds 
+carbonatx: folds 
+Pejep: checks 
+*** FLOP *** [3d 6s As]
+Pejep: checks 
+Gunslinger1999: bets $0.04
+Pejep: folds 
+Uncalled bet ($0.04) returned to Gunslinger1999
+Gunslinger1999 collected $0.05 from pot
+Gunslinger1999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d 6s As]
+Seat 1: Gunslinger1999 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: luigi casanova (button) folded before Flop (didn't bet)
+Seat 4: carbonatx (small blind) folded before Flop
+Seat 5: Pejep (big blind) folded on the Flop
+Seat 6: cbaritello folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240689982671:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 17:01:41 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Gunslinger1999 ($0.98 in chips) 
+Seat 2: Lorpugo ($3.29 in chips) 
+Seat 3: luigi casanova ($1.70 in chips) 
+Seat 4: carbonatx ($3.27 in chips) 
+Seat 5: Pejep ($4.17 in chips) 
+Seat 6: cbaritello ($2.83 in chips) 
+Pejep: posts small blind $0.01
+cbaritello: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ac]
+Gunslinger1999: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+luigi casanova: folds 
+carbonatx: calls $0.09
+Pejep: folds 
+cbaritello: folds 
+Gunslinger1999: calls $0.07
+*** FLOP *** [3d Kc Qc]
+Gunslinger1999: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+carbonatx: raises $0.13 to $0.17
+Gunslinger1999: folds 
+Lorpugo: calls $0.13
+*** TURN *** [3d Kc Qc] [7d]
+Lorpugo: checks 
+carbonatx: bets $0.48
+Lorpugo: folds 
+Uncalled bet ($0.48) returned to carbonatx
+carbonatx collected $0.64 from pot
+carbonatx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [3d Kc Qc 7d]
+Seat 1: Gunslinger1999 folded on the Flop
+Seat 2: Lorpugo folded on the Turn
+Seat 3: luigi casanova folded before Flop (didn't bet)
+Seat 4: carbonatx (button) collected ($0.64)
+Seat 5: Pejep (small blind) folded before Flop
+Seat 6: cbaritello (big blind) folded before Flop
+
+
+

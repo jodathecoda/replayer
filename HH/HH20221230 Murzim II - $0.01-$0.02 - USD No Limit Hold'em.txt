@@ -1,0 +1,288 @@
+﻿PokerStars Hand #240796612675:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:05:37 ET
+Table 'Murzim II' 6-max Seat #6 is the button
+Seat 1: CBDeeBee ($2.07 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: hok_DK ($4.17 in chips) 
+Seat 4: wechselwesem ($2.71 in chips) 
+Seat 5: rkkn ($1.99 in chips) 
+Seat 6: ghitogarcia ($2 in chips) 
+CBDeeBee: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2s]
+hok_DK: folds 
+wechselwesem: calls $0.02
+rkkn: folds 
+ghitogarcia: folds 
+CBDeeBee: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [4d 7h Kh]
+CBDeeBee: checks 
+Lorpugo: checks 
+wechselwesem: bets $0.03
+CBDeeBee: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to wechselwesem
+wechselwesem collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4d 7h Kh]
+Seat 1: CBDeeBee (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: hok_DK folded before Flop (didn't bet)
+Seat 4: wechselwesem collected ($0.06)
+Seat 5: rkkn folded before Flop (didn't bet)
+Seat 6: ghitogarcia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240796626138:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:06:20 ET
+Table 'Murzim II' 6-max Seat #1 is the button
+Seat 1: CBDeeBee ($2.05 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: hok_DK ($4.17 in chips) 
+Seat 4: wechselwesem ($2.75 in chips) 
+Seat 5: rkkn ($1.99 in chips) 
+Seat 6: ghitogarcia ($2 in chips) 
+Lorpugo: posts small blind $0.01
+hok_DK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 9s]
+wechselwesem: calls $0.02
+rkkn: folds 
+ghitogarcia: folds 
+CBDeeBee: calls $0.02
+Lorpugo: folds 
+hok_DK: checks 
+*** FLOP *** [9h 8s Jh]
+hok_DK: bets $0.04
+wechselwesem: folds 
+CBDeeBee: calls $0.04
+*** TURN *** [9h 8s Jh] [Js]
+hok_DK: checks 
+CBDeeBee: checks 
+*** RIVER *** [9h 8s Jh Js] [Ts]
+hok_DK: bets $0.07
+CBDeeBee: calls $0.07
+*** SHOW DOWN ***
+hok_DK: shows [6h Qh] (a straight, Eight to Queen)
+CBDeeBee: mucks hand 
+hok_DK collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9h 8s Jh Js Ts]
+Seat 1: CBDeeBee (button) mucked [8d 7d]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: hok_DK (big blind) showed [6h Qh] and won ($0.28) with a straight, Eight to Queen
+Seat 4: wechselwesem folded on the Flop
+Seat 5: rkkn folded before Flop (didn't bet)
+Seat 6: ghitogarcia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240796644422:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:07:19 ET
+Table 'Murzim II' 6-max Seat #2 is the button
+Seat 1: CBDeeBee ($1.92 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: hok_DK ($4.32 in chips) 
+Seat 4: wechselwesem ($2.73 in chips) 
+Seat 5: rkkn ($1.99 in chips) 
+Seat 6: ghitogarcia ($2 in chips) 
+hok_DK: posts small blind $0.01
+wechselwesem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 6s]
+rkkn: folds 
+ghitogarcia: folds 
+CBDeeBee: folds 
+Lorpugo: raises $0.04 to $0.06
+hok_DK: calls $0.05
+wechselwesem: calls $0.04
+*** FLOP *** [Td Ac 5c]
+hok_DK: checks 
+wechselwesem: checks 
+Lorpugo: checks 
+*** TURN *** [Td Ac 5c] [4d]
+hok_DK: bets $0.09
+wechselwesem: calls $0.09
+Lorpugo: folds 
+*** RIVER *** [Td Ac 5c 4d] [9c]
+hok_DK: checks 
+wechselwesem: checks 
+*** SHOW DOWN ***
+hok_DK: shows [Th Jh] (a pair of Tens)
+wechselwesem: mucks hand 
+hok_DK collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Td Ac 5c 4d 9c]
+Seat 1: CBDeeBee folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the Turn
+Seat 3: hok_DK (small blind) showed [Th Jh] and won ($0.35) with a pair of Tens
+Seat 4: wechselwesem (big blind) mucked [Ks Qh]
+Seat 5: rkkn folded before Flop (didn't bet)
+Seat 6: ghitogarcia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240796661469:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:08:13 ET
+Table 'Murzim II' 6-max Seat #3 is the button
+Seat 1: CBDeeBee ($2 in chips) 
+Seat 2: Lorpugo ($1.51 in chips) 
+Seat 3: hok_DK ($4.52 in chips) 
+Seat 4: wechselwesem ($2.58 in chips) 
+Seat 5: rkkn ($1.99 in chips) 
+Seat 6: ghitogarcia ($2 in chips) 
+wechselwesem: posts small blind $0.01
+rkkn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5c]
+ghitogarcia: folds 
+CBDeeBee: folds 
+Lorpugo: folds 
+hok_DK: folds 
+wechselwesem: calls $0.01
+rkkn: checks 
+*** FLOP *** [Kd Jh 4s]
+wechselwesem: checks 
+rkkn: checks 
+*** TURN *** [Kd Jh 4s] [Td]
+wechselwesem: bets $0.02
+rkkn: calls $0.02
+*** RIVER *** [Kd Jh 4s Td] [Th]
+wechselwesem: bets $0.04
+rkkn: raises $0.12 to $0.16
+wechselwesem: calls $0.12
+*** SHOW DOWN ***
+rkkn: shows [3h Ts] (three of a kind, Tens)
+wechselwesem: mucks hand 
+rkkn collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Kd Jh 4s Td Th]
+Seat 1: CBDeeBee folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: hok_DK (button) folded before Flop (didn't bet)
+Seat 4: wechselwesem (small blind) mucked [Jc 4c]
+Seat 5: rkkn (big blind) showed [3h Ts] and won ($0.39) with three of a kind, Tens
+Seat 6: ghitogarcia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240796673943:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:08:53 ET
+Table 'Murzim II' 6-max Seat #4 is the button
+Seat 1: CBDeeBee ($2 in chips) 
+Seat 2: Lorpugo ($1.51 in chips) 
+Seat 3: hok_DK ($4.52 in chips) 
+Seat 4: wechselwesem ($2.38 in chips) 
+Seat 5: rkkn ($2.18 in chips) 
+Seat 6: ghitogarcia ($2 in chips) 
+rkkn: posts small blind $0.01
+ghitogarcia: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 4c]
+CBDeeBee: folds 
+Lorpugo: folds 
+hok_DK: folds 
+wechselwesem: raises $0.05 to $0.07
+rkkn: folds 
+ghitogarcia: folds 
+Uncalled bet ($0.05) returned to wechselwesem
+wechselwesem collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: CBDeeBee folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: hok_DK folded before Flop (didn't bet)
+Seat 4: wechselwesem (button) collected ($0.05)
+Seat 5: rkkn (small blind) folded before Flop
+Seat 6: ghitogarcia (big blind) folded before Flop
+
+
+
+PokerStars Hand #240796679817:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:09:12 ET
+Table 'Murzim II' 6-max Seat #5 is the button
+Seat 1: CBDeeBee ($2 in chips) 
+Seat 2: Lorpugo ($1.51 in chips) 
+Seat 3: hok_DK ($4.52 in chips) 
+Seat 4: wechselwesem ($2.41 in chips) 
+Seat 5: rkkn ($2.17 in chips) 
+Seat 6: ghitogarcia ($2 in chips) 
+ghitogarcia: posts small blind $0.01
+CBDeeBee: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Jh]
+Lorpugo has timed out
+Lorpugo: folds 
+hok_DK: folds 
+wechselwesem: raises $0.04 to $0.06
+rkkn: folds 
+ghitogarcia: calls $0.05
+CBDeeBee: calls $0.04
+*** FLOP *** [Th 5d 8h]
+ghitogarcia: checks 
+CBDeeBee: checks 
+wechselwesem: checks 
+*** TURN *** [Th 5d 8h] [4h]
+ghitogarcia: checks 
+CBDeeBee: bets $0.08
+wechselwesem: calls $0.08
+ghitogarcia: folds 
+*** RIVER *** [Th 5d 8h 4h] [Kc]
+CBDeeBee: bets $0.25
+wechselwesem: calls $0.25
+*** SHOW DOWN ***
+CBDeeBee: shows [7h Qh] (a flush, Queen high)
+wechselwesem: mucks hand 
+CBDeeBee collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [Th 5d 8h 4h Kc]
+Seat 1: CBDeeBee (big blind) showed [7h Qh] and won ($0.81) with a flush, Queen high
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: hok_DK folded before Flop (didn't bet)
+Seat 4: wechselwesem mucked [4d 4s]
+Seat 5: rkkn (button) folded before Flop (didn't bet)
+Seat 6: ghitogarcia (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240796699336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 11:10:13 ET
+Table 'Murzim II' 6-max Seat #6 is the button
+Seat 1: CBDeeBee ($2.42 in chips) 
+Seat 2: Lorpugo ($1.51 in chips) 
+Seat 3: hok_DK ($4.52 in chips) 
+Seat 4: wechselwesem ($2.02 in chips) 
+Seat 5: rkkn ($2.17 in chips) 
+Seat 6: ghitogarcia ($2 in chips) 
+CBDeeBee: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d As]
+hok_DK: folds 
+wechselwesem: folds 
+rkkn: folds 
+ghitogarcia: raises $0.02 to $0.04
+CBDeeBee: raises $0.12 to $0.16
+Lorpugo: calls $0.14
+ghitogarcia: calls $0.12
+*** FLOP *** [Qc 4h Ah]
+CBDeeBee: checks 
+Lorpugo: bets $0.23
+ghitogarcia: folds 
+CBDeeBee: folds 
+Uncalled bet ($0.23) returned to Lorpugo
+Lorpugo collected $0.46 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Qc 4h Ah]
+Seat 1: CBDeeBee (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected ($0.46)
+Seat 3: hok_DK folded before Flop (didn't bet)
+Seat 4: wechselwesem folded before Flop (didn't bet)
+Seat 5: rkkn folded before Flop (didn't bet)
+Seat 6: ghitogarcia (button) folded on the Flop
+
+
+

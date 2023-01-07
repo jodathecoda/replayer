@@ -1,0 +1,1391 @@
+﻿PokerStars Hand #240731969947:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:13:00 ET
+Table 'Dudu II' 6-max Seat #4 is the button
+Seat 1: CristinaPtc ($3.26 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($1.99 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($2.83 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+vasquezbeats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ah]
+CristinaPtc: folds 
+Kraivens: folds 
+Diabloftj: raises $0.04 to $0.06
+Scream80218: calls $0.06
+vasquezbeats: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Kh 4d 2s]
+Lorpugo: checks 
+Diabloftj: bets $0.10
+Scream80218: folds 
+Lorpugo: calls $0.10
+*** TURN *** [Kh 4d 2s] [Kc]
+Lorpugo: checks 
+Diabloftj: bets $0.21
+Lorpugo: calls $0.21
+*** RIVER *** [Kh 4d 2s Kc] [6h]
+Lorpugo: checks 
+Diabloftj: bets $0.41
+Lorpugo: folds 
+Uncalled bet ($0.41) returned to Diabloftj
+Diabloftj collected $0.78 from pot
+Diabloftj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [Kh 4d 2s Kc 6h]
+Seat 1: CristinaPtc folded before Flop (didn't bet)
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj collected ($0.78)
+Seat 4: Scream80218 (button) folded on the Flop
+Seat 5: vasquezbeats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #240732013110:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:14:41 ET
+Table 'Dudu II' 6-max Seat #5 is the button
+Seat 1: CristinaPtc ($3.26 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.40 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($2.82 in chips) 
+Seat 6: Lorpugo ($1.23 in chips) 
+Lorpugo: posts small blind $0.01
+CristinaPtc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 5s]
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: raises $0.11 to $0.16
+Lorpugo: folds 
+CristinaPtc: folds 
+Scream80218: calls $0.11
+*** FLOP *** [3d 6s 3h]
+Scream80218: checks 
+vasquezbeats: bets $0.11
+Scream80218: calls $0.11
+*** TURN *** [3d 6s 3h] [3c]
+Scream80218: checks 
+vasquezbeats: bets $0.18
+Scream80218: calls $0.18
+*** RIVER *** [3d 6s 3h 3c] [6c]
+Scream80218: checks 
+vasquezbeats: bets $1.22
+Scream80218: folds 
+Uncalled bet ($1.22) returned to vasquezbeats
+vasquezbeats collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [3d 6s 3h 3c 6c]
+Seat 1: CristinaPtc (big blind) folded before Flop
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 folded on the River
+Seat 5: vasquezbeats (button) collected ($0.90)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240732046690:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:15:57 ET
+Table 'Dudu II' 6-max Seat #6 is the button
+Seat 1: CristinaPtc ($3.24 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.40 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($3.27 in chips) 
+Seat 6: Lorpugo ($1.22 in chips) 
+CristinaPtc: posts small blind $0.01
+Kraivens: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Kd]
+Diabloftj: folds 
+Scream80218: folds 
+vasquezbeats: folds 
+Lorpugo: raises $0.04 to $0.06
+CristinaPtc: calls $0.05
+Kraivens: folds 
+*** FLOP *** [Kc Ks 9c]
+CristinaPtc: checks 
+Lorpugo: bets $0.07
+CristinaPtc: calls $0.07
+*** TURN *** [Kc Ks 9c] [Qd]
+CristinaPtc: checks 
+Lorpugo: bets $0.18
+CristinaPtc: calls $0.18
+*** RIVER *** [Kc Ks 9c Qd] [Js]
+CristinaPtc: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+CristinaPtc: shows [9s Td] (a straight, Nine to King)
+Lorpugo: mucks hand 
+CristinaPtc collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [Kc Ks 9c Qd Js]
+Seat 1: CristinaPtc (small blind) showed [9s Td] and won ($0.62) with a straight, Nine to King
+Seat 2: Kraivens (big blind) folded before Flop
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 folded before Flop (didn't bet)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) mucked [7h Kd]
+
+
+
+PokerStars Hand #240732062912:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:16:35 ET
+Table 'Dudu II' 6-max Seat #1 is the button
+Seat 1: CristinaPtc ($3.55 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.40 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($3.27 in chips) 
+Seat 6: Lorpugo ($0.91 in chips) 
+Kraivens: posts small blind $0.01
+Diabloftj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Jc]
+Scream80218: folds 
+vasquezbeats: folds 
+Lorpugo: raises $0.04 to $0.06
+CristinaPtc: folds 
+Kraivens: folds 
+Diabloftj: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: CristinaPtc (button) folded before Flop (didn't bet)
+Seat 2: Kraivens (small blind) folded before Flop
+Seat 3: Diabloftj (big blind) folded before Flop
+Seat 4: Scream80218 folded before Flop (didn't bet)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240732069187:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:16:49 ET
+Table 'Dudu II' 6-max Seat #2 is the button
+Seat 1: CristinaPtc ($3.55 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.38 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($3.27 in chips) 
+Seat 6: Lorpugo ($0.94 in chips) 
+Diabloftj: posts small blind $0.01
+Scream80218: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9c]
+vasquezbeats: folds 
+Lorpugo: raises $0.04 to $0.06
+CristinaPtc: calls $0.06
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: folds 
+*** FLOP *** [As Ac 2c]
+Lorpugo: checks 
+CristinaPtc: checks 
+*** TURN *** [As Ac 2c] [7s]
+Lorpugo: checks 
+CristinaPtc: checks 
+*** RIVER *** [As Ac 2c 7s] [Th]
+Lorpugo: bets $0.12
+CristinaPtc: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As Ac 2c 7s Th]
+Seat 1: CristinaPtc folded on the River
+Seat 2: Kraivens (button) folded before Flop (didn't bet)
+Seat 3: Diabloftj (small blind) folded before Flop
+Seat 4: Scream80218 (big blind) folded before Flop
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.14)
+
+
+
+PokerStars Hand #240732095254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:17:49 ET
+Table 'Dudu II' 6-max Seat #3 is the button
+Seat 1: CristinaPtc ($3.49 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.37 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($3.27 in chips) 
+Seat 6: Lorpugo ($1.02 in chips) 
+Scream80218: posts small blind $0.01
+vasquezbeats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kh]
+Lorpugo: folds 
+CristinaPtc: calls $0.02
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: folds 
+vasquezbeats: checks 
+*** FLOP *** [8s 9d 7d]
+vasquezbeats: checks 
+CristinaPtc: checks 
+*** TURN *** [8s 9d 7d] [2d]
+vasquezbeats: checks 
+CristinaPtc: checks 
+*** RIVER *** [8s 9d 7d 2d] [5d]
+vasquezbeats: checks 
+CristinaPtc: bets $0.05
+vasquezbeats: raises $0.13 to $0.18
+CristinaPtc: calls $0.13
+*** SHOW DOWN ***
+vasquezbeats: shows [Qh 6h] (a straight, Five to Nine)
+CristinaPtc: shows [5s 6s] (a straight, Five to Nine)
+vasquezbeats collected $0.20 from pot
+CristinaPtc collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [8s 9d 7d 2d 5d]
+Seat 1: CristinaPtc showed [5s 6s] and won ($0.20) with a straight, Five to Nine
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj (button) folded before Flop (didn't bet)
+Seat 4: Scream80218 (small blind) folded before Flop
+Seat 5: vasquezbeats (big blind) showed [Qh 6h] and won ($0.20) with a straight, Five to Nine
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732108918:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:18:20 ET
+Table 'Dudu II' 6-max Seat #4 is the button
+Seat 1: CristinaPtc ($3.49 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.37 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($3.27 in chips) 
+Seat 6: Lorpugo ($1.02 in chips) 
+vasquezbeats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9s]
+CristinaPtc: folds 
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: raises $0.11 to $0.16
+Scream80218: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: CristinaPtc folded before Flop (didn't bet)
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 (button) folded before Flop
+Seat 5: vasquezbeats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.11)
+
+
+
+PokerStars Hand #240732118870:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:18:43 ET
+Table 'Dudu II' 6-max Seat #5 is the button
+Seat 1: CristinaPtc ($3.49 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.37 in chips) 
+Seat 4: Scream80218 ($2 in chips) 
+Seat 5: vasquezbeats ($3.26 in chips) 
+Seat 6: Lorpugo ($1.08 in chips) 
+Lorpugo: posts small blind $0.01
+CristinaPtc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 6s]
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: raises $0.12 to $0.17
+CristinaPtc: calls $0.15
+Scream80218: calls $0.12
+*** FLOP *** [Qc 3s Qd]
+Lorpugo: checks 
+CristinaPtc: checks 
+Scream80218: checks 
+*** TURN *** [Qc 3s Qd] [7h]
+Lorpugo: bets $0.30
+CristinaPtc: calls $0.30
+Scream80218: calls $0.30
+*** RIVER *** [Qc 3s Qd 7h] [Kh]
+Lorpugo: checks 
+CristinaPtc: checks 
+Scream80218: bets $0.33
+Lorpugo: folds 
+CristinaPtc: calls $0.33
+*** SHOW DOWN ***
+Scream80218: shows [Qh Kd] (a full house, Queens full of Kings)
+CristinaPtc: mucks hand 
+Scream80218 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.07 | Rake $0.07 
+Board [Qc 3s Qd 7h Kh]
+Seat 1: CristinaPtc (big blind) mucked [7d Ah]
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 showed [Qh Kd] and won ($2) with a full house, Queens full of Kings
+Seat 5: vasquezbeats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240732147477:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:19:49 ET
+Table 'Dudu II' 6-max Seat #6 is the button
+Seat 1: CristinaPtc ($2.69 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.37 in chips) 
+Seat 4: Scream80218 ($3.20 in chips) 
+Seat 5: vasquezbeats ($3.26 in chips) 
+Seat 6: Lorpugo ($1.41 in chips) 
+CristinaPtc: posts small blind $0.01
+Kraivens: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Kh]
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: folds 
+CristinaPtc: calls $0.04
+Kraivens: folds 
+*** FLOP *** [7h Kd 2h]
+CristinaPtc: checks 
+Scream80218: checks 
+*** TURN *** [7h Kd 2h] [3c]
+CristinaPtc: checks 
+Scream80218: bets $0.04
+CristinaPtc: calls $0.04
+*** RIVER *** [7h Kd 2h 3c] [Th]
+CristinaPtc: checks 
+Scream80218: checks 
+*** SHOW DOWN ***
+CristinaPtc: shows [8c 7s] (a pair of Sevens)
+Scream80218: mucks hand 
+CristinaPtc collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7h Kd 2h 3c Th]
+Seat 1: CristinaPtc (small blind) showed [8c 7s] and won ($0.19) with a pair of Sevens
+Seat 2: Kraivens (big blind) folded before Flop
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 mucked [4c 7c]
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732160699:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:20:20 ET
+Table 'Dudu II' 6-max Seat #1 is the button
+Seat 1: CristinaPtc ($2.79 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.37 in chips) 
+Seat 4: Scream80218 ($3.11 in chips) 
+Seat 5: vasquezbeats ($3.26 in chips) 
+Seat 6: Lorpugo ($1.41 in chips) 
+Kraivens: posts small blind $0.01
+Diabloftj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3d]
+Scream80218: folds 
+vasquezbeats: folds 
+Lorpugo: folds 
+CristinaPtc: raises $0.04 to $0.06
+Kraivens: folds 
+Diabloftj: folds 
+Uncalled bet ($0.04) returned to CristinaPtc
+CristinaPtc collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: CristinaPtc (button) collected ($0.05)
+Seat 2: Kraivens (small blind) folded before Flop
+Seat 3: Diabloftj (big blind) folded before Flop
+Seat 4: Scream80218 folded before Flop (didn't bet)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732168260:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:20:37 ET
+Table 'Dudu II' 6-max Seat #2 is the button
+Seat 1: CristinaPtc ($2.82 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.35 in chips) 
+Seat 4: Scream80218 ($3.11 in chips) 
+Seat 5: vasquezbeats ($3.26 in chips) 
+Seat 6: Lorpugo ($1.41 in chips) 
+Diabloftj: posts small blind $0.01
+Scream80218: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2c]
+vasquezbeats: raises $0.04 to $0.06
+Lorpugo: folds 
+CristinaPtc: folds 
+Kraivens: folds 
+Diabloftj: calls $0.05
+Scream80218: raises $0.14 to $0.20
+vasquezbeats: calls $0.14
+Diabloftj: calls $0.14
+*** FLOP *** [Qh 6s 8h]
+Diabloftj: checks 
+Scream80218: checks 
+vasquezbeats: checks 
+*** TURN *** [Qh 6s 8h] [9s]
+Diabloftj: bets $0.39
+Scream80218: folds 
+vasquezbeats: folds 
+Uncalled bet ($0.39) returned to Diabloftj
+Diabloftj collected $0.58 from pot
+Diabloftj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Qh 6s 8h 9s]
+Seat 1: CristinaPtc folded before Flop (didn't bet)
+Seat 2: Kraivens (button) folded before Flop (didn't bet)
+Seat 3: Diabloftj (small blind) collected ($0.58)
+Seat 4: Scream80218 (big blind) folded on the Turn
+Seat 5: vasquezbeats folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732191357:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:21:30 ET
+Table 'Dudu II' 6-max Seat #3 is the button
+Seat 1: CristinaPtc ($2.82 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($2.91 in chips) 
+Seat 5: vasquezbeats ($3.06 in chips) 
+Seat 6: Lorpugo ($1.41 in chips) 
+Scream80218: posts small blind $0.01
+vasquezbeats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 9d]
+Lorpugo: raises $0.04 to $0.06
+CristinaPtc: folds 
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: folds 
+vasquezbeats: raises $0.16 to $0.22
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to vasquezbeats
+vasquezbeats collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: CristinaPtc folded before Flop (didn't bet)
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj (button) folded before Flop (didn't bet)
+Seat 4: Scream80218 (small blind) folded before Flop
+Seat 5: vasquezbeats (big blind) collected ($0.13)
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #240732210263:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:22:14 ET
+Table 'Dudu II' 6-max Seat #4 is the button
+Seat 1: CristinaPtc ($2.82 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($2.90 in chips) 
+Seat 5: vasquezbeats ($3.13 in chips) 
+Seat 6: Lorpugo ($1.35 in chips) 
+vasquezbeats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ts]
+CristinaPtc: folds 
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [9s Ac Js]
+Lorpugo: checks 
+Scream80218: checks 
+*** TURN *** [9s Ac Js] [Tc]
+Lorpugo: bets $0.07
+Scream80218: calls $0.07
+*** RIVER *** [9s Ac Js Tc] [Qc]
+Lorpugo: checks 
+Scream80218: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7s Ts] (a pair of Tens)
+Scream80218: shows [Qd 4d] (a pair of Queens)
+Scream80218 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s Ac Js Tc Qc]
+Seat 1: CristinaPtc folded before Flop (didn't bet)
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 (button) showed [Qd 4d] and won ($0.24) with a pair of Queens
+Seat 5: vasquezbeats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [7s Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #240732226972:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:22:52 ET
+Table 'Dudu II' 6-max Seat #5 is the button
+Seat 1: CristinaPtc ($2.82 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.02 in chips) 
+Seat 5: vasquezbeats ($3.12 in chips) 
+Seat 6: Lorpugo ($1.23 in chips) 
+Lorpugo: posts small blind $0.01
+CristinaPtc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9d]
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: calls $0.04
+CristinaPtc: raises $0.03 to $0.08
+Scream80218: calls $0.03
+Lorpugo: calls $0.03
+*** FLOP *** [5s Ad Kd]
+Lorpugo: checks 
+CristinaPtc: checks 
+Scream80218: bets $0.08
+Lorpugo: calls $0.08
+CristinaPtc: calls $0.08
+*** TURN *** [5s Ad Kd] [6c]
+Lorpugo: checks 
+CristinaPtc: checks 
+Scream80218: bets $0.15
+Lorpugo: calls $0.15
+CristinaPtc: folds 
+*** RIVER *** [5s Ad Kd 6c] [Qh]
+Lorpugo: checks 
+Scream80218: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6d 9d] (a pair of Sixes)
+Scream80218: shows [Ah Jh] (a pair of Aces)
+Scream80218 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [5s Ad Kd 6c Qh]
+Seat 1: CristinaPtc (big blind) folded on the Turn
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 showed [Ah Jh] and won ($0.75) with a pair of Aces
+Seat 5: vasquezbeats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) showed [6d 9d] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #240732255600:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:23:58 ET
+Table 'Dudu II' 6-max Seat #6 is the button
+Seat 1: CristinaPtc ($2.66 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.46 in chips) 
+Seat 5: vasquezbeats ($3.12 in chips) 
+Seat 6: Lorpugo ($0.92 in chips) 
+CristinaPtc: posts small blind $0.01
+Kraivens: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Qc]
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: raises $0.13 to $0.18
+CristinaPtc: calls $0.17
+Kraivens: folds 
+Scream80218: folds 
+*** FLOP *** [7s 5d 5c]
+CristinaPtc: checks 
+Lorpugo: checks 
+*** TURN *** [7s 5d 5c] [9s]
+CristinaPtc: checks 
+Lorpugo: checks 
+*** RIVER *** [7s 5d 5c 9s] [6h]
+CristinaPtc: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+CristinaPtc: shows [3d Kh] (a pair of Fives)
+Lorpugo: shows [Kc Qc] (a pair of Fives - King+Queen kicker)
+Lorpugo collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [7s 5d 5c 9s 6h]
+Seat 1: CristinaPtc (small blind) showed [3d Kh] and lost with a pair of Fives
+Seat 2: Kraivens (big blind) folded before Flop
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 folded before Flop
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) showed [Kc Qc] and won ($0.41) with a pair of Fives
+
+
+
+PokerStars Hand #240732276936:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:24:47 ET
+Table 'Dudu II' 6-max Seat #1 is the button
+Seat 1: CristinaPtc ($2.48 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.41 in chips) 
+Seat 5: vasquezbeats ($3.12 in chips) 
+Seat 6: Lorpugo ($1.15 in chips) 
+Kraivens: posts small blind $0.01
+Diabloftj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 5d]
+Scream80218: folds 
+vasquezbeats: folds 
+Lorpugo: folds 
+CristinaPtc: folds 
+Kraivens: folds 
+Uncalled bet ($0.01) returned to Diabloftj
+Diabloftj collected $0.02 from pot
+Diabloftj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: CristinaPtc (button) folded before Flop (didn't bet)
+Seat 2: Kraivens (small blind) folded before Flop
+Seat 3: Diabloftj (big blind) collected ($0.02)
+Seat 4: Scream80218 folded before Flop (didn't bet)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732281398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:24:57 ET
+Table 'Dudu II' 6-max Seat #2 is the button
+Seat 1: CristinaPtc ($2.48 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.74 in chips) 
+Seat 4: Scream80218 ($3.41 in chips) 
+Seat 5: vasquezbeats ($3.12 in chips) 
+Seat 6: Lorpugo ($1.15 in chips) 
+Diabloftj: posts small blind $0.01
+Scream80218: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 4s]
+vasquezbeats: folds 
+Lorpugo: raises $0.04 to $0.06
+CristinaPtc: raises $0.04 to $0.10
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Jc Qh 8s]
+Lorpugo: checks 
+CristinaPtc: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to CristinaPtc
+CristinaPtc collected $0.22 from pot
+CristinaPtc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jc Qh 8s]
+Seat 1: CristinaPtc collected ($0.22)
+Seat 2: Kraivens (button) folded before Flop (didn't bet)
+Seat 3: Diabloftj (small blind) folded before Flop
+Seat 4: Scream80218 (big blind) folded before Flop
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #240732294972:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:25:28 ET
+Table 'Dudu II' 6-max Seat #3 is the button
+Seat 1: CristinaPtc ($2.60 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.39 in chips) 
+Seat 5: vasquezbeats ($3.12 in chips) 
+Seat 6: Lorpugo ($1.05 in chips) 
+Scream80218: posts small blind $0.01
+vasquezbeats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Js]
+Lorpugo: folds 
+CristinaPtc: raises $0.05 to $0.07
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: folds 
+vasquezbeats: raises $0.17 to $0.24
+CristinaPtc: calls $0.17
+*** FLOP *** [5c Jh Ac]
+vasquezbeats: bets $0.16
+CristinaPtc: calls $0.16
+*** TURN *** [5c Jh Ac] [Qs]
+vasquezbeats: checks 
+CristinaPtc: checks 
+*** RIVER *** [5c Jh Ac Qs] [Tc]
+vasquezbeats: bets $0.70
+CristinaPtc: calls $0.70
+*** SHOW DOWN ***
+vasquezbeats: shows [Ah Ks] (a straight, Ten to Ace)
+CristinaPtc: shows [Kc As] (a straight, Ten to Ace)
+vasquezbeats collected $1.07 from pot
+CristinaPtc collected $1.06 from pot
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.08 
+Board [5c Jh Ac Qs Tc]
+Seat 1: CristinaPtc showed [Kc As] and won ($1.06) with a straight, Ten to Ace
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj (button) folded before Flop (didn't bet)
+Seat 4: Scream80218 (small blind) folded before Flop
+Seat 5: vasquezbeats (big blind) showed [Ah Ks] and won ($1.07) with a straight, Ten to Ace
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732313876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:26:12 ET
+Table 'Dudu II' 6-max Seat #4 is the button
+Seat 1: CristinaPtc ($2.56 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.38 in chips) 
+Seat 5: vasquezbeats ($3.09 in chips) 
+Seat 6: Lorpugo ($1.05 in chips) 
+vasquezbeats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Tc]
+CristinaPtc: calls $0.02
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: folds 
+CristinaPtc: calls $0.03
+*** FLOP *** [9h 8d 2d]
+CristinaPtc: checks 
+Scream80218: bets $0.07
+CristinaPtc: calls $0.07
+*** TURN *** [9h 8d 2d] [7h]
+CristinaPtc: checks 
+Scream80218: bets $0.13
+CristinaPtc: calls $0.13
+*** RIVER *** [9h 8d 2d 7h] [Qc]
+CristinaPtc: checks 
+Scream80218: checks 
+*** SHOW DOWN ***
+CristinaPtc: shows [2c Jh] (a pair of Deuces)
+Scream80218: mucks hand 
+CristinaPtc collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [9h 8d 2d 7h Qc]
+Seat 1: CristinaPtc showed [2c Jh] and won ($0.51) with a pair of Deuces
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 (button) mucked [Td Ac]
+Seat 5: vasquezbeats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240732334330:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:26:59 ET
+Table 'Dudu II' 6-max Seat #5 is the button
+Seat 1: CristinaPtc ($2.82 in chips) 
+Seat 2: Kraivens ($2 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.13 in chips) 
+Seat 5: vasquezbeats ($3.08 in chips) 
+Seat 6: Lorpugo ($1.03 in chips) 
+Lorpugo: posts small blind $0.01
+CristinaPtc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ts]
+Kraivens: raises $0.04 to $0.06
+Diabloftj: folds 
+Scream80218: calls $0.06
+vasquezbeats: folds 
+Lorpugo: folds 
+CristinaPtc: calls $0.04
+*** FLOP *** [2c Qs Kc]
+CristinaPtc: checks 
+Kraivens: bets $0.06
+Scream80218: folds 
+CristinaPtc: calls $0.06
+*** TURN *** [2c Qs Kc] [8d]
+CristinaPtc: checks 
+Kraivens: bets $0.26
+CristinaPtc: calls $0.26
+*** RIVER *** [2c Qs Kc 8d] [5d]
+CristinaPtc: checks 
+Kraivens: checks 
+*** SHOW DOWN ***
+CristinaPtc: shows [Jd 3s] (high card King)
+Kraivens: shows [Qh Ac] (a pair of Queens)
+Kraivens collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [2c Qs Kc 8d 5d]
+Seat 1: CristinaPtc (big blind) showed [Jd 3s] and lost with high card King
+Seat 2: Kraivens showed [Qh Ac] and won ($0.80) with a pair of Queens
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 folded on the Flop
+Seat 5: vasquezbeats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240732354390:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:27:46 ET
+Table 'Dudu II' 6-max Seat #6 is the button
+Seat 2: Kraivens ($2.42 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.07 in chips) 
+Seat 5: vasquezbeats ($3.08 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+Kraivens: posts small blind $0.01
+Diabloftj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 4s]
+Scream80218: folds 
+vasquezbeats: folds 
+Lorpugo: folds 
+Kraivens: folds 
+Uncalled bet ($0.01) returned to Diabloftj
+Diabloftj collected $0.02 from pot
+Diabloftj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Kraivens (small blind) folded before Flop
+Seat 3: Diabloftj (big blind) collected ($0.02)
+Seat 4: Scream80218 folded before Flop (didn't bet)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732360627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:28:01 ET
+Table 'Dudu II' 6-max Seat #2 is the button
+Seat 2: Kraivens ($2.41 in chips) 
+Seat 3: Diabloftj ($2.74 in chips) 
+Seat 4: Scream80218 ($3.07 in chips) 
+Seat 5: vasquezbeats ($3.08 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+Diabloftj: posts small blind $0.01
+Scream80218: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7c]
+vasquezbeats: raises $0.04 to $0.06
+Lorpugo: folds 
+Kraivens: folds 
+Diabloftj: folds 
+Scream80218: folds 
+Uncalled bet ($0.04) returned to vasquezbeats
+vasquezbeats collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Kraivens (button) folded before Flop (didn't bet)
+Seat 3: Diabloftj (small blind) folded before Flop
+Seat 4: Scream80218 (big blind) folded before Flop
+Seat 5: vasquezbeats collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732366610:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:28:14 ET
+Table 'Dudu II' 6-max Seat #3 is the button
+Seat 2: Kraivens ($2.41 in chips) 
+Seat 3: Diabloftj ($2.73 in chips) 
+Seat 4: Scream80218 ($3.05 in chips) 
+Seat 5: vasquezbeats ($3.11 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+Scream80218: posts small blind $0.01
+vasquezbeats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 8s]
+Lorpugo has timed out
+Lorpugo: folds 
+Kraivens: folds 
+Diabloftj: raises $0.04 to $0.06
+Scream80218: folds 
+vasquezbeats: folds 
+Uncalled bet ($0.04) returned to Diabloftj
+Diabloftj collected $0.05 from pot
+Diabloftj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj (button) collected ($0.05)
+Seat 4: Scream80218 (small blind) folded before Flop
+Seat 5: vasquezbeats (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732379401:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:28:44 ET
+Table 'Dudu II' 6-max Seat #4 is the button
+Seat 2: Kraivens ($2.41 in chips) 
+Seat 3: Diabloftj ($2.76 in chips) 
+Seat 4: Scream80218 ($3.04 in chips) 
+Seat 5: vasquezbeats ($3.09 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+vasquezbeats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 2d]
+Kraivens: folds 
+Diabloftj: raises $0.04 to $0.06
+Scream80218: folds 
+vasquezbeats: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Diabloftj
+Diabloftj collected $0.05 from pot
+Diabloftj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: Diabloftj collected ($0.05)
+Seat 4: Scream80218 (button) folded before Flop (didn't bet)
+Seat 5: vasquezbeats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240732388670:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:29:06 ET
+Table 'Dudu II' 6-max Seat #5 is the button
+Seat 2: Kraivens ($2.41 in chips) 
+Seat 3: Diabloftj ($2.79 in chips) 
+Seat 4: Scream80218 ($3.04 in chips) 
+Seat 5: vasquezbeats ($3.08 in chips) 
+Seat 6: Lorpugo ($1.80 in chips) 
+Lorpugo: posts small blind $0.01
+Kraivens: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 3s]
+Diabloftj: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: folds 
+Kraivens: folds 
+Uncalled bet ($0.03) returned to Scream80218
+Scream80218 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Kraivens (big blind) folded before Flop
+Seat 3: Diabloftj folded before Flop (didn't bet)
+Seat 4: Scream80218 collected ($0.05)
+Seat 5: vasquezbeats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240732399705:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:29:31 ET
+Table 'Dudu II' 6-max Seat #6 is the button
+Seat 2: Kraivens ($2.39 in chips) 
+Seat 4: Scream80218 ($3.07 in chips) 
+Seat 5: vasquezbeats ($3.08 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+Kraivens: posts small blind $0.01
+Scream80218: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ks]
+Diabloftj leaves the table
+vasquezbeats: folds 
+KRandall12 joins the table at seat #3 
+Lorpugo: raises $0.04 to $0.06
+Kraivens: folds 
+Scream80218: raises $0.15 to $0.21
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Scream80218
+Scream80218 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 2: Kraivens (small blind) folded before Flop
+Seat 4: Scream80218 (big blind) collected ($0.13)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #240732410590:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:29:57 ET
+Table 'Dudu II' 6-max Seat #2 is the button
+Seat 2: Kraivens ($2.38 in chips) 
+Seat 4: Scream80218 ($3.14 in chips) 
+Seat 5: vasquezbeats ($3.08 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+Scream80218: posts small blind $0.01
+vasquezbeats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 4d]
+Lorpugo has timed out
+Lorpugo: folds 
+Kraivens: folds 
+Scream80218: folds 
+Uncalled bet ($0.01) returned to vasquezbeats
+vasquezbeats collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Kraivens (button) folded before Flop (didn't bet)
+Seat 4: Scream80218 (small blind) folded before Flop
+Seat 5: vasquezbeats (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732422994:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:30:24 ET
+Table 'Dudu II' 6-max Seat #4 is the button
+Seat 2: Kraivens ($2.38 in chips) 
+Seat 4: Scream80218 ($3.13 in chips) 
+Seat 5: vasquezbeats ($3.09 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+vasquezbeats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8d]
+Kraivens: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: raises $0.17 to $0.22
+Lorpugo: calls $0.20
+Scream80218: folds 
+*** FLOP *** [5c 2c 6c]
+vasquezbeats: bets $0.16
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to vasquezbeats
+vasquezbeats collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [5c 2c 6c]
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 4: Scream80218 (button) folded before Flop
+Seat 5: vasquezbeats (small blind) collected ($0.47)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240732440043:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:31:02 ET
+Table 'Dudu II' 6-max Seat #5 is the button
+Seat 2: Kraivens ($2.38 in chips) 
+Seat 4: Scream80218 ($3.08 in chips) 
+Seat 5: vasquezbeats ($3.34 in chips) 
+Seat 6: Lorpugo ($1.51 in chips) 
+Lorpugo: posts small blind $0.01
+Kraivens: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Kh]
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: folds 
+Kraivens: raises $0.13 to $0.18
+Scream80218: calls $0.13
+*** FLOP *** [4s As 6h]
+Kraivens: bets $0.12
+Scream80218: calls $0.12
+*** TURN *** [4s As 6h] [8c]
+Kraivens: bets $0.89
+Scream80218: folds 
+Uncalled bet ($0.89) returned to Kraivens
+Kraivens collected $0.59 from pot
+Kraivens: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [4s As 6h 8c]
+Seat 2: Kraivens (big blind) collected ($0.59)
+Seat 4: Scream80218 folded on the Turn
+Seat 5: vasquezbeats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240732466298:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:32:01 ET
+Table 'Dudu II' 6-max Seat #6 is the button
+Seat 2: Kraivens ($2.67 in chips) 
+Seat 3: KRandall12 ($0.80 in chips) 
+Seat 4: Scream80218 ($2.78 in chips) 
+Seat 5: vasquezbeats ($3.34 in chips) 
+Seat 6: Lorpugo ($1.50 in chips) 
+Kraivens: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Kh]
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: folds 
+Kraivens: folds 
+KRandall12: folds 
+Uncalled bet ($0.03) returned to Scream80218
+Scream80218 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Kraivens (small blind) folded before Flop
+Seat 3: KRandall12 (big blind) folded before Flop
+Seat 4: Scream80218 collected ($0.05)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732478810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:32:30 ET
+Table 'Dudu II' 6-max Seat #2 is the button
+Seat 2: Kraivens ($2.66 in chips) 
+Seat 3: KRandall12 ($0.80 in chips) 
+Seat 4: Scream80218 ($2.81 in chips) 
+Seat 5: vasquezbeats ($3.34 in chips) 
+Seat 6: Lorpugo ($1.50 in chips) 
+KRandall12: posts small blind $0.01
+Scream80218: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2c]
+vasquezbeats: folds 
+Lorpugo: folds 
+Kraivens: folds 
+KRandall12: raises $0.03 to $0.05
+Scream80218: calls $0.03
+*** FLOP *** [3h Qc Ks]
+KRandall12: bets $0.07
+Scream80218: calls $0.07
+*** TURN *** [3h Qc Ks] [9h]
+KRandall12: bets $0.09
+Scream80218: calls $0.09
+*** RIVER *** [3h Qc Ks 9h] [4c]
+KRandall12: checks 
+Scream80218: bets $0.09
+KRandall12: calls $0.09
+*** SHOW DOWN ***
+Scream80218: shows [Qd Ts] (a pair of Queens)
+KRandall12: shows [Kd As] (a pair of Kings)
+KRandall12 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [3h Qc Ks 9h 4c]
+Seat 2: Kraivens (button) folded before Flop (didn't bet)
+Seat 3: KRandall12 (small blind) showed [Kd As] and won ($0.58) with a pair of Kings
+Seat 4: Scream80218 (big blind) showed [Qd Ts] and lost with a pair of Queens
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732504322:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:33:28 ET
+Table 'Dudu II' 6-max Seat #3 is the button
+Seat 2: Kraivens ($2.66 in chips) 
+Seat 3: KRandall12 ($1.08 in chips) 
+Seat 4: Scream80218 ($2.51 in chips) 
+Seat 5: vasquezbeats ($3.34 in chips) 
+Seat 6: Lorpugo ($1.50 in chips) 
+Scream80218: posts small blind $0.01
+vasquezbeats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6s]
+Lorpugo: folds 
+Kraivens: folds 
+KRandall12: folds 
+Scream80218: folds 
+Uncalled bet ($0.01) returned to vasquezbeats
+vasquezbeats collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: KRandall12 (button) folded before Flop (didn't bet)
+Seat 4: Scream80218 (small blind) folded before Flop
+Seat 5: vasquezbeats (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732509500:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:33:39 ET
+Table 'Dudu II' 6-max Seat #4 is the button
+Seat 2: Kraivens ($2.66 in chips) 
+Seat 3: KRandall12 ($1.08 in chips) 
+Seat 4: Scream80218 ($2.50 in chips) 
+Seat 5: vasquezbeats ($3.35 in chips) 
+Seat 6: Lorpugo ($1.50 in chips) 
+vasquezbeats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Kd]
+Kraivens: folds 
+KRandall12: folds 
+Scream80218: folds 
+vasquezbeats: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+vasquezbeats: calls $0.12
+*** FLOP *** [3s Qs Jc]
+vasquezbeats: checks 
+Lorpugo: bets $1.32 and is all-in
+vasquezbeats: folds 
+Uncalled bet ($1.32) returned to Lorpugo
+Lorpugo collected $0.35 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [3s Qs Jc]
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: KRandall12 folded before Flop (didn't bet)
+Seat 4: Scream80218 (button) folded before Flop (didn't bet)
+Seat 5: vasquezbeats (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) collected ($0.35)
+
+
+
+PokerStars Hand #240732531572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:34:28 ET
+Table 'Dudu II' 6-max Seat #5 is the button
+Seat 1: CristinaPtc ($2.44 in chips) 
+Seat 2: Kraivens ($2.66 in chips) 
+Seat 3: KRandall12 ($1.08 in chips) 
+Seat 4: Scream80218 ($2.50 in chips) 
+Seat 5: vasquezbeats ($3.17 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+Lorpugo: posts small blind $0.01
+CristinaPtc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 4s]
+Kraivens: folds 
+KRandall12: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: calls $0.04
+CristinaPtc: calls $0.03
+*** FLOP *** [Qs 8c 8h]
+Lorpugo: bets $0.07
+CristinaPtc: raises $0.07 to $0.14
+Scream80218: folds 
+Lorpugo: calls $0.07
+*** TURN *** [Qs 8c 8h] [5h]
+Lorpugo: checks 
+CristinaPtc: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [Qs 8c 8h 5h] [Qd]
+Lorpugo: checks 
+CristinaPtc: bets $0.45
+Lorpugo: folds 
+Uncalled bet ($0.45) returned to CristinaPtc
+CristinaPtc collected $0.45 from pot
+CristinaPtc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Qs 8c 8h 5h Qd]
+Seat 1: CristinaPtc (big blind) collected ($0.45)
+Seat 2: Kraivens folded before Flop (didn't bet)
+Seat 3: KRandall12 folded before Flop (didn't bet)
+Seat 4: Scream80218 folded on the Flop
+Seat 5: vasquezbeats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240732554967:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:35:21 ET
+Table 'Dudu II' 6-max Seat #6 is the button
+Seat 1: CristinaPtc ($2.68 in chips) 
+Seat 2: Kraivens ($2.66 in chips) 
+Seat 3: KRandall12 ($1.08 in chips) 
+Seat 4: Scream80218 ($2.45 in chips) 
+Seat 5: vasquezbeats ($3.17 in chips) 
+Seat 6: Lorpugo ($1.46 in chips) 
+CristinaPtc: posts small blind $0.01
+Kraivens: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5s]
+KRandall12: folds 
+Scream80218: raises $0.03 to $0.05
+vasquezbeats: folds 
+Lorpugo: folds 
+CristinaPtc: calls $0.04
+Kraivens: folds 
+*** FLOP *** [8s 2d Ks]
+CristinaPtc: checks 
+Scream80218: checks 
+*** TURN *** [8s 2d Ks] [As]
+CristinaPtc: checks 
+Scream80218: checks 
+*** RIVER *** [8s 2d Ks As] [2s]
+CristinaPtc: checks 
+Scream80218: checks 
+*** SHOW DOWN ***
+CristinaPtc: shows [8d Th] (two pair, Eights and Deuces)
+Scream80218: mucks hand 
+CristinaPtc collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s 2d Ks As 2s]
+Seat 1: CristinaPtc (small blind) showed [8d Th] and won ($0.12) with two pair, Eights and Deuces
+Seat 2: Kraivens (big blind) folded before Flop
+Seat 3: KRandall12 folded before Flop (didn't bet)
+Seat 4: Scream80218 mucked [3h 3c]
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732571084:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:35:57 ET
+Table 'Dudu II' 6-max Seat #1 is the button
+Seat 1: CristinaPtc ($2.75 in chips) 
+Seat 2: Kraivens ($2.64 in chips) 
+Seat 3: KRandall12 ($1.08 in chips) 
+Seat 4: Scream80218 ($2.40 in chips) 
+Seat 5: vasquezbeats ($3.17 in chips) 
+Seat 6: Lorpugo ($1.46 in chips) 
+Kraivens: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7c]
+Scream80218: folds 
+vasquezbeats: folds 
+Lorpugo: folds 
+CristinaPtc: calls $0.02
+Kraivens: folds 
+KRandall12: checks 
+*** FLOP *** [9s 7h 4s]
+KRandall12: checks 
+CristinaPtc: bets $0.02
+KRandall12: folds 
+Uncalled bet ($0.02) returned to CristinaPtc
+CristinaPtc collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s 7h 4s]
+Seat 1: CristinaPtc (button) collected ($0.05)
+Seat 2: Kraivens (small blind) folded before Flop
+Seat 3: KRandall12 (big blind) folded on the Flop
+Seat 4: Scream80218 folded before Flop (didn't bet)
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240732584400:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 14:36:27 ET
+Table 'Dudu II' 6-max Seat #2 is the button
+Seat 1: CristinaPtc ($2.78 in chips) 
+Seat 2: Kraivens ($2.63 in chips) 
+Seat 3: KRandall12 ($1.06 in chips) 
+Seat 4: Scream80218 ($2.40 in chips) 
+Seat 5: vasquezbeats ($3.17 in chips) 
+Seat 6: Lorpugo ($1.46 in chips) 
+KRandall12: posts small blind $0.01
+Scream80218: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 3c]
+vasquezbeats: folds 
+Lorpugo: raises $0.04 to $0.06
+CristinaPtc: calls $0.06
+Kraivens: folds 
+KRandall12: folds 
+Scream80218: folds 
+*** FLOP *** [3s 2d Ah]
+Lorpugo: bets $0.07
+CristinaPtc: calls $0.07
+*** TURN *** [3s 2d Ah] [Ks]
+Lorpugo: bets $0.18
+CristinaPtc: calls $0.18
+*** RIVER *** [3s 2d Ah Ks] [Qs]
+Lorpugo: bets $0.32
+CristinaPtc: calls $0.32
+*** SHOW DOWN ***
+Lorpugo: shows [Ac 3c] (two pair, Aces and Threes)
+CristinaPtc: shows [Qd Ad] (two pair, Aces and Queens)
+CristinaPtc collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.05 
+Board [3s 2d Ah Ks Qs]
+Seat 1: CristinaPtc showed [Qd Ad] and won ($1.24) with two pair, Aces and Queens
+Seat 2: Kraivens (button) folded before Flop (didn't bet)
+Seat 3: KRandall12 (small blind) folded before Flop
+Seat 4: Scream80218 (big blind) folded before Flop
+Seat 5: vasquezbeats folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [Ac 3c] and lost with two pair, Aces and Threes
+
+
+

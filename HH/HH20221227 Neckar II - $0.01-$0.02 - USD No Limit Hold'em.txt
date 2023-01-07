@@ -1,0 +1,5008 @@
+﻿PokerStars Hand #240727907103:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:20:16 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: AndryiHaiduk ($2.36 in chips) 
+Seat 2: Pcpg369 ($1.52 in chips) 
+Seat 3: Grrrrreg ($1.96 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: WestsideFold ($2.14 in chips) 
+Seat 6: petrut1108 ($2.37 in chips) 
+Grrrrreg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7s]
+WestsideFold: folds 
+petrut1108: raises $0.02 to $0.04
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [2h Qs 9d]
+Lorpugo: checks 
+petrut1108: checks 
+*** TURN *** [2h Qs 9d] [Js]
+Lorpugo: bets $0.05
+petrut1108: raises $0.51 to $0.56
+Lorpugo: folds 
+Uncalled bet ($0.51) returned to petrut1108
+petrut1108 collected $0.18 from pot
+petrut1108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2h Qs 9d Js]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Grrrrreg (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 5: WestsideFold folded before Flop (didn't bet)
+Seat 6: petrut1108 collected ($0.18)
+
+
+
+PokerStars Hand #240727918529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:20:48 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: AndryiHaiduk ($2.36 in chips) 
+Seat 2: Pcpg369 ($1.52 in chips) 
+Seat 3: Grrrrreg ($1.95 in chips) 
+Seat 4: Lorpugo ($1.51 in chips) 
+Seat 5: WestsideFold ($2.14 in chips) 
+Seat 6: petrut1108 ($2.46 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 3c]
+petrut1108: calls $0.02
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Lorpugo: folds 
+WestsideFold: checks 
+*** FLOP *** [Qc 8c Kc]
+WestsideFold: checks 
+petrut1108: checks 
+*** TURN *** [Qc 8c Kc] [Qs]
+WestsideFold: bets $0.03
+petrut1108: folds 
+Uncalled bet ($0.03) returned to WestsideFold
+WestsideFold collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qc 8c Kc Qs]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Grrrrreg (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: WestsideFold (big blind) collected ($0.05)
+Seat 6: petrut1108 folded on the Turn
+
+
+
+PokerStars Hand #240727929364:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:21:19 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: AndryiHaiduk ($2.36 in chips) 
+Seat 2: Pcpg369 ($1.52 in chips) 
+Seat 3: Grrrrreg ($1.95 in chips) 
+Seat 4: Lorpugo ($1.50 in chips) 
+Seat 5: WestsideFold ($2.17 in chips) 
+Seat 6: petrut1108 ($2.44 in chips) 
+WestsideFold: posts small blind $0.01
+petrut1108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ah]
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+WestsideFold: folds 
+petrut1108: calls $0.04
+*** FLOP *** [8d 9h 8c]
+petrut1108: checks 
+Grrrrreg: bets $0.16
+Lorpugo: folds 
+petrut1108: calls $0.16
+*** TURN *** [8d 9h 8c] [Kc]
+petrut1108: checks 
+Grrrrreg: checks 
+*** RIVER *** [8d 9h 8c Kc] [2d]
+petrut1108: bets $0.10
+Grrrrreg: calls $0.10
+*** SHOW DOWN ***
+petrut1108: shows [Qs Ad] (a pair of Eights)
+Grrrrreg: shows [7d 7c] (two pair, Eights and Sevens)
+Grrrrreg collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [8d 9h 8c Kc 2d]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Grrrrreg showed [7d 7c] and won ($0.69) with two pair, Eights and Sevens
+Seat 4: Lorpugo (button) folded on the Flop
+Seat 5: WestsideFold (small blind) folded before Flop
+Seat 6: petrut1108 (big blind) showed [Qs Ad] and lost with a pair of Eights
+
+
+
+PokerStars Hand #240727949739:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:22:16 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: AndryiHaiduk ($2.36 in chips) 
+Seat 2: Pcpg369 ($1.52 in chips) 
+Seat 3: Grrrrreg ($2.32 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.16 in chips) 
+Seat 6: petrut1108 ($2.12 in chips) 
+petrut1108: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 4h]
+Pcpg369: calls $0.02
+Grrrrreg: folds 
+Lorpugo: folds 
+WestsideFold: folds 
+petrut1108: calls $0.01
+AndryiHaiduk: raises $0.10 to $0.12
+Pcpg369: folds 
+petrut1108: folds 
+Uncalled bet ($0.10) returned to AndryiHaiduk
+AndryiHaiduk collected $0.06 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: AndryiHaiduk (big blind) collected ($0.06)
+Seat 2: Pcpg369 folded before Flop
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold (button) folded before Flop (didn't bet)
+Seat 6: petrut1108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240727965431:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:23:01 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: AndryiHaiduk ($2.40 in chips) 
+Seat 2: Pcpg369 ($1.50 in chips) 
+Seat 3: Grrrrreg ($2.32 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.16 in chips) 
+Pcpg369: posts small blind $0.01
+Grrrrreg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7s]
+petrut1108 leaves the table
+Lorpugo: folds 
+WestsideFold: folds 
+AndryiHaiduk: folds 
+Pcpg369: calls $0.01
+Diabloftj joins the table at seat #6 
+Grrrrreg: checks 
+*** FLOP *** [Kh 6c 4d]
+Pcpg369: checks 
+Grrrrreg: checks 
+*** TURN *** [Kh 6c 4d] [Qs]
+Pcpg369: bets $0.02
+Grrrrreg: folds 
+Uncalled bet ($0.02) returned to Pcpg369
+Pcpg369 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kh 6c 4d Qs]
+Seat 1: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) collected ($0.04)
+Seat 3: Grrrrreg (big blind) folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240727979901:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:23:42 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: AndryiHaiduk ($2.40 in chips) 
+Seat 2: Pcpg369 ($1.52 in chips) 
+Seat 3: Grrrrreg ($2.30 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.16 in chips) 
+Grrrrreg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ah]
+WestsideFold: folds 
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Grrrrreg (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: WestsideFold folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240727985893:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:23:59 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: AndryiHaiduk ($2.40 in chips) 
+Seat 2: Pcpg369 ($1.52 in chips) 
+Seat 3: Grrrrreg ($2.29 in chips) 
+Seat 4: Lorpugo ($1.45 in chips) 
+Seat 5: WestsideFold ($2.16 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 9h]
+AndryiHaiduk: raises $0.10 to $0.12
+Pcpg369: folds 
+Grrrrreg: raises $0.10 to $0.22
+Lorpugo: folds 
+WestsideFold: folds 
+AndryiHaiduk: calls $0.10
+*** FLOP *** [4h 9c 9s]
+AndryiHaiduk: bets $0.06
+Grrrrreg: calls $0.06
+*** TURN *** [4h 9c 9s] [2s]
+AndryiHaiduk: bets $0.06
+Grrrrreg: calls $0.06
+*** RIVER *** [4h 9c 9s 2s] [Kc]
+AndryiHaiduk: bets $0.38
+Grrrrreg: raises $0.97 to $1.35
+AndryiHaiduk: folds 
+Uncalled bet ($0.97) returned to Grrrrreg
+Grrrrreg collected $1.42 from pot
+Grrrrreg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.05 
+Board [4h 9c 9s 2s Kc]
+Seat 1: AndryiHaiduk folded on the River
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Grrrrreg (button) collected ($1.42)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: WestsideFold (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728013932:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:25:19 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.52 in chips) 
+Seat 3: Grrrrreg ($2.99 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.14 in chips) 
+Seat 6: Diabloftj ($2 in chips) 
+WestsideFold: posts small blind $0.01
+Diabloftj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5c]
+AndryiHaiduk: folds 
+Pcpg369: calls $0.02
+Grrrrreg: raises $0.02 to $0.04
+Lorpugo: folds 
+WestsideFold: raises $0.02 to $0.06
+Diabloftj: folds 
+Pcpg369: calls $0.04
+Grrrrreg: raises $0.04 to $0.10
+WestsideFold: calls $0.04
+Pcpg369: folds 
+*** FLOP *** [Kh Kc Th]
+WestsideFold: bets $0.27
+Grrrrreg: raises $0.27 to $0.54
+WestsideFold: raises $1.50 to $2.04 and is all-in
+Grrrrreg: calls $1.50
+*** TURN *** [Kh Kc Th] [Qc]
+*** RIVER *** [Kh Kc Th Qc] [7h]
+*** SHOW DOWN ***
+WestsideFold: shows [Qd Ts] (two pair, Kings and Queens)
+Grrrrreg: shows [Ah As] (two pair, Aces and Kings)
+Grrrrreg collected $4.21 from pot
+*** SUMMARY ***
+Total pot $4.36 | Rake $0.15 
+Board [Kh Kc Th Qc 7h]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop
+Seat 3: Grrrrreg showed [Ah As] and won ($4.21) with two pair, Aces and Kings
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: WestsideFold (small blind) showed [Qd Ts] and lost with two pair, Kings and Queens
+Seat 6: Diabloftj (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728035503:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:26:20 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.46 in chips) 
+Seat 3: Grrrrreg ($5.06 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 6: Diabloftj ($1.98 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Jc]
+Grrrrreg: folds 
+Lorpugo: folds 
+Diabloftj: folds 
+AndryiHaiduk: calls $0.01
+Pcpg369: checks 
+*** FLOP *** [9h Ts 7c]
+AndryiHaiduk: checks 
+Pcpg369: checks 
+*** TURN *** [9h Ts 7c] [Kh]
+AndryiHaiduk: checks 
+Pcpg369: bets $0.02
+AndryiHaiduk: folds 
+Uncalled bet ($0.02) returned to Pcpg369
+Pcpg369 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9h Ts 7c Kh]
+Seat 1: AndryiHaiduk (small blind) folded on the Turn
+Seat 2: Pcpg369 (big blind) collected ($0.04)
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: Diabloftj (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728056012:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:27:18 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.48 in chips) 
+Seat 3: Grrrrreg ($5.06 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2 in chips) 
+Seat 6: Diabloftj ($1.98 in chips) 
+Pcpg369: posts small blind $0.01
+Grrrrreg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 6s]
+Lorpugo: folds 
+WestsideFold: calls $0.02
+Diabloftj has timed out
+Diabloftj: folds 
+AndryiHaiduk: folds 
+Pcpg369: calls $0.01
+Grrrrreg: checks 
+*** FLOP *** [5h 6h 2c]
+Pcpg369: checks 
+Grrrrreg: checks 
+WestsideFold: bets $0.03
+Pcpg369: calls $0.03
+Grrrrreg: calls $0.03
+*** TURN *** [5h 6h 2c] [8d]
+Pcpg369: checks 
+Grrrrreg: checks 
+WestsideFold: checks 
+*** RIVER *** [5h 6h 2c 8d] [8s]
+Pcpg369: checks 
+Grrrrreg: checks 
+WestsideFold: bets $0.14
+Pcpg369: folds 
+Grrrrreg: folds 
+Uncalled bet ($0.14) returned to WestsideFold
+WestsideFold collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5h 6h 2c 8d 8s]
+Seat 1: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) folded on the River
+Seat 3: Grrrrreg (big blind) folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold collected ($0.14)
+Seat 6: Diabloftj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728085423:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:28:41 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.43 in chips) 
+Seat 3: Grrrrreg ($5.01 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.09 in chips) 
+Seat 6: Diabloftj ($1.98 in chips) 
+Grrrrreg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qs]
+WestsideFold: folds 
+Diabloftj: folds 
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Grrrrreg (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: WestsideFold folded before Flop (didn't bet)
+Seat 6: Diabloftj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728093808:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:29:05 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.43 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.45 in chips) 
+Seat 5: WestsideFold ($2.09 in chips) 
+Seat 6: Diabloftj ($1.98 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4h]
+Diabloftj: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Pcpg369: calls $0.06
+Grrrrreg: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.04
+*** FLOP *** [4s 7d Tc]
+WestsideFold: checks 
+Diabloftj: checks 
+Pcpg369: checks 
+*** TURN *** [4s 7d Tc] [Qs]
+WestsideFold: checks 
+Diabloftj: checks 
+Pcpg369: checks 
+*** RIVER *** [4s 7d Tc Qs] [9h]
+WestsideFold: bets $0.02
+Diabloftj: folds 
+Pcpg369: folds 
+Uncalled bet ($0.02) returned to WestsideFold
+WestsideFold collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4s 7d Tc Qs 9h]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded on the River
+Seat 3: Grrrrreg (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: WestsideFold (big blind) collected ($0.18)
+Seat 6: Diabloftj folded on the River
+
+
+
+PokerStars Hand #240728115180:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:30:05 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.37 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.21 in chips) 
+WestsideFold: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3c]
+Pcpg369: folds 
+Diabloftj leaves the table
+Grrrrreg: folds 
+Lorpugo: folds 
+horsken joins the table at seat #6 
+WestsideFold: calls $0.01
+AndryiHaiduk: checks 
+*** FLOP *** [8s Tc 7s]
+WestsideFold: checks 
+AndryiHaiduk: checks 
+*** TURN *** [8s Tc 7s] [2c]
+WestsideFold: bets $0.02
+AndryiHaiduk: folds 
+Uncalled bet ($0.02) returned to WestsideFold
+WestsideFold collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8s Tc 7s 2c]
+Seat 1: AndryiHaiduk (big blind) folded on the Turn
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: WestsideFold (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240728131878:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:30:49 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.37 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.23 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Js]
+Grrrrreg: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.02
+AndryiHaiduk: calls $0.01
+Pcpg369: checks 
+*** FLOP *** [9c 3h 2h]
+AndryiHaiduk: checks 
+Pcpg369: checks 
+WestsideFold: bets $0.03
+AndryiHaiduk: folds 
+Pcpg369: calls $0.03
+*** TURN *** [9c 3h 2h] [6s]
+Pcpg369: checks 
+WestsideFold: bets $0.06
+Pcpg369: folds 
+Uncalled bet ($0.06) returned to WestsideFold
+WestsideFold collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9c 3h 2h 6s]
+Seat 1: AndryiHaiduk (small blind) folded on the Flop
+Seat 2: Pcpg369 (big blind) folded on the Turn
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold (button) collected ($0.12)
+
+
+
+PokerStars Hand #240728150256:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:31:38 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.32 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.30 in chips) 
+Pcpg369: posts small blind $0.01
+Grrrrreg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 2s]
+Lorpugo: folds 
+WestsideFold: folds 
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Uncalled bet ($0.01) returned to Grrrrreg
+Grrrrreg collected $0.02 from pot
+Grrrrreg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) folded before Flop
+Seat 3: Grrrrreg (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728156089:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:31:54 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.31 in chips) 
+Seat 3: Grrrrreg ($5.01 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.30 in chips) 
+Grrrrreg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7h]
+WestsideFold: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to WestsideFold
+WestsideFold collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Grrrrreg (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: WestsideFold collected ($0.05)
+
+
+
+PokerStars Hand #240728165158:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:32:18 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.31 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.42 in chips) 
+Seat 5: WestsideFold ($2.33 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9d]
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Lorpugo: raises $0.04 to $0.06
+WestsideFold: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Grrrrreg (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: WestsideFold (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728173098:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:32:39 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.31 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.31 in chips) 
+Seat 6: horsken ($0.80 in chips) 
+WestsideFold: posts small blind $0.01
+horsken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 5d]
+AndryiHaiduk: folds 
+Pcpg369: calls $0.02
+Grrrrreg: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.01
+horsken: checks 
+*** FLOP *** [Kh 9s 8s]
+WestsideFold: checks 
+horsken: bets $0.03
+Pcpg369: calls $0.03
+WestsideFold: folds 
+*** TURN *** [Kh 9s 8s] [Ts]
+horsken: bets $0.06
+Pcpg369: calls $0.06
+*** RIVER *** [Kh 9s 8s Ts] [Th]
+horsken: bets $0.12
+Pcpg369: raises $0.18 to $0.30
+horsken: calls $0.18
+*** SHOW DOWN ***
+Pcpg369: shows [8d Td] (a full house, Tens full of Eights)
+horsken: mucks hand 
+Pcpg369 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [Kh 9s 8s Ts Th]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 showed [8d Td] and won ($0.81) with a full house, Tens full of Eights
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: WestsideFold (small blind) folded on the Flop
+Seat 6: horsken (big blind) mucked [2s 7s]
+
+
+
+PokerStars Hand #240728192710:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:33:31 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.71 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.44 in chips) 
+Seat 5: WestsideFold ($2.29 in chips) 
+Seat 6: horsken ($0.39 in chips) 
+horsken: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 8s]
+Pcpg369 has timed out
+Pcpg369: folds 
+Grrrrreg: folds 
+Lorpugo: raises $0.04 to $0.06
+WestsideFold: calls $0.06
+horsken: calls $0.05
+AndryiHaiduk: calls $0.04
+*** FLOP *** [Tc 9s 9h]
+horsken: checks 
+AndryiHaiduk: bets $0.04
+Lorpugo: calls $0.04
+WestsideFold: calls $0.04
+horsken: folds 
+*** TURN *** [Tc 9s 9h] [Jh]
+AndryiHaiduk: bets $0.06
+Lorpugo: calls $0.06
+WestsideFold: calls $0.06
+*** RIVER *** [Tc 9s 9h Jh] [4c]
+AndryiHaiduk: checks 
+Lorpugo: checks 
+WestsideFold: bets $0.26
+AndryiHaiduk: folds 
+Lorpugo: folds 
+Uncalled bet ($0.26) returned to WestsideFold
+WestsideFold collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Tc 9s 9h Jh 4c]
+Seat 1: AndryiHaiduk (big blind) folded on the River
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the River
+Seat 5: WestsideFold (button) collected ($0.52)
+Seat 6: horsken (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240728228106:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:35:06 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.71 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.28 in chips) 
+Seat 5: WestsideFold ($2.65 in chips) 
+Seat 6: horsken ($0.33 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 5s]
+Grrrrreg: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.02
+horsken: folds 
+AndryiHaiduk has timed out
+AndryiHaiduk: folds 
+Pcpg369: checks 
+*** FLOP *** [2s 4h 3s]
+Pcpg369: checks 
+WestsideFold: bets $0.03
+Pcpg369: folds 
+Uncalled bet ($0.03) returned to WestsideFold
+WestsideFold collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s 4h 3s]
+Seat 1: AndryiHaiduk (small blind) folded before Flop
+Seat 2: Pcpg369 (big blind) folded on the Flop
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold collected ($0.05)
+Seat 6: horsken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728254685:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:36:17 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 2: Pcpg369 ($1.69 in chips) 
+Seat 3: Grrrrreg ($5 in chips) 
+Seat 4: Lorpugo ($1.28 in chips) 
+Seat 5: WestsideFold ($2.68 in chips) 
+Seat 6: horsken ($0.33 in chips) 
+Grrrrreg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc As]
+WestsideFold: calls $0.02
+horsken has timed out
+horsken: folds 
+Pcpg369: folds 
+Grrrrreg: raises $0.08 to $0.10
+Lorpugo: calls $0.08
+WestsideFold: folds 
+*** FLOP *** [Kd 5h 3d]
+Grrrrreg: bets $0.08
+Lorpugo: calls $0.08
+*** TURN *** [Kd 5h 3d] [8d]
+Grrrrreg: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to Grrrrreg
+Grrrrreg collected $0.37 from pot
+Grrrrreg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Kd 5h 3d 8d]
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Grrrrreg (small blind) collected ($0.37)
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 5: WestsideFold folded before Flop
+Seat 6: horsken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728277648:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:37:18 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.69 in chips) 
+Seat 3: Grrrrreg ($5.19 in chips) 
+Seat 4: Lorpugo ($1.10 in chips) 
+Seat 5: WestsideFold ($2.66 in chips) 
+Seat 6: horsken ($0.33 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Ad]
+horsken: raises $0.31 to $0.33 and is all-in
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Lorpugo: calls $0.32
+WestsideFold: folds 
+*** FLOP *** [2d 5h 8d]
+*** TURN *** [2d 5h 8d] [6c]
+*** RIVER *** [2d 5h 8d 6c] [3h]
+*** SHOW DOWN ***
+Lorpugo: shows [Ac Ad] (a pair of Aces)
+horsken: shows [Tc Kd] (high card King)
+Lorpugo collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [2d 5h 8d 6c 3h]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Grrrrreg (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) showed [Ac Ad] and won ($0.66) with a pair of Aces
+Seat 5: WestsideFold (big blind) folded before Flop
+Seat 6: horsken showed [Tc Kd] and lost with high card King
+
+
+
+PokerStars Hand #240728291384:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:37:55 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.69 in chips) 
+Seat 3: Grrrrreg ($5.19 in chips) 
+Seat 4: Lorpugo ($1.43 in chips) 
+Seat 5: WestsideFold ($2.64 in chips) 
+WestsideFold: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 8s]
+Pcpg369: calls $0.02
+horsken leaves the table
+Grrrrreg: folds 
+Lorpugo: calls $0.02
+WestsideFold: calls $0.01
+superjasojas joins the table at seat #6 
+AndryiHaiduk has timed out
+AndryiHaiduk: checks 
+*** FLOP *** [7c 2s Kc]
+WestsideFold: checks 
+AndryiHaiduk: checks 
+Pcpg369: checks 
+Lorpugo: checks 
+*** TURN *** [7c 2s Kc] [9s]
+WestsideFold: checks 
+AndryiHaiduk: checks 
+Pcpg369: checks 
+Lorpugo: bets $0.16
+WestsideFold: folds 
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7c 2s Kc 9s]
+Seat 1: AndryiHaiduk (big blind) folded on the Turn
+Seat 2: Pcpg369 folded on the Turn
+Seat 3: Grrrrreg folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.08)
+Seat 5: WestsideFold (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240728330475:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:39:41 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.67 in chips) 
+Seat 3: Grrrrreg ($5.19 in chips) 
+Seat 4: Lorpugo ($1.49 in chips) 
+Seat 5: WestsideFold ($2.62 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Ad]
+Grrrrreg: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+WestsideFold: folds 
+AndryiHaiduk: calls $0.05
+Pcpg369: folds 
+*** FLOP *** [7c 7h Kc]
+AndryiHaiduk: checks 
+Grrrrreg: checks 
+Lorpugo: bets $0.10
+AndryiHaiduk: folds 
+Grrrrreg: calls $0.10
+*** TURN *** [7c 7h Kc] [Js]
+Grrrrreg: checks 
+Lorpugo: checks 
+*** RIVER *** [7c 7h Kc Js] [As]
+Grrrrreg: checks 
+Lorpugo: bets $0.48
+Grrrrreg: folds 
+Uncalled bet ($0.48) returned to Lorpugo
+Lorpugo collected $0.39 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [7c 7h Kc Js As]
+Seat 1: AndryiHaiduk (small blind) folded on the Flop
+Seat 2: Pcpg369 (big blind) folded before Flop
+Seat 3: Grrrrreg folded on the River
+Seat 4: Lorpugo collected ($0.39)
+Seat 5: WestsideFold (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728360703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:41:02 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.65 in chips) 
+Seat 3: Grrrrreg ($5.03 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 5: WestsideFold ($2.62 in chips) 
+Pcpg369: posts small blind $0.01
+Grrrrreg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5s]
+Lorpugo: folds 
+WestsideFold: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Pcpg369: folds 
+Grrrrreg: folds 
+Uncalled bet ($0.04) returned to WestsideFold
+WestsideFold collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) folded before Flop
+Seat 3: Grrrrreg (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold collected ($0.05)
+
+
+
+PokerStars Hand #240728369028:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:41:25 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.64 in chips) 
+Seat 3: Grrrrreg ($5.01 in chips) 
+Seat 4: Lorpugo ($1.72 in chips) 
+Seat 5: WestsideFold ($2.65 in chips) 
+Seat 6: superjasojas ($1.60 in chips) 
+Grrrrreg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Kd]
+WestsideFold: raises $0.04 to $0.06
+superjasojas: folds 
+AndryiHaiduk: raises $0.08 to $0.14
+Pcpg369: folds 
+Grrrrreg: folds 
+Lorpugo: folds 
+WestsideFold: raises $0.28 to $0.42
+AndryiHaiduk: folds 
+Uncalled bet ($0.28) returned to WestsideFold
+Grrrrreg leaves the table
+WestsideFold collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0 
+Seat 1: AndryiHaiduk folded before Flop
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Grrrrreg (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: WestsideFold collected ($0.33)
+Seat 6: superjasojas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728386127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:42:11 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.64 in chips) 
+Seat 4: Lorpugo ($1.70 in chips) 
+Seat 5: WestsideFold ($2.84 in chips) 
+Seat 6: superjasojas ($1.58 in chips) 
+WestsideFold: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 7s]
+AndryiHaiduk: folds 
+Pcpg369: calls $0.02
+noxvox joins the table at seat #3 
+Lorpugo: raises $0.08 to $0.10
+WestsideFold: folds 
+superjasojas: calls $0.08
+Pcpg369: calls $0.08
+*** FLOP *** [6h 3h 2d]
+superjasojas: bets $0.06
+Pcpg369: calls $0.06
+Lorpugo: calls $0.06
+*** TURN *** [6h 3h 2d] [Js]
+superjasojas: bets $0.08
+Pcpg369: folds 
+Lorpugo: calls $0.08
+*** RIVER *** [6h 3h 2d Js] [8s]
+superjasojas: checks 
+Lorpugo: bets $0.90
+superjasojas: calls $0.90
+*** SHOW DOWN ***
+Lorpugo: shows [Qs 7s] (high card Queen)
+superjasojas: shows [9s 2s] (a pair of Deuces)
+superjasojas collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.09 
+Board [6h 3h 2d Js 8s]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded on the Turn
+Seat 4: Lorpugo (button) showed [Qs 7s] and lost with high card Queen
+Seat 5: WestsideFold (small blind) folded before Flop
+Seat 6: superjasojas (big blind) showed [9s 2s] and won ($2.36) with a pair of Deuces
+
+
+
+PokerStars Hand #240728417159:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:43:35 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.48 in chips) 
+Seat 4: Lorpugo ($0.56 in chips) 
+Seat 5: WestsideFold ($2.83 in chips) 
+Seat 6: superjasojas ($2.80 in chips) 
+superjasojas: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4h]
+Pcpg369: calls $0.02
+Lorpugo: folds 
+WestsideFold: folds 
+superjasojas: calls $0.01
+AndryiHaiduk: checks 
+*** FLOP *** [Qc 5d Td]
+superjasojas: checks 
+AndryiHaiduk: checks 
+Pcpg369: checks 
+*** TURN *** [Qc 5d Td] [Jc]
+superjasojas: checks 
+AndryiHaiduk: checks 
+Pcpg369: checks 
+*** RIVER *** [Qc 5d Td Jc] [9s]
+superjasojas: checks 
+AndryiHaiduk: checks 
+Pcpg369: checks 
+*** SHOW DOWN ***
+superjasojas: shows [8h Tc] (a straight, Eight to Queen)
+AndryiHaiduk: mucks hand 
+Pcpg369: mucks hand 
+superjasojas collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc 5d Td Jc 9s]
+Seat 1: AndryiHaiduk (big blind) mucked [9h 2c]
+Seat 2: Pcpg369 mucked [Ah 7h]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold (button) folded before Flop (didn't bet)
+Seat 6: superjasojas (small blind) showed [8h Tc] and won ($0.06) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #240728430664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:44:12 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.46 in chips) 
+Seat 4: Lorpugo ($1.36 in chips) 
+Seat 5: WestsideFold ($2.83 in chips) 
+Seat 6: superjasojas ($2.84 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7s]
+Lorpugo: folds 
+WestsideFold: calls $0.02
+superjasojas: calls $0.02
+AndryiHaiduk: calls $0.01
+Pcpg369: checks 
+*** FLOP *** [5s 2c 9s]
+AndryiHaiduk: checks 
+Pcpg369: checks 
+WestsideFold: bets $0.04
+superjasojas: calls $0.04
+AndryiHaiduk: folds 
+Pcpg369: folds 
+*** TURN *** [5s 2c 9s] [7c]
+WestsideFold: checks 
+superjasojas: bets $0.08
+WestsideFold: calls $0.08
+*** RIVER *** [5s 2c 9s 7c] [Ac]
+WestsideFold: checks 
+superjasojas: bets $0.16
+WestsideFold: calls $0.16
+*** SHOW DOWN ***
+superjasojas: shows [Ad 3h] (a pair of Aces)
+WestsideFold: mucks hand 
+superjasojas collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [5s 2c 9s 7c Ac]
+Seat 1: AndryiHaiduk (small blind) folded on the Flop
+Seat 2: Pcpg369 (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold mucked [7h Js]
+Seat 6: superjasojas (button) showed [Ad 3h] and won ($0.62) with a pair of Aces
+
+
+
+PokerStars Hand #240728454274:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:45:15 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.44 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($1.36 in chips) 
+Seat 5: WestsideFold ($2.53 in chips) 
+Seat 6: superjasojas ($3.16 in chips) 
+Pcpg369: posts small blind $0.01
+noxvox: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Jh]
+Lorpugo: folds 
+WestsideFold: calls $0.02
+superjasojas: folds 
+AndryiHaiduk: folds 
+Pcpg369: calls $0.01
+noxvox: checks 
+*** FLOP *** [8c 3d Qh]
+Pcpg369: checks 
+noxvox: bets $0.02
+WestsideFold: raises $0.02 to $0.04
+Pcpg369: folds 
+noxvox: calls $0.02
+*** TURN *** [8c 3d Qh] [Qs]
+noxvox: checks 
+WestsideFold: bets $0.07
+noxvox: folds 
+Uncalled bet ($0.07) returned to WestsideFold
+WestsideFold collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 3d Qh Qs]
+Seat 1: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) folded on the Flop
+Seat 3: noxvox (big blind) folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold collected ($0.14)
+Seat 6: superjasojas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728483020:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:46:32 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.42 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($1.36 in chips) 
+Seat 5: WestsideFold ($2.61 in chips) 
+Seat 6: superjasojas ($3.16 in chips) 
+noxvox: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8c]
+WestsideFold: folds 
+superjasojas: raises $0.02 to $0.04
+AndryiHaiduk: folds 
+Pcpg369: folds 
+noxvox: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [Ah Qh 2h]
+Lorpugo: checks 
+superjasojas: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to superjasojas
+superjasojas collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ah Qh 2h]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: noxvox (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: WestsideFold folded before Flop (didn't bet)
+Seat 6: superjasojas collected ($0.09)
+
+
+
+PokerStars Hand #240728493225:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:46:59 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.42 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($1.32 in chips) 
+Seat 5: WestsideFold ($2.61 in chips) 
+Seat 6: superjasojas ($3.21 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qc]
+superjasojas: folds 
+AndryiHaiduk: folds 
+Pcpg369: calls $0.02
+noxvox: folds 
+Lorpugo: raises $0.06 to $0.08
+WestsideFold: folds 
+Pcpg369: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop
+Seat 3: noxvox (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.06)
+Seat 5: WestsideFold (big blind) folded before Flop
+Seat 6: superjasojas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728504955:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:47:30 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: AndryiHaiduk ($2 in chips) 
+Seat 2: Pcpg369 ($1.40 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($1.36 in chips) 
+Seat 5: WestsideFold ($2.59 in chips) 
+Seat 6: superjasojas ($3.21 in chips) 
+WestsideFold: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ad]
+AndryiHaiduk: folds 
+AndryiHaiduk leaves the table
+Pasoboy168 joins the table at seat #1 
+Pcpg369: folds 
+noxvox: folds 
+Lorpugo: raises $0.04 to $0.06
+WestsideFold: folds 
+superjasojas: raises $0.13 to $0.19
+Lorpugo: calls $0.13
+*** FLOP *** [Ks 5c Kd]
+superjasojas: bets $0.19
+Lorpugo: calls $0.19
+*** TURN *** [Ks 5c Kd] [9c]
+superjasojas: bets $0.37
+Lorpugo: folds 
+Uncalled bet ($0.37) returned to superjasojas
+superjasojas collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Ks 5c Kd 9c]
+Seat 1: AndryiHaiduk folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the Turn
+Seat 5: WestsideFold (small blind) folded before Flop
+Seat 6: superjasojas (big blind) collected ($0.74)
+
+
+
+PokerStars Hand #240728521982:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:48:16 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Pasoboy168 ($2 in chips) 
+Seat 2: Pcpg369 ($1.40 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($0.98 in chips) 
+Seat 5: WestsideFold ($2.58 in chips) 
+Seat 6: superjasojas ($3.57 in chips) 
+superjasojas: posts small blind $0.01
+Pasoboy168: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 5s]
+Pcpg369: folds 
+noxvox: raises $0.02 to $0.04
+Lorpugo: folds 
+WestsideFold: calls $0.04
+superjasojas: calls $0.03
+Pasoboy168: calls $0.02
+*** FLOP *** [2c Ad 3s]
+superjasojas: checks 
+Pasoboy168: checks 
+noxvox: checks 
+WestsideFold: checks 
+*** TURN *** [2c Ad 3s] [6c]
+superjasojas: bets $0.02
+Pasoboy168: calls $0.02
+noxvox: folds 
+WestsideFold: folds 
+*** RIVER *** [2c Ad 3s 6c] [2d]
+superjasojas: checks 
+Pasoboy168: checks 
+*** SHOW DOWN ***
+superjasojas: shows [6s 9d] (two pair, Sixes and Deuces)
+Pasoboy168: mucks hand 
+superjasojas collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c Ad 3s 6c 2d]
+Seat 1: Pasoboy168 (big blind) mucked [Qh 4d]
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: noxvox folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold (button) folded on the Turn
+Seat 6: superjasojas (small blind) showed [6s 9d] and won ($0.19) with two pair, Sixes and Deuces
+
+
+
+PokerStars Hand #240728543761:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:49:14 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Pasoboy168 ($1.94 in chips) 
+Seat 2: Pcpg369 ($1.40 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($1.78 in chips) 
+Seat 5: WestsideFold ($2.54 in chips) 
+Seat 6: superjasojas ($3.70 in chips) 
+Pasoboy168: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc As]
+noxvox: folds 
+Lorpugo: raises $0.04 to $0.06
+WestsideFold: calls $0.06
+superjasojas: calls $0.06
+Pasoboy168: calls $0.05
+Pcpg369: folds 
+*** FLOP *** [4c Tc 9s]
+Pasoboy168: checks 
+Lorpugo: checks 
+WestsideFold: checks 
+superjasojas: bets $0.13
+Pasoboy168: folds 
+Lorpugo: calls $0.13
+WestsideFold: folds 
+*** TURN *** [4c Tc 9s] [Jd]
+Lorpugo: checks 
+superjasojas: bets $0.25
+Lorpugo: raises $0.57 to $0.82
+superjasojas: calls $0.57
+*** RIVER *** [4c Tc 9s Jd] [Qh]
+Lorpugo: checks 
+superjasojas: bets $1.02
+Lorpugo: calls $0.77 and is all-in
+Uncalled bet ($0.25) returned to superjasojas
+*** SHOW DOWN ***
+superjasojas: shows [6c 9h] (a pair of Nines)
+Lorpugo: shows [Jc As] (a pair of Jacks)
+Lorpugo collected $3.57 from pot
+*** SUMMARY ***
+Total pot $3.70 | Rake $0.13 
+Board [4c Tc 9s Jd Qh]
+Seat 1: Pasoboy168 (small blind) folded on the Flop
+Seat 2: Pcpg369 (big blind) folded before Flop
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [Jc As] and won ($3.57) with a pair of Jacks
+Seat 5: WestsideFold folded on the Flop
+Seat 6: superjasojas (button) showed [6c 9h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #240728576814:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:50:42 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Pasoboy168 ($1.88 in chips) 
+Seat 2: Pcpg369 ($1.38 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($3.57 in chips) 
+Seat 5: WestsideFold ($2.48 in chips) 
+Seat 6: superjasojas ($1.92 in chips) 
+Pcpg369: posts small blind $0.01
+noxvox: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 9s]
+Lorpugo: folds 
+WestsideFold: calls $0.02
+superjasojas: raises $0.09 to $0.11
+Pasoboy168: calls $0.11
+Pcpg369: calls $0.10
+noxvox: folds 
+WestsideFold: calls $0.09
+*** FLOP *** [7h Js Ad]
+Pcpg369: checks 
+WestsideFold: checks 
+superjasojas: bets $0.22
+Pasoboy168: folds 
+Pcpg369: folds 
+WestsideFold: calls $0.22
+*** TURN *** [7h Js Ad] [Th]
+WestsideFold: checks 
+superjasojas: bets $0.87
+WestsideFold: calls $0.87
+*** RIVER *** [7h Js Ad Th] [6d]
+WestsideFold: checks 
+superjasojas: bets $0.72 and is all-in
+WestsideFold: calls $0.72
+*** SHOW DOWN ***
+superjasojas: shows [Qh Kd] (a straight, Ten to Ace)
+WestsideFold: shows [8d Jc] (a pair of Jacks)
+superjasojas collected $3.94 from pot
+*** SUMMARY ***
+Total pot $4.08 | Rake $0.14 
+Board [7h Js Ad Th 6d]
+Seat 1: Pasoboy168 (button) folded on the Flop
+Seat 2: Pcpg369 (small blind) folded on the Flop
+Seat 3: noxvox (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold showed [8d Jc] and lost with a pair of Jacks
+Seat 6: superjasojas showed [Qh Kd] and won ($3.94) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #240728609730:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:52:10 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Pasoboy168 ($1.77 in chips) 
+Seat 2: Pcpg369 ($1.27 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($3.57 in chips) 
+Seat 5: WestsideFold ($0.56 in chips) 
+Seat 6: superjasojas ($3.94 in chips) 
+noxvox: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Kd]
+WestsideFold: raises $0.54 to $0.56 and is all-in
+superjasojas: folds 
+Pasoboy168: folds 
+Pcpg369: folds 
+noxvox: folds 
+Lorpugo: folds 
+Uncalled bet ($0.54) returned to WestsideFold
+WestsideFold collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pasoboy168 folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: noxvox (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: WestsideFold collected ($0.05)
+Seat 6: superjasojas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728617196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:52:30 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Pasoboy168 ($2 in chips) 
+Seat 2: Pcpg369 ($1.27 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($3.55 in chips) 
+Seat 5: WestsideFold ($0.59 in chips) 
+Seat 6: superjasojas ($3.94 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qd]
+superjasojas: calls $0.02
+Pasoboy168: folds 
+Pcpg369: calls $0.02
+noxvox: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+WestsideFold: raises $0.47 to $0.59 and is all-in
+superjasojas: folds 
+Pcpg369: folds 
+noxvox: folds 
+Lorpugo: calls $0.47
+*** FLOP *** [Jh 3c 8c]
+*** TURN *** [Jh 3c 8c] [7h]
+*** RIVER *** [Jh 3c 8c 7h] [4c]
+*** SHOW DOWN ***
+Lorpugo: shows [Ah Qd] (high card Ace)
+WestsideFold: shows [Th Tc] (a pair of Tens)
+WestsideFold collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.05 
+Board [Jh 3c 8c 7h 4c]
+Seat 1: Pasoboy168 folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop
+Seat 3: noxvox (button) folded before Flop
+Seat 4: Lorpugo (small blind) showed [Ah Qd] and lost with high card Ace
+Seat 5: WestsideFold (big blind) showed [Th Tc] and won ($1.19) with a pair of Tens
+Seat 6: superjasojas folded before Flop
+
+
+
+PokerStars Hand #240728633643:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:53:14 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Pasoboy168 ($2 in chips) 
+Seat 2: Pcpg369 ($1.25 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($2.96 in chips) 
+Seat 5: WestsideFold ($1.19 in chips) 
+Seat 6: superjasojas ($3.92 in chips) 
+WestsideFold: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Ts]
+Pasoboy168: folds 
+Pcpg369: folds 
+noxvox has timed out
+noxvox: folds 
+Lorpugo: raises $0.04 to $0.06
+WestsideFold: folds 
+superjasojas: calls $0.04
+*** FLOP *** [Ac 5h 5c]
+superjasojas: checks 
+Lorpugo: bets $0.04
+superjasojas: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ac 5h 5c]
+Seat 1: Pasoboy168 folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.13)
+Seat 5: WestsideFold (small blind) folded before Flop
+Seat 6: superjasojas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240728646200:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:53:47 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Pasoboy168 ($2 in chips) 
+Seat 2: Pcpg369 ($1.25 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($3.03 in chips) 
+Seat 5: WestsideFold ($1.18 in chips) 
+Seat 6: superjasojas ($3.86 in chips) 
+superjasojas: posts small blind $0.01
+Pasoboy168: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 2s]
+Pcpg369: calls $0.02
+noxvox: calls $0.02
+Lorpugo: folds 
+WestsideFold: calls $0.02
+superjasojas: raises $0.14 to $0.16
+Pasoboy168: folds 
+Pcpg369: folds 
+noxvox: folds 
+WestsideFold: calls $0.14
+*** FLOP *** [7s 9c 6h]
+superjasojas: bets $0.37
+WestsideFold: folds 
+Uncalled bet ($0.37) returned to superjasojas
+superjasojas collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [7s 9c 6h]
+Seat 1: Pasoboy168 (big blind) folded before Flop
+Seat 2: Pcpg369 folded before Flop
+Seat 3: noxvox folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold (button) folded on the Flop
+Seat 6: superjasojas (small blind) collected ($0.37)
+
+
+
+PokerStars Hand #240728664506:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:54:36 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Pasoboy168 ($1.98 in chips) 
+Seat 2: Pcpg369 ($1.23 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($3.03 in chips) 
+Seat 5: WestsideFold ($1.02 in chips) 
+Seat 6: superjasojas ($4.07 in chips) 
+Pasoboy168: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Kc]
+noxvox: folds 
+Lorpugo: raises $0.04 to $0.06
+WestsideFold: calls $0.06
+superjasojas: folds 
+Pasoboy168: folds 
+Pcpg369: calls $0.04
+*** FLOP *** [Ac Kd 6s]
+Pcpg369: bets $0.02
+Lorpugo: raises $0.11 to $0.13
+WestsideFold: folds 
+Pcpg369: calls $0.11
+*** TURN *** [Ac Kd 6s] [Jc]
+Pcpg369: checks 
+Lorpugo: bets $0.36
+Pcpg369: calls $0.36
+*** RIVER *** [Ac Kd 6s Jc] [8c]
+Pcpg369: checks 
+Lorpugo: bets $0.78
+Pcpg369: calls $0.68 and is all-in
+Uncalled bet ($0.10) returned to Lorpugo
+*** SHOW DOWN ***
+Lorpugo: shows [6c Kc] (a flush, Ace high)
+Pcpg369: shows [5s Ah] (a pair of Aces)
+Lorpugo collected $2.44 from pot
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.09 
+Board [Ac Kd 6s Jc 8c]
+Seat 1: Pasoboy168 (small blind) folded before Flop
+Seat 2: Pcpg369 (big blind) showed [5s Ah] and lost with a pair of Aces
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [6c Kc] and won ($2.44) with a flush, Ace high
+Seat 5: WestsideFold folded on the Flop
+Seat 6: superjasojas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728690272:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:55:58 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Pasoboy168 ($1.97 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.24 in chips) 
+Seat 5: WestsideFold ($0.96 in chips) 
+Seat 6: superjasojas ($4.07 in chips) 
+noxvox: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 9s]
+WestsideFold: calls $0.02
+superjasojas: calls $0.02
+Pasoboy168: raises $0.04 to $0.06
+noxvox: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.04
+superjasojas: calls $0.04
+*** FLOP *** [7c 6c 7d]
+WestsideFold: checks 
+superjasojas: bets $0.20
+Pasoboy168: calls $0.20
+WestsideFold: folds 
+*** TURN *** [7c 6c 7d] [3s]
+superjasojas: bets $0.59
+Pasoboy168: calls $0.59
+*** RIVER *** [7c 6c 7d 3s] [Qc]
+superjasojas: bets $3.22 and is all-in
+Pasoboy168: folds 
+Uncalled bet ($3.22) returned to superjasojas
+superjasojas collected $1.73 from pot
+*** SUMMARY ***
+Total pot $1.79 | Rake $0.06 
+Board [7c 6c 7d 3s Qc]
+Seat 1: Pasoboy168 (button) folded on the River
+Seat 3: noxvox (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: WestsideFold folded on the Flop
+Seat 6: superjasojas collected ($1.73)
+
+
+
+PokerStars Hand #240728706013:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:56:53 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Pasoboy168 ($1.12 in chips) 
+Seat 2: Pcpg369 ($2 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.22 in chips) 
+Seat 5: WestsideFold ($0.90 in chips) 
+Seat 6: superjasojas ($4.95 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+Pcpg369: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5s]
+superjasojas: calls $0.02
+Pasoboy168: folds 
+Pcpg369: folds 
+noxvox: calls $0.02
+Lorpugo: folds 
+WestsideFold: checks 
+*** FLOP *** [2h 6d Qs]
+WestsideFold: checks 
+superjasojas: checks 
+noxvox: bets $0.03
+WestsideFold: calls $0.03
+superjasojas: folds 
+*** TURN *** [2h 6d Qs] [3d]
+WestsideFold: bets $0.07
+noxvox: folds 
+Uncalled bet ($0.07) returned to WestsideFold
+WestsideFold collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2h 6d Qs 3d]
+Seat 1: Pasoboy168 folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: noxvox (button) folded on the Turn
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: WestsideFold (big blind) collected ($0.14)
+Seat 6: superjasojas folded on the Flop
+
+
+
+PokerStars Hand #240728718705:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:57:37 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Pasoboy168 ($2 in chips) 
+Seat 2: Pcpg369 ($1.99 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.21 in chips) 
+Seat 5: WestsideFold ($0.99 in chips) 
+Seat 6: superjasojas ($4.93 in chips) 
+WestsideFold: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Tc]
+Pasoboy168: folds 
+Pcpg369: folds 
+noxvox: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+WestsideFold: calls $0.03
+superjasojas: raises $0.16 to $0.20
+noxvox: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.16
+*** FLOP *** [5c Qd 2c]
+WestsideFold: checks 
+superjasojas: bets $0.23
+WestsideFold: folds 
+Uncalled bet ($0.23) returned to superjasojas
+superjasojas collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [5c Qd 2c]
+Seat 1: Pasoboy168 folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: noxvox folded before Flop
+Seat 4: Lorpugo (button) folded before Flop
+Seat 5: WestsideFold (small blind) folded on the Flop
+Seat 6: superjasojas (big blind) collected ($0.46)
+
+
+
+PokerStars Hand #240728732256:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:58:24 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Pasoboy168 ($2 in chips) 
+Seat 2: Pcpg369 ($1.99 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.17 in chips) 
+Seat 5: WestsideFold ($0.79 in chips) 
+Seat 6: superjasojas ($5.19 in chips) 
+superjasojas: posts small blind $0.01
+Pasoboy168: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 5c]
+Pcpg369: calls $0.02
+noxvox: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.02
+superjasojas: calls $0.01
+Pasoboy168: checks 
+*** FLOP *** [Ks 3s Ts]
+superjasojas: checks 
+Pasoboy168: bets $0.04
+Pcpg369: calls $0.04
+WestsideFold: calls $0.04
+superjasojas: folds 
+*** TURN *** [Ks 3s Ts] [Qc]
+Pasoboy168: bets $0.10
+Pcpg369: calls $0.10
+WestsideFold: calls $0.10
+*** RIVER *** [Ks 3s Ts Qc] [7d]
+Pasoboy168: bets $0.48
+Pcpg369: folds 
+WestsideFold: folds 
+Uncalled bet ($0.48) returned to Pasoboy168
+Pasoboy168 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Ks 3s Ts Qc 7d]
+Seat 1: Pasoboy168 (big blind) collected ($0.48)
+Seat 2: Pcpg369 folded on the River
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold (button) folded on the River
+Seat 6: superjasojas (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240728745225:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:59:09 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Pasoboy168 ($2.32 in chips) 
+Seat 2: Pcpg369 ($1.83 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.17 in chips) 
+Seat 5: WestsideFold ($0.63 in chips) 
+Seat 6: superjasojas ($5.17 in chips) 
+Pasoboy168: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ad]
+noxvox: raises $0.02 to $0.04
+Lorpugo: folds 
+WestsideFold: raises $0.08 to $0.12
+superjasojas: folds 
+Pasoboy168: folds 
+Pcpg369: folds 
+noxvox: folds 
+Uncalled bet ($0.08) returned to WestsideFold
+Pasoboy168 leaves the table
+WestsideFold collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Pasoboy168 (small blind) folded before Flop
+Seat 2: Pcpg369 (big blind) folded before Flop
+Seat 3: noxvox folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold collected ($0.11)
+Seat 6: superjasojas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728752598:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:59:35 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 2: Pcpg369 ($1.81 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.17 in chips) 
+Seat 5: WestsideFold ($0.70 in chips) 
+Seat 6: superjasojas ($5.17 in chips) 
+noxvox: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ac]
+WestsideFold: calls $0.02
+superjasojas: folds 
+Pcpg369: folds 
+DredUA joins the table at seat #1 
+noxvox: folds 
+Lorpugo: checks 
+*** FLOP *** [2c 5d Kc]
+Lorpugo: checks 
+WestsideFold: bets $0.02
+Lorpugo: raises $0.05 to $0.07
+WestsideFold: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2c 5d Kc]
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: noxvox (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.09)
+Seat 5: WestsideFold folded on the Flop
+Seat 6: superjasojas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728759462:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:59:58 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 2: Pcpg369 ($1.81 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.22 in chips) 
+Seat 5: WestsideFold ($0.66 in chips) 
+Seat 6: superjasojas ($5.17 in chips) 
+Lorpugo: posts small blind $0.01
+WestsideFold: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ad]
+superjasojas: raises $0.09 to $0.11
+Pcpg369: folds 
+noxvox: folds 
+Lorpugo: folds 
+WestsideFold: calls $0.09
+*** FLOP *** [2c 7s 9d]
+WestsideFold: bets $0.11
+superjasojas: calls $0.11
+*** TURN *** [2c 7s 9d] [3d]
+WestsideFold: bets $0.44 and is all-in
+superjasojas: folds 
+Uncalled bet ($0.44) returned to WestsideFold
+WestsideFold collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c 7s 9d 3d]
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: noxvox (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: WestsideFold (big blind) collected ($0.43)
+Seat 6: superjasojas folded on the Turn
+
+
+
+PokerStars Hand #240728773042:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:00:43 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: DredUA ($2 in chips) 
+Seat 2: Pcpg369 ($1.81 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.21 in chips) 
+Seat 5: WestsideFold ($0.87 in chips) 
+Seat 6: superjasojas ($4.95 in chips) 
+WestsideFold: posts small blind $0.01
+superjasojas: posts big blind $0.02
+DredUA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qs]
+DredUA: raises $0.06 to $0.08
+Pcpg369: calls $0.08
+noxvox: folds 
+Lorpugo: folds 
+WestsideFold: folds 
+superjasojas: folds 
+*** FLOP *** [3d Jd 7h]
+DredUA: bets $0.09
+Pcpg369: calls $0.09
+*** TURN *** [3d Jd 7h] [Jc]
+DredUA: checks 
+Pcpg369: checks 
+*** RIVER *** [3d Jd 7h Jc] [2d]
+DredUA: checks 
+Pcpg369: bets $0.10
+DredUA: calls $0.10
+*** SHOW DOWN ***
+Pcpg369: shows [8d 7d] (a flush, Jack high)
+DredUA: mucks hand 
+Pcpg369 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [3d Jd 7h Jc 2d]
+Seat 1: DredUA mucked [Ad Qh]
+Seat 2: Pcpg369 showed [8d 7d] and won ($0.55) with a flush, Jack high
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: WestsideFold (small blind) folded before Flop
+Seat 6: superjasojas (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728787571:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:01:28 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: DredUA ($1.73 in chips) 
+Seat 2: Pcpg369 ($2.09 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.21 in chips) 
+Seat 5: WestsideFold ($0.86 in chips) 
+Seat 6: superjasojas ($4.93 in chips) 
+superjasojas: posts small blind $0.01
+DredUA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Th]
+Pcpg369 has timed out
+Pcpg369: folds 
+noxvox: folds 
+Lorpugo: raises $0.04 to $0.06
+WestsideFold: raises $0.10 to $0.16
+superjasojas: calls $0.15
+DredUA: folds 
+Lorpugo: calls $0.10
+*** FLOP *** [5d Kc 4s]
+superjasojas: checks 
+Lorpugo: checks 
+WestsideFold: bets $0.70 and is all-in
+superjasojas: folds 
+Lorpugo: folds 
+Uncalled bet ($0.70) returned to WestsideFold
+WestsideFold collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [5d Kc 4s]
+Seat 1: DredUA (big blind) folded before Flop
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the Flop
+Seat 5: WestsideFold (button) collected ($0.48)
+Seat 6: superjasojas (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240728810179:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:02:30 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: DredUA ($1.71 in chips) 
+Seat 2: Pcpg369 ($2.09 in chips) 
+Seat 3: noxvox ($2 in chips) 
+Seat 4: Lorpugo ($4.05 in chips) 
+Seat 5: WestsideFold ($1.18 in chips) 
+Seat 6: superjasojas ($4.77 in chips) 
+DredUA: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 6d]
+noxvox: folds 
+Lorpugo: folds 
+WestsideFold: raises $0.02 to $0.04
+superjasojas: folds 
+DredUA: calls $0.03
+Pcpg369: calls $0.02
+*** FLOP *** [8c Ah Ks]
+DredUA: checks 
+Pcpg369: checks 
+WestsideFold: checks 
+*** TURN *** [8c Ah Ks] [3d]
+DredUA: checks 
+Pcpg369: checks 
+WestsideFold: checks 
+*** RIVER *** [8c Ah Ks 3d] [2d]
+DredUA: checks 
+Pcpg369: bets $0.06
+WestsideFold: raises $0.12 to $0.18
+DredUA: folds 
+Pcpg369: calls $0.12
+*** SHOW DOWN ***
+WestsideFold: shows [Ac 8d] (two pair, Aces and Eights)
+Pcpg369: mucks hand 
+WestsideFold collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [8c Ah Ks 3d 2d]
+Seat 1: DredUA (small blind) folded on the River
+Seat 2: Pcpg369 (big blind) mucked [8h 9d]
+Seat 3: noxvox folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: WestsideFold showed [Ac 8d] and won ($0.46) with two pair, Aces and Eights
+Seat 6: superjasojas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728835987:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:03:38 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: DredUA ($1.67 in chips) 
+Seat 2: Pcpg369 ($1.87 in chips) 
+Seat 4: Lorpugo ($4.05 in chips) 
+Seat 5: WestsideFold ($1.42 in chips) 
+Seat 6: superjasojas ($4.77 in chips) 
+Pcpg369: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3s]
+WestsideFold: folds 
+superjasojas: calls $0.02
+DredUA: folds 
+Pcpg369: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Th Td Tc]
+Pcpg369: checks 
+WestsideFold leaves the table
+Lorpugo: checks 
+superjasojas: bets $0.05
+Pcpg369: folds 
+noxvox leaves the table
+AndryiHaiduk joins the table at seat #5 
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to superjasojas
+superjasojas collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Th Td Tc]
+Seat 1: DredUA (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: WestsideFold folded before Flop (didn't bet)
+Seat 6: superjasojas collected ($0.06)
+
+
+
+PokerStars Hand #240728856095:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:04:32 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: DredUA ($1.67 in chips) 
+Seat 2: Pcpg369 ($1.85 in chips) 
+Seat 4: Lorpugo ($4.03 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($4.81 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2c]
+superjasojas: calls $0.02
+Kireth joins the table at seat #3 
+DredUA: folds 
+Pcpg369: calls $0.02
+Lorpugo: calls $0.01
+AndryiHaiduk: checks 
+*** FLOP *** [6d 8c 7s]
+Lorpugo: checks 
+AndryiHaiduk: checks 
+superjasojas: bets $0.04
+Pcpg369: folds 
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Uncalled bet ($0.04) returned to superjasojas
+superjasojas collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6d 8c 7s]
+Seat 1: DredUA folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 5: AndryiHaiduk (big blind) folded on the Flop
+Seat 6: superjasojas collected ($0.08)
+
+
+
+PokerStars Hand #240728868342:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:05:04 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: DredUA ($1.67 in chips) 
+Seat 2: Pcpg369 ($1.83 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($4.87 in chips) 
+AndryiHaiduk: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 4c]
+DredUA: folds 
+Pcpg369: calls $0.02
+Lorpugo: folds 
+AndryiHaiduk: calls $0.01
+superjasojas: raises $0.08 to $0.10
+Pcpg369: folds 
+AndryiHaiduk: folds 
+Uncalled bet ($0.08) returned to superjasojas
+superjasojas collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: DredUA folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (small blind) folded before Flop
+Seat 6: superjasojas (big blind) collected ($0.06)
+
+
+
+PokerStars Hand #240728880421:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:05:36 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: DredUA ($1.67 in chips) 
+Seat 2: Pcpg369 ($1.81 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($4.91 in chips) 
+superjasojas: posts small blind $0.01
+DredUA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8h]
+Pcpg369: folds 
+Lorpugo: folds 
+AndryiHaiduk: raises $0.06 to $0.08
+superjasojas: folds 
+DredUA: calls $0.06
+*** FLOP *** [2c 5h Ah]
+DredUA: checks 
+AndryiHaiduk: bets $0.06
+DredUA: calls $0.06
+*** TURN *** [2c 5h Ah] [5d]
+DredUA: checks 
+AndryiHaiduk: bets $0.08
+DredUA: calls $0.08
+*** RIVER *** [2c 5h Ah 5d] [8s]
+DredUA: checks 
+AndryiHaiduk: bets $0.26
+DredUA: folds 
+Uncalled bet ($0.26) returned to AndryiHaiduk
+AndryiHaiduk collected $0.43 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c 5h Ah 5d 8s]
+Seat 1: DredUA (big blind) folded on the River
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) collected ($0.43)
+Seat 6: superjasojas (small blind) folded before Flop
+
+
+
+PokerStars Hand #240728894933:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:06:14 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: DredUA ($2 in chips) 
+Seat 2: Pcpg369 ($1.81 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: AndryiHaiduk ($2.21 in chips) 
+Seat 6: superjasojas ($4.90 in chips) 
+DredUA: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2h]
+Lorpugo: folds 
+AndryiHaiduk: raises $0.10 to $0.12
+superjasojas: calls $0.12
+DredUA: folds 
+Pcpg369: folds 
+*** FLOP *** [9c 8c Qs]
+AndryiHaiduk: bets $0.06
+superjasojas: raises $0.06 to $0.12
+AndryiHaiduk: calls $0.06
+*** TURN *** [9c 8c Qs] [Qh]
+AndryiHaiduk: checks 
+superjasojas: bets $0.49
+AndryiHaiduk: folds 
+Uncalled bet ($0.49) returned to superjasojas
+superjasojas collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [9c 8c Qs Qh]
+Seat 1: DredUA (small blind) folded before Flop
+Seat 2: Pcpg369 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded on the Turn
+Seat 6: superjasojas (button) collected ($0.49)
+
+
+
+PokerStars Hand #240728906916:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:06:45 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: DredUA ($1.99 in chips) 
+Seat 2: Pcpg369 ($1.79 in chips) 
+Seat 3: Kireth ($2 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($5.15 in chips) 
+Pcpg369: posts small blind $0.01
+Kireth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ts]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+superjasojas: raises $0.09 to $0.11
+DredUA: folds 
+Pcpg369: calls $0.10
+Kireth: raises $0.21 to $0.32
+superjasojas: calls $0.21
+Pcpg369: calls $0.21
+*** FLOP *** [6d Qh 7c]
+Pcpg369: checks 
+Kireth: bets $0.30
+superjasojas: calls $0.30
+Pcpg369: calls $0.30
+*** TURN *** [6d Qh 7c] [5c]
+Pcpg369: checks 
+Kireth: bets $1.38 and is all-in
+superjasojas: calls $1.38
+Pcpg369: calls $1.17 and is all-in
+*** RIVER *** [6d Qh 7c 5c] [6c]
+*** SHOW DOWN ***
+Kireth: shows [8h 8d] (two pair, Eights and Sixes)
+superjasojas: shows [Ac Js] (a pair of Sixes)
+Kireth collected $0.41 from side pot
+Pcpg369: shows [7h Jh] (two pair, Sevens and Sixes)
+Kireth collected $5.18 from main pot
+Pcpg369 cashed out the hand for $0.50
+*** SUMMARY ***
+Total pot $5.79 Main pot $5.18. Side pot $0.41. | Rake $0.20 
+Board [6d Qh 7c 5c 6c]
+Seat 1: DredUA (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) showed [7h Jh] and lost with two pair, Sevens and Sixes (cashed out).
+Seat 3: Kireth (big blind) showed [8h 8d] and won ($5.59) with two pair, Eights and Sixes
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: superjasojas showed [Ac Js] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #240728940078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:08:11 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: DredUA ($1.99 in chips) 
+Seat 2: Pcpg369 ($0.50 in chips) 
+Seat 3: Kireth ($5.59 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.15 in chips) 
+Kireth: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jd]
+AndryiHaiduk: folds 
+superjasojas: calls $0.02
+DredUA: folds 
+Pcpg369: calls $0.02
+Kireth: folds 
+Lorpugo: raises $0.07 to $0.09
+superjasojas: calls $0.07
+Pcpg369: calls $0.07
+*** FLOP *** [9s Ah Ad]
+Lorpugo: bets $0.09
+superjasojas: calls $0.09
+Pcpg369: calls $0.09
+*** TURN *** [9s Ah Ad] [4h]
+Lorpugo: checks 
+superjasojas: bets $0.27
+Pcpg369: folds 
+Lorpugo: folds 
+Uncalled bet ($0.27) returned to superjasojas
+superjasojas collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9s Ah Ad 4h]
+Seat 1: DredUA folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded on the Turn
+Seat 3: Kireth (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: superjasojas collected ($0.53)
+
+
+
+PokerStars Hand #240728962572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:09:10 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 2: Pcpg369 ($0.32 in chips) 
+Seat 3: Kireth ($5.58 in chips) 
+Seat 4: Lorpugo ($3.83 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.50 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qh]
+superjasojas: calls $0.02
+Pcpg369: calls $0.02
+Kireth: raises $0.06 to $0.08
+Lorpugo: calls $0.07
+AndryiHaiduk: folds 
+superjasojas: calls $0.06
+Pcpg369: calls $0.06
+*** FLOP *** [Ts 8s Js]
+Lorpugo: checks 
+superjasojas: bets $0.33
+Pcpg369: folds 
+Kireth: folds 
+DredUA leaves the table
+Lorpugo: calls $0.33
+*** TURN *** [Ts 8s Js] [2s]
+Lorpugo: checks 
+superjasojas: bets $0.48
+Lorpugo: folds 
+Uncalled bet ($0.48) returned to superjasojas
+superjasojas collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Ts 8s Js 2s]
+Seat 2: Pcpg369 folded on the Flop
+Seat 3: Kireth (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded on the Turn
+Seat 5: AndryiHaiduk (big blind) folded before Flop
+Seat 6: superjasojas collected ($0.96)
+
+
+
+PokerStars Hand #240728978609:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:09:52 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 2: Pcpg369 ($0.24 in chips) 
+Seat 3: Kireth ($5.50 in chips) 
+Seat 4: Lorpugo ($3.42 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($4.05 in chips) 
+AndryiHaiduk: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 6d]
+Pcpg369: calls $0.02
+Kireth: folds 
+Lorpugo: folds 
+AndryiHaiduk: calls $0.01
+superjasojas: checks 
+*** FLOP *** [4d 7d 9d]
+AndryiHaiduk: checks 
+superjasojas: bets $0.02
+Pcpg369: raises $0.20 to $0.22 and is all-in
+AndryiHaiduk: folds 
+superjasojas: calls $0.20
+*** TURN *** [4d 7d 9d] [As]
+*** RIVER *** [4d 7d 9d As] [Ks]
+*** SHOW DOWN ***
+superjasojas: shows [3d 8s] (high card Ace)
+Pcpg369: shows [8h 9s] (a pair of Nines)
+Pcpg369 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4d 7d 9d As Ks]
+Seat 2: Pcpg369 showed [8h 9s] and won ($0.48) with a pair of Nines
+Seat 3: Kireth folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (small blind) folded on the Flop
+Seat 6: superjasojas (big blind) showed [3d 8s] and lost with high card Ace
+
+
+
+PokerStars Hand #240728996258:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:10:38 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 2: Pcpg369 ($0.48 in chips) 
+Seat 3: Kireth ($5.50 in chips) 
+Seat 4: Lorpugo ($3.42 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.81 in chips) 
+superjasojas: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4c]
+Kireth: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+AndryiHaiduk: folds 
+superjasojas: folds 
+Pcpg369: calls $0.04
+*** FLOP *** [7c 5h 8s]
+Pcpg369: checks 
+Kireth: bets $0.06
+Lorpugo: calls $0.06
+Pcpg369: folds 
+*** TURN *** [7c 5h 8s] [Qs]
+Kireth: bets $0.23
+Lorpugo: folds 
+Uncalled bet ($0.23) returned to Kireth
+Kireth collected $0.30 from pot
+Kireth: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7c 5h 8s Qs]
+Seat 2: Pcpg369 (big blind) folded on the Flop
+Seat 3: Kireth collected ($0.30)
+Seat 4: Lorpugo folded on the Turn
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: superjasojas (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729012006:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:11:19 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 2: Pcpg369 ($0.42 in chips) 
+Seat 3: Kireth ($5.68 in chips) 
+Seat 4: Lorpugo ($3.30 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.80 in chips) 
+Pcpg369: posts small blind $0.01
+Kireth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qc]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+superjasojas: raises $0.05 to $0.07
+Rico_19870615 joins the table at seat #1 
+Pcpg369: calls $0.06
+Kireth: folds 
+*** FLOP *** [Kd 3s 7h]
+Pcpg369: checks 
+superjasojas: bets $0.08
+Pcpg369: folds 
+Uncalled bet ($0.08) returned to superjasojas
+superjasojas collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Kd 3s 7h]
+Seat 2: Pcpg369 (small blind) folded on the Flop
+Seat 3: Kireth (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: superjasojas (button) collected ($0.15)
+
+
+
+PokerStars Hand #240729023916:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:11:50 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 2: Pcpg369 ($0.35 in chips) 
+Seat 3: Kireth ($5.66 in chips) 
+Seat 4: Lorpugo ($3.30 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.88 in chips) 
+Kireth: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9h]
+AndryiHaiduk: folds 
+superjasojas: raises $0.09 to $0.11
+Pcpg369: folds 
+Kireth: folds 
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to superjasojas
+superjasojas collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Kireth (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: superjasojas collected ($0.05)
+
+
+
+PokerStars Hand #240729032391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:12:12 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 2: Pcpg369 ($0.35 in chips) 
+Seat 3: Kireth ($5.65 in chips) 
+Seat 4: Lorpugo ($3.28 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.91 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4d]
+superjasojas: raises $0.09 to $0.11
+Pcpg369: folds 
+Kireth: folds 
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Uncalled bet ($0.09) returned to superjasojas
+superjasojas collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Kireth (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) folded before Flop
+Seat 6: superjasojas collected ($0.05)
+
+
+
+PokerStars Hand #240729039001:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:12:29 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 2: Pcpg369 ($0.35 in chips) 
+Seat 3: Kireth ($5.65 in chips) 
+Seat 4: Lorpugo ($3.27 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.94 in chips) 
+AndryiHaiduk: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ah]
+Pcpg369: folds 
+Kireth: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: raises $0.10 to $0.16
+superjasojas: folds 
+Lorpugo: calls $0.10
+*** FLOP *** [Td Th Kh]
+AndryiHaiduk: checks 
+Lorpugo: bets $0.17
+AndryiHaiduk: folds 
+Uncalled bet ($0.17) returned to Lorpugo
+Lorpugo collected $0.33 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Td Th Kh]
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Kireth folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.33)
+Seat 5: AndryiHaiduk (small blind) folded on the Flop
+Seat 6: superjasojas (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729052779:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:13:05 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Rico_19870615 ($1 in chips) 
+Seat 2: Pcpg369 ($0.35 in chips) 
+Seat 3: Kireth ($5.65 in chips) 
+Seat 4: Lorpugo ($3.44 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.92 in chips) 
+superjasojas: posts small blind $0.01
+Rico_19870615: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 8c]
+Pcpg369: calls $0.02
+Kireth: folds 
+Lorpugo: calls $0.02
+AndryiHaiduk: folds 
+superjasojas: raises $0.18 to $0.20
+Rico_19870615 has timed out
+Rico_19870615: folds 
+Pcpg369: raises $0.15 to $0.35 and is all-in
+Lorpugo: folds 
+superjasojas: calls $0.15
+*** FLOP *** [5h Jd Kc]
+*** TURN *** [5h Jd Kc] [8d]
+*** RIVER *** [5h Jd Kc 8d] [Jc]
+*** SHOW DOWN ***
+superjasojas: shows [2s 2d] (two pair, Jacks and Deuces)
+Pcpg369: shows [5c 5s] (a full house, Fives full of Jacks)
+Pcpg369 collected $0.71 from pot
+superjasojas cashed out the hand for $0.14
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [5h Jd Kc 8d Jc]
+Seat 1: Rico_19870615 (big blind) folded before Flop
+Seat 2: Pcpg369 showed [5c 5s] and won ($0.71) with a full house, Fives full of Jacks
+Seat 3: Kireth folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: superjasojas (small blind) showed [2s 2d] and lost with two pair, Jacks and Deuces (cashed out).
+
+
+
+PokerStars Hand #240729076935:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:14:08 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 2: Pcpg369 ($0.71 in chips) 
+Seat 3: Kireth ($5.65 in chips) 
+Seat 4: Lorpugo ($3.42 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.71 in chips) 
+Pcpg369: posts small blind $0.01
+Kireth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4h]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+superjasojas: calls $0.02
+Pcpg369: folds 
+Kireth: checks 
+*** FLOP *** [8c 3h Ac]
+Kireth: checks 
+superjasojas: bets $0.09
+Kireth: folds 
+Uncalled bet ($0.09) returned to superjasojas
+superjasojas collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8c 3h Ac]
+Seat 2: Pcpg369 (small blind) folded before Flop
+Seat 3: Kireth (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: superjasojas (button) collected ($0.05)
+
+
+
+PokerStars Hand #240729085943:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:14:31 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Rico_19870615 ($0.98 in chips) 
+Seat 2: Pcpg369 ($0.70 in chips) 
+Seat 3: Kireth ($5.63 in chips) 
+Seat 4: Lorpugo ($3.42 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.74 in chips) 
+Kireth: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Rico_19870615: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4h]
+AndryiHaiduk: folds 
+superjasojas: raises $0.06 to $0.08
+Rico_19870615: folds 
+Pcpg369: folds 
+Kireth: calls $0.07
+Lorpugo: folds 
+*** FLOP *** [Js 7c Th]
+Kireth: checks 
+superjasojas: bets $0.18
+Kireth: folds 
+Uncalled bet ($0.18) returned to superjasojas
+superjasojas collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Js 7c Th]
+Seat 1: Rico_19870615 folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) folded before Flop (didn't bet)
+Seat 3: Kireth (small blind) folded on the Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: superjasojas collected ($0.18)
+
+
+
+PokerStars Hand #240729093714:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:14:51 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Rico_19870615 ($0.97 in chips) 
+Seat 2: Pcpg369 ($0.70 in chips) 
+Seat 3: Kireth ($5.55 in chips) 
+Seat 4: Lorpugo ($3.40 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.84 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 2d]
+superjasojas: folds 
+Rico_19870615: folds 
+Pcpg369: calls $0.02
+Kireth: raises $0.04 to $0.06
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Pcpg369: raises $0.64 to $0.70 and is all-in
+Kireth: folds 
+Uncalled bet ($0.64) returned to Pcpg369
+Pcpg369 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Rico_19870615 folded before Flop (didn't bet)
+Seat 2: Pcpg369 collected ($0.15)
+Seat 3: Kireth (button) folded before Flop
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) folded before Flop
+Seat 6: superjasojas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729103012:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:15:15 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Rico_19870615 ($0.97 in chips) 
+Seat 2: Pcpg369 ($0.79 in chips) 
+Seat 3: Kireth ($5.49 in chips) 
+Seat 4: Lorpugo ($3.39 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.84 in chips) 
+AndryiHaiduk: posts small blind $0.01
+superjasojas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 6c]
+Rico_19870615: folds 
+Pcpg369: folds 
+Kireth: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: calls $0.05
+superjasojas: calls $0.04
+*** FLOP *** [4d 2c 3d]
+AndryiHaiduk: checks 
+superjasojas: bets $0.09
+Lorpugo: calls $0.09
+AndryiHaiduk: folds 
+*** TURN *** [4d 2c 3d] [As]
+superjasojas: bets $0.18
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to superjasojas
+superjasojas collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [4d 2c 3d As]
+Seat 1: Rico_19870615 folded before Flop (didn't bet)
+Seat 2: Pcpg369 folded before Flop (didn't bet)
+Seat 3: Kireth folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the Turn
+Seat 5: AndryiHaiduk (small blind) folded on the Flop
+Seat 6: superjasojas (big blind) collected ($0.35)
+
+
+
+PokerStars Hand #240729118480:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:15:55 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Rico_19870615 ($0.97 in chips) 
+Seat 2: Pcpg369 ($0.79 in chips) 
+Seat 3: Kireth ($5.49 in chips) 
+Seat 4: Lorpugo ($3.24 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($4.04 in chips) 
+superjasojas: posts small blind $0.01
+Rico_19870615: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 7h]
+Pcpg369: calls $0.02
+Kireth: folds 
+Lorpugo: calls $0.02
+AndryiHaiduk: folds 
+superjasojas: raises $0.04 to $0.06
+Rico_19870615: calls $0.04
+Pcpg369: calls $0.04
+Lorpugo: calls $0.04
+*** FLOP *** [2d 3d Ts]
+superjasojas: checks 
+Rico_19870615: bets $0.23
+Pcpg369: folds 
+Lorpugo: folds 
+superjasojas: calls $0.23
+*** TURN *** [2d 3d Ts] [8c]
+superjasojas: checks 
+Rico_19870615: bets $0.68 and is all-in
+superjasojas: folds 
+Uncalled bet ($0.68) returned to Rico_19870615
+Rico_19870615 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [2d 3d Ts 8c]
+Seat 1: Rico_19870615 (big blind) collected ($0.68)
+Seat 2: Pcpg369 folded on the Flop
+Seat 3: Kireth folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the Flop
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: superjasojas (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240729141353:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:16:55 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Rico_19870615 ($1.36 in chips) 
+Seat 2: Pcpg369 ($0.73 in chips) 
+Seat 3: Kireth ($5.49 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.75 in chips) 
+Rico_19870615: posts small blind $0.01
+Pcpg369: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 6c]
+Kireth: folds 
+Lorpugo: folds 
+AndryiHaiduk: folds 
+superjasojas: calls $0.02
+Rico_19870615: calls $0.01
+Pcpg369: checks 
+*** FLOP *** [7c 9c 2c]
+Rico_19870615: checks 
+Pcpg369: checks 
+superjasojas: bets $0.12
+Rico_19870615: folds 
+Pcpg369: folds 
+Uncalled bet ($0.12) returned to superjasojas
+superjasojas collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7c 9c 2c]
+Seat 1: Rico_19870615 (small blind) folded on the Flop
+Seat 2: Pcpg369 (big blind) folded on the Flop
+Seat 3: Kireth folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: superjasojas (button) collected ($0.06)
+
+
+
+PokerStars Hand #240729155847:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:17:33 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Rico_19870615 ($1.34 in chips) 
+Seat 2: Pcpg369 ($0.71 in chips) 
+Seat 3: Kireth ($5.49 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: AndryiHaiduk ($2 in chips) 
+Seat 6: superjasojas ($3.79 in chips) 
+Pcpg369: posts small blind $0.01
+Kireth: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4c]
+Lorpugo: folds 
+AndryiHaiduk: calls $0.02
+superjasojas: raises $0.02 to $0.04
+Rico_19870615 has timed out
+Rico_19870615: folds 
+Pcpg369: folds 
+Kireth: calls $0.02
+AndryiHaiduk: raises $0.16 to $0.20
+superjasojas: calls $0.16
+Kireth: folds 
+*** FLOP *** [2c 6d Jd]
+AndryiHaiduk: bets $1.80 and is all-in
+superjasojas: calls $1.80
+*** TURN *** [2c 6d Jd] [4h]
+*** RIVER *** [2c 6d Jd 4h] [Js]
+*** SHOW DOWN ***
+AndryiHaiduk: shows [8h 8c] (two pair, Jacks and Eights)
+superjasojas: shows [5d 9d] (a pair of Jacks)
+AndryiHaiduk collected $3.91 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.14 
+Board [2c 6d Jd 4h Js]
+Seat 1: Rico_19870615 (button) folded before Flop (didn't bet)
+Seat 2: Pcpg369 (small blind) folded before Flop
+Seat 3: Kireth (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk showed [8h 8c] and won ($3.91) with two pair, Jacks and Eights
+Seat 6: superjasojas showed [5d 9d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #240729176589:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:18:27 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Rico_19870615 ($1.34 in chips) 
+Seat 2: Pcpg369 ($0.70 in chips) 
+Seat 3: Kireth ($5.45 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: AndryiHaiduk ($3.91 in chips) 
+Seat 6: superjasojas ($1.79 in chips) 
+Kireth: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Kh]
+AndryiHaiduk: raises $0.10 to $0.12
+superjasojas: raises $0.27 to $0.39
+Rico_19870615: folds 
+Pcpg369: calls $0.39
+Kireth: folds 
+Lorpugo: folds 
+AndryiHaiduk: raises $1.21 to $1.60
+superjasojas: raises $0.19 to $1.79 and is all-in
+Pcpg369: calls $0.31 and is all-in
+AndryiHaiduk: calls $0.19
+*** FLOP *** [Ah 2h Ts]
+*** TURN *** [Ah 2h Ts] [3s]
+*** RIVER *** [Ah 2h Ts 3s] [3d]
+*** SHOW DOWN ***
+AndryiHaiduk: shows [Ks Kc] (two pair, Kings and Threes)
+superjasojas: shows [7d Qd] (a pair of Threes)
+Pcpg369: shows [Qh Jd] (a pair of Threes)
+AndryiHaiduk cashed out the hand for $3.38 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $4.31 Main pot $2.06. Side pot $2.10. | Rake $0.15 
+Board [Ah 2h Ts 3s 3d]
+Seat 1: Rico_19870615 folded before Flop (didn't bet)
+Seat 2: Pcpg369 (button) showed [Qh Jd] and lost with a pair of Threes
+Seat 3: Kireth (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: AndryiHaiduk showed [Ks Kc] and won ($4.16) with two pair, Kings and Threes (pot not awarded as player cashed out)
+Seat 6: superjasojas showed [7d Qd] and lost with a pair of Threes
+
+
+
+PokerStars Hand #240729191007:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:19:04 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Rico_19870615 ($1.34 in chips) 
+Seat 3: Kireth ($5.44 in chips) 
+Seat 4: Lorpugo ($3.16 in chips) 
+Seat 5: AndryiHaiduk ($5.50 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Qs]
+Rico_19870615: raises $0.02 to $0.04
+superjasojas leaves the table
+Kireth: calls $0.04
+Lorpugo: folds 
+Pcpg369 leaves the table
+AndryiHaiduk: calls $0.02
+*** FLOP *** [9s 6h 3c]
+AndryiHaiduk: checks 
+Rico_19870615: bets $0.06
+Kireth: calls $0.06
+AndryiHaiduk: folds 
+*** TURN *** [9s 6h 3c] [8s]
+Rico_19870615: bets $0.24
+Kireth: folds 
+Uncalled bet ($0.24) returned to Rico_19870615
+Rico_19870615 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s 6h 3c 8s]
+Seat 1: Rico_19870615 collected ($0.24)
+Seat 3: Kireth (button) folded on the Turn
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240729203230:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:19:36 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Rico_19870615 ($1.48 in chips) 
+Seat 3: Kireth ($5.34 in chips) 
+Seat 4: Lorpugo ($3.15 in chips) 
+Seat 5: AndryiHaiduk ($5.46 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Rico_19870615: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 9s]
+Kireth: folds 
+Kireth leaves the table
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: calls $0.05
+Rico_19870615: folds 
+*** FLOP *** [8c 4c Qh]
+AndryiHaiduk: checks 
+Lorpugo: checks 
+*** TURN *** [8c 4c Qh] [3c]
+AndryiHaiduk: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to AndryiHaiduk
+AndryiHaiduk collected $0.14 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 4c Qh 3c]
+Seat 1: Rico_19870615 (big blind) folded before Flop
+Seat 3: Kireth folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the Turn
+Seat 5: AndryiHaiduk (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #240729214790:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:20:06 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Rico_19870615 ($1.46 in chips) 
+Seat 4: Lorpugo ($3.09 in chips) 
+Seat 5: AndryiHaiduk ($5.54 in chips) 
+Rico_19870615: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 2s]
+AndryiHaiduk: folds 
+Rico_19870615: raises $0.08 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Rico_19870615
+Rico_19870615 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Rico_19870615 (small blind) collected ($0.04)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729220216:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:20:21 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Rico_19870615 ($1.48 in chips) 
+Seat 4: Lorpugo ($3.07 in chips) 
+Seat 5: AndryiHaiduk ($5.54 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 9s]
+Rico_19870615: calls $0.02
+Lorpugo: folds 
+AndryiHaiduk: checks 
+*** FLOP *** [2d 5s Qc]
+AndryiHaiduk: checks 
+Rico_19870615: bets $0.04
+AndryiHaiduk: calls $0.04
+*** TURN *** [2d 5s Qc] [8d]
+AndryiHaiduk: checks 
+Rico_19870615: bets $0.06
+AndryiHaiduk: folds 
+Uncalled bet ($0.06) returned to Rico_19870615
+Rico_19870615 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d 5s Qc 8d]
+Seat 1: Rico_19870615 (button) collected ($0.13)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240729235432:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:21:00 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Rico_19870615 ($1.55 in chips) 
+Seat 4: Lorpugo ($3.06 in chips) 
+Seat 5: AndryiHaiduk ($5.48 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Rico_19870615: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Jd]
+Lorpugo: folds 
+AndryiHaiduk: raises $0.10 to $0.12
+Rico_19870615: calls $0.10
+*** FLOP *** [9s Jh 5d]
+AndryiHaiduk: checks 
+Rico_19870615: checks 
+*** TURN *** [9s Jh 5d] [Th]
+AndryiHaiduk: bets $0.04
+Rico_19870615: folds 
+Uncalled bet ($0.04) returned to AndryiHaiduk
+AndryiHaiduk collected $0.23 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9s Jh 5d Th]
+Seat 1: Rico_19870615 (big blind) folded on the Turn
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (small blind) collected ($0.23)
+
+
+
+PokerStars Hand #240729244518:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:21:24 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Rico_19870615 ($1.43 in chips) 
+Seat 4: Lorpugo ($3.06 in chips) 
+Seat 5: AndryiHaiduk ($5.59 in chips) 
+Rico_19870615: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ac]
+AndryiHaiduk: folds 
+Rico_19870615: raises $0.06 to $0.08
+Lorpugo: calls $0.06
+*** FLOP *** [3h 6s Ad]
+Rico_19870615: bets $0.06
+Lorpugo: raises $0.14 to $0.20
+Rico_19870615: calls $0.14
+*** TURN *** [3h 6s Ad] [Jc]
+Rico_19870615: checks 
+Lorpugo: bets $0.36
+Rico_19870615: folds 
+Uncalled bet ($0.36) returned to Lorpugo
+Lorpugo collected $0.54 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [3h 6s Ad Jc]
+Seat 1: Rico_19870615 (small blind) folded on the Turn
+Seat 4: Lorpugo (big blind) collected ($0.54)
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729263163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:22:12 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Rico_19870615 ($1.15 in chips) 
+Seat 4: Lorpugo ($3.32 in chips) 
+Seat 5: AndryiHaiduk ($5.59 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7c]
+Rico_19870615: raises $0.02 to $0.04
+Lorpugo: folds 
+AndryiHaiduk: calls $0.02
+*** FLOP *** [Jd Qs 9h]
+AndryiHaiduk: checks 
+Rico_19870615: checks 
+*** TURN *** [Jd Qs 9h] [Th]
+AndryiHaiduk: bets $0.04
+Rico_19870615: folds 
+Uncalled bet ($0.04) returned to AndryiHaiduk
+AndryiHaiduk collected $0.09 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jd Qs 9h Th]
+Seat 1: Rico_19870615 (button) folded on the Turn
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #240729273719:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:22:39 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Rico_19870615 ($1.11 in chips) 
+Seat 4: Lorpugo ($3.31 in chips) 
+Seat 5: AndryiHaiduk ($5.64 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Rico_19870615: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 2s]
+Lorpugo: folds 
+AndryiHaiduk: raises $0.04 to $0.06
+Rico_19870615: calls $0.04
+*** FLOP *** [3h Tc 9c]
+AndryiHaiduk: bets $0.06
+Rico_19870615: calls $0.06
+*** TURN *** [3h Tc 9c] [Js]
+AndryiHaiduk: bets $0.06
+Rico_19870615: calls $0.06
+*** RIVER *** [3h Tc 9c Js] [Ah]
+AndryiHaiduk: bets $0.06
+Rico_19870615: calls $0.06
+*** SHOW DOWN ***
+AndryiHaiduk: shows [Th 8d] (a pair of Tens)
+Rico_19870615: mucks hand 
+AndryiHaiduk collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [3h Tc 9c Js Ah]
+Seat 1: Rico_19870615 (big blind) mucked [9d Kc]
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (small blind) showed [Th 8d] and won ($0.46) with a pair of Tens
+
+
+
+PokerStars Hand #240729293403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:23:30 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Rico_19870615 ($0.87 in chips) 
+Seat 4: Lorpugo ($3.31 in chips) 
+Seat 5: AndryiHaiduk ($5.86 in chips) 
+Rico_19870615: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9s]
+Nachtkuetz joins the table at seat #2 
+AndryiHaiduk: folds 
+koksik_rafal joins the table at seat #3 
+Rico_19870615: calls $0.01
+Maqaqaa joins the table at seat #6 
+Lorpugo: raises $0.08 to $0.10
+Rico_19870615: calls $0.08
+*** FLOP *** [Ks Ad Kd]
+Rico_19870615: checks 
+Lorpugo: checks 
+*** TURN *** [Ks Ad Kd] [2c]
+Rico_19870615: bets $0.04
+Lorpugo: calls $0.04
+*** RIVER *** [Ks Ad Kd 2c] [Td]
+Rico_19870615: bets $0.08
+Lorpugo: calls $0.08
+*** SHOW DOWN ***
+Rico_19870615: shows [8h 5h] (a pair of Kings)
+Lorpugo: shows [As 9s] (two pair, Aces and Kings)
+Lorpugo collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Ks Ad Kd 2c Td]
+Seat 1: Rico_19870615 (small blind) showed [8h 5h] and lost with a pair of Kings
+Seat 4: Lorpugo (big blind) showed [As 9s] and won ($0.42) with two pair, Aces and Kings
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729313520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:24:22 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Rico_19870615 ($0.65 in chips) 
+Seat 4: Lorpugo ($3.51 in chips) 
+Seat 5: AndryiHaiduk ($5.86 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Kc]
+Rico_19870615: calls $0.02
+Lorpugo: calls $0.01
+AndryiHaiduk: checks 
+*** FLOP *** [4s 6s 4d]
+Lorpugo: checks 
+AndryiHaiduk: checks 
+Rico_19870615: bets $0.63 and is all-in
+Lorpugo: calls $0.63
+AndryiHaiduk: folds 
+*** TURN *** [4s 6s 4d] [Tc]
+*** RIVER *** [4s 6s 4d Tc] [Td]
+*** SHOW DOWN ***
+Lorpugo: shows [4h Kc] (a full house, Fours full of Tens)
+Rico_19870615: shows [2s 7s] (two pair, Tens and Fours)
+Lorpugo collected $1.27 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.05 
+Board [4s 6s 4d Tc Td]
+Seat 1: Rico_19870615 (button) showed [2s 7s] and lost with two pair, Tens and Fours
+Seat 4: Lorpugo (small blind) showed [4h Kc] and won ($1.27) with a full house, Fours full of Tens
+Seat 5: AndryiHaiduk (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240729326648:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:24:56 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 3: koksik_rafal ($0.85 in chips) 
+Seat 4: Lorpugo ($4.13 in chips) 
+Seat 5: AndryiHaiduk ($5.84 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+koksik_rafal: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Td]
+koksik_rafal: checks 
+Lorpugo: calls $0.02
+AndryiHaiduk: calls $0.01
+Maqaqaa: checks 
+*** FLOP *** [6s Jc Js]
+AndryiHaiduk: checks 
+Maqaqaa: checks 
+Rico_19870615 leaves the table
+koksik_rafal: bets $0.02
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Uncalled bet ($0.02) returned to koksik_rafal
+Nikolaussv joins the table at seat #1 
+koksik_rafal collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6s Jc Js]
+Seat 3: koksik_rafal collected ($0.08)
+Seat 4: Lorpugo (button) folded on the Flop
+Seat 5: AndryiHaiduk (small blind) folded on the Flop
+Seat 6: Maqaqaa (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240729336460:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:25:20 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2 in chips) 
+Seat 3: koksik_rafal ($0.91 in chips) 
+Seat 4: Lorpugo ($4.11 in chips) 
+Seat 5: AndryiHaiduk ($5.82 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5h]
+koksik_rafal: calls $0.02
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: raises $0.06 to $0.08
+Nikolaussv: raises $0.18 to $0.26
+koksik_rafal: folds 
+Maqaqaa: folds 
+Uncalled bet ($0.18) returned to Nikolaussv
+Nikolaussv collected $0.18 from pot
+Nikolaussv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: Nikolaussv (big blind) collected ($0.18)
+Seat 3: koksik_rafal folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729351310:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:25:58 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.10 in chips) 
+Seat 2: Nachtkuetz ($2 in chips) 
+Seat 3: koksik_rafal ($0.89 in chips) 
+Seat 4: Lorpugo ($4.11 in chips) 
+Seat 5: AndryiHaiduk ($5.82 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Nikolaussv: posts small blind $0.01
+Nachtkuetz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kd]
+koksik_rafal: raises $0.04 to $0.06
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: calls $0.05
+Nachtkuetz: folds 
+*** FLOP *** [Ks Qh 2c]
+Nikolaussv: checks 
+koksik_rafal: bets $0.07
+Nikolaussv: folds 
+Uncalled bet ($0.07) returned to koksik_rafal
+koksik_rafal collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ks Qh 2c]
+Seat 1: Nikolaussv (small blind) folded on the Flop
+Seat 2: Nachtkuetz (big blind) folded before Flop
+Seat 3: koksik_rafal collected ($0.14)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729361759:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:26:24 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.04 in chips) 
+Seat 2: Nachtkuetz ($2 in chips) 
+Seat 3: koksik_rafal ($0.97 in chips) 
+Seat 4: Lorpugo ($4.11 in chips) 
+Seat 5: AndryiHaiduk ($5.82 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Nachtkuetz: posts small blind $0.01
+koksik_rafal: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Ah]
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: folds 
+koksik_rafal: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (button) folded before Flop (didn't bet)
+Seat 2: Nachtkuetz (small blind) folded before Flop
+Seat 3: koksik_rafal (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729366978:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:26:37 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.04 in chips) 
+Seat 2: Nachtkuetz ($2 in chips) 
+Seat 3: koksik_rafal ($0.95 in chips) 
+Seat 4: Lorpugo ($4.14 in chips) 
+Seat 5: AndryiHaiduk ($5.82 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+koksik_rafal: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3s]
+AndryiHaiduk has timed out
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: folds 
+koksik_rafal: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to koksik_rafal
+koksik_rafal collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz (button) folded before Flop (didn't bet)
+Seat 3: koksik_rafal (small blind) collected ($0.04)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729377350:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:27:03 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Nikolaussv ($2.04 in chips) 
+Seat 2: Nachtkuetz ($2 in chips) 
+Seat 3: koksik_rafal ($0.97 in chips) 
+Seat 4: Lorpugo ($4.12 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5h]
+Nikolaussv: folds 
+Nachtkuetz: raises $0.03 to $0.05
+koksik_rafal: folds 
+Lorpugo: folds 
+Maqaqaa: folds 
+Uncalled bet ($0.03) returned to Nachtkuetz
+Nachtkuetz collected $0.05 from pot
+Nachtkuetz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz collected ($0.05)
+Seat 3: koksik_rafal (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: Maqaqaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729383952:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:27:20 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.04 in chips) 
+Seat 2: Nachtkuetz ($2.03 in chips) 
+Seat 3: koksik_rafal ($0.97 in chips) 
+Seat 4: Lorpugo ($4.11 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Th]
+Nachtkuetz: folds 
+koksik_rafal: raises $0.04 to $0.06
+Lorpugo: folds 
+Maqaqaa: folds 
+Nikolaussv: calls $0.04
+*** FLOP *** [4c 3c Ac]
+Nikolaussv: checks 
+koksik_rafal: bets $0.07
+Nikolaussv: folds 
+Uncalled bet ($0.07) returned to koksik_rafal
+koksik_rafal collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 3c Ac]
+Seat 1: Nikolaussv (big blind) folded on the Flop
+Seat 2: Nachtkuetz folded before Flop (didn't bet)
+Seat 3: koksik_rafal collected ($0.13)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729398322:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:27:56 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($1.98 in chips) 
+Seat 2: Nachtkuetz ($2.03 in chips) 
+Seat 3: koksik_rafal ($1.04 in chips) 
+Seat 4: Lorpugo ($4.11 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Nikolaussv: posts small blind $0.01
+Nachtkuetz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Jh]
+koksik_rafal: raises $0.04 to $0.06
+Lorpugo: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: folds 
+Uncalled bet ($0.04) returned to koksik_rafal
+koksik_rafal collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (small blind) folded before Flop
+Seat 2: Nachtkuetz (big blind) folded before Flop
+Seat 3: koksik_rafal collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729403404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:28:09 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($1.97 in chips) 
+Seat 2: Nachtkuetz ($2.01 in chips) 
+Seat 3: koksik_rafal ($1.07 in chips) 
+Seat 4: Lorpugo ($4.11 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Nachtkuetz: posts small blind $0.01
+koksik_rafal: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9d]
+Lorpugo: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.03 to $0.05
+Nachtkuetz: calls $0.04
+koksik_rafal: calls $0.03
+*** FLOP *** [4d 5d 5h]
+Nachtkuetz: checks 
+koksik_rafal: bets $0.07
+Nikolaussv: calls $0.07
+Nachtkuetz: folds 
+*** TURN *** [4d 5d 5h] [7c]
+koksik_rafal: checks 
+Nikolaussv: bets $0.16
+koksik_rafal: folds 
+Uncalled bet ($0.16) returned to Nikolaussv
+Nikolaussv collected $0.28 from pot
+Nikolaussv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [4d 5d 5h 7c]
+Seat 1: Nikolaussv (button) collected ($0.28)
+Seat 2: Nachtkuetz (small blind) folded on the Flop
+Seat 3: koksik_rafal (big blind) folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729415885:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:28:41 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.13 in chips) 
+Seat 2: Nachtkuetz ($2 in chips) 
+Seat 3: koksik_rafal ($0.95 in chips) 
+Seat 4: Lorpugo ($4.11 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+koksik_rafal: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 3c]
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: raises $0.03 to $0.05
+koksik_rafal: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Td 9h Kd]
+koksik_rafal leaves the table
+Lorpugo: checks 
+Nachtkuetz: checks 
+*** TURN *** [Td 9h Kd] [5s]
+dsolmos joins the table at seat #3 
+Lorpugo: checks 
+Nachtkuetz: checks 
+*** RIVER *** [Td 9h Kd 5s] [As]
+Lorpugo: bets $0.11
+Nachtkuetz: calls $0.11
+*** SHOW DOWN ***
+Lorpugo: shows [4c 3c] (high card Ace)
+Nachtkuetz: shows [6h Ad] (a pair of Aces)
+Nachtkuetz collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Td 9h Kd 5s As]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz (button) showed [6h Ad] and won ($0.32) with a pair of Aces
+Seat 3: koksik_rafal (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [4c 3c] and lost with high card Ace
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729427210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:29:09 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.13 in chips) 
+Seat 2: Nachtkuetz ($2.16 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($3.95 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+dsolmos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7s]
+Nachtkuetz: folds 
+dsolmos: raises $0.04 to $0.06
+Lorpugo: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.04) returned to dsolmos
+dsolmos collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (big blind) folded before Flop
+Seat 2: Nachtkuetz folded before Flop (didn't bet)
+Seat 3: dsolmos collected ($0.05)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729435889:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:29:31 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.11 in chips) 
+Seat 2: Nachtkuetz ($2.16 in chips) 
+Seat 3: dsolmos ($2.03 in chips) 
+Seat 4: Lorpugo ($3.95 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Nikolaussv: posts small blind $0.01
+Nachtkuetz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qd]
+dsolmos: folds 
+Lorpugo: folds 
+Maqaqaa: raises $0.04 to $0.06
+Nikolaussv: calls $0.05
+Nachtkuetz: folds 
+*** FLOP *** [8h 5h 3c]
+Nikolaussv: checks 
+Maqaqaa: bets $0.08
+Nikolaussv: calls $0.08
+*** TURN *** [8h 5h 3c] [Ks]
+Nikolaussv: checks 
+Maqaqaa: checks 
+*** RIVER *** [8h 5h 3c Ks] [As]
+Nikolaussv: checks 
+Maqaqaa: checks 
+*** SHOW DOWN ***
+Nikolaussv: shows [8c Jc] (a pair of Eights)
+Maqaqaa: mucks hand 
+Nikolaussv collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8h 5h 3c Ks As]
+Seat 1: Nikolaussv (small blind) showed [8c Jc] and won ($0.29) with a pair of Eights
+Seat 2: Nachtkuetz (big blind) folded before Flop
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) mucked [Jh 9c]
+
+
+
+PokerStars Hand #240729466400:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:30:47 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.26 in chips) 
+Seat 2: Nachtkuetz ($2.14 in chips) 
+Seat 3: dsolmos ($2.03 in chips) 
+Seat 4: Lorpugo ($3.95 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Nachtkuetz: posts small blind $0.01
+dsolmos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2d]
+Lorpugo: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: folds 
+Uncalled bet ($0.01) returned to dsolmos
+dsolmos collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikolaussv (button) folded before Flop (didn't bet)
+Seat 2: Nachtkuetz (small blind) folded before Flop
+Seat 3: dsolmos (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729473315:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:31:04 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.26 in chips) 
+Seat 2: Nachtkuetz ($2.13 in chips) 
+Seat 3: dsolmos ($2.04 in chips) 
+Seat 4: Lorpugo ($3.95 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+dsolmos: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ts]
+Maqaqaa: folds 
+Nikolaussv: raises $0.03 to $0.05
+Nachtkuetz: folds 
+dsolmos: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [9h Qd 6d]
+Lorpugo: checks 
+Nikolaussv: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [9h Qd 6d] [5d]
+Lorpugo: checks 
+Nikolaussv: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to Nikolaussv
+Nikolaussv collected $0.22 from pot
+Nikolaussv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9h Qd 6d 5d]
+Seat 1: Nikolaussv collected ($0.22)
+Seat 2: Nachtkuetz (button) folded before Flop (didn't bet)
+Seat 3: dsolmos (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729487056:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:31:38 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Nikolaussv ($2.37 in chips) 
+Seat 2: Nachtkuetz ($2.13 in chips) 
+Seat 3: dsolmos ($2.03 in chips) 
+Seat 4: Lorpugo ($3.84 in chips) 
+Seat 5: AndryiHaiduk ($5.82 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Qs]
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: folds 
+dsolmos: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: calls $0.04
+*** FLOP *** [7d 5s Kc]
+Lorpugo: bets $0.06
+AndryiHaiduk: calls $0.06
+*** TURN *** [7d 5s Kc] [4s]
+Lorpugo: checks 
+AndryiHaiduk: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to AndryiHaiduk
+AndryiHaiduk collected $0.23 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7d 5s Kc 4s]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz folded before Flop (didn't bet)
+Seat 3: dsolmos (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the Turn
+Seat 5: AndryiHaiduk (big blind) collected ($0.23)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729500612:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:32:11 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.37 in chips) 
+Seat 2: Nachtkuetz ($2.13 in chips) 
+Seat 3: dsolmos ($2.03 in chips) 
+Seat 4: Lorpugo ($3.72 in chips) 
+Seat 5: AndryiHaiduk ($5.93 in chips) 
+Seat 6: Maqaqaa ($2 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d As]
+Nikolaussv: folds 
+Nachtkuetz: raises $0.03 to $0.05
+dsolmos: folds 
+Lorpugo: calls $0.05
+AndryiHaiduk: folds 
+Maqaqaa: calls $0.03
+*** FLOP *** [Js 3h 9s]
+Maqaqaa: checks 
+Nachtkuetz: checks 
+Lorpugo: checks 
+*** TURN *** [Js 3h 9s] [6d]
+Maqaqaa: checks 
+Nachtkuetz: checks 
+Lorpugo: checks 
+*** RIVER *** [Js 3h 9s 6d] [Kh]
+Maqaqaa: bets $0.06
+Nachtkuetz: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Maqaqaa
+Maqaqaa collected $0.15 from pot
+Maqaqaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Js 3h 9s 6d Kh]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz folded on the River
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the River
+Seat 5: AndryiHaiduk (small blind) folded before Flop
+Seat 6: Maqaqaa (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #240729523335:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:33:07 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2.37 in chips) 
+Seat 2: Nachtkuetz ($2.08 in chips) 
+Seat 3: dsolmos ($2.03 in chips) 
+Seat 4: Lorpugo ($3.67 in chips) 
+Seat 5: AndryiHaiduk ($5.92 in chips) 
+Seat 6: Maqaqaa ($2.10 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ks]
+Nachtkuetz: folds 
+dsolmos: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: calls $0.06
+Maqaqaa: calls $0.05
+Nikolaussv: folds 
+*** FLOP *** [9h 8d Ac]
+Maqaqaa: checks 
+Lorpugo: checks 
+AndryiHaiduk: bets $0.04
+Maqaqaa: calls $0.04
+Lorpugo: calls $0.04
+*** TURN *** [9h 8d Ac] [3s]
+Maqaqaa: checks 
+Lorpugo: checks 
+AndryiHaiduk: bets $0.08
+Maqaqaa: calls $0.08
+Lorpugo: calls $0.08
+*** RIVER *** [9h 8d Ac 3s] [5h]
+Maqaqaa: checks 
+Lorpugo: checks 
+AndryiHaiduk: bets $0.30
+Maqaqaa: raises $0.50 to $0.80
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Uncalled bet ($0.50) returned to Maqaqaa
+Maqaqaa collected $1.12 from pot
+Maqaqaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.04 
+Board [9h 8d Ac 3s 5h]
+Seat 1: Nikolaussv (big blind) folded before Flop
+Seat 2: Nachtkuetz folded before Flop (didn't bet)
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo folded on the River
+Seat 5: AndryiHaiduk (button) folded on the River
+Seat 6: Maqaqaa (small blind) collected ($1.12)
+
+
+
+PokerStars Hand #240729562240:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:34:42 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.35 in chips) 
+Seat 2: Nachtkuetz ($2.08 in chips) 
+Seat 3: dsolmos ($2.03 in chips) 
+Seat 4: Lorpugo ($3.49 in chips) 
+Seat 5: AndryiHaiduk ($5.44 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+Nikolaussv: posts small blind $0.01
+Nachtkuetz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7c]
+dsolmos: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (small blind) folded before Flop
+Seat 2: Nachtkuetz (big blind) folded before Flop
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729570716:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:35:03 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.34 in chips) 
+Seat 2: Nachtkuetz ($2.06 in chips) 
+Seat 3: dsolmos ($2.03 in chips) 
+Seat 4: Lorpugo ($3.52 in chips) 
+Seat 5: AndryiHaiduk ($5.44 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+Nachtkuetz: posts small blind $0.01
+dsolmos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ks]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.03 to $0.05
+Nachtkuetz: folds 
+dsolmos: raises $0.17 to $0.22
+Nikolaussv: calls $0.17
+*** FLOP *** [Kc 4c 9d]
+dsolmos: bets $0.14
+Nikolaussv: calls $0.14
+*** TURN *** [Kc 4c 9d] [7d]
+dsolmos: checks 
+Nikolaussv: bets $0.40
+dsolmos: folds 
+Uncalled bet ($0.40) returned to Nikolaussv
+Nikolaussv collected $0.70 from pot
+Nikolaussv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Kc 4c 9d 7d]
+Seat 1: Nikolaussv (button) collected ($0.70)
+Seat 2: Nachtkuetz (small blind) folded before Flop
+Seat 3: dsolmos (big blind) folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729592393:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:35:56 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.68 in chips) 
+Seat 2: Nachtkuetz ($2.05 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($3.52 in chips) 
+Seat 5: AndryiHaiduk ($5.44 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+dsolmos: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6d]
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: folds 
+dsolmos: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz (button) folded before Flop (didn't bet)
+Seat 3: dsolmos (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729597917:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:36:09 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Nikolaussv ($2.68 in chips) 
+Seat 2: Nachtkuetz ($2.05 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($3.53 in chips) 
+Seat 5: AndryiHaiduk ($5.44 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qc]
+Maqaqaa: folds 
+Nikolaussv: folds 
+Nachtkuetz: raises $0.04 to $0.06
+dsolmos: folds 
+Lorpugo: calls $0.05
+AndryiHaiduk: calls $0.04
+*** FLOP *** [Qd 4d Kc]
+Lorpugo: checks 
+AndryiHaiduk: checks 
+Nachtkuetz: bets $0.12
+Lorpugo: calls $0.12
+AndryiHaiduk: folds 
+*** TURN *** [Qd 4d Kc] [6c]
+Lorpugo: checks 
+Nachtkuetz: bets $0.32
+Lorpugo: calls $0.32
+*** RIVER *** [Qd 4d Kc 6c] [6d]
+Lorpugo: checks 
+Nachtkuetz: bets $0.81
+Lorpugo: folds 
+Uncalled bet ($0.81) returned to Nachtkuetz
+Nachtkuetz collected $1.02 from pot
+Nachtkuetz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [Qd 4d Kc 6c 6d]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz collected ($1.02)
+Seat 3: dsolmos (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the River
+Seat 5: AndryiHaiduk (big blind) folded on the Flop
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729623932:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:37:13 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.68 in chips) 
+Seat 2: Nachtkuetz ($2.57 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($3.03 in chips) 
+Seat 5: AndryiHaiduk ($5.38 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4s]
+Nikolaussv: folds 
+Nachtkuetz: folds 
+dsolmos: folds 
+Nachtkuetz leaves the table
+Lorpugo has timed out
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Uncalled bet ($0.01) returned to Maqaqaa
+Maqaqaa collected $0.02 from pot
+Maqaqaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: Nachtkuetz folded before Flop (didn't bet)
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (small blind) folded before Flop
+Seat 6: Maqaqaa (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240729632125:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:37:34 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2.68 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($3.03 in chips) 
+Seat 5: AndryiHaiduk ($5.37 in chips) 
+Seat 6: Maqaqaa ($2.75 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 6d]
+sili712 joins the table at seat #2 
+sili712 leaves the table
+dsolmos has timed out
+dsolmos: folds 
+Lorpugo: folds 
+AndryiHaiduk: raises $0.06 to $0.08
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.06) returned to AndryiHaiduk
+AndryiHaiduk collected $0.05 from pot
+AndryiHaiduk: doesn't show hand 
+rogerel5 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (big blind) folded before Flop
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) collected ($0.05)
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729641024:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:37:55 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.66 in chips) 
+Seat 2: rogerel5 ($2 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($3.03 in chips) 
+Seat 5: AndryiHaiduk ($5.40 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+Nikolaussv: posts small blind $0.01
+rogerel5 is connected 
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 2s]
+dsolmos: folds 
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.01) returned to rogerel5
+rogerel5 collected $0.02 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikolaussv (small blind) folded before Flop
+Seat 2: rogerel5 (big blind) collected ($0.02)
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729647437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:38:11 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.01 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($3.03 in chips) 
+Seat 5: AndryiHaiduk ($5.40 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+rogerel5: posts small blind $0.01
+dsolmos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 9c]
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+rogerel5: calls $0.05
+dsolmos: folds 
+*** FLOP *** [7s Kh Js]
+rogerel5: checks 
+Lorpugo: checks 
+*** TURN *** [7s Kh Js] [4c]
+rogerel5: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to rogerel5
+rogerel5 collected $0.14 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7s Kh Js 4c]
+Seat 1: Nikolaussv (button) folded before Flop (didn't bet)
+Seat 2: rogerel5 (small blind) collected ($0.14)
+Seat 3: dsolmos (big blind) folded before Flop
+Seat 4: Lorpugo folded on the Turn
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729664156:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:38:52 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.09 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($2.97 in chips) 
+Seat 5: AndryiHaiduk ($5.40 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+dsolmos: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3d]
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+rogerel5: folds 
+dsolmos: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 (button) folded before Flop (didn't bet)
+Seat 3: dsolmos (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729672008:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:39:12 ET
+Table 'Neckar II' 6-max Seat #3 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.09 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($2.98 in chips) 
+Seat 5: AndryiHaiduk ($5.40 in chips) 
+Seat 6: Maqaqaa ($2.74 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5h]
+Maqaqaa: raises $0.04 to $0.06
+Nikolaussv: folds 
+rogerel5: raises $0.16 to $0.22
+dsolmos: folds 
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Uncalled bet ($0.16) returned to rogerel5
+rogerel5 collected $0.15 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 collected ($0.15)
+Seat 3: dsolmos (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) folded before Flop
+Seat 6: Maqaqaa folded before Flop
+
+
+
+PokerStars Hand #240729685127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:39:44 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.18 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($2.97 in chips) 
+Seat 5: AndryiHaiduk ($5.38 in chips) 
+Seat 6: Maqaqaa ($2.68 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4d]
+Nikolaussv: folds 
+rogerel5: folds 
+dsolmos has timed out
+dsolmos: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: calls $0.05
+Maqaqaa: folds 
+*** FLOP *** [As 7d Qd]
+AndryiHaiduk: checks 
+Lorpugo: bets $0.05
+AndryiHaiduk: calls $0.05
+*** TURN *** [As 7d Qd] [9s]
+AndryiHaiduk: checks 
+Lorpugo: checks 
+*** RIVER *** [As 7d Qd 9s] [3c]
+AndryiHaiduk: bets $0.16
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to AndryiHaiduk
+AndryiHaiduk collected $0.23 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [As 7d Qd 9s 3c]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 folded before Flop (didn't bet)
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the River
+Seat 5: AndryiHaiduk (small blind) collected ($0.23)
+Seat 6: Maqaqaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729717883:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:41:03 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.18 in chips) 
+Seat 3: dsolmos ($2 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: AndryiHaiduk ($5.50 in chips) 
+Seat 6: Maqaqaa ($2.66 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 8s]
+rogerel5: folds 
+dsolmos: folds 
+Lorpugo: folds 
+AndryiHaiduk: raises $0.06 to $0.08
+Maqaqaa: folds 
+Nikolaussv: calls $0.06
+*** FLOP *** [3c Jh Qc]
+Nikolaussv: checks 
+AndryiHaiduk: checks 
+*** TURN *** [3c Jh Qc] [5s]
+Nikolaussv: checks 
+AndryiHaiduk: checks 
+*** RIVER *** [3c Jh Qc 5s] [8d]
+Nikolaussv: checks 
+AndryiHaiduk: checks 
+*** SHOW DOWN ***
+Nikolaussv: shows [9d Kc] (high card King)
+AndryiHaiduk: shows [6s 6c] (a pair of Sixes)
+AndryiHaiduk collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3c Jh Qc 5s 8d]
+Seat 1: Nikolaussv (big blind) showed [9d Kc] and lost with high card King
+Seat 2: rogerel5 folded before Flop (didn't bet)
+Seat 3: dsolmos folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) showed [6s 6c] and won ($0.16) with a pair of Sixes
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729730406:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:41:34 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.57 in chips) 
+Seat 2: rogerel5 ($2.18 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: AndryiHaiduk ($5.58 in chips) 
+Seat 6: Maqaqaa ($2.65 in chips) 
+Nikolaussv: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5s]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.01) returned to rogerel5
+rogerel5 collected $0.02 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikolaussv (small blind) folded before Flop
+Seat 2: rogerel5 (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729734340:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:41:43 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.56 in chips) 
+Seat 2: rogerel5 ($2.19 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: AndryiHaiduk ($5.58 in chips) 
+Seat 6: Maqaqaa ($2.65 in chips) 
+rogerel5: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8d]
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.03 to $0.05
+rogerel5: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [As 9s Ah]
+Lorpugo: checks 
+Nikolaussv: checks 
+*** TURN *** [As 9s Ah] [4h]
+Lorpugo: bets $0.04
+Nikolaussv: calls $0.04
+*** RIVER *** [As 9s Ah 4h] [Kc]
+Lorpugo: checks 
+Nikolaussv: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ts 8d] (a pair of Aces)
+Nikolaussv: shows [5s 5d] (two pair, Aces and Fives)
+Nikolaussv collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [As 9s Ah 4h Kc]
+Seat 1: Nikolaussv (button) showed [5s 5d] and won ($0.18) with two pair, Aces and Fives
+Seat 2: rogerel5 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [Ts 8d] and lost with a pair of Aces
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729752087:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:42:27 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.18 in chips) 
+Seat 4: Lorpugo ($2.77 in chips) 
+Seat 5: AndryiHaiduk ($5.58 in chips) 
+Seat 6: Maqaqaa ($2.65 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 2d]
+Maqaqaa: folds 
+Nikolaussv: folds 
+rogerel5: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+AndryiHaiduk: raises $0.10 to $0.16
+rogerel5: raises $0.44 to $0.60
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Uncalled bet ($0.44) returned to rogerel5
+rogerel5 collected $0.38 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 (button) collected ($0.38)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) folded before Flop
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729779895:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:43:34 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.40 in chips) 
+Seat 4: Lorpugo ($2.71 in chips) 
+Seat 5: AndryiHaiduk ($5.42 in chips) 
+Seat 6: Maqaqaa ($2.65 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 9h]
+Nikolaussv: folds 
+rogerel5: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: AndryiHaiduk (small blind) folded before Flop
+Seat 6: Maqaqaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729790643:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:01 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2.65 in chips) 
+Seat 2: rogerel5 ($2.40 in chips) 
+Seat 4: Lorpugo ($2.74 in chips) 
+Seat 5: AndryiHaiduk ($5.41 in chips) 
+Seat 6: Maqaqaa ($2.63 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5d]
+rogerel5: raises $0.04 to $0.06
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.04) returned to rogerel5
+rogerel5 collected $0.05 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (big blind) folded before Flop
+Seat 2: rogerel5 collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729802719:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:30 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.63 in chips) 
+Seat 2: rogerel5 ($2.43 in chips) 
+Seat 4: Lorpugo ($2.74 in chips) 
+Seat 5: AndryiHaiduk ($5.41 in chips) 
+Seat 6: Maqaqaa ($2.62 in chips) 
+Nikolaussv: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 6h]
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+rogerel5: calls $0.04
+*** FLOP *** [9c 2c 6d]
+rogerel5: checks 
+Lorpugo: bets $0.07
+rogerel5: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9c 2c 6d]
+Seat 1: Nikolaussv (small blind) folded before Flop
+Seat 2: rogerel5 (big blind) folded on the Flop
+Seat 4: Lorpugo collected ($0.13)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729813513:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:57 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.62 in chips) 
+Seat 2: rogerel5 ($2.37 in chips) 
+Seat 4: Lorpugo ($2.81 in chips) 
+Seat 5: AndryiHaiduk ($5.41 in chips) 
+Seat 6: Maqaqaa ($2.62 in chips) 
+rogerel5: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 3s]
+AndryiHaiduk: folds 
+Maqaqaa: raises $0.04 to $0.06
+Nikolaussv: folds 
+rogerel5: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Maqaqaa
+Maqaqaa collected $0.05 from pot
+Maqaqaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (button) folded before Flop (didn't bet)
+Seat 2: rogerel5 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa collected ($0.05)
+
+
+
+PokerStars Hand #240729818668:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:45:09 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.62 in chips) 
+Seat 2: rogerel5 ($2.36 in chips) 
+Seat 4: Lorpugo ($2.79 in chips) 
+Seat 5: AndryiHaiduk ($5.41 in chips) 
+Seat 6: Maqaqaa ($2.65 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 9h]
+Maqaqaa: folds 
+Nikolaussv: folds 
+rogerel5 has timed out
+rogerel5: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: AndryiHaiduk (big blind) folded before Flop
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729831277:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:45:40 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.62 in chips) 
+Seat 4: Lorpugo ($2.81 in chips) 
+Seat 5: AndryiHaiduk ($5.39 in chips) 
+Seat 6: Maqaqaa ($2.65 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 6h]
+Nikolaussv: folds 
+Lorpugo: raises $0.04 to $0.06
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 5: AndryiHaiduk (small blind) folded before Flop
+Seat 6: Maqaqaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729837780:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:45:56 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2.62 in chips) 
+Seat 2: rogerel5 ($2.36 in chips) 
+Seat 4: Lorpugo ($2.84 in chips) 
+Seat 5: AndryiHaiduk ($5.38 in chips) 
+Seat 6: Maqaqaa ($2.63 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3s]
+rogerel5: raises $0.04 to $0.06
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.04) returned to rogerel5
+rogerel5 collected $0.05 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (big blind) folded before Flop
+Seat 2: rogerel5 collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729845533:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:46:15 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.60 in chips) 
+Seat 2: rogerel5 ($2.39 in chips) 
+Seat 4: Lorpugo ($2.84 in chips) 
+Seat 5: AndryiHaiduk ($5.38 in chips) 
+Seat 6: Maqaqaa ($2.62 in chips) 
+Nikolaussv: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ks]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.04 to $0.06
+rogerel5: raises $0.16 to $0.22
+Nikolaussv: folds 
+Uncalled bet ($0.16) returned to rogerel5
+rogerel5 collected $0.12 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Nikolaussv (small blind) folded before Flop
+Seat 2: rogerel5 (big blind) collected ($0.12)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729856007:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:46:40 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.54 in chips) 
+Seat 2: rogerel5 ($2.45 in chips) 
+Seat 4: Lorpugo ($2.84 in chips) 
+Seat 5: AndryiHaiduk ($5.38 in chips) 
+Seat 6: Maqaqaa ($2.62 in chips) 
+rogerel5: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5d]
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.04 to $0.06
+rogerel5: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Nikolaussv
+Nikolaussv collected $0.05 from pot
+Nikolaussv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nikolaussv (button) collected ($0.05)
+Seat 2: rogerel5 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729863187:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:46:58 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.57 in chips) 
+Seat 2: rogerel5 ($2.44 in chips) 
+Seat 4: Lorpugo ($2.82 in chips) 
+Seat 5: AndryiHaiduk ($5.38 in chips) 
+Seat 6: Maqaqaa ($2.62 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Jd]
+Maqaqaa: raises $0.04 to $0.06
+Nikolaussv: folds 
+rogerel5: folds 
+Lorpugo: calls $0.05
+AndryiHaiduk: calls $0.04
+*** FLOP *** [3c Jh 8c]
+Lorpugo: checks 
+AndryiHaiduk: checks 
+Maqaqaa: checks 
+*** TURN *** [3c Jh 8c] [2h]
+Lorpugo: bets $0.20
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3c Jh 8c 2h]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.17)
+Seat 5: AndryiHaiduk (big blind) folded on the Turn
+Seat 6: Maqaqaa folded on the Turn
+
+
+
+PokerStars Hand #240729881407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:47:42 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.57 in chips) 
+Seat 2: rogerel5 ($2.44 in chips) 
+Seat 4: Lorpugo ($2.93 in chips) 
+Seat 5: AndryiHaiduk ($5.32 in chips) 
+Seat 6: Maqaqaa ($2.56 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 3d]
+Nikolaussv: raises $0.02 to $0.04
+rogerel5: raises $0.14 to $0.18
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.14) returned to rogerel5
+rogerel5 collected $0.11 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Nikolaussv folded before Flop
+Seat 2: rogerel5 collected ($0.11)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (small blind) folded before Flop
+Seat 6: Maqaqaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729891615:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:48:07 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2.53 in chips) 
+Seat 2: rogerel5 ($2.51 in chips) 
+Seat 4: Lorpugo ($2.93 in chips) 
+Seat 5: AndryiHaiduk ($5.31 in chips) 
+Seat 6: Maqaqaa ($2.54 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 3c]
+rogerel5: folds 
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: raises $0.04 to $0.06
+Nikolaussv: folds 
+Uncalled bet ($0.04) returned to Maqaqaa
+Maqaqaa collected $0.04 from pot
+Maqaqaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Nikolaussv (big blind) folded before Flop
+Seat 2: rogerel5 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: Maqaqaa (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240729895870:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:48:18 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.51 in chips) 
+Seat 2: rogerel5 ($2.51 in chips) 
+Seat 4: Lorpugo ($2.93 in chips) 
+Seat 5: AndryiHaiduk ($5.31 in chips) 
+Seat 6: Maqaqaa ($2.56 in chips) 
+Nikolaussv: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9d]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+Uncalled bet ($0.01) returned to rogerel5
+rogerel5 collected $0.02 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nikolaussv (small blind) folded before Flop
+Seat 2: rogerel5 (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729900181:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:48:28 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.50 in chips) 
+Seat 2: rogerel5 ($2.52 in chips) 
+Seat 4: Lorpugo ($2.93 in chips) 
+Seat 5: AndryiHaiduk ($5.31 in chips) 
+Seat 6: Maqaqaa ($2.56 in chips) 
+rogerel5: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Qs]
+AndryiHaiduk has timed out
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.03 to $0.05
+rogerel5: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [6s 2c As]
+Lorpugo: checks 
+Nikolaussv: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Nikolaussv
+Nikolaussv collected $0.11 from pot
+dsolmos leaves the table
+Nikolaussv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6s 2c As]
+Seat 1: Nikolaussv (button) collected ($0.11)
+Seat 2: rogerel5 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729914538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:49:04 ET
+Table 'Neckar II' 6-max Seat #2 is the button
+Seat 1: Nikolaussv ($2.56 in chips) 
+Seat 2: rogerel5 ($2.51 in chips) 
+Seat 4: Lorpugo ($2.88 in chips) 
+Seat 5: AndryiHaiduk ($5.31 in chips) 
+Seat 6: Maqaqaa ($2.56 in chips) 
+Lorpugo: posts small blind $0.01
+AndryiHaiduk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 6d]
+Maqaqaa: folds 
+Nikolaussv: folds 
+rogerel5: raises $0.04 to $0.06
+Lorpugo: folds 
+AndryiHaiduk: calls $0.04
+*** FLOP *** [Jh Kh Js]
+AndryiHaiduk: checks 
+coscarelli86 joins the table at seat #3 
+rogerel5: bets $0.05
+AndryiHaiduk: calls $0.05
+*** TURN *** [Jh Kh Js] [Ah]
+AndryiHaiduk: checks 
+rogerel5: checks 
+*** RIVER *** [Jh Kh Js Ah] [5s]
+AndryiHaiduk: bets $0.06
+rogerel5: folds 
+Uncalled bet ($0.06) returned to AndryiHaiduk
+AndryiHaiduk collected $0.22 from pot
+AndryiHaiduk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jh Kh Js Ah 5s]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 (button) folded on the River
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: AndryiHaiduk (big blind) collected ($0.22)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729931035:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:49:44 ET
+Table 'Neckar II' 6-max Seat #4 is the button
+Seat 1: Nikolaussv ($2.56 in chips) 
+Seat 2: rogerel5 ($2.40 in chips) 
+Seat 3: coscarelli86 ($1 in chips) 
+Seat 4: Lorpugo ($2.87 in chips) 
+Seat 5: AndryiHaiduk ($5.42 in chips) 
+Seat 6: Maqaqaa ($2.56 in chips) 
+AndryiHaiduk: posts small blind $0.01
+Maqaqaa: posts big blind $0.02
+coscarelli86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 3c]
+Nikolaussv: folds 
+rogerel5: folds 
+coscarelli86: checks 
+Lorpugo: calls $0.02
+AndryiHaiduk: calls $0.01
+Maqaqaa: checks 
+*** FLOP *** [3d 6d Kh]
+AndryiHaiduk: checks 
+Maqaqaa: checks 
+coscarelli86: checks 
+Lorpugo: checks 
+*** TURN *** [3d 6d Kh] [6s]
+AndryiHaiduk: checks 
+Maqaqaa: checks 
+coscarelli86: checks 
+Lorpugo: bets $0.05
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+coscarelli86: calls $0.05
+*** RIVER *** [3d 6d Kh 6s] [Kd]
+coscarelli86: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+coscarelli86: shows [Ad 5h] (two pair, Kings and Sixes)
+Lorpugo: shows [As 3c] (two pair, Kings and Sixes)
+coscarelli86 collected $0.09 from pot
+Lorpugo collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3d 6d Kh 6s Kd]
+Seat 1: Nikolaussv folded before Flop (didn't bet)
+Seat 2: rogerel5 folded before Flop (didn't bet)
+Seat 3: coscarelli86 showed [Ad 5h] and won ($0.09) with two pair, Kings and Sixes
+Seat 4: Lorpugo (button) showed [As 3c] and won ($0.08) with two pair, Kings and Sixes
+Seat 5: AndryiHaiduk (small blind) folded on the Turn
+Seat 6: Maqaqaa (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240729961709:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:51:00 ET
+Table 'Neckar II' 6-max Seat #5 is the button
+Seat 1: Nikolaussv ($2.56 in chips) 
+Seat 2: rogerel5 ($2.40 in chips) 
+Seat 3: coscarelli86 ($1.02 in chips) 
+Seat 4: Lorpugo ($2.88 in chips) 
+Seat 5: AndryiHaiduk ($5.40 in chips) 
+Seat 6: Maqaqaa ($2.54 in chips) 
+Maqaqaa: posts small blind $0.01
+Nikolaussv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 3c]
+rogerel5: folds 
+coscarelli86: calls $0.02
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.04 to $0.06
+coscarelli86: calls $0.04
+*** FLOP *** [Th 2d 4d]
+Nikolaussv: bets $0.07
+coscarelli86: calls $0.07
+*** TURN *** [Th 2d 4d] [4c]
+Nikolaussv: bets $0.14
+coscarelli86: folds 
+Uncalled bet ($0.14) returned to Nikolaussv
+Nikolaussv collected $0.26 from pot
+Nikolaussv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Th 2d 4d 4c]
+Seat 1: Nikolaussv (big blind) collected ($0.26)
+Seat 2: rogerel5 folded before Flop (didn't bet)
+Seat 3: coscarelli86 folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk (button) folded before Flop (didn't bet)
+Seat 6: Maqaqaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729984813:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:51:57 ET
+Table 'Neckar II' 6-max Seat #6 is the button
+Seat 1: Nikolaussv ($2.69 in chips) 
+Seat 2: rogerel5 ($2.40 in chips) 
+Seat 3: coscarelli86 ($0.89 in chips) 
+Seat 4: Lorpugo ($2.88 in chips) 
+Seat 5: AndryiHaiduk ($5.40 in chips) 
+Seat 6: Maqaqaa ($2.53 in chips) 
+Nikolaussv: posts small blind $0.01
+rogerel5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5c]
+coscarelli86: folds 
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: raises $0.04 to $0.06
+rogerel5: calls $0.04
+*** FLOP *** [Td 4s 4d]
+Nikolaussv: checks 
+rogerel5: bets $0.04
+Nikolaussv: folds 
+Uncalled bet ($0.04) returned to rogerel5
+rogerel5 collected $0.12 from pot
+rogerel5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Td 4s 4d]
+Seat 1: Nikolaussv (small blind) folded on the Flop
+Seat 2: rogerel5 (big blind) collected ($0.12)
+Seat 3: coscarelli86 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240730001377:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:52:38 ET
+Table 'Neckar II' 6-max Seat #1 is the button
+Seat 1: Nikolaussv ($2.63 in chips) 
+Seat 2: rogerel5 ($2.46 in chips) 
+Seat 3: coscarelli86 ($0.89 in chips) 
+Seat 4: Lorpugo ($2.88 in chips) 
+Seat 5: AndryiHaiduk ($5.40 in chips) 
+Seat 6: Maqaqaa ($2.53 in chips) 
+rogerel5: posts small blind $0.01
+coscarelli86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 6c]
+Lorpugo: folds 
+AndryiHaiduk: folds 
+Maqaqaa: folds 
+Nikolaussv: folds 
+rogerel5: raises $0.04 to $0.06
+coscarelli86: calls $0.04
+*** FLOP *** [Jh 8s 4c]
+rogerel5: checks 
+coscarelli86: bets $0.06
+rogerel5: calls $0.06
+*** TURN *** [Jh 8s 4c] [Qd]
+rogerel5: checks 
+coscarelli86: bets $0.10
+rogerel5: calls $0.10
+*** RIVER *** [Jh 8s 4c Qd] [Jc]
+rogerel5: checks 
+coscarelli86: bets $0.42
+rogerel5: folds 
+Uncalled bet ($0.42) returned to coscarelli86
+coscarelli86 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Jh 8s 4c Qd Jc]
+Seat 1: Nikolaussv (button) folded before Flop (didn't bet)
+Seat 2: rogerel5 (small blind) folded on the River
+Seat 3: coscarelli86 (big blind) collected ($0.42)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: AndryiHaiduk folded before Flop (didn't bet)
+Seat 6: Maqaqaa folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,1622 @@
+﻿PokerStars Hand #239564565934:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:46:00 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: kkpote ($2.27 in chips) 
+Seat 3: FrancoOlmedo ($2.05 in chips) 
+Seat 4: Beate600 ($1.32 in chips) 
+Seat 5: petyalada ($2.27 in chips) 
+Seat 6: sight6 ($3.16 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7h]
+kkpote: folds 
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: calls $0.02
+sight6: folds 
+Lorpugo: checks 
+*** FLOP *** [3h 8d Kd]
+Lorpugo: checks 
+petyalada: checks 
+*** TURN *** [3h 8d Kd] [Ac]
+Lorpugo: checks 
+petyalada: checks 
+*** RIVER *** [3h 8d Kd Ac] [Ks]
+Lorpugo: bets $0.08
+petyalada: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h 8d Kd Ac Ks]
+Seat 1: Lorpugo (big blind) collected ($0.05)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 folded before Flop (didn't bet)
+Seat 5: petyalada (button) folded on the River
+Seat 6: sight6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239564576061:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:46:37 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.63 in chips) 
+Seat 2: kkpote ($2.27 in chips) 
+Seat 3: FrancoOlmedo ($2.05 in chips) 
+Seat 4: Beate600 ($1.32 in chips) 
+Seat 5: petyalada ($2.25 in chips) 
+Seat 6: sight6 ($3.15 in chips) 
+Lorpugo: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Td]
+FrancoOlmedo: raises $0.02 to $0.04
+Beate600: folds 
+petyalada: folds 
+sight6: raises $0.11 to $0.15
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: calls $0.11
+*** FLOP *** [6c 4s Ac]
+FrancoOlmedo: checks 
+sight6: bets $0.18
+FrancoOlmedo: folds 
+Uncalled bet ($0.18) returned to sight6
+sight6 collected $0.32 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6c 4s Ac]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: kkpote (big blind) folded before Flop
+Seat 3: FrancoOlmedo folded on the Flop
+Seat 4: Beate600 folded before Flop (didn't bet)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 (button) collected ($0.32)
+
+
+
+PokerStars Hand #239564588658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:47:22 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.62 in chips) 
+Seat 2: kkpote ($2.25 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 4: Beate600 ($1.32 in chips) 
+Seat 5: petyalada ($2.25 in chips) 
+Seat 6: sight6 ($3.32 in chips) 
+kkpote: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3c]
+Beate600: calls $0.02
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: checks 
+*** FLOP *** [8d 6c Qh]
+FrancoOlmedo: checks 
+Beate600: checks 
+*** TURN *** [8d 6c Qh] [7h]
+FrancoOlmedo: checks 
+Beate600: checks 
+*** RIVER *** [8d 6c Qh 7h] [Jd]
+FrancoOlmedo: bets $0.05
+Beate600: calls $0.05
+*** SHOW DOWN ***
+FrancoOlmedo: shows [5d 2s] (high card Queen)
+Beate600: shows [Jc Ks] (a pair of Jacks)
+Beate600 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8d 6c Qh 7h Jd]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: FrancoOlmedo (big blind) showed [5d 2s] and lost with high card Queen
+Seat 4: Beate600 showed [Jc Ks] and won ($0.14) with a pair of Jacks
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564601053:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:48:08 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.62 in chips) 
+Seat 2: kkpote ($2.24 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 4: Beate600 ($1.39 in chips) 
+Seat 5: petyalada ($2.25 in chips) 
+Seat 6: sight6 ($3.32 in chips) 
+FrancoOlmedo: posts small blind $0.01
+Beate600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 2d]
+petyalada: calls $0.02
+sight6: folds 
+Lorpugo: folds 
+kkpote: raises $0.06 to $0.08
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: calls $0.06
+*** FLOP *** [8d 7d 7s]
+petyalada: checks 
+kkpote: checks 
+*** TURN *** [8d 7d 7s] [Kh]
+petyalada: bets $0.09
+kkpote: calls $0.09
+*** RIVER *** [8d 7d 7s Kh] [Qc]
+petyalada: bets $0.18
+kkpote: calls $0.18
+*** SHOW DOWN ***
+petyalada: shows [7h 9h] (three of a kind, Sevens)
+kkpote: mucks hand 
+petyalada collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [8d 7d 7s Kh Qc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote (button) mucked [Kc Js]
+Seat 3: FrancoOlmedo (small blind) folded before Flop
+Seat 4: Beate600 (big blind) folded before Flop
+Seat 5: petyalada showed [7h 9h] and won ($0.70) with three of a kind, Sevens
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564611717:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:48:46 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.62 in chips) 
+Seat 2: kkpote ($1.89 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 4: Beate600 ($1.37 in chips) 
+Seat 5: petyalada ($2.60 in chips) 
+Seat 6: sight6 ($3.32 in chips) 
+Beate600: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Js]
+sight6: folds 
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: raises $0.02 to $0.04
+Beate600: folds 
+petyalada: calls $0.02
+*** FLOP *** [Kd 2s Td]
+petyalada: checks 
+FrancoOlmedo: checks 
+*** TURN *** [Kd 2s Td] [2d]
+petyalada: checks 
+FrancoOlmedo: bets $0.05
+petyalada: folds 
+Uncalled bet ($0.05) returned to FrancoOlmedo
+FrancoOlmedo collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd 2s Td 2d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (button) collected ($0.09)
+Seat 4: Beate600 (small blind) folded before Flop
+Seat 5: petyalada (big blind) folded on the Turn
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564622058:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:49:24 ET
+Table 'Gismonda III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.62 in chips) 
+Seat 2: kkpote ($1.89 in chips) 
+Seat 3: FrancoOlmedo ($2.05 in chips) 
+Seat 4: Beate600 ($1.36 in chips) 
+Seat 5: petyalada ($2.56 in chips) 
+Seat 6: sight6 ($3.32 in chips) 
+petyalada: posts small blind $0.01
+sight6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6h]
+Lorpugo: folds 
+kkpote: raises $0.04 to $0.06
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: folds 
+sight6: folds 
+Uncalled bet ($0.04) returned to kkpote
+kkpote collected $0.05 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote collected ($0.05)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 (button) folded before Flop (didn't bet)
+Seat 5: petyalada (small blind) folded before Flop
+Seat 6: sight6 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239564625478:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:49:37 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.62 in chips) 
+Seat 2: kkpote ($1.92 in chips) 
+Seat 3: FrancoOlmedo ($2.05 in chips) 
+Seat 4: Beate600 ($1.36 in chips) 
+Seat 5: petyalada ($2.55 in chips) 
+Seat 6: sight6 ($3.30 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5d]
+kkpote: folds 
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: raises $0.04 to $0.06
+sight6: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to petyalada
+petyalada collected $0.05 from pot
+petyalada: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 folded before Flop (didn't bet)
+Seat 5: petyalada (button) collected ($0.05)
+Seat 6: sight6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239564629050:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:49:50 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: kkpote ($1.92 in chips) 
+Seat 3: FrancoOlmedo ($2.05 in chips) 
+Seat 4: Beate600 ($1.36 in chips) 
+Seat 5: petyalada ($2.58 in chips) 
+Seat 6: sight6 ($3.29 in chips) 
+Lorpugo: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 5h]
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: folds 
+sight6: raises $0.04 to $0.06
+Lorpugo: folds 
+kkpote: calls $0.04
+*** FLOP *** [Th 3c 7d]
+kkpote: checks 
+sight6: bets $0.08
+kkpote: calls $0.08
+*** TURN *** [Th 3c 7d] [As]
+kkpote: checks 
+sight6: bets $0.14
+kkpote: folds 
+Uncalled bet ($0.14) returned to sight6
+sight6 collected $0.28 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Th 3c 7d As]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: kkpote (big blind) folded on the Turn
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 folded before Flop (didn't bet)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 (button) collected ($0.28)
+
+
+
+PokerStars Hand #239564640109:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:50:31 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.59 in chips) 
+Seat 2: kkpote ($1.78 in chips) 
+Seat 3: FrancoOlmedo ($2.05 in chips) 
+Seat 4: Beate600 ($1.36 in chips) 
+Seat 5: petyalada ($2.58 in chips) 
+Seat 6: sight6 ($3.43 in chips) 
+kkpote: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Jd]
+Beate600: folds 
+petyalada: calls $0.02
+sight6: folds 
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: checks 
+*** FLOP *** [4c Kc 4h]
+FrancoOlmedo: checks 
+petyalada: bets $0.03
+FrancoOlmedo: folds 
+Uncalled bet ($0.03) returned to petyalada
+petyalada collected $0.05 from pot
+petyalada: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4c Kc 4h]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: FrancoOlmedo (big blind) folded on the Flop
+Seat 4: Beate600 folded before Flop (didn't bet)
+Seat 5: petyalada collected ($0.05)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564648704:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:51:02 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.59 in chips) 
+Seat 2: kkpote ($2 in chips) 
+Seat 3: FrancoOlmedo ($2.03 in chips) 
+Seat 4: Beate600 ($1.36 in chips) 
+Seat 5: petyalada ($2.61 in chips) 
+Seat 6: sight6 ($3.43 in chips) 
+FrancoOlmedo: posts small blind $0.01
+Beate600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ad]
+petyalada: folds 
+sight6: folds 
+Lorpugo: raises $0.04 to $0.06
+kkpote: raises $0.12 to $0.18
+FrancoOlmedo: folds 
+Beate600: folds 
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to kkpote
+kkpote collected $0.15 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Lorpugo folded before Flop
+Seat 2: kkpote (button) collected ($0.15)
+Seat 3: FrancoOlmedo (small blind) folded before Flop
+Seat 4: Beate600 (big blind) folded before Flop
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564654842:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:51:25 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.53 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 4: Beate600 ($1.34 in chips) 
+Seat 5: petyalada ($2.61 in chips) 
+Seat 6: sight6 ($3.43 in chips) 
+Beate600: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qs]
+sight6: folds 
+Lorpugo: raises $0.04 to $0.06
+kkpote: folds 
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (button) folded before Flop (didn't bet)
+Seat 4: Beate600 (small blind) folded before Flop
+Seat 5: petyalada (big blind) folded before Flop
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564658627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:51:39 ET
+Table 'Gismonda III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 4: Beate600 ($1.33 in chips) 
+Seat 5: petyalada ($2.59 in chips) 
+Seat 6: sight6 ($3.43 in chips) 
+petyalada: posts small blind $0.01
+sight6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8d]
+Lorpugo: folds 
+kkpote: raises $0.04 to $0.06
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: folds 
+sight6: folds 
+Uncalled bet ($0.04) returned to kkpote
+kkpote collected $0.05 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote collected ($0.05)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 (button) folded before Flop (didn't bet)
+Seat 5: petyalada (small blind) folded before Flop
+Seat 6: sight6 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239564662961:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:51:55 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: kkpote ($2.12 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 4: Beate600 ($1.33 in chips) 
+Seat 5: petyalada ($2.58 in chips) 
+Seat 6: sight6 ($3.41 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7c]
+kkpote: folds 
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: folds 
+sight6: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (big blind) collected ($0.02)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 folded before Flop (didn't bet)
+Seat 5: petyalada (button) folded before Flop (didn't bet)
+Seat 6: sight6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239564666134:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:52:06 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: kkpote ($2.12 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 4: Beate600 ($1.33 in chips) 
+Seat 5: petyalada ($2.58 in chips) 
+Seat 6: sight6 ($3.40 in chips) 
+Lorpugo: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 8d]
+FrancoOlmedo: folds 
+Beate600: folds 
+petyalada: raises $0.04 to $0.06
+sight6: folds 
+Lorpugo: folds 
+kkpote: calls $0.04
+*** FLOP *** [4d 4c 2d]
+kkpote: checks 
+petyalada: checks 
+*** TURN *** [4d 4c 2d] [8c]
+kkpote: checks 
+petyalada: checks 
+*** RIVER *** [4d 4c 2d 8c] [5s]
+kkpote: checks 
+petyalada: checks 
+*** SHOW DOWN ***
+kkpote: shows [Td Jh] (a pair of Fours)
+petyalada: shows [5h 6h] (two pair, Fives and Fours)
+petyalada collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4d 4c 2d 8c 5s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: kkpote (big blind) showed [Td Jh] and lost with a pair of Fours
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 folded before Flop (didn't bet)
+Seat 5: petyalada showed [5h 6h] and won ($0.13) with two pair, Fives and Fours
+Seat 6: sight6 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564674094:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:52:36 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: kkpote ($2.06 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 4: Beate600 ($1.33 in chips) 
+Seat 5: petyalada ($2.65 in chips) 
+Seat 6: sight6 ($3.40 in chips) 
+kkpote: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 8d]
+Beate600: raises $0.12 to $0.14
+petyalada: folds 
+sight6: calls $0.14
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: folds 
+*** FLOP *** [Js Qh 5h]
+Beate600: bets $1.19 and is all-in
+sight6: calls $1.19
+*** TURN *** [Js Qh 5h] [6c]
+*** RIVER *** [Js Qh 5h 6c] [7h]
+*** SHOW DOWN ***
+Beate600: shows [As Ah] (a pair of Aces)
+sight6: shows [Qd Ac] (a pair of Queens)
+Beate600 cashed out the hand for $2.34 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.09 
+Board [Js Qh 5h 6c 7h]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: FrancoOlmedo (big blind) folded before Flop
+Seat 4: Beate600 showed [As Ah] and won ($2.60) with a pair of Aces (pot not awarded as player cashed out)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 showed [Qd Ac] and lost with a pair of Queens
+
+
+
+PokerStars Hand #239564687951:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:53:27 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 2: kkpote ($2.05 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 4: Beate600 ($2.34 in chips) 
+Seat 5: petyalada ($2.65 in chips) 
+Seat 6: sight6 ($2.07 in chips) 
+FrancoOlmedo: posts small blind $0.01
+Beate600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 6h]
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+kkpote has timed out
+kkpote: folds 
+FrancoOlmedo: folds 
+Uncalled bet ($0.01) returned to Beate600
+Beate600 collected $0.02 from pot
+Beate600: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote (button) folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (small blind) folded before Flop
+Seat 4: Beate600 (big blind) collected ($0.02)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564693688:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:53:48 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.56 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 4: Beate600 ($2.35 in chips) 
+Seat 5: petyalada ($2.65 in chips) 
+Seat 6: sight6 ($2.07 in chips) 
+Beate600: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Js]
+sight6: folds 
+Lorpugo: raises $0.04 to $0.06
+FrancoOlmedo: raises $0.18 to $0.24
+Beate600: folds 
+petyalada: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to FrancoOlmedo
+FrancoOlmedo collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Lorpugo folded before Flop
+Seat 3: FrancoOlmedo (button) collected ($0.15)
+Seat 4: Beate600 (small blind) folded before Flop
+Seat 5: petyalada (big blind) folded before Flop
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564700563:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:54:13 ET
+Table 'Gismonda III' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.50 in chips) 
+Seat 2: kkpote ($2.05 in chips) 
+Seat 3: FrancoOlmedo ($2.09 in chips) 
+Seat 4: Beate600 ($2.34 in chips) 
+Seat 5: petyalada ($2.63 in chips) 
+Seat 6: sight6 ($2.07 in chips) 
+petyalada: posts small blind $0.01
+sight6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 7s]
+Lorpugo: folds 
+kkpote has timed out
+kkpote: folds 
+FrancoOlmedo: folds 
+Beate600 has timed out
+Beate600: folds 
+petyalada: folds 
+Uncalled bet ($0.01) returned to sight6
+sight6 collected $0.02 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: Beate600 (button) folded before Flop (didn't bet)
+Seat 5: petyalada (small blind) folded before Flop
+Seat 6: sight6 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239564708808:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:54:44 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.50 in chips) 
+Seat 2: kkpote ($2.05 in chips) 
+Seat 3: FrancoOlmedo ($2.09 in chips) 
+Seat 5: petyalada ($2.62 in chips) 
+Seat 6: sight6 ($2.08 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Ts]
+kkpote: folds 
+FrancoOlmedo: folds 
+petyalada: calls $0.02
+sight6: folds 
+Lorpugo: checks 
+*** FLOP *** [8d Jh Jd]
+Lorpugo: checks 
+petyalada: checks 
+*** TURN *** [8d Jh Jd] [3s]
+Lorpugo: checks 
+petyalada: checks 
+*** RIVER *** [8d Jh Jd 3s] [7h]
+Lorpugo: checks 
+petyalada: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to petyalada
+petyalada collected $0.05 from pot
+petyalada: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d Jh Jd 3s 7h]
+Seat 1: Lorpugo (big blind) folded on the River
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: petyalada (button) collected ($0.05)
+Seat 6: sight6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239564720800:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:55:33 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: kkpote ($2.05 in chips) 
+Seat 3: FrancoOlmedo ($2.09 in chips) 
+Seat 5: petyalada ($2.65 in chips) 
+Seat 6: sight6 ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5h]
+FrancoOlmedo: raises $0.02 to $0.04
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+kkpote: calls $0.02
+*** FLOP *** [3d 9c 3s]
+kkpote: checks 
+FrancoOlmedo: checks 
+*** TURN *** [3d 9c 3s] [3h]
+kkpote: checks 
+FrancoOlmedo: checks 
+*** RIVER *** [3d 9c 3s 3h] [8c]
+kkpote: checks 
+FrancoOlmedo: checks 
+*** SHOW DOWN ***
+kkpote: shows [4c 4h] (a full house, Threes full of Fours)
+FrancoOlmedo: mucks hand 
+kkpote collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3d 9c 3s 3h 8c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: kkpote (big blind) showed [4c 4h] and won ($0.09) with a full house, Threes full of Fours
+Seat 3: FrancoOlmedo mucked [Ah 7c]
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564727565:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:56:04 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.47 in chips) 
+Seat 2: kkpote ($2.10 in chips) 
+Seat 3: FrancoOlmedo ($2.05 in chips) 
+Seat 5: petyalada ($2.65 in chips) 
+Seat 6: sight6 ($2.07 in chips) 
+kkpote: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8c]
+petyalada: calls $0.02
+sight6: folds 
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: checks 
+*** FLOP *** [2d 9h Ad]
+FrancoOlmedo: checks 
+petyalada: checks 
+*** TURN *** [2d 9h Ad] [Jh]
+FrancoOlmedo: checks 
+petyalada: checks 
+*** RIVER *** [2d 9h Ad Jh] [9c]
+FrancoOlmedo: bets $0.03
+petyalada: raises $0.06 to $0.09
+FrancoOlmedo: folds 
+Uncalled bet ($0.06) returned to petyalada
+petyalada collected $0.11 from pot
+petyalada: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2d 9h Ad Jh 9c]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: FrancoOlmedo (big blind) folded on the River
+Seat 5: petyalada collected ($0.11)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564734611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:56:37 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.47 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 5: petyalada ($2.71 in chips) 
+Seat 6: sight6 ($2.07 in chips) 
+FrancoOlmedo: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5d]
+sight6: raises $0.04 to $0.06
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: folds 
+petyalada: calls $0.04
+*** FLOP *** [Tc 6h Td]
+petyalada: checks 
+sight6: bets $0.09
+petyalada: folds 
+Uncalled bet ($0.09) returned to sight6
+sight6 collected $0.13 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Tc 6h Td]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote (button) folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (small blind) folded before Flop
+Seat 5: petyalada (big blind) folded on the Flop
+Seat 6: sight6 collected ($0.13)
+
+
+
+PokerStars Hand #239564739819:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:57:00 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.47 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 5: petyalada ($2.65 in chips) 
+Seat 6: sight6 ($2.14 in chips) 
+petyalada: posts small blind $0.01
+sight6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h As]
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: folds 
+petyalada: calls $0.01
+sight6: raises $0.04 to $0.06
+petyalada: calls $0.04
+*** FLOP *** [8h Jc 6s]
+petyalada: checks 
+sight6: bets $0.06
+petyalada: folds 
+Uncalled bet ($0.06) returned to sight6
+sight6 collected $0.12 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8h Jc 6s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (button) folded before Flop (didn't bet)
+Seat 5: petyalada (small blind) folded on the Flop
+Seat 6: sight6 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239564746089:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:57:29 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.47 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 5: petyalada ($2.59 in chips) 
+Seat 6: sight6 ($2.20 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Js]
+kkpote: folds 
+FrancoOlmedo: raises $0.04 to $0.06
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to FrancoOlmedo
+FrancoOlmedo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo collected ($0.05)
+Seat 5: petyalada (button) folded before Flop (didn't bet)
+Seat 6: sight6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239564748678:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:57:41 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.45 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2.03 in chips) 
+Seat 5: petyalada ($2.59 in chips) 
+Seat 6: sight6 ($2.19 in chips) 
+Lorpugo: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6h]
+FrancoOlmedo: folds 
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to kkpote
+kkpote collected $0.02 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: kkpote (big blind) collected ($0.02)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564751367:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:57:53 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.44 in chips) 
+Seat 2: kkpote ($2.10 in chips) 
+Seat 3: FrancoOlmedo ($2.03 in chips) 
+Seat 5: petyalada ($2.59 in chips) 
+Seat 6: sight6 ($2.19 in chips) 
+kkpote: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5s]
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+kkpote: folds 
+Uncalled bet ($0.01) returned to FrancoOlmedo
+FrancoOlmedo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: FrancoOlmedo (big blind) collected ($0.02)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564755567:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:58:12 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.44 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2.04 in chips) 
+Seat 5: petyalada ($2.59 in chips) 
+Seat 6: sight6 ($2.19 in chips) 
+FrancoOlmedo: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ac]
+sight6: raises $0.04 to $0.06
+Lorpugo: folds 
+kkpote: folds 
+FrancoOlmedo: calls $0.05
+petyalada: folds 
+*** FLOP *** [6s Jc 5d]
+FrancoOlmedo: checks 
+sight6: bets $0.08
+FrancoOlmedo: calls $0.08
+*** TURN *** [6s Jc 5d] [Ks]
+FrancoOlmedo: checks 
+sight6: bets $0.20
+FrancoOlmedo: folds 
+Uncalled bet ($0.20) returned to sight6
+sight6 collected $0.29 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6s Jc 5d Ks]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote (button) folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (small blind) folded on the Turn
+Seat 5: petyalada (big blind) folded before Flop
+Seat 6: sight6 collected ($0.29)
+
+
+
+PokerStars Hand #239564767810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:59:08 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.44 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 5: petyalada ($2.57 in chips) 
+Seat 6: sight6 ($2.34 in chips) 
+petyalada: posts small blind $0.01
+sight6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9h]
+Lorpugo: folds 
+kkpote: raises $0.04 to $0.06
+FrancoOlmedo: folds 
+petyalada: folds 
+sight6: folds 
+Uncalled bet ($0.04) returned to kkpote
+kkpote collected $0.05 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kkpote collected ($0.05)
+Seat 3: FrancoOlmedo (button) folded before Flop (didn't bet)
+Seat 5: petyalada (small blind) folded before Flop
+Seat 6: sight6 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239564771919:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 11:59:27 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.44 in chips) 
+Seat 2: kkpote ($2.12 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 5: petyalada ($2.56 in chips) 
+Seat 6: sight6 ($2.32 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Kd]
+kkpote: folds 
+FrancoOlmedo: raises $0.03 to $0.05
+petyalada: folds 
+sight6: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [6c 5d Kh]
+Lorpugo: checks 
+FrancoOlmedo: checks 
+*** TURN *** [6c 5d Kh] [7d]
+Lorpugo: checks 
+FrancoOlmedo: checks 
+*** RIVER *** [6c 5d Kh 7d] [Qc]
+Lorpugo: bets $0.10
+FrancoOlmedo: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6c 5d Kh 7d Qc]
+Seat 1: Lorpugo (big blind) collected ($0.11)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded on the River
+Seat 5: petyalada (button) folded before Flop (didn't bet)
+Seat 6: sight6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239564783596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:00:20 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.50 in chips) 
+Seat 2: kkpote ($2.12 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 5: petyalada ($2.56 in chips) 
+Seat 6: sight6 ($2.31 in chips) 
+Lorpugo: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 8s]
+FrancoOlmedo: folds 
+petyalada: folds 
+sight6: folds 
+Lorpugo: raises $0.04 to $0.06
+kkpote: calls $0.04
+*** FLOP *** [Jh 5s Ac]
+Lorpugo: bets $0.04
+kkpote: calls $0.04
+*** TURN *** [Jh 5s Ac] [Jc]
+Lorpugo: checks 
+kkpote: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to kkpote
+kkpote collected $0.19 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jh 5s Ac Jc]
+Seat 1: Lorpugo (small blind) folded on the Turn
+Seat 2: kkpote (big blind) collected ($0.19)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564797345:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:01:17 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.40 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 5: petyalada ($2.56 in chips) 
+Seat 6: sight6 ($2.31 in chips) 
+FrancoOlmedo: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 6d]
+sight6: folds 
+Lorpugo: folds 
+laoban888 joins the table at seat #2 
+FrancoOlmedo: raises $0.04 to $0.06
+petyalada: folds 
+Uncalled bet ($0.04) returned to FrancoOlmedo
+FrancoOlmedo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (small blind) collected ($0.04)
+Seat 5: petyalada (big blind) folded before Flop
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564801229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:01:31 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.40 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 5: petyalada ($2.54 in chips) 
+Seat 6: sight6 ($2.31 in chips) 
+petyalada: posts small blind $0.01
+sight6: posts big blind $0.02
+laoban888: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4c]
+Lorpugo: folds 
+FrancoOlmedo: folds 
+petyalada: folds 
+Uncalled bet ($0.01) returned to sight6
+sight6 collected $0.02 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (button) folded before Flop (didn't bet)
+Seat 5: petyalada (small blind) folded before Flop
+Seat 6: sight6 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239564802995:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:01:39 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.40 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 5: petyalada ($2.53 in chips) 
+Seat 6: sight6 ($2.32 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+laoban888: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Kd]
+FrancoOlmedo: folds 
+petyalada: folds 
+sight6: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+sight6: raises $0.36 to $0.54
+Lorpugo: raises $0.86 to $1.40 and is all-in
+sight6: calls $0.86
+*** FLOP *** [6c 4c 8d]
+*** TURN *** [6c 4c 8d] [Td]
+*** RIVER *** [6c 4c 8d Td] [Qd]
+*** SHOW DOWN ***
+sight6: shows [Kh Ah] (high card Ace)
+Lorpugo: shows [Kc Kd] (a pair of Kings)
+Lorpugo collected $2.70 from pot
+*** SUMMARY ***
+Total pot $2.80 | Rake $0.10 
+Board [6c 4c 8d Td Qd]
+Seat 1: Lorpugo (big blind) showed [Kc Kd] and won ($2.70) with a pair of Kings
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: petyalada (button) folded before Flop (didn't bet)
+Seat 6: sight6 (small blind) showed [Kh Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #239564812082:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:02:13 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.70 in chips) 
+Seat 2: laoban888 ($2 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 5: petyalada ($2.53 in chips) 
+Seat 6: sight6 ($0.92 in chips) 
+Lorpugo: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5d]
+FrancoOlmedo: folds 
+petyalada: calls $0.02
+sight6: raises $0.07 to $0.09
+Lorpugo: folds 
+laoban888: folds 
+petyalada: calls $0.07
+*** FLOP *** [Ad 5h Kh]
+petyalada: checks 
+sight6: bets $0.12
+petyalada: folds 
+Uncalled bet ($0.12) returned to sight6
+sight6 collected $0.20 from pot
+sight6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ad 5h Kh]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: laoban888 (big blind) folded before Flop
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: petyalada folded on the Flop
+Seat 6: sight6 (button) collected ($0.20)
+
+
+
+PokerStars Hand #239564823194:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:02:53 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.69 in chips) 
+Seat 2: laoban888 ($2 in chips) 
+Seat 3: FrancoOlmedo ($2.02 in chips) 
+Seat 5: petyalada ($2.44 in chips) 
+Seat 6: sight6 ($1.83 in chips) 
+laoban888: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 4h]
+petyalada: raises $0.04 to $0.06
+sight6: folds 
+Lorpugo: folds 
+laoban888: raises $0.14 to $0.20
+FrancoOlmedo: calls $0.18
+petyalada: calls $0.14
+*** FLOP *** [Qd 6s Qs]
+laoban888: checks 
+FrancoOlmedo: bets $0.58
+petyalada: folds 
+laoban888: folds 
+Uncalled bet ($0.58) returned to FrancoOlmedo
+FrancoOlmedo collected $0.58 from pot
+FrancoOlmedo: shows [7h 5h]
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Qd 6s Qs]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: laoban888 (small blind) folded on the Flop
+Seat 3: FrancoOlmedo (big blind) collected ($0.58)
+Seat 5: petyalada folded on the Flop
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564831485:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:03:24 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.69 in chips) 
+Seat 2: laoban888 ($2 in chips) 
+Seat 3: FrancoOlmedo ($2.40 in chips) 
+Seat 5: petyalada ($2.24 in chips) 
+Seat 6: sight6 ($2 in chips) 
+FrancoOlmedo: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 7h]
+sight6: folds 
+Lorpugo: folds 
+laoban888: folds 
+FrancoOlmedo: folds 
+Uncalled bet ($0.01) returned to petyalada
+petyalada collected $0.02 from pot
+Beate600 leaves the table
+petyalada: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: laoban888 (button) folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (small blind) folded before Flop
+Seat 5: petyalada (big blind) collected ($0.02)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564834452:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:03:35 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.69 in chips) 
+Seat 2: laoban888 ($2 in chips) 
+Seat 3: FrancoOlmedo ($2.39 in chips) 
+Seat 5: petyalada ($2.25 in chips) 
+Seat 6: sight6 ($2 in chips) 
+petyalada: posts small blind $0.01
+sight6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3c]
+Lorpugo: folds 
+laoban888: folds 
+FrancoOlmedo: folds 
+petyalada: calls $0.01
+sight6: checks 
+*** FLOP *** [Jh Qd 9s]
+tlcompositor joins the table at seat #4 
+petyalada: checks 
+sight6: checks 
+*** TURN *** [Jh Qd 9s] [As]
+petyalada: checks 
+sight6: checks 
+*** RIVER *** [Jh Qd 9s As] [2c]
+petyalada: checks 
+sight6: checks 
+*** SHOW DOWN ***
+petyalada: shows [Kc 9c] (a pair of Nines)
+sight6: mucks hand 
+petyalada collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jh Qd 9s As 2c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: laoban888 folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (button) folded before Flop (didn't bet)
+Seat 5: petyalada (small blind) showed [Kc 9c] and won ($0.04) with a pair of Nines
+Seat 6: sight6 (big blind) mucked [3s 6d]
+
+
+
+PokerStars Hand #239564843184:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:04:07 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.69 in chips) 
+Seat 2: laoban888 ($2 in chips) 
+Seat 3: FrancoOlmedo ($2.39 in chips) 
+Seat 4: tlcompositor ($2 in chips) 
+Seat 5: petyalada ($2.27 in chips) 
+Seat 6: sight6 ($1.98 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+tlcompositor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 4h]
+laoban888: folds 
+FrancoOlmedo: folds 
+tlcompositor: raises $0.08 to $0.10
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to tlcompositor
+tlcompositor collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: laoban888 folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: tlcompositor collected ($0.05)
+Seat 5: petyalada (button) folded before Flop (didn't bet)
+Seat 6: sight6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239564847435:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:04:22 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.67 in chips) 
+Seat 2: laoban888 ($2 in chips) 
+Seat 3: FrancoOlmedo ($2.39 in chips) 
+Seat 4: tlcompositor ($2.03 in chips) 
+Seat 5: petyalada ($2.27 in chips) 
+Seat 6: sight6 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5d]
+FrancoOlmedo: folds 
+tlcompositor: folds 
+petyalada: folds 
+sight6: folds 
+Lorpugo: raises $0.04 to $0.06
+laoban888: raises $0.12 to $0.18
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to laoban888
+laoban888 collected $0.12 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: laoban888 (big blind) collected ($0.12)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: tlcompositor folded before Flop (didn't bet)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564855508:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:04:51 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.61 in chips) 
+Seat 2: laoban888 ($2.06 in chips) 
+Seat 3: FrancoOlmedo ($2.39 in chips) 
+Seat 4: tlcompositor ($2.03 in chips) 
+Seat 5: petyalada ($2.27 in chips) 
+Seat 6: sight6 ($2 in chips) 
+laoban888: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 3d]
+tlcompositor: folds 
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+laoban888: raises $0.04 to $0.06
+FrancoOlmedo: folds 
+Uncalled bet ($0.04) returned to laoban888
+laoban888 collected $0.04 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: laoban888 (small blind) collected ($0.04)
+Seat 3: FrancoOlmedo (big blind) folded before Flop
+Seat 4: tlcompositor folded before Flop (didn't bet)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564859043:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:05:05 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.61 in chips) 
+Seat 2: laoban888 ($2.08 in chips) 
+Seat 3: FrancoOlmedo ($2.37 in chips) 
+Seat 4: tlcompositor ($2.03 in chips) 
+Seat 5: petyalada ($2.27 in chips) 
+Seat 6: sight6 ($2 in chips) 
+FrancoOlmedo: posts small blind $0.01
+tlcompositor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qs]
+petyalada: calls $0.02
+sight6: folds 
+Lorpugo: raises $0.04 to $0.06
+laoban888: folds 
+FrancoOlmedo: calls $0.05
+tlcompositor: calls $0.04
+petyalada: raises $0.04 to $0.10
+Lorpugo: calls $0.04
+FrancoOlmedo: calls $0.04
+tlcompositor: calls $0.04
+*** FLOP *** [6d Th 2d]
+FrancoOlmedo: checks 
+tlcompositor: checks 
+petyalada: bets $0.20
+Lorpugo: folds 
+FrancoOlmedo: calls $0.20
+tlcompositor: calls $0.20
+*** TURN *** [6d Th 2d] [4s]
+FrancoOlmedo: checks 
+tlcompositor: checks 
+petyalada: bets $0.48
+FrancoOlmedo: folds 
+tlcompositor: folds 
+Uncalled bet ($0.48) returned to petyalada
+petyalada collected $0.96 from pot
+petyalada: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [6d Th 2d 4s]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: laoban888 (button) folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (small blind) folded on the Turn
+Seat 4: tlcompositor (big blind) folded on the Turn
+Seat 5: petyalada collected ($0.96)
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564883673:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:06:35 ET
+Table 'Gismonda III' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.51 in chips) 
+Seat 2: laoban888 ($2.08 in chips) 
+Seat 3: FrancoOlmedo ($2.07 in chips) 
+Seat 4: tlcompositor ($1.73 in chips) 
+Seat 5: petyalada ($2.93 in chips) 
+Seat 6: sight6 ($2 in chips) 
+tlcompositor: posts small blind $0.01
+petyalada: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Jh]
+sight6: raises $0.04 to $0.06
+Lorpugo: folds 
+laoban888: folds 
+FrancoOlmedo: calls $0.06
+tlcompositor: calls $0.05
+petyalada: folds 
+*** FLOP *** [Ad Jd Qh]
+tlcompositor: bets $0.19
+sight6: raises $0.29 to $0.48
+FrancoOlmedo: folds 
+tlcompositor: calls $0.29
+*** TURN *** [Ad Jd Qh] [5s]
+tlcompositor: checks 
+sight6: bets $0.56
+tlcompositor: calls $0.56
+*** RIVER *** [Ad Jd Qh 5s] [As]
+tlcompositor: bets $0.63 and is all-in
+sight6: calls $0.63
+*** SHOW DOWN ***
+tlcompositor: shows [2d Ac] (three of a kind, Aces)
+sight6: shows [Th Kh] (a straight, Ten to Ace)
+sight6 collected $3.42 from pot
+*** SUMMARY ***
+Total pot $3.54 | Rake $0.12 
+Board [Ad Jd Qh 5s As]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: laoban888 folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo (button) folded on the Flop
+Seat 4: tlcompositor (small blind) showed [2d Ac] and lost with three of a kind, Aces
+Seat 5: petyalada (big blind) folded before Flop
+Seat 6: sight6 showed [Th Kh] and won ($3.42) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #239564899876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:07:34 ET
+Table 'Gismonda III' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.51 in chips) 
+Seat 2: laoban888 ($2.08 in chips) 
+Seat 3: FrancoOlmedo ($2.01 in chips) 
+Seat 5: petyalada ($2.91 in chips) 
+Seat 6: sight6 ($3.69 in chips) 
+sight6: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Tc]
+laoban888: folds 
+FrancoOlmedo: folds 
+petyalada: folds 
+sight6: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+*** FLOP *** [Td 6c 8s]
+sight6: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [Td 6c 8s] [5c]
+sight6: checks 
+Lorpugo: bets $0.15
+sight6: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Td 6c 8s 5c]
+Seat 1: Lorpugo (big blind) collected ($0.23)
+Seat 2: laoban888 folded before Flop (didn't bet)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 5: petyalada (button) folded before Flop (didn't bet)
+Seat 6: sight6 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239564910724:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:08:14 ET
+Table 'Gismonda III' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.62 in chips) 
+Seat 2: laoban888 ($2.08 in chips) 
+Seat 3: FrancoOlmedo ($2.01 in chips) 
+Seat 4: tlcompositor ($2 in chips) 
+Seat 5: petyalada ($2.91 in chips) 
+Seat 6: sight6 ($3.57 in chips) 
+Lorpugo: posts small blind $0.01
+laoban888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3c]
+FrancoOlmedo: folds 
+tlcompositor has timed out
+tlcompositor: folds 
+petyalada: folds 
+sight6: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to laoban888
+laoban888 collected $0.02 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: laoban888 (big blind) collected ($0.02)
+Seat 3: FrancoOlmedo folded before Flop (didn't bet)
+Seat 4: tlcompositor folded before Flop (didn't bet)
+Seat 5: petyalada folded before Flop (didn't bet)
+Seat 6: sight6 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564917014:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:08:37 ET
+Table 'Gismonda III' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.61 in chips) 
+Seat 2: laoban888 ($2.09 in chips) 
+Seat 3: FrancoOlmedo ($2.01 in chips) 
+Seat 6: sight6 ($3.57 in chips) 
+laoban888: posts small blind $0.01
+FrancoOlmedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 3c]
+sight6: folds 
+Lorpugo: folds 
+laoban888: raises $0.04 to $0.06
+FrancoOlmedo: folds 
+Uncalled bet ($0.04) returned to laoban888
+laoban888 collected $0.04 from pot
+laoban888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: laoban888 (small blind) collected ($0.04)
+Seat 3: FrancoOlmedo (big blind) folded before Flop
+Seat 6: sight6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239564920491:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/31 12:08:50 ET
+Table 'Gismonda III' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.61 in chips) 
+Seat 2: laoban888 ($2.11 in chips) 
+Seat 3: FrancoOlmedo ($2 in chips) 
+Seat 6: sight6 ($3.57 in chips) 
+FrancoOlmedo: posts small blind $0.01
+sight6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Kd]
+Lorpugo: folds 
+laoban888: raises $0.04 to $0.06
+FrancoOlmedo: folds 
+sight6: calls $0.04
+*** FLOP *** [2c Th Jd]
+sight6: checks 
+laoban888: bets $0.09
+sight6: calls $0.09
+*** TURN *** [2c Th Jd] [8s]
+sight6: checks 
+laoban888: bets $0.20
+sight6: calls $0.20
+*** RIVER *** [2c Th Jd 8s] [Jh]
+sight6: checks 
+laoban888: checks 
+*** SHOW DOWN ***
+sight6: shows [As Js] (three of a kind, Jacks)
+laoban888: mucks hand 
+sight6 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [2c Th Jd 8s Jh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: laoban888 (button) mucked [Ts Qc]
+Seat 3: FrancoOlmedo (small blind) folded before Flop
+Seat 6: sight6 (big blind) showed [As Js] and won ($0.69) with three of a kind, Jacks
+
+
+

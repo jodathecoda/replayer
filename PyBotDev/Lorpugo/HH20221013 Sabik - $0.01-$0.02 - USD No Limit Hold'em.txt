@@ -1,0 +1,4738 @@
+﻿PokerStars Hand #239210159689:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:32:50 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.16 in chips) 
+Seat 2: `dave_original ($1.51 in chips) 
+Seat 3: Riano21 ($2 in chips) 
+Seat 5: Ivanperoj ($2.04 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Ivanperoj: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 2d]
+hilarjo: folds 
+`dave_original: raises $0.06 to $0.08
+Riano21: folds 
+Ivanperoj: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to `dave_original
+`dave_original collected $0.05 from pot
+`dave_original: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: `dave_original collected ($0.05)
+Seat 3: Riano21 (button) folded before Flop (didn't bet)
+Seat 5: Ivanperoj (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210168273:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:33:11 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.16 in chips) 
+Seat 2: `dave_original ($1.54 in chips) 
+Seat 3: Riano21 ($2 in chips) 
+Seat 4: placebo1970 ($0.62 in chips) 
+Seat 5: Ivanperoj ($2.03 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+placebo1970: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h As]
+`dave_original: raises $0.02 to $0.04
+Riano21: folds 
+placebo1970: calls $0.02
+Ivanperoj: folds 
+Lorpugo: folds 
+hilarjo: calls $0.02
+*** FLOP *** [4s 9d Qs]
+hilarjo: checks 
+`dave_original: bets $0.14
+placebo1970: folds 
+hilarjo: folds 
+Uncalled bet ($0.14) returned to `dave_original
+`dave_original collected $0.14 from pot
+`dave_original: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4s 9d Qs]
+Seat 1: hilarjo (big blind) folded on the Flop
+Seat 2: `dave_original collected ($0.14)
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: placebo1970 folded on the Flop
+Seat 5: Ivanperoj (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210185664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:33:56 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.12 in chips) 
+Seat 2: `dave_original ($1.64 in chips) 
+Seat 3: Riano21 ($2 in chips) 
+Seat 4: placebo1970 ($0.57 in chips) 
+Seat 5: Ivanperoj ($2.03 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+hilarjo: posts small blind $0.01
+`dave_original: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 9h]
+Riano21: folds 
+placebo1970: folds 
+Ivanperoj: calls $0.02
+Lorpugo: calls $0.02
+hilarjo: calls $0.01
+`dave_original: checks 
+*** FLOP *** [Kh 8s Qh]
+hilarjo: checks 
+placebo1970 leaves the table
+`dave_original: checks 
+Ivanperoj: checks 
+Lorpugo: checks 
+*** TURN *** [Kh 8s Qh] [3h]
+hilarjo: checks 
+`dave_original: checks 
+Ivanperoj: checks 
+Lorpugo: bets $0.04
+hilarjo: calls $0.04
+`dave_original: folds 
+Ivanperoj: calls $0.04
+*** RIVER *** [Kh 8s Qh 3h] [Jh]
+hilarjo: checks 
+Jan Carl92 joins the table at seat #4 
+Ivanperoj: bets $0.32
+Lorpugo: folds 
+hilarjo: calls $0.32
+*** SHOW DOWN ***
+Ivanperoj: shows [9s Ts] (a straight, Nine to King)
+hilarjo: shows [Js Th] (a flush, King high)
+hilarjo collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [Kh 8s Qh 3h Jh]
+Seat 1: hilarjo (small blind) showed [Js Th] and won ($0.81) with a flush, King high
+Seat 2: `dave_original (big blind) folded on the Turn
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: placebo1970 folded before Flop (didn't bet)
+Seat 5: Ivanperoj showed [9s Ts] and lost with a straight, Nine to King
+Seat 6: Lorpugo (button) folded on the River
+
+
+
+PokerStars Hand #239210222794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:35:31 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.55 in chips) 
+Seat 2: `dave_original ($1.62 in chips) 
+Seat 3: Riano21 ($2 in chips) 
+Seat 5: Ivanperoj ($1.65 in chips) 
+Seat 6: Lorpugo ($1.51 in chips) 
+`dave_original: posts small blind $0.01
+Riano21: posts big blind $0.02
+Jan Carl92: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 4d]
+Ivanperoj: calls $0.02
+Lorpugo: folds 
+hilarjo: folds 
+`dave_original: calls $0.01
+Riano21: checks 
+*** FLOP *** [6s Jd Ks]
+`dave_original: checks 
+Riano21: checks 
+Ivanperoj: checks 
+*** TURN *** [6s Jd Ks] [4h]
+`dave_original: checks 
+Riano21: checks 
+Ivanperoj: bets $0.12
+`dave_original: folds 
+Riano21: folds 
+Uncalled bet ($0.12) returned to Ivanperoj
+Ivanperoj collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6s Jd Ks 4h]
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: `dave_original (small blind) folded on the Turn
+Seat 3: Riano21 (big blind) folded on the Turn
+Seat 5: Ivanperoj collected ($0.06)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210249498:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:36:39 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.55 in chips) 
+Seat 2: `dave_original ($1.60 in chips) 
+Seat 3: Riano21 ($2 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($1.69 in chips) 
+Seat 6: Lorpugo ($1.51 in chips) 
+Riano21: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Tc]
+Ivanperoj: calls $0.02
+Lorpugo: calls $0.02
+hilarjo: folds 
+`dave_original has timed out
+`dave_original: folds 
+Riano21: raises $0.08 to $0.10
+Jan Carl92: folds 
+Ivanperoj: raises $0.10 to $0.20
+Lorpugo: folds 
+Riano21: raises $1.80 to $2 and is all-in
+Ivanperoj: folds 
+Uncalled bet ($1.80) returned to Riano21
+Riano21 collected $0.44 from pot
+Riano21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: `dave_original (button) folded before Flop (didn't bet)
+Seat 3: Riano21 (small blind) collected ($0.44)
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 5: Ivanperoj folded before Flop
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #239210270868:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:37:35 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.55 in chips) 
+Seat 2: `dave_original ($1.60 in chips) 
+Seat 3: Riano21 ($2.24 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($1.49 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+Jan Carl92: posts small blind $0.01
+Ivanperoj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ts]
+Lorpugo: raises $0.02 to $0.04
+hilarjo: folds 
+`dave_original has timed out
+`dave_original: folds 
+Riano21: folds 
+Jan Carl92: folds 
+Ivanperoj: calls $0.02
+*** FLOP *** [Ac 4c 5h]
+Ivanperoj: checks 
+Lorpugo: bets $0.03
+Ivanperoj: calls $0.03
+*** TURN *** [Ac 4c 5h] [2s]
+Ivanperoj: checks 
+Lorpugo: bets $0.18
+Ivanperoj: calls $0.18
+*** RIVER *** [Ac 4c 5h 2s] [6d]
+Ivanperoj: checks 
+Lorpugo: bets $0.44
+Ivanperoj: calls $0.44
+*** SHOW DOWN ***
+Lorpugo: shows [Js Ts] (high card Ace)
+Ivanperoj: shows [5c 5d] (three of a kind, Fives)
+Ivanperoj collected $1.34 from pot
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.05 
+Board [Ac 4c 5h 2s 6d]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: `dave_original folded before Flop (didn't bet)
+Seat 3: Riano21 (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 5: Ivanperoj (big blind) showed [5c 5d] and won ($1.34) with three of a kind, Fives
+Seat 6: Lorpugo showed [Js Ts] and lost with high card Ace
+
+
+
+PokerStars Hand #239210299756:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:38:50 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.55 in chips) 
+Seat 3: Riano21 ($2.24 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.14 in chips) 
+Seat 6: Lorpugo ($0.80 in chips) 
+Ivanperoj: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6h]
+hilarjo: folds 
+Riano21: folds 
+Jan Carl92: folds 
+Ivanperoj: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: Ivanperoj (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239210302407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:38:57 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.55 in chips) 
+Seat 3: Riano21 ($2.24 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.13 in chips) 
+Seat 6: Lorpugo ($0.81 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7h]
+Riano21: folds 
+Jan Carl92: folds 
+Ivanperoj: calls $0.02
+Lorpugo: calls $0.01
+hilarjo: checks 
+*** FLOP *** [6d Qc 2h]
+Lorpugo: checks 
+hilarjo: bets $0.03
+Ivanperoj: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to hilarjo
+hilarjo collected $0.06 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6d Qc 2h]
+Seat 1: hilarjo (big blind) collected ($0.06)
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Ivanperoj (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239210318631:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:39:39 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.59 in chips) 
+Seat 3: Riano21 ($2.24 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.11 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+hilarjo: posts small blind $0.01
+Riano21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 9s]
+Jan Carl92: folds 
+Ivanperoj: folds 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+Riano21: raises $0.15 to $0.21
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Riano21
+Riano21 collected $0.13 from pot
+Riano21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 3: Riano21 (big blind) collected ($0.13)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Ivanperoj folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #239210334351:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:40:20 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.58 in chips) 
+Seat 3: Riano21 ($2.31 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.11 in chips) 
+Seat 6: Lorpugo ($1.53 in chips) 
+Riano21: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 6s]
+Ivanperoj: calls $0.02
+Lorpugo: folds 
+hilarjo: folds 
+Riano21: folds 
+Jan Carl92: checks 
+*** FLOP *** [4h Ah As]
+Jan Carl92: checks 
+Ivanperoj: checks 
+*** TURN *** [4h Ah As] [5c]
+Jan Carl92: checks 
+Ivanperoj: checks 
+*** RIVER *** [4h Ah As 5c] [7c]
+Jan Carl92: bets $0.03
+Ivanperoj: raises $0.29 to $0.32
+Jan Carl92: folds 
+Uncalled bet ($0.29) returned to Ivanperoj
+Ivanperoj collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h Ah As 5c 7c]
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 3: Riano21 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded on the River
+Seat 5: Ivanperoj collected ($0.11)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210349528:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:40:59 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.58 in chips) 
+Seat 3: Riano21 ($2.30 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.17 in chips) 
+Seat 6: Lorpugo ($1.53 in chips) 
+Jan Carl92: posts small blind $0.01
+Ivanperoj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Qd]
+Lorpugo: folds 
+hilarjo: folds 
+Riano21: raises $0.03 to $0.05
+Jan Carl92: calls $0.04
+Ivanperoj: calls $0.03
+*** FLOP *** [5h 6s Kc]
+Jan Carl92: checks 
+Ivanperoj: checks 
+Riano21: checks 
+*** TURN *** [5h 6s Kc] [Ks]
+Jan Carl92: checks 
+Ivanperoj: checks 
+Riano21: bets $0.04
+Jan Carl92: folds 
+Ivanperoj: calls $0.04
+*** RIVER *** [5h 6s Kc Ks] [2h]
+Ivanperoj: checks 
+Riano21: checks 
+*** SHOW DOWN ***
+Ivanperoj: shows [Qh 3d] (a pair of Kings)
+Riano21: shows [7c 7d] (two pair, Kings and Sevens)
+Riano21 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5h 6s Kc Ks 2h]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 3: Riano21 (button) showed [7c 7d] and won ($0.22) with two pair, Kings and Sevens
+Seat 4: Jan Carl92 (small blind) folded on the Turn
+Seat 5: Ivanperoj (big blind) showed [Qh 3d] and lost with a pair of Kings
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210365975:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:41:43 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.58 in chips) 
+Seat 3: Riano21 ($2.43 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.08 in chips) 
+Seat 6: Lorpugo ($1.53 in chips) 
+Ivanperoj: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Jh]
+hilarjo: folds 
+Riano21: folds 
+Jan Carl92: folds 
+Ivanperoj: raises $0.06 to $0.08
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Ivanperoj
+Ivanperoj collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: Ivanperoj (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210372000:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:41:59 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.58 in chips) 
+Seat 3: Riano21 ($2.43 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.10 in chips) 
+Seat 6: Lorpugo ($1.51 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Jc]
+`dave_original leaves the table
+Parsley_Punch joins the table at seat #2 
+Riano21: raises $0.03 to $0.05
+Jan Carl92: folds 
+Ivanperoj: calls $0.05
+Lorpugo: folds 
+hilarjo: folds 
+*** FLOP *** [9d Th 4h]
+Riano21: bets $0.04
+Parsley_Punch leaves the table
+Ivanperoj: folds 
+Uncalled bet ($0.04) returned to Riano21
+Riano21 collected $0.13 from pot
+Riano21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9d Th 4h]
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 3: Riano21 collected ($0.13)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Ivanperoj (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210384727:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:42:32 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.56 in chips) 
+Seat 3: Riano21 ($2.51 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 5: Ivanperoj ($2.05 in chips) 
+Seat 6: Lorpugo ($1.50 in chips) 
+hilarjo: posts small blind $0.01
+Riano21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 6c]
+blessedbaboon11 joins the table at seat #2 
+Jan Carl92: raises $0.04 to $0.06
+Ivanperoj: calls $0.06
+Lorpugo: folds 
+hilarjo: folds 
+Riano21: folds 
+*** FLOP *** [5c 7h 3d]
+Jan Carl92: checks 
+Ivanperoj: bets $0.06
+Jan Carl92: calls $0.06
+*** TURN *** [5c 7h 3d] [2h]
+Jan Carl92: checks 
+Ivanperoj: checks 
+*** RIVER *** [5c 7h 3d 2h] [9s]
+Jan Carl92: checks 
+Ivanperoj: bets $0.10
+Jan Carl92: folds 
+Uncalled bet ($0.10) returned to Ivanperoj
+Ivanperoj collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5c 7h 3d 2h 9s]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 3: Riano21 (big blind) folded before Flop
+Seat 4: Jan Carl92 folded on the River
+Seat 5: Ivanperoj collected ($0.26)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210404147:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:43:23 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.55 in chips) 
+Seat 3: Riano21 ($2.49 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 6: Lorpugo ($1.50 in chips) 
+Riano21: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9s]
+Lorpugo: folds 
+hilarjo: folds 
+Riano21: folds 
+Uncalled bet ($0.01) returned to Jan Carl92
+Jan Carl92 collected $0.02 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 3: Riano21 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210409870:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:43:38 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.55 in chips) 
+Seat 3: Riano21 ($2.48 in chips) 
+Seat 4: Jan Carl92 ($2.01 in chips) 
+Seat 6: Lorpugo ($1.50 in chips) 
+Jan Carl92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+blessedbaboon11: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 2d]
+hilarjo: raises $0.03 to $0.05
+Riano21: calls $0.05
+Jan Carl92: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [As 5d Ah]
+Jan Carl92: checks 
+Lorpugo: bets $0.02
+hilarjo: calls $0.02
+Riano21: calls $0.02
+Jan Carl92: calls $0.02
+*** TURN *** [As 5d Ah] [7s]
+Jan Carl92: checks 
+Lorpugo: checks 
+hilarjo: bets $0.20
+Riano21: calls $0.20
+Jan Carl92: calls $0.20
+Lorpugo: folds 
+*** RIVER *** [As 5d Ah 7s] [6d]
+Jan Carl92: checks 
+hilarjo: checks 
+Riano21: checks 
+*** SHOW DOWN ***
+Jan Carl92: shows [Qs 6s] (two pair, Aces and Sixes)
+hilarjo: shows [3c Ac] (three of a kind, Aces)
+Riano21: shows [9d Ad] (three of a kind, Aces - Nine kicker)
+Riano21 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [As 5d Ah 7s 6d]
+Seat 1: hilarjo showed [3c Ac] and lost with three of a kind, Aces
+Seat 3: Riano21 (button) showed [9d Ad] and won ($0.85) with three of a kind, Aces
+Seat 4: Jan Carl92 (small blind) showed [Qs 6s] and lost with two pair, Aces and Sixes
+Seat 6: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239210437798:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:44:52 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.28 in chips) 
+Seat 3: Riano21 ($3.06 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+blessedbaboon11: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8s]
+Riano21: raises $0.03 to $0.05
+Jan Carl92: folds 
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($0.03) returned to Riano21
+Riano21 collected $0.05 from pot
+Riano21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 3: Riano21 collected ($0.05)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210444703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:45:10 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.26 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.09 in chips) 
+Seat 4: Jan Carl92 ($2 in chips) 
+Seat 6: Lorpugo ($1.42 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 4c]
+Riano21: folds 
+Jan Carl92: raises $0.04 to $0.06
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: calls $0.04
+*** FLOP *** [Ac Kd 4d]
+blessedbaboon11: checks 
+Jan Carl92: bets $0.06
+blessedbaboon11: calls $0.06
+*** TURN *** [Ac Kd 4d] [Ad]
+blessedbaboon11: checks 
+Jan Carl92: bets $0.12
+blessedbaboon11: folds 
+Uncalled bet ($0.12) returned to Jan Carl92
+Jan Carl92 collected $0.24 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac Kd 4d Ad]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) folded on the Turn
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 collected ($0.24)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210460224:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:45:51 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.09 in chips) 
+Seat 4: Jan Carl92 ($2.12 in chips) 
+Seat 6: Lorpugo ($1.42 in chips) 
+blessedbaboon11: posts small blind $0.01
+Riano21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8c]
+Jan Carl92: folds 
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+Uncalled bet ($0.01) returned to Riano21
+Riano21 collected $0.02 from pot
+Riano21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 3: Riano21 (big blind) collected ($0.02)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210464169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:46:01 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.10 in chips) 
+Seat 4: Jan Carl92 ($2.12 in chips) 
+Seat 6: Lorpugo ($1.42 in chips) 
+Riano21: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Kd]
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: folds 
+Riano21: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) folded before Flop (didn't bet)
+Seat 3: Riano21 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239210468611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:46:13 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.09 in chips) 
+Seat 4: Jan Carl92 ($2.10 in chips) 
+Seat 6: Lorpugo ($1.45 in chips) 
+Jan Carl92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 9c]
+hilarjo: folds 
+blessedbaboon11: raises $0.04 to $0.06
+Riano21: raises $0.15 to $0.21
+Jan Carl92: folds 
+Lorpugo: folds 
+blessedbaboon11: folds 
+Uncalled bet ($0.15) returned to Riano21
+Riano21 collected $0.15 from pot
+Riano21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop
+Seat 3: Riano21 (button) collected ($0.15)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210478270:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:46:39 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.18 in chips) 
+Seat 4: Jan Carl92 ($2.09 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Kc]
+blessedbaboon11: folds 
+Riano21: folds 
+Jan Carl92: raises $0.02 to $0.04
+Lorpugo: calls $0.03
+hilarjo: raises $0.22 to $0.26
+Jan Carl92: folds 
+Lorpugo: folds 
+Uncalled bet ($0.22) returned to hilarjo
+hilarjo collected $0.12 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: hilarjo (big blind) collected ($0.12)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210493365:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:47:19 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.33 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.18 in chips) 
+Seat 4: Jan Carl92 ($2.05 in chips) 
+Seat 6: Lorpugo ($1.39 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 3d]
+Riano21: folds 
+Jan Carl92: folds 
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($0.01) returned to blessedbaboon11
+blessedbaboon11 collected $0.02 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) collected ($0.02)
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210497368:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:47:29 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.32 in chips) 
+Seat 2: blessedbaboon11 ($2.01 in chips) 
+Seat 3: Riano21 ($3.18 in chips) 
+Seat 4: Jan Carl92 ($2.05 in chips) 
+Seat 6: Lorpugo ($1.39 in chips) 
+blessedbaboon11: posts small blind $0.01
+Riano21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 5h]
+Jan Carl92: raises $0.02 to $0.04
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+Riano21: folds 
+Uncalled bet ($0.02) returned to Jan Carl92
+Jan Carl92 collected $0.05 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 3: Riano21 (big blind) folded before Flop
+Seat 4: Jan Carl92 collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210503482:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:47:45 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.32 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.16 in chips) 
+Seat 4: Jan Carl92 ($2.08 in chips) 
+Seat 6: Lorpugo ($1.39 in chips) 
+Riano21: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Qc]
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: raises $0.04 to $0.06
+Riano21: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.04) returned to blessedbaboon11
+blessedbaboon11 collected $0.05 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) collected ($0.05)
+Seat 3: Riano21 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210509094:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:48:00 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.32 in chips) 
+Seat 2: blessedbaboon11 ($2.03 in chips) 
+Seat 3: Riano21 ($3.15 in chips) 
+Seat 4: Jan Carl92 ($2.06 in chips) 
+Seat 6: Lorpugo ($1.39 in chips) 
+Jan Carl92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5d]
+hilarjo: folds 
+blessedbaboon11: folds 
+Riano21: raises $0.03 to $0.05
+Jan Carl92: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [3h 3s 2c]
+Lorpugo: checks 
+Riano21: checks 
+*** TURN *** [3h 3s 2c] [Jh]
+Lorpugo: checks 
+Riano21: bets $0.03
+Lorpugo: raises $0.09 to $0.12
+Riano21: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.16 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3h 3s 2c Jh]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: Riano21 (button) folded on the Turn
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.16)
+
+
+
+PokerStars Hand #239210525036:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:48:42 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.32 in chips) 
+Seat 2: blessedbaboon11 ($2.03 in chips) 
+Seat 3: Riano21 ($3.07 in chips) 
+Seat 4: Jan Carl92 ($2.05 in chips) 
+Seat 6: Lorpugo ($1.47 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ts]
+blessedbaboon11: folds 
+Riano21: folds 
+Jan Carl92: folds 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: calls $0.04
+*** FLOP *** [6c Ad Kc]
+Lorpugo: bets $0.04
+hilarjo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6c Ad Kc]
+Seat 1: hilarjo (big blind) folded on the Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: Riano21 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #239210532623:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:49:02 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.26 in chips) 
+Seat 2: blessedbaboon11 ($2.03 in chips) 
+Seat 3: Riano21 ($3.07 in chips) 
+Seat 4: Jan Carl92 ($2.05 in chips) 
+Seat 6: Lorpugo ($1.53 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Qd]
+Riano21: raises $0.03 to $0.05
+Jan Carl92: folds 
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+Uncalled bet ($0.03) returned to Riano21
+Riano21 collected $0.05 from pot
+Riano21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) folded before Flop
+Seat 3: Riano21 collected ($0.05)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210541479:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:49:26 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2.01 in chips) 
+Seat 3: Riano21 ($3.10 in chips) 
+Seat 4: Jan Carl92 ($2.05 in chips) 
+Seat 6: Lorpugo ($1.53 in chips) 
+blessedbaboon11: posts small blind $0.01
+Riano21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9c]
+Jan Carl92: raises $0.02 to $0.04
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+Riano21: folds 
+Uncalled bet ($0.02) returned to Jan Carl92
+Jan Carl92 collected $0.05 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 3: Riano21 (big blind) folded before Flop
+Seat 4: Jan Carl92 collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210544504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:49:34 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.08 in chips) 
+Seat 4: Jan Carl92 ($2.08 in chips) 
+Seat 6: Lorpugo ($1.53 in chips) 
+Riano21: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3d]
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: raises $0.04 to $0.06
+Riano21: calls $0.05
+Jan Carl92: calls $0.04
+*** FLOP *** [Ac 8d Qd]
+Riano21: checks 
+Jan Carl92: bets $0.11
+blessedbaboon11: raises $0.39 to $0.50
+Riano21: folds 
+Jan Carl92: raises $1.52 to $2.02 and is all-in
+blessedbaboon11: calls $1.44 and is all-in
+Uncalled bet ($0.08) returned to Jan Carl92
+*** TURN *** [Ac 8d Qd] [Jh]
+*** RIVER *** [Ac 8d Qd Jh] [Kc]
+*** SHOW DOWN ***
+Jan Carl92: shows [Td 9d] (a straight, Ten to Ace)
+blessedbaboon11: shows [Qc Qs] (three of a kind, Queens)
+Jan Carl92 collected $3.88 from pot
+*** SUMMARY ***
+Total pot $4.06 | Rake $0.18 
+Board [Ac 8d Qd Jh Kc]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) showed [Qc Qs] and lost with three of a kind, Queens
+Seat 3: Riano21 (small blind) folded on the Flop
+Seat 4: Jan Carl92 (big blind) showed [Td 9d] and won ($3.88) with a straight, Ten to Ace
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210559327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:50:14 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: Riano21 ($3.02 in chips) 
+Seat 4: Jan Carl92 ($3.96 in chips) 
+Seat 6: Lorpugo ($1.53 in chips) 
+Jan Carl92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Qs]
+hilarjo: folds 
+blessedbaboon11: folds 
+Riano21: folds 
+Riano21 leaves the table
+Jan Carl92: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+Jan Carl92: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Ivanperoj leaves the table
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: Riano21 (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239210564529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:50:28 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 4: Jan Carl92 ($3.90 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 8h]
+blessedbaboon11: folds 
+Jan Carl92: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+hilarjo: folds 
+Jan Carl92: calls $0.14
+*** FLOP *** [6d Qc 3c]
+Lorpugo: bets $0.27
+Jan Carl92: raises $3.43 to $3.70 and is all-in
+Lorpugo: folds 
+Uncalled bet ($3.43) returned to Jan Carl92
+Jan Carl92 collected $0.92 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.04 
+Board [6d Qc 3c]
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) collected ($0.92)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239210576673:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:51:00 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.23 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 4: Jan Carl92 ($4.35 in chips) 
+Seat 6: Lorpugo ($1.12 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3s]
+Jan Carl92: raises $0.02 to $0.04
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: raises $1.96 to $2 and is all-in
+Jan Carl92: folds 
+Uncalled bet ($1.96) returned to blessedbaboon11
+blessedbaboon11 collected $0.09 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) collected ($0.09)
+Seat 4: Jan Carl92 folded before Flop
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210581605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:51:13 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.05 in chips) 
+Seat 4: Jan Carl92 ($4.31 in chips) 
+Seat 6: Lorpugo ($1.12 in chips) 
+blessedbaboon11: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8d]
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: folds 
+Jan Carl92: calls $0.04
+*** FLOP *** [2c 6s Qs]
+Jan Carl92: checks 
+Lorpugo: bets $0.06
+Jan Carl92: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2c 6s Qs]
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded on the Flop
+Seat 6: Lorpugo collected ($0.13)
+
+
+
+PokerStars Hand #239210588174:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:51:31 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.04 in chips) 
+Seat 4: Jan Carl92 ($4.25 in chips) 
+Seat 6: Lorpugo ($1.19 in chips) 
+Jan Carl92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8d]
+hilarjo: folds 
+blessedbaboon11: raises $0.04 to $0.06
+Jan Carl92: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [9d Ts Qs]
+Lorpugo: checks 
+blessedbaboon11: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [9d Ts Qs] [Ks]
+Lorpugo: checks 
+blessedbaboon11: checks 
+*** RIVER *** [9d Ts Qs Ks] [6h]
+Lorpugo: checks 
+blessedbaboon11: bets $0.18
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to blessedbaboon11
+blessedbaboon11 collected $0.24 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9d Ts Qs Ks 6h]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) collected ($0.24)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #239210602291:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:52:09 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.16 in chips) 
+Seat 4: Jan Carl92 ($4.24 in chips) 
+Seat 6: Lorpugo ($1.07 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 2s]
+blessedbaboon11: folds 
+Jan Carl92: raises $0.04 to $0.06
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($0.04) returned to Jan Carl92
+Jan Carl92 collected $0.05 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) collected ($0.05)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210606852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:52:21 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.20 in chips) 
+Seat 2: blessedbaboon11 ($2.16 in chips) 
+Seat 4: Jan Carl92 ($4.27 in chips) 
+Seat 6: Lorpugo ($1.06 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3h]
+Jan Carl92: raises $0.02 to $0.04
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: calls $0.02
+*** FLOP *** [7h 3s 9c]
+blessedbaboon11: checks 
+DocGigante joins the table at seat #3 
+Jan Carl92: checks 
+*** TURN *** [7h 3s 9c] [Ah]
+blessedbaboon11: bets $0.09
+Jan Carl92: calls $0.09
+*** RIVER *** [7h 3s 9c Ah] [8c]
+blessedbaboon11: bets $2.03 and is all-in
+Jan Carl92: folds 
+Uncalled bet ($2.03) returned to blessedbaboon11
+blessedbaboon11 collected $0.26 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7h 3s 9c Ah 8c]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) collected ($0.26)
+Seat 4: Jan Carl92 folded on the River
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210622871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:53:03 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.29 in chips) 
+Seat 3: DocGigante ($2 in chips) 
+Seat 4: Jan Carl92 ($4.14 in chips) 
+Seat 6: Lorpugo ($1.06 in chips) 
+blessedbaboon11: posts small blind $0.01
+DocGigante: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4d]
+Jan Carl92: folds 
+Lorpugo: raises $0.04 to $0.06
+xlBlueLabel joins the table at seat #5 
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: calls $0.04
+*** FLOP *** [6h 3d 9h]
+DocGigante: checks 
+Lorpugo: checks 
+*** TURN *** [6h 3d 9h] [Tc]
+DocGigante: bets $0.13
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to DocGigante
+DocGigante collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6h 3d 9h Tc]
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 3: DocGigante (big blind) collected ($0.13)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the Turn
+
+
+
+PokerStars Hand #239210634415:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:53:34 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.28 in chips) 
+Seat 3: DocGigante ($2.07 in chips) 
+Seat 4: Jan Carl92 ($4.14 in chips) 
+Seat 6: Lorpugo ($1 in chips) 
+DocGigante: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+xlBlueLabel: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 3c]
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: raises $0.03 to $0.05
+Jan Carl92: calls $0.03
+*** FLOP *** [Ts 2c As]
+DocGigante: bets $0.06
+Jan Carl92: calls $0.06
+*** TURN *** [Ts 2c As] [9d]
+DocGigante: bets $0.21
+Jan Carl92: folds 
+Uncalled bet ($0.21) returned to DocGigante
+DocGigante collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Ts 2c As 9d]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) folded before Flop (didn't bet)
+Seat 3: DocGigante (small blind) collected ($0.21)
+Seat 4: Jan Carl92 (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210655120:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:54:29 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.28 in chips) 
+Seat 3: DocGigante ($2.17 in chips) 
+Seat 4: Jan Carl92 ($4.03 in chips) 
+Seat 5: xlBlueLabel ($2 in chips) 
+Seat 6: Lorpugo ($1 in chips) 
+Jan Carl92: posts small blind $0.01
+xlBlueLabel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ah]
+Lorpugo: raises $0.02 to $0.04
+hilarjo: folds 
+blessedbaboon11: calls $0.04
+DocGigante: calls $0.04
+Jan Carl92: folds 
+xlBlueLabel: calls $0.02
+*** FLOP *** [5c 4s 3c]
+xlBlueLabel: checks 
+Lorpugo: checks 
+blessedbaboon11: checks 
+DocGigante: checks 
+*** TURN *** [5c 4s 3c] [2h]
+xlBlueLabel: checks 
+Lorpugo: checks 
+blessedbaboon11: checks 
+DocGigante: bets $0.09
+xlBlueLabel: calls $0.09
+Lorpugo: calls $0.09
+blessedbaboon11: folds 
+*** RIVER *** [5c 4s 3c 2h] [Jc]
+xlBlueLabel: checks 
+Lorpugo: checks 
+DocGigante: checks 
+*** SHOW DOWN ***
+xlBlueLabel: shows [9c 7c] (a flush, Jack high)
+Lorpugo: mucks hand 
+DocGigante: mucks hand 
+xlBlueLabel collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [5c 4s 3c 2h Jc]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded on the Turn
+Seat 3: DocGigante (button) mucked [Js Kc]
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 5: xlBlueLabel (big blind) showed [9c 7c] and won ($0.42) with a flush, Jack high
+Seat 6: Lorpugo mucked [As Ah]
+
+
+
+PokerStars Hand #239210681673:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:55:53 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.24 in chips) 
+Seat 3: DocGigante ($2.04 in chips) 
+Seat 4: Jan Carl92 ($4.02 in chips) 
+Seat 5: xlBlueLabel ($2.29 in chips) 
+Seat 6: Lorpugo ($0.87 in chips) 
+xlBlueLabel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 7d]
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: xlBlueLabel (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239210686366:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:56:09 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.24 in chips) 
+Seat 3: DocGigante ($2.04 in chips) 
+Seat 4: Jan Carl92 ($4.02 in chips) 
+Seat 5: xlBlueLabel ($2.28 in chips) 
+Seat 6: Lorpugo ($0.88 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2d]
+blessedbaboon11: raises $0.04 to $0.06
+DocGigante: folds 
+Jan Carl92: calls $0.06
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: folds 
+*** FLOP *** [Qh As 5c]
+blessedbaboon11: checks 
+Jan Carl92: checks 
+*** TURN *** [Qh As 5c] [Jd]
+blessedbaboon11: checks 
+Jan Carl92: checks 
+*** RIVER *** [Qh As 5c Jd] [6c]
+blessedbaboon11: checks 
+Jan Carl92: checks 
+*** SHOW DOWN ***
+blessedbaboon11: shows [7s 7h] (a pair of Sevens)
+Jan Carl92: shows [8c 8h] (a pair of Eights)
+Jan Carl92 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh As 5c Jd 6c]
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 showed [7s 7h] and lost with a pair of Sevens
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 showed [8c 8h] and won ($0.14) with a pair of Eights
+Seat 5: xlBlueLabel (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210697564:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:56:49 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.17 in chips) 
+Seat 2: blessedbaboon11 ($2.18 in chips) 
+Seat 3: DocGigante ($2.04 in chips) 
+Seat 4: Jan Carl92 ($4.10 in chips) 
+Seat 5: xlBlueLabel ($2.28 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 7h]
+DocGigante has timed out
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: raises $0.04 to $0.06
+blessedbaboon11: folds 
+Uncalled bet ($0.04) returned to hilarjo
+hilarjo collected $0.04 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: hilarjo (small blind) collected ($0.04)
+Seat 2: blessedbaboon11 (big blind) folded before Flop
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210703949:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:57:11 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.16 in chips) 
+Seat 4: Jan Carl92 ($4.10 in chips) 
+Seat 5: xlBlueLabel ($2.28 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+blessedbaboon11: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 7d]
+xlBlueLabel: folds 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: calls $0.05
+Jan Carl92: folds 
+*** FLOP *** [7s 9s 8d]
+blessedbaboon11: checks 
+Lorpugo: bets $0.09
+blessedbaboon11: calls $0.09
+*** TURN *** [7s 9s 8d] [Ks]
+blessedbaboon11: checks 
+Lorpugo: bets $0.20
+blessedbaboon11: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.31 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [7s 9s 8d Ks]
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded on the Turn
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.31)
+
+
+
+PokerStars Hand #239210716446:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:57:55 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.01 in chips) 
+Seat 4: Jan Carl92 ($4.08 in chips) 
+Seat 5: xlBlueLabel ($2.28 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+Jan Carl92: posts small blind $0.01
+xlBlueLabel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Td]
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 5: xlBlueLabel (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239210721639:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:58:13 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.01 in chips) 
+Seat 3: DocGigante ($2.04 in chips) 
+Seat 4: Jan Carl92 ($4.07 in chips) 
+Seat 5: xlBlueLabel ($2.26 in chips) 
+Seat 6: Lorpugo ($1.86 in chips) 
+xlBlueLabel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+DocGigante: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Kh]
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: checks 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: raises $0.08 to $0.10
+DocGigante: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: xlBlueLabel (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.06)
+
+
+
+PokerStars Hand #239210729558:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:58:41 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.01 in chips) 
+Seat 3: DocGigante ($2.01 in chips) 
+Seat 4: Jan Carl92 ($4.07 in chips) 
+Seat 5: xlBlueLabel ($2.25 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Qd]
+blessedbaboon11 has timed out
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: calls $0.04
+*** FLOP *** [3s 2s 5s]
+Lorpugo: bets $0.04
+hilarjo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3s 2s 5s]
+Seat 1: hilarjo (big blind) folded on the Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #239210742759:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:59:27 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.13 in chips) 
+Seat 2: blessedbaboon11 ($2.01 in chips) 
+Seat 3: DocGigante ($2.01 in chips) 
+Seat 4: Jan Carl92 ($4.07 in chips) 
+Seat 5: xlBlueLabel ($2.25 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 3s]
+DocGigante: raises $0.03 to $0.05
+Jan Carl92: folds 
+xlBlueLabel: raises $0.11 to $0.16
+Lorpugo: folds 
+hilarjo: raises $0.22 to $0.38
+blessedbaboon11: folds 
+DocGigante: folds 
+xlBlueLabel: calls $0.22
+*** FLOP *** [Jc Tc 8d]
+hilarjo: bets $0.40
+xlBlueLabel: raises $1.47 to $1.87 and is all-in
+hilarjo: calls $1.35 and is all-in
+Uncalled bet ($0.12) returned to xlBlueLabel
+*** TURN *** [Jc Tc 8d] [5s]
+*** RIVER *** [Jc Tc 8d 5s] [Ks]
+*** SHOW DOWN ***
+hilarjo: shows [Ad Ah] (a pair of Aces)
+xlBlueLabel: shows [Jd Td] (two pair, Jacks and Tens)
+xlBlueLabel collected $4.18 from pot
+hilarjo cashed out the hand for $1.19 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $4.33 | Rake $0.15 
+Board [Jc Tc 8d 5s Ks]
+Seat 1: hilarjo (small blind) showed [Ad Ah] and lost with a pair of Aces (cashed out).
+Seat 2: blessedbaboon11 (big blind) folded before Flop
+Seat 3: DocGigante folded before Flop
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel showed [Jd Td] and won ($4.18) with two pair, Jacks and Tens
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210760271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:00:26 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2 in chips) 
+Seat 4: Jan Carl92 ($4.07 in chips) 
+Seat 5: xlBlueLabel ($4.30 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+blessedbaboon11: posts small blind $0.01
+DocGigante: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 7c]
+Jan Carl92 has timed out
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: raises $0.02 to $0.04
+blessedbaboon11: calls $0.03
+DocGigante: folds 
+*** FLOP *** [Kd Th 9c]
+blessedbaboon11: checks 
+hilarjo: bets $0.05
+blessedbaboon11: calls $0.05
+*** TURN *** [Kd Th 9c] [3h]
+blessedbaboon11: checks 
+hilarjo: checks 
+*** RIVER *** [Kd Th 9c 3h] [Ad]
+blessedbaboon11: checks 
+hilarjo: bets $0.14
+blessedbaboon11: folds 
+Uncalled bet ($0.14) returned to hilarjo
+hilarjo collected $0.19 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kd Th 9c 3h Ad]
+Seat 1: hilarjo (button) collected ($0.19)
+Seat 2: blessedbaboon11 (small blind) folded on the River
+Seat 3: DocGigante (big blind) folded before Flop
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210782017:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:01:30 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.10 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2 in chips) 
+Seat 4: Jan Carl92 ($4.07 in chips) 
+Seat 5: xlBlueLabel ($4.30 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+DocGigante: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Qs]
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: raises $0.03 to $0.05
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.03) returned to hilarjo
+hilarjo collected $0.05 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo collected ($0.05)
+Seat 2: blessedbaboon11 (button) folded before Flop (didn't bet)
+Seat 3: DocGigante (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210790746:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:01:54 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.13 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2 in chips) 
+Seat 4: Jan Carl92 ($4.05 in chips) 
+Seat 5: xlBlueLabel ($4.30 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+Jan Carl92: posts small blind $0.01
+xlBlueLabel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 2c]
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: raises $0.02 to $0.04
+xlBlueLabel: calls $0.02
+*** FLOP *** [Qs 2d Ks]
+Jan Carl92: checks 
+xlBlueLabel: checks 
+*** TURN *** [Qs 2d Ks] [3d]
+Jan Carl92: bets $0.02
+xlBlueLabel: folds 
+Uncalled bet ($0.02) returned to Jan Carl92
+Jan Carl92 collected $0.08 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qs 2d Ks 3d]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) collected ($0.08)
+Seat 5: xlBlueLabel (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210802551:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:02:25 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.13 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2 in chips) 
+Seat 4: Jan Carl92 ($4.09 in chips) 
+Seat 5: xlBlueLabel ($4.26 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+xlBlueLabel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7d]
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92 has timed out
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: xlBlueLabel (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239210812230:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:02:51 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.13 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2 in chips) 
+Seat 4: Jan Carl92 ($4.09 in chips) 
+Seat 5: xlBlueLabel ($4.25 in chips) 
+Seat 6: Lorpugo ($1.97 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4s]
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: raises $0.04 to $0.06
+xlBlueLabel: raises $0.12 to $0.18
+Lorpugo: folds 
+hilarjo: folds 
+Jan Carl92: calls $0.12
+*** FLOP *** [8h 5d 4c]
+Jan Carl92: checks 
+xlBlueLabel: checks 
+*** TURN *** [8h 5d 4c] [Ah]
+Jan Carl92: bets $0.25
+xlBlueLabel: calls $0.25
+*** RIVER *** [8h 5d 4c Ah] [Ks]
+Jan Carl92: bets $0.70
+xlBlueLabel: calls $0.70
+*** SHOW DOWN ***
+Jan Carl92: shows [5s 5c] (three of a kind, Fives)
+xlBlueLabel: mucks hand 
+Jan Carl92 collected $2.19 from pot
+*** SUMMARY ***
+Total pot $2.29 | Rake $0.10 
+Board [8h 5d 4c Ah Ks]
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 showed [5s 5c] and won ($2.19) with three of a kind, Fives
+Seat 5: xlBlueLabel (button) mucked [Js Ad]
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210838718:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:04:01 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.11 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2 in chips) 
+Seat 4: Jan Carl92 ($5.15 in chips) 
+Seat 5: xlBlueLabel ($3.12 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kc]
+DocGigante: raises $0.03 to $0.05
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: calls $0.03
+*** FLOP *** [7c Th 4h]
+blessedbaboon11: checks 
+DocGigante: bets $0.06
+blessedbaboon11: calls $0.06
+*** TURN *** [7c Th 4h] [3d]
+blessedbaboon11: checks 
+DocGigante: bets $0.13
+blessedbaboon11: raises $0.24 to $0.37
+DocGigante: raises $0.96 to $1.33
+blessedbaboon11: folds 
+Uncalled bet ($0.96) returned to DocGigante
+DocGigante collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [7c Th 4h 3d]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) folded on the Turn
+Seat 3: DocGigante collected ($0.94)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210858903:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:04:54 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.10 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2.46 in chips) 
+Seat 4: Jan Carl92 ($5.15 in chips) 
+Seat 5: xlBlueLabel ($3.12 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+blessedbaboon11: posts small blind $0.01
+DocGigante: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ts]
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+Uncalled bet ($0.01) returned to DocGigante
+DocGigante collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 3: DocGigante (big blind) collected ($0.02)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210862838:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:05:05 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.10 in chips) 
+Seat 2: blessedbaboon11 ($2 in chips) 
+Seat 3: DocGigante ($2.47 in chips) 
+Seat 4: Jan Carl92 ($5.15 in chips) 
+Seat 5: xlBlueLabel ($3.12 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+DocGigante: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qd]
+xlBlueLabel: folds 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: raises $1.94 to $2 and is all-in
+DocGigante: folds 
+Jan Carl92: folds 
+Lorpugo: folds 
+Uncalled bet ($1.94) returned to blessedbaboon11
+blessedbaboon11 collected $0.15 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) collected ($0.15)
+Seat 3: DocGigante (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #239210875153:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:05:38 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.10 in chips) 
+Seat 2: blessedbaboon11 ($2.09 in chips) 
+Seat 3: DocGigante ($2.46 in chips) 
+Seat 4: Jan Carl92 ($5.13 in chips) 
+Seat 5: xlBlueLabel ($3.12 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+Jan Carl92: posts small blind $0.01
+xlBlueLabel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 7s]
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: raises $0.02 to $0.04
+DocGigante: folds 
+Jan Carl92: calls $0.03
+xlBlueLabel: raises $0.24 to $0.28
+blessedbaboon11: calls $0.24
+Jan Carl92: folds 
+*** FLOP *** [5h 6h 2d]
+xlBlueLabel: bets $0.19
+blessedbaboon11: raises $1.62 to $1.81 and is all-in
+xlBlueLabel: folds 
+Uncalled bet ($1.62) returned to blessedbaboon11
+blessedbaboon11 collected $0.95 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [5h 6h 2d]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 collected ($0.95)
+Seat 3: DocGigante (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 5: xlBlueLabel (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210901786:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:06:48 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.10 in chips) 
+Seat 2: blessedbaboon11 ($2.57 in chips) 
+Seat 3: DocGigante ($2.46 in chips) 
+Seat 4: Jan Carl92 ($5.09 in chips) 
+Seat 5: xlBlueLabel ($2.65 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+xlBlueLabel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 6c]
+hilarjo: folds 
+blessedbaboon11: raises $0.02 to $0.04
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [7d 9c 8d]
+Lorpugo: checks 
+blessedbaboon11: checks 
+*** TURN *** [7d 9c 8d] [Kh]
+Lorpugo: bets $0.02
+blessedbaboon11: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7d 9c 8d Kh]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded on the Turn
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: xlBlueLabel (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #239210910742:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:07:11 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.10 in chips) 
+Seat 2: blessedbaboon11 ($2.53 in chips) 
+Seat 3: DocGigante ($2.46 in chips) 
+Seat 4: Jan Carl92 ($5.09 in chips) 
+Seat 5: xlBlueLabel ($2.64 in chips) 
+Seat 6: Lorpugo ($1.95 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 9h]
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: raises $0.02 to $0.04
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($0.02) returned to Jan Carl92
+Jan Carl92 collected $0.05 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 collected ($0.05)
+Seat 5: xlBlueLabel (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210917917:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:07:30 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.08 in chips) 
+Seat 2: blessedbaboon11 ($2.53 in chips) 
+Seat 3: DocGigante ($2.46 in chips) 
+Seat 4: Jan Carl92 ($5.12 in chips) 
+Seat 5: xlBlueLabel ($2.64 in chips) 
+Seat 6: Lorpugo ($1.94 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5s]
+DocGigante: raises $0.03 to $0.05
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: calls $0.03
+*** FLOP *** [2s Jh Ks]
+blessedbaboon11: checks 
+DocGigante: bets $0.06
+blessedbaboon11: folds 
+Uncalled bet ($0.06) returned to DocGigante
+DocGigante collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2s Jh Ks]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) folded on the Flop
+Seat 3: DocGigante collected ($0.11)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210926634:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:07:53 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.07 in chips) 
+Seat 2: blessedbaboon11 ($2.48 in chips) 
+Seat 3: DocGigante ($2.52 in chips) 
+Seat 4: Jan Carl92 ($5.12 in chips) 
+Seat 5: xlBlueLabel ($2.64 in chips) 
+Seat 6: Lorpugo ($1.94 in chips) 
+blessedbaboon11: posts small blind $0.01
+DocGigante: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 4s]
+Jan Carl92: folds 
+xlBlueLabel: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+hilarjo: calls $0.06
+blessedbaboon11: raises $2.42 to $2.48 and is all-in
+DocGigante: folds 
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($2.42) returned to blessedbaboon11
+blessedbaboon11 collected $0.26 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop
+Seat 2: blessedbaboon11 (small blind) collected ($0.26)
+Seat 3: DocGigante (big blind) folded before Flop
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel folded before Flop
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #239210937603:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:08:22 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.01 in chips) 
+Seat 2: blessedbaboon11 ($2.68 in chips) 
+Seat 3: DocGigante ($2.50 in chips) 
+Seat 4: Jan Carl92 ($5.12 in chips) 
+Seat 5: xlBlueLabel ($2.58 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+DocGigante: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kd]
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: raises $0.03 to $0.05
+blessedbaboon11: calls $0.05
+DocGigante: folds 
+Jan Carl92: folds 
+*** FLOP *** [As Ks 5d]
+hilarjo: bets $0.06
+blessedbaboon11: folds 
+Uncalled bet ($0.06) returned to hilarjo
+hilarjo collected $0.13 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [As Ks 5d]
+Seat 1: hilarjo collected ($0.13)
+Seat 2: blessedbaboon11 (button) folded on the Flop
+Seat 3: DocGigante (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210943712:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:08:38 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.09 in chips) 
+Seat 2: blessedbaboon11 ($2.63 in chips) 
+Seat 3: DocGigante ($2.49 in chips) 
+Seat 4: Jan Carl92 ($5.10 in chips) 
+Seat 5: xlBlueLabel ($2.58 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Jan Carl92: posts small blind $0.01
+xlBlueLabel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qc]
+Lorpugo: folds 
+hilarjo: raises $0.03 to $0.05
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Uncalled bet ($0.03) returned to hilarjo
+hilarjo collected $0.05 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo collected ($0.05)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 5: xlBlueLabel (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210950029:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:08:54 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.12 in chips) 
+Seat 2: blessedbaboon11 ($2.63 in chips) 
+Seat 3: DocGigante ($2.49 in chips) 
+Seat 4: Jan Carl92 ($5.09 in chips) 
+Seat 5: xlBlueLabel ($2.56 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+xlBlueLabel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jd]
+hilarjo: raises $0.03 to $0.05
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to hilarjo
+hilarjo collected $0.05 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo collected ($0.05)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: xlBlueLabel (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210954519:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:09:06 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.15 in chips) 
+Seat 2: blessedbaboon11 ($2.63 in chips) 
+Seat 3: DocGigante ($2.49 in chips) 
+Seat 4: Jan Carl92 ($5.09 in chips) 
+Seat 5: xlBlueLabel ($2.55 in chips) 
+Seat 6: Lorpugo ($1.86 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 6c]
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: raises $0.03 to $0.05
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($0.03) returned to xlBlueLabel
+xlBlueLabel collected $0.05 from pot
+xlBlueLabel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel (button) collected ($0.05)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210959864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:09:20 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.13 in chips) 
+Seat 2: blessedbaboon11 ($2.63 in chips) 
+Seat 3: DocGigante ($2.49 in chips) 
+Seat 4: Jan Carl92 ($5.09 in chips) 
+Seat 5: xlBlueLabel ($2.58 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Kc]
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: raises $0.14 to $0.20
+blessedbaboon11: folds 
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to hilarjo
+hilarjo collected $0.14 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: hilarjo (small blind) collected ($0.14)
+Seat 2: blessedbaboon11 (big blind) folded before Flop
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #239210967592:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:09:40 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.21 in chips) 
+Seat 2: blessedbaboon11 ($2.61 in chips) 
+Seat 3: DocGigante ($2.49 in chips) 
+Seat 4: Jan Carl92 ($5.09 in chips) 
+Seat 5: xlBlueLabel ($2.58 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+blessedbaboon11: posts small blind $0.01
+DocGigante: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 3c]
+Jan Carl92: raises $0.04 to $0.06
+xlBlueLabel: folds 
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: raises $0.13 to $0.19
+Jan Carl92: folds 
+Uncalled bet ($0.13) returned to DocGigante
+DocGigante collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 3: DocGigante (big blind) collected ($0.13)
+Seat 4: Jan Carl92 folded before Flop
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210974934:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:10:00 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.21 in chips) 
+Seat 2: blessedbaboon11 ($2.60 in chips) 
+Seat 3: DocGigante ($2.56 in chips) 
+Seat 4: Jan Carl92 ($5.03 in chips) 
+Seat 5: xlBlueLabel ($2.58 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+DocGigante: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Jc]
+xlBlueLabel: raises $0.04 to $0.06
+Lorpugo has timed out
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: calls $0.06
+DocGigante: folds 
+Jan Carl92: folds 
+*** FLOP *** [4h 6d 6c]
+xlBlueLabel: checks 
+blessedbaboon11: checks 
+*** TURN *** [4h 6d 6c] [5s]
+xlBlueLabel: checks 
+blessedbaboon11: bets $0.07
+xlBlueLabel: calls $0.07
+*** RIVER *** [4h 6d 6c 5s] [7c]
+xlBlueLabel: checks 
+blessedbaboon11: bets $2.47 and is all-in
+xlBlueLabel: folds 
+Uncalled bet ($2.47) returned to blessedbaboon11
+blessedbaboon11 collected $0.28 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [4h 6d 6c 5s 7c]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) collected ($0.28)
+Seat 3: DocGigante (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 5: xlBlueLabel folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211000638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:11:07 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.21 in chips) 
+Seat 2: blessedbaboon11 ($2.75 in chips) 
+Seat 3: DocGigante ($2.55 in chips) 
+Seat 4: Jan Carl92 ($5.01 in chips) 
+Seat 5: xlBlueLabel ($2.45 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+Jan Carl92: posts small blind $0.01
+xlBlueLabel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Th]
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: folds 
+Jan Carl92: folds 
+xlBlueLabel: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) folded before Flop
+Seat 5: xlBlueLabel (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239211008203:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:11:28 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.21 in chips) 
+Seat 2: blessedbaboon11 ($2.75 in chips) 
+Seat 3: DocGigante ($2.55 in chips) 
+Seat 4: Jan Carl92 ($5 in chips) 
+Seat 5: xlBlueLabel ($2.43 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+xlBlueLabel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc As]
+hilarjo: folds 
+blessedbaboon11: folds 
+DocGigante: folds 
+DocGigante leaves the table
+Jan Carl92: raises $0.04 to $0.06
+xlBlueLabel: folds 
+Lorpugo: raises $0.14 to $0.20
+Jan Carl92: calls $0.14
+*** FLOP *** [Qd 2s Jc]
+ninel7 joins the table at seat #3 
+Lorpugo: checks 
+Jan Carl92: checks 
+*** TURN *** [Qd 2s Jc] [5d]
+Lorpugo: bets $0.66
+Jan Carl92: folds 
+Uncalled bet ($0.66) returned to Lorpugo
+Lorpugo collected $0.40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Qd 2s Jc 5d]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: DocGigante folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded on the Turn
+Seat 5: xlBlueLabel (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.40)
+
+
+
+PokerStars Hand #239211023268:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:12:08 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.21 in chips) 
+Seat 2: blessedbaboon11 ($2.75 in chips) 
+Seat 4: Jan Carl92 ($4.80 in chips) 
+Seat 5: xlBlueLabel ($2.42 in chips) 
+Seat 6: Lorpugo ($2.02 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+ninel7: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Th]
+blessedbaboon11: folds 
+Jan Carl92: raises $0.04 to $0.06
+xlBlueLabel: raises $0.12 to $0.18
+Lorpugo: folds 
+hilarjo: folds 
+Jan Carl92: raises $0.32 to $0.50
+xlBlueLabel: calls $0.32
+*** FLOP *** [Kc 6d Js]
+Jan Carl92: checks 
+xlBlueLabel: checks 
+*** TURN *** [Kc 6d Js] [8d]
+Jan Carl92: bets $0.66
+xlBlueLabel: calls $0.66
+*** RIVER *** [Kc 6d Js 8d] [7c]
+Jan Carl92: checks 
+xlBlueLabel: bets $1.26 and is all-in
+Jan Carl92: calls $1.26
+*** SHOW DOWN ***
+xlBlueLabel: shows [Qd Td] (high card King)
+Jan Carl92: shows [Ac Ah] (a pair of Aces)
+Jan Carl92 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.87 | Rake $0.21 
+Board [Kc 6d Js 8d 7c]
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 showed [Ac Ah] and won ($4.66) with a pair of Aces
+Seat 5: xlBlueLabel (button) showed [Qd Td] and lost with high card King
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211045776:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:13:07 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.75 in chips) 
+Seat 4: Jan Carl92 ($7.04 in chips) 
+Seat 5: xlBlueLabel ($2 in chips) 
+Seat 6: Lorpugo ($2.01 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+ninel7: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kc]
+Jan Carl92: raises $0.02 to $0.04
+xlBlueLabel: folds 
+xlBlueLabel leaves the table
+Lorpugo: raises $0.11 to $0.15
+hilarjo: folds 
+blessedbaboon11: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) folded before Flop
+Seat 4: Jan Carl92 folded before Flop
+Seat 5: xlBlueLabel folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.11)
+
+
+
+PokerStars Hand #239211051557:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:13:22 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.18 in chips) 
+Seat 2: blessedbaboon11 ($2.73 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($7 in chips) 
+Seat 6: Lorpugo ($2.08 in chips) 
+blessedbaboon11: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9s]
+bibipalous joins the table at seat #5 
+Jan Carl92 has timed out
+Jan Carl92: folds 
+Lorpugo: folds 
+hilarjo: raises $0.02 to $0.04
+blessedbaboon11: calls $0.03
+ninel7: folds 
+*** FLOP *** [Ts 7s 6c]
+blessedbaboon11: checks 
+hilarjo: bets $0.05
+blessedbaboon11: folds 
+Uncalled bet ($0.05) returned to hilarjo
+hilarjo collected $0.10 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ts 7s 6c]
+Seat 1: hilarjo (button) collected ($0.10)
+Seat 2: blessedbaboon11 (small blind) folded on the Flop
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211064156:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:13:56 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.24 in chips) 
+Seat 2: blessedbaboon11 ($2.69 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($7 in chips) 
+Seat 5: bibipalous ($2 in chips) 
+Seat 6: Lorpugo ($2.08 in chips) 
+ninel7: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+bibipalous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6s]
+bibipalous: checks 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: folds 
+ninel7: folds 
+Jan Carl92: folds 
+bibipalous: calls $0.04
+*** FLOP *** [6d 4h Ts]
+bibipalous: checks 
+Lorpugo: bets $0.09
+bibipalous: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6d 4h Ts]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) folded before Flop (didn't bet)
+Seat 3: ninel7 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded before Flop
+Seat 5: bibipalous folded on the Flop
+Seat 6: Lorpugo collected ($0.14)
+
+
+
+PokerStars Hand #239211075697:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:14:27 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.24 in chips) 
+Seat 2: blessedbaboon11 ($2.69 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.98 in chips) 
+Seat 5: bibipalous ($1.94 in chips) 
+Seat 6: Lorpugo ($2.16 in chips) 
+Jan Carl92: posts small blind $0.01
+bibipalous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9d]
+Lorpugo: folds 
+hilarjo: raises $0.03 to $0.05
+blessedbaboon11: raises $0.09 to $0.14
+ninel7: folds 
+Jan Carl92: calls $0.13
+bibipalous: folds 
+hilarjo: folds 
+*** FLOP *** [5h 4h 8s]
+Jan Carl92: checks 
+blessedbaboon11: bets $2.55 and is all-in
+Jan Carl92: folds 
+Uncalled bet ($2.55) returned to blessedbaboon11
+blessedbaboon11 collected $0.34 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [5h 4h 8s]
+Seat 1: hilarjo folded before Flop
+Seat 2: blessedbaboon11 collected ($0.34)
+Seat 3: ninel7 (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) folded on the Flop
+Seat 5: bibipalous (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211090092:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:15:05 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: blessedbaboon11 ($2.89 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.84 in chips) 
+Seat 5: bibipalous ($1.92 in chips) 
+Seat 6: Lorpugo ($2.16 in chips) 
+bibipalous: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3s]
+hilarjo: raises $0.03 to $0.05
+blessedbaboon11: folds 
+ninel7: folds 
+Jan Carl92: folds 
+bibipalous: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Kc Jd Ah]
+Lorpugo: checks 
+hilarjo: checks 
+*** TURN *** [Kc Jd Ah] [8h]
+Lorpugo: checks 
+hilarjo: checks 
+*** RIVER *** [Kc Jd Ah 8h] [3h]
+Lorpugo: checks 
+hilarjo: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5s 3s] (a pair of Threes)
+hilarjo: shows [Td Tc] (a pair of Tens)
+hilarjo collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kc Jd Ah 8h 3h]
+Seat 1: hilarjo showed [Td Tc] and won ($0.11) with a pair of Tens
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: ninel7 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: bibipalous (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [5s 3s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #239211104378:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:15:44 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.25 in chips) 
+Seat 2: blessedbaboon11 ($2.89 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.84 in chips) 
+Seat 5: bibipalous ($1.91 in chips) 
+Seat 6: Lorpugo ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5s]
+blessedbaboon11: folds 
+ninel7: raises $0.04 to $0.06
+Jan Carl92: folds 
+bibipalous: folds 
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($0.04) returned to ninel7
+ninel7 collected $0.05 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: ninel7 collected ($0.05)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: bibipalous (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211115327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:16:13 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.23 in chips) 
+Seat 2: blessedbaboon11 ($2.89 in chips) 
+Seat 3: ninel7 ($1.53 in chips) 
+Seat 4: Jan Carl92 ($6.84 in chips) 
+Seat 5: bibipalous ($1.91 in chips) 
+Seat 6: Lorpugo ($2.10 in chips) 
+hilarjo: posts small blind $0.01
+blessedbaboon11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 4h]
+ninel7: folds 
+Jan Carl92: folds 
+bibipalous: raises $0.02 to $0.04
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: calls $0.02
+*** FLOP *** [Kh 2h Tc]
+blessedbaboon11: checks 
+bibipalous: bets $0.08
+blessedbaboon11: calls $0.08
+*** TURN *** [Kh 2h Tc] [2s]
+blessedbaboon11: checks 
+bibipalous: checks 
+*** RIVER *** [Kh 2h Tc 2s] [As]
+blessedbaboon11: checks 
+bibipalous: bets $0.12
+blessedbaboon11: calls $0.12
+*** SHOW DOWN ***
+bibipalous: shows [Ac 8s] (two pair, Aces and Deuces)
+blessedbaboon11: mucks hand 
+bibipalous collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kh 2h Tc 2s As]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 2: blessedbaboon11 (big blind) mucked [Qc Ks]
+Seat 3: ninel7 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: bibipalous showed [Ac 8s] and won ($0.47) with two pair, Aces and Deuces
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211125947:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:16:41 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.65 in chips) 
+Seat 3: ninel7 ($1.53 in chips) 
+Seat 4: Jan Carl92 ($6.84 in chips) 
+Seat 5: bibipalous ($2.14 in chips) 
+Seat 6: Lorpugo ($2.10 in chips) 
+blessedbaboon11: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ad]
+Jan Carl92: folds 
+bibipalous: folds 
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+blessedbaboon11: folds 
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (small blind) folded before Flop
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: bibipalous folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239211130866:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:16:55 ET
+Table 'Sabik' 6-max Seat #2 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.64 in chips) 
+Seat 3: ninel7 ($1.51 in chips) 
+Seat 4: Jan Carl92 ($6.84 in chips) 
+Seat 5: bibipalous ($2.14 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+ninel7: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 8h]
+bibipalous: calls $0.02
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: raises $0.07 to $0.09
+ninel7: folds 
+Jan Carl92: calls $0.07
+bibipalous: calls $0.07
+*** FLOP *** [3d 4s 7h]
+Jan Carl92: bets $0.08
+bibipalous: calls $0.08
+blessedbaboon11: calls $0.08
+*** TURN *** [3d 4s 7h] [7c]
+Jan Carl92: bets $0.12
+bibipalous: calls $0.12
+blessedbaboon11: folds 
+*** RIVER *** [3d 4s 7h 7c] [Ad]
+Jan Carl92: checks 
+bibipalous: bets $0.36
+Jan Carl92: folds 
+Uncalled bet ($0.36) returned to bibipalous
+bibipalous collected $0.73 from pot
+bibipalous: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [3d 4s 7h 7c Ad]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 (button) folded on the Turn
+Seat 3: ninel7 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) folded on the River
+Seat 5: bibipalous collected ($0.73)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211145541:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:17:34 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.47 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.55 in chips) 
+Seat 5: bibipalous ($2.58 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+Jan Carl92: posts small blind $0.01
+bibipalous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jc]
+Lorpugo: folds 
+hilarjo: folds 
+blessedbaboon11: folds 
+ninel7: folds 
+Jan Carl92: raises $0.02 to $0.04
+bibipalous: calls $0.02
+*** FLOP *** [Ad 7s Td]
+Jan Carl92: bets $0.03
+bibipalous: folds 
+Uncalled bet ($0.03) returned to Jan Carl92
+Jan Carl92 collected $0.08 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ad 7s Td]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: ninel7 (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) collected ($0.08)
+Seat 5: bibipalous (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211154596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:17:58 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.47 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.59 in chips) 
+Seat 5: bibipalous ($2.54 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+bibipalous: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9d]
+hilarjo: folds 
+blessedbaboon11: raises $0.02 to $0.04
+ninel7: folds 
+Jan Carl92: folds 
+bibipalous: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to blessedbaboon11
+blessedbaboon11 collected $0.05 from pot
+blessedbaboon11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: blessedbaboon11 collected ($0.05)
+Seat 3: ninel7 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: bibipalous (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239211163239:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:18:22 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.22 in chips) 
+Seat 2: blessedbaboon11 ($2.50 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.59 in chips) 
+Seat 5: bibipalous ($2.53 in chips) 
+Seat 6: Lorpugo ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td As]
+blessedbaboon11: folds 
+ninel7: folds 
+Jan Carl92: folds 
+bibipalous: folds 
+blessedbaboon11 leaves the table
+Lorpugo: raises $0.04 to $0.06
+hilarjo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: blessedbaboon11 folded before Flop (didn't bet)
+Seat 3: ninel7 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: bibipalous (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211168784:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:18:37 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.20 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.59 in chips) 
+Seat 5: bibipalous ($2.53 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+hilarjo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 4c]
+Jan Carl92: raises $0.04 to $0.06
+bibipalous: calls $0.06
+Lorpugo: folds 
+hilarjo: folds 
+ninel7: folds 
+*** FLOP *** [2h 6c 4h]
+Jan Carl92: checks 
+bibipalous: checks 
+*** TURN *** [2h 6c 4h] [9s]
+Jan Carl92: bets $0.09
+bibipalous: folds 
+Uncalled bet ($0.09) returned to Jan Carl92
+Jan Carl92 collected $0.14 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2h 6c 4h 9s]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 4: Jan Carl92 collected ($0.14)
+Seat 5: bibipalous folded on the Turn
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211181641:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:19:12 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.67 in chips) 
+Seat 5: bibipalous ($2.47 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+ninel7: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8h]
+bibipalous: folds 
+Lorpugo: folds 
+hilarjo: folds 
+ninel7: folds 
+Uncalled bet ($0.01) returned to Jan Carl92
+Jan Carl92 collected $0.02 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 3: ninel7 (small blind) folded before Flop
+Seat 4: Jan Carl92 (big blind) collected ($0.02)
+Seat 5: bibipalous folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211187243:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:19:27 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.68 in chips) 
+Seat 5: bibipalous ($2.47 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+Jan Carl92: posts small blind $0.01
+bibipalous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 4h]
+Lorpugo: folds 
+hilarjo: folds 
+naveenb123 joins the table at seat #2 
+ninel7: folds 
+Jan Carl92: raises $0.04 to $0.06
+bibipalous: calls $0.04
+*** FLOP *** [4d 2h Jc]
+Jan Carl92: bets $0.04
+bibipalous: raises $0.04 to $0.08
+Jan Carl92: calls $0.04
+*** TURN *** [4d 2h Jc] [Qh]
+Jan Carl92: checks 
+bibipalous: bets $0.08
+Jan Carl92: calls $0.08
+*** RIVER *** [4d 2h Jc Qh] [Qd]
+Jan Carl92: checks 
+bibipalous: bets $0.42
+Jan Carl92: calls $0.42
+*** SHOW DOWN ***
+bibipalous: shows [Jh Jd] (a full house, Jacks full of Queens)
+Jan Carl92: mucks hand 
+bibipalous collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.04 
+Board [4d 2h Jc Qh Qd]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 3: ninel7 (button) folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (small blind) mucked [Js 6s]
+Seat 5: bibipalous (big blind) showed [Jh Jd] and won ($1.24) with a full house, Jacks full of Queens
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211201564:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:20:05 ET
+Table 'Sabik' 6-max Seat #4 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: naveenb123 ($2 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 4: Jan Carl92 ($6.04 in chips) 
+Seat 5: bibipalous ($3.07 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+bibipalous: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+naveenb123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ad]
+hilarjo: folds 
+naveenb123: checks 
+ninel7: folds 
+Jan Carl92: raises $0.06 to $0.08
+bibipalous: calls $0.07
+Lorpugo: raises $0.22 to $0.30
+naveenb123: raises $1.70 to $2 and is all-in
+Jan Carl92: folds 
+bibipalous: folds 
+Lorpugo: calls $1.70
+*** FLOP *** [2c Qd Tc]
+*** TURN *** [2c Qd Tc] [Qh]
+*** RIVER *** [2c Qd Tc Qh] [9h]
+*** SHOW DOWN ***
+Lorpugo: shows [As Ad] (two pair, Aces and Queens)
+naveenb123: shows [8d 8h] (two pair, Queens and Eights)
+Lorpugo collected $4.01 from pot
+naveenb123 cashed out the hand for $0.77 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $4.16 | Rake $0.15 
+Board [2c Qd Tc Qh 9h]
+Seat 1: hilarjo folded before Flop (didn't bet)
+Seat 2: naveenb123 showed [8d 8h] and lost with two pair, Queens and Eights (cashed out).
+Seat 3: ninel7 folded before Flop (didn't bet)
+Seat 4: Jan Carl92 (button) folded before Flop
+Seat 5: bibipalous (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [As Ad] and won ($4.01) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #239211220616:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:20:57 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 1: hilarjo ($2.19 in chips) 
+Seat 2: naveenb123 ($0.77 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 5: bibipalous ($2.99 in chips) 
+Seat 6: Lorpugo ($4.14 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Qd]
+Jan Carl92 leaves the table
+naveenb123: calls $0.02
+ninel7: folds 
+bibipalous: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+hilarjo: folds 
+naveenb123: calls $0.08
+bibipalous: calls $0.08
+*** FLOP *** [Qh 2d 3h]
+Lorpugo: bets $0.14
+naveenb123: raises $0.53 to $0.67 and is all-in
+bibipalous: calls $0.67
+Lorpugo: raises $3.37 to $4.04 and is all-in
+bibipalous: calls $2.22 and is all-in
+Uncalled bet ($1.15) returned to Lorpugo
+*** TURN *** [Qh 2d 3h] [Js]
+*** RIVER *** [Qh 2d 3h Js] [Ks]
+*** SHOW DOWN ***
+Lorpugo: shows [Qc Qd] (three of a kind, Queens)
+bibipalous: shows [Qs Ad] (a pair of Queens)
+Lorpugo collected $4.28 from side pot
+naveenb123: shows [6s 5s] (high card King)
+Lorpugo collected $2.25 from main pot
+bibipalous cashed out the hand for $0.07
+*** SUMMARY ***
+Total pot $6.77 Main pot $2.25. Side pot $4.28. | Rake $0.24 
+Board [Qh 2d 3h Js Ks]
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 2: naveenb123 showed [6s 5s] and lost with high card King
+Seat 3: ninel7 folded before Flop (didn't bet)
+Seat 5: bibipalous (button) showed [Qs Ad] and lost with a pair of Queens (cashed out).
+Seat 6: Lorpugo (small blind) showed [Qc Qd] and won ($6.53) with three of a kind, Queens
+
+
+
+PokerStars Hand #239211247353:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:22:09 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.17 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 5: bibipalous ($0.07 in chips) 
+Seat 6: Lorpugo ($7.68 in chips) 
+hilarjo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 5d]
+bibipalous: raises $0.05 to $0.07 and is all-in
+Lorpugo: folds 
+hilarjo: folds 
+ninel7: calls $0.05
+ninel7 has timed out
+*** FLOP *** [5s 9s 8c]
+*** TURN *** [5s 9s 8c] [Ts]
+*** RIVER *** [5s 9s 8c Ts] [Qh]
+*** SHOW DOWN ***
+ninel7: shows [Kc 4s] (high card King)
+bibipalous: shows [6d Ah] (high card Ace)
+bibipalous collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5s 9s 8c Ts Qh]
+Seat 1: hilarjo (small blind) folded before Flop
+Seat 3: ninel7 (big blind) showed [Kc 4s] and lost with high card King
+Seat 5: bibipalous showed [6d Ah] and won ($0.14) with high card Ace
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211261081:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:22:46 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.16 in chips) 
+Seat 3: ninel7 ($1.50 in chips) 
+Seat 5: bibipalous ($0.14 in chips) 
+Seat 6: Lorpugo ($7.68 in chips) 
+ninel7: posts small blind $0.01
+bibipalous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2c]
+Lorpugo: folds 
+hilarjo: folds 
+ninel7: raises $0.04 to $0.06
+bibipalous: raises $0.08 to $0.14 and is all-in
+ninel7: calls $0.08
+*** FLOP *** [4d Kd 5d]
+*** TURN *** [4d Kd 5d] [Tc]
+*** RIVER *** [4d Kd 5d Tc] [6h]
+*** SHOW DOWN ***
+ninel7: shows [Jc Kc] (a pair of Kings)
+bibipalous: shows [Jh Qd] (high card King)
+ninel7 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4d Kd 5d Tc 6h]
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 3: ninel7 (small blind) showed [Jc Kc] and won ($0.27) with a pair of Kings
+Seat 5: bibipalous (big blind) showed [Jh Qd] and lost with high card King
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211269426:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:23:09 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 1: hilarjo ($2.16 in chips) 
+Seat 3: ninel7 ($1.63 in chips) 
+Seat 6: Lorpugo ($7.68 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4h]
+ninel7: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+hilarjo: folds 
+*** FLOP *** [7c 5h Kc]
+bibipalous leaves the table
+Lorpugo: checks 
+ninel7: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to ninel7
+ninel7 collected $0.12 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7c 5h Kc]
+Seat 1: hilarjo (big blind) folded before Flop
+Seat 3: ninel7 (button) collected ($0.12)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239211276314:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:23:28 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 1: hilarjo ($2.14 in chips) 
+Seat 3: ninel7 ($1.70 in chips) 
+Seat 6: Lorpugo ($7.63 in chips) 
+hilarjo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3s]
+Lorpugo: folds 
+hilarjo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to hilarjo
+hilarjo collected $0.04 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: hilarjo (small blind) collected ($0.04)
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211279168:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:23:35 ET
+Table 'Sabik' 6-max Seat #1 is the button
+Seat 1: hilarjo ($2.16 in chips) 
+Seat 3: ninel7 ($1.68 in chips) 
+Seat 6: Lorpugo ($7.63 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 6d]
+hilarjo: folds 
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: hilarjo (button) folded before Flop (didn't bet)
+Seat 3: ninel7 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211281362:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:23:41 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($1.67 in chips) 
+Seat 6: Lorpugo ($7.64 in chips) 
+Lorpugo: posts small blind $0.01
+hilarjo: is sitting out 
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qc]
+hilarjo leaves the table
+Lorpugo: raises $0.02 to $0.04
+ninel7: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211284355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:23:50 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($1.65 in chips) 
+Seat 6: Lorpugo ($7.66 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ks]
+ninel7: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+ninel7: calls $0.08
+*** FLOP *** [6d Qd 5d]
+Lorpugo: bets $0.02
+ninel7: raises $1.53 to $1.55 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.53) returned to ninel7
+ninel7 collected $0.23 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [6d Qd 5d]
+Seat 3: ninel7 (button) (small blind) collected ($0.23)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239211291906:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:24:10 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($1.76 in chips) 
+Seat 6: Lorpugo ($7.54 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8d]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211295771:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:24:21 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($1.74 in chips) 
+Seat 6: Lorpugo ($7.56 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5h]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211297453:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:24:26 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($1.73 in chips) 
+Seat 6: Lorpugo ($7.57 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 3s]
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to ninel7
+ninel7 collected $0.02 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (big blind) collected ($0.02)
+Seat 6: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211300435:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:24:34 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($1.74 in chips) 
+Seat 6: Lorpugo ($7.56 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 7s]
+ninel7: raises $0.02 to $0.04
+Lorpugo: raises $0.08 to $0.12
+ninel7: calls $0.08
+*** FLOP *** [5h Jc 8s]
+Lorpugo: checks 
+ninel7: checks 
+*** TURN *** [5h Jc 8s] [Js]
+Lorpugo: bets $0.11
+ninel7: calls $0.11
+*** RIVER *** [5h Jc 8s Js] [Jd]
+Lorpugo: checks 
+ninel7: bets $0.24
+Lorpugo: calls $0.24
+*** SHOW DOWN ***
+ninel7: shows [Th Td] (a full house, Jacks full of Tens)
+Lorpugo: mucks hand 
+ninel7 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [5h Jc 8s Js Jd]
+Seat 3: ninel7 (button) (small blind) showed [Th Td] and won ($0.91) with a full house, Jacks full of Tens
+Seat 6: Lorpugo (big blind) mucked [Ah 7s]
+
+
+
+PokerStars Hand #239211315873:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:25:16 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.18 in chips) 
+Seat 6: Lorpugo ($7.09 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7h]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211318168:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:25:22 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.16 in chips) 
+Seat 6: Lorpugo ($7.11 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3h]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211322758:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:25:35 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.15 in chips) 
+Seat 6: Lorpugo ($7.12 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Js]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211324990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:25:41 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.13 in chips) 
+Seat 6: Lorpugo ($7.14 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9s]
+ninel7: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [6h 8c 3d]
+Lorpugo: checks 
+ninel7: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to ninel7
+ninel7 collected $0.04 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6h 8c 3d]
+Seat 3: ninel7 (button) (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239211330756:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:25:57 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.15 in chips) 
+Seat 6: Lorpugo ($7.12 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2h]
+Lorpugo: raises $0.02 to $0.04
+ninel7: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211333234:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:26:04 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.13 in chips) 
+Seat 6: Lorpugo ($7.14 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 8c]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211334966:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:26:08 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.12 in chips) 
+Seat 6: Lorpugo ($7.15 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qd]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211337268:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:26:15 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.10 in chips) 
+Seat 6: Lorpugo ($7.17 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 7s]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211338967:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:26:19 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.09 in chips) 
+Seat 6: Lorpugo ($7.18 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ks]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211341872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:26:27 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.07 in chips) 
+Seat 6: Lorpugo ($7.20 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ad]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211343959:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:26:33 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.06 in chips) 
+Seat 6: Lorpugo ($7.21 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5h]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [Kd 7s 2h]
+ninel7: checks 
+Lorpugo: bets $0.04
+ninel7: calls $0.04
+*** TURN *** [Kd 7s 2h] [3h]
+ninel7: checks 
+Lorpugo: checks 
+*** RIVER *** [Kd 7s 2h 3h] [8d]
+ninel7: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+ninel7: shows [Ad Qc] (high card Ace)
+Lorpugo: mucks hand 
+ninel7 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kd 7s 2h 3h 8d]
+Seat 3: ninel7 (big blind) showed [Ad Qc] and won ($0.19) with high card Ace
+Seat 6: Lorpugo (button) (small blind) mucked [Tc 5h]
+
+
+
+PokerStars Hand #239211353839:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:27:00 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.15 in chips) 
+Seat 6: Lorpugo ($7.11 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Jh]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211355596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:27:05 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.14 in chips) 
+Seat 6: Lorpugo ($7.12 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c As]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211358264:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:27:13 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.12 in chips) 
+Seat 6: Lorpugo ($7.14 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Kd]
+ninel7: calls $0.01
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [5d 5c 3h]
+Lorpugo: bets $0.08
+ninel7: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5d 5c 3h]
+Seat 3: ninel7 (button) (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239211364325:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:27:29 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.06 in chips) 
+Seat 6: Lorpugo ($7.20 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6c]
+Lorpugo: calls $0.01
+ninel7: checks 
+*** FLOP *** [2d Jc 9d]
+ninel7: checks 
+Lorpugo: checks 
+*** TURN *** [2d Jc 9d] [8h]
+ninel7: checks 
+Lorpugo: checks 
+*** RIVER *** [2d Jc 9d 8h] [9c]
+ninel7: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+ninel7: shows [Ah Td] (a pair of Nines)
+Lorpugo: shows [2c 6c] (two pair, Nines and Deuces)
+Lorpugo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2d Jc 9d 8h 9c]
+Seat 3: ninel7 (big blind) showed [Ah Td] and lost with a pair of Nines
+Seat 6: Lorpugo (button) (small blind) showed [2c 6c] and won ($0.04) with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #239211371730:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:27:49 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.04 in chips) 
+Seat 6: Lorpugo ($7.22 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9s]
+ninel7: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [6h 5d 7c]
+Lorpugo: checks 
+ninel7: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [6h 5d 7c] [6d]
+Lorpugo: checks 
+ninel7: checks 
+*** RIVER *** [6h 5d 7c 6d] [Js]
+Lorpugo: bets $0.18
+ninel7: calls $0.18
+*** SHOW DOWN ***
+Lorpugo: shows [Qd 9s] (a pair of Sixes)
+ninel7: shows [Qc Jd] (two pair, Jacks and Sixes)
+ninel7 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [6h 5d 7c 6d Js]
+Seat 3: ninel7 (button) (small blind) showed [Qc Jd] and won ($0.50) with two pair, Jacks and Sixes
+Seat 6: Lorpugo (big blind) showed [Qd 9s] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #239211383659:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:28:22 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.28 in chips) 
+Seat 6: Lorpugo ($6.96 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9c]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [Qs Ac Jh]
+ninel7: checks 
+Lorpugo: bets $0.10
+ninel7: calls $0.10
+*** TURN *** [Qs Ac Jh] [6d]
+ninel7: checks 
+Lorpugo: bets $0.28
+ninel7: calls $0.28
+*** RIVER *** [Qs Ac Jh 6d] [Ts]
+ninel7: bets $0.02
+Lorpugo: calls $0.02
+*** SHOW DOWN ***
+ninel7: shows [As Ks] (a straight, Ten to Ace)
+Lorpugo: mucks hand 
+ninel7 collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [Qs Ac Jh 6d Ts]
+Seat 3: ninel7 (big blind) showed [As Ks] and won ($0.89) with a straight, Ten to Ace
+Seat 6: Lorpugo (button) (small blind) mucked [Ah 9c]
+
+
+
+PokerStars Hand #239211396797:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:28:57 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.71 in chips) 
+Seat 6: Lorpugo ($6.50 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Js]
+ninel7: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+ninel7: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211400956:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:29:09 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.69 in chips) 
+Seat 6: Lorpugo ($6.52 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9s]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [9h Qc 7s]
+ninel7: checks 
+Lorpugo: bets $0.08
+ninel7: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h Qc 7s]
+Seat 3: ninel7 (big blind) folded on the Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #239211410439:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:29:35 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.63 in chips) 
+Seat 6: Lorpugo ($6.58 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 6s]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211412212:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:29:40 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.62 in chips) 
+Seat 6: Lorpugo ($6.59 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 7d]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211415252:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:29:48 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.60 in chips) 
+Seat 6: Lorpugo ($6.61 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 4c]
+ninel7: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [Td 2c 9d]
+Lorpugo: checks 
+ninel7: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to ninel7
+ninel7 collected $0.08 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Td 2c 9d]
+Seat 3: ninel7 (button) (small blind) collected ($0.08)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239211420269:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:30:02 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.64 in chips) 
+Seat 6: Lorpugo ($6.57 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ks]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211422254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:30:08 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.62 in chips) 
+Seat 6: Lorpugo ($6.59 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5c]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211424285:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:30:12 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.61 in chips) 
+Seat 6: Lorpugo ($6.60 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 2h]
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to ninel7
+ninel7 collected $0.02 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (big blind) collected ($0.02)
+Seat 6: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211427243:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:30:21 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.62 in chips) 
+Seat 6: Lorpugo ($6.59 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7d]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211428901:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:30:25 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.61 in chips) 
+Seat 6: Lorpugo ($6.60 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ah]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211431758:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:30:33 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.59 in chips) 
+Seat 6: Lorpugo ($6.62 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3c]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211433690:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:30:38 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.58 in chips) 
+Seat 6: Lorpugo ($6.63 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8s]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [8d 8c 4c]
+ninel7: checks 
+Lorpugo: bets $0.06
+ninel7: calls $0.06
+*** TURN *** [8d 8c 4c] [4s]
+ninel7: checks 
+Lorpugo: bets $0.15
+ninel7: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8d 8c 4c 4s]
+Seat 3: ninel7 (big blind) folded on the Turn
+Seat 6: Lorpugo (button) (small blind) collected ($0.23)
+
+
+
+PokerStars Hand #239211442676:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:03 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.46 in chips) 
+Seat 6: Lorpugo ($6.74 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8h]
+ninel7: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [4h Ac 4c]
+Lorpugo: checks 
+ninel7: bets $0.08
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to ninel7
+ninel7 collected $0.08 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4h Ac 4c]
+Seat 3: ninel7 (button) (small blind) collected ($0.08)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239211447706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:16 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.50 in chips) 
+Seat 6: Lorpugo ($6.70 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Qs]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211449645:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:22 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.48 in chips) 
+Seat 6: Lorpugo ($6.72 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s As]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211451393:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:26 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.47 in chips) 
+Seat 6: Lorpugo ($6.73 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9s]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [2c As 9h]
+ninel7: checks 
+Lorpugo: bets $0.06
+ninel7: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2c As 9h]
+Seat 3: ninel7 (big blind) folded on the Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #239211456842:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:41 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.41 in chips) 
+Seat 6: Lorpugo ($6.79 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 2d]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211458580:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:46 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.40 in chips) 
+Seat 6: Lorpugo ($6.80 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 3s]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211460538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:52 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.38 in chips) 
+Seat 6: Lorpugo ($6.82 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 7c]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211462401:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:31:57 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.37 in chips) 
+Seat 6: Lorpugo ($6.83 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7c]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211464588:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:32:03 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.35 in chips) 
+Seat 6: Lorpugo ($6.85 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9h]
+ninel7: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [6s Ts 2c]
+Lorpugo: checks 
+ninel7: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [6s Ts 2c] [8d]
+Lorpugo: checks 
+ninel7: checks 
+*** RIVER *** [6s Ts 2c 8d] [5h]
+Lorpugo: bets $0.02
+ninel7: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [2h 9h] (a pair of Deuces)
+ninel7: shows [2s As] (a pair of Deuces - Ace kicker)
+ninel7 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6s Ts 2c 8d 5h]
+Seat 3: ninel7 (button) (small blind) showed [2s As] and won ($0.19) with a pair of Deuces
+Seat 6: Lorpugo (big blind) showed [2h 9h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #239211472480:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:32:24 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.44 in chips) 
+Seat 6: Lorpugo ($6.75 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 4h]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [Qh 3h Kc]
+ninel7: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to ninel7
+ninel7 collected $0.12 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qh 3h Kc]
+Seat 3: ninel7 (big blind) collected ($0.12)
+Seat 6: Lorpugo (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239211476833:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:32:36 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.50 in chips) 
+Seat 6: Lorpugo ($6.69 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Qc]
+ninel7: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [8d Jd Qd]
+Lorpugo: checks 
+ninel7: bets $2.46 and is all-in
+Lorpugo: folds 
+Uncalled bet ($2.46) returned to ninel7
+ninel7 collected $0.08 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8d Jd Qd]
+Seat 3: ninel7 (button) (small blind) collected ($0.08)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239211482506:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:32:52 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.54 in chips) 
+Seat 6: Lorpugo ($6.65 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5h]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [Qd 9c 3c]
+ninel7: checks 
+Lorpugo: checks 
+*** TURN *** [Qd 9c 3c] [2s]
+ninel7: checks 
+Lorpugo: checks 
+*** RIVER *** [Qd 9c 3c 2s] [Td]
+ninel7: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+ninel7: shows [8d Kd] (high card King)
+Lorpugo: mucks hand 
+ninel7 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qd 9c 3c 2s Td]
+Seat 3: ninel7 (big blind) showed [8d Kd] and won ($0.12) with high card King
+Seat 6: Lorpugo (button) (small blind) mucked [Ks 5h]
+
+
+
+PokerStars Hand #239211490135:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:33:12 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.60 in chips) 
+Seat 6: Lorpugo ($6.59 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8c]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211492031:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:33:18 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.59 in chips) 
+Seat 6: Lorpugo ($6.60 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Jh]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211494002:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:33:23 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.57 in chips) 
+Seat 6: Lorpugo ($6.62 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4s]
+ninel7: raises $0.02 to $0.04
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to ninel7
+ninel7 collected $0.04 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (button) (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239211496918:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:33:31 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.59 in chips) 
+Seat 6: Lorpugo ($6.60 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3c]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211498969:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:33:36 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.57 in chips) 
+Seat 6: Lorpugo ($6.62 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 7s]
+ninel7: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to ninel7
+ninel7 collected $0.04 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (button) (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239211502322:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:33:46 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.59 in chips) 
+Seat 6: Lorpugo ($6.60 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [4s Ks 9s]
+ninel7: checks 
+Lorpugo: checks 
+*** TURN *** [4s Ks 9s] [Ac]
+ninel7: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to ninel7
+ninel7 collected $0.12 from pot
+ninel7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s Ks 9s Ac]
+Seat 3: ninel7 (big blind) collected ($0.12)
+Seat 6: Lorpugo (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239211508143:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:34:02 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.65 in chips) 
+Seat 6: Lorpugo ($6.54 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kd]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211509762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:34:06 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.64 in chips) 
+Seat 6: Lorpugo ($6.55 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3s]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211511931:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:34:12 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.62 in chips) 
+Seat 6: Lorpugo ($6.57 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Jh]
+ninel7: raises $0.02 to $0.04
+Lorpugo: raises $0.08 to $0.12
+ninel7: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.08)
+
+
+
+PokerStars Hand #239211515368:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:34:22 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.58 in chips) 
+Seat 6: Lorpugo ($6.61 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Qs]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: ninel7 (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211517841:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:34:29 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.56 in chips) 
+Seat 6: Lorpugo ($6.63 in chips) 
+ninel7: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 4h]
+ninel7: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211519604:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:34:33 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.55 in chips) 
+Seat 6: Lorpugo ($6.64 in chips) 
+Lorpugo: posts small blind $0.01
+ninel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Ac]
+Lorpugo: raises $0.04 to $0.06
+ninel7: calls $0.04
+*** FLOP *** [4s 5h 5c]
+ninel7: checks 
+Lorpugo: bets $0.06
+Malagasypro joins the table at seat #5 
+ninel7: calls $0.06
+*** TURN *** [4s 5h 5c] [3h]
+ninel7: checks 
+Lorpugo: checks 
+*** RIVER *** [4s 5h 5c 3h] [Jc]
+ninel7: checks 
+Lorpugo: bets $0.20
+ninel7: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4s 5h 5c 3h Jc]
+Seat 3: ninel7 (big blind) folded on the River
+Seat 6: Lorpugo (button) (small blind) collected ($0.23)
+
+
+
+PokerStars Hand #239211529693:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:35:01 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 3: ninel7 ($2.43 in chips) 
+Seat 5: Malagasypro ($0.80 in chips) 
+Seat 6: Lorpugo ($6.75 in chips) 
+ninel7: posts small blind $0.01
+Malagasypro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 8d]
+Lorpugo: raises $0.04 to $0.06
+ninel7: folds 
+Malagasypro: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: ninel7 (small blind) folded before Flop
+Seat 5: Malagasypro (big blind) folded before Flop
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #239211533274:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:35:11 ET
+Table 'Sabik' 6-max Seat #3 is the button
+Seat 3: ninel7 ($2.42 in chips) 
+Seat 5: Malagasypro ($0.78 in chips) 
+Seat 6: Lorpugo ($6.78 in chips) 
+Malagasypro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qc]
+ninel7: folds 
+Malagasypro: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+ninel7 leaves the table
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: ninel7 (button) folded before Flop (didn't bet)
+Seat 5: Malagasypro (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211535687:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:35:18 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 5: Malagasypro ($0.77 in chips) 
+Seat 6: Lorpugo ($6.79 in chips) 
+Lorpugo: posts small blind $0.01
+Malagasypro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6d]
+Lorpugo: raises $0.04 to $0.06
+Malagasypro: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 5: Malagasypro (big blind) folded before Flop
+Seat 6: Lorpugo (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239211538680:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:35:26 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 5: Malagasypro ($0.75 in chips) 
+Seat 6: Lorpugo ($6.81 in chips) 
+Malagasypro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 7s]
+Malagasypro: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 5: Malagasypro (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239211540298:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:35:30 ET
+Table 'Sabik' 6-max Seat #6 is the button
+Seat 5: Malagasypro ($0.74 in chips) 
+Seat 6: Lorpugo ($6.82 in chips) 
+Lorpugo: posts small blind $0.01
+Malagasypro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3h]
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Malagasypro
+Malagasypro collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 5: Malagasypro (big blind) collected ($0.02)
+Seat 6: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211542013:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:35:35 ET
+Table 'Sabik' 6-max Seat #5 is the button
+Seat 5: Malagasypro ($0.75 in chips) 
+Seat 6: Lorpugo ($6.81 in chips) 
+Malagasypro: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7d]
+Malagasypro: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Malagasypro leaves the table
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 5: Malagasypro (button) (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+

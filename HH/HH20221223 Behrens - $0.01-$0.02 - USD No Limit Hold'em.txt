@@ -1,0 +1,388 @@
+﻿PokerStars Hand #240641867271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:28:13 ET
+Table 'Behrens' 6-max Seat #6 is the button
+Seat 1: cauevg ($1.88 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Angelführer ($3.41 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2 in chips) 
+Seat 5: Manu_Sbg ($2.07 in chips) 
+Seat 6: SebalierSaber ($2.71 in chips) 
+cauevg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qh]
+Angelführer: raises $0.04 to $0.06
+MrMaxxxxxxxxxx: folds 
+Manu_Sbg: calls $0.06
+SebalierSaber: folds 
+cauevg: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [Th 3c 8d]
+cauevg: checks 
+Angelführer: bets $0.25
+Manu_Sbg: folds 
+cauevg: raises $0.51 to $0.76
+Angelführer: raises $2.59 to $3.35 and is all-in
+cauevg: calls $1.06 and is all-in
+Uncalled bet ($1.53) returned to Angelführer
+*** TURN *** [Th 3c 8d] [3h]
+*** RIVER *** [Th 3c 8d 3h] [2s]
+*** SHOW DOWN ***
+cauevg: shows [Qs Ts] (two pair, Tens and Threes)
+Angelführer: shows [As Ac] (two pair, Aces and Threes)
+Angelführer cashed out the hand for $2.93 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.84 | Rake $0.13 
+Board [Th 3c 8d 3h 2s]
+Seat 1: cauevg (small blind) showed [Qs Ts] and lost with two pair, Tens and Threes
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Angelführer showed [As Ac] and won ($3.71) with two pair, Aces and Threes (pot not awarded as player cashed out)
+Seat 4: MrMaxxxxxxxxxx folded before Flop (didn't bet)
+Seat 5: Manu_Sbg folded on the Flop
+Seat 6: SebalierSaber (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641881509:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:28:58 ET
+Table 'Behrens' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: Angelführer ($4.46 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2 in chips) 
+Seat 5: Manu_Sbg ($2.01 in chips) 
+Seat 6: SebalierSaber ($2.71 in chips) 
+Angelführer: posts small blind $0.01
+MrMaxxxxxxxxxx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jh]
+Manu_Sbg: folds 
+SebalierSaber: folds 
+Lorpugo: folds 
+Angelführer: raises $0.04 to $0.06
+MrMaxxxxxxxxxx: calls $0.04
+*** FLOP *** [2s Td 8d]
+Angelführer: bets $0.02
+MrMaxxxxxxxxxx: calls $0.02
+*** TURN *** [2s Td 8d] [Qs]
+Angelführer: bets $0.02
+MrMaxxxxxxxxxx: calls $0.02
+*** RIVER *** [2s Td 8d Qs] [8h]
+Angelführer: bets $0.02
+MrMaxxxxxxxxxx: raises $0.07 to $0.09
+Angelführer: calls $0.07
+*** SHOW DOWN ***
+MrMaxxxxxxxxxx: shows [Qc 9c] (two pair, Queens and Eights)
+Angelführer: mucks hand 
+MrMaxxxxxxxxxx collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [2s Td 8d Qs 8h]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Angelführer (small blind) mucked [Ad Kc]
+Seat 4: MrMaxxxxxxxxxx (big blind) showed [Qc 9c] and won ($0.37) with two pair, Queens and Eights
+Seat 5: Manu_Sbg folded before Flop (didn't bet)
+Seat 6: SebalierSaber folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641891703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:29:31 ET
+Table 'Behrens' 6-max Seat #3 is the button
+Seat 1: cauevg ($2 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: Angelführer ($4.27 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.18 in chips) 
+Seat 5: Manu_Sbg ($2.01 in chips) 
+Seat 6: SebalierSaber ($2.71 in chips) 
+MrMaxxxxxxxxxx: posts small blind $0.01
+Manu_Sbg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Jc]
+SebalierSaber: folds 
+cauevg: folds 
+Lorpugo: folds 
+Angelführer: folds 
+MrMaxxxxxxxxxx: folds 
+Uncalled bet ($0.01) returned to Manu_Sbg
+Manu_Sbg collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: cauevg folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Angelführer (button) folded before Flop (didn't bet)
+Seat 4: MrMaxxxxxxxxxx (small blind) folded before Flop
+Seat 5: Manu_Sbg (big blind) collected ($0.02)
+Seat 6: SebalierSaber folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641895167:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:29:43 ET
+Table 'Behrens' 6-max Seat #4 is the button
+Seat 1: cauevg ($2 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: Angelführer ($4.27 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.17 in chips) 
+Seat 5: Manu_Sbg ($2.02 in chips) 
+Seat 6: SebalierSaber ($2.71 in chips) 
+Manu_Sbg: posts small blind $0.01
+SebalierSaber: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 5h]
+cauevg: calls $0.02
+Lorpugo: folds 
+Angelführer: folds 
+MrMaxxxxxxxxxx: folds 
+Manu_Sbg: calls $0.01
+Angelführer leaves the table
+SebalierSaber: checks 
+*** FLOP *** [Js 4h 6c]
+Manu_Sbg: checks 
+SebalierSaber: checks 
+cauevg: checks 
+*** TURN *** [Js 4h 6c] [5s]
+Manu_Sbg: bets $0.02
+Tony-Broke joins the table at seat #3 
+SebalierSaber: raises $0.11 to $0.13
+cauevg: calls $0.13
+Manu_Sbg: folds 
+*** RIVER *** [Js 4h 6c 5s] [Qd]
+SebalierSaber: bets $0.22
+cauevg: folds 
+Uncalled bet ($0.22) returned to SebalierSaber
+SebalierSaber collected $0.33 from pot
+SebalierSaber: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Js 4h 6c 5s Qd]
+Seat 1: cauevg folded on the River
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Angelführer folded before Flop (didn't bet)
+Seat 4: MrMaxxxxxxxxxx (button) folded before Flop (didn't bet)
+Seat 5: Manu_Sbg (small blind) folded on the Turn
+Seat 6: SebalierSaber (big blind) collected ($0.33)
+
+
+
+PokerStars Hand #240641908712:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:30:26 ET
+Table 'Behrens' 6-max Seat #5 is the button
+Seat 1: cauevg ($1.85 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.17 in chips) 
+Seat 5: Manu_Sbg ($2 in chips) 
+Seat 6: SebalierSaber ($2.89 in chips) 
+SebalierSaber: posts small blind $0.01
+cauevg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 8d]
+Lorpugo: folds 
+MrMaxxxxxxxxxx: folds 
+Manu_Sbg: folds 
+SebalierSaber: folds 
+Uncalled bet ($0.01) returned to cauevg
+cauevg collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: cauevg (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: MrMaxxxxxxxxxx folded before Flop (didn't bet)
+Seat 5: Manu_Sbg (button) folded before Flop (didn't bet)
+Seat 6: SebalierSaber (small blind) folded before Flop
+
+
+
+PokerStars Hand #240641912594:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:30:39 ET
+Table 'Behrens' 6-max Seat #6 is the button
+Seat 1: cauevg ($1.86 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.17 in chips) 
+Seat 5: Manu_Sbg ($2 in chips) 
+Seat 6: SebalierSaber ($2.88 in chips) 
+cauevg: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Tc]
+MrMaxxxxxxxxxx: raises $0.04 to $0.06
+Manu_Sbg: folds 
+SebalierSaber: folds 
+cauevg: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to MrMaxxxxxxxxxx
+MrMaxxxxxxxxxx collected $0.05 from pot
+MrMaxxxxxxxxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cauevg (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: MrMaxxxxxxxxxx collected ($0.05)
+Seat 5: Manu_Sbg folded before Flop (didn't bet)
+Seat 6: SebalierSaber (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641917713:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:30:56 ET
+Table 'Behrens' 6-max Seat #1 is the button
+Seat 1: cauevg ($1.85 in chips) 
+Seat 2: Lorpugo ($1.56 in chips) 
+Seat 3: Tony-Broke ($2 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.20 in chips) 
+Seat 5: Manu_Sbg ($2 in chips) 
+Seat 6: SebalierSaber ($2.88 in chips) 
+Lorpugo: posts small blind $0.01
+Tony-Broke: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 7d]
+MrMaxxxxxxxxxx: raises $0.02 to $0.04
+Manu_Sbg: calls $0.04
+SebalierSaber: folds 
+cauevg: folds 
+Lorpugo: raises $0.10 to $0.14
+Tony-Broke: folds 
+MrMaxxxxxxxxxx: folds 
+Manu_Sbg: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: cauevg (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.14)
+Seat 3: Tony-Broke (big blind) folded before Flop
+Seat 4: MrMaxxxxxxxxxx folded before Flop
+Seat 5: Manu_Sbg folded before Flop
+Seat 6: SebalierSaber folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641926922:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:31:25 ET
+Table 'Behrens' 6-max Seat #2 is the button
+Seat 1: cauevg ($1.85 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: Tony-Broke ($2 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.16 in chips) 
+Seat 5: Manu_Sbg ($2 in chips) 
+Seat 6: SebalierSaber ($2.88 in chips) 
+Tony-Broke: posts small blind $0.01
+MrMaxxxxxxxxxx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 3d]
+Manu_Sbg: folds 
+SebalierSaber: folds 
+cauevg: calls $0.02
+Lorpugo: folds 
+Tony-Broke: calls $0.01
+MrMaxxxxxxxxxx: checks 
+*** FLOP *** [2s 5d Th]
+Tony-Broke: checks 
+MrMaxxxxxxxxxx: checks 
+cauevg: checks 
+*** TURN *** [2s 5d Th] [4c]
+Tony-Broke: checks 
+MrMaxxxxxxxxxx: bets $0.03
+cauevg: folds 
+Tony-Broke: folds 
+Uncalled bet ($0.03) returned to MrMaxxxxxxxxxx
+MrMaxxxxxxxxxx collected $0.06 from pot
+MrMaxxxxxxxxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2s 5d Th 4c]
+Seat 1: cauevg folded on the Turn
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Tony-Broke (small blind) folded on the Turn
+Seat 4: MrMaxxxxxxxxxx (big blind) collected ($0.06)
+Seat 5: Manu_Sbg folded before Flop (didn't bet)
+Seat 6: SebalierSaber folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641937832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:32:00 ET
+Table 'Behrens' 6-max Seat #3 is the button
+Seat 1: cauevg ($1.83 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: Tony-Broke ($2 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.20 in chips) 
+Seat 5: Manu_Sbg ($2 in chips) 
+Seat 6: SebalierSaber ($2.88 in chips) 
+MrMaxxxxxxxxxx: posts small blind $0.01
+Manu_Sbg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Qs]
+SebalierSaber: folds 
+cauevg: folds 
+Lorpugo: folds 
+Tony-Broke: folds 
+MrMaxxxxxxxxxx: folds 
+Uncalled bet ($0.01) returned to Manu_Sbg
+Manu_Sbg collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: cauevg folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Tony-Broke (button) folded before Flop (didn't bet)
+Seat 4: MrMaxxxxxxxxxx (small blind) folded before Flop
+Seat 5: Manu_Sbg (big blind) collected ($0.02)
+Seat 6: SebalierSaber folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240641942377:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:32:15 ET
+Table 'Behrens' 6-max Seat #4 is the button
+Seat 1: cauevg ($1.83 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: Tony-Broke ($2 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.19 in chips) 
+Seat 5: Manu_Sbg ($2.01 in chips) 
+Seat 6: SebalierSaber ($2.88 in chips) 
+Manu_Sbg: posts small blind $0.01
+SebalierSaber: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8c]
+cauevg: folds 
+Lorpugo: raises $0.10 to $0.12
+Tony-Broke: folds 
+MrMaxxxxxxxxxx: folds 
+Manu_Sbg: folds 
+SebalierSaber: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cauevg folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: Tony-Broke folded before Flop (didn't bet)
+Seat 4: MrMaxxxxxxxxxx (button) folded before Flop (didn't bet)
+Seat 5: Manu_Sbg (small blind) folded before Flop
+Seat 6: SebalierSaber (big blind) folded before Flop
+
+
+
+PokerStars Hand #240641950456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 11:32:41 ET
+Table 'Behrens' 6-max Seat #5 is the button
+Seat 1: cauevg ($1.83 in chips) 
+Seat 2: Lorpugo ($1.69 in chips) 
+Seat 3: Tony-Broke ($2 in chips) 
+Seat 4: MrMaxxxxxxxxxx ($2.19 in chips) 
+Seat 5: Manu_Sbg ($2 in chips) 
+Seat 6: SebalierSaber ($2.86 in chips) 
+SebalierSaber: posts small blind $0.01
+cauevg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 2h]
+Lorpugo: raises $0.04 to $0.06
+Tony-Broke: folds 
+MrMaxxxxxxxxxx: folds 
+Manu_Sbg: raises $0.15 to $0.21
+SebalierSaber: folds 
+cauevg: folds 
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Manu_Sbg
+Manu_Sbg collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: cauevg (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: Tony-Broke folded before Flop (didn't bet)
+Seat 4: MrMaxxxxxxxxxx folded before Flop (didn't bet)
+Seat 5: Manu_Sbg (button) collected ($0.15)
+Seat 6: SebalierSaber (small blind) folded before Flop
+
+
+

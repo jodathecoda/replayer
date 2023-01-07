@@ -1,0 +1,1169 @@
+﻿PokerStars Hand #239395332860:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:23:32 ET
+Table 'Morosovia II' 6-max Seat #2 is the button
+Seat 1: Olivier Lang ($2.06 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($3.84 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.55 in chips) 
+Seat 6: (BäST23) ($1.76 in chips) 
+Quad Jacks21: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 6c]
+g1957b: folds 
+(BäST23): raises $0.05 to $0.07
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to (BäST23)
+(BäST23) collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Olivier Lang folded before Flop (didn't bet)
+Seat 2: 8abyStack (button) folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: g1957b folded before Flop (didn't bet)
+Seat 6: (BäST23) collected ($0.05)
+
+
+
+PokerStars Hand #239395336002:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:23:50 ET
+Table 'Morosovia II' 6-max Seat #3 is the button
+Seat 1: Olivier Lang ($2.06 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($3.83 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.55 in chips) 
+Seat 6: (BäST23) ($1.79 in chips) 
+Lorpugo: posts small blind $0.01
+g1957b: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5d]
+(BäST23): folds 
+Olivier Lang: calls $0.02
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: checks 
+*** FLOP *** [2d As 8s]
+g1957b: checks 
+Olivier Lang: checks 
+*** TURN *** [2d As 8s] [Tc]
+g1957b: checks 
+Olivier Lang: bets $0.04
+g1957b: calls $0.04
+*** RIVER *** [2d As 8s Tc] [Ks]
+g1957b: checks 
+Olivier Lang: checks 
+*** SHOW DOWN ***
+g1957b: shows [9c Js] (high card Ace)
+Olivier Lang: shows [Jd Th] (a pair of Tens)
+Olivier Lang collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d As 8s Tc Ks]
+Seat 1: Olivier Lang showed [Jd Th] and won ($0.13) with a pair of Tens
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: g1957b (big blind) showed [9c Js] and lost with high card Ace
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395342303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:24:26 ET
+Table 'Morosovia II' 6-max Seat #4 is the button
+Seat 1: Olivier Lang ($2.13 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($3.83 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.49 in chips) 
+Seat 6: (BäST23) ($1.79 in chips) 
+g1957b: posts small blind $0.01
+(BäST23): posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 2s]
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: raises $0.04 to $0.06
+Lorpugo: folds 
+g1957b: folds 
+(BäST23): calls $0.04
+*** FLOP *** [Th 4h 6d]
+(BäST23): bets $0.13
+Quad Jacks21: calls $0.13
+*** TURN *** [Th 4h 6d] [4d]
+(BäST23): bets $0.38
+Quad Jacks21: calls $0.38
+*** RIVER *** [Th 4h 6d 4d] [Ad]
+(BäST23): bets $1.11
+Quad Jacks21: calls $1.11
+*** SHOW DOWN ***
+(BäST23): shows [Ts 8c] (two pair, Tens and Fours)
+Quad Jacks21: shows [As 7s] (two pair, Aces and Fours)
+Quad Jacks21 collected $3.25 from pot
+*** SUMMARY ***
+Total pot $3.37 | Rake $0.12 
+Board [Th 4h 6d 4d Ad]
+Seat 1: Olivier Lang folded before Flop (didn't bet)
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 showed [As 7s] and won ($3.25) with two pair, Aces and Fours
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: g1957b (small blind) folded before Flop
+Seat 6: (BäST23) (big blind) showed [Ts 8c] and lost with two pair, Tens and Fours
+
+
+
+PokerStars Hand #239395350019:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:25:10 ET
+Table 'Morosovia II' 6-max Seat #5 is the button
+Seat 1: Olivier Lang ($2.13 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($5.40 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.48 in chips) 
+Seat 6: (BäST23) ($0.11 in chips) 
+(BäST23): posts small blind $0.01
+Olivier Lang: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3d]
+8abyStack: folds 
+Quad Jacks21: raises $0.04 to $0.06
+Lorpugo: folds 
+g1957b: calls $0.06
+(BäST23): folds 
+Olivier Lang: folds 
+*** FLOP *** [Jd 2h 7s]
+Quad Jacks21: checks 
+g1957b: checks 
+*** TURN *** [Jd 2h 7s] [5h]
+Quad Jacks21: checks 
+g1957b: checks 
+*** RIVER *** [Jd 2h 7s 5h] [Qc]
+Quad Jacks21: checks 
+g1957b: bets $0.04
+Quad Jacks21: calls $0.04
+*** SHOW DOWN ***
+g1957b: shows [Kd Jh] (a pair of Jacks)
+Quad Jacks21: mucks hand 
+g1957b collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jd 2h 7s 5h Qc]
+Seat 1: Olivier Lang (big blind) folded before Flop
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 mucked [3s As]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b (button) showed [Kd Jh] and won ($0.22) with a pair of Jacks
+Seat 6: (BäST23) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239395355344:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:25:41 ET
+Table 'Morosovia II' 6-max Seat #6 is the button
+Seat 1: Olivier Lang ($2.11 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($5.30 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.60 in chips) 
+Seat 6: (BäST23) ($2 in chips) 
+Olivier Lang: posts small blind $0.01
+8abyStack: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5s]
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: folds 
+(BäST23): raises $0.10 to $0.12
+Olivier Lang: folds 
+8abyStack: folds 
+Uncalled bet ($0.10) returned to (BäST23)
+(BäST23) collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Olivier Lang (small blind) folded before Flop
+Seat 2: 8abyStack (big blind) folded before Flop
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b folded before Flop (didn't bet)
+Seat 6: (BäST23) (button) collected ($0.05)
+
+
+
+PokerStars Hand #239395358801:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:26:00 ET
+Table 'Morosovia II' 6-max Seat #1 is the button
+Seat 1: Olivier Lang ($2.10 in chips) 
+Seat 2: 8abyStack ($1.85 in chips) 
+Seat 3: Quad Jacks21 ($5.30 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.60 in chips) 
+Seat 6: (BäST23) ($2.03 in chips) 
+8abyStack: posts small blind $0.01
+Quad Jacks21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Qd]
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): folds 
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: checks 
+*** FLOP *** [6h 3h Ts]
+Quad Jacks21: checks 
+g1957b: checks 
+*** TURN *** [6h 3h Ts] [6s]
+Quad Jacks21: checks 
+g1957b: checks 
+*** RIVER *** [6h 3h Ts 6s] [8c]
+Quad Jacks21: checks 
+g1957b: checks 
+*** SHOW DOWN ***
+Quad Jacks21: shows [2c 7h] (a pair of Sixes)
+g1957b: shows [9s 2s] (a pair of Sixes - Ten+Nine kicker)
+g1957b collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h 3h Ts 6s 8c]
+Seat 1: Olivier Lang (button) folded before Flop (didn't bet)
+Seat 2: 8abyStack (small blind) folded before Flop
+Seat 3: Quad Jacks21 (big blind) showed [2c 7h] and lost with a pair of Sixes
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b showed [9s 2s] and won ($0.05) with a pair of Sixes
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395362247:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:26:21 ET
+Table 'Morosovia II' 6-max Seat #2 is the button
+Seat 1: Olivier Lang ($2.10 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($5.28 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.63 in chips) 
+Seat 6: (BäST23) ($2.03 in chips) 
+Quad Jacks21: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Qs]
+g1957b: folds 
+(BäST23): folds 
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Olivier Lang folded before Flop (didn't bet)
+Seat 2: 8abyStack (button) folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: g1957b folded before Flop (didn't bet)
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395363591:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:26:28 ET
+Table 'Morosovia II' 6-max Seat #3 is the button
+Seat 1: Olivier Lang ($2.10 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($5.27 in chips) 
+Seat 4: Lorpugo ($1.61 in chips) 
+Seat 5: g1957b ($1.63 in chips) 
+Seat 6: (BäST23) ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+g1957b: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Ts]
+(BäST23): folds 
+Olivier Lang: raises $0.04 to $0.06
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: calls $0.05
+g1957b: calls $0.04
+*** FLOP *** [7c Tc 5d]
+Lorpugo: checks 
+g1957b: checks 
+Olivier Lang: bets $0.04
+Lorpugo: raises $0.15 to $0.19
+g1957b: folds 
+Olivier Lang: calls $0.15
+*** TURN *** [7c Tc 5d] [9h]
+Lorpugo: bets $1.36 and is all-in
+Olivier Lang: calls $1.36
+*** RIVER *** [7c Tc 5d 9h] [As]
+*** SHOW DOWN ***
+Lorpugo: shows [Jh Ts] (a pair of Tens)
+Olivier Lang: shows [Qd Td] (a pair of Tens - Ace+Queen kicker)
+Olivier Lang cashed out the hand for $2.63 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.11 
+Board [7c Tc 5d 9h As]
+Seat 1: Olivier Lang showed [Qd Td] and won ($3.17) with a pair of Tens (pot not awarded as player cashed out)
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) showed [Jh Ts] and lost with a pair of Tens
+Seat 5: g1957b (big blind) folded on the Flop
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395374224:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:27:29 ET
+Table 'Morosovia II' 6-max Seat #4 is the button
+Seat 1: Olivier Lang ($3.12 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($5.27 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($1.57 in chips) 
+Seat 6: (BäST23) ($2.03 in chips) 
+g1957b: posts small blind $0.01
+(BäST23): posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Kc]
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: raises $0.04 to $0.06
+g1957b: calls $0.05
+(BäST23): folds 
+*** FLOP *** [2d Jd 2h]
+g1957b: checks 
+Lorpugo: checks 
+*** TURN *** [2d Jd 2h] [9s]
+g1957b: checks 
+Lorpugo: bets $0.09
+g1957b: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2d Jd 2h 9s]
+Seat 1: Olivier Lang folded before Flop (didn't bet)
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.14)
+Seat 5: g1957b (small blind) folded on the Turn
+Seat 6: (BäST23) (big blind) folded before Flop
+
+
+
+PokerStars Hand #239395379903:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:28:02 ET
+Table 'Morosovia II' 6-max Seat #5 is the button
+Seat 1: Olivier Lang ($3.12 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($5.27 in chips) 
+Seat 4: Lorpugo ($1.68 in chips) 
+Seat 5: g1957b ($1.51 in chips) 
+Seat 6: (BäST23) ($2.01 in chips) 
+(BäST23): posts small blind $0.01
+Olivier Lang: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7h]
+8abyStack: folds 
+Quad Jacks21: raises $0.04 to $0.06
+Lorpugo: folds 
+g1957b: calls $0.06
+(BäST23): folds 
+Olivier Lang: calls $0.04
+*** FLOP *** [Kh Ks 2s]
+Olivier Lang: checks 
+Quad Jacks21: bets $0.11
+g1957b: calls $0.11
+Olivier Lang: folds 
+*** TURN *** [Kh Ks 2s] [5h]
+Quad Jacks21: checks 
+g1957b: checks 
+*** RIVER *** [Kh Ks 2s 5h] [Ts]
+Quad Jacks21: bets $0.24
+g1957b: folds 
+Uncalled bet ($0.24) returned to Quad Jacks21
+Quad Jacks21 collected $0.40 from pot
+Quad Jacks21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Kh Ks 2s 5h Ts]
+Seat 1: Olivier Lang (big blind) folded on the Flop
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 collected ($0.40)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b (button) folded on the River
+Seat 6: (BäST23) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239395388865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:28:54 ET
+Table 'Morosovia II' 6-max Seat #6 is the button
+Seat 1: Olivier Lang ($3.06 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($5.50 in chips) 
+Seat 4: Lorpugo ($1.68 in chips) 
+Seat 5: g1957b ($1.34 in chips) 
+Seat 6: (BäST23) ($2 in chips) 
+Olivier Lang: posts small blind $0.01
+8abyStack: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Td]
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): raises $0.07 to $0.09
+Olivier Lang: calls $0.08
+8abyStack: folds 
+g1957b: calls $0.07
+*** FLOP *** [4h 5s 5c]
+Olivier Lang: checks 
+g1957b: checks 
+(BäST23): checks 
+*** TURN *** [4h 5s 5c] [Th]
+Olivier Lang: checks 
+g1957b: checks 
+(BäST23): checks 
+*** RIVER *** [4h 5s 5c Th] [7h]
+Olivier Lang: bets $0.04
+g1957b: folds 
+(BäST23): folds 
+Uncalled bet ($0.04) returned to Olivier Lang
+Olivier Lang collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [4h 5s 5c Th 7h]
+Seat 1: Olivier Lang (small blind) collected ($0.28)
+Seat 2: 8abyStack (big blind) folded before Flop
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b folded on the River
+Seat 6: (BäST23) (button) folded on the River
+
+
+
+PokerStars Hand #239395396284:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:29:37 ET
+Table 'Morosovia II' 6-max Seat #1 is the button
+Seat 1: Olivier Lang ($3.25 in chips) 
+Seat 2: 8abyStack ($1.82 in chips) 
+Seat 3: Quad Jacks21 ($5.50 in chips) 
+Seat 4: Lorpugo ($1.68 in chips) 
+Seat 5: g1957b ($1.25 in chips) 
+Seat 6: (BäST23) ($1.91 in chips) 
+8abyStack: posts small blind $0.01
+Quad Jacks21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 6s]
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): calls $0.02
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: checks 
+*** FLOP *** [9c Kh Jc]
+Quad Jacks21: checks 
+g1957b: checks 
+(BäST23): checks 
+*** TURN *** [9c Kh Jc] [9s]
+Quad Jacks21: checks 
+g1957b: checks 
+(BäST23): checks 
+*** RIVER *** [9c Kh Jc 9s] [5d]
+Quad Jacks21: checks 
+g1957b: bets $0.02
+(BäST23): calls $0.02
+Quad Jacks21: folds 
+*** SHOW DOWN ***
+g1957b: shows [4h Jh] (two pair, Jacks and Nines)
+(BäST23): shows [Ks 5h] (two pair, Kings and Nines)
+(BäST23) collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9c Kh Jc 9s 5d]
+Seat 1: Olivier Lang (button) folded before Flop (didn't bet)
+Seat 2: 8abyStack (small blind) folded before Flop
+Seat 3: Quad Jacks21 (big blind) folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b showed [4h Jh] and lost with two pair, Jacks and Nines
+Seat 6: (BäST23) showed [Ks 5h] and won ($0.11) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #239395401989:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:30:11 ET
+Table 'Morosovia II' 6-max Seat #2 is the button
+Seat 1: Olivier Lang ($3.25 in chips) 
+Seat 2: 8abyStack ($1.81 in chips) 
+Seat 3: Quad Jacks21 ($5.48 in chips) 
+Seat 4: Lorpugo ($1.68 in chips) 
+Seat 5: g1957b ($1.21 in chips) 
+Seat 6: (BäST23) ($1.98 in chips) 
+Quad Jacks21: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qd]
+g1957b: calls $0.02
+(BäST23): raises $0.07 to $0.09
+Olivier Lang: raises $0.15 to $0.24
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: calls $0.22
+(BäST23): calls $0.15
+*** FLOP *** [Th As 9d]
+g1957b: checks 
+(BäST23): checks 
+Olivier Lang: bets $0.90
+g1957b: folds 
+(BäST23): folds 
+Uncalled bet ($0.90) returned to Olivier Lang
+Olivier Lang collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Th As 9d]
+Seat 1: Olivier Lang collected ($0.72)
+Seat 2: 8abyStack (button) folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: g1957b folded on the Flop
+Seat 6: (BäST23) folded on the Flop
+
+
+
+PokerStars Hand #239395408307:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:30:49 ET
+Table 'Morosovia II' 6-max Seat #3 is the button
+Seat 1: Olivier Lang ($3.73 in chips) 
+Seat 2: 8abyStack ($1.81 in chips) 
+Seat 3: Quad Jacks21 ($5.47 in chips) 
+Seat 4: Lorpugo ($1.66 in chips) 
+Seat 5: g1957b ($0.97 in chips) 
+Seat 6: (BäST23) ($1.74 in chips) 
+Lorpugo: posts small blind $0.01
+g1957b: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Ac]
+(BäST23): folds 
+Olivier Lang: calls $0.02
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: raises $0.04 to $0.06
+g1957b: folds 
+Olivier Lang: calls $0.04
+*** FLOP *** [2c 2h 5d]
+Lorpugo: bets $0.02
+Olivier Lang: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2c 2h 5d]
+Seat 1: Olivier Lang folded on the Flop
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.14)
+Seat 5: g1957b (big blind) folded before Flop
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395413482:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:31:19 ET
+Table 'Morosovia II' 6-max Seat #4 is the button
+Seat 1: Olivier Lang ($3.67 in chips) 
+Seat 2: 8abyStack ($1.81 in chips) 
+Seat 3: Quad Jacks21 ($5.47 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 5: g1957b ($0.95 in chips) 
+Seat 6: (BäST23) ($1.74 in chips) 
+g1957b: posts small blind $0.01
+(BäST23): posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4d]
+Olivier Lang: raises $0.02 to $0.04
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: calls $0.03
+(BäST23): folds 
+*** FLOP *** [9s 5h 3c]
+g1957b: checks 
+Olivier Lang: checks 
+*** TURN *** [9s 5h 3c] [Qc]
+g1957b: bets $0.02
+Olivier Lang: raises $0.08 to $0.10
+g1957b: calls $0.08
+*** RIVER *** [9s 5h 3c Qc] [Qs]
+g1957b: bets $0.81 and is all-in
+Olivier Lang: folds 
+Uncalled bet ($0.81) returned to g1957b
+g1957b collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9s 5h 3c Qc Qs]
+Seat 1: Olivier Lang folded on the River
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: g1957b (small blind) collected ($0.29)
+Seat 6: (BäST23) (big blind) folded before Flop
+
+
+
+PokerStars Hand #239395421806:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:32:08 ET
+Table 'Morosovia II' 6-max Seat #5 is the button
+Seat 1: Olivier Lang ($3.53 in chips) 
+Seat 2: 8abyStack ($1.81 in chips) 
+Seat 3: Quad Jacks21 ($5.47 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 5: g1957b ($1.10 in chips) 
+Seat 6: (BäST23) ($1.72 in chips) 
+(BäST23): posts small blind $0.01
+Olivier Lang: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jc]
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: folds 
+(BäST23): raises $0.06 to $0.08
+Olivier Lang: folds 
+Uncalled bet ($0.06) returned to (BäST23)
+(BäST23) collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Olivier Lang (big blind) folded before Flop
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b (button) folded before Flop (didn't bet)
+Seat 6: (BäST23) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239395424686:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:32:25 ET
+Table 'Morosovia II' 6-max Seat #6 is the button
+Seat 1: Olivier Lang ($3.51 in chips) 
+Seat 2: 8abyStack ($1.81 in chips) 
+Seat 3: Quad Jacks21 ($5.47 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 5: g1957b ($1.10 in chips) 
+Seat 6: (BäST23) ($1.74 in chips) 
+Olivier Lang: posts small blind $0.01
+8abyStack: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4c]
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: folds 
+(BäST23): folds 
+Olivier Lang: raises $0.04 to $0.06
+8abyStack: folds 
+Uncalled bet ($0.04) returned to Olivier Lang
+Olivier Lang collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Olivier Lang (small blind) collected ($0.04)
+Seat 2: 8abyStack (big blind) folded before Flop
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b folded before Flop (didn't bet)
+Seat 6: (BäST23) (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395426845:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:32:38 ET
+Table 'Morosovia II' 6-max Seat #1 is the button
+Seat 1: Olivier Lang ($3.53 in chips) 
+Seat 2: 8abyStack ($1.79 in chips) 
+Seat 3: Quad Jacks21 ($5.47 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 5: g1957b ($1.10 in chips) 
+Seat 6: (BäST23) ($1.74 in chips) 
+8abyStack: posts small blind $0.01
+Quad Jacks21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ah]
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): folds 
+Olivier Lang: folds 
+8abyStack: raises $0.04 to $0.06
+Quad Jacks21: folds 
+g1957b: calls $0.04
+*** FLOP *** [6h 3h 3s]
+8abyStack: bets $0.07
+g1957b: folds 
+Uncalled bet ($0.07) returned to 8abyStack
+8abyStack collected $0.14 from pot
+8abyStack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6h 3h 3s]
+Seat 1: Olivier Lang (button) folded before Flop (didn't bet)
+Seat 2: 8abyStack (small blind) collected ($0.14)
+Seat 3: Quad Jacks21 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b folded on the Flop
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395430456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:32:59 ET
+Table 'Morosovia II' 6-max Seat #2 is the button
+Seat 1: Olivier Lang ($3.53 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($5.45 in chips) 
+Seat 4: Lorpugo ($1.74 in chips) 
+Seat 5: g1957b ($1.04 in chips) 
+Seat 6: (BäST23) ($1.74 in chips) 
+Quad Jacks21: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Jd]
+g1957b: calls $0.02
+(BäST23): folds 
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+g1957b: calls $0.04
+*** FLOP *** [8h Jc Ks]
+Quad Jacks21: bets $0.06
+Lorpugo: calls $0.06
+g1957b: calls $0.06
+*** TURN *** [8h Jc Ks] [Qh]
+Quad Jacks21: bets $0.12
+Lorpugo: folds 
+g1957b: calls $0.12
+*** RIVER *** [8h Jc Ks Qh] [Qs]
+Quad Jacks21: bets $0.20
+g1957b: calls $0.20
+*** SHOW DOWN ***
+Quad Jacks21: shows [Kh 6h] (two pair, Kings and Queens)
+g1957b: mucks hand 
+Quad Jacks21 collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [8h Jc Ks Qh Qs]
+Seat 1: Olivier Lang folded before Flop (didn't bet)
+Seat 2: 8abyStack (button) folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (small blind) showed [Kh 6h] and won ($0.96) with two pair, Kings and Queens
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 5: g1957b mucked [Js Tc]
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395439430:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:33:52 ET
+Table 'Morosovia II' 6-max Seat #3 is the button
+Seat 1: Olivier Lang ($3.53 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($5.97 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: g1957b ($0.60 in chips) 
+Seat 6: (BäST23) ($1.74 in chips) 
+Lorpugo: posts small blind $0.01
+g1957b: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2d]
+(BäST23): raises $0.05 to $0.07
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: calls $0.07
+Lorpugo: folds 
+g1957b: folds 
+*** FLOP *** [7s 8s Ah]
+(BäST23): bets $0.16
+Quad Jacks21: calls $0.16
+*** TURN *** [7s 8s Ah] [4s]
+(BäST23): checks 
+Quad Jacks21: bets $0.28
+(BäST23): calls $0.28
+*** RIVER *** [7s 8s Ah 4s] [5s]
+(BäST23): checks 
+Quad Jacks21: bets $0.44
+(BäST23): folds 
+Uncalled bet ($0.44) returned to Quad Jacks21
+Quad Jacks21 collected $1.01 from pot
+Quad Jacks21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [7s 8s Ah 4s 5s]
+Seat 1: Olivier Lang folded before Flop (didn't bet)
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (button) collected ($1.01)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: g1957b (big blind) folded before Flop
+Seat 6: (BäST23) folded on the River
+
+
+
+PokerStars Hand #239395449301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:34:52 ET
+Table 'Morosovia II' 6-max Seat #4 is the button
+Seat 1: Olivier Lang ($3.53 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($6.47 in chips) 
+Seat 4: Lorpugo ($1.61 in chips) 
+Seat 5: g1957b ($0.58 in chips) 
+Seat 6: (BäST23) ($1.23 in chips) 
+g1957b: posts small blind $0.01
+(BäST23): posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3c]
+Olivier Lang: calls $0.02
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: calls $0.01
+(BäST23): checks 
+*** FLOP *** [Kh Tc 6d]
+g1957b: checks 
+(BäST23): checks 
+Olivier Lang: bets $0.05
+g1957b: calls $0.05
+(BäST23): calls $0.05
+*** TURN *** [Kh Tc 6d] [8c]
+g1957b: checks 
+(BäST23): checks 
+Olivier Lang: bets $0.10
+g1957b: folds 
+(BäST23): calls $0.10
+*** RIVER *** [Kh Tc 6d 8c] [7s]
+(BäST23): checks 
+Olivier Lang: checks 
+*** SHOW DOWN ***
+(BäST23): shows [8h Qc] (a pair of Eights)
+Olivier Lang: shows [Jh Kc] (a pair of Kings)
+Olivier Lang collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Kh Tc 6d 8c 7s]
+Seat 1: Olivier Lang showed [Jh Kc] and won ($0.40) with a pair of Kings
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: g1957b (small blind) folded on the Turn
+Seat 6: (BäST23) (big blind) showed [8h Qc] and lost with a pair of Eights
+
+
+
+PokerStars Hand #239395460278:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:35:57 ET
+Table 'Morosovia II' 6-max Seat #5 is the button
+Seat 1: Olivier Lang ($3.76 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($6.47 in chips) 
+Seat 4: Lorpugo ($1.61 in chips) 
+Seat 5: g1957b ($0.51 in chips) 
+Seat 6: (BäST23) ($1.06 in chips) 
+(BäST23): posts small blind $0.01
+Olivier Lang: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Jc]
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): folds 
+Olivier Lang: checks 
+*** FLOP *** [Js 8s Jh]
+Olivier Lang: checks 
+g1957b: checks 
+*** TURN *** [Js 8s Jh] [3s]
+Olivier Lang: bets $0.04
+g1957b: folds 
+Uncalled bet ($0.04) returned to Olivier Lang
+Olivier Lang collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js 8s Jh 3s]
+Seat 1: Olivier Lang (big blind) collected ($0.05)
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b (button) folded on the Turn
+Seat 6: (BäST23) (small blind) folded before Flop
+
+
+
+PokerStars Hand #239395464707:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:36:23 ET
+Table 'Morosovia II' 6-max Seat #6 is the button
+Seat 1: Olivier Lang ($3.79 in chips) 
+Seat 2: 8abyStack ($1.87 in chips) 
+Seat 3: Quad Jacks21 ($6.47 in chips) 
+Seat 4: Lorpugo ($1.61 in chips) 
+Seat 5: g1957b ($0.49 in chips) 
+Seat 6: (BäST23) ($1.05 in chips) 
+Olivier Lang: posts small blind $0.01
+8abyStack: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4h]
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): folds 
+Olivier Lang: folds 
+8abyStack: checks 
+*** FLOP *** [Tc Qh 2d]
+8abyStack: checks 
+g1957b: checks 
+*** TURN *** [Tc Qh 2d] [7c]
+8abyStack: checks 
+g1957b: checks 
+*** RIVER *** [Tc Qh 2d 7c] [Ah]
+8abyStack: checks 
+g1957b: bets $0.04
+8abyStack: folds 
+Uncalled bet ($0.04) returned to g1957b
+g1957b collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc Qh 2d 7c Ah]
+Seat 1: Olivier Lang (small blind) folded before Flop
+Seat 2: 8abyStack (big blind) folded on the River
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b collected ($0.05)
+Seat 6: (BäST23) (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395470724:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:36:59 ET
+Table 'Morosovia II' 6-max Seat #1 is the button
+Seat 1: Olivier Lang ($3.78 in chips) 
+Seat 2: 8abyStack ($1.85 in chips) 
+Seat 3: Quad Jacks21 ($6.47 in chips) 
+Seat 4: Lorpugo ($1.61 in chips) 
+Seat 5: g1957b ($0.52 in chips) 
+Seat 6: (BäST23) ($1.05 in chips) 
+8abyStack: posts small blind $0.01
+Quad Jacks21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4c]
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): raises $0.12 to $0.14
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: folds 
+g1957b: raises $0.38 to $0.52 and is all-in
+(BäST23): calls $0.38
+*** FLOP *** [8h Kc 6c]
+*** TURN *** [8h Kc 6c] [Th]
+*** RIVER *** [8h Kc 6c Th] [6s]
+*** SHOW DOWN ***
+g1957b: shows [Jc Jd] (two pair, Jacks and Sixes)
+(BäST23): shows [Ks Qh] (two pair, Kings and Sixes)
+(BäST23) collected $1.02 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.05 
+Board [8h Kc 6c Th 6s]
+Seat 1: Olivier Lang (button) folded before Flop (didn't bet)
+Seat 2: 8abyStack (small blind) folded before Flop
+Seat 3: Quad Jacks21 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b showed [Jc Jd] and lost with two pair, Jacks and Sixes
+Seat 6: (BäST23) showed [Ks Qh] and won ($1.02) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #239395477868:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:37:43 ET
+Table 'Morosovia II' 6-max Seat #2 is the button
+Seat 1: Olivier Lang ($3.78 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($6.45 in chips) 
+Seat 4: Lorpugo ($1.61 in chips) 
+Seat 6: (BäST23) ($1.55 in chips) 
+Quad Jacks21: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7s]
+(BäST23): raises $0.04 to $0.06
+Olivier Lang: calls $0.06
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+*** FLOP *** [3s Ac 9c]
+(BäST23): checks 
+Olivier Lang: checks 
+*** TURN *** [3s Ac 9c] [Kc]
+(BäST23): checks 
+Olivier Lang: bets $0.04
+(BäST23): calls $0.04
+*** RIVER *** [3s Ac 9c Kc] [Jc]
+(BäST23): checks 
+Olivier Lang: checks 
+*** SHOW DOWN ***
+(BäST23): shows [Kd 7d] (a pair of Kings)
+Olivier Lang: mucks hand 
+(BäST23) collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3s Ac 9c Kc Jc]
+Seat 1: Olivier Lang mucked [Qd 7h]
+Seat 2: 8abyStack (button) folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 6: (BäST23) showed [Kd 7d] and won ($0.22) with a pair of Kings
+
+
+
+PokerStars Hand #239395486848:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:38:36 ET
+Table 'Morosovia II' 6-max Seat #3 is the button
+Seat 1: Olivier Lang ($3.68 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($6.44 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: g1957b ($2 in chips) 
+Seat 6: (BäST23) ($1.67 in chips) 
+Lorpugo: posts small blind $0.01
+g1957b: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Td]
+(BäST23): folds 
+Olivier Lang: folds 
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: raises $0.04 to $0.06
+g1957b: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Olivier Lang folded before Flop (didn't bet)
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: g1957b (big blind) folded before Flop
+Seat 6: (BäST23) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395488989:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:38:49 ET
+Table 'Morosovia II' 6-max Seat #4 is the button
+Seat 1: Olivier Lang ($3.68 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($6.44 in chips) 
+Seat 4: Lorpugo ($1.62 in chips) 
+Seat 5: g1957b ($1.98 in chips) 
+Seat 6: (BäST23) ($1.67 in chips) 
+g1957b: posts small blind $0.01
+(BäST23): posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 4d]
+Olivier Lang: raises $0.04 to $0.06
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: calls $0.06
+g1957b: calls $0.05
+(BäST23): folds 
+*** FLOP *** [2h 6s 6d]
+g1957b: checks 
+Olivier Lang: checks 
+Lorpugo: bets $0.06
+g1957b: calls $0.06
+Olivier Lang: folds 
+*** TURN *** [2h 6s 6d] [3h]
+g1957b: checks 
+Lorpugo: bets $0.10
+g1957b: calls $0.10
+*** RIVER *** [2h 6s 6d 3h] [6h]
+g1957b: checks 
+Lorpugo: bets $0.25
+g1957b: folds 
+Uncalled bet ($0.25) returned to Lorpugo
+Lorpugo collected $0.50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [2h 6s 6d 3h 6h]
+Seat 1: Olivier Lang folded on the Flop
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.50)
+Seat 5: g1957b (small blind) folded on the River
+Seat 6: (BäST23) (big blind) folded before Flop
+
+
+
+PokerStars Hand #239395500403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:39:59 ET
+Table 'Morosovia II' 6-max Seat #5 is the button
+Seat 1: Olivier Lang ($3.62 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($6.44 in chips) 
+Seat 4: Lorpugo ($1.90 in chips) 
+Seat 5: g1957b ($1.76 in chips) 
+Seat 6: (BäST23) ($1.65 in chips) 
+(BäST23): posts small blind $0.01
+Olivier Lang: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9h]
+8abyStack: folds 
+Quad Jacks21: folds 
+Lorpugo: folds 
+g1957b: calls $0.02
+(BäST23): raises $0.06 to $0.08
+Olivier Lang: raises $0.08 to $0.16
+g1957b: calls $0.14
+(BäST23): calls $0.08
+*** FLOP *** [8h Kc Tc]
+(BäST23): checks 
+Olivier Lang: bets $0.06
+g1957b: calls $0.06
+(BäST23): raises $0.64 to $0.70
+Olivier Lang: folds 
+g1957b: folds 
+Uncalled bet ($0.64) returned to (BäST23)
+(BäST23) collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [8h Kc Tc]
+Seat 1: Olivier Lang (big blind) folded on the Flop
+Seat 2: 8abyStack folded before Flop (didn't bet)
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: g1957b (button) folded on the Flop
+Seat 6: (BäST23) (small blind) collected ($0.64)
+
+
+
+PokerStars Hand #239395508208:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:40:47 ET
+Table 'Morosovia II' 6-max Seat #6 is the button
+Seat 1: Olivier Lang ($3.40 in chips) 
+Seat 2: 8abyStack ($1.84 in chips) 
+Seat 3: Quad Jacks21 ($6.44 in chips) 
+Seat 4: Lorpugo ($1.90 in chips) 
+Seat 5: g1957b ($1.54 in chips) 
+Seat 6: (BäST23) ($2.07 in chips) 
+Olivier Lang: posts small blind $0.01
+8abyStack: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Tc]
+Quad Jacks21: folds 
+Lorpugo: raises $0.04 to $0.06
+g1957b: calls $0.06
+(BäST23): folds 
+Olivier Lang: calls $0.05
+8abyStack: folds 
+*** FLOP *** [4c 8c Kc]
+Olivier Lang: bets $0.10
+Lorpugo: calls $0.10
+g1957b: folds 
+*** TURN *** [4c 8c Kc] [3c]
+Olivier Lang: bets $0.10
+Lorpugo: calls $0.10
+*** RIVER *** [4c 8c Kc 3c] [7s]
+Olivier Lang: bets $0.76
+Lorpugo: calls $0.76
+*** SHOW DOWN ***
+Olivier Lang: shows [Kd 9c] (a flush, King high)
+Lorpugo: shows [As Tc] (a flush, King high - Ten higher)
+Lorpugo collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.12 | Rake $0.07 
+Board [4c 8c Kc 3c 7s]
+Seat 1: Olivier Lang (small blind) showed [Kd 9c] and lost with a flush, King high
+Seat 2: 8abyStack (big blind) folded before Flop
+Seat 3: Quad Jacks21 folded before Flop (didn't bet)
+Seat 4: Lorpugo showed [As Tc] and won ($2.05) with a flush, King high
+Seat 5: g1957b folded on the Flop
+Seat 6: (BäST23) (button) folded before Flop (didn't bet)
+
+
+

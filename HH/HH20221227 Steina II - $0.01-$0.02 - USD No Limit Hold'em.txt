@@ -1,0 +1,3289 @@
+﻿PokerStars Hand #240728693446:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:56:10 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: davegoa ($2.03 in chips) 
+Seat 2: jean's260191 ($1.79 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($1.75 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 9d]
+davegoa: folds 
+jean's260191: raises $0.04 to $0.06
+poseidoporunbot: folds 
+SKV_1985: folds 
+elchicosinombre: raises $0.14 to $0.20
+Lorpugo: folds 
+jean's260191: calls $0.14
+*** FLOP *** [3c Ad 9h]
+elchicosinombre: checks 
+jean's260191: checks 
+*** TURN *** [3c Ad 9h] [Kd]
+elchicosinombre: bets $0.25
+jean's260191: calls $0.25
+*** RIVER *** [3c Ad 9h Kd] [4h]
+elchicosinombre: bets $1.30 and is all-in
+jean's260191: calls $1.30
+*** SHOW DOWN ***
+elchicosinombre: shows [Ac 9c] (two pair, Aces and Nines)
+jean's260191: shows [Qc Ks] (a pair of Kings)
+elchicosinombre collected $3.40 from pot
+*** SUMMARY ***
+Total pot $3.52 | Rake $0.12 
+Board [3c Ad 9h Kd 4h]
+Seat 1: davegoa folded before Flop (didn't bet)
+Seat 2: jean's260191 showed [Qc Ks] and lost with a pair of Kings
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: elchicosinombre (small blind) showed [Ac 9c] and won ($3.40) with two pair, Aces and Nines
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728710666:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:57:09 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: davegoa ($2.03 in chips) 
+Seat 2: jean's260191 ($0.04 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.40 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+davegoa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2h]
+jean's260191: raises $0.02 to $0.04 and is all-in
+poseidoporunbot: folds 
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+davegoa: calls $0.02
+*** FLOP *** [4h Jh Qc]
+*** TURN *** [4h Jh Qc] [3h]
+*** RIVER *** [4h Jh Qc 3h] [As]
+*** SHOW DOWN ***
+davegoa: shows [2s 7s] (high card Ace)
+jean's260191: shows [7h 3c] (a pair of Threes)
+jean's260191 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4h Jh Qc 3h As]
+Seat 1: davegoa (big blind) showed [2s 7s] and lost with high card Ace
+Seat 2: jean's260191 showed [7h 3c] and won ($0.09) with a pair of Threes
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240728722069:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:57:49 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 2: jean's260191 ($0.09 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.40 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+davegoa: posts small blind $0.01
+jean's260191: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 9h]
+poseidoporunbot: folds 
+SKV_1985: folds 
+elchicosinombre: raises $0.03 to $0.05
+Lorpugo: calls $0.05
+davegoa: folds 
+jean's260191: raises $0.04 to $0.09 and is all-in
+elchicosinombre: calls $0.04
+Lorpugo: calls $0.04
+*** FLOP *** [9d Qs 2d]
+elchicosinombre: checks 
+Lorpugo: checks 
+*** TURN *** [9d Qs 2d] [Kh]
+elchicosinombre has timed out
+elchicosinombre: checks 
+Lorpugo: checks 
+*** RIVER *** [9d Qs 2d Kh] [Kc]
+elchicosinombre: checks 
+Lorpugo: bets $0.02
+elchicosinombre: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [Jh 9h] (two pair, Kings and Nines)
+elchicosinombre: shows [9c 8h] (two pair, Kings and Nines)
+elchicosinombre collected $0.02 from side pot
+Lorpugo collected $0.02 from side pot
+jean's260191: shows [8c 9s] (two pair, Kings and Nines)
+jean's260191 collected $0.09 from main pot
+elchicosinombre collected $0.09 from main pot
+Lorpugo collected $0.09 from main pot
+*** SUMMARY ***
+Total pot $0.32 Main pot $0.27. Side pot $0.04. | Rake $0.01 
+Board [9d Qs 2d Kh Kc]
+Seat 1: davegoa (small blind) folded before Flop
+Seat 2: jean's260191 (big blind) showed [8c 9s] and won ($0.09) with two pair, Kings and Nines
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre showed [9c 8h] and won ($0.11) with two pair, Kings and Nines
+Seat 6: Lorpugo (button) showed [Jh 9h] and won ($0.11) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #240728749494:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:59:24 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 2: jean's260191 ($0.09 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.40 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+jean's260191: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ac]
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: raises $0.04 to $0.06
+davegoa: folds 
+jean's260191: raises $0.03 to $0.09 and is all-in
+poseidoporunbot: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [4h Th Jc]
+*** TURN *** [4h Th Jc] [Tc]
+*** RIVER *** [4h Th Jc Tc] [9h]
+*** SHOW DOWN ***
+jean's260191: shows [5s Ts] (three of a kind, Tens)
+Lorpugo: shows [8s Ac] (a pair of Tens)
+jean's260191 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4h Th Jc Tc 9h]
+Seat 1: davegoa (button) folded before Flop (didn't bet)
+Seat 2: jean's260191 (small blind) showed [5s Ts] and won ($0.19) with three of a kind, Tens
+Seat 3: poseidoporunbot (big blind) folded before Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [8s Ac] and lost with a pair of Tens
+
+
+
+PokerStars Hand #240728758313:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:59:54 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 2: jean's260191 ($0.19 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.40 in chips) 
+Seat 6: Lorpugo ($1.48 in chips) 
+poseidoporunbot: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ah]
+elchicosinombre: folds 
+Lorpugo: raises $0.04 to $0.06
+davegoa: folds 
+jean's260191: folds 
+poseidoporunbot: folds 
+SKV_1985: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: davegoa folded before Flop (didn't bet)
+Seat 2: jean's260191 (button) folded before Flop (didn't bet)
+Seat 3: poseidoporunbot (small blind) folded before Flop
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240728766844:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:00:23 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 2: jean's260191 ($0.19 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.40 in chips) 
+Seat 6: Lorpugo ($1.51 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Jh]
+Lorpugo: folds 
+davegoa: folds 
+jean's260191: calls $0.02
+poseidoporunbot: folds 
+SKV_1985: calls $0.01
+elchicosinombre: raises $0.06 to $0.08
+jean's260191: calls $0.06
+SKV_1985: folds 
+*** FLOP *** [4h Td 5s]
+elchicosinombre: bets $0.10
+jean's260191: folds 
+Uncalled bet ($0.10) returned to elchicosinombre
+elchicosinombre collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4h Td 5s]
+Seat 1: davegoa folded before Flop (didn't bet)
+Seat 2: jean's260191 folded on the Flop
+Seat 3: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 5: elchicosinombre (big blind) collected ($0.17)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728781287:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:01:09 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 2: jean's260191 ($0.11 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.49 in chips) 
+Seat 6: Lorpugo ($1.51 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Js]
+davegoa: folds 
+jean's260191: raises $0.09 to $0.11 and is all-in
+poseidoporunbot: folds 
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to jean's260191
+jean's260191 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: davegoa folded before Flop (didn't bet)
+Seat 2: jean's260191 collected ($0.05)
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: elchicosinombre (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728785653:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:01:22 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 2: jean's260191 ($0.14 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.48 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+Lorpugo: posts small blind $0.01
+davegoa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 2s]
+jean's260191: raises $0.12 to $0.14 and is all-in
+poseidoporunbot: folds 
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: calls $0.13
+davegoa: folds 
+*** FLOP *** [2h 3h Js]
+*** TURN *** [2h 3h Js] [7s]
+*** RIVER *** [2h 3h Js 7s] [3d]
+*** SHOW DOWN ***
+Lorpugo: shows [As 2s] (two pair, Threes and Deuces)
+jean's260191: shows [8h Ah] (a pair of Threes)
+Lorpugo collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2h 3h Js 7s 3d]
+Seat 1: davegoa (big blind) folded before Flop
+Seat 2: jean's260191 showed [8h Ah] and lost with a pair of Threes
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) showed [As 2s] and won ($0.29) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #240728793906:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:01:46 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 3: poseidoporunbot ($2 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($3.48 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+davegoa: posts small blind $0.01
+poseidoporunbot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8c]
+SKV_1985: folds 
+elchicosinombre: raises $0.03 to $0.05
+Lorpugo: folds 
+davegoa: folds 
+poseidoporunbot: raises $0.19 to $0.24
+elchicosinombre: calls $0.19
+*** FLOP *** [4c 5d Tc]
+jean's260191 leaves the table
+poseidoporunbot: bets $0.35
+Allien79PL joins the table at seat #2 
+elchicosinombre: calls $0.35
+*** TURN *** [4c 5d Tc] [Kh]
+poseidoporunbot: bets $0.80
+elchicosinombre: folds 
+Uncalled bet ($0.80) returned to poseidoporunbot
+poseidoporunbot collected $1.15 from pot
+poseidoporunbot: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 
+Board [4c 5d Tc Kh]
+Seat 1: davegoa (small blind) folded before Flop
+Seat 3: poseidoporunbot (big blind) collected ($1.15)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded on the Turn
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728816181:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:02:47 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 3: poseidoporunbot ($2.56 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($2.89 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+poseidoporunbot: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2h]
+elchicosinombre: calls $0.02
+Lorpugo: folds 
+davegoa: calls $0.02
+poseidoporunbot: folds 
+SKV_1985: checks 
+*** FLOP *** [5h Ah 6d]
+SKV_1985: checks 
+elchicosinombre: checks 
+davegoa: checks 
+*** TURN *** [5h Ah 6d] [9h]
+SKV_1985: checks 
+elchicosinombre: bets $0.08
+davegoa: folds 
+SKV_1985: folds 
+Uncalled bet ($0.08) returned to elchicosinombre
+elchicosinombre collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [5h Ah 6d 9h]
+Seat 1: davegoa (button) folded on the Turn
+Seat 3: poseidoporunbot (small blind) folded before Flop
+Seat 4: SKV_1985 (big blind) folded on the Turn
+Seat 5: elchicosinombre collected ($0.07)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728835104:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:03:36 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: davegoa ($2 in chips) 
+Seat 2: Allien79PL ($2 in chips) 
+Seat 3: poseidoporunbot ($2.55 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($2.94 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ac]
+Lorpugo: raises $0.07 to $0.09
+davegoa: calls $0.09
+Allien79PL: calls $0.07
+poseidoporunbot: folds 
+SKV_1985: folds 
+elchicosinombre: folds 
+*** FLOP *** [2h Js Ah]
+Lorpugo: bets $0.19
+davegoa: calls $0.19
+Allien79PL: calls $0.19
+*** TURN *** [2h Js Ah] [9h]
+Lorpugo: checks 
+davegoa: bets $0.54
+Allien79PL: folds 
+Lorpugo has timed out
+Lorpugo: folds 
+Uncalled bet ($0.54) returned to davegoa
+davegoa collected $0.84 from pot
+davegoa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [2h Js Ah 9h]
+Seat 1: davegoa collected ($0.84)
+Seat 2: Allien79PL folded on the Turn
+Seat 3: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 5: elchicosinombre (big blind) folded before Flop
+Seat 6: Lorpugo folded on the Turn
+
+
+
+PokerStars Hand #240728874648:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:05:21 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: davegoa ($2.56 in chips) 
+Seat 2: Allien79PL ($1.72 in chips) 
+Seat 3: poseidoporunbot ($2.55 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($2.92 in chips) 
+Seat 6: Lorpugo ($1.36 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Qs]
+davegoa: folds 
+Allien79PL: calls $0.02
+poseidoporunbot: folds 
+davegoa leaves the table
+SKV_1985: raises $0.06 to $0.08
+elchicosinombre: folds 
+Lorpugo: folds 
+Allien79PL: calls $0.06
+*** FLOP *** [Ad Ac 8c]
+Allien79PL: checks 
+SKV_1985: bets $0.11
+Allien79PL: calls $0.11
+*** TURN *** [Ad Ac 8c] [5c]
+Allien79PL: checks 
+Nuka1989 joins the table at seat #1 
+SKV_1985: checks 
+*** RIVER *** [Ad Ac 8c 5c] [7h]
+Allien79PL: bets $0.40
+SKV_1985: folds 
+Uncalled bet ($0.40) returned to Allien79PL
+Allien79PL collected $0.40 from pot
+Allien79PL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ad Ac 8c 5c 7h]
+Seat 1: davegoa folded before Flop (didn't bet)
+Seat 2: Allien79PL collected ($0.40)
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 (button) folded on the River
+Seat 5: elchicosinombre (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728894120:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:06:12 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.93 in chips) 
+Seat 3: poseidoporunbot ($2.55 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($2.91 in chips) 
+Seat 6: Lorpugo ($1.34 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2c]
+Allien79PL: folds 
+poseidoporunbot: folds 
+SKV_1985: folds 
+elchicosinombre has timed out
+elchicosinombre: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Nuka1989
+Nuka1989 collected $0.02 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nuka1989 (big blind) collected ($0.02)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240728902626:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:06:34 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.01 in chips) 
+Seat 2: Allien79PL ($1.93 in chips) 
+Seat 3: poseidoporunbot ($2.55 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 6: Lorpugo ($1.33 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Js]
+poseidoporunbot: folds 
+SKV_1985: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+Uncalled bet ($0.01) returned to Allien79PL
+Allien79PL collected $0.02 from pot
+Allien79PL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: Allien79PL (big blind) collected ($0.02)
+Seat 3: poseidoporunbot folded before Flop (didn't bet)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728906816:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:06:45 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.94 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($2.91 in chips) 
+Seat 6: Lorpugo ($1.33 in chips) 
+Allien79PL: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 2d]
+poseidoporunbot leaves the table
+elchicosinombre: folds 
+Lorpugo: folds 
+França1986 joins the table at seat #3 
+Nuka1989: folds 
+Allien79PL: folds 
+Uncalled bet ($0.01) returned to SKV_1985
+SKV_1985 collected $0.02 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nuka1989 (button) folded before Flop (didn't bet)
+Seat 2: Allien79PL (small blind) folded before Flop
+Seat 4: SKV_1985 (big blind) collected ($0.02)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728912431:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:06:59 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.93 in chips) 
+Seat 4: SKV_1985 ($2.01 in chips) 
+Seat 5: elchicosinombre ($2.91 in chips) 
+Seat 6: Lorpugo ($1.33 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 9c]
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: folds 
+SKV_1985: raises $0.03 to $0.05
+elchicosinombre: folds 
+Uncalled bet ($0.03) returned to SKV_1985
+SKV_1985 collected $0.04 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL (button) folded before Flop (didn't bet)
+Seat 4: SKV_1985 (small blind) collected ($0.04)
+Seat 5: elchicosinombre (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728916530:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:07:10 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.93 in chips) 
+Seat 3: França1986 ($1 in chips) 
+Seat 4: SKV_1985 ($2.03 in chips) 
+Seat 5: elchicosinombre ($2.89 in chips) 
+Seat 6: Lorpugo ($1.33 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 3s]
+Nuka1989 has timed out
+Nuka1989: folds 
+Allien79PL: folds 
+França1986: checks 
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: checks 
+*** FLOP *** [9c 4s Kd]
+Lorpugo: checks 
+França1986: checks 
+*** TURN *** [9c 4s Kd] [7h]
+Lorpugo: checks 
+França1986: checks 
+*** RIVER *** [9c 4s Kd 7h] [Tc]
+Lorpugo: bets $0.05
+França1986: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c 4s Kd 7h Tc]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 folded on the River (didn't bet)
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: elchicosinombre (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #240728931420:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:07:49 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.93 in chips) 
+Seat 3: França1986 ($0.98 in chips) 
+Seat 4: SKV_1985 ($2.03 in chips) 
+Seat 5: elchicosinombre ($2.88 in chips) 
+Seat 6: Lorpugo ($1.36 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Kh]
+Allien79PL: folds 
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: checks 
+*** FLOP *** [8s 7s 6h]
+Nuka1989: checks 
+França1986: checks 
+*** TURN *** [8s 7s 6h] [2s]
+Nuka1989: checks 
+França1986: checks 
+*** RIVER *** [8s 7s 6h 2s] [7d]
+Nuka1989: checks 
+França1986: checks 
+*** SHOW DOWN ***
+Nuka1989: shows [3h Js] (a pair of Sevens)
+França1986: shows [Ac 5h] (a pair of Sevens - Ace kicker)
+França1986 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 7s 6h 2s 7d]
+Seat 1: Nuka1989 (big blind) showed [3h Js] and lost with a pair of Sevens
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 showed [Ac 5h] and won ($0.05) with a pair of Sevens
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240728946169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:08:27 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.93 in chips) 
+Seat 3: França1986 ($1.01 in chips) 
+Seat 4: SKV_1985 ($2.03 in chips) 
+Seat 5: elchicosinombre ($2.88 in chips) 
+Seat 6: Lorpugo ($1.35 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jh]
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: raises $0.10 to $0.12
+Allien79PL: calls $0.10
+França1986: calls $0.10
+*** FLOP *** [Kd 3d 8s]
+Nuka1989: checks 
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [Kd 3d 8s] [Jd]
+Nuka1989: bets $0.21
+Allien79PL: calls $0.21
+França1986: folds 
+*** RIVER *** [Kd 3d 8s Jd] [2h]
+Nuka1989: checks 
+Allien79PL: checks 
+*** SHOW DOWN ***
+Nuka1989: shows [Qs Ad] (high card Ace)
+Allien79PL: mucks hand 
+Nuka1989 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [Kd 3d 8s Jd 2h]
+Seat 1: Nuka1989 (small blind) showed [Qs Ad] and won ($0.75) with high card Ace
+Seat 2: Allien79PL (big blind) mucked [Th Qd]
+Seat 3: França1986 folded on the Turn
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728964305:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:09:14 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.42 in chips) 
+Seat 2: Allien79PL ($1.60 in chips) 
+Seat 3: França1986 ($0.89 in chips) 
+Seat 4: SKV_1985 ($2.03 in chips) 
+Seat 5: elchicosinombre ($2.88 in chips) 
+Seat 6: Lorpugo ($1.35 in chips) 
+Allien79PL: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts As]
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: raises $0.14 to $0.20
+Allien79PL: calls $0.19
+França1986: folds 
+Lorpugo: calls $0.14
+*** FLOP *** [3c 4c 6s]
+Allien79PL: checks 
+Lorpugo: checks 
+Nuka1989: bets $0.90
+Allien79PL: folds 
+Lorpugo has timed out
+Lorpugo: folds 
+Uncalled bet ($0.90) returned to Nuka1989
+Nuka1989 collected $0.60 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [3c 4c 6s]
+Seat 1: Nuka1989 (button) collected ($0.60)
+Seat 2: Allien79PL (small blind) folded on the Flop
+Seat 3: França1986 (big blind) folded before Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #240728989430:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:10:20 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.82 in chips) 
+Seat 2: Allien79PL ($1.40 in chips) 
+Seat 3: França1986 ($0.87 in chips) 
+Seat 4: SKV_1985 ($2.03 in chips) 
+Seat 5: elchicosinombre ($2.88 in chips) 
+Seat 6: Lorpugo ($1.15 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Kd]
+elchicosinombre: raises $0.05 to $0.07
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: calls $0.07
+França1986: calls $0.06
+SKV_1985: folds 
+*** FLOP *** [6d Kc 6s]
+França1986: bets $0.06
+elchicosinombre: calls $0.06
+Allien79PL: folds 
+*** TURN *** [6d Kc 6s] [Ts]
+França1986: checks 
+elchicosinombre: checks 
+*** RIVER *** [6d Kc 6s Ts] [4c]
+França1986: bets $0.24
+elchicosinombre: folds 
+Uncalled bet ($0.24) returned to França1986
+França1986 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [6d Kc 6s Ts 4c]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL (button) folded on the Flop
+Seat 3: França1986 (small blind) collected ($0.34)
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: elchicosinombre folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729004122:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:10:59 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.82 in chips) 
+Seat 2: Allien79PL ($1.33 in chips) 
+Seat 3: França1986 ($1.08 in chips) 
+Seat 4: SKV_1985 ($2.01 in chips) 
+Seat 5: elchicosinombre ($2.75 in chips) 
+Seat 6: Lorpugo ($1.15 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 6h]
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: folds 
+França1986: raises $0.10 to $0.12
+SKV_1985: folds 
+elchicosinombre: calls $0.10
+*** FLOP *** [5h 4s Td]
+elchicosinombre: checks 
+França1986: bets $0.10
+elchicosinombre: calls $0.10
+*** TURN *** [5h 4s Td] [Jd]
+elchicosinombre: checks 
+França1986: bets $0.12
+elchicosinombre: calls $0.12
+*** RIVER *** [5h 4s Td Jd] [5d]
+elchicosinombre: checks 
+França1986: bets $0.74 and is all-in
+elchicosinombre: calls $0.74
+*** SHOW DOWN ***
+França1986: shows [8d Kd] (a flush, King high)
+elchicosinombre: shows [Ts Qc] (two pair, Tens and Fives)
+França1986 collected $2.09 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.08 
+Board [5h 4s Td Jd 5d]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 (button) showed [8d Kd] and won ($2.09) with a flush, King high
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 5: elchicosinombre (big blind) showed [Ts Qc] and lost with two pair, Tens and Fives
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729023925:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:11:50 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.82 in chips) 
+Seat 2: Allien79PL ($1.33 in chips) 
+Seat 3: França1986 ($2.09 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($1.67 in chips) 
+Seat 6: Lorpugo ($1.15 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ts]
+Nuka1989: folds 
+Allien79PL: folds 
+França1986: calls $0.02
+SKV_1985: raises $0.06 to $0.08
+elchicosinombre: folds 
+Lorpugo: calls $0.06
+França1986: calls $0.06
+*** FLOP *** [6h 9h 3s]
+Lorpugo: checks 
+França1986: checks 
+SKV_1985: bets $0.15
+Lorpugo: folds 
+França1986: calls $0.15
+*** TURN *** [6h 9h 3s] [2s]
+França1986: checks 
+SKV_1985: bets $0.33
+França1986: folds 
+Uncalled bet ($0.33) returned to SKV_1985
+SKV_1985 collected $0.53 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6h 9h 3s 2s]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 folded on the Turn
+Seat 4: SKV_1985 (button) collected ($0.53)
+Seat 5: elchicosinombre (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240729040773:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:12:34 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.82 in chips) 
+Seat 2: Allien79PL ($1.33 in chips) 
+Seat 3: França1986 ($1.86 in chips) 
+Seat 4: SKV_1985 ($2.30 in chips) 
+Seat 5: elchicosinombre ($1.66 in chips) 
+Seat 6: Lorpugo ($1.07 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Js]
+Allien79PL: calls $0.02
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: checks 
+*** FLOP *** [4d 3h As]
+Nuka1989: checks 
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [4d 3h As] [Qs]
+Nuka1989: bets $0.07
+Allien79PL: calls $0.07
+França1986: folds 
+*** RIVER *** [4d 3h As Qs] [4h]
+Nuka1989: bets $0.15
+Allien79PL: folds 
+Uncalled bet ($0.15) returned to Nuka1989
+Nuka1989 collected $0.20 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4d 3h As Qs 4h]
+Seat 1: Nuka1989 (big blind) collected ($0.20)
+Seat 2: Allien79PL folded on the River
+Seat 3: França1986 folded on the Turn
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729062198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:13:30 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.93 in chips) 
+Seat 2: Allien79PL ($1.24 in chips) 
+Seat 3: França1986 ($1.84 in chips) 
+Seat 4: SKV_1985 ($2.30 in chips) 
+Seat 5: elchicosinombre ($1.66 in chips) 
+Seat 6: Lorpugo ($1.06 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 7c]
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: checks 
+*** FLOP *** [8d Kd 9d]
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [8d Kd 9d] [4d]
+Allien79PL: checks 
+França1986: checks 
+*** RIVER *** [8d Kd 9d 4d] [Qh]
+Allien79PL: checks 
+França1986: checks 
+*** SHOW DOWN ***
+Allien79PL: shows [2s 3s] (high card King)
+França1986: shows [5h 8c] (a pair of Eights)
+França1986 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d Kd 9d 4d Qh]
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: Allien79PL (big blind) showed [2s 3s] and lost with high card King
+Seat 3: França1986 showed [5h 8c] and won ($0.05) with a pair of Eights
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729074421:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:14:02 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.92 in chips) 
+Seat 2: Allien79PL ($1.22 in chips) 
+Seat 3: França1986 ($1.87 in chips) 
+Seat 4: SKV_1985 ($2.30 in chips) 
+Seat 5: elchicosinombre ($1.66 in chips) 
+Seat 6: Lorpugo ($1.06 in chips) 
+Allien79PL: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6h]
+SKV_1985: raises $0.03 to $0.05
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: calls $0.04
+França1986: folds 
+*** FLOP *** [7d Ts As]
+Allien79PL: checks 
+SKV_1985: bets $0.07
+Allien79PL: calls $0.07
+*** TURN *** [7d Ts As] [5h]
+Allien79PL: checks 
+SKV_1985: checks 
+*** RIVER *** [7d Ts As 5h] [3h]
+Allien79PL: bets $0.13
+SKV_1985: folds 
+Uncalled bet ($0.13) returned to Allien79PL
+Allien79PL collected $0.25 from pot
+Allien79PL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7d Ts As 5h 3h]
+Seat 1: Nuka1989 (button) folded before Flop (didn't bet)
+Seat 2: Allien79PL (small blind) collected ($0.25)
+Seat 3: França1986 (big blind) folded before Flop
+Seat 4: SKV_1985 folded on the River
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729097551:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:15:01 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.92 in chips) 
+Seat 2: Allien79PL ($1.35 in chips) 
+Seat 3: França1986 ($1.85 in chips) 
+Seat 4: SKV_1985 ($2.18 in chips) 
+Seat 5: elchicosinombre ($1.66 in chips) 
+Seat 6: Lorpugo ($1.86 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ah]
+elchicosinombre: raises $0.05 to $0.07
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: raises $0.07 to $0.14
+França1986: folds 
+SKV_1985: folds 
+elchicosinombre: calls $0.07
+*** FLOP *** [5d 5c 9h]
+elchicosinombre: checks 
+Allien79PL: bets $0.15
+elchicosinombre: calls $0.15
+*** TURN *** [5d 5c 9h] [Td]
+elchicosinombre: checks 
+Allien79PL: checks 
+*** RIVER *** [5d 5c 9h Td] [2c]
+elchicosinombre: checks 
+Allien79PL: checks 
+*** SHOW DOWN ***
+elchicosinombre: shows [Kd As] (a pair of Fives)
+Allien79PL: mucks hand 
+elchicosinombre collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [5d 5c 9h Td 2c]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL (button) mucked [Kh Qh]
+Seat 3: França1986 (small blind) folded before Flop
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: elchicosinombre showed [Kd As] and won ($0.59) with a pair of Fives
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729114201:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:15:44 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.92 in chips) 
+Seat 2: Allien79PL ($1.06 in chips) 
+Seat 3: França1986 ($1.84 in chips) 
+Seat 4: SKV_1985 ($2.16 in chips) 
+Seat 5: elchicosinombre ($1.96 in chips) 
+Seat 6: Lorpugo ($1.86 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7s]
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+Allien79PL: calls $0.06
+França1986: calls $0.06
+SKV_1985: folds 
+elchicosinombre: folds 
+*** FLOP *** [Qh 2d 6c]
+Lorpugo: checks 
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [Qh 2d 6c] [2h]
+Lorpugo: checks 
+Allien79PL: checks 
+França1986: checks 
+*** RIVER *** [Qh 2d 6c 2h] [9d]
+Lorpugo: bets $0.07
+Allien79PL: folds 
+França1986: raises $0.07 to $0.14
+Lorpugo: calls $0.07
+*** SHOW DOWN ***
+França1986: shows [8d 2s] (three of a kind, Deuces)
+Lorpugo: mucks hand 
+França1986 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Qh 2d 6c 2h 9d]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL folded on the River
+Seat 3: França1986 (button) showed [8d 2s] and won ($0.47) with three of a kind, Deuces
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 5: elchicosinombre (big blind) folded before Flop
+Seat 6: Lorpugo mucked [9s 7s]
+
+
+
+PokerStars Hand #240729132098:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:16:30 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.92 in chips) 
+Seat 2: Allien79PL ($1 in chips) 
+Seat 3: França1986 ($2.11 in chips) 
+Seat 4: SKV_1985 ($2.15 in chips) 
+Seat 5: elchicosinombre ($1.94 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Kh]
+Nuka1989: raises $0.06 to $0.08
+Allien79PL: folds 
+França1986: calls $0.08
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: raises $0.25 to $0.33
+Nuka1989: folds 
+França1986: folds 
+Uncalled bet ($0.25) returned to Lorpugo
+Lorpugo collected $0.25 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nuka1989 folded before Flop
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 folded before Flop
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: elchicosinombre (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.25)
+
+
+
+PokerStars Hand #240729146121:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:17:07 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.84 in chips) 
+Seat 2: Allien79PL ($1 in chips) 
+Seat 3: França1986 ($2.03 in chips) 
+Seat 4: SKV_1985 ($2.15 in chips) 
+Seat 5: elchicosinombre ($1.93 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 2c]
+Allien79PL: folds 
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: checks 
+*** FLOP *** [7c 3h 4s]
+Nuka1989: checks 
+França1986: checks 
+*** TURN *** [7c 3h 4s] [4h]
+Nuka1989: bets $0.10
+França1986: folds 
+Uncalled bet ($0.10) returned to Nuka1989
+Nuka1989 collected $0.05 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c 3h 4s 4h]
+Seat 1: Nuka1989 (big blind) collected ($0.05)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 folded on the Turn
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729161307:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:17:47 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.87 in chips) 
+Seat 2: Allien79PL ($1 in chips) 
+Seat 3: França1986 ($2.01 in chips) 
+Seat 4: SKV_1985 ($2.15 in chips) 
+Seat 5: elchicosinombre ($1.93 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh As]
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: raises $0.07 to $0.09
+Nuka1989: folds 
+Allien79PL: calls $0.07
+França1986: calls $0.07
+*** FLOP *** [Kh 5c 6s]
+Allien79PL: checks 
+França1986: checks 
+Lorpugo: bets $0.14
+Allien79PL: folds 
+França1986: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Kh 5c 6s]
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: Allien79PL (big blind) folded on the Flop
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.27)
+
+
+
+PokerStars Hand #240729177473:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:18:29 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.86 in chips) 
+Seat 2: Allien79PL ($0.91 in chips) 
+Seat 3: França1986 ($1.92 in chips) 
+Seat 4: SKV_1985 ($2.15 in chips) 
+Seat 5: elchicosinombre ($1.93 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+Allien79PL: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Th]
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: raises $0.04 to $0.06
+Allien79PL: raises $0.14 to $0.20
+França1986: folds 
+Nuka1989: folds 
+Uncalled bet ($0.14) returned to Allien79PL
+Allien79PL collected $0.14 from pot
+Allien79PL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Nuka1989 (button) folded before Flop
+Seat 2: Allien79PL (small blind) collected ($0.14)
+Seat 3: França1986 (big blind) folded before Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729193495:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:19:11 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.80 in chips) 
+Seat 2: Allien79PL ($0.99 in chips) 
+Seat 3: França1986 ($1.90 in chips) 
+Seat 4: SKV_1985 ($2.15 in chips) 
+Seat 5: elchicosinombre ($1.93 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6s]
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: raises $0.06 to $0.08
+Allien79PL: calls $0.08
+França1986: calls $0.07
+SKV_1985: folds 
+*** FLOP *** [Ac Kc 7s]
+França1986: checks 
+Nuka1989: bets $0.20
+Allien79PL: folds 
+França1986: calls $0.20
+*** TURN *** [Ac Kc 7s] [Js]
+França1986: checks 
+Nuka1989: bets $0.48
+França1986: calls $0.48
+*** RIVER *** [Ac Kc 7s Js] [8d]
+França1986: bets $1.14 and is all-in
+Nuka1989: calls $1.14
+*** SHOW DOWN ***
+França1986: shows [Ah 8s] (two pair, Aces and Eights)
+Nuka1989: shows [As Qs] (a pair of Aces)
+França1986 collected $3.76 from pot
+*** SUMMARY ***
+Total pot $3.90 | Rake $0.14 
+Board [Ac Kc 7s Js 8d]
+Seat 1: Nuka1989 showed [As Qs] and lost with a pair of Aces
+Seat 2: Allien79PL (button) folded on the Flop
+Seat 3: França1986 (small blind) showed [Ah 8s] and won ($3.76) with two pair, Aces and Eights
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729216851:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:20:12 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($0.91 in chips) 
+Seat 3: França1986 ($3.76 in chips) 
+Seat 4: SKV_1985 ($2.13 in chips) 
+Seat 5: elchicosinombre ($1.93 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Th]
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: calls $0.02
+França1986: calls $0.02
+SKV_1985: raises $0.10 to $0.12
+elchicosinombre: folds 
+Allien79PL: calls $0.10
+França1986: calls $0.10
+*** FLOP *** [Qc 6d 4d]
+SKV_1985: checks 
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [Qc 6d 4d] [7d]
+SKV_1985: checks 
+Allien79PL: bets $0.19
+França1986: folds 
+SKV_1985: folds 
+Uncalled bet ($0.19) returned to Allien79PL
+Allien79PL collected $0.37 from pot
+Allien79PL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Qc 6d 4d 7d]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL collected ($0.37)
+Seat 3: França1986 (button) folded on the Turn
+Seat 4: SKV_1985 (small blind) folded on the Turn
+Seat 5: elchicosinombre (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729235789:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:21:01 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.16 in chips) 
+Seat 3: França1986 ($3.64 in chips) 
+Seat 4: SKV_1985 ($2.01 in chips) 
+Seat 5: elchicosinombre ($1.91 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 2s]
+Nuka1989: folds 
+Allien79PL: folds 
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Tc Jd 2h]
+elchicosinombre: checks 
+Lorpugo: checks 
+França1986: checks 
+*** TURN *** [Tc Jd 2h] [Js]
+elchicosinombre: checks 
+Lorpugo: bets $0.06
+França1986: calls $0.06
+elchicosinombre: folds 
+*** RIVER *** [Tc Jd 2h Js] [2c]
+Lorpugo: bets $0.09
+França1986: calls $0.09
+*** SHOW DOWN ***
+Lorpugo: shows [Kd 2s] (a full house, Deuces full of Jacks)
+França1986: mucks hand 
+Lorpugo collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Tc Jd 2h Js 2c]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 mucked [4h Td]
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: elchicosinombre (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) showed [Kd 2s] and won ($0.35) with a full house, Deuces full of Jacks
+
+
+
+PokerStars Hand #240729258409:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:21:59 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.16 in chips) 
+Seat 3: França1986 ($3.47 in chips) 
+Seat 4: SKV_1985 ($2.01 in chips) 
+Seat 5: elchicosinombre ($1.89 in chips) 
+Seat 6: Lorpugo ($2.18 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5c]
+Allien79PL: raises $0.09 to $0.11
+França1986: calls $0.11
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+*** FLOP *** [Qh Jc 7s]
+Allien79PL: bets $0.24
+França1986: folds 
+Uncalled bet ($0.24) returned to Allien79PL
+Allien79PL collected $0.24 from pot
+Allien79PL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh Jc 7s]
+Seat 1: Nuka1989 (big blind) folded before Flop
+Seat 2: Allien79PL collected ($0.24)
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729274947:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:22:42 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.29 in chips) 
+Seat 3: França1986 ($3.36 in chips) 
+Seat 4: SKV_1985 ($2.01 in chips) 
+Seat 5: elchicosinombre ($1.89 in chips) 
+Seat 6: Lorpugo ($2.17 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Kc]
+França1986: folds 
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+Allien79PL: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: Allien79PL (big blind) folded before Flop
+Seat 3: França1986 folded before Flop (didn't bet)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240729287337:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:23:14 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.27 in chips) 
+Seat 3: França1986 ($3.36 in chips) 
+Seat 4: SKV_1985 ($2.01 in chips) 
+Seat 5: elchicosinombre ($1.89 in chips) 
+Seat 6: Lorpugo ($2.20 in chips) 
+Allien79PL: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 5d]
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+Allien79PL: calls $0.05
+França1986: calls $0.04
+*** FLOP *** [3h As 3c]
+Allien79PL: checks 
+França1986: checks 
+Lorpugo: bets $0.09
+Allien79PL: folds 
+França1986: calls $0.09
+*** TURN *** [3h As 3c] [4s]
+França1986: checks 
+Lorpugo: checks 
+*** RIVER *** [3h As 3c 4s] [7c]
+França1986: bets $2.38
+Lorpugo: folds 
+Uncalled bet ($2.38) returned to França1986
+França1986 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [3h As 3c 4s 7c]
+Seat 1: Nuka1989 (button) folded before Flop (didn't bet)
+Seat 2: Allien79PL (small blind) folded on the Flop
+Seat 3: França1986 (big blind) collected ($0.35)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the River
+
+
+
+PokerStars Hand #240729313257:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:24:21 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.21 in chips) 
+Seat 3: França1986 ($3.56 in chips) 
+Seat 4: SKV_1985 ($2.01 in chips) 
+Seat 5: elchicosinombre ($1.89 in chips) 
+Seat 6: Lorpugo ($2.05 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ad]
+elchicosinombre: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+Allien79PL: folds 
+França1986: folds 
+SKV_1985: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL (button) folded before Flop (didn't bet)
+Seat 3: França1986 (small blind) folded before Flop
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240729322588:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:24:45 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 2: Allien79PL ($1.21 in chips) 
+Seat 3: França1986 ($3.55 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($1.89 in chips) 
+Seat 6: Lorpugo ($2.08 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 7d]
+Lorpugo: folds 
+Nuka1989: raises $0.04 to $0.06
+Allien79PL has timed out
+Allien79PL: folds 
+França1986: calls $0.06
+SKV_1985: folds 
+elchicosinombre: calls $0.04
+*** FLOP *** [7h 9c 6d]
+elchicosinombre: checks 
+Nuka1989: checks 
+França1986: checks 
+*** TURN *** [7h 9c 6d] [2s]
+elchicosinombre: checks 
+Nuka1989: bets $0.27
+França1986: folds 
+elchicosinombre: folds 
+Uncalled bet ($0.27) returned to Nuka1989
+Nuka1989 collected $0.18 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7h 9c 6d 2s]
+Seat 1: Nuka1989 collected ($0.18)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 (button) folded on the Turn
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 5: elchicosinombre (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729344404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:25:40 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.12 in chips) 
+Seat 3: França1986 ($3.49 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($1.83 in chips) 
+Seat 6: Lorpugo ($2.08 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6s]
+Nuka1989: folds 
+França1986: raises $0.10 to $0.12
+SKV_1985: folds 
+elchicosinombre: calls $0.11
+Lorpugo: calls $0.10
+*** FLOP *** [4s 5c Jh]
+elchicosinombre: checks 
+Lorpugo: checks 
+França1986: checks 
+*** TURN *** [4s 5c Jh] [2h]
+elchicosinombre: checks 
+Lorpugo: bets $0.18
+França1986: calls $0.18
+elchicosinombre: folds 
+*** RIVER *** [4s 5c Jh 2h] [Qh]
+Lorpugo: checks 
+França1986: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6h 6s] (a pair of Sixes)
+França1986: shows [9c 9s] (a pair of Nines)
+França1986 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [4s 5c Jh 2h Qh]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 3: França1986 showed [9c 9s] and won ($0.69) with a pair of Nines
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: elchicosinombre (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) showed [6h 6s] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #240729362299:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:26:25 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.12 in chips) 
+Seat 3: França1986 ($3.88 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: elchicosinombre ($1.71 in chips) 
+Seat 6: Lorpugo ($1.78 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3c]
+França1986: calls $0.02
+SKV_1985: raises $0.06 to $0.08
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+França1986: calls $0.06
+*** FLOP *** [Ac Qc 8s]
+França1986: checks 
+SKV_1985: bets $0.11
+França1986: folds 
+Uncalled bet ($0.11) returned to SKV_1985
+SKV_1985 collected $0.18 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ac Qc 8s]
+Seat 1: Nuka1989 (big blind) folded before Flop
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 collected ($0.18)
+Seat 5: elchicosinombre (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729372352:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:26:51 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.10 in chips) 
+Seat 3: França1986 ($3.80 in chips) 
+Seat 4: SKV_1985 ($2.10 in chips) 
+Seat 5: elchicosinombre ($1.71 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+Nuka1989: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7d]
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: calls $0.05
+França1986: folds 
+*** FLOP *** [8c Jc 6s]
+Nuka1989: checks 
+Lorpugo: checks 
+*** TURN *** [8c Jc 6s] [7h]
+Nuka1989: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to Nuka1989
+Nuka1989 collected $0.14 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c Jc 6s 7h]
+Seat 1: Nuka1989 (small blind) collected ($0.14)
+Seat 3: França1986 (big blind) folded before Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded on the Turn
+
+
+
+PokerStars Hand #240729383613:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:27:19 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.18 in chips) 
+Seat 3: França1986 ($3.78 in chips) 
+Seat 4: SKV_1985 ($2.10 in chips) 
+Seat 5: elchicosinombre ($1.71 in chips) 
+Seat 6: Lorpugo ($1.71 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 6s]
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: raises $0.04 to $0.06
+França1986: calls $0.05
+SKV_1985: folds 
+*** FLOP *** [4h 6h 7h]
+França1986: checks 
+Nuka1989: checks 
+*** TURN *** [4h 6h 7h] [4d]
+França1986: checks 
+Nuka1989: checks 
+*** RIVER *** [4h 6h 7h 4d] [Kd]
+França1986: checks 
+Nuka1989: checks 
+*** SHOW DOWN ***
+França1986: shows [Jh 5d] (a pair of Fours)
+Nuka1989: shows [Ad 8d] (a pair of Fours - Ace kicker)
+Nuka1989 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4h 6h 7h 4d Kd]
+Seat 1: Nuka1989 (button) showed [Ad 8d] and won ($0.14) with a pair of Fours
+Seat 3: França1986 (small blind) showed [Jh 5d] and lost with a pair of Fours
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729405249:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:28:14 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 3: França1986 ($3.72 in chips) 
+Seat 4: SKV_1985 ($2.08 in chips) 
+Seat 5: elchicosinombre ($1.71 in chips) 
+Seat 6: Lorpugo ($1.71 in chips) 
+SKV_1985: posts small blind $0.01
+elchicosinombre: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ts]
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+França1986: folds 
+SKV_1985: calls $0.05
+elchicosinombre: folds 
+*** FLOP *** [9d 8h 8c]
+SKV_1985: checks 
+Lorpugo: bets $0.07
+SKV_1985: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9d 8h 8c]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 3: França1986 (button) folded before Flop (didn't bet)
+Seat 4: SKV_1985 (small blind) folded on the Flop
+Seat 5: elchicosinombre (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.14)
+
+
+
+PokerStars Hand #240729415959:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:28:41 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 2: Allien79PL ($1.21 in chips) 
+Seat 3: França1986 ($3.72 in chips) 
+Seat 4: SKV_1985 ($2.02 in chips) 
+Seat 5: elchicosinombre ($1.69 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+elchicosinombre: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Allien79PL: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 3d]
+Nuka1989: folds 
+Allien79PL: checks 
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [8d Ac 4h]
+elchicosinombre: checks 
+Lorpugo: checks 
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [8d Ac 4h] [9h]
+elchicosinombre: checks 
+Lorpugo: checks 
+Allien79PL: checks 
+França1986: checks 
+*** RIVER *** [8d Ac 4h 9h] [Kc]
+elchicosinombre: bets $0.05
+Lorpugo: folds 
+Allien79PL: calls $0.05
+França1986: folds 
+*** SHOW DOWN ***
+elchicosinombre: shows [Kd 8c] (two pair, Kings and Eights)
+Allien79PL: mucks hand 
+elchicosinombre collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8d Ac 4h 9h Kc]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL mucked [4c 5h]
+Seat 3: França1986 folded on the River
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: elchicosinombre (small blind) showed [Kd 8c] and won ($0.18) with two pair, Kings and Eights
+Seat 6: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #240729445677:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:29:56 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 2: Allien79PL ($1.13 in chips) 
+Seat 3: França1986 ($3.70 in chips) 
+Seat 4: SKV_1985 ($2.02 in chips) 
+Seat 5: elchicosinombre ($1.80 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5s]
+Allien79PL: calls $0.02
+França1986: calls $0.02
+SKV_1985: folds 
+elchicosinombre: raises $0.03 to $0.05
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: calls $0.03
+França1986: calls $0.03
+*** FLOP *** [5d Qd Qs]
+Allien79PL: checks 
+França1986: bets $0.14
+elchicosinombre: folds 
+Allien79PL: folds 
+Uncalled bet ($0.14) returned to França1986
+França1986 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5d Qd Qs]
+Seat 1: Nuka1989 (big blind) folded before Flop
+Seat 2: Allien79PL folded on the Flop
+Seat 3: França1986 collected ($0.17)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729471348:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:30:59 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.24 in chips) 
+Seat 2: Allien79PL ($1.08 in chips) 
+Seat 3: França1986 ($3.82 in chips) 
+Seat 4: SKV_1985 ($2.02 in chips) 
+Seat 5: elchicosinombre ($1.75 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 4s]
+França1986: raises $0.40 to $0.42
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: folds 
+Uncalled bet ($0.40) returned to França1986
+França1986 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: Allien79PL (big blind) folded before Flop
+Seat 3: França1986 collected ($0.05)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729481167:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:31:23 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.23 in chips) 
+Seat 2: Allien79PL ($1.06 in chips) 
+Seat 3: França1986 ($3.85 in chips) 
+Seat 4: SKV_1985 ($2.02 in chips) 
+Seat 5: elchicosinombre ($1.75 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Allien79PL: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 9s]
+SKV_1985: folds 
+elchicosinombre: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: calls $0.01
+França1986: checks 
+*** FLOP *** [Jh 9h 9d]
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [Jh 9h 9d] [Kd]
+Allien79PL: checks 
+França1986: checks 
+*** RIVER *** [Jh 9h 9d Kd] [8s]
+Allien79PL: bets $0.02
+França1986: raises $0.10 to $0.12
+Allien79PL: folds 
+Uncalled bet ($0.10) returned to França1986
+França1986 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Jh 9h 9d Kd 8s]
+Seat 1: Nuka1989 (button) folded before Flop (didn't bet)
+Seat 2: Allien79PL (small blind) folded on the River
+Seat 3: França1986 (big blind) collected ($0.08)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729501044:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:32:12 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.23 in chips) 
+Seat 2: Allien79PL ($1.02 in chips) 
+Seat 3: França1986 ($3.89 in chips) 
+Seat 4: SKV_1985 ($2.02 in chips) 
+Seat 5: elchicosinombre ($1.75 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Qd]
+elchicosinombre: folds 
+elchicosinombre leaves the table
+Lorpugo: folds 
+Nuka1989: raises $0.04 to $0.06
+Allien79PL has timed out
+Allien79PL: folds 
+França1986: calls $0.05
+SKV_1985: folds 
+*** FLOP *** [6h 8h 7h]
+França1986: checks 
+Nuka1989: bets $0.11
+França1986: calls $0.11
+*** TURN *** [6h 8h 7h] [5s]
+França1986: checks 
+Nuka1989: checks 
+*** RIVER *** [6h 8h 7h 5s] [2d]
+França1986: bets $0.44
+Nuka1989: folds 
+Uncalled bet ($0.44) returned to França1986
+França1986 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6h 8h 7h 5s 2d]
+Seat 1: Nuka1989 folded on the River
+Seat 2: Allien79PL (button) folded before Flop (didn't bet)
+Seat 3: França1986 (small blind) collected ($0.35)
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: elchicosinombre folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729532153:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:33:28 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.06 in chips) 
+Seat 2: Allien79PL ($1.02 in chips) 
+Seat 3: França1986 ($4.07 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+SKV_1985: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Kc]
+Nuka1989: folds 
+Allien79PL: folds 
+França1986: calls $0.02
+SKV_1985: folds 
+Lorpugo: raises $0.05 to $0.07
+França1986: calls $0.05
+*** FLOP *** [4d 2d 5c]
+Lorpugo: checks 
+França1986: checks 
+*** TURN *** [4d 2d 5c] [Ah]
+Edivaldomen joins the table at seat #5 
+Lorpugo: checks 
+França1986: checks 
+*** RIVER *** [4d 2d 5c Ah] [8h]
+Lorpugo: checks 
+França1986: bets $1.12
+Lorpugo: folds 
+Uncalled bet ($1.12) returned to França1986
+França1986 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d 2d 5c Ah 8h]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 (button) collected ($0.14)
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #240729550728:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:34:14 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.06 in chips) 
+Seat 2: Allien79PL ($1.02 in chips) 
+Seat 3: França1986 ($4.14 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ad]
+Allien79PL has timed out
+Allien79PL: folds 
+França1986: calls $0.02
+SKV_1985: folds 
+Lorpugo: calls $0.01
+Nuka1989: raises $0.09 to $0.11
+França1986: calls $0.09
+Lorpugo: calls $0.09
+*** FLOP *** [Td 8s Kc]
+Lorpugo: checks 
+Nuka1989: bets $0.16
+França1986: folds 
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to Nuka1989
+Nuka1989 collected $0.32 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Td 8s Kc]
+Seat 1: Nuka1989 (big blind) collected ($0.32)
+Seat 2: Allien79PL folded before Flop (didn't bet)
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240729574435:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:35:12 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.27 in chips) 
+Seat 2: Allien79PL ($1.02 in chips) 
+Seat 3: França1986 ($4.03 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: Edivaldomen ($0.80 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+Edivaldomen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8h]
+França1986: calls $0.02
+SKV_1985: folds 
+Edivaldomen: checks 
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: checks 
+*** FLOP *** [Ts 3h 3c]
+Allien79PL: checks 
+França1986: checks 
+Edivaldomen: checks 
+*** TURN *** [Ts 3h 3c] [Qs]
+Allien79PL: checks 
+França1986: checks 
+Edivaldomen: checks 
+*** RIVER *** [Ts 3h 3c Qs] [Ac]
+Allien79PL: checks 
+França1986: bets $0.14
+Edivaldomen: folds 
+Allien79PL: folds 
+Uncalled bet ($0.14) returned to França1986
+França1986 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ts 3h 3c Qs Ac]
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: Allien79PL (big blind) folded on the River
+Seat 3: França1986 collected ($0.07)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Edivaldomen folded on the River (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729601064:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:36:17 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 2: Allien79PL ($1 in chips) 
+Seat 3: França1986 ($4.08 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: Edivaldomen ($0.78 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Allien79PL: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 4d]
+SKV_1985: folds 
+Edivaldomen has timed out
+Edivaldomen: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: folds 
+Uncalled bet ($0.01) returned to França1986
+França1986 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Nuka1989 (button) folded before Flop (didn't bet)
+Seat 2: Allien79PL (small blind) folded before Flop
+Seat 3: França1986 (big blind) collected ($0.02)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Edivaldomen folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729612628:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:36:46 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 2: Allien79PL ($0.99 in chips) 
+Seat 3: França1986 ($4.09 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: Edivaldomen ($0.78 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Jd]
+Edivaldomen: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+Allien79PL: folds 
+França1986: calls $0.05
+SKV_1985: folds 
+*** FLOP *** [3c Kd 4h]
+França1986: checks 
+Lorpugo: checks 
+*** TURN *** [3c Kd 4h] [Jh]
+França1986: checks 
+Lorpugo: checks 
+*** RIVER *** [3c Kd 4h Jh] [Td]
+França1986: bets $0.16
+Lorpugo: calls $0.16
+*** SHOW DOWN ***
+França1986: shows [3h Ah] (a pair of Threes)
+Lorpugo: shows [Qh Jd] (a pair of Jacks)
+Lorpugo collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [3c Kd 4h Jh Td]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: Allien79PL (button) folded before Flop (didn't bet)
+Seat 3: França1986 (small blind) showed [3h Ah] and lost with a pair of Threes
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: Edivaldomen folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [Qh Jd] and won ($0.44) with a pair of Jacks
+
+
+
+PokerStars Hand #240729630364:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:37:29 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 3: França1986 ($3.87 in chips) 
+Seat 4: SKV_1985 ($2 in chips) 
+Seat 5: Edivaldomen ($0.78 in chips) 
+Seat 6: Lorpugo ($1.80 in chips) 
+SKV_1985: posts small blind $0.01
+Edivaldomen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Qc]
+Lorpugo: folds 
+Nuka1989: folds 
+França1986: calls $0.02
+SKV_1985: raises $0.07 to $0.09
+Edivaldomen: folds 
+França1986: calls $0.07
+*** FLOP *** [Th Kd 9s]
+SKV_1985: bets $0.12
+França1986: folds 
+Uncalled bet ($0.12) returned to SKV_1985
+SKV_1985 collected $0.19 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Th Kd 9s]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 3: França1986 (button) folded on the Flop
+Seat 4: SKV_1985 (small blind) collected ($0.19)
+Seat 5: Edivaldomen (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729643832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:38:02 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 3: França1986 ($3.78 in chips) 
+Seat 4: SKV_1985 ($2.10 in chips) 
+Seat 5: Edivaldomen ($0.76 in chips) 
+Seat 6: Lorpugo ($1.80 in chips) 
+Edivaldomen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Qh]
+Nuka1989: folds 
+França1986: calls $0.02
+SKV_1985: raises $0.06 to $0.08
+Edivaldomen: folds 
+Lorpugo: folds 
+França1986: calls $0.06
+*** FLOP *** [Kh As 3d]
+França1986: checks 
+SKV_1985: bets $0.11
+França1986: folds 
+Uncalled bet ($0.11) returned to SKV_1985
+SKV_1985 collected $0.18 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kh As 3d]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 (button) collected ($0.18)
+Seat 5: Edivaldomen (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729653424:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:38:26 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.26 in chips) 
+Seat 3: França1986 ($3.70 in chips) 
+Seat 4: SKV_1985 ($2.20 in chips) 
+Seat 5: Edivaldomen ($0.75 in chips) 
+Seat 6: Lorpugo ($1.78 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 2h]
+França1986: calls $0.02
+SKV_1985: raises $0.06 to $0.08
+Edivaldomen: calls $0.08
+Lorpugo: folds 
+Nuka1989: folds 
+França1986: calls $0.06
+*** FLOP *** [7c 5c 8c]
+França1986: checks 
+SKV_1985: bets $0.16
+Edivaldomen: calls $0.16
+França1986: calls $0.16
+*** TURN *** [7c 5c 8c] [Th]
+França1986: checks 
+SKV_1985: bets $0.45
+Edivaldomen: calls $0.45
+França1986: folds 
+*** RIVER *** [7c 5c 8c Th] [4s]
+SKV_1985: bets $0.99
+Edivaldomen: calls $0.06 and is all-in
+Uncalled bet ($0.93) returned to SKV_1985
+*** SHOW DOWN ***
+SKV_1985: shows [Kc Jc] (a flush, King high)
+Edivaldomen: shows [Ad As] (a pair of Aces)
+SKV_1985 collected $1.71 from pot
+*** SUMMARY ***
+Total pot $1.77 | Rake $0.06 
+Board [7c 5c 8c Th 4s]
+Seat 1: Nuka1989 (big blind) folded before Flop
+Seat 3: França1986 folded on the Turn
+Seat 4: SKV_1985 showed [Kc Jc] and won ($1.71) with a flush, King high
+Seat 5: Edivaldomen (button) showed [Ad As] and lost with a pair of Aces
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729671638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:39:11 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.24 in chips) 
+Seat 2: Allien79PL ($0.99 in chips) 
+Seat 3: França1986 ($3.46 in chips) 
+Seat 4: SKV_1985 ($3.16 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+Nuka1989: posts small blind $0.01
+Allien79PL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 6d]
+França1986: calls $0.02
+SKV_1985: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: checks 
+*** FLOP *** [9c Ts Ad]
+Edivaldomen leaves the table
+Allien79PL: checks 
+França1986: checks 
+*** TURN *** [9c Ts Ad] [4h]
+Allien79PL: checks 
+França1986: checks 
+*** RIVER *** [9c Ts Ad 4h] [8h]
+Musil1995LVE joins the table at seat #5 
+Allien79PL: checks 
+França1986: bets $0.80
+Allien79PL: folds 
+Uncalled bet ($0.80) returned to França1986
+França1986 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c Ts Ad 4h 8h]
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: Allien79PL (big blind) folded on the River
+Seat 3: França1986 collected ($0.05)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729685207:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:39:44 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.23 in chips) 
+Seat 2: Allien79PL ($0.97 in chips) 
+Seat 3: França1986 ($3.49 in chips) 
+Seat 4: SKV_1985 ($3.16 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+Allien79PL: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 9c]
+SKV_1985: raises $0.03 to $0.05
+Lorpugo: folds 
+Nuka1989: folds 
+Allien79PL: raises $0.92 to $0.97 and is all-in
+França1986: folds 
+SKV_1985: calls $0.92
+*** FLOP *** [4s Qd Jd]
+*** TURN *** [4s Qd Jd] [9s]
+*** RIVER *** [4s Qd Jd 9s] [2h]
+*** SHOW DOWN ***
+Allien79PL: shows [Th Ac] (high card Ace)
+SKV_1985: shows [Ks Kh] (a pair of Kings)
+SKV_1985 collected $1.89 from pot
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.07 
+Board [4s Qd Jd 9s 2h]
+Seat 1: Nuka1989 (button) folded before Flop (didn't bet)
+Seat 2: Allien79PL (small blind) showed [Th Ac] and lost with high card Ace
+Seat 3: França1986 (big blind) folded before Flop
+Seat 4: SKV_1985 showed [Ks Kh] and won ($1.89) with a pair of Kings
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729695823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:40:10 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.23 in chips) 
+Seat 3: França1986 ($3.47 in chips) 
+Seat 4: SKV_1985 ($4.08 in chips) 
+Seat 5: Musil1995LVE ($0.80 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+SKV_1985: posts small blind $0.01
+Musil1995LVE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 8c]
+Allien79PL leaves the table
+Lorpugo: folds 
+Nuka1989: folds 
+França1986: calls $0.02
+SKV_1985: calls $0.01
+Musil1995LVE: checks 
+*** FLOP *** [5h Tc 8h]
+nikosbo977 joins the table at seat #2 
+SKV_1985: checks 
+Musil1995LVE: checks 
+França1986: bets $0.16
+SKV_1985: folds 
+Musil1995LVE: folds 
+Uncalled bet ($0.16) returned to França1986
+França1986 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5h Tc 8h]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 3: França1986 (button) collected ($0.06)
+Seat 4: SKV_1985 (small blind) folded on the Flop
+Seat 5: Musil1995LVE (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729708557:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:40:41 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.23 in chips) 
+Seat 2: nikosbo977 ($0.80 in chips) 
+Seat 3: França1986 ($3.51 in chips) 
+Seat 4: SKV_1985 ($4.06 in chips) 
+Seat 5: Musil1995LVE ($0.78 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+Musil1995LVE: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+nikosbo977: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qd]
+Nuka1989: folds 
+nikosbo977: checks 
+França1986: calls $0.02
+SKV_1985: raises $0.10 to $0.12
+Musil1995LVE: folds 
+Lorpugo: folds 
+nikosbo977: calls $0.10
+França1986: calls $0.10
+*** FLOP *** [9s Td 6d]
+nikosbo977: checks 
+França1986: checks 
+SKV_1985: bets $0.24
+nikosbo977: folds 
+França1986: folds 
+Uncalled bet ($0.24) returned to SKV_1985
+SKV_1985 collected $0.38 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [9s Td 6d]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: nikosbo977 folded on the Flop
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 (button) collected ($0.38)
+Seat 5: Musil1995LVE (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729725138:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:41:21 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.23 in chips) 
+Seat 2: nikosbo977 ($0.68 in chips) 
+Seat 3: França1986 ($3.39 in chips) 
+Seat 4: SKV_1985 ($4.32 in chips) 
+Seat 5: Musil1995LVE ($0.77 in chips) 
+Seat 6: Lorpugo ($1.75 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 6c]
+nikosbo977: calls $0.02
+França1986: calls $0.02
+SKV_1985: folds 
+Musil1995LVE: folds 
+Lorpugo: folds 
+Nuka1989: checks 
+*** FLOP *** [3c 6h Ac]
+Nuka1989: checks 
+nikosbo977: checks 
+França1986: checks 
+*** TURN *** [3c 6h Ac] [9s]
+Nuka1989: checks 
+nikosbo977: checks 
+França1986: checks 
+*** RIVER *** [3c 6h Ac 9s] [2d]
+Nuka1989: checks 
+nikosbo977: checks 
+França1986: bets $0.26
+Nuka1989: folds 
+nikosbo977: folds 
+Uncalled bet ($0.26) returned to França1986
+França1986 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3c 6h Ac 9s 2d]
+Seat 1: Nuka1989 (big blind) folded on the River
+Seat 2: nikosbo977 folded on the River
+Seat 3: França1986 collected ($0.07)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729738801:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:41:54 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.21 in chips) 
+Seat 2: nikosbo977 ($0.66 in chips) 
+Seat 3: França1986 ($3.44 in chips) 
+Seat 4: SKV_1985 ($4.32 in chips) 
+Seat 5: Musil1995LVE ($0.77 in chips) 
+Seat 6: Lorpugo ($1.74 in chips) 
+Nuka1989: posts small blind $0.01
+nikosbo977: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ad]
+França1986: calls $0.02
+SKV_1985: folds 
+Musil1995LVE: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+Nuka1989: folds 
+nikosbo977: calls $0.02
+França1986: calls $0.02
+*** FLOP *** [Jc 8c 3h]
+nikosbo977: bets $0.06
+França1986: calls $0.06
+Musil1995LVE: folds 
+Lorpugo: folds 
+*** TURN *** [Jc 8c 3h] [Qc]
+nikosbo977: bets $0.02
+França1986: calls $0.02
+*** RIVER *** [Jc 8c 3h Qc] [6d]
+nikosbo977: bets $0.02
+França1986: calls $0.02
+*** SHOW DOWN ***
+nikosbo977: shows [Jh 9c] (a pair of Jacks)
+França1986: mucks hand 
+nikosbo977 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jc 8c 3h Qc 6d]
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: nikosbo977 (big blind) showed [Jh 9c] and won ($0.36) with a pair of Jacks
+Seat 3: França1986 mucked [6h 9h]
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE folded on the Flop
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #240729756048:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:42:37 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.20 in chips) 
+Seat 2: nikosbo977 ($0.88 in chips) 
+Seat 3: França1986 ($3.30 in chips) 
+Seat 4: SKV_1985 ($4.32 in chips) 
+Seat 5: Musil1995LVE ($0.73 in chips) 
+Seat 6: Lorpugo ($1.70 in chips) 
+nikosbo977: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5c]
+SKV_1985: folds 
+Musil1995LVE: folds 
+Lorpugo: folds 
+Nuka1989: raises $0.06 to $0.08
+nikosbo977: calls $0.07
+França1986: calls $0.06
+*** FLOP *** [9c Jd 8d]
+nikosbo977: checks 
+França1986: checks 
+Nuka1989: bets $0.46
+nikosbo977: raises $0.34 to $0.80 and is all-in
+França1986: calls $0.80
+Nuka1989: calls $0.34
+*** TURN *** [9c Jd 8d] [3s]
+França1986: checks 
+Nuka1989: bets $1.32 and is all-in
+França1986: calls $1.32
+*** RIVER *** [9c Jd 8d 3s] [Qd]
+*** SHOW DOWN ***
+França1986: shows [5d 4d] (a flush, Queen high)
+Nuka1989: shows [Kc Kh] (a pair of Kings)
+França1986 collected $2.55 from side pot
+nikosbo977: shows [Jc Js] (three of a kind, Jacks)
+França1986 collected $2.55 from main pot
+*** SUMMARY ***
+Total pot $5.28 Main pot $2.55. Side pot $2.55. | Rake $0.18 
+Board [9c Jd 8d 3s Qd]
+Seat 1: Nuka1989 (button) showed [Kc Kh] and lost with a pair of Kings
+Seat 2: nikosbo977 (small blind) showed [Jc Js] and lost with three of a kind, Jacks
+Seat 3: França1986 (big blind) showed [5d 4d] and won ($5.10) with a flush, Queen high
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729777841:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:43:30 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 3: França1986 ($6.20 in chips) 
+Seat 4: SKV_1985 ($4.32 in chips) 
+Seat 5: Musil1995LVE ($0.73 in chips) 
+Seat 6: Lorpugo ($1.70 in chips) 
+SKV_1985: posts small blind $0.01
+Musil1995LVE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ts]
+Lorpugo: folds 
+Nuka1989: folds 
+França1986: calls $0.02
+nikosbo977 leaves the table
+SKV_1985: calls $0.01
+Musil1995LVE: checks 
+*** FLOP *** [Kc 6h 2h]
+SKV_1985: checks 
+Musil1995LVE: checks 
+França1986: bets $0.24
+capes99 joins the table at seat #2 
+SKV_1985: folds 
+Musil1995LVE: calls $0.24
+*** TURN *** [Kc 6h 2h] [Qd]
+Musil1995LVE: checks 
+França1986: bets $0.14
+Musil1995LVE: folds 
+Uncalled bet ($0.14) returned to França1986
+França1986 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Kc 6h 2h Qd]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 3: França1986 (button) collected ($0.52)
+Seat 4: SKV_1985 (small blind) folded on the Flop
+Seat 5: Musil1995LVE (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729790388:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:00 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2 in chips) 
+Seat 3: França1986 ($6.46 in chips) 
+Seat 4: SKV_1985 ($4.30 in chips) 
+Seat 5: Musil1995LVE ($0.47 in chips) 
+Seat 6: Lorpugo ($1.70 in chips) 
+Musil1995LVE: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5c]
+Nuka1989: raises $0.06 to $0.08
+França1986: folds 
+SKV_1985: folds 
+Musil1995LVE: raises $0.06 to $0.14
+Lorpugo: folds 
+Nuka1989: raises $0.30 to $0.44
+Musil1995LVE: calls $0.30
+*** FLOP *** [Th 3s Qs]
+Musil1995LVE: bets $0.03 and is all-in
+Nuka1989: calls $0.03
+*** TURN *** [Th 3s Qs] [2s]
+*** RIVER *** [Th 3s Qs 2s] [Qh]
+*** SHOW DOWN ***
+Musil1995LVE: shows [Kc Kd] (two pair, Kings and Queens)
+Nuka1989: shows [Ac As] (two pair, Aces and Queens)
+Nuka1989 collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.03 
+Board [Th 3s Qs 2s Qh]
+Seat 1: Nuka1989 showed [Ac As] and won ($0.93) with two pair, Aces and Queens
+Seat 3: França1986 folded before Flop (didn't bet)
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: Musil1995LVE (small blind) showed [Kc Kd] and lost with two pair, Kings and Queens
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729803293:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:31 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.46 in chips) 
+Seat 2: capes99 ($1 in chips) 
+Seat 3: França1986 ($6.46 in chips) 
+Seat 4: SKV_1985 ($4.30 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+Nuka1989: posts small blind $0.01
+capes99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ac]
+França1986: calls $0.02
+SKV_1985: raises $0.06 to $0.08
+Lorpugo: calls $0.08
+Nuka1989: folds 
+capes99: folds 
+França1986: calls $0.06
+*** FLOP *** [5c 3s Ts]
+França1986: bets $0.10
+SKV_1985: folds 
+Lorpugo: calls $0.10
+*** TURN *** [5c 3s Ts] [Ks]
+França1986: bets $0.12
+Lorpugo: calls $0.12
+*** RIVER *** [5c 3s Ts Ks] [4s]
+França1986: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+França1986: shows [Tc Ad] (a pair of Tens)
+Lorpugo: shows [Ah Ac] (a pair of Aces)
+Lorpugo collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [5c 3s Ts Ks 4s]
+Seat 1: Nuka1989 (small blind) folded before Flop
+Seat 2: capes99 (big blind) folded before Flop
+Seat 3: França1986 showed [Tc Ad] and lost with a pair of Tens
+Seat 4: SKV_1985 folded on the Flop
+Seat 6: Lorpugo (button) showed [Ah Ac] and won ($0.69) with a pair of Aces
+
+
+
+PokerStars Hand #240729825921:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:45:27 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.45 in chips) 
+Seat 2: capes99 ($0.98 in chips) 
+Seat 3: França1986 ($6.16 in chips) 
+Seat 4: SKV_1985 ($4.22 in chips) 
+Seat 5: Musil1995LVE ($0.80 in chips) 
+Seat 6: Lorpugo ($2.07 in chips) 
+capes99: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 2s]
+SKV_1985: folds 
+Musil1995LVE: calls $0.02
+Lorpugo: folds 
+Nuka1989: folds 
+capes99: calls $0.01
+França1986: checks 
+*** FLOP *** [7d 9h 6h]
+capes99: bets $0.04
+França1986: calls $0.04
+Musil1995LVE: raises $0.04 to $0.08
+capes99: folds 
+França1986: calls $0.04
+*** TURN *** [7d 9h 6h] [5s]
+França1986: checks 
+Musil1995LVE: checks 
+*** RIVER *** [7d 9h 6h 5s] [2d]
+França1986: checks 
+Musil1995LVE: checks 
+*** SHOW DOWN ***
+França1986: shows [7h Td] (a pair of Sevens)
+Musil1995LVE: shows [9s Ts] (a pair of Nines)
+Musil1995LVE collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7d 9h 6h 5s 2d]
+Seat 1: Nuka1989 (button) folded before Flop (didn't bet)
+Seat 2: capes99 (small blind) folded on the Flop
+Seat 3: França1986 (big blind) showed [7h Td] and lost with a pair of Sevens
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE showed [9s Ts] and won ($0.25) with a pair of Nines
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729848255:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:46:22 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.45 in chips) 
+Seat 2: capes99 ($0.92 in chips) 
+Seat 3: França1986 ($6.06 in chips) 
+Seat 4: SKV_1985 ($4.22 in chips) 
+Seat 5: Musil1995LVE ($0.95 in chips) 
+Seat 6: Lorpugo ($2.07 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Kc]
+Musil1995LVE: calls $0.02
+Lorpugo: folds 
+Nuka1989: calls $0.02
+capes99: calls $0.02
+França1986: calls $0.01
+SKV_1985: checks 
+*** FLOP *** [Ah Ks Kh]
+França1986: bets $0.10
+SKV_1985: folds 
+Musil1995LVE: calls $0.10
+Nuka1989: folds 
+capes99: folds 
+*** TURN *** [Ah Ks Kh] [5s]
+França1986: bets $0.12
+Musil1995LVE: folds 
+Uncalled bet ($0.12) returned to França1986
+França1986 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ah Ks Kh 5s]
+Seat 1: Nuka1989 folded on the Flop
+Seat 2: capes99 (button) folded on the Flop
+Seat 3: França1986 (small blind) collected ($0.29)
+Seat 4: SKV_1985 (big blind) folded on the Flop
+Seat 5: Musil1995LVE folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729866239:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:47:05 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.43 in chips) 
+Seat 2: capes99 ($0.90 in chips) 
+Seat 3: França1986 ($6.23 in chips) 
+Seat 4: SKV_1985 ($4.20 in chips) 
+Seat 5: Musil1995LVE ($0.83 in chips) 
+Seat 6: Lorpugo ($2.07 in chips) 
+SKV_1985: posts small blind $0.01
+Musil1995LVE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Td]
+Lorpugo: folds 
+Nuka1989: folds 
+capes99: folds 
+França1986: calls $0.02
+SKV_1985: raises $0.07 to $0.09
+Musil1995LVE: folds 
+França1986: calls $0.07
+*** FLOP *** [5c 3s 6d]
+SKV_1985: bets $0.12
+França1986: calls $0.12
+*** TURN *** [5c 3s 6d] [8h]
+SKV_1985: checks 
+França1986: checks 
+*** RIVER *** [5c 3s 6d 8h] [Ad]
+SKV_1985: checks 
+França1986: bets $1.36
+SKV_1985: folds 
+Uncalled bet ($1.36) returned to França1986
+França1986 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [5c 3s 6d 8h Ad]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: capes99 folded before Flop (didn't bet)
+Seat 3: França1986 (button) collected ($0.42)
+Seat 4: SKV_1985 (small blind) folded on the River
+Seat 5: Musil1995LVE (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729883397:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:47:47 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.43 in chips) 
+Seat 2: capes99 ($0.90 in chips) 
+Seat 3: França1986 ($6.44 in chips) 
+Seat 4: SKV_1985 ($3.99 in chips) 
+Seat 5: Musil1995LVE ($0.81 in chips) 
+Seat 6: Lorpugo ($2.07 in chips) 
+Musil1995LVE: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s As]
+Nuka1989: folds 
+capes99: folds 
+França1986: raises $0.30 to $0.32
+SKV_1985: folds 
+Musil1995LVE: folds 
+Lorpugo: folds 
+Uncalled bet ($0.30) returned to França1986
+França1986 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: capes99 folded before Flop (didn't bet)
+Seat 3: França1986 collected ($0.05)
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: Musil1995LVE (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729888656:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:48:00 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.43 in chips) 
+Seat 2: capes99 ($0.90 in chips) 
+Seat 3: França1986 ($6.47 in chips) 
+Seat 4: SKV_1985 ($3.99 in chips) 
+Seat 5: Musil1995LVE ($0.80 in chips) 
+Seat 6: Lorpugo ($2.05 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6d]
+capes99: folds 
+França1986: calls $0.02
+SKV_1985: raises $0.06 to $0.08
+Musil1995LVE: calls $0.08
+Lorpugo: folds 
+Nuka1989: calls $0.06
+França1986: calls $0.06
+*** FLOP *** [Kh 2d 6s]
+Nuka1989: checks 
+França1986: checks 
+SKV_1985: checks 
+Musil1995LVE: checks 
+*** TURN *** [Kh 2d 6s] [Kd]
+Nuka1989: checks 
+França1986: checks 
+SKV_1985: checks 
+Musil1995LVE: checks 
+*** RIVER *** [Kh 2d 6s Kd] [6c]
+Nuka1989: checks 
+França1986: bets $0.08
+SKV_1985: folds 
+Musil1995LVE: calls $0.08
+Nuka1989: folds 
+*** SHOW DOWN ***
+França1986: shows [9c 8d] (two pair, Kings and Sixes)
+Musil1995LVE: shows [5c Ad] (two pair, Kings and Sixes - Ace kicker)
+Musil1995LVE collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kh 2d 6s Kd 6c]
+Seat 1: Nuka1989 (big blind) folded on the River
+Seat 2: capes99 folded before Flop (didn't bet)
+Seat 3: França1986 showed [9c 8d] and lost with two pair, Kings and Sixes
+Seat 4: SKV_1985 folded on the River
+Seat 5: Musil1995LVE (button) showed [5c Ad] and won ($0.47) with two pair, Kings and Sixes
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729903667:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:48:37 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.35 in chips) 
+Seat 2: capes99 ($0.90 in chips) 
+Seat 3: França1986 ($6.31 in chips) 
+Seat 4: SKV_1985 ($3.91 in chips) 
+Seat 5: Musil1995LVE ($1.11 in chips) 
+Seat 6: Lorpugo ($2.04 in chips) 
+Nuka1989: posts small blind $0.01
+capes99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 9h]
+França1986: calls $0.02
+SKV_1985: folds 
+Musil1995LVE: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: calls $0.05
+capes99: calls $0.04
+França1986: calls $0.04
+*** FLOP *** [As 7c 4h]
+Nuka1989: checks 
+capes99: checks 
+França1986: checks 
+Lorpugo: checks 
+*** TURN *** [As 7c 4h] [Js]
+Nuka1989: checks 
+capes99: checks 
+França1986: checks 
+Lorpugo: bets $0.08
+Nuka1989: folds 
+capes99: calls $0.08
+França1986: folds 
+*** RIVER *** [As 7c 4h Js] [5d]
+capes99: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+capes99: shows [Qc Kd] (high card Ace)
+Lorpugo: mucks hand 
+capes99 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [As 7c 4h Js 5d]
+Seat 1: Nuka1989 (small blind) folded on the Turn
+Seat 2: capes99 (big blind) showed [Qc Kd] and won ($0.39) with high card Ace
+Seat 3: França1986 folded on the Turn
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) mucked [Ks 9h]
+
+
+
+PokerStars Hand #240729924637:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:49:29 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.29 in chips) 
+Seat 2: capes99 ($1.15 in chips) 
+Seat 3: França1986 ($6.25 in chips) 
+Seat 4: SKV_1985 ($3.91 in chips) 
+Seat 5: Musil1995LVE ($1.11 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+capes99: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3c]
+SKV_1985: folds 
+Musil1995LVE: calls $0.02
+Lorpugo: folds 
+Nuka1989: raises $0.10 to $0.12
+capes99: folds 
+França1986: calls $0.10
+Musil1995LVE: calls $0.10
+*** FLOP *** [5d 8c Jc]
+França1986: checks 
+Musil1995LVE: checks 
+Nuka1989: bets $0.28
+França1986: folds 
+Musil1995LVE: folds 
+Uncalled bet ($0.28) returned to Nuka1989
+Nuka1989 collected $0.36 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [5d 8c Jc]
+Seat 1: Nuka1989 (button) collected ($0.36)
+Seat 2: capes99 (small blind) folded before Flop
+Seat 3: França1986 (big blind) folded on the Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729938773:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:50:03 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.53 in chips) 
+Seat 2: capes99 ($1.14 in chips) 
+Seat 3: França1986 ($6.13 in chips) 
+Seat 4: SKV_1985 ($3.91 in chips) 
+Seat 5: Musil1995LVE ($0.99 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6c]
+Musil1995LVE: folds 
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+capes99: folds 
+França1986: calls $0.05
+SKV_1985: calls $0.04
+*** FLOP *** [4c Td 6h]
+França1986: checks 
+SKV_1985: checks 
+Lorpugo: bets $0.09
+França1986: folds 
+SKV_1985: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4c Td 6h]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: capes99 (button) folded before Flop (didn't bet)
+Seat 3: França1986 (small blind) folded on the Flop
+Seat 4: SKV_1985 (big blind) folded on the Flop
+Seat 5: Musil1995LVE folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.17)
+
+
+
+PokerStars Hand #240729951373:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:50:34 ET
+Table 'Steina II' 6-max Seat #3 is the button
+Seat 1: Nuka1989 ($2.53 in chips) 
+Seat 2: capes99 ($1.14 in chips) 
+Seat 3: França1986 ($6.07 in chips) 
+Seat 4: SKV_1985 ($3.85 in chips) 
+Seat 5: Musil1995LVE ($0.99 in chips) 
+Seat 6: Lorpugo ($2.01 in chips) 
+SKV_1985: posts small blind $0.01
+Musil1995LVE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4d]
+Lorpugo: raises $0.04 to $0.06
+Nuka1989: folds 
+capes99: folds 
+França1986: folds 
+SKV_1985: folds 
+Musil1995LVE: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: capes99 folded before Flop (didn't bet)
+Seat 3: França1986 (button) folded before Flop (didn't bet)
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 5: Musil1995LVE (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240729958476:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:50:52 ET
+Table 'Steina II' 6-max Seat #4 is the button
+Seat 1: Nuka1989 ($2.53 in chips) 
+Seat 2: capes99 ($1.14 in chips) 
+Seat 3: França1986 ($6.07 in chips) 
+Seat 4: SKV_1985 ($3.84 in chips) 
+Seat 5: Musil1995LVE ($0.97 in chips) 
+Seat 6: Lorpugo ($2.04 in chips) 
+Musil1995LVE: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 2c]
+Nuka1989: folds 
+capes99: folds 
+França1986: calls $0.02
+SKV_1985: folds 
+Musil1995LVE: folds 
+Lorpugo: checks 
+*** FLOP *** [4h 4s Qc]
+Lorpugo: bets $0.02
+França1986: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h 4s Qc]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: capes99 folded before Flop (didn't bet)
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: Musil1995LVE (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #240729968647:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:51:17 ET
+Table 'Steina II' 6-max Seat #5 is the button
+Seat 1: Nuka1989 ($2.53 in chips) 
+Seat 2: capes99 ($1.14 in chips) 
+Seat 3: França1986 ($6.05 in chips) 
+Seat 4: SKV_1985 ($3.84 in chips) 
+Seat 5: Musil1995LVE ($0.96 in chips) 
+Seat 6: Lorpugo ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+Nuka1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 8s]
+capes99: raises $0.04 to $0.06
+França1986: calls $0.06
+SKV_1985: folds 
+Musil1995LVE: calls $0.06
+Lorpugo: folds 
+Nuka1989: folds 
+*** FLOP *** [3c 7d 6h]
+capes99: checks 
+França1986: checks 
+Musil1995LVE: bets $0.10
+capes99: folds 
+França1986: folds 
+Uncalled bet ($0.10) returned to Musil1995LVE
+Musil1995LVE collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3c 7d 6h]
+Seat 1: Nuka1989 (big blind) folded before Flop
+Seat 2: capes99 folded on the Flop
+Seat 3: França1986 folded on the Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE (button) collected ($0.20)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729978353:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:51:41 ET
+Table 'Steina II' 6-max Seat #6 is the button
+Seat 1: Nuka1989 ($2.51 in chips) 
+Seat 2: capes99 ($1.08 in chips) 
+Seat 3: França1986 ($5.99 in chips) 
+Seat 4: SKV_1985 ($3.84 in chips) 
+Seat 5: Musil1995LVE ($1.10 in chips) 
+Seat 6: Lorpugo ($2.06 in chips) 
+Nuka1989: posts small blind $0.01
+capes99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2h]
+França1986: calls $0.02
+SKV_1985: folds 
+Musil1995LVE: folds 
+Lorpugo: folds 
+Nuka1989: calls $0.01
+capes99: checks 
+*** FLOP *** [Ks 3h Kc]
+Nuka1989: checks 
+capes99: checks 
+França1986: checks 
+*** TURN *** [Ks 3h Kc] [2c]
+Nuka1989: bets $0.05
+capes99: folds 
+França1986: folds 
+Uncalled bet ($0.05) returned to Nuka1989
+Nuka1989 collected $0.06 from pot
+Nuka1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ks 3h Kc 2c]
+Seat 1: Nuka1989 (small blind) collected ($0.06)
+Seat 2: capes99 (big blind) folded on the Turn
+Seat 3: França1986 folded on the Turn
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729990644:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:52:11 ET
+Table 'Steina II' 6-max Seat #1 is the button
+Seat 1: Nuka1989 ($2.55 in chips) 
+Seat 2: capes99 ($1.06 in chips) 
+Seat 3: França1986 ($5.97 in chips) 
+Seat 4: SKV_1985 ($3.84 in chips) 
+Seat 5: Musil1995LVE ($1.10 in chips) 
+Seat 6: Lorpugo ($2.06 in chips) 
+capes99: posts small blind $0.01
+França1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8s]
+SKV_1985: folds 
+Musil1995LVE: folds 
+Lorpugo: folds 
+Nuka1989: raises $0.04 to $0.06
+capes99: raises $0.06 to $0.12
+França1986: calls $0.10
+Nuka1989: folds 
+*** FLOP *** [7h Jd Qh]
+capes99: checks 
+França1986: checks 
+*** TURN *** [7h Jd Qh] [6h]
+capes99: bets $0.08
+França1986: calls $0.08
+*** RIVER *** [7h Jd Qh 6h] [4c]
+capes99: bets $0.10
+França1986: calls $0.10
+*** SHOW DOWN ***
+capes99: shows [9c 9s] (a pair of Nines)
+França1986: shows [Kd Qd] (a pair of Queens)
+França1986 collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [7h Jd Qh 6h 4c]
+Seat 1: Nuka1989 (button) folded before Flop
+Seat 2: capes99 (small blind) showed [9c 9s] and lost with a pair of Nines
+Seat 3: França1986 (big blind) showed [Kd Qd] and won ($0.64) with a pair of Queens
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: Musil1995LVE folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240730016065:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:53:14 ET
+Table 'Steina II' 6-max Seat #2 is the button
+Seat 1: Nuka1989 ($2.49 in chips) 
+Seat 2: capes99 ($0.76 in chips) 
+Seat 3: França1986 ($6.31 in chips) 
+Seat 4: SKV_1985 ($3.84 in chips) 
+Seat 5: Musil1995LVE ($1.10 in chips) 
+Seat 6: Lorpugo ($2.06 in chips) 
+França1986: posts small blind $0.01
+SKV_1985: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Qh]
+Musil1995LVE: folds 
+Lorpugo: folds 
+Nuka1989: folds 
+capes99: raises $0.04 to $0.06
+França1986: calls $0.05
+SKV_1985: folds 
+*** FLOP *** [8h 2c Ks]
+França1986: checks 
+capes99: checks 
+*** TURN *** [8h 2c Ks] [3h]
+França1986: checks 
+capes99: checks 
+*** RIVER *** [8h 2c Ks 3h] [6d]
+França1986: bets $0.14
+capes99: folds 
+Uncalled bet ($0.14) returned to França1986
+França1986 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8h 2c Ks 3h 6d]
+Seat 1: Nuka1989 folded before Flop (didn't bet)
+Seat 2: capes99 (button) folded on the River
+Seat 3: França1986 (small blind) collected ($0.14)
+Seat 4: SKV_1985 (big blind) folded before Flop
+Seat 5: Musil1995LVE folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+

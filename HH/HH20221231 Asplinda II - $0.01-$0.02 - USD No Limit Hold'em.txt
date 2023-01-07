@@ -1,0 +1,2605 @@
+﻿PokerStars Hand #240822538106:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:35:41 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 2: j_cortes021 ($2 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: neurotic234 ($3.34 in chips) 
+Seat 5: \[T]/ MikeyD ($6.05 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 4h]
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+j_cortes021: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822540861:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:35:51 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 2: j_cortes021 ($1.99 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: neurotic234 ($3.34 in chips) 
+Seat 5: \[T]/ MikeyD ($6.05 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kh]
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: raises $0.03 to $0.05
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+Uncalled bet ($0.03) returned to AlekseyBilaniuk
+AlekseyBilaniuk collected $0.05 from pot
+AlekseyBilaniuk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk collected ($0.05)
+
+
+
+PokerStars Hand #240822545432:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:36:06 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 2: j_cortes021 ($1.99 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: neurotic234 ($3.32 in chips) 
+Seat 5: \[T]/ MikeyD ($6.05 in chips) 
+Seat 6: AlekseyBilaniuk ($2.03 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7c]
+AlekseyBilaniuk: raises $0.03 to $0.05
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.03) returned to AlekseyBilaniuk
+AlekseyBilaniuk collected $0.05 from pot
+AlekseyBilaniuk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded before Flop
+Seat 6: AlekseyBilaniuk collected ($0.05)
+
+
+
+PokerStars Hand #240822549723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:36:20 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 2: j_cortes021 ($1.99 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: neurotic234 ($3.31 in chips) 
+Seat 5: \[T]/ MikeyD ($6.03 in chips) 
+Seat 6: AlekseyBilaniuk ($2.06 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+AlekseyBilaniuk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Th]
+j_cortes021: raises $0.06 to $0.08
+Lorpugo: calls $0.08
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+*** FLOP *** [5d 9d 2s]
+j_cortes021: bets $0.09
+Lorpugo: calls $0.09
+*** TURN *** [5d 9d 2s] [6s]
+j_cortes021: bets $0.27
+Lorpugo: raises $1.16 to $1.43 and is all-in
+j_cortes021: calls $1.16
+*** RIVER *** [5d 9d 2s 6s] [Qc]
+*** SHOW DOWN ***
+j_cortes021: shows [Ac Ah] (a pair of Aces)
+Lorpugo: shows [9h Th] (a pair of Nines)
+j_cortes021 collected $3.12 from pot
+*** SUMMARY ***
+Total pot $3.23 | Rake $0.11 
+Board [5d 9d 2s 6s Qc]
+Seat 2: j_cortes021 showed [Ac Ah] and won ($3.12) with a pair of Aces
+Seat 3: Lorpugo showed [9h Th] and lost with a pair of Nines
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) folded before Flop
+Seat 6: AlekseyBilaniuk (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822566525:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:37:16 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($0.78 in chips) 
+Seat 2: j_cortes021 ($3.51 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: neurotic234 ($3.31 in chips) 
+Seat 5: \[T]/ MikeyD ($6.05 in chips) 
+Seat 6: AlekseyBilaniuk ($2.03 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ac]
+Lorpugo: raises $0.04 to $0.06
+neurotic234: raises $0.06 to $0.12
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: calls $0.06
+*** FLOP *** [7c 7h 2c]
+Lorpugo: checks 
+neurotic234: bets $0.26
+Lorpugo: folds 
+Uncalled bet ($0.26) returned to neurotic234
+neurotic234 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7c 7h 2c]
+Seat 1: doctorkako31 (small blind) folded before Flop
+Seat 2: j_cortes021 (big blind) folded before Flop
+Seat 3: Lorpugo folded on the Flop
+Seat 4: neurotic234 collected ($0.26)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822574391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:37:42 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($0.77 in chips) 
+Seat 2: j_cortes021 ($3.49 in chips) 
+Seat 3: Lorpugo ($1.48 in chips) 
+Seat 4: neurotic234 ($3.45 in chips) 
+Seat 5: \[T]/ MikeyD ($6.05 in chips) 
+Seat 6: AlekseyBilaniuk ($2.03 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Td]
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: raises $0.02 to $0.04
+j_cortes021: folds 
+Lorpugo: raises $0.09 to $0.13
+doctorkako31: calls $0.09
+*** FLOP *** [9s 7h Ad]
+Lorpugo: bets $1.35 and is all-in
+doctorkako31: folds 
+Uncalled bet ($1.35) returned to Lorpugo
+Lorpugo collected $0.26 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [9s 7h Ad]
+Seat 1: doctorkako31 (button) folded on the Flop
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.26)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822584579:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:38:17 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($0.64 in chips) 
+Seat 2: j_cortes021 ($3.48 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: neurotic234 ($3.45 in chips) 
+Seat 5: \[T]/ MikeyD ($6.05 in chips) 
+Seat 6: AlekseyBilaniuk ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 8h]
+\[T]/ MikeyD: raises $0.04 to $0.06
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+Uncalled bet ($0.04) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822589920:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:38:35 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($0.64 in chips) 
+Seat 2: j_cortes021 ($3.48 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: neurotic234 ($3.43 in chips) 
+Seat 5: \[T]/ MikeyD ($6.08 in chips) 
+Seat 6: AlekseyBilaniuk ($2.03 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 6c]
+AlekseyBilaniuk: raises $0.02 to $0.04
+doctorkako31: calls $0.04
+j_cortes021: calls $0.04
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+*** FLOP *** [5d Kc Qh]
+AlekseyBilaniuk: bets $0.07
+doctorkako31: calls $0.07
+j_cortes021: calls $0.07
+*** TURN *** [5d Kc Qh] [8h]
+AlekseyBilaniuk: bets $0.18
+doctorkako31: calls $0.18
+j_cortes021: calls $0.18
+*** RIVER *** [5d Kc Qh 8h] [Td]
+AlekseyBilaniuk: bets $0.12
+doctorkako31: raises $0.23 to $0.35 and is all-in
+j_cortes021: folds 
+AlekseyBilaniuk: calls $0.23
+*** SHOW DOWN ***
+doctorkako31: shows [Jd Kh] (a pair of Kings)
+AlekseyBilaniuk: shows [7d Kd] (a pair of Kings - lower kicker)
+doctorkako31 collected $1.54 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.06 
+Board [5d Kc Qh 8h Td]
+Seat 1: doctorkako31 showed [Jd Kh] and won ($1.54) with a pair of Kings
+Seat 2: j_cortes021 folded on the River
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded before Flop
+Seat 6: AlekseyBilaniuk showed [7d Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #240822614386:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:39:57 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: doctorkako31 ($1.54 in chips) 
+Seat 2: j_cortes021 ($3.19 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: neurotic234 ($3.42 in chips) 
+Seat 5: \[T]/ MikeyD ($6.06 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+AlekseyBilaniuk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5c]
+doctorkako31: folds 
+j_cortes021: raises $0.06 to $0.08
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+Uncalled bet ($0.06) returned to j_cortes021
+j_cortes021 collected $0.05 from pot
+j_cortes021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) folded before Flop
+Seat 6: AlekseyBilaniuk (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822619867:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:40:15 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 2: j_cortes021 ($3.22 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: neurotic234 ($3.42 in chips) 
+Seat 5: \[T]/ MikeyD ($6.05 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+AlekseyBilaniuk: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jd]
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.10 to $0.16
+AlekseyBilaniuk: folds 
+j_cortes021: folds 
+Lorpugo: raises $1.44 to $1.60 and is all-in
+\[T]/ MikeyD: calls $1.44
+*** FLOP *** [Ad 5d 4h]
+*** TURN *** [Ad 5d 4h] [4c]
+*** RIVER *** [Ad 5d 4h 4c] [9c]
+*** SHOW DOWN ***
+Lorpugo: shows [Js Jd] (two pair, Jacks and Fours)
+\[T]/ MikeyD: shows [Kc Jh] (a pair of Fours)
+Lorpugo collected $3.12 from pot
+*** SUMMARY ***
+Total pot $3.23 | Rake $0.11 
+Board [Ad 5d 4h 4c 9c]
+Seat 2: j_cortes021 (big blind) folded before Flop
+Seat 3: Lorpugo showed [Js Jd] and won ($3.12) with two pair, Jacks and Fours
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) showed [Kc Jh] and lost with a pair of Fours
+Seat 6: AlekseyBilaniuk (small blind) folded before Flop
+
+
+
+PokerStars Hand #240822629985:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:40:49 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 2: j_cortes021 ($3.20 in chips) 
+Seat 3: Lorpugo ($3.12 in chips) 
+Seat 4: neurotic234 ($3.42 in chips) 
+Seat 5: \[T]/ MikeyD ($4.45 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 3c]
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.06 to $0.08
+AlekseyBilaniuk: folds 
+j_cortes021: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: AlekseyBilaniuk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822634254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:41:03 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 2: j_cortes021 ($3.19 in chips) 
+Seat 3: Lorpugo ($3.10 in chips) 
+Seat 4: neurotic234 ($3.42 in chips) 
+Seat 5: \[T]/ MikeyD ($4.48 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 9d]
+\[T]/ MikeyD: raises $0.06 to $0.08
+AlekseyBilaniuk: folds 
+j_cortes021 has timed out
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+Uncalled bet ($0.06) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822643075:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:41:33 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 2: j_cortes021 ($3.19 in chips) 
+Seat 3: Lorpugo ($3.09 in chips) 
+Seat 4: neurotic234 ($3.40 in chips) 
+Seat 5: \[T]/ MikeyD ($4.51 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5h]
+AlekseyBilaniuk: folds 
+j_cortes021: raises $0.04 to $0.06
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: calls $0.04
+*** FLOP *** [Ks Js 8d]
+\[T]/ MikeyD: checks 
+j_cortes021: bets $0.07
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.07) returned to j_cortes021
+j_cortes021 collected $0.13 from pot
+j_cortes021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks Js 8d]
+Seat 2: j_cortes021 collected ($0.13)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded on the Flop
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822651780:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:42:03 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 2: j_cortes021 ($3.26 in chips) 
+Seat 3: Lorpugo ($3.09 in chips) 
+Seat 4: neurotic234 ($3.39 in chips) 
+Seat 5: \[T]/ MikeyD ($4.45 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+AlekseyBilaniuk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3h]
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) folded before Flop
+Seat 6: AlekseyBilaniuk (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822656006:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:42:17 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: doctorkako31 ($1.54 in chips) 
+Seat 2: j_cortes021 ($3.26 in chips) 
+Seat 3: Lorpugo ($3.12 in chips) 
+Seat 4: neurotic234 ($3.39 in chips) 
+Seat 5: \[T]/ MikeyD ($4.44 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+AlekseyBilaniuk: posts small blind $0.01
+doctorkako31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kd]
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+Uncalled bet ($0.01) returned to doctorkako31
+doctorkako31 collected $0.02 from pot
+doctorkako31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: doctorkako31 (big blind) collected ($0.02)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk (small blind) folded before Flop
+
+
+
+PokerStars Hand #240822659781:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:42:30 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($1.55 in chips) 
+Seat 2: j_cortes021 ($3.26 in chips) 
+Seat 3: Lorpugo ($3.12 in chips) 
+Seat 4: neurotic234 ($3.39 in chips) 
+Seat 5: \[T]/ MikeyD ($4.44 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 8s]
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: calls $0.06
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+*** FLOP *** [7h Ah 9c]
+Lorpugo: checks 
+\[T]/ MikeyD: bets $0.10
+Lorpugo: calls $0.10
+*** TURN *** [7h Ah 9c] [Kc]
+Lorpugo: checks 
+\[T]/ MikeyD: checks 
+*** RIVER *** [7h Ah 9c Kc] [Jd]
+Lorpugo: checks 
+\[T]/ MikeyD: bets $0.19
+Lorpugo: folds 
+Uncalled bet ($0.19) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [7h Ah 9c Kc Jd]
+Seat 1: doctorkako31 (small blind) folded before Flop
+Seat 2: j_cortes021 (big blind) folded before Flop
+Seat 3: Lorpugo folded on the River
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD collected ($0.34)
+Seat 6: AlekseyBilaniuk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822672777:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:43:15 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($1.54 in chips) 
+Seat 2: j_cortes021 ($3.24 in chips) 
+Seat 3: Lorpugo ($2.96 in chips) 
+Seat 4: neurotic234 ($3.39 in chips) 
+Seat 5: \[T]/ MikeyD ($4.62 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2d]
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.04 to $0.06
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 (button) folded before Flop (didn't bet)
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822679844:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:43:39 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($1.54 in chips) 
+Seat 2: j_cortes021 ($3.23 in chips) 
+Seat 3: Lorpugo ($2.94 in chips) 
+Seat 4: neurotic234 ($3.39 in chips) 
+Seat 5: \[T]/ MikeyD ($4.65 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ks]
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: raises $0.02 to $0.04
+j_cortes021: raises $0.14 to $0.18
+Lorpugo: folds 
+neurotic234: folds 
+doctorkako31: calls $0.14
+*** FLOP *** [Qc 2s Jc]
+doctorkako31: checks 
+j_cortes021: checks 
+*** TURN *** [Qc 2s Jc] [Ad]
+doctorkako31: checks 
+j_cortes021: checks 
+*** RIVER *** [Qc 2s Jc Ad] [Kh]
+doctorkako31: checks 
+j_cortes021: checks 
+*** SHOW DOWN ***
+doctorkako31: shows [9c 9h] (a pair of Nines)
+j_cortes021: shows [4h Ah] (a pair of Aces)
+j_cortes021 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Qc 2s Jc Ad Kh]
+Seat 1: doctorkako31 showed [9c 9h] and lost with a pair of Nines
+Seat 2: j_cortes021 (button) showed [4h Ah] and won ($0.38) with a pair of Aces
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822691641:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:44:19 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($1.36 in chips) 
+Seat 2: j_cortes021 ($3.43 in chips) 
+Seat 3: Lorpugo ($2.93 in chips) 
+Seat 4: neurotic234 ($3.37 in chips) 
+Seat 5: \[T]/ MikeyD ($4.65 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2c]
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: calls $0.01
+\[T]/ MikeyD: checks 
+*** FLOP *** [9d 7c 7s]
+neurotic234: bets $0.02
+\[T]/ MikeyD: calls $0.02
+*** TURN *** [9d 7c 7s] [6h]
+neurotic234: checks 
+\[T]/ MikeyD: bets $0.04
+neurotic234: calls $0.04
+*** RIVER *** [9d 7c 7s 6h] [2s]
+neurotic234: checks 
+\[T]/ MikeyD: bets $0.08
+neurotic234: folds 
+Uncalled bet ($0.08) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9d 7c 7s 6h 2s]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded on the River
+Seat 5: \[T]/ MikeyD (big blind) collected ($0.15)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822704587:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:45:03 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: doctorkako31 ($1.36 in chips) 
+Seat 2: j_cortes021 ($3.43 in chips) 
+Seat 3: Lorpugo ($2.93 in chips) 
+Seat 4: neurotic234 ($3.29 in chips) 
+Seat 5: \[T]/ MikeyD ($4.72 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+AlekseyBilaniuk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac As]
+doctorkako31: raises $0.02 to $0.04
+j_cortes021: folds 
+Lorpugo: calls $0.04
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+*** FLOP *** [4c 9s Ts]
+doctorkako31: bets $0.04
+Lorpugo: raises $0.19 to $0.23
+doctorkako31: folds 
+Uncalled bet ($0.19) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4c 9s Ts]
+Seat 1: doctorkako31 folded on the Flop
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.18)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) folded before Flop
+Seat 6: AlekseyBilaniuk (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822716475:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:45:43 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: doctorkako31 ($1.28 in chips) 
+Seat 2: j_cortes021 ($3.43 in chips) 
+Seat 3: Lorpugo ($3.03 in chips) 
+Seat 4: neurotic234 ($3.29 in chips) 
+Seat 5: \[T]/ MikeyD ($4.71 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+AlekseyBilaniuk: posts small blind $0.01
+doctorkako31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 3d]
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.06 to $0.08
+AlekseyBilaniuk: folds 
+doctorkako31: calls $0.06
+*** FLOP *** [4c Ks Tc]
+doctorkako31: checks 
+\[T]/ MikeyD: bets $0.08
+doctorkako31: folds 
+Uncalled bet ($0.08) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4c Ks Tc]
+Seat 1: doctorkako31 (big blind) folded on the Flop
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) collected ($0.16)
+Seat 6: AlekseyBilaniuk (small blind) folded before Flop
+
+
+
+PokerStars Hand #240822726828:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:46:18 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($1.20 in chips) 
+Seat 2: j_cortes021 ($3.43 in chips) 
+Seat 3: Lorpugo ($3.03 in chips) 
+Seat 4: neurotic234 ($3.29 in chips) 
+Seat 5: \[T]/ MikeyD ($4.79 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9d]
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: raises $0.02 to $0.04
+j_cortes021: calls $0.02
+*** FLOP *** [Js 6c 9s]
+doctorkako31: checks 
+j_cortes021: bets $0.04
+doctorkako31: calls $0.04
+*** TURN *** [Js 6c 9s] [7s]
+doctorkako31: checks 
+j_cortes021: checks 
+*** RIVER *** [Js 6c 9s 7s] [8c]
+doctorkako31: checks 
+j_cortes021: checks 
+*** SHOW DOWN ***
+doctorkako31: shows [4c 3c] (high card Jack)
+j_cortes021: shows [Kc Jd] (a pair of Jacks)
+j_cortes021 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Js 6c 9s 7s 8c]
+Seat 1: doctorkako31 (small blind) showed [4c 3c] and lost with high card Jack
+Seat 2: j_cortes021 (big blind) showed [Kc Jd] and won ($0.15) with a pair of Jacks
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822744011:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:47:17 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($1.12 in chips) 
+Seat 2: j_cortes021 ($3.50 in chips) 
+Seat 3: Lorpugo ($3.03 in chips) 
+Seat 4: neurotic234 ($3.29 in chips) 
+Seat 5: \[T]/ MikeyD ($4.79 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ah]
+neurotic234: raises $0.07 to $0.09
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: raises $1.03 to $1.12 and is all-in
+j_cortes021: calls $1.11
+Lorpugo: folds 
+neurotic234: folds 
+*** FLOP *** [6s 6c 9h]
+*** TURN *** [6s 6c 9h] [Js]
+*** RIVER *** [6s 6c 9h Js] [Ac]
+*** SHOW DOWN ***
+j_cortes021: shows [Qs Qc] (two pair, Queens and Sixes)
+doctorkako31: shows [Ad Qh] (two pair, Aces and Sixes)
+doctorkako31 cashed out the hand for $0.67 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.08 
+Board [6s 6c 9h Js Ac]
+Seat 1: doctorkako31 (button) showed [Ad Qh] and won ($2.27) with two pair, Aces and Sixes (pot not awarded as player cashed out)
+Seat 2: j_cortes021 (small blind) showed [Qs Qc] and lost with two pair, Queens and Sixes
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: neurotic234 folded before Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822752205:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:47:45 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($0.67 in chips) 
+Seat 2: j_cortes021 ($2.38 in chips) 
+Seat 3: Lorpugo ($3.01 in chips) 
+Seat 4: neurotic234 ($3.20 in chips) 
+Seat 5: \[T]/ MikeyD ($4.79 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9h]
+\[T]/ MikeyD: raises $0.04 to $0.06
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+j_cortes021: calls $0.06
+Lorpugo: calls $0.05
+neurotic234: calls $0.04
+*** FLOP *** [4d Kh Tc]
+Lorpugo: checks 
+neurotic234: checks 
+\[T]/ MikeyD: bets $0.10
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+Uncalled bet ($0.10) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4d Kh Tc]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 (button) folded on the Flop
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: neurotic234 (big blind) folded on the Flop
+Seat 5: \[T]/ MikeyD collected ($0.23)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822764914:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:48:28 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($0.67 in chips) 
+Seat 2: j_cortes021 ($2.32 in chips) 
+Seat 3: Lorpugo ($2.95 in chips) 
+Seat 4: neurotic234 ($3.14 in chips) 
+Seat 5: \[T]/ MikeyD ($4.96 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Jd]
+AlekseyBilaniuk: raises $0.02 to $0.04
+doctorkako31: folds 
+j_cortes021: raises $0.14 to $0.18
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+Uncalled bet ($0.14) returned to j_cortes021
+j_cortes021 collected $0.11 from pot
+j_cortes021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 collected ($0.11)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded before Flop
+Seat 6: AlekseyBilaniuk folded before Flop
+
+
+
+PokerStars Hand #240822773315:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:48:57 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: doctorkako31 ($0.67 in chips) 
+Seat 2: j_cortes021 ($2.39 in chips) 
+Seat 3: Lorpugo ($2.95 in chips) 
+Seat 4: neurotic234 ($3.13 in chips) 
+Seat 5: \[T]/ MikeyD ($4.94 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+AlekseyBilaniuk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 8s]
+doctorkako31: folds 
+j_cortes021: raises $0.06 to $0.08
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: calls $0.07
+AlekseyBilaniuk: folds 
+*** FLOP *** [3s Td 7h]
+\[T]/ MikeyD: bets $0.08
+j_cortes021: calls $0.08
+*** TURN *** [3s Td 7h] [Ac]
+\[T]/ MikeyD: checks 
+j_cortes021: bets $0.25
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.25) returned to j_cortes021
+j_cortes021 collected $0.33 from pot
+j_cortes021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [3s Td 7h Ac]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 collected ($0.33)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) folded on the Turn
+Seat 6: AlekseyBilaniuk (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822783981:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:49:34 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: doctorkako31 ($0.67 in chips) 
+Seat 2: j_cortes021 ($2.56 in chips) 
+Seat 3: Lorpugo ($2.95 in chips) 
+Seat 5: \[T]/ MikeyD ($4.78 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+AlekseyBilaniuk: posts small blind $0.01
+doctorkako31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Jd]
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: raises $0.04 to $0.10
+Lorpugo: calls $0.04
+*** FLOP *** [4h 3h 2d]
+doctorkako31: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to doctorkako31
+doctorkako31 collected $0.20 from pot
+doctorkako31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4h 3h 2d]
+Seat 1: doctorkako31 (big blind) collected ($0.20)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Flop
+Seat 5: \[T]/ MikeyD (button) folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk (small blind) folded before Flop
+
+
+
+PokerStars Hand #240822796596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:50:18 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($0.77 in chips) 
+Seat 2: j_cortes021 ($2.56 in chips) 
+Seat 3: Lorpugo ($2.85 in chips) 
+Seat 5: \[T]/ MikeyD ($4.78 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+Lorpugo: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+Uncalled bet ($0.01) returned to j_cortes021
+j_cortes021 collected $0.02 from pot
+j_cortes021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: doctorkako31 (small blind) folded before Flop
+Seat 2: j_cortes021 (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822800612:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:50:32 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($0.76 in chips) 
+Seat 2: j_cortes021 ($2.57 in chips) 
+Seat 3: Lorpugo ($2.85 in chips) 
+Seat 5: \[T]/ MikeyD ($4.78 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 7h]
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: raises $0.03 to $0.05
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [3h 4s 6d]
+Lorpugo: checks 
+AlekseyBilaniuk: checks 
+*** TURN *** [3h 4s 6d] [Jd]
+Lorpugo: checks 
+AlekseyBilaniuk: checks 
+*** RIVER *** [3h 4s 6d Jd] [Ad]
+Lorpugo: checks 
+AlekseyBilaniuk: bets $0.04
+Lorpugo: calls $0.04
+*** SHOW DOWN ***
+AlekseyBilaniuk: shows [As Qh] (a pair of Aces)
+Lorpugo: mucks hand 
+AlekseyBilaniuk collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3h 4s 6d Jd Ad]
+Seat 1: doctorkako31 (button) folded before Flop (didn't bet)
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) mucked [7d 7h]
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk showed [As Qh] and won ($0.18) with a pair of Aces
+
+
+
+PokerStars Hand #240822811792:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:51:10 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($0.76 in chips) 
+Seat 2: j_cortes021 ($2.56 in chips) 
+Seat 3: Lorpugo ($2.76 in chips) 
+Seat 4: neurotic234 ($3.13 in chips) 
+Seat 5: \[T]/ MikeyD ($4.78 in chips) 
+Seat 6: AlekseyBilaniuk ($2.09 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3d]
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822821776:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:51:44 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($0.76 in chips) 
+Seat 2: j_cortes021 ($2.56 in chips) 
+Seat 3: Lorpugo ($2.78 in chips) 
+Seat 4: neurotic234 ($3.11 in chips) 
+Seat 5: \[T]/ MikeyD ($4.78 in chips) 
+Seat 6: AlekseyBilaniuk ($2.09 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3c]
+AlekseyBilaniuk: raises $0.02 to $0.04
+doctorkako31: folds 
+j_cortes021: raises $0.04 to $0.08
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: calls $0.06
+AlekseyBilaniuk: calls $0.04
+*** FLOP *** [4s Ts 5d]
+\[T]/ MikeyD: checks 
+AlekseyBilaniuk: checks 
+j_cortes021: checks 
+*** TURN *** [4s Ts 5d] [Tc]
+\[T]/ MikeyD: bets $0.06
+AlekseyBilaniuk: folds 
+j_cortes021: calls $0.06
+*** RIVER *** [4s Ts 5d Tc] [6h]
+\[T]/ MikeyD: bets $0.22
+j_cortes021: folds 
+Uncalled bet ($0.22) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [4s Ts 5d Tc 6h]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 folded on the River
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) collected ($0.36)
+Seat 6: AlekseyBilaniuk folded on the Turn
+
+
+
+PokerStars Hand #240822844656:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:53:02 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: doctorkako31 ($0.76 in chips) 
+Seat 2: j_cortes021 ($2.42 in chips) 
+Seat 3: Lorpugo ($2.78 in chips) 
+Seat 4: neurotic234 ($3.10 in chips) 
+Seat 5: \[T]/ MikeyD ($5 in chips) 
+Seat 6: AlekseyBilaniuk ($2.01 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+AlekseyBilaniuk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7d]
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: raises $0.07 to $0.09
+\[T]/ MikeyD: calls $0.08
+AlekseyBilaniuk: folds 
+*** FLOP *** [4h Ts 6h]
+\[T]/ MikeyD: checks 
+neurotic234: checks 
+*** TURN *** [4h Ts 6h] [Qh]
+\[T]/ MikeyD: checks 
+neurotic234: checks 
+*** RIVER *** [4h Ts 6h Qh] [5h]
+\[T]/ MikeyD: bets $0.08
+neurotic234: folds 
+Uncalled bet ($0.08) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4h Ts 6h Qh 5h]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 (button) folded on the River
+Seat 5: \[T]/ MikeyD (small blind) collected ($0.19)
+Seat 6: AlekseyBilaniuk (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822861478:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:54:01 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: doctorkako31 ($0.76 in chips) 
+Seat 2: j_cortes021 ($2.42 in chips) 
+Seat 3: Lorpugo ($2.78 in chips) 
+Seat 4: neurotic234 ($3.01 in chips) 
+Seat 5: \[T]/ MikeyD ($5.10 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+AlekseyBilaniuk: posts small blind $0.01
+doctorkako31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Kh]
+j_cortes021: raises $0.06 to $0.08
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+AlekseyBilaniuk: calls $0.07
+doctorkako31: calls $0.06
+*** FLOP *** [Qs 6c 3d]
+AlekseyBilaniuk: checks 
+doctorkako31: checks 
+j_cortes021: checks 
+*** TURN *** [Qs 6c 3d] [Th]
+AlekseyBilaniuk: checks 
+doctorkako31: bets $0.10
+j_cortes021: calls $0.10
+AlekseyBilaniuk: folds 
+*** RIVER *** [Qs 6c 3d Th] [9d]
+doctorkako31: bets $0.20
+j_cortes021: folds 
+Uncalled bet ($0.20) returned to doctorkako31
+doctorkako31 collected $0.42 from pot
+doctorkako31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Qs 6c 3d Th 9d]
+Seat 1: doctorkako31 (big blind) collected ($0.42)
+Seat 2: j_cortes021 folded on the River
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) folded before Flop (didn't bet)
+Seat 6: AlekseyBilaniuk (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240822876390:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:54:53 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($1 in chips) 
+Seat 2: j_cortes021 ($2.24 in chips) 
+Seat 3: Lorpugo ($2.78 in chips) 
+Seat 4: neurotic234 ($3.01 in chips) 
+Seat 5: \[T]/ MikeyD ($5.10 in chips) 
+Seat 6: AlekseyBilaniuk ($2 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7h]
+Lorpugo: folds 
+neurotic234: raises $0.04 to $0.06
+\[T]/ MikeyD: calls $0.06
+AlekseyBilaniuk: folds 
+doctorkako31: calls $0.05
+j_cortes021: calls $0.04
+*** FLOP *** [9c Jc 6h]
+AlekseyBilaniuk leaves the table
+doctorkako31: checks 
+j_cortes021: checks 
+neurotic234: checks 
+\[T]/ MikeyD: bets $0.16
+doctorkako31: folds 
+CrazyyParis joins the table at seat #6 
+j_cortes021: calls $0.16
+neurotic234: folds 
+*** TURN *** [9c Jc 6h] [5h]
+j_cortes021: checks 
+\[T]/ MikeyD: bets $0.23
+j_cortes021: folds 
+Uncalled bet ($0.23) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [9c Jc 6h 5h]
+Seat 1: doctorkako31 (small blind) folded on the Flop
+Seat 2: j_cortes021 (big blind) folded on the Turn
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded on the Flop
+Seat 5: \[T]/ MikeyD collected ($0.54)
+Seat 6: AlekseyBilaniuk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822894658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:56:13 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($0.94 in chips) 
+Seat 2: j_cortes021 ($2.02 in chips) 
+Seat 3: Lorpugo ($2.78 in chips) 
+Seat 4: neurotic234 ($2.95 in chips) 
+Seat 5: \[T]/ MikeyD ($5.42 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9s]
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+doctorkako31: folds 
+j_cortes021: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to j_cortes021
+j_cortes021 collected $0.04 from pot
+j_cortes021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: doctorkako31 (button) folded before Flop (didn't bet)
+Seat 2: j_cortes021 (small blind) collected ($0.04)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822898593:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:56:32 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($0.94 in chips) 
+Seat 2: j_cortes021 ($2.04 in chips) 
+Seat 3: Lorpugo ($2.76 in chips) 
+Seat 4: neurotic234 ($2.95 in chips) 
+Seat 5: \[T]/ MikeyD ($5.42 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s As]
+\[T]/ MikeyD: folds 
+doctorkako31: raises $0.02 to $0.04
+j_cortes021: folds 
+Lorpugo: raises $0.10 to $0.14
+neurotic234 is disconnected 
+neurotic234 is connected 
+neurotic234: folds 
+doctorkako31: calls $0.10
+*** FLOP *** [6d 9d Js]
+Lorpugo: bets $0.19
+doctorkako31: folds 
+Uncalled bet ($0.19) returned to Lorpugo
+Lorpugo collected $0.29 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6d 9d Js]
+Seat 1: doctorkako31 folded on the Flop
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.29)
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822909611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:57:24 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($0.80 in chips) 
+Seat 2: j_cortes021 ($2.04 in chips) 
+Seat 3: Lorpugo ($2.91 in chips) 
+Seat 4: neurotic234 ($2.93 in chips) 
+Seat 5: \[T]/ MikeyD ($5.42 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Tc]
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822913129:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:57:41 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: doctorkako31 ($0.80 in chips) 
+Seat 2: j_cortes021 ($2.04 in chips) 
+Seat 3: Lorpugo ($2.94 in chips) 
+Seat 4: neurotic234 ($2.92 in chips) 
+Seat 5: \[T]/ MikeyD ($5.40 in chips) 
+Seat 6: CrazyyParis ($2.14 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+CrazyyParis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Ks]
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: calls $0.05
+CrazyyParis: folds 
+*** FLOP *** [Ts Tc 5c]
+\[T]/ MikeyD: checks 
+Lorpugo: bets $0.09
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ts Tc 5c]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.14)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) folded on the Flop
+Seat 6: CrazyyParis (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822920530:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:58:16 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: doctorkako31 ($0.80 in chips) 
+Seat 2: j_cortes021 ($2.04 in chips) 
+Seat 3: Lorpugo ($3.02 in chips) 
+Seat 4: neurotic234 ($2.92 in chips) 
+Seat 5: \[T]/ MikeyD ($5.34 in chips) 
+Seat 6: CrazyyParis ($2.12 in chips) 
+CrazyyParis: posts small blind $0.01
+doctorkako31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8h]
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.06 to $0.08
+CrazyyParis: folds 
+doctorkako31: raises $0.10 to $0.18
+\[T]/ MikeyD: calls $0.10
+*** FLOP *** [3c 8d 5d]
+doctorkako31: bets $0.10
+\[T]/ MikeyD: calls $0.10
+*** TURN *** [3c 8d 5d] [Kc]
+doctorkako31: bets $0.12
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.12) returned to doctorkako31
+doctorkako31 collected $0.55 from pot
+doctorkako31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [3c 8d 5d Kc]
+Seat 1: doctorkako31 (big blind) collected ($0.55)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) folded on the Turn
+Seat 6: CrazyyParis (small blind) folded before Flop
+
+
+
+PokerStars Hand #240822930387:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:59:02 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($1.07 in chips) 
+Seat 2: j_cortes021 ($2.04 in chips) 
+Seat 3: Lorpugo ($3.02 in chips) 
+Seat 4: neurotic234 ($2.92 in chips) 
+Seat 5: \[T]/ MikeyD ($5.06 in chips) 
+Seat 6: CrazyyParis ($2.11 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Qh]
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 (small blind) folded before Flop
+Seat 2: j_cortes021 (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822933149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 13:59:15 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($1.06 in chips) 
+Seat 2: j_cortes021 ($2.02 in chips) 
+Seat 3: Lorpugo ($3.05 in chips) 
+Seat 4: neurotic234 ($2.92 in chips) 
+Seat 5: \[T]/ MikeyD ($5.06 in chips) 
+Seat 6: CrazyyParis ($2.11 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Td]
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+doctorkako31: raises $0.02 to $0.04
+j_cortes021: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [9h Qs Qc]
+Lorpugo: checks 
+doctorkako31: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [9h Qs Qc] [7d]
+Lorpugo: checks 
+doctorkako31: checks 
+*** RIVER *** [9h Qs Qc 7d] [Qh]
+Lorpugo: checks 
+doctorkako31: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Jh Td] (three of a kind, Queens)
+doctorkako31: shows [6h Ac] (three of a kind, Queens - Ace kicker)
+doctorkako31 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9h Qs Qc 7d Qh]
+Seat 1: doctorkako31 (button) showed [6h Ac] and won ($0.16) with three of a kind, Queens
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) showed [Jh Td] and lost with three of a kind, Queens
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822943448:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:00:04 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($1.14 in chips) 
+Seat 2: j_cortes021 ($2.01 in chips) 
+Seat 3: Lorpugo ($2.97 in chips) 
+Seat 4: neurotic234 ($2.92 in chips) 
+Seat 5: \[T]/ MikeyD ($5.06 in chips) 
+Seat 6: CrazyyParis ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Qd]
+\[T]/ MikeyD: calls $0.02
+CrazyyParis: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: calls $0.01
+neurotic234: raises $0.06 to $0.08
+\[T]/ MikeyD: calls $0.06
+Lorpugo: folds 
+*** FLOP *** [5d Ts 9c]
+neurotic234: bets $0.09
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.09) returned to neurotic234
+neurotic234 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5d Ts 9c]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) collected ($0.17)
+Seat 5: \[T]/ MikeyD folded on the Flop
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822951127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:00:39 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($1.14 in chips) 
+Seat 2: j_cortes021 ($2.01 in chips) 
+Seat 3: Lorpugo ($2.95 in chips) 
+Seat 4: neurotic234 ($3.01 in chips) 
+Seat 5: \[T]/ MikeyD ($4.98 in chips) 
+Seat 6: CrazyyParis ($2.11 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Th]
+CrazyyParis: folds 
+doctorkako31: folds 
+j_cortes021: raises $0.04 to $0.06
+Lorpugo: raises $0.15 to $0.21
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+j_cortes021: calls $0.15
+*** FLOP *** [Qs 2h 6s]
+j_cortes021: checks 
+Lorpugo: checks 
+*** TURN *** [Qs 2h 6s] [Ac]
+j_cortes021: checks 
+Lorpugo: checks 
+*** RIVER *** [Qs 2h 6s Ac] [9c]
+j_cortes021: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+j_cortes021: shows [Td Ad] (a pair of Aces)
+Lorpugo: mucks hand 
+j_cortes021 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qs 2h 6s Ac 9c]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 showed [Td Ad] and won ($0.43) with a pair of Aces
+Seat 3: Lorpugo (button) mucked [Tc Th]
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded before Flop
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822962982:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:01:25 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: doctorkako31 ($1.14 in chips) 
+Seat 2: j_cortes021 ($2.23 in chips) 
+Seat 3: Lorpugo ($2.74 in chips) 
+Seat 5: \[T]/ MikeyD ($4.96 in chips) 
+Seat 6: CrazyyParis ($2.11 in chips) 
+CrazyyParis: posts small blind $0.01
+doctorkako31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2c]
+j_cortes021: raises $0.06 to $0.08
+Lorpugo: folds 
+\[T]/ MikeyD: calls $0.08
+CrazyyParis: folds 
+doctorkako31: folds 
+*** FLOP *** [6d 4c As]
+j_cortes021: checks 
+\[T]/ MikeyD: bets $0.11
+j_cortes021: folds 
+Uncalled bet ($0.11) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6d 4c As]
+Seat 1: doctorkako31 (big blind) folded before Flop
+Seat 2: j_cortes021 folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) collected ($0.18)
+Seat 6: CrazyyParis (small blind) folded before Flop
+
+
+
+PokerStars Hand #240822969928:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:01:50 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($1.12 in chips) 
+Seat 2: j_cortes021 ($2.15 in chips) 
+Seat 3: Lorpugo ($2.74 in chips) 
+Seat 5: \[T]/ MikeyD ($5.06 in chips) 
+Seat 6: CrazyyParis ($2.10 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qc]
+Lorpugo: folds 
+\[T]/ MikeyD: raises $0.06 to $0.08
+CrazyyParis: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Uncalled bet ($0.06) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 (small blind) folded before Flop
+Seat 2: j_cortes021 (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: CrazyyParis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822974826:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:02:07 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($1.11 in chips) 
+Seat 2: j_cortes021 ($2.13 in chips) 
+Seat 3: Lorpugo ($2.74 in chips) 
+Seat 5: \[T]/ MikeyD ($5.09 in chips) 
+Seat 6: CrazyyParis ($2.10 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2c]
+\[T]/ MikeyD: raises $0.04 to $0.06
+CrazyyParis: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 (button) folded before Flop (didn't bet)
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822979377:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:02:24 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($1.11 in chips) 
+Seat 2: j_cortes021 ($2.12 in chips) 
+Seat 3: Lorpugo ($2.72 in chips) 
+Seat 5: \[T]/ MikeyD ($5.12 in chips) 
+Seat 6: CrazyyParis ($2.10 in chips) 
+Lorpugo: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5s]
+CrazyyParis: folds 
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+\[T]/ MikeyD: raises $0.10 to $0.16
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) collected ($0.12)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240822986588:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:02:49 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($1.11 in chips) 
+Seat 2: j_cortes021 ($2.12 in chips) 
+Seat 3: Lorpugo ($2.66 in chips) 
+Seat 5: \[T]/ MikeyD ($5.18 in chips) 
+Seat 6: CrazyyParis ($2.10 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+CrazyyParis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5c]
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 5: \[T]/ MikeyD (small blind) folded before Flop
+Seat 6: CrazyyParis (big blind) folded before Flop
+
+
+
+PokerStars Hand #240822990621:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:03:03 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: doctorkako31 ($1.11 in chips) 
+Seat 2: j_cortes021 ($2.12 in chips) 
+Seat 3: Lorpugo ($2.69 in chips) 
+Seat 5: \[T]/ MikeyD ($5.17 in chips) 
+Seat 6: CrazyyParis ($2.08 in chips) 
+CrazyyParis: posts small blind $0.01
+doctorkako31: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 3d]
+j_cortes021: folds 
+Lorpugo: raises $0.04 to $0.06
+\[T]/ MikeyD: calls $0.06
+CrazyyParis: raises $0.24 to $0.30
+doctorkako31: folds 
+Lorpugo: folds 
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.24) returned to CrazyyParis
+CrazyyParis collected $0.20 from pot
+CrazyyParis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: doctorkako31 (big blind) folded before Flop
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop
+Seat 5: \[T]/ MikeyD (button) folded before Flop
+Seat 6: CrazyyParis (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #240822998846:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:03:32 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: doctorkako31 ($1.09 in chips) 
+Seat 2: j_cortes021 ($2.12 in chips) 
+Seat 3: Lorpugo ($2.63 in chips) 
+Seat 4: neurotic234 ($3 in chips) 
+Seat 5: \[T]/ MikeyD ($5.11 in chips) 
+Seat 6: CrazyyParis ($2.22 in chips) 
+doctorkako31: posts small blind $0.01
+j_cortes021: posts big blind $0.02
+neurotic234: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 4d]
+Lorpugo: folds 
+neurotic234: checks 
+\[T]/ MikeyD: raises $0.08 to $0.10
+CrazyyParis: raises $0.20 to $0.30
+doctorkako31: folds 
+j_cortes021: folds 
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.96 to $1.26
+CrazyyParis: raises $0.96 to $2.22 and is all-in
+\[T]/ MikeyD: calls $0.96
+*** FLOP *** [As 8c 7s]
+*** TURN *** [As 8c 7s] [6c]
+*** RIVER *** [As 8c 7s 6c] [3h]
+*** SHOW DOWN ***
+\[T]/ MikeyD: shows [Qs Qd] (a pair of Queens)
+CrazyyParis: shows [Kh Ah] (a pair of Aces)
+CrazyyParis cashed out the hand for $1.98 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.16 
+Board [As 8c 7s 6c 3h]
+Seat 1: doctorkako31 (small blind) folded before Flop
+Seat 2: j_cortes021 (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD showed [Qs Qd] and lost with a pair of Queens
+Seat 6: CrazyyParis (button) showed [Kh Ah] and won ($4.34) with a pair of Aces (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #240823011529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:04:16 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: doctorkako31 ($1.08 in chips) 
+Seat 2: j_cortes021 ($2.10 in chips) 
+Seat 3: Lorpugo ($2.63 in chips) 
+Seat 4: neurotic234 ($2.97 in chips) 
+Seat 5: \[T]/ MikeyD ($2.89 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+j_cortes021: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8c]
+neurotic234: folds 
+\[T]/ MikeyD: calls $0.02
+CrazyyParis: raises $0.08 to $0.10
+doctorkako31: calls $0.10
+j_cortes021: folds 
+Lorpugo: calls $0.08
+\[T]/ MikeyD: folds 
+*** FLOP *** [Ks 7h 2d]
+Lorpugo: checks 
+CrazyyParis: checks 
+doctorkako31: bets $0.10
+Lorpugo: folds 
+CrazyyParis: calls $0.10
+*** TURN *** [Ks 7h 2d] [6h]
+CrazyyParis: checks 
+doctorkako31: bets $0.88 and is all-in
+CrazyyParis: folds 
+Uncalled bet ($0.88) returned to doctorkako31
+doctorkako31 collected $0.51 from pot
+doctorkako31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ks 7h 2d 6h]
+Seat 1: doctorkako31 (button) collected ($0.51)
+Seat 2: j_cortes021 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop
+Seat 6: CrazyyParis folded on the Turn
+
+
+
+PokerStars Hand #240823026041:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:05:06 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: doctorkako31 ($1.39 in chips) 
+Seat 2: j_cortes021 ($2.09 in chips) 
+Seat 3: Lorpugo ($2.53 in chips) 
+Seat 4: neurotic234 ($2.97 in chips) 
+Seat 5: \[T]/ MikeyD ($2.87 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 7d]
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+doctorkako31: raises $0.02 to $0.04
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: folds 
+Uncalled bet ($0.02) returned to doctorkako31
+doctorkako31 collected $0.05 from pot
+doctorkako31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 collected ($0.05)
+Seat 2: j_cortes021 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823030476:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:05:22 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: doctorkako31 ($1.42 in chips) 
+Seat 2: j_cortes021 ($2.09 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: neurotic234 ($2.95 in chips) 
+Seat 5: \[T]/ MikeyD ($2.87 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6s]
+CrazyyParis: folds 
+doctorkako31: folds 
+j_cortes021: raises $0.04 to $0.06
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.04) returned to j_cortes021
+j_cortes021 collected $0.05 from pot
+j_cortes021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded before Flop
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823034504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:05:36 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: doctorkako31 ($1.42 in chips) 
+Seat 2: j_cortes021 ($2.12 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: neurotic234 ($2.94 in chips) 
+Seat 5: \[T]/ MikeyD ($2.85 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+CrazyyParis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5c]
+doctorkako31: folds 
+j_cortes021: folds 
+Lorpugo: folds 
+neurotic234: raises $0.05 to $0.07
+\[T]/ MikeyD: calls $0.06
+CrazyyParis: folds 
+*** FLOP *** [Th Jc 4h]
+\[T]/ MikeyD: bets $0.08
+neurotic234: folds 
+Uncalled bet ($0.08) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.15 from pot
+doctorkako31 leaves the table
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Th Jc 4h]
+Seat 1: doctorkako31 folded before Flop (didn't bet)
+Seat 2: j_cortes021 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 (button) folded on the Flop
+Seat 5: \[T]/ MikeyD (small blind) collected ($0.15)
+Seat 6: CrazyyParis (big blind) folded before Flop
+
+
+
+PokerStars Hand #240823040705:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:05:57 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: neurotic234 ($2.87 in chips) 
+Seat 5: \[T]/ MikeyD ($2.93 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+CrazyyParis: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 4d]
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+j_cortes021 leaves the table
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) folded before Flop (didn't bet)
+Seat 6: CrazyyParis (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823043316:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:06:06 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 3: Lorpugo ($2.53 in chips) 
+Seat 4: neurotic234 ($2.87 in chips) 
+Seat 5: \[T]/ MikeyD ($2.93 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9h]
+\[T]/ MikeyD: folds 
+CrazyyParis: raises $0.03 to $0.05
+Lorpugo: folds 
+neurotic234: raises $0.11 to $0.16
+CrazyyParis: calls $0.11
+*** FLOP *** [4c 3d 7c]
+neurotic234: bets $0.32
+CrazyyParis: folds 
+Uncalled bet ($0.32) returned to neurotic234
+neurotic234 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [4c 3d 7c]
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) collected ($0.32)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis (button) folded on the Flop
+
+
+
+PokerStars Hand #240823050407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:06:31 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: neurotic234 ($3.03 in chips) 
+Seat 5: \[T]/ MikeyD ($2.93 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9c]
+CrazyyParis: raises $0.03 to $0.05
+Lorpugo: folds 
+neurotic234: calls $0.04
+\[T]/ MikeyD: calls $0.03
+*** FLOP *** [6s 2d 6d]
+neurotic234: bets $0.07
+\[T]/ MikeyD: calls $0.07
+CrazyyParis: calls $0.07
+*** TURN *** [6s 2d 6d] [Ac]
+neurotic234: checks 
+\[T]/ MikeyD: bets $0.35
+CrazyyParis: folds 
+neurotic234: calls $0.35
+*** RIVER *** [6s 2d 6d Ac] [Th]
+neurotic234: checks 
+\[T]/ MikeyD: bets $2.46 and is all-in
+neurotic234: folds 
+Uncalled bet ($2.46) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $1.02 from pot
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [6s 2d 6d Ac Th]
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded on the River
+Seat 5: \[T]/ MikeyD (big blind) collected ($1.02)
+Seat 6: CrazyyParis folded on the Turn
+
+
+
+PokerStars Hand #240823060696:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:07:07 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: neurotic234 ($2.56 in chips) 
+Seat 5: \[T]/ MikeyD ($3.48 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+CrazyyParis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 9h]
+Lorpugo: folds 
+neurotic234: raises $0.05 to $0.07
+\[T]/ MikeyD: folds 
+CrazyyParis: raises $0.21 to $0.28
+neurotic234: folds 
+Uncalled bet ($0.21) returned to CrazyyParis
+CrazyyParis collected $0.15 from pot
+CrazyyParis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 (button) folded before Flop
+Seat 5: \[T]/ MikeyD (small blind) folded before Flop
+Seat 6: CrazyyParis (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #240823064460:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:07:21 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: neurotic234 ($2.49 in chips) 
+Seat 5: \[T]/ MikeyD ($3.47 in chips) 
+Seat 6: CrazyyParis ($2.08 in chips) 
+CrazyyParis: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ks]
+neurotic234: raises $0.04 to $0.06
+\[T]/ MikeyD: raises $0.12 to $0.18
+CrazyyParis: folds 
+Lorpugo: raises $2.34 to $2.52 and is all-in
+Learner102 joins the table at seat #1 
+josedf7509 joins the table at seat #2 
+neurotic234: folds 
+\[T]/ MikeyD: folds [Jc Kc]
+Uncalled bet ($2.34) returned to Lorpugo
+Lorpugo collected $0.43 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0 
+Seat 3: Lorpugo (big blind) collected ($0.43)
+Seat 4: neurotic234 folded before Flop
+Seat 5: \[T]/ MikeyD (button) folded before Flop
+Seat 6: CrazyyParis (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823077497:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:08:06 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 3: Lorpugo ($2.77 in chips) 
+Seat 4: neurotic234 ($2.43 in chips) 
+Seat 5: \[T]/ MikeyD ($3.29 in chips) 
+Seat 6: CrazyyParis ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Jc]
+\[T]/ MikeyD: folds 
+CrazyyParis: raises $0.03 to $0.05
+Lorpugo: raises $0.12 to $0.17
+neurotic234: calls $0.15
+CrazyyParis: calls $0.12
+*** FLOP *** [Td 3h 8h]
+Lorpugo: bets $0.16
+neurotic234: calls $0.16
+CrazyyParis: folds 
+*** TURN *** [Td 3h 8h] [9d]
+Lorpugo: bets $0.88
+neurotic234: folds 
+Uncalled bet ($0.88) returned to Lorpugo
+Lorpugo collected $0.80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [Td 3h 8h 9d]
+Seat 3: Lorpugo (small blind) collected ($0.80)
+Seat 4: neurotic234 (big blind) folded on the Turn
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis (button) folded on the Flop
+
+
+
+PokerStars Hand #240823089549:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:08:49 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 3: Lorpugo ($3.24 in chips) 
+Seat 4: neurotic234 ($2.10 in chips) 
+Seat 5: \[T]/ MikeyD ($3.29 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Qc]
+CrazyyParis: folds 
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: calls $0.04
+*** FLOP *** [2d 7d 5s]
+\[T]/ MikeyD: checks 
+Lorpugo: bets $0.07
+\[T]/ MikeyD: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d 7d 5s]
+Seat 3: Lorpugo (button) collected ($0.13)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded on the Flop
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823095750:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:09:11 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 3: Lorpugo ($3.31 in chips) 
+Seat 4: neurotic234 ($2.09 in chips) 
+Seat 5: \[T]/ MikeyD ($3.23 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+CrazyyParis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 8s]
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.04 to $0.06
+CrazyyParis: calls $0.04
+*** FLOP *** [9d 6c 3d]
+\[T]/ MikeyD: bets $0.10
+CrazyyParis: calls $0.10
+*** TURN *** [9d 6c 3d] [8c]
+\[T]/ MikeyD: bets $0.14
+josedf7509 leaves the table
+CrazyyParis: calls $0.14
+*** RIVER *** [9d 6c 3d 8c] [6s]
+Rharl01 joins the table at seat #2 
+\[T]/ MikeyD: bets $0.41
+CrazyyParis: folds 
+Uncalled bet ($0.41) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [9d 6c 3d 8c 6s]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) collected ($0.58)
+Seat 6: CrazyyParis (big blind) folded on the River
+
+
+
+PokerStars Hand #240823109423:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:10:00 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: Learner102 ($2 in chips) 
+Seat 3: Lorpugo ($3.31 in chips) 
+Seat 4: neurotic234 ($2.09 in chips) 
+Seat 5: \[T]/ MikeyD ($3.51 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+CrazyyParis: posts small blind $0.01
+Learner102: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks As]
+Lorpugo: raises $0.04 to $0.06
+neurotic234: calls $0.06
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+Learner102: calls $0.04
+*** FLOP *** [6d 5d Ts]
+Learner102: checks 
+Lorpugo: checks 
+neurotic234: bets $0.18
+Learner102: folds 
+Lorpugo: calls $0.18
+*** TURN *** [6d 5d Ts] [9h]
+Lorpugo: checks 
+neurotic234: checks 
+*** RIVER *** [6d 5d Ts 9h] [2s]
+Lorpugo: checks 
+neurotic234: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ks As] (high card Ace)
+neurotic234: shows [8d 8h] (a pair of Eights)
+neurotic234 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6d 5d Ts 9h 2s]
+Seat 1: Learner102 (big blind) folded on the Flop
+Seat 3: Lorpugo showed [Ks As] and lost with high card Ace
+Seat 4: neurotic234 showed [8d 8h] and won ($0.53) with a pair of Eights
+Seat 5: \[T]/ MikeyD (button) folded before Flop (didn't bet)
+Seat 6: CrazyyParis (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823122872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:10:48 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: Learner102 ($1.94 in chips) 
+Seat 2: Rharl01 ($1.40 in chips) 
+Seat 3: Lorpugo ($3.07 in chips) 
+Seat 4: neurotic234 ($2.38 in chips) 
+Seat 5: \[T]/ MikeyD ($3.51 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Learner102: posts small blind $0.01
+Rharl01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Kd]
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+CrazyyParis: raises $0.03 to $0.05
+Learner102: calls $0.04
+Rharl01: raises $1.35 to $1.40 and is all-in
+CrazyyParis: folds 
+Learner102: folds 
+Uncalled bet ($1.35) returned to Rharl01
+Rharl01 collected $0.15 from pot
+Rharl01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Learner102 (small blind) folded before Flop
+Seat 2: Rharl01 (big blind) collected ($0.15)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis (button) folded before Flop
+
+
+
+PokerStars Hand #240823131441:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:11:19 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: Learner102 ($1.89 in chips) 
+Seat 2: Rharl01 ($1.50 in chips) 
+Seat 3: Lorpugo ($3.07 in chips) 
+Seat 4: neurotic234 ($2.38 in chips) 
+Seat 5: \[T]/ MikeyD ($3.51 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Rharl01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Kc]
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.06 to $0.08
+CrazyyParis: folds 
+Learner102: folds 
+Rharl01: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Learner102 (button) folded before Flop (didn't bet)
+Seat 2: Rharl01 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823135355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:11:33 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: Learner102 ($1.89 in chips) 
+Seat 2: Rharl01 ($1.49 in chips) 
+Seat 3: Lorpugo ($3.05 in chips) 
+Seat 4: neurotic234 ($2.38 in chips) 
+Seat 5: \[T]/ MikeyD ($3.54 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2c]
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+Learner102: folds 
+Rharl01: folds 
+Lorpugo: calls $0.01
+neurotic234: checks 
+*** FLOP *** [Th Ad 7d]
+Lorpugo: bets $0.02
+neurotic234: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Th Ad 7d]
+Seat 1: Learner102 folded before Flop (didn't bet)
+Seat 2: Rharl01 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: neurotic234 (big blind) folded on the Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823140853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:11:53 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: Learner102 ($1.89 in chips) 
+Seat 2: Rharl01 ($1.49 in chips) 
+Seat 3: Lorpugo ($3.07 in chips) 
+Seat 4: neurotic234 ($2.36 in chips) 
+Seat 5: \[T]/ MikeyD ($3.54 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3s]
+CrazyyParis: folds 
+Learner102: folds 
+Rharl01: folds 
+Lorpugo: folds 
+neurotic234: folds 
+Uncalled bet ($0.01) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Learner102 folded before Flop (didn't bet)
+Seat 2: Rharl01 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) collected ($0.02)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823143572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:12:03 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: Learner102 ($1.89 in chips) 
+Seat 2: Rharl01 ($1.49 in chips) 
+Seat 3: Lorpugo ($3.07 in chips) 
+Seat 4: neurotic234 ($2.35 in chips) 
+Seat 5: \[T]/ MikeyD ($3.55 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+CrazyyParis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2d]
+Learner102: folds 
+Rharl01: folds 
+Lorpugo: raises $0.04 to $0.06
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Learner102 folded before Flop (didn't bet)
+Seat 2: Rharl01 folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) folded before Flop
+Seat 6: CrazyyParis (big blind) folded before Flop
+
+
+
+PokerStars Hand #240823147066:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:12:15 ET
+Table 'Asplinda II' 6-max Seat #5 is the button
+Seat 1: Learner102 ($1.89 in chips) 
+Seat 2: Rharl01 ($1.49 in chips) 
+Seat 3: Lorpugo ($3.10 in chips) 
+Seat 4: neurotic234 ($2.35 in chips) 
+Seat 5: \[T]/ MikeyD ($3.54 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+CrazyyParis: posts small blind $0.01
+Learner102: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4s]
+Rharl01: folds 
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.06 to $0.08
+CrazyyParis: folds 
+Learner102: calls $0.06
+*** FLOP *** [Ac 8d Kd]
+Learner102: checks 
+\[T]/ MikeyD: bets $0.10
+Learner102: calls $0.10
+*** TURN *** [Ac 8d Kd] [2s]
+Learner102: checks 
+\[T]/ MikeyD: checks 
+*** RIVER *** [Ac 8d Kd 2s] [6d]
+Learner102: checks 
+\[T]/ MikeyD: bets $0.18
+Learner102: calls $0.18
+*** SHOW DOWN ***
+\[T]/ MikeyD: shows [8s 6h] (two pair, Eights and Sixes)
+Learner102: mucks hand 
+\[T]/ MikeyD collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Ac 8d Kd 2s 6d]
+Seat 1: Learner102 (big blind) mucked [7d Ah]
+Seat 2: Rharl01 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (button) showed [8s 6h] and won ($0.70) with two pair, Eights and Sixes
+Seat 6: CrazyyParis (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823157640:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:12:54 ET
+Table 'Asplinda II' 6-max Seat #6 is the button
+Seat 1: Learner102 ($1.53 in chips) 
+Seat 2: Rharl01 ($1.49 in chips) 
+Seat 3: Lorpugo ($3.10 in chips) 
+Seat 4: neurotic234 ($2.35 in chips) 
+Seat 5: \[T]/ MikeyD ($3.88 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Learner102: posts small blind $0.01
+Rharl01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jh]
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.08 to $0.10
+CrazyyParis: folds 
+Learner102: folds 
+Rharl01: folds 
+Uncalled bet ($0.08) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Learner102 (small blind) folded before Flop
+Seat 2: Rharl01 (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: CrazyyParis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823163089:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:13:13 ET
+Table 'Asplinda II' 6-max Seat #1 is the button
+Seat 1: Learner102 ($1.52 in chips) 
+Seat 2: Rharl01 ($1.47 in chips) 
+Seat 3: Lorpugo ($3.10 in chips) 
+Seat 4: neurotic234 ($2.35 in chips) 
+Seat 5: \[T]/ MikeyD ($3.91 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Rharl01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Qh]
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.06 to $0.08
+CrazyyParis: folds 
+Learner102 has timed out
+Learner102: folds 
+Rharl01: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to \[T]/ MikeyD
+\[T]/ MikeyD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Learner102 (button) folded before Flop (didn't bet)
+Seat 2: Rharl01 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: neurotic234 folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD collected ($0.05)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823170334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:13:39 ET
+Table 'Asplinda II' 6-max Seat #2 is the button
+Seat 1: Learner102 ($1.52 in chips) 
+Seat 2: Rharl01 ($1.46 in chips) 
+Seat 3: Lorpugo ($3.08 in chips) 
+Seat 4: neurotic234 ($2.35 in chips) 
+Seat 5: \[T]/ MikeyD ($3.94 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+Lorpugo: posts small blind $0.01
+neurotic234: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 3d]
+\[T]/ MikeyD: folds 
+CrazyyParis: folds 
+Learner102: calls $0.02
+Rharl01: raises $0.04 to $0.06
+Lorpugo: folds 
+neurotic234: folds 
+Learner102: folds 
+Uncalled bet ($0.04) returned to Rharl01
+Rharl01 collected $0.07 from pot
+Rharl01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Learner102 folded before Flop
+Seat 2: Rharl01 (button) collected ($0.07)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: neurotic234 (big blind) folded before Flop
+Seat 5: \[T]/ MikeyD folded before Flop (didn't bet)
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823176172:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:14:00 ET
+Table 'Asplinda II' 6-max Seat #3 is the button
+Seat 1: Learner102 ($1.50 in chips) 
+Seat 2: Rharl01 ($1.51 in chips) 
+Seat 3: Lorpugo ($3.07 in chips) 
+Seat 4: neurotic234 ($2.33 in chips) 
+Seat 5: \[T]/ MikeyD ($3.94 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+neurotic234: posts small blind $0.01
+\[T]/ MikeyD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qd]
+CrazyyParis: folds 
+Learner102: calls $0.02
+Rharl01: folds 
+Lorpugo: raises $0.07 to $0.09
+neurotic234: folds 
+\[T]/ MikeyD: folds 
+Learner102: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Learner102 folded before Flop
+Seat 2: Rharl01 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.07)
+Seat 4: neurotic234 (small blind) folded before Flop
+Seat 5: \[T]/ MikeyD (big blind) folded before Flop
+Seat 6: CrazyyParis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823182710:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:14:24 ET
+Table 'Asplinda II' 6-max Seat #4 is the button
+Seat 1: Learner102 ($1.48 in chips) 
+Seat 2: Rharl01 ($1.51 in chips) 
+Seat 3: Lorpugo ($3.12 in chips) 
+Seat 4: neurotic234 ($2.32 in chips) 
+Seat 5: \[T]/ MikeyD ($3.92 in chips) 
+Seat 6: CrazyyParis ($2 in chips) 
+\[T]/ MikeyD: posts small blind $0.01
+CrazyyParis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6h]
+Learner102: folds 
+Rharl01: folds 
+Lorpugo: folds 
+neurotic234: folds 
+\[T]/ MikeyD: raises $0.04 to $0.06
+CrazyyParis: calls $0.04
+*** FLOP *** [2s Qc Td]
+\[T]/ MikeyD: checks 
+CrazyyParis: checks 
+*** TURN *** [2s Qc Td] [5h]
+\[T]/ MikeyD: bets $0.06
+CrazyyParis: calls $0.06
+*** RIVER *** [2s Qc Td 5h] [Tc]
+\[T]/ MikeyD: bets $0.12
+CrazyyParis: calls $0.12
+*** SHOW DOWN ***
+\[T]/ MikeyD: shows [5d 4d] (two pair, Tens and Fives)
+CrazyyParis: shows [Qh 7h] (two pair, Queens and Tens)
+CrazyyParis collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [2s Qc Td 5h Tc]
+Seat 1: Learner102 folded before Flop (didn't bet)
+Seat 2: Rharl01 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: neurotic234 (button) folded before Flop (didn't bet)
+Seat 5: \[T]/ MikeyD (small blind) showed [5d 4d] and lost with two pair, Tens and Fives
+Seat 6: CrazyyParis (big blind) showed [Qh 7h] and won ($0.46) with two pair, Queens and Tens
+
+
+

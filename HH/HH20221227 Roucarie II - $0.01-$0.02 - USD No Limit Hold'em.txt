@@ -1,0 +1,2634 @@
+﻿PokerStars Hand #240728713005:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:57:17 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: Rene Lavand2020 ($2.04 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fabr7c7o ($2.53 in chips) 
+Seat 4: dealerinthepast ($2.62 in chips) 
+Seat 5: fabiopoker37 ($0.43 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+fabiopoker37: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 8c]
+Rene Lavand2020: folds 
+GENJD: raises $0.02 to $0.04
+fabr7c7o: folds 
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [5s Th 7s]
+Lorpugo: checks 
+GENJD: checks 
+*** TURN *** [5s Th 7s] [2c]
+Lorpugo: bets $0.12
+GENJD: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5s Th 7s 2c]
+Seat 1: Rene Lavand2020 folded before Flop (didn't bet)
+Seat 2: GENJD folded on the Turn
+Seat 3: fabr7c7o folded before Flop (didn't bet)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #240728737695:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:58:43 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 1: Rene Lavand2020 ($2.04 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fabr7c7o ($2.53 in chips) 
+Seat 4: dealerinthepast ($2.62 in chips) 
+Seat 5: fabiopoker37 ($0.42 in chips) 
+Seat 6: Lorpugo ($1.65 in chips) 
+Lorpugo: posts small blind $0.01
+Rene Lavand2020: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 8s]
+GENJD has timed out
+GENJD: folds 
+Rene Lavand2020 is disconnected 
+fabr7c7o: folds 
+fabr7c7o leaves the table
+dealerinthepast: raises $0.04 to $0.06
+amish ds4 joins the table at seat #3 
+fabiopoker37: raises $0.36 to $0.42 and is all-in
+Lorpugo: folds 
+Rene Lavand2020 has timed out while disconnected
+Rene Lavand2020: folds 
+dealerinthepast: calls $0.36
+*** FLOP *** [Kh 3d 8h]
+*** TURN *** [Kh 3d 8h] [Kd]
+*** RIVER *** [Kh 3d 8h Kd] [4h]
+*** SHOW DOWN ***
+dealerinthepast: shows [Qc As] (a pair of Kings)
+fabiopoker37: shows [Ts Td] (two pair, Kings and Tens)
+fabiopoker37 collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Kh 3d 8h Kd 4h]
+Seat 1: Rene Lavand2020 (big blind) folded before Flop
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: fabr7c7o folded before Flop (didn't bet)
+Seat 4: dealerinthepast showed [Qc As] and lost with a pair of Kings
+Seat 5: fabiopoker37 (button) showed [Ts Td] and won ($0.84) with two pair, Kings and Tens
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240728772419:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:00:41 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($0.80 in chips) 
+Seat 4: dealerinthepast ($2.20 in chips) 
+Seat 5: fabiopoker37 ($0.84 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+GENJD: posts small blind $0.01
+amish ds4: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4d]
+dealerinthepast: raises $0.04 to $0.06
+fabiopoker37: folds 
+Lorpugo: folds 
+GENJD: calls $0.05
+amish ds4: calls $0.04
+*** FLOP *** [5s 7d 3s]
+GENJD: checks 
+amish ds4: checks 
+dealerinthepast: bets $0.06
+GENJD: calls $0.06
+amish ds4: calls $0.06
+*** TURN *** [5s 7d 3s] [2c]
+GENJD: checks 
+amish ds4: checks 
+dealerinthepast: checks 
+*** RIVER *** [5s 7d 3s 2c] [8c]
+GENJD: checks 
+amish ds4: bets $0.08
+dealerinthepast: folds 
+GENJD: folds 
+Uncalled bet ($0.08) returned to amish ds4
+amish ds4 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5s 7d 3s 2c 8c]
+Seat 2: GENJD (small blind) folded on the River
+Seat 3: amish ds4 (big blind) collected ($0.35)
+Seat 4: dealerinthepast folded on the River
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728804200:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:02:13 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.03 in chips) 
+Seat 4: dealerinthepast ($2.08 in chips) 
+Seat 5: fabiopoker37 ($0.84 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+amish ds4: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Kc]
+fabiopoker37: folds 
+Lorpugo: folds 
+GENJD: raises $0.02 to $0.04
+amish ds4: calls $0.03
+dealerinthepast: folds 
+*** FLOP *** [Ac 2d As]
+amish ds4: checks 
+GENJD: checks 
+*** TURN *** [Ac 2d As] [8s]
+amish ds4: checks 
+GENJD: checks 
+*** RIVER *** [Ac 2d As 8s] [9d]
+amish ds4: bets $0.10
+GENJD: folds 
+Uncalled bet ($0.10) returned to amish ds4
+amish ds4 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ac 2d As 8s 9d]
+Seat 2: GENJD (button) folded on the River
+Seat 3: amish ds4 (small blind) collected ($0.10)
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728825483:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:03:10 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.09 in chips) 
+Seat 4: dealerinthepast ($2.06 in chips) 
+Seat 5: fabiopoker37 ($0.84 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+dealerinthepast: posts small blind $0.01
+fabiopoker37: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 3h]
+Lorpugo: folds 
+GENJD: folds 
+amish ds4: calls $0.02
+dealerinthepast: folds 
+fabiopoker37: raises $0.82 to $0.84 and is all-in
+amish ds4: folds 
+Uncalled bet ($0.82) returned to fabiopoker37
+fabiopoker37 collected $0.05 from pot
+fabiopoker37: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: amish ds4 (button) folded before Flop
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: fabiopoker37 (big blind) collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728835456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:03:37 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.07 in chips) 
+Seat 4: dealerinthepast ($2.05 in chips) 
+Seat 5: fabiopoker37 ($0.87 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+fabiopoker37: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Qs]
+GENJD has timed out
+GENJD: folds 
+amish ds4: calls $0.02
+dealerinthepast: folds 
+fabiopoker37: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [7d Td 2s]
+fabiopoker37: checks 
+Lorpugo: checks 
+amish ds4: checks 
+*** TURN *** [7d Td 2s] [Ac]
+fabiopoker37: checks 
+Lorpugo: checks 
+amish ds4: bets $0.04
+fabiopoker37: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to amish ds4
+amish ds4 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7d Td 2s Ac]
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: amish ds4 collected ($0.06)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240728865773:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:04:57 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.11 in chips) 
+Seat 4: dealerinthepast ($2.05 in chips) 
+Seat 5: fabiopoker37 ($0.85 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+Lorpugo: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 8c]
+amish ds4: calls $0.02
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: folds 
+GENJD: checks 
+*** FLOP *** [3c 3d Ks]
+GENJD: checks 
+amish ds4: checks 
+*** TURN *** [3c 3d Ks] [Jh]
+GENJD: checks 
+amish ds4: bets $0.02
+GENJD: folds 
+Uncalled bet ($0.02) returned to amish ds4
+amish ds4 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c 3d Ks Jh]
+Seat 2: GENJD (big blind) folded on the Turn
+Seat 3: amish ds4 collected ($0.05)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240728885402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:05:49 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.14 in chips) 
+Seat 4: dealerinthepast ($2.05 in chips) 
+Seat 5: fabiopoker37 ($0.85 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+GENJD: posts small blind $0.01
+amish ds4: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9d]
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: folds 
+GENJD: calls $0.01
+amish ds4: checks 
+*** FLOP *** [6c Qd 5d]
+GENJD: checks 
+amish ds4: bets $0.02
+GENJD: calls $0.02
+*** TURN *** [6c Qd 5d] [Ts]
+GENJD: checks 
+amish ds4: bets $0.02
+GENJD: calls $0.02
+*** RIVER *** [6c Qd 5d Ts] [2s]
+GENJD: checks 
+amish ds4: bets $0.08
+GENJD: calls $0.08
+*** SHOW DOWN ***
+amish ds4: shows [7s Qc] (a pair of Queens)
+GENJD: mucks hand 
+amish ds4 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6c Qd 5d Ts 2s]
+Seat 2: GENJD (small blind) mucked [5c 9c]
+Seat 3: amish ds4 (big blind) showed [7s Qc] and won ($0.27) with a pair of Queens
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728917577:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:07:13 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.27 in chips) 
+Seat 4: dealerinthepast ($2.05 in chips) 
+Seat 5: fabiopoker37 ($0.85 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+amish ds4: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6c]
+fabiopoker37: folds 
+Lorpugo: folds 
+GENJD: raises $0.02 to $0.04
+amish ds4: calls $0.03
+dealerinthepast: calls $0.02
+*** FLOP *** [Qs 2d 2h]
+amish ds4: checks 
+dealerinthepast: checks 
+GENJD: checks 
+*** TURN *** [Qs 2d 2h] [8c]
+amish ds4: checks 
+dealerinthepast: bets $0.04
+GENJD: folds 
+amish ds4: calls $0.04
+*** RIVER *** [Qs 2d 2h 8c] [3h]
+amish ds4: checks 
+dealerinthepast: checks 
+*** SHOW DOWN ***
+amish ds4: shows [9c Tc] (a pair of Deuces)
+dealerinthepast: shows [8d 9d] (two pair, Eights and Deuces)
+dealerinthepast collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qs 2d 2h 8c 3h]
+Seat 2: GENJD (button) folded on the Turn
+Seat 3: amish ds4 (small blind) showed [9c Tc] and lost with a pair of Deuces
+Seat 4: dealerinthepast (big blind) showed [8d 9d] and won ($0.19) with two pair, Eights and Deuces
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728949180:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:08:35 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.19 in chips) 
+Seat 4: dealerinthepast ($2.16 in chips) 
+Seat 5: fabiopoker37 ($0.85 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+dealerinthepast: posts small blind $0.01
+fabiopoker37: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6h]
+Lorpugo: folds 
+GENJD: raises $0.02 to $0.04
+amish ds4: calls $0.04
+dealerinthepast: calls $0.03
+fabiopoker37: folds 
+*** FLOP *** [Ah 7d 6d]
+dealerinthepast: bets $0.05
+GENJD: calls $0.05
+amish ds4: folds 
+*** TURN *** [Ah 7d 6d] [3s]
+dealerinthepast: bets $0.17
+GENJD: folds 
+Uncalled bet ($0.17) returned to dealerinthepast
+dealerinthepast collected $0.23 from pot
+dealerinthepast: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ah 7d 6d 3s]
+Seat 2: GENJD folded on the Turn
+Seat 3: amish ds4 (button) folded on the Flop
+Seat 4: dealerinthepast (small blind) collected ($0.23)
+Seat 5: fabiopoker37 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728975088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:09:42 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.15 in chips) 
+Seat 4: dealerinthepast ($2.30 in chips) 
+Seat 5: fabiopoker37 ($0.83 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+fabiopoker37: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8c]
+GENJD: raises $0.02 to $0.04
+amish ds4: calls $0.04
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: folds 
+*** FLOP *** [Ts Jh 9c]
+GENJD: checks 
+amish ds4: bets $0.02
+GENJD: folds 
+Uncalled bet ($0.02) returned to amish ds4
+amish ds4 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ts Jh 9c]
+Seat 2: GENJD folded on the Flop
+Seat 3: amish ds4 collected ($0.11)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728991210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:10:25 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($1.22 in chips) 
+Seat 4: dealerinthepast ($2.30 in chips) 
+Seat 5: fabiopoker37 ($0.82 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Lorpugo: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8s]
+Rene Lavand2020 leaves the table
+amish ds4: calls $0.02
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: raises $0.04 to $0.06
+GENJD: calls $0.04
+amish ds4: calls $0.04
+*** FLOP *** [8c 2s 7h]
+Zosmay1 joins the table at seat #1 
+Lorpugo: bets $0.11
+GENJD: folds 
+amish ds4: calls $0.11
+*** TURN *** [8c 2s 7h] [6d]
+Lorpugo: bets $0.26
+amish ds4: calls $0.26
+*** RIVER *** [8c 2s 7h 6d] [Ac]
+Lorpugo: checks 
+amish ds4: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ks 8s] (a pair of Eights)
+amish ds4: mucks hand 
+Lorpugo collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [8c 2s 7h 6d Ac]
+Seat 2: GENJD (big blind) folded on the Flop
+Seat 3: amish ds4 mucked [9s 8d]
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) showed [Ks 8s] and won ($0.89) with a pair of Eights
+
+
+
+PokerStars Hand #240729014643:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:11:26 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($0.79 in chips) 
+Seat 4: dealerinthepast ($2.30 in chips) 
+Seat 5: fabiopoker37 ($0.82 in chips) 
+Seat 6: Lorpugo ($2.05 in chips) 
+GENJD: posts small blind $0.01
+amish ds4: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ac]
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: raises $0.04 to $0.06
+GENJD: calls $0.05
+amish ds4: calls $0.04
+*** FLOP *** [Ts 4s 9h]
+GENJD: bets $0.17
+amish ds4: calls $0.17
+Lorpugo: raises $1.82 to $1.99 and is all-in
+GENJD: folds 
+amish ds4: folds 
+Uncalled bet ($1.82) returned to Lorpugo
+Lorpugo collected $0.67 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [Ts 4s 9h]
+Seat 2: GENJD (small blind) folded on the Flop
+Seat 3: amish ds4 (big blind) folded on the Flop
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.67)
+
+
+
+PokerStars Hand #240729033653:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:12:15 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($0.56 in chips) 
+Seat 4: dealerinthepast ($2.30 in chips) 
+Seat 5: fabiopoker37 ($0.82 in chips) 
+Seat 6: Lorpugo ($2.49 in chips) 
+amish ds4: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jd]
+fabiopoker37: folds 
+Lorpugo: folds 
+GENJD: raises $0.02 to $0.04
+amish ds4: calls $0.03
+dealerinthepast: folds 
+*** FLOP *** [5s As 5d]
+amish ds4: bets $0.04
+GENJD: folds 
+Uncalled bet ($0.04) returned to amish ds4
+amish ds4 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5s As 5d]
+Seat 2: GENJD (button) folded on the Flop
+Seat 3: amish ds4 (small blind) collected ($0.10)
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729045053:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:12:45 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: amish ds4 ($0.62 in chips) 
+Seat 4: dealerinthepast ($2.28 in chips) 
+Seat 5: fabiopoker37 ($0.82 in chips) 
+Seat 6: Lorpugo ($2.49 in chips) 
+dealerinthepast: posts small blind $0.01
+fabiopoker37: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 9s]
+Lorpugo: folds 
+GENJD: calls $0.02
+amish ds4: calls $0.02
+dealerinthepast: folds 
+fabiopoker37: checks 
+*** FLOP *** [4d Ad Ks]
+fabiopoker37: checks 
+GENJD: checks 
+amish ds4: checks 
+*** TURN *** [4d Ad Ks] [8c]
+fabiopoker37: checks 
+GENJD: checks 
+amish ds4: checks 
+*** RIVER *** [4d Ad Ks 8c] [3d]
+fabiopoker37: bets $0.07
+GENJD: raises $0.21 to $0.28
+amish ds4: folds 
+fabiopoker37: calls $0.21
+*** SHOW DOWN ***
+GENJD: shows [6d Td] (a flush, Ace high)
+fabiopoker37: mucks hand 
+GENJD collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [4d Ad Ks 8c 3d]
+Seat 2: GENJD showed [6d Td] and won ($0.61) with a flush, Ace high
+Seat 3: amish ds4 (button) folded on the River
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: fabiopoker37 (big blind) mucked [3s 4c]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729073576:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:13:59 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 2: GENJD ($2.31 in chips) 
+Seat 3: amish ds4 ($0.60 in chips) 
+Seat 4: dealerinthepast ($2.27 in chips) 
+Seat 5: fabiopoker37 ($0.52 in chips) 
+Seat 6: Lorpugo ($2.49 in chips) 
+fabiopoker37: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2s]
+GENJD: folds 
+amish ds4: calls $0.02
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: checks 
+*** FLOP *** [3d 7d Qs]
+Lorpugo: checks 
+amish ds4: checks 
+*** TURN *** [3d 7d Qs] [Js]
+Lorpugo: bets $0.05
+amish ds4: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d 7d Qs Js]
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: amish ds4 folded on the Turn
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #240729087082:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:14:34 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 1: Zosmay1 ($2 in chips) 
+Seat 2: GENJD ($2.31 in chips) 
+Seat 3: amish ds4 ($0.58 in chips) 
+Seat 4: dealerinthepast ($2.27 in chips) 
+Seat 5: fabiopoker37 ($0.51 in chips) 
+Seat 6: Lorpugo ($2.52 in chips) 
+Lorpugo: posts small blind $0.01
+Zosmay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5h]
+GENJD: folds 
+amish ds4: calls $0.02
+dealerinthepast: folds 
+fabiopoker37: calls $0.02
+Lorpugo: calls $0.01
+Zosmay1: checks 
+*** FLOP *** [Js 3s Ks]
+Lorpugo: checks 
+Zosmay1: bets $0.02
+amish ds4: calls $0.02
+fabiopoker37: folds 
+Lorpugo: calls $0.02
+*** TURN *** [Js 3s Ks] [6c]
+Lorpugo: bets $0.05
+Zosmay1: calls $0.05
+amish ds4: folds 
+*** RIVER *** [Js 3s Ks 6c] [Ts]
+Lorpugo: checks 
+Zosmay1: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Zosmay1
+Zosmay1 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Js 3s Ks 6c Ts]
+Seat 1: Zosmay1 (big blind) collected ($0.23)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: amish ds4 folded on the Turn
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240729113803:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:15:43 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: Zosmay1 ($2.14 in chips) 
+Seat 2: GENJD ($2.31 in chips) 
+Seat 3: amish ds4 ($0.54 in chips) 
+Seat 4: dealerinthepast ($2.27 in chips) 
+Seat 5: fabiopoker37 ($0.49 in chips) 
+Seat 6: Lorpugo ($2.43 in chips) 
+Zosmay1: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9c]
+amish ds4: calls $0.02
+dealerinthepast: raises $0.04 to $0.06
+fabiopoker37: folds 
+Lorpugo: folds 
+Zosmay1: folds 
+GENJD: folds 
+amish ds4: calls $0.04
+*** FLOP *** [4h Kd Qd]
+amish ds4: checks 
+dealerinthepast: bets $0.05
+amish ds4: folds 
+Uncalled bet ($0.05) returned to dealerinthepast
+dealerinthepast collected $0.14 from pot
+dealerinthepast: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4h Kd Qd]
+Seat 1: Zosmay1 (small blind) folded before Flop
+Seat 2: GENJD (big blind) folded before Flop
+Seat 3: amish ds4 folded on the Flop
+Seat 4: dealerinthepast collected ($0.14)
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729133783:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:16:35 ET
+Table 'Roucarie II' 6-max Seat #1 is the button
+Seat 1: Zosmay1 ($2.13 in chips) 
+Seat 2: GENJD ($2.29 in chips) 
+Seat 3: amish ds4 ($0.48 in chips) 
+Seat 4: dealerinthepast ($2.35 in chips) 
+Seat 5: fabiopoker37 ($0.49 in chips) 
+Seat 6: Lorpugo ($2.43 in chips) 
+GENJD: posts small blind $0.01
+amish ds4: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Tc]
+dealerinthepast: folds 
+fabiopoker37: folds 
+Lorpugo: raises $0.04 to $0.06
+Zosmay1: calls $0.06
+GENJD: calls $0.05
+amish ds4: calls $0.04
+*** FLOP *** [7h Ks 2c]
+GENJD: checks 
+amish ds4: checks 
+Lorpugo: checks 
+Zosmay1: checks 
+*** TURN *** [7h Ks 2c] [Td]
+GENJD: checks 
+amish ds4: checks 
+Lorpugo: bets $0.15
+Zosmay1: calls $0.15
+GENJD: folds 
+amish ds4: folds 
+*** RIVER *** [7h Ks 2c Td] [6h]
+Lorpugo: checks 
+Zosmay1: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qh Tc] (a pair of Tens)
+Zosmay1: mucks hand 
+Lorpugo collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [7h Ks 2c Td 6h]
+Seat 1: Zosmay1 (button) mucked [Jh Qc]
+Seat 2: GENJD (small blind) folded on the Turn
+Seat 3: amish ds4 (big blind) folded on the Turn
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [Qh Tc] and won ($0.52) with a pair of Tens
+
+
+
+PokerStars Hand #240729157145:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:17:36 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 1: Zosmay1 ($1.92 in chips) 
+Seat 2: GENJD ($2.23 in chips) 
+Seat 3: amish ds4 ($0.42 in chips) 
+Seat 4: dealerinthepast ($2.35 in chips) 
+Seat 5: fabiopoker37 ($0.49 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+amish ds4: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4s]
+fabiopoker37: folds 
+Lorpugo: folds 
+Zosmay1: folds 
+GENJD: raises $0.02 to $0.04
+amish ds4: calls $0.03
+dealerinthepast: calls $0.02
+*** FLOP *** [6d 4d Ah]
+amish ds4: checks 
+dealerinthepast: checks 
+GENJD: bets $0.12
+amish ds4: folds 
+dealerinthepast: folds 
+Uncalled bet ($0.12) returned to GENJD
+GENJD collected $0.12 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6d 4d Ah]
+Seat 1: Zosmay1 folded before Flop (didn't bet)
+Seat 2: GENJD (button) collected ($0.12)
+Seat 3: amish ds4 (small blind) folded on the Flop
+Seat 4: dealerinthepast (big blind) folded on the Flop
+Seat 5: fabiopoker37 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729175707:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:18:24 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 1: Zosmay1 ($1.92 in chips) 
+Seat 2: GENJD ($2.31 in chips) 
+Seat 3: amish ds4 ($0.38 in chips) 
+Seat 4: dealerinthepast ($2.31 in chips) 
+Seat 5: fabiopoker37 ($0.49 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+dealerinthepast: posts small blind $0.01
+fabiopoker37: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Ts]
+Lorpugo: folds 
+Zosmay1: calls $0.02
+GENJD: folds 
+amish ds4: calls $0.02
+dealerinthepast: calls $0.01
+fabiopoker37: checks 
+*** FLOP *** [8d Th 6h]
+dealerinthepast: checks 
+fabiopoker37: checks 
+Zosmay1: bets $0.06
+amish ds4: calls $0.06
+dealerinthepast: folds 
+fabiopoker37: folds 
+*** TURN *** [8d Th 6h] [9c]
+Zosmay1: bets $0.08
+amish ds4: calls $0.08
+*** RIVER *** [8d Th 6h 9c] [3s]
+Zosmay1: bets $0.04
+amish ds4: folds 
+Uncalled bet ($0.04) returned to Zosmay1
+Zosmay1 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [8d Th 6h 9c 3s]
+Seat 1: Zosmay1 collected ($0.35)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: amish ds4 (button) folded on the River
+Seat 4: dealerinthepast (small blind) folded on the Flop
+Seat 5: fabiopoker37 (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729200318:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:19:28 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: Zosmay1 ($2.11 in chips) 
+Seat 2: GENJD ($2.31 in chips) 
+Seat 3: amish ds4 ($0.22 in chips) 
+Seat 4: dealerinthepast ($2.29 in chips) 
+Seat 5: fabiopoker37 ($0.47 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+fabiopoker37: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ah]
+Zosmay1: raises $0.02 to $0.04
+GENJD: folds 
+amish ds4: calls $0.04
+dealerinthepast: folds 
+fabiopoker37: raises $0.43 to $0.47 and is all-in
+Lorpugo: folds 
+Zosmay1: calls $0.43
+amish ds4: calls $0.18 and is all-in
+*** FLOP *** [3c 9d 2d]
+*** TURN *** [3c 9d 2d] [Kd]
+*** RIVER *** [3c 9d 2d Kd] [8d]
+*** SHOW DOWN ***
+fabiopoker37: shows [Ac 5c] (high card Ace)
+Zosmay1: shows [Ts As] (high card Ace - King+Ten kicker)
+Zosmay1 collected $0.48 from side pot
+amish ds4: shows [8c 6c] (a pair of Eights)
+amish ds4 cashed out the hand for $0.20
+*** SUMMARY ***
+Total pot $1.18 Main pot $0.66. Side pot $0.48. | Rake $0.04 
+Board [3c 9d 2d Kd 8d]
+Seat 1: Zosmay1 showed [Ts As] and won ($0.48) with high card Ace
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: amish ds4 showed [8c 6c] and won ($0.66) with a pair of Eights (pot not awarded as player cashed out)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: fabiopoker37 (small blind) showed [Ac 5c] and lost with high card Ace
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729221460:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:20:24 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: Zosmay1 ($2.12 in chips) 
+Seat 2: GENJD ($2.31 in chips) 
+Seat 3: amish ds4 ($0.20 in chips) 
+Seat 4: dealerinthepast ($2.29 in chips) 
+Seat 6: Lorpugo ($2.72 in chips) 
+Zosmay1: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Js]
+amish ds4: raises $0.18 to $0.20 and is all-in
+dealerinthepast: folds 
+fabiopoker37 leaves the table
+Lorpugo: folds 
+Zosmay1: calls $0.19
+GENJD: folds 
+*** FLOP *** [Ah 6c 8d]
+zowi444 joins the table at seat #5 
+*** TURN *** [Ah 6c 8d] [Ts]
+*** RIVER *** [Ah 6c 8d Ts] [8s]
+*** SHOW DOWN ***
+Zosmay1: shows [6h Ad] (two pair, Aces and Eights)
+amish ds4: shows [Th 9c] (two pair, Tens and Eights)
+Zosmay1 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Ah 6c 8d Ts 8s]
+Seat 1: Zosmay1 (small blind) showed [6h Ad] and won ($0.41) with two pair, Aces and Eights
+Seat 2: GENJD (big blind) folded before Flop
+Seat 3: amish ds4 showed [Th 9c] and lost with two pair, Tens and Eights
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729232960:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:20:53 ET
+Table 'Roucarie II' 6-max Seat #1 is the button
+Seat 1: Zosmay1 ($2.33 in chips) 
+Seat 2: GENJD ($2.29 in chips) 
+Seat 4: dealerinthepast ($2.29 in chips) 
+Seat 6: Lorpugo ($2.72 in chips) 
+GENJD: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7s]
+Lorpugo: folds 
+amish ds4 leaves the table
+Zosmay1: raises $0.02 to $0.04
+GENJD: calls $0.03
+zabivalo77 joins the table at seat #3 
+dealerinthepast: folds 
+*** FLOP *** [8s Kh 9h]
+GENJD: checks 
+Zosmay1: bets $0.10
+GENJD: calls $0.10
+*** TURN *** [8s Kh 9h] [Th]
+GENJD: bets $0.29
+Zosmay1: folds 
+Uncalled bet ($0.29) returned to GENJD
+GENJD collected $0.29 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8s Kh 9h Th]
+Seat 1: Zosmay1 (button) folded on the Turn
+Seat 2: GENJD (small blind) collected ($0.29)
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729251355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:21:41 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 1: Zosmay1 ($2.19 in chips) 
+Seat 2: GENJD ($2.44 in chips) 
+Seat 4: dealerinthepast ($2.27 in chips) 
+Seat 5: zowi444 ($2 in chips) 
+Seat 6: Lorpugo ($2.72 in chips) 
+dealerinthepast: posts small blind $0.01
+zowi444: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Jc]
+Lorpugo: raises $0.04 to $0.06
+Zosmay1: calls $0.06
+GENJD: folds 
+dealerinthepast: folds 
+zowi444: folds 
+*** FLOP *** [8h Ah 5d]
+Lorpugo: checks 
+Zosmay1: checks 
+*** TURN *** [8h Ah 5d] [Ad]
+Lorpugo: bets $0.05
+Zosmay1: calls $0.05
+*** RIVER *** [8h Ah 5d Ad] [2h]
+Lorpugo: checks 
+Zosmay1: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Kc Jc] (a pair of Aces)
+Zosmay1: mucks hand 
+Lorpugo collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8h Ah 5d Ad 2h]
+Seat 1: Zosmay1 mucked [Tc Qd]
+Seat 2: GENJD (button) folded before Flop (didn't bet)
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: zowi444 (big blind) folded before Flop
+Seat 6: Lorpugo showed [Kc Jc] and won ($0.24) with a pair of Aces
+
+
+
+PokerStars Hand #240729267838:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:22:24 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: Zosmay1 ($2.08 in chips) 
+Seat 2: GENJD ($2.44 in chips) 
+Seat 4: dealerinthepast ($2.26 in chips) 
+Seat 5: zowi444 ($1.98 in chips) 
+Seat 6: Lorpugo ($2.85 in chips) 
+zowi444: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qc]
+Zosmay1: calls $0.02
+GENJD: calls $0.02
+dealerinthepast: folds 
+zowi444: raises $0.08 to $0.10
+Lorpugo: folds 
+Zosmay1: folds 
+GENJD: calls $0.08
+*** FLOP *** [As 6s 6d]
+zowi444: checks 
+GENJD: checks 
+*** TURN *** [As 6s 6d] [3c]
+zowi444: bets $0.08
+GENJD: calls $0.08
+*** RIVER *** [As 6s 6d 3c] [8s]
+zowi444: bets $0.08
+GENJD: calls $0.08
+*** SHOW DOWN ***
+zowi444: shows [Kh Kc] (two pair, Kings and Sixes)
+GENJD: mucks hand 
+zowi444 collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [As 6s 6d 3c 8s]
+Seat 1: Zosmay1 folded before Flop
+Seat 2: GENJD mucked [3h 5h]
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: zowi444 (small blind) showed [Kh Kc] and won ($0.54) with two pair, Kings and Sixes
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729290561:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:23:22 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 1: Zosmay1 ($2.06 in chips) 
+Seat 2: GENJD ($2.18 in chips) 
+Seat 4: dealerinthepast ($2.26 in chips) 
+Seat 5: zowi444 ($2.26 in chips) 
+Seat 6: Lorpugo ($2.83 in chips) 
+Lorpugo: posts small blind $0.01
+Zosmay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9d]
+GENJD: raises $0.02 to $0.04
+dealerinthepast: folds 
+zowi444 has timed out
+zowi444: folds 
+Lorpugo: folds 
+Zosmay1: calls $0.02
+*** FLOP *** [2h 2d 7h]
+Zosmay1: checks 
+GENJD: bets $0.09
+Zosmay1: calls $0.09
+*** TURN *** [2h 2d 7h] [Qs]
+Zosmay1: checks 
+GENJD: checks 
+*** RIVER *** [2h 2d 7h Qs] [6d]
+Zosmay1: bets $0.10
+GENJD: folds 
+Uncalled bet ($0.10) returned to Zosmay1
+Zosmay1 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2h 2d 7h Qs 6d]
+Seat 1: Zosmay1 (big blind) collected ($0.26)
+Seat 2: GENJD folded on the River
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729317538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:24:32 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: Zosmay1 ($2.19 in chips) 
+Seat 2: GENJD ($2.05 in chips) 
+Seat 4: dealerinthepast ($2.26 in chips) 
+Seat 5: zowi444 ($2.26 in chips) 
+Seat 6: Lorpugo ($2.82 in chips) 
+Zosmay1: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 3c]
+dealerinthepast: folds 
+zowi444: folds 
+zabivalo77 leaves the table
+Lorpugo: raises $0.04 to $0.06
+Zosmay1: calls $0.05
+GENJD: folds 
+*** FLOP *** [Ah 3h 6c]
+Zosmay1: checks 
+Lorpugo: bets $0.05
+Zosmay1: calls $0.05
+*** TURN *** [Ah 3h 6c] [5c]
+fdosilva joins the table at seat #3 
+Zosmay1: bets $0.08
+Lorpugo: calls $0.08
+*** RIVER *** [Ah 3h 6c 5c] [Ac]
+Zosmay1: checks 
+Lorpugo: bets $0.28
+Zosmay1: folds 
+Uncalled bet ($0.28) returned to Lorpugo
+Lorpugo collected $0.39 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Ah 3h 6c 5c Ac]
+Seat 1: Zosmay1 (small blind) folded on the River
+Seat 2: GENJD (big blind) folded before Flop
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.39)
+
+
+
+PokerStars Hand #240729344130:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:25:40 ET
+Table 'Roucarie II' 6-max Seat #1 is the button
+Seat 1: Zosmay1 ($2 in chips) 
+Seat 2: GENJD ($2.03 in chips) 
+Seat 3: fdosilva ($1.60 in chips) 
+Seat 4: dealerinthepast ($2.26 in chips) 
+Seat 5: zowi444 ($2.26 in chips) 
+Seat 6: Lorpugo ($3.02 in chips) 
+GENJD: posts small blind $0.01
+fdosilva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qc]
+dealerinthepast: folds 
+zowi444: folds 
+Lorpugo: raises $0.04 to $0.06
+Zosmay1: folds 
+GENJD: folds 
+fdosilva: calls $0.04
+*** FLOP *** [6c 4s 6h]
+fdosilva: checks 
+Lorpugo: checks 
+*** TURN *** [6c 4s 6h] [Th]
+fdosilva: bets $0.06
+Lorpugo: calls $0.06
+*** RIVER *** [6c 4s 6h Th] [5c]
+fdosilva: bets $0.20
+Lorpugo: folds 
+Uncalled bet ($0.20) returned to fdosilva
+fdosilva collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 4s 6h Th 5c]
+Seat 1: Zosmay1 (button) folded before Flop (didn't bet)
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: fdosilva (big blind) collected ($0.24)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the River
+
+
+
+PokerStars Hand #240729362391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:26:25 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 1: Zosmay1 ($2 in chips) 
+Seat 2: GENJD ($2.02 in chips) 
+Seat 3: fdosilva ($1.72 in chips) 
+Seat 4: dealerinthepast ($2.26 in chips) 
+Seat 5: zowi444 ($2.26 in chips) 
+Seat 6: Lorpugo ($2.90 in chips) 
+fdosilva: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5c]
+zowi444: raises $0.04 to $0.06
+Lorpugo: folds 
+Zosmay1: folds 
+GENJD: calls $0.06
+fdosilva: calls $0.05
+dealerinthepast: calls $0.04
+*** FLOP *** [Ac 6c 2s]
+fdosilva: checks 
+dealerinthepast: checks 
+zowi444: bets $0.06
+GENJD: folds 
+fdosilva: folds 
+dealerinthepast: calls $0.06
+*** TURN *** [Ac 6c 2s] [7c]
+dealerinthepast: checks 
+zowi444: checks 
+*** RIVER *** [Ac 6c 2s 7c] [6d]
+dealerinthepast: checks 
+zowi444: checks 
+*** SHOW DOWN ***
+dealerinthepast: shows [Kd 2d] (two pair, Sixes and Deuces)
+zowi444: shows [Ad Td] (two pair, Aces and Sixes)
+zowi444 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Ac 6c 2s 7c 6d]
+Seat 1: Zosmay1 folded before Flop (didn't bet)
+Seat 2: GENJD (button) folded on the Flop
+Seat 3: fdosilva (small blind) folded on the Flop
+Seat 4: dealerinthepast (big blind) showed [Kd 2d] and lost with two pair, Sixes and Deuces
+Seat 5: zowi444 showed [Ad Td] and won ($0.35) with two pair, Aces and Sixes
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729389013:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:27:33 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 1: Zosmay1 ($2 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fdosilva ($1.66 in chips) 
+Seat 4: dealerinthepast ($2.14 in chips) 
+Seat 5: zowi444 ($2.49 in chips) 
+Seat 6: Lorpugo ($2.90 in chips) 
+dealerinthepast: posts small blind $0.01
+zowi444: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qc]
+Lorpugo: raises $0.04 to $0.06
+Zosmay1: folds 
+GENJD: calls $0.06
+fdosilva: calls $0.06
+dealerinthepast: folds 
+zowi444: calls $0.04
+*** FLOP *** [4d Th 7d]
+zowi444: checks 
+Lorpugo: checks 
+GENJD: bets $0.24
+fdosilva: folds 
+zowi444: folds 
+Lorpugo: folds 
+Uncalled bet ($0.24) returned to GENJD
+GENJD collected $0.24 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d Th 7d]
+Seat 1: Zosmay1 folded before Flop (didn't bet)
+Seat 2: GENJD collected ($0.24)
+Seat 3: fdosilva (button) folded on the Flop
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: zowi444 (big blind) folded on the Flop
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #240729414909:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:28:38 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: Zosmay1 ($2 in chips) 
+Seat 2: GENJD ($2.18 in chips) 
+Seat 3: fdosilva ($1.60 in chips) 
+Seat 4: dealerinthepast ($2.13 in chips) 
+Seat 5: zowi444 ($2.43 in chips) 
+Seat 6: Lorpugo ($2.84 in chips) 
+zowi444: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 3s]
+Zosmay1: folds 
+GENJD: folds 
+fdosilva: calls $0.02
+dealerinthepast: folds 
+zowi444: raises $0.06 to $0.08
+Lorpugo: folds 
+fdosilva: calls $0.06
+*** FLOP *** [6d 9s Ts]
+zowi444: checks 
+fdosilva: bets $0.09
+zowi444: calls $0.09
+*** TURN *** [6d 9s Ts] [Kc]
+zowi444: checks 
+fdosilva: bets $0.18
+zowi444: calls $0.18
+*** RIVER *** [6d 9s Ts Kc] [2c]
+zowi444: checks 
+fdosilva: checks 
+*** SHOW DOWN ***
+zowi444: shows [Kd Ac] (a pair of Kings)
+fdosilva: mucks hand 
+zowi444 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [6d 9s Ts Kc 2c]
+Seat 1: Zosmay1 folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: fdosilva mucked [4h 6h]
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: zowi444 (small blind) showed [Kd Ac] and won ($0.69) with a pair of Kings
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729443718:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:29:51 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 1: Zosmay1 ($2 in chips) 
+Seat 2: GENJD ($2.18 in chips) 
+Seat 3: fdosilva ($1.25 in chips) 
+Seat 4: dealerinthepast ($2.13 in chips) 
+Seat 5: zowi444 ($2.77 in chips) 
+Seat 6: Lorpugo ($2.82 in chips) 
+Lorpugo: posts small blind $0.01
+Zosmay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kc]
+GENJD: folds 
+fdosilva: raises $0.04 to $0.06
+dealerinthepast: folds 
+zowi444: folds 
+Lorpugo: calls $0.05
+Zosmay1: calls $0.04
+*** FLOP *** [Qd Ad 4d]
+Lorpugo: checks 
+Zosmay1: bets $1.94 and is all-in
+fdosilva: calls $1.19 and is all-in
+Lorpugo: folds 
+Uncalled bet ($0.75) returned to Zosmay1
+*** TURN *** [Qd Ad 4d] [9c]
+*** RIVER *** [Qd Ad 4d 9c] [Qs]
+*** SHOW DOWN ***
+Zosmay1: shows [8d 5d] (a flush, Ace high)
+fdosilva: shows [Kd 6d] (a flush, Ace high - King higher)
+fdosilva collected $2.47 from pot
+*** SUMMARY ***
+Total pot $2.56 | Rake $0.09 
+Board [Qd Ad 4d 9c Qs]
+Seat 1: Zosmay1 (big blind) showed [8d 5d] and lost with a flush, Ace high
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: fdosilva showed [Kd 6d] and won ($2.47) with a flush, Ace high
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240729462812:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:30:38 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: Zosmay1 ($0.75 in chips) 
+Seat 2: GENJD ($2.18 in chips) 
+Seat 3: fdosilva ($2.47 in chips) 
+Seat 4: dealerinthepast ($2.13 in chips) 
+Seat 5: zowi444 ($2.77 in chips) 
+Seat 6: Lorpugo ($2.76 in chips) 
+Zosmay1: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8s]
+fdosilva: folds 
+dealerinthepast: folds 
+zowi444: folds 
+Lorpugo: folds 
+Zosmay1: calls $0.01
+GENJD: checks 
+*** FLOP *** [3d 8c 4s]
+Zosmay1: checks 
+GENJD: checks 
+*** TURN *** [3d 8c 4s] [Ac]
+Zosmay1: checks 
+GENJD: checks 
+*** RIVER *** [3d 8c 4s Ac] [Ts]
+Zosmay1: bets $0.73 and is all-in
+GENJD: folds 
+Uncalled bet ($0.73) returned to Zosmay1
+Zosmay1 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3d 8c 4s Ac Ts]
+Seat 1: Zosmay1 (small blind) collected ($0.04)
+Seat 2: GENJD (big blind) folded on the River
+Seat 3: fdosilva folded before Flop (didn't bet)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729481419:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:31:24 ET
+Table 'Roucarie II' 6-max Seat #1 is the button
+Seat 1: Zosmay1 ($0.77 in chips) 
+Seat 2: GENJD ($2.16 in chips) 
+Seat 3: fdosilva ($2.47 in chips) 
+Seat 4: dealerinthepast ($2.13 in chips) 
+Seat 5: zowi444 ($2.77 in chips) 
+Seat 6: Lorpugo ($2.76 in chips) 
+GENJD: posts small blind $0.01
+fdosilva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9s]
+dealerinthepast: folds 
+zowi444: folds 
+Lorpugo: folds 
+Zosmay1: folds 
+GENJD: calls $0.01
+fdosilva: checks 
+*** FLOP *** [Kc Ah Ks]
+GENJD: checks 
+fdosilva: bets $0.06
+GENJD: folds 
+Uncalled bet ($0.06) returned to fdosilva
+fdosilva collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kc Ah Ks]
+Seat 1: Zosmay1 (button) folded before Flop (didn't bet)
+Seat 2: GENJD (small blind) folded on the Flop
+Seat 3: fdosilva (big blind) collected ($0.04)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729493404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:31:54 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 1: Zosmay1 ($0.77 in chips) 
+Seat 2: GENJD ($2.14 in chips) 
+Seat 3: fdosilva ($2.49 in chips) 
+Seat 4: dealerinthepast ($2.13 in chips) 
+Seat 5: zowi444 ($2.77 in chips) 
+Seat 6: Lorpugo ($2.76 in chips) 
+fdosilva: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6d]
+zowi444: folds 
+Lorpugo: folds 
+Zosmay1: calls $0.02
+GENJD: calls $0.02
+fdosilva: calls $0.01
+dealerinthepast: checks 
+*** FLOP *** [5h 3c 7d]
+fdosilva: checks 
+dealerinthepast: checks 
+Zosmay1: checks 
+GENJD: bets $0.08
+fdosilva: folds 
+dealerinthepast: calls $0.08
+Zosmay1: calls $0.08
+*** TURN *** [5h 3c 7d] [Jc]
+dealerinthepast: checks 
+Zosmay1: bets $0.16
+GENJD: folds 
+dealerinthepast: calls $0.16
+*** RIVER *** [5h 3c 7d Jc] [7s]
+dealerinthepast: checks 
+Zosmay1: bets $0.51 and is all-in
+dealerinthepast: folds 
+Uncalled bet ($0.51) returned to Zosmay1
+Zosmay1 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [5h 3c 7d Jc 7s]
+Seat 1: Zosmay1 collected ($0.62)
+Seat 2: GENJD (button) folded on the Turn
+Seat 3: fdosilva (small blind) folded on the Flop
+Seat 4: dealerinthepast (big blind) folded on the River
+Seat 5: zowi444 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729529641:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:33:22 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 1: Zosmay1 ($1.13 in chips) 
+Seat 2: GENJD ($2.04 in chips) 
+Seat 3: fdosilva ($2.47 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: zowi444 ($2.77 in chips) 
+Seat 6: Lorpugo ($2.76 in chips) 
+dealerinthepast: posts small blind $0.01
+zowi444: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Ac]
+Lorpugo: folds 
+Zosmay1: folds 
+GENJD: folds 
+fdosilva: folds 
+dealerinthepast: folds 
+Uncalled bet ($0.01) returned to zowi444
+zowi444 collected $0.02 from pot
+zowi444: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zosmay1 folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: fdosilva (button) folded before Flop (didn't bet)
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: zowi444 (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729545571:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:34:01 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: Zosmay1 ($1.13 in chips) 
+Seat 2: GENJD ($2.04 in chips) 
+Seat 3: fdosilva ($2.47 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: zowi444 ($2.78 in chips) 
+Seat 6: Lorpugo ($2.76 in chips) 
+zowi444: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ac]
+Zosmay1: folds 
+GENJD: calls $0.02
+fdosilva: folds 
+dealerinthepast: folds 
+zowi444: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+GENJD: folds 
+zowi444: calls $0.14
+*** FLOP *** [7h 4d 3h]
+zowi444: checks 
+Lorpugo: bets $0.21
+zowi444: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.41 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [7h 4d 3h]
+Seat 1: Zosmay1 folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop
+Seat 3: fdosilva folded before Flop (didn't bet)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: zowi444 (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) collected ($0.41)
+
+
+
+PokerStars Hand #240729566493:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:34:53 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 1: Zosmay1 ($1.13 in chips) 
+Seat 2: GENJD ($2.02 in chips) 
+Seat 3: fdosilva ($2.47 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: zowi444 ($2.58 in chips) 
+Seat 6: Lorpugo ($2.97 in chips) 
+Lorpugo: posts small blind $0.01
+Zosmay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd As]
+GENJD: folds 
+fdosilva: calls $0.02
+dealerinthepast: folds 
+zowi444: folds 
+Lorpugo: raises $0.06 to $0.08
+Zosmay1: folds 
+fdosilva: calls $0.06
+*** FLOP *** [6s Qh Td]
+Lorpugo: checks 
+fdosilva: bets $0.09
+Lorpugo: calls $0.09
+*** TURN *** [6s Qh Td] [4h]
+Lorpugo: checks 
+fdosilva: bets $0.18
+Lorpugo: calls $0.18
+*** RIVER *** [6s Qh Td 4h] [7s]
+Lorpugo: checks 
+fdosilva: bets $0.69
+Lorpugo: folds 
+Uncalled bet ($0.69) returned to fdosilva
+fdosilva collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [6s Qh Td 4h 7s]
+Seat 1: Zosmay1 (big blind) folded before Flop
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: fdosilva collected ($0.69)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240729591853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:35:55 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: Zosmay1 ($1.11 in chips) 
+Seat 2: GENJD ($2.02 in chips) 
+Seat 3: fdosilva ($2.81 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: zowi444 ($2.58 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+Zosmay1: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 7h]
+fdosilva: folds 
+dealerinthepast: folds 
+zowi444: raises $0.04 to $0.06
+Lorpugo: folds 
+Zosmay1: calls $0.05
+GENJD: calls $0.04
+*** FLOP *** [4d 5c 3d]
+Zosmay1: bets $0.04
+GENJD: folds 
+zowi444: calls $0.04
+*** TURN *** [4d 5c 3d] [9c]
+Zosmay1: bets $0.02
+zowi444: raises $0.24 to $0.26
+Zosmay1: raises $0.24 to $0.50
+zowi444: raises $1.98 to $2.48 and is all-in
+Zosmay1: calls $0.51 and is all-in
+Uncalled bet ($1.47) returned to zowi444
+*** RIVER *** [4d 5c 3d 9c] [2s]
+*** SHOW DOWN ***
+Zosmay1: shows [Th 2h] (a pair of Deuces)
+zowi444: shows [Ad 2d] (a straight, Ace to Five)
+zowi444 collected $2.20 from pot
+*** SUMMARY ***
+Total pot $2.28 | Rake $0.08 
+Board [4d 5c 3d 9c 2s]
+Seat 1: Zosmay1 (small blind) showed [Th 2h] and lost with a pair of Deuces
+Seat 2: GENJD (big blind) folded on the Flop
+Seat 3: fdosilva folded before Flop (didn't bet)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: zowi444 showed [Ad 2d] and won ($2.20) with a straight, Ace to Five
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729628058:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:37:24 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fdosilva ($2.81 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: zowi444 ($3.67 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+fdosilva: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5c]
+zowi444: folds 
+Lorpugo: folds 
+GENJD: raises $0.02 to $0.04
+fdosilva: calls $0.03
+dealerinthepast: folds 
+*** FLOP *** [6d 2c 2h]
+fdosilva: bets $0.05
+GENJD: folds 
+Uncalled bet ($0.05) returned to fdosilva
+fdosilva collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6d 2c 2h]
+Seat 2: GENJD (button) folded on the Flop
+Seat 3: fdosilva (small blind) collected ($0.10)
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 5: zowi444 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729641856:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:37:57 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fdosilva ($2.87 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: zowi444 ($3.67 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+dealerinthepast: posts small blind $0.01
+zowi444: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6h]
+Lorpugo: folds 
+GENJD: raises $0.06 to $0.08
+fdosilva: folds 
+dealerinthepast: folds 
+zowi444: folds 
+Uncalled bet ($0.06) returned to GENJD
+GENJD collected $0.05 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: GENJD collected ($0.05)
+Seat 3: fdosilva (button) folded before Flop (didn't bet)
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: zowi444 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729654218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:38:28 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 2: GENJD ($2.03 in chips) 
+Seat 3: fdosilva ($2.87 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: zowi444 ($3.65 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+zowi444: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4h]
+GENJD: calls $0.02
+fdosilva: calls $0.02
+dealerinthepast: folds 
+zowi444 is disconnected 
+zowi444 has timed out while disconnected
+zowi444: folds 
+Lorpugo: checks 
+*** FLOP *** [Qh 9d Th]
+Lorpugo: checks 
+GENJD: checks 
+fdosilva: checks 
+*** TURN *** [Qh 9d Th] [8d]
+Lorpugo: bets $0.05
+GENJD: folds 
+fdosilva: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Qh 9d Th 8d]
+Seat 2: GENJD folded on the Turn
+Seat 3: fdosilva folded on the Turn
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: zowi444 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.07)
+
+
+
+PokerStars Hand #240729673403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:39:15 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 2: GENJD ($2.01 in chips) 
+Seat 3: fdosilva ($2.85 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 6: Lorpugo ($2.67 in chips) 
+GENJD: posts small blind $0.01
+fdosilva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 4s]
+dealerinthepast: folds 
+Lorpugo: folds 
+GENJD: folds 
+Uncalled bet ($0.01) returned to fdosilva
+fdosilva collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: fdosilva (big blind) collected ($0.02)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729677420:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:39:25 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fdosilva ($2.86 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 6: Lorpugo ($2.67 in chips) 
+fdosilva: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 3s]
+Lorpugo: folds 
+GENJD: raises $0.02 to $0.04
+fdosilva: calls $0.03
+dealerinthepast: folds 
+*** FLOP *** [6c 3d 5d]
+fdosilva: bets $0.05
+GENJD: calls $0.05
+*** TURN *** [6c 3d 5d] [5s]
+fdosilva: bets $0.04
+GENJD: calls $0.04
+*** RIVER *** [6c 3d 5d 5s] [5h]
+fdosilva: bets $0.14
+GENJD: folds 
+Uncalled bet ($0.14) returned to fdosilva
+fdosilva collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6c 3d 5d 5s 5h]
+Seat 2: GENJD (button) folded on the River
+Seat 3: fdosilva (small blind) collected ($0.27)
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729696072:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:40:10 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fdosilva ($3 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 6: Lorpugo ($2.67 in chips) 
+dealerinthepast: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8c]
+GENJD: calls $0.02
+fdosilva: calls $0.02
+dealerinthepast: folds 
+Lorpugo: checks 
+*** FLOP *** [8h Kd Qh]
+Lorpugo: bets $0.04
+GENJD: folds 
+fdosilva: calls $0.04
+*** TURN *** [8h Kd Qh] [Qs]
+Lorpugo: checks 
+fdosilva: checks 
+*** RIVER *** [8h Kd Qh Qs] [Qd]
+Lorpugo: bets $0.14
+fdosilva: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8h Kd Qh Qs Qd]
+Seat 2: GENJD folded on the Flop
+Seat 3: fdosilva (button) folded on the River
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #240729718391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:41:04 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fdosilva ($2.94 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 6: Lorpugo ($2.75 in chips) 
+Lorpugo: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8d]
+fdosilva: calls $0.02
+dealerinthepast: raises $0.04 to $0.06
+Lorpugo: folds 
+GENJD: folds 
+fdosilva: calls $0.04
+*** FLOP *** [As Jc 8s]
+fdosilva: checks 
+dealerinthepast: bets $0.07
+fdosilva: calls $0.07
+*** TURN *** [As Jc 8s] [3s]
+fdosilva: bets $0.14
+dealerinthepast: calls $0.14
+*** RIVER *** [As Jc 8s 3s] [2c]
+fdosilva: bets $0.28
+dealerinthepast: calls $0.28
+*** SHOW DOWN ***
+fdosilva: shows [3c Ah] (two pair, Aces and Threes)
+dealerinthepast: mucks hand 
+fdosilva collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [As Jc 8s 3s 2c]
+Seat 2: GENJD (big blind) folded before Flop
+Seat 3: fdosilva showed [3c Ah] and won ($1.09) with two pair, Aces and Threes
+Seat 4: dealerinthepast (button) mucked [6s Ac]
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729734110:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:41:43 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: fdosilva ($3.48 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+GENJD: posts small blind $0.01
+fdosilva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5h]
+dealerinthepast: raises $0.04 to $0.06
+Lorpugo: folds 
+GENJD: calls $0.05
+fdosilva: folds 
+*** FLOP *** [3c 3s 8h]
+GENJD: checks 
+dealerinthepast: checks 
+*** TURN *** [3c 3s 8h] [6h]
+fdosilva leaves the table
+GENJD: checks 
+drujanya joins the table at seat #3 
+dealerinthepast: checks 
+*** RIVER *** [3c 3s 8h 6h] [3h]
+GENJD: checks 
+dealerinthepast: checks 
+*** SHOW DOWN ***
+GENJD: shows [7d 9d] (three of a kind, Threes)
+dealerinthepast: shows [2s As] (three of a kind, Threes - Ace kicker)
+dealerinthepast collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3c 3s 8h 6h 3h]
+Seat 2: GENJD (small blind) showed [7d 9d] and lost with three of a kind, Threes
+Seat 3: fdosilva (big blind) folded before Flop
+Seat 4: dealerinthepast showed [2s As] and won ($0.14) with three of a kind, Threes
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729750049:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:42:22 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 4: dealerinthepast ($2.08 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+dealerinthepast: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Kh]
+GENJD: folds 
+dealerinthepast: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: GENJD (button) folded before Flop (didn't bet)
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240729757094:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:42:39 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 4: dealerinthepast ($2.07 in chips) 
+Seat 6: Lorpugo ($2.75 in chips) 
+Lorpugo: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8c]
+dealerinthepast: folds 
+Lorpugo: raises $0.04 to $0.06
+GENJD: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: GENJD (big blind) folded before Flop
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240729762491:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:42:52 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: drujanya ($0.80 in chips) 
+Seat 4: dealerinthepast ($2.07 in chips) 
+Seat 6: Lorpugo ($2.77 in chips) 
+GENJD: posts small blind $0.01
+drujanya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Jc]
+dealerinthepast: folds 
+Lorpugo: raises $0.04 to $0.06
+GENJD: folds 
+drujanya: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: drujanya (big blind) folded before Flop
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240729773474:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:43:19 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: drujanya ($0.78 in chips) 
+Seat 4: dealerinthepast ($2.07 in chips) 
+Seat 6: Lorpugo ($2.80 in chips) 
+drujanya: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9d]
+Lorpugo: folds 
+GENJD: raises $0.02 to $0.04
+drujanya: calls $0.03
+dealerinthepast: folds 
+*** FLOP *** [Td Jh 2d]
+drujanya: checks 
+GENJD: bets $0.10
+drujanya: raises $0.10 to $0.20
+GENJD: calls $0.10
+*** TURN *** [Td Jh 2d] [3d]
+drujanya: bets $0.24
+GENJD: folds 
+Uncalled bet ($0.24) returned to drujanya
+drujanya collected $0.48 from pot
+drujanya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Td Jh 2d 3d]
+Seat 2: GENJD (button) folded on the Turn
+Seat 3: drujanya (small blind) collected ($0.48)
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729792019:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:04 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 2: GENJD ($2 in chips) 
+Seat 3: drujanya ($1.02 in chips) 
+Seat 4: dealerinthepast ($2.05 in chips) 
+Seat 6: Lorpugo ($2.80 in chips) 
+dealerinthepast: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9s]
+GENJD: raises $0.02 to $0.04
+drujanya: folds 
+dealerinthepast: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to GENJD
+GENJD collected $0.05 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: GENJD collected ($0.05)
+Seat 3: drujanya (button) folded before Flop (didn't bet)
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240729796448:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:15 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 2: GENJD ($2.03 in chips) 
+Seat 3: drujanya ($1.02 in chips) 
+Seat 4: dealerinthepast ($2.04 in chips) 
+Seat 6: Lorpugo ($2.78 in chips) 
+Lorpugo: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5d]
+drujanya: folds 
+dealerinthepast: folds 
+Lorpugo: raises $0.04 to $0.06
+GENJD: calls $0.04
+*** FLOP *** [Th 4h 6d]
+Lorpugo: checks 
+GENJD: checks 
+*** TURN *** [Th 4h 6d] [5c]
+Lorpugo: bets $0.08
+GENJD: raises $0.28 to $0.36
+Lorpugo: folds 
+Uncalled bet ($0.28) returned to GENJD
+GENJD collected $0.27 from pot
+Zosmay1 leaves the table
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Th 4h 6d 5c]
+Seat 2: GENJD (big blind) collected ($0.27)
+Seat 3: drujanya folded before Flop (didn't bet)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240729810149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:44:48 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 2: GENJD ($2.16 in chips) 
+Seat 3: drujanya ($1.02 in chips) 
+Seat 4: dealerinthepast ($2.04 in chips) 
+Seat 6: Lorpugo ($2.64 in chips) 
+GENJD: posts small blind $0.01
+drujanya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 3d]
+antares376 joins the table at seat #1 
+dealerinthepast: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+GENJD: folds 
+drujanya: folds 
+*** FLOP *** [5d Jc 4d]
+dealerinthepast: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to dealerinthepast
+dealerinthepast collected $0.14 from pot
+dealerinthepast: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5d Jc 4d]
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: drujanya (big blind) folded before Flop
+Seat 4: dealerinthepast collected ($0.14)
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #240729822268:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:45:18 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 1: antares376 ($2 in chips) 
+Seat 2: GENJD ($2.15 in chips) 
+Seat 3: drujanya ($1 in chips) 
+Seat 4: dealerinthepast ($2.12 in chips) 
+Seat 6: Lorpugo ($2.58 in chips) 
+drujanya: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+antares376: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 4d]
+Lorpugo: folds 
+antares376: raises $0.04 to $0.06
+GENJD: folds 
+drujanya: folds 
+dealerinthepast: folds 
+Uncalled bet ($0.04) returned to antares376
+antares376 collected $0.05 from pot
+antares376: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: antares376 collected ($0.05)
+Seat 2: GENJD (button) folded before Flop (didn't bet)
+Seat 3: drujanya (small blind) folded before Flop
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729829652:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:45:36 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 1: antares376 ($2.03 in chips) 
+Seat 2: GENJD ($2.15 in chips) 
+Seat 3: drujanya ($0.99 in chips) 
+Seat 4: dealerinthepast ($2.10 in chips) 
+Seat 6: Lorpugo ($2.58 in chips) 
+dealerinthepast: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 4h]
+antares376: folds 
+GENJD: folds 
+drujanya: folds 
+dealerinthepast: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+zowi444 leaves the table
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: antares376 folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: drujanya (button) folded before Flop (didn't bet)
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240729837642:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:45:56 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: antares376 ($2.03 in chips) 
+Seat 2: GENJD ($2.15 in chips) 
+Seat 3: drujanya ($0.99 in chips) 
+Seat 4: dealerinthepast ($2.09 in chips) 
+Seat 6: Lorpugo ($2.59 in chips) 
+Lorpugo: posts small blind $0.01
+antares376: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Jc]
+GENJD: folds 
+Jackvbecker joins the table at seat #5 
+drujanya: raises $0.04 to $0.06
+dealerinthepast: calls $0.06
+Lorpugo: folds 
+antares376: folds 
+*** FLOP *** [2s 9s 4d]
+drujanya: bets $0.08
+dealerinthepast: folds 
+Uncalled bet ($0.08) returned to drujanya
+drujanya collected $0.14 from pot
+drujanya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s 9s 4d]
+Seat 1: antares376 (big blind) folded before Flop
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: drujanya collected ($0.14)
+Seat 4: dealerinthepast (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729853795:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:46:35 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: antares376 ($2.01 in chips) 
+Seat 2: GENJD ($2.15 in chips) 
+Seat 3: drujanya ($1.07 in chips) 
+Seat 4: dealerinthepast ($2.03 in chips) 
+Seat 6: Lorpugo ($2.58 in chips) 
+antares376: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2h]
+drujanya: folds 
+dealerinthepast: folds 
+Lorpugo: raises $0.04 to $0.06
+antares376: folds 
+GENJD: raises $0.13 to $0.19
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to GENJD
+GENJD collected $0.13 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: antares376 (small blind) folded before Flop
+Seat 2: GENJD (big blind) collected ($0.13)
+Seat 3: drujanya folded before Flop (didn't bet)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #240729869931:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:47:14 ET
+Table 'Roucarie II' 6-max Seat #1 is the button
+Seat 1: antares376 ($2 in chips) 
+Seat 2: GENJD ($2.22 in chips) 
+Seat 3: drujanya ($1.07 in chips) 
+Seat 4: dealerinthepast ($2.03 in chips) 
+Seat 6: Lorpugo ($2.52 in chips) 
+GENJD: posts small blind $0.01
+drujanya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5c]
+dealerinthepast: folds 
+Lorpugo: folds 
+antares376 has timed out
+antares376: folds 
+GENJD: folds 
+Uncalled bet ($0.01) returned to drujanya
+drujanya collected $0.02 from pot
+drujanya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: antares376 (button) folded before Flop (didn't bet)
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: drujanya (big blind) collected ($0.02)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729878461:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:47:35 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 2: GENJD ($2.21 in chips) 
+Seat 3: drujanya ($1.08 in chips) 
+Seat 4: dealerinthepast ($2.03 in chips) 
+Seat 6: Lorpugo ($2.52 in chips) 
+drujanya: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Tc]
+Lorpugo: folds 
+GENJD: folds 
+drujanya: raises $0.04 to $0.06
+dealerinthepast: calls $0.04
+*** FLOP *** [8c 2s Td]
+drujanya: bets $0.06
+dealerinthepast: folds 
+Uncalled bet ($0.06) returned to drujanya
+drujanya collected $0.12 from pot
+drujanya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8c 2s Td]
+Seat 2: GENJD (button) folded before Flop (didn't bet)
+Seat 3: drujanya (small blind) collected ($0.12)
+Seat 4: dealerinthepast (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729895723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:48:17 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 1: antares376 ($2 in chips) 
+Seat 2: GENJD ($2.21 in chips) 
+Seat 3: drujanya ($1.14 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: Jackvbecker ($1 in chips) 
+Seat 6: Lorpugo ($2.52 in chips) 
+dealerinthepast: posts small blind $0.01
+Jackvbecker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 3s]
+Lorpugo: folds 
+antares376: folds 
+GENJD: folds 
+drujanya: folds 
+dealerinthepast: folds 
+Uncalled bet ($0.01) returned to Jackvbecker
+Jackvbecker collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: antares376 folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: drujanya (button) folded before Flop (didn't bet)
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: Jackvbecker (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729900515:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:48:29 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: antares376 ($2 in chips) 
+Seat 2: GENJD ($2.21 in chips) 
+Seat 3: drujanya ($1.14 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: Jackvbecker ($1.01 in chips) 
+Seat 6: Lorpugo ($2.52 in chips) 
+Jackvbecker: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Jc]
+antares376: calls $0.02
+GENJD: calls $0.02
+drujanya: folds 
+dealerinthepast: folds 
+Jackvbecker: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [8s Ac Js]
+Jackvbecker: checks 
+Lorpugo: checks 
+antares376: checks 
+GENJD: checks 
+*** TURN *** [8s Ac Js] [8h]
+Jackvbecker: checks 
+Lorpugo: bets $0.03
+antares376: calls $0.03
+GENJD: calls $0.03
+Jackvbecker: folds 
+*** RIVER *** [8s Ac Js 8h] [5h]
+Lorpugo: checks 
+antares376: checks 
+GENJD: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [3d Jc] (two pair, Jacks and Eights)
+antares376: mucks hand 
+GENJD: mucks hand 
+Lorpugo collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8s Ac Js 8h 5h]
+Seat 1: antares376 mucked [9h Th]
+Seat 2: GENJD mucked [6h 6s]
+Seat 3: drujanya folded before Flop (didn't bet)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: Jackvbecker (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) showed [3d Jc] and won ($0.16) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #240729928220:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:49:37 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 1: antares376 ($1.95 in chips) 
+Seat 3: drujanya ($1.14 in chips) 
+Seat 4: dealerinthepast ($2 in chips) 
+Seat 5: Jackvbecker ($0.99 in chips) 
+Seat 6: Lorpugo ($2.63 in chips) 
+Lorpugo: posts small blind $0.01
+antares376: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Qs]
+GENJD leaves the table
+drujanya: raises $0.04 to $0.06
+dealerinthepast: raises $0.14 to $0.20
+Merchbomb joins the table at seat #2 
+Jackvbecker: folds 
+Lorpugo: folds 
+antares376: folds 
+drujanya: folds 
+Uncalled bet ($0.14) returned to dealerinthepast
+dealerinthepast collected $0.15 from pot
+dealerinthepast: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: antares376 (big blind) folded before Flop
+Seat 3: drujanya folded before Flop
+Seat 4: dealerinthepast collected ($0.15)
+Seat 5: Jackvbecker (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240729939397:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:50:05 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: antares376 ($1.93 in chips) 
+Seat 2: Merchbomb ($1.60 in chips) 
+Seat 3: drujanya ($1.08 in chips) 
+Seat 4: dealerinthepast ($2.09 in chips) 
+Seat 5: Jackvbecker ($0.99 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+antares376: posts small blind $0.01
+Merchbomb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2s]
+drujanya: folds 
+dealerinthepast: folds 
+Jackvbecker: folds 
+Lorpugo: folds 
+antares376: folds 
+Uncalled bet ($0.01) returned to Merchbomb
+Merchbomb collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: antares376 (small blind) folded before Flop
+Seat 2: Merchbomb (big blind) collected ($0.02)
+Seat 3: drujanya folded before Flop (didn't bet)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: Jackvbecker folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729946502:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:50:22 ET
+Table 'Roucarie II' 6-max Seat #1 is the button
+Seat 1: antares376 ($1.92 in chips) 
+Seat 2: Merchbomb ($1.61 in chips) 
+Seat 3: drujanya ($1.08 in chips) 
+Seat 4: dealerinthepast ($2.09 in chips) 
+Seat 5: Jackvbecker ($0.99 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+Merchbomb: posts small blind $0.01
+drujanya: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 5s]
+dealerinthepast: folds 
+Jackvbecker: folds 
+Lorpugo: folds 
+antares376: raises $0.04 to $0.06
+Merchbomb: folds 
+drujanya: folds 
+Uncalled bet ($0.04) returned to antares376
+antares376 collected $0.05 from pot
+antares376: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: antares376 (button) collected ($0.05)
+Seat 2: Merchbomb (small blind) folded before Flop
+Seat 3: drujanya (big blind) folded before Flop
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: Jackvbecker folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729953037:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:50:39 ET
+Table 'Roucarie II' 6-max Seat #2 is the button
+Seat 1: antares376 ($1.95 in chips) 
+Seat 2: Merchbomb ($1.60 in chips) 
+Seat 3: drujanya ($1.06 in chips) 
+Seat 4: dealerinthepast ($2.09 in chips) 
+Seat 5: Jackvbecker ($0.99 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+drujanya: posts small blind $0.01
+dealerinthepast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qh]
+Jackvbecker: folds 
+Lorpugo: folds 
+antares376: raises $0.04 to $0.06
+Merchbomb: folds 
+drujanya: raises $0.16 to $0.22
+dealerinthepast: folds 
+antares376: calls $0.16
+*** FLOP *** [9d 4d 7d]
+drujanya: bets $0.28
+antares376: folds 
+Uncalled bet ($0.28) returned to drujanya
+drujanya collected $0.44 from pot
+drujanya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [9d 4d 7d]
+Seat 1: antares376 folded on the Flop
+Seat 2: Merchbomb (button) folded before Flop (didn't bet)
+Seat 3: drujanya (small blind) collected ($0.44)
+Seat 4: dealerinthepast (big blind) folded before Flop
+Seat 5: Jackvbecker folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240729970963:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:51:23 ET
+Table 'Roucarie II' 6-max Seat #3 is the button
+Seat 1: antares376 ($1.73 in chips) 
+Seat 2: Merchbomb ($1.60 in chips) 
+Seat 3: drujanya ($1.28 in chips) 
+Seat 4: dealerinthepast ($2.07 in chips) 
+Seat 5: Jackvbecker ($0.99 in chips) 
+Seat 6: Lorpugo ($2.62 in chips) 
+dealerinthepast: posts small blind $0.01
+Jackvbecker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Jh]
+Lorpugo: raises $0.02 to $0.04
+antares376: folds 
+Merchbomb: raises $0.04 to $0.08
+drujanya: calls $0.08
+dealerinthepast: folds 
+Jackvbecker: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [8s 8d 8c]
+Lorpugo: checks 
+Merchbomb: checks 
+drujanya: checks 
+*** TURN *** [8s 8d 8c] [Qd]
+Lorpugo: checks 
+Merchbomb: bets $0.06
+drujanya: folds 
+Lorpugo: raises $0.12 to $0.18
+Merchbomb: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [8s 8d 8c Qd]
+Seat 1: antares376 folded before Flop (didn't bet)
+Seat 2: Merchbomb folded on the Turn
+Seat 3: drujanya (button) folded on the Turn
+Seat 4: dealerinthepast (small blind) folded before Flop
+Seat 5: Jackvbecker (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.38)
+
+
+
+PokerStars Hand #240729995091:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:52:22 ET
+Table 'Roucarie II' 6-max Seat #4 is the button
+Seat 1: antares376 ($1.73 in chips) 
+Seat 2: Merchbomb ($1.46 in chips) 
+Seat 3: drujanya ($1.20 in chips) 
+Seat 4: dealerinthepast ($2.06 in chips) 
+Seat 5: Jackvbecker ($0.97 in chips) 
+Seat 6: Lorpugo ($2.86 in chips) 
+Jackvbecker: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Jd]
+antares376: folds 
+Merchbomb: folds 
+drujanya: raises $0.04 to $0.06
+dealerinthepast: folds 
+Jackvbecker: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to drujanya
+drujanya collected $0.05 from pot
+drujanya: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: antares376 folded before Flop (didn't bet)
+Seat 2: Merchbomb folded before Flop (didn't bet)
+Seat 3: drujanya collected ($0.05)
+Seat 4: dealerinthepast (button) folded before Flop (didn't bet)
+Seat 5: Jackvbecker (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240730004040:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:52:45 ET
+Table 'Roucarie II' 6-max Seat #5 is the button
+Seat 1: antares376 ($1.73 in chips) 
+Seat 2: Merchbomb ($1.46 in chips) 
+Seat 3: drujanya ($1.23 in chips) 
+Seat 4: dealerinthepast ($2.06 in chips) 
+Seat 5: Jackvbecker ($0.96 in chips) 
+Seat 6: Lorpugo ($2.84 in chips) 
+Lorpugo: posts small blind $0.01
+antares376: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Jc]
+Merchbomb: folds 
+drujanya: folds 
+dealerinthepast: folds 
+Jackvbecker: folds 
+Lorpugo: raises $0.04 to $0.06
+antares376: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: antares376 (big blind) folded before Flop
+Seat 2: Merchbomb folded before Flop (didn't bet)
+Seat 3: drujanya folded before Flop (didn't bet)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: Jackvbecker (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240730012151:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 12:53:05 ET
+Table 'Roucarie II' 6-max Seat #6 is the button
+Seat 1: antares376 ($1.71 in chips) 
+Seat 2: Merchbomb ($1.46 in chips) 
+Seat 3: drujanya ($1.23 in chips) 
+Seat 4: dealerinthepast ($2.06 in chips) 
+Seat 5: Jackvbecker ($0.96 in chips) 
+Seat 6: Lorpugo ($2.86 in chips) 
+antares376: posts small blind $0.01
+Merchbomb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Jd]
+drujanya has timed out
+drujanya: folds 
+dealerinthepast: folds 
+Jackvbecker: folds 
+drujanya leaves the table
+Lorpugo: raises $0.04 to $0.06
+antares376: folds 
+Merchbomb: calls $0.04
+*** FLOP *** [2d 7h Ac]
+Merchbomb: bets $0.06
+eckoa4 joins the table at seat #3 
+Lorpugo: raises $0.08 to $0.14
+Merchbomb: calls $0.08
+*** TURN *** [2d 7h Ac] [3c]
+Merchbomb: checks 
+Lorpugo: checks 
+*** RIVER *** [2d 7h Ac 3c] [4c]
+Merchbomb: bets $0.40
+Lorpugo: folds 
+Uncalled bet ($0.40) returned to Merchbomb
+Merchbomb collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2d 7h Ac 3c 4c]
+Seat 1: antares376 (small blind) folded before Flop
+Seat 2: Merchbomb (big blind) collected ($0.40)
+Seat 3: drujanya folded before Flop (didn't bet)
+Seat 4: dealerinthepast folded before Flop (didn't bet)
+Seat 5: Jackvbecker folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded on the River
+
+
+

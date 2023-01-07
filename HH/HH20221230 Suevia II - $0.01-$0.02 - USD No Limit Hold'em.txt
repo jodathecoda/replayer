@@ -1,0 +1,587 @@
+﻿PokerStars Hand #240795454347:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:55:17 ET
+Table 'Suevia II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: sviduslav ($2.35 in chips) 
+Seat 3: MrBazs ($2.36 in chips) 
+Seat 4: KingRagnar123 ($1.28 in chips) 
+Seat 5: Joel D. Osti ($1.52 in chips) 
+Seat 6: zohan_dp ($1.83 in chips) 
+zohan_dp: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3h]
+sviduslav: folds 
+MrBazs: folds 
+KingRagnar123: calls $0.02
+Joel D. Osti: calls $0.02
+zohan_dp: folds 
+Lorpugo: raises $0.10 to $0.12
+KingRagnar123: calls $0.10
+Joel D. Osti: folds 
+*** FLOP *** [2c Ts Jc]
+Lorpugo: checks 
+KingRagnar123: checks 
+*** TURN *** [2c Ts Jc] [Kc]
+Lorpugo: checks 
+KingRagnar123: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to KingRagnar123
+KingRagnar123 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2c Ts Jc Kc]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: sviduslav folded before Flop (didn't bet)
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 collected ($0.26)
+Seat 5: Joel D. Osti (button) folded before Flop
+Seat 6: zohan_dp (small blind) folded before Flop
+
+
+
+PokerStars Hand #240795467947:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:56:18 ET
+Table 'Suevia II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: sviduslav ($2.35 in chips) 
+Seat 3: MrBazs ($2.36 in chips) 
+Seat 4: KingRagnar123 ($1.42 in chips) 
+Seat 5: Joel D. Osti ($1.50 in chips) 
+Seat 6: zohan_dp ($1.82 in chips) 
+Lorpugo: posts small blind $0.01
+sviduslav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Jd]
+MrBazs: folds 
+KingRagnar123: calls $0.02
+Joel D. Osti: folds 
+zohan_dp: calls $0.02
+Lorpugo: folds 
+sviduslav: checks 
+*** FLOP *** [9d Jc 2d]
+sviduslav: checks 
+KingRagnar123: checks 
+zohan_dp: bets $0.02
+sviduslav: folds 
+KingRagnar123: calls $0.02
+*** TURN *** [9d Jc 2d] [9h]
+KingRagnar123: checks 
+zohan_dp: checks 
+*** RIVER *** [9d Jc 2d 9h] [Ts]
+KingRagnar123: checks 
+zohan_dp: checks 
+*** SHOW DOWN ***
+KingRagnar123: shows [5h Kd] (a pair of Nines)
+zohan_dp: shows [Ac 3h] (a pair of Nines - Ace kicker)
+zohan_dp collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9d Jc 2d 9h Ts]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: sviduslav (big blind) folded on the Flop
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 showed [5h Kd] and lost with a pair of Nines
+Seat 5: Joel D. Osti folded before Flop (didn't bet)
+Seat 6: zohan_dp (button) showed [Ac 3h] and won ($0.11) with a pair of Nines
+
+
+
+PokerStars Hand #240795486556:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:57:41 ET
+Table 'Suevia II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.47 in chips) 
+Seat 2: sviduslav ($2.33 in chips) 
+Seat 3: MrBazs ($2.36 in chips) 
+Seat 4: KingRagnar123 ($1.38 in chips) 
+Seat 5: Joel D. Osti ($1.50 in chips) 
+Seat 6: zohan_dp ($1.89 in chips) 
+sviduslav: posts small blind $0.01
+MrBazs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ac]
+KingRagnar123: folds 
+Joel D. Osti: folds 
+zohan_dp: folds 
+Lorpugo: raises $0.04 to $0.06
+sviduslav: folds 
+MrBazs: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: sviduslav (small blind) folded before Flop
+Seat 3: MrBazs (big blind) folded before Flop
+Seat 4: KingRagnar123 folded before Flop (didn't bet)
+Seat 5: Joel D. Osti folded before Flop (didn't bet)
+Seat 6: zohan_dp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795490322:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:57:57 ET
+Table 'Suevia II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.50 in chips) 
+Seat 2: sviduslav ($2.32 in chips) 
+Seat 3: MrBazs ($2.34 in chips) 
+Seat 4: KingRagnar123 ($1.38 in chips) 
+Seat 5: Joel D. Osti ($1.50 in chips) 
+Seat 6: zohan_dp ($1.89 in chips) 
+MrBazs: posts small blind $0.01
+KingRagnar123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ks]
+Joel D. Osti: folds 
+zohan_dp: folds 
+Lorpugo: folds 
+sviduslav: folds 
+MrBazs: folds 
+Uncalled bet ($0.01) returned to KingRagnar123
+KingRagnar123 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: sviduslav (button) folded before Flop (didn't bet)
+Seat 3: MrBazs (small blind) folded before Flop
+Seat 4: KingRagnar123 (big blind) collected ($0.02)
+Seat 5: Joel D. Osti folded before Flop (didn't bet)
+Seat 6: zohan_dp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795494403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:58:15 ET
+Table 'Suevia II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.50 in chips) 
+Seat 2: sviduslav ($2.32 in chips) 
+Seat 3: MrBazs ($2.33 in chips) 
+Seat 4: KingRagnar123 ($1.39 in chips) 
+Seat 5: Joel D. Osti ($1.50 in chips) 
+Seat 6: zohan_dp ($1.89 in chips) 
+KingRagnar123: posts small blind $0.01
+Joel D. Osti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5h]
+zohan_dp: raises $0.02 to $0.04
+Lorpugo: folds 
+sviduslav has timed out
+sviduslav: folds 
+MrBazs: folds 
+KingRagnar123: folds 
+Joel D. Osti: calls $0.02
+*** FLOP *** [9d 3s 6s]
+Joel D. Osti: checks 
+zohan_dp: bets $0.04
+Joel D. Osti: calls $0.04
+*** TURN *** [9d 3s 6s] [Th]
+Joel D. Osti: checks 
+zohan_dp: bets $0.10
+Joel D. Osti: calls $0.10
+*** RIVER *** [9d 3s 6s Th] [Jd]
+Joel D. Osti: checks 
+zohan_dp: checks 
+*** SHOW DOWN ***
+Joel D. Osti: shows [8d Ah] (high card Ace)
+zohan_dp: shows [8s Tc] (a pair of Tens)
+zohan_dp collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [9d 3s 6s Th Jd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: sviduslav folded before Flop (didn't bet)
+Seat 3: MrBazs (button) folded before Flop (didn't bet)
+Seat 4: KingRagnar123 (small blind) folded before Flop
+Seat 5: Joel D. Osti (big blind) showed [8d Ah] and lost with high card Ace
+Seat 6: zohan_dp showed [8s Tc] and won ($0.36) with a pair of Tens
+
+
+
+PokerStars Hand #240795505955:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:59:07 ET
+Table 'Suevia II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.50 in chips) 
+Seat 2: sviduslav ($2.32 in chips) 
+Seat 3: MrBazs ($2.33 in chips) 
+Seat 4: KingRagnar123 ($1.38 in chips) 
+Seat 5: Joel D. Osti ($1.32 in chips) 
+Seat 6: zohan_dp ($2.07 in chips) 
+Joel D. Osti: posts small blind $0.01
+zohan_dp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3c]
+Lorpugo: folds 
+sviduslav: folds 
+MrBazs: folds 
+KingRagnar123: folds 
+Joel D. Osti: calls $0.01
+zohan_dp: checks 
+*** FLOP *** [Jc 7h As]
+Joel D. Osti: checks 
+zohan_dp: bets $0.02
+Joel D. Osti: folds 
+Uncalled bet ($0.02) returned to zohan_dp
+zohan_dp collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jc 7h As]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: sviduslav folded before Flop (didn't bet)
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 (button) folded before Flop (didn't bet)
+Seat 5: Joel D. Osti (small blind) folded on the Flop
+Seat 6: zohan_dp (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #240795510770:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:59:29 ET
+Table 'Suevia II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.50 in chips) 
+Seat 2: sviduslav ($2.32 in chips) 
+Seat 3: MrBazs ($2.33 in chips) 
+Seat 4: KingRagnar123 ($1.38 in chips) 
+Seat 5: Joel D. Osti ($1.30 in chips) 
+Seat 6: zohan_dp ($2.09 in chips) 
+zohan_dp: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qc]
+sviduslav: folds 
+MrBazs: folds 
+KingRagnar123: folds 
+Joel D. Osti: folds 
+zohan_dp: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+zohan_dp: calls $0.12
+*** FLOP *** [4d Js Tc]
+zohan_dp: checks 
+Lorpugo: checks 
+*** TURN *** [4d Js Tc] [9d]
+zohan_dp: bets $0.12
+Lorpugo: calls $0.12
+*** RIVER *** [4d Js Tc 9d] [3s]
+zohan_dp: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+zohan_dp: shows [Qs 9s] (a pair of Nines)
+Lorpugo: mucks hand 
+zohan_dp collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [4d Js Tc 9d 3s]
+Seat 1: Lorpugo (big blind) mucked [5c Qc]
+Seat 2: sviduslav folded before Flop (didn't bet)
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 folded before Flop (didn't bet)
+Seat 5: Joel D. Osti (button) folded before Flop (didn't bet)
+Seat 6: zohan_dp (small blind) showed [Qs 9s] and won ($0.58) with a pair of Nines
+
+
+
+PokerStars Hand #240795521792:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:00:18 ET
+Table 'Suevia II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.20 in chips) 
+Seat 2: sviduslav ($2.32 in chips) 
+Seat 3: MrBazs ($2.33 in chips) 
+Seat 4: KingRagnar123 ($1.38 in chips) 
+Seat 5: Joel D. Osti ($1.30 in chips) 
+Seat 6: zohan_dp ($2.37 in chips) 
+Lorpugo: posts small blind $0.01
+sviduslav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 6d]
+MrBazs: folds 
+KingRagnar123: folds 
+Joel D. Osti: folds 
+zohan_dp: raises $0.04 to $0.06
+Lorpugo: folds 
+sviduslav: folds 
+Uncalled bet ($0.04) returned to zohan_dp
+zohan_dp collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: sviduslav (big blind) folded before Flop
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 folded before Flop (didn't bet)
+Seat 5: Joel D. Osti folded before Flop (didn't bet)
+Seat 6: zohan_dp (button) collected ($0.05)
+
+
+
+PokerStars Hand #240795526102:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:00:36 ET
+Table 'Suevia II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.19 in chips) 
+Seat 2: sviduslav ($2.30 in chips) 
+Seat 3: MrBazs ($2.33 in chips) 
+Seat 4: KingRagnar123 ($1.38 in chips) 
+Seat 5: Joel D. Osti ($1.30 in chips) 
+Seat 6: zohan_dp ($2.40 in chips) 
+sviduslav: posts small blind $0.01
+MrBazs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Kd]
+KingRagnar123: folds 
+Joel D. Osti: folds 
+zohan_dp: raises $0.04 to $0.06
+Lorpugo: raises $0.15 to $0.21
+sviduslav: folds 
+MrBazs: folds 
+zohan_dp: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.15)
+Seat 2: sviduslav (small blind) folded before Flop
+Seat 3: MrBazs (big blind) folded before Flop
+Seat 4: KingRagnar123 folded before Flop (didn't bet)
+Seat 5: Joel D. Osti folded before Flop (didn't bet)
+Seat 6: zohan_dp folded before Flop
+
+
+
+PokerStars Hand #240795530533:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:00:54 ET
+Table 'Suevia II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.28 in chips) 
+Seat 2: sviduslav ($2.29 in chips) 
+Seat 3: MrBazs ($2.31 in chips) 
+Seat 4: KingRagnar123 ($1.38 in chips) 
+Seat 5: Joel D. Osti ($1.30 in chips) 
+Seat 6: zohan_dp ($2.34 in chips) 
+MrBazs: posts small blind $0.01
+KingRagnar123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Jd]
+Joel D. Osti: calls $0.02
+zohan_dp: folds 
+Lorpugo: folds 
+sviduslav: raises $0.04 to $0.06
+MrBazs: folds 
+KingRagnar123: calls $0.04
+Joel D. Osti: calls $0.04
+*** FLOP *** [Qc 2h 5c]
+KingRagnar123: checks 
+Joel D. Osti: checks 
+sviduslav: checks 
+*** TURN *** [Qc 2h 5c] [7c]
+KingRagnar123: checks 
+Joel D. Osti: bets $0.04
+sviduslav: folds 
+KingRagnar123: folds 
+Uncalled bet ($0.04) returned to Joel D. Osti
+Joel D. Osti collected $0.18 from pot
+Joel D. Osti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qc 2h 5c 7c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: sviduslav (button) folded on the Turn
+Seat 3: MrBazs (small blind) folded before Flop
+Seat 4: KingRagnar123 (big blind) folded on the Turn
+Seat 5: Joel D. Osti collected ($0.18)
+Seat 6: zohan_dp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795543964:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:01:47 ET
+Table 'Suevia II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.28 in chips) 
+Seat 2: sviduslav ($2.23 in chips) 
+Seat 3: MrBazs ($2.30 in chips) 
+Seat 4: KingRagnar123 ($1.32 in chips) 
+Seat 5: Joel D. Osti ($1.42 in chips) 
+Seat 6: zohan_dp ($2.34 in chips) 
+KingRagnar123: posts small blind $0.01
+Joel D. Osti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Qs]
+zohan_dp: folds 
+Lorpugo: folds 
+sviduslav: folds 
+MrBazs: raises $0.04 to $0.06
+KingRagnar123: folds 
+Joel D. Osti: calls $0.04
+*** FLOP *** [Tc Ac 4d]
+Joel D. Osti: bets $0.24
+MrBazs: folds 
+Uncalled bet ($0.24) returned to Joel D. Osti
+Joel D. Osti collected $0.13 from pot
+Joel D. Osti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Tc Ac 4d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: sviduslav folded before Flop (didn't bet)
+Seat 3: MrBazs (button) folded on the Flop
+Seat 4: KingRagnar123 (small blind) folded before Flop
+Seat 5: Joel D. Osti (big blind) collected ($0.13)
+Seat 6: zohan_dp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795551320:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:02:15 ET
+Table 'Suevia II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.28 in chips) 
+Seat 2: sviduslav ($2.23 in chips) 
+Seat 3: MrBazs ($2.24 in chips) 
+Seat 4: KingRagnar123 ($1.31 in chips) 
+Seat 5: Joel D. Osti ($1.49 in chips) 
+Seat 6: zohan_dp ($2.34 in chips) 
+Joel D. Osti: posts small blind $0.01
+zohan_dp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Js]
+Lorpugo: folds 
+sviduslav: folds 
+MrBazs: folds 
+KingRagnar123: raises $0.08 to $0.10
+Joel D. Osti: folds 
+zohan_dp: folds 
+Uncalled bet ($0.08) returned to KingRagnar123
+KingRagnar123 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: sviduslav folded before Flop (didn't bet)
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 (button) collected ($0.05)
+Seat 5: Joel D. Osti (small blind) folded before Flop
+Seat 6: zohan_dp (big blind) folded before Flop
+
+
+
+PokerStars Hand #240795554981:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:02:28 ET
+Table 'Suevia II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.28 in chips) 
+Seat 2: sviduslav ($2.23 in chips) 
+Seat 3: MrBazs ($2.24 in chips) 
+Seat 4: KingRagnar123 ($1.34 in chips) 
+Seat 5: Joel D. Osti ($1.48 in chips) 
+Seat 6: zohan_dp ($2.32 in chips) 
+zohan_dp: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 6s]
+sviduslav: folds 
+MrBazs: folds 
+KingRagnar123: calls $0.02
+Joel D. Osti: folds 
+zohan_dp: raises $0.04 to $0.06
+Lorpugo: folds 
+KingRagnar123: calls $0.04
+*** FLOP *** [Tc 6c 6h]
+zohan_dp: checks 
+KingRagnar123: checks 
+*** TURN *** [Tc 6c 6h] [Qc]
+zohan_dp: checks 
+KingRagnar123: checks 
+*** RIVER *** [Tc 6c 6h Qc] [Qd]
+zohan_dp: bets $0.04
+KingRagnar123: calls $0.04
+*** SHOW DOWN ***
+zohan_dp: shows [5s As] (two pair, Queens and Sixes)
+KingRagnar123: mucks hand 
+zohan_dp collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Tc 6c 6h Qc Qd]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: sviduslav folded before Flop (didn't bet)
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 mucked [Jh Kc]
+Seat 5: Joel D. Osti (button) folded before Flop (didn't bet)
+Seat 6: zohan_dp (small blind) showed [5s As] and won ($0.21) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #240795567660:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:03:16 ET
+Table 'Suevia II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.26 in chips) 
+Seat 2: sviduslav ($2.23 in chips) 
+Seat 3: MrBazs ($2.24 in chips) 
+Seat 4: KingRagnar123 ($1.24 in chips) 
+Seat 5: Joel D. Osti ($1.48 in chips) 
+Seat 6: zohan_dp ($2.43 in chips) 
+Lorpugo: posts small blind $0.01
+sviduslav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2d]
+MrBazs: folds 
+KingRagnar123: calls $0.02
+Joel D. Osti: folds 
+zohan_dp: calls $0.02
+Lorpugo: folds 
+sviduslav: checks 
+*** FLOP *** [4c 3d Jd]
+sviduslav: checks 
+KingRagnar123: checks 
+zohan_dp: checks 
+*** TURN *** [4c 3d Jd] [9h]
+sviduslav: checks 
+KingRagnar123: checks 
+zohan_dp: checks 
+*** RIVER *** [4c 3d Jd 9h] [2c]
+sviduslav: checks 
+KingRagnar123: checks 
+zohan_dp: checks 
+*** SHOW DOWN ***
+sviduslav: shows [Kd 2h] (a pair of Deuces)
+KingRagnar123: mucks hand 
+zohan_dp: mucks hand 
+sviduslav collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4c 3d Jd 9h 2c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: sviduslav (big blind) showed [Kd 2h] and won ($0.07) with a pair of Deuces
+Seat 3: MrBazs folded before Flop (didn't bet)
+Seat 4: KingRagnar123 mucked [5c 8s]
+Seat 5: Joel D. Osti folded before Flop (didn't bet)
+Seat 6: zohan_dp (button) mucked [Kh 6c]
+
+
+
+PokerStars Hand #240795577458:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:03:53 ET
+Table 'Suevia II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.25 in chips) 
+Seat 2: sviduslav ($2.28 in chips) 
+Seat 3: MrBazs ($2.24 in chips) 
+Seat 4: KingRagnar123 ($1.22 in chips) 
+Seat 5: Joel D. Osti ($1.48 in chips) 
+Seat 6: zohan_dp ($2.41 in chips) 
+sviduslav: posts small blind $0.01
+MrBazs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ts]
+KingRagnar123: calls $0.02
+Joel D. Osti: calls $0.02
+zohan_dp: raises $0.02 to $0.04
+Lorpugo: folds 
+sviduslav: folds 
+MrBazs: folds 
+KingRagnar123: calls $0.02
+Joel D. Osti: calls $0.02
+*** FLOP *** [Jc 8d Jh]
+KingRagnar123: checks 
+Joel D. Osti: bets $0.08
+zohan_dp: calls $0.08
+KingRagnar123: folds 
+*** TURN *** [Jc 8d Jh] [9d]
+Joel D. Osti: bets $0.56
+zohan_dp: calls $0.56
+*** RIVER *** [Jc 8d Jh 9d] [3d]
+Joel D. Osti: bets $0.80 and is all-in
+zohan_dp: calls $0.80
+*** SHOW DOWN ***
+Joel D. Osti: shows [Kh Jd] (three of a kind, Jacks)
+zohan_dp: shows [7s Td] (a straight, Seven to Jack)
+zohan_dp collected $2.92 from pot
+*** SUMMARY ***
+Total pot $3.03 | Rake $0.11 
+Board [Jc 8d Jh 9d 3d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: sviduslav (small blind) folded before Flop
+Seat 3: MrBazs (big blind) folded before Flop
+Seat 4: KingRagnar123 folded on the Flop
+Seat 5: Joel D. Osti showed [Kh Jd] and lost with three of a kind, Jacks
+Seat 6: zohan_dp showed [7s Td] and won ($2.92) with a straight, Seven to Jack
+
+
+

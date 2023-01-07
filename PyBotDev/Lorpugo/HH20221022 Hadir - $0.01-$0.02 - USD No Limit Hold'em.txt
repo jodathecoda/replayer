@@ -1,0 +1,3150 @@
+﻿PokerStars Hand #239382932793:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:07:50 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.08 in chips) 
+Seat 3: Akim187 ($1.56 in chips) 
+Seat 4: Zjnic ($2.12 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Kh]
+Rosenwinkel1: folds 
+tjca123: folds 
+Akim187: raises $0.04 to $0.06
+Zjnic: folds 
+nsc01: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [4d 9d 8h]
+nsc01: checks 
+Akim187: bets $0.07
+nsc01: calls $0.07
+*** TURN *** [4d 9d 8h] [Jc]
+nsc01: checks 
+Akim187: checks 
+*** RIVER *** [4d 9d 8h Jc] [2c]
+nsc01: checks 
+Akim187: checks 
+*** SHOW DOWN ***
+nsc01: shows [7s 7d] (a pair of Sevens)
+Akim187: mucks hand 
+nsc01 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4d 9d 8h Jc 2c]
+Seat 1: Rosenwinkel1 folded before Flop (didn't bet)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: Akim187 mucked [Ks Td]
+Seat 4: Zjnic (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) showed [7s 7d] and won ($0.27) with a pair of Sevens
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239382946693:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:08:38 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.08 in chips) 
+Seat 3: Akim187 ($1.43 in chips) 
+Seat 4: Zjnic ($2.12 in chips) 
+Seat 5: nsc01 ($2.14 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Rosenwinkel1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 9s]
+tjca123: folds 
+Akim187: folds 
+Zjnic: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Rosenwinkel1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Rosenwinkel1 (big blind) folded before Flop
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: Akim187 folded before Flop (didn't bet)
+Seat 4: Zjnic folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239382953029:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:08:59 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.08 in chips) 
+Seat 3: Akim187 ($1.43 in chips) 
+Seat 4: Zjnic ($2.12 in chips) 
+Seat 5: nsc01 ($2.14 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+Rosenwinkel1: posts small blind $0.01
+tjca123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ah]
+Akim187: raises $0.03 to $0.05
+Zjnic: calls $0.05
+nsc01: calls $0.05
+Lorpugo: calls $0.05
+Rosenwinkel1: folds 
+tjca123: folds 
+*** FLOP *** [3s 7c Kc]
+Akim187: bets $0.11
+Zjnic: calls $0.11
+nsc01: calls $0.11
+Lorpugo: folds 
+*** TURN *** [3s 7c Kc] [Js]
+Akim187: checks 
+Zjnic: bets $0.27
+nsc01: folds 
+Akim187: raises $1 to $1.27 and is all-in
+Zjnic: calls $1
+*** RIVER *** [3s 7c Kc Js] [8d]
+*** SHOW DOWN ***
+Akim187: shows [Td Kh] (a pair of Kings)
+Zjnic: shows [3c 3d] (three of a kind, Threes)
+Zjnic collected $2.99 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.11 
+Board [3s 7c Kc Js 8d]
+Seat 1: Rosenwinkel1 (small blind) folded before Flop
+Seat 2: tjca123 (big blind) folded before Flop
+Seat 3: Akim187 showed [Td Kh] and lost with a pair of Kings
+Seat 4: Zjnic showed [3c 3d] and won ($2.99) with three of a kind, Threes
+Seat 5: nsc01 folded on the Turn
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #239382972406:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:10:06 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.06 in chips) 
+Seat 4: Zjnic ($3.68 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+tjca123: posts small blind $0.01
+Zjnic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4h]
+nsc01: folds 
+Akim187 leaves the table
+Lorpugo: folds 
+Rosenwinkel1: folds 
+tjca123: folds 
+Uncalled bet ($0.01) returned to Zjnic
+Zjnic collected $0.02 from pot
+Zjnic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Rosenwinkel1 (button) folded before Flop (didn't bet)
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 4: Zjnic (big blind) collected ($0.02)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239382974703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:10:14 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.05 in chips) 
+Seat 4: Zjnic ($3.69 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Zjnic: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Tc]
+Lorpugo: raises $0.04 to $0.06
+Rosenwinkel1: folds 
+tjca123: folds 
+Zjnic: folds 
+Kendous joins the table at seat #3 
+nsc01: calls $0.04
+*** FLOP *** [Ks 8h 7d]
+nsc01: checks 
+Lorpugo: bets $0.09
+nsc01: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks 8h 7d]
+Seat 1: Rosenwinkel1 folded before Flop (didn't bet)
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 4: Zjnic (small blind) folded before Flop
+Seat 5: nsc01 (big blind) folded on the Flop
+Seat 6: Lorpugo collected ($0.13)
+
+
+
+PokerStars Hand #239382985398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:10:50 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.05 in chips) 
+Seat 4: Zjnic ($3.68 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Kendous: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5h]
+Rosenwinkel1: folds 
+tjca123: folds 
+Zjnic: folds 
+nsc01: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Rosenwinkel1 folded before Flop (didn't bet)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 4: Zjnic (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239382988359:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:11:00 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.05 in chips) 
+Seat 4: Zjnic ($3.68 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+Lorpugo: posts small blind $0.01
+Rosenwinkel1: posts big blind $0.02
+Kendous: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3s]
+tjca123: folds 
+Zjnic: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Rosenwinkel1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Rosenwinkel1 (big blind) folded before Flop
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 4: Zjnic folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239382992463:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:11:14 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Rosenwinkel1 ($2 in chips) 
+Seat 2: tjca123 ($2.05 in chips) 
+Seat 4: Zjnic ($3.68 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.70 in chips) 
+Rosenwinkel1: posts small blind $0.01
+tjca123: posts big blind $0.02
+Kendous: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 8d]
+Zjnic: raises $0.04 to $0.06
+nsc01: folds 
+Lorpugo: calls $0.06
+Rosenwinkel1: folds 
+tjca123: folds 
+*** FLOP *** [Tc 4s Qh]
+Zjnic: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to Zjnic
+Zjnic collected $0.14 from pot
+Zjnic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Tc 4s Qh]
+Seat 1: Rosenwinkel1 (small blind) folded before Flop
+Seat 2: tjca123 (big blind) folded before Flop
+Seat 4: Zjnic collected ($0.14)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #239383001794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:11:46 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 4: Zjnic ($3.76 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+Zjnic: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Kc]
+Rosenwinkel1 leaves the table
+Lorpugo: folds 
+LongHart joins the table at seat #1 
+tjca123: folds 
+Zjnic: calls $0.01
+nsc01: checks 
+*** FLOP *** [5c Td 4s]
+Zjnic: checks 
+nsc01: bets $0.02
+LongHart leaves the table
+Zjnic: folds 
+Uncalled bet ($0.02) returned to nsc01
+nsc01 collected $0.04 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5c Td 4s]
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 4: Zjnic (small blind) folded on the Flop
+Seat 5: nsc01 (big blind) collected ($0.04)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383007252:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:12:05 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 4: Zjnic ($3.74 in chips) 
+Seat 5: nsc01 ($2.02 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Kendous: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Kc]
+tjca123: raises $0.04 to $0.06
+Zjnic: folds 
+nsc01: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to tjca123
+tjca123 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: tjca123 collected ($0.05)
+Seat 4: Zjnic (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383014569:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:12:29 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 2: tjca123 ($2.06 in chips) 
+Seat 4: Zjnic ($3.74 in chips) 
+Seat 5: nsc01 ($2.01 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+Lorpugo: posts small blind $0.01
+tjca123: posts big blind $0.02
+Kendous: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 5c]
+MrEco99 joins the table at seat #1 
+Zjnic: folds 
+nsc01: raises $0.04 to $0.06
+Lorpugo: folds 
+tjca123: folds 
+Uncalled bet ($0.04) returned to nsc01
+nsc01 collected $0.05 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: tjca123 (big blind) folded before Flop
+Seat 4: Zjnic folded before Flop (didn't bet)
+Seat 5: nsc01 (button) collected ($0.05)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383018558:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:12:43 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 2: tjca123 ($2.04 in chips) 
+Seat 3: Kendous ($0.80 in chips) 
+Seat 4: Zjnic ($3.74 in chips) 
+Seat 5: nsc01 ($2.04 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+tjca123: posts small blind $0.01
+Kendous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Qs]
+Zjnic: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+tjca123: folds 
+Kendous: calls $0.04
+*** FLOP *** [9h Ks 4h]
+Kendous: checks 
+Lorpugo: bets $0.06
+Kendous: calls $0.06
+*** TURN *** [9h Ks 4h] [6h]
+Kendous: checks 
+Lorpugo: checks 
+*** RIVER *** [9h Ks 4h 6h] [2c]
+Kendous: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Kendous: shows [Jh Td] (high card King)
+Lorpugo: shows [Th Qs] (high card King - Queen kicker)
+Lorpugo collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9h Ks 4h 6h 2c]
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 3: Kendous (big blind) showed [Jh Td] and lost with high card King
+Seat 4: Zjnic folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) showed [Th Qs] and won ($0.24) with high card King
+
+
+
+PokerStars Hand #239383035692:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:13:40 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: MrEco99 ($2 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($0.68 in chips) 
+Seat 5: nsc01 ($2.04 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+Kendous: posts small blind $0.01
+Zjnic: is sitting out 
+nsc01: posts big blind $0.02
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Td]
+Lorpugo: calls $0.02
+Zjnic leaves the table
+MrEco99: checks 
+tjca123: folds 
+Kendous: calls $0.01
+nsc01: checks 
+*** FLOP *** [7h 7s 6d]
+Kendous: checks 
+nsc01: checks 
+Lorpugo: checks 
+MrEco99: checks 
+*** TURN *** [7h 7s 6d] [9c]
+Kendous: checks 
+nsc01: checks 
+yonaikeralf joins the table at seat #4 
+Lorpugo: checks 
+MrEco99: checks 
+*** RIVER *** [7h 7s 6d 9c] [9s]
+Kendous: bets $0.02
+nsc01: folds 
+Lorpugo: folds 
+MrEco99: raises $0.06 to $0.08
+Kendous: folds 
+Uncalled bet ($0.06) returned to MrEco99
+MrEco99 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7h 7s 6d 9c 9s]
+Seat 1: MrEco99 collected ($0.12)
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 3: Kendous (small blind) folded on the River
+Seat 5: nsc01 (big blind) folded on the River
+Seat 6: Lorpugo folded on the River
+
+
+
+PokerStars Hand #239383055820:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:14:49 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: MrEco99 ($2.08 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($0.64 in chips) 
+Seat 5: nsc01 ($2.02 in chips) 
+Seat 6: Lorpugo ($1.71 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Jh]
+MrEco99: folds 
+tjca123: folds 
+Kendous has timed out
+Kendous: folds 
+nsc01: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+nsc01: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: MrEco99 folded before Flop (didn't bet)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: Kendous (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #239383065507:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:15:22 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: MrEco99 ($2.08 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($0.64 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+Lorpugo: posts small blind $0.01
+MrEco99: posts big blind $0.02
+yonaikeralf: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5s]
+tjca123: folds 
+Kendous: calls $0.02
+nsc01: folds 
+Lorpugo: folds 
+MrEco99: checks 
+*** FLOP *** [Ah 3d 9d]
+MrEco99: checks 
+Kendous: checks 
+*** TURN *** [Ah 3d 9d] [9h]
+MrEco99: checks 
+Kendous: checks 
+*** RIVER *** [Ah 3d 9d 9h] [9c]
+MrEco99: checks 
+Kendous: checks 
+*** SHOW DOWN ***
+MrEco99: shows [Kh 7s] (three of a kind, Nines)
+Kendous: mucks hand 
+MrEco99 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah 3d 9d 9h 9c]
+Seat 1: MrEco99 (big blind) showed [Kh 7s] and won ($0.05) with three of a kind, Nines
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: Kendous mucked [2d Js]
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383075106:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:15:55 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: MrEco99 ($2.11 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($0.62 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.72 in chips) 
+MrEco99: posts small blind $0.01
+tjca123: posts big blind $0.02
+yonaikeralf: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ad]
+Kendous: calls $0.02
+nsc01: folds 
+Lorpugo: raises $0.07 to $0.09
+MrEco99: folds 
+tjca123: folds 
+Kendous: calls $0.07
+*** FLOP *** [Ah 2s 4h]
+Kendous: checks 
+Lorpugo: bets $0.13
+Kendous: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ah 2s 4h]
+Seat 1: MrEco99 (small blind) folded before Flop
+Seat 2: tjca123 (big blind) folded before Flop
+Seat 3: Kendous folded on the Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.20)
+
+
+
+PokerStars Hand #239383087215:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:16:37 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: MrEco99 ($2.10 in chips) 
+Seat 2: tjca123 ($2.01 in chips) 
+Seat 3: Kendous ($0.53 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+tjca123: posts small blind $0.01
+Kendous: posts big blind $0.02
+yonaikeralf: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ah]
+nsc01: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+MrEco99: folds 
+tjca123: folds 
+Kendous: calls $0.02
+*** FLOP *** [4h 9h 3c]
+Kendous: checks 
+nsc01: checks 
+Lorpugo: bets $0.18
+Kendous: calls $0.18
+nsc01: folds 
+*** TURN *** [4h 9h 3c] [Js]
+Kendous: bets $0.10
+Lorpugo: raises $1.51 to $1.61 and is all-in
+Kendous: calls $0.21 and is all-in
+Uncalled bet ($1.30) returned to Lorpugo
+*** RIVER *** [4h 9h 3c Js] [Kc]
+*** SHOW DOWN ***
+Kendous: shows [9c Jd] (two pair, Jacks and Nines)
+Lorpugo: shows [9d Ah] (a pair of Nines)
+Kendous collected $1.07 from pot
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.04 
+Board [4h 9h 3c Js Kc]
+Seat 1: MrEco99 (button) folded before Flop (didn't bet)
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 3: Kendous (big blind) showed [9c Jd] and won ($1.07) with two pair, Jacks and Nines
+Seat 5: nsc01 folded on the Flop
+Seat 6: Lorpugo showed [9d Ah] and lost with a pair of Nines
+
+
+
+PokerStars Hand #239383103455:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:17:32 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: MrEco99 ($2.10 in chips) 
+Seat 2: tjca123 ($2 in chips) 
+Seat 3: Kendous ($1.07 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Kendous: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7d]
+nsc01 has timed out
+nsc01: folds 
+Lorpugo: folds 
+MrEco99: folds 
+tjca123: folds 
+Kendous: calls $0.01
+yonaikeralf: checks 
+*** FLOP *** [Qs Ks Ah]
+Kendous: bets $0.02
+yonaikeralf: folds 
+Uncalled bet ($0.02) returned to Kendous
+Kendous collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qs Ks Ah]
+Seat 1: MrEco99 folded before Flop (didn't bet)
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 3: Kendous (small blind) collected ($0.04)
+Seat 4: yonaikeralf (big blind) folded on the Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383119965:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:18:29 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: MrEco99 ($2.10 in chips) 
+Seat 2: tjca123 ($2 in chips) 
+Seat 3: Kendous ($1.09 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+yonaikeralf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 4d]
+MrEco99: folds 
+tjca123: raises $0.04 to $0.06
+Kendous: folds 
+yonaikeralf: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to tjca123
+tjca123 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MrEco99 folded before Flop (didn't bet)
+Seat 2: tjca123 collected ($0.05)
+Seat 3: Kendous (button) folded before Flop (didn't bet)
+Seat 4: yonaikeralf (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383124986:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:18:46 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: MrEco99 ($2.10 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($1.09 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kc]
+tjca123: raises $0.04 to $0.06
+Kendous: folds 
+yonaikeralf: folds 
+Lorpugo: folds 
+MrEco99: folds 
+Uncalled bet ($0.04) returned to tjca123
+tjca123 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MrEco99 (big blind) folded before Flop
+Seat 2: tjca123 collected ($0.05)
+Seat 3: Kendous folded before Flop (didn't bet)
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383128101:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:18:57 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: MrEco99 ($2.08 in chips) 
+Seat 2: tjca123 ($2.06 in chips) 
+Seat 3: Kendous ($1.09 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+MrEco99: posts small blind $0.01
+tjca123: posts big blind $0.02
+nsc01: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8s]
+Kendous: calls $0.02
+yonaikeralf: folds 
+nsc01: checks 
+Lorpugo: calls $0.02
+MrEco99: calls $0.01
+tjca123: checks 
+*** FLOP *** [6s 9s Qc]
+MrEco99: checks 
+tjca123: checks 
+Kendous: checks 
+nsc01: checks 
+Lorpugo: bets $0.04
+MrEco99: folds 
+tjca123: folds 
+Kendous: folds 
+nsc01: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6s 9s Qc]
+Seat 1: MrEco99 (small blind) folded on the Flop
+Seat 2: tjca123 (big blind) folded on the Flop
+Seat 3: Kendous folded on the Flop
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded on the Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.11)
+
+
+
+PokerStars Hand #239383142319:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:19:46 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: MrEco99 ($2.06 in chips) 
+Seat 2: tjca123 ($2.04 in chips) 
+Seat 3: Kendous ($1.07 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+tjca123: posts small blind $0.01
+Kendous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Jh]
+yonaikeralf: raises $0.04 to $0.06
+nsc01: calls $0.06
+Lorpugo: folds 
+MrEco99: folds 
+tjca123: folds 
+Kendous: calls $0.04
+*** FLOP *** [9h 9d Qh]
+Kendous: checks 
+yonaikeralf: bets $0.06
+nsc01: folds 
+Kendous: folds 
+Uncalled bet ($0.06) returned to yonaikeralf
+yonaikeralf collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9h 9d Qh]
+Seat 1: MrEco99 (button) folded before Flop (didn't bet)
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 3: Kendous (big blind) folded on the Flop
+Seat 4: yonaikeralf collected ($0.18)
+Seat 5: nsc01 folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383153539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:20:25 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: MrEco99 ($2.06 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($1.01 in chips) 
+Seat 4: yonaikeralf ($2.12 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+Kendous: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jh]
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+MrEco99: folds 
+tjca123: folds 
+Kendous: calls $0.05
+yonaikeralf: folds 
+*** FLOP *** [6h 6c 4c]
+Kendous: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [6h 6c 4c] [Jc]
+Kendous: bets $0.02
+Lorpugo: raises $0.11 to $0.13
+Kendous: calls $0.11
+*** RIVER *** [6h 6c 4c Jc] [Tc]
+Kendous: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Kendous: shows [9h 9s] (two pair, Nines and Sixes)
+Lorpugo: shows [7h Jh] (two pair, Jacks and Sixes)
+Lorpugo collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [6h 6c 4c Jc Tc]
+Seat 1: MrEco99 folded before Flop (didn't bet)
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 3: Kendous (small blind) showed [9h 9s] and lost with two pair, Nines and Sixes
+Seat 4: yonaikeralf (big blind) folded before Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [7h Jh] and won ($0.42) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #239383166319:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:21:08 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: MrEco99 ($2.06 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($0.80 in chips) 
+Seat 4: yonaikeralf ($2.10 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+yonaikeralf: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3h]
+Lorpugo: folds 
+MrEco99: folds 
+tjca123: folds 
+Kendous: calls $0.02
+yonaikeralf: folds 
+nsc01: checks 
+*** FLOP *** [6c 4c As]
+nsc01: checks 
+Kendous: checks 
+*** TURN *** [6c 4c As] [3c]
+nsc01: checks 
+Kendous: bets $0.02
+nsc01: folds 
+Uncalled bet ($0.02) returned to Kendous
+Kendous collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c 4c As 3c]
+Seat 1: MrEco99 folded before Flop (didn't bet)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: Kendous (button) collected ($0.05)
+Seat 4: yonaikeralf (small blind) folded before Flop
+Seat 5: nsc01 (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383176191:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:21:42 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: MrEco99 ($2.06 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($0.83 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 2d]
+MrEco99: raises $0.02 to $0.04
+tjca123: folds 
+Kendous: folds 
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to MrEco99
+MrEco99 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MrEco99 collected ($0.05)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: Kendous folded before Flop (didn't bet)
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383184165:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:22:09 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: MrEco99 ($2.09 in chips) 
+Seat 2: tjca123 ($2.03 in chips) 
+Seat 3: Kendous ($0.83 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Lorpugo: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 2c]
+tjca123: raises $0.05 to $0.07
+Kendous: folds 
+yonaikeralf: folds 
+nsc01: calls $0.07
+Lorpugo: folds 
+MrEco99: folds 
+*** FLOP *** [Jd 6h 4d]
+tjca123: bets $0.08
+nsc01: folds 
+Uncalled bet ($0.08) returned to tjca123
+tjca123 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Jd 6h 4d]
+Seat 1: MrEco99 (big blind) folded before Flop
+Seat 2: tjca123 collected ($0.16)
+Seat 3: Kendous folded before Flop (didn't bet)
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383191678:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:22:35 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: MrEco99 ($2.07 in chips) 
+Seat 2: tjca123 ($2.12 in chips) 
+Seat 3: Kendous ($0.83 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+MrEco99: posts small blind $0.01
+tjca123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8h]
+Kendous: calls $0.02
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: calls $0.02
+MrEco99: raises $0.06 to $0.08
+tjca123: folds 
+Kendous: calls $0.06
+Lorpugo: calls $0.06
+*** FLOP *** [Jc 9c Tc]
+MrEco99: bets $0.16
+Kendous: folds 
+Lorpugo: calls $0.16
+*** TURN *** [Jc 9c Tc] [6c]
+MrEco99: bets $0.16
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to MrEco99
+MrEco99 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Jc 9c Tc 6c]
+Seat 1: MrEco99 (small blind) collected ($0.56)
+Seat 2: tjca123 (big blind) folded before Flop
+Seat 3: Kendous folded on the Flop
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded on the Turn
+
+
+
+PokerStars Hand #239383209293:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:23:35 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: MrEco99 ($2.39 in chips) 
+Seat 2: tjca123 ($2.10 in chips) 
+Seat 3: Kendous ($0.75 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.63 in chips) 
+tjca123: posts small blind $0.01
+Kendous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6h]
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+MrEco99: folds 
+MrEco99 leaves the table
+tjca123: folds 
+Kendous: calls $0.04
+*** FLOP *** [3h 3c 9s]
+Kendous: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [3h 3c 9s] [8c]
+Stonedify joins the table at seat #1 
+Kendous: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [3h 3c 9s 8c] [6c]
+Kendous: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Kendous: shows [Ts Qc] (a pair of Threes)
+Lorpugo: shows [Ad 6h] (two pair, Sixes and Threes)
+Lorpugo collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3h 3c 9s 8c 6c]
+Seat 1: MrEco99 (button) folded before Flop (didn't bet)
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 3: Kendous (big blind) showed [Ts Qc] and lost with a pair of Threes
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [Ad 6h] and won ($0.20) with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #239383223769:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:24:25 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 2: tjca123 ($2.09 in chips) 
+Seat 3: Kendous ($0.65 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+Kendous: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+Stonedify: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+nsc01: folds 
+Lorpugo: folds 
+tjca123: folds 
+Kendous: calls $0.01
+yonaikeralf: checks 
+*** FLOP *** [Js 3s 5d]
+Kendous: bets $0.02
+yonaikeralf: folds 
+Uncalled bet ($0.02) returned to Kendous
+Kendous collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Js 3s 5d]
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 3: Kendous (small blind) collected ($0.04)
+Seat 4: yonaikeralf (big blind) folded on the Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383234213:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:25:02 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 2: tjca123 ($2.09 in chips) 
+Seat 3: Kendous ($0.67 in chips) 
+Seat 4: yonaikeralf ($2.07 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+yonaikeralf: posts small blind $0.01
+nsc01: posts big blind $0.02
+Stonedify: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2c]
+Lorpugo: folds 
+tjca123: raises $0.04 to $0.06
+Kendous: folds 
+Kendous leaves the table
+yonaikeralf: folds 
+nsc01: calls $0.04
+*** FLOP *** [Qs Th Ah]
+nsc01: checks 
+Kendous joins the table at seat #3 
+tjca123: bets $0.06
+nsc01: calls $0.06
+*** TURN *** [Qs Th Ah] [9d]
+nsc01: checks 
+tjca123: bets $0.20
+nsc01: folds 
+Uncalled bet ($0.20) returned to tjca123
+tjca123 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qs Th Ah 9d]
+Seat 2: tjca123 collected ($0.24)
+Seat 3: Kendous (button) folded before Flop (didn't bet)
+Seat 4: yonaikeralf (small blind) folded before Flop
+Seat 5: nsc01 (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383248320:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:25:50 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 2: tjca123 ($2.21 in chips) 
+Seat 4: yonaikeralf ($2.06 in chips) 
+Seat 5: nsc01 ($2 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Stonedify: sits out 
+Kendous: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 6s]
+tjca123: folds 
+yonaikeralf: folds 
+nsc01: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+nsc01: calls $0.10
+*** FLOP *** [Kc 5d 3h]
+nsc01: checks 
+Kendous leaves the table
+Lorpugo: bets $0.08
+nsc01: calls $0.08
+*** TURN *** [Kc 5d 3h] [6h]
+nsc01: checks 
+Lorpugo: bets $0.13
+nsc01: calls $0.13
+*** RIVER *** [Kc 5d 3h 6h] [7s]
+nsc01: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+nsc01: shows [8h 8s] (a pair of Eights)
+Lorpugo: mucks hand 
+nsc01 collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [Kc 5d 3h 6h 7s]
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) showed [8h 8s] and won ($0.64) with a pair of Eights
+Seat 6: Lorpugo (big blind) mucked [As 6s]
+
+
+
+PokerStars Hand #239383259741:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:26:30 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: tjca123 ($2.21 in chips) 
+Seat 4: yonaikeralf ($2.06 in chips) 
+Seat 5: nsc01 ($2.31 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Kc]
+tjca123: folds 
+yonaikeralf: raises $0.04 to $0.06
+nsc01: calls $0.06
+Lorpugo: calls $0.05
+Stonedify: raises $0.26 to $0.32
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: folds 
+Uncalled bet ($0.26) returned to Stonedify
+Stonedify collected $0.24 from pot
+Stonedify: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0 
+Seat 1: Stonedify (big blind) collected ($0.24)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 4: yonaikeralf folded before Flop
+Seat 5: nsc01 (button) folded before Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383269665:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:27:05 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2.18 in chips) 
+Seat 2: tjca123 ($2.21 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.25 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Stonedify: posts small blind $0.01
+tjca123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ad]
+yonaikeralf: raises $0.04 to $0.06
+nsc01: folds 
+Lorpugo: calls $0.06
+Stonedify: folds 
+tjca123: folds 
+*** FLOP *** [Js 6d Jh]
+yonaikeralf: bets $0.07
+Lorpugo: calls $0.07
+*** TURN *** [Js 6d Jh] [Tc]
+yonaikeralf: checks 
+Lorpugo: checks 
+*** RIVER *** [Js 6d Jh Tc] [4s]
+yonaikeralf: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+yonaikeralf: shows [7h Ah] (a pair of Jacks)
+Lorpugo: shows [9h Ad] (a pair of Jacks - Ace+Ten+Nine kicker)
+Lorpugo collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Js 6d Jh Tc 4s]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 2: tjca123 (big blind) folded before Flop
+Seat 4: yonaikeralf showed [7h Ah] and lost with a pair of Jacks
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) showed [9h Ad] and won ($0.28) with a pair of Jacks
+
+
+
+PokerStars Hand #239383283078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:27:51 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2.17 in chips) 
+Seat 2: tjca123 ($2.19 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.25 in chips) 
+Seat 6: Lorpugo ($1.75 in chips) 
+tjca123: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 8h]
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+tjca123: folds 
+yonaikeralf: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Stonedify (button) folded before Flop (didn't bet)
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 4: yonaikeralf (big blind) folded before Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #239383286469:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:28:03 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: Stonedify ($2.17 in chips) 
+Seat 2: tjca123 ($2.18 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.25 in chips) 
+Seat 6: Lorpugo ($1.78 in chips) 
+yonaikeralf: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qc]
+Lorpugo: folds 
+Stonedify: folds 
+tjca123: raises $0.03 to $0.05
+yonaikeralf: folds 
+nsc01: folds 
+Uncalled bet ($0.03) returned to tjca123
+tjca123 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: tjca123 (button) collected ($0.05)
+Seat 4: yonaikeralf (small blind) folded before Flop
+Seat 5: nsc01 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383290080:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:28:16 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Stonedify ($2.17 in chips) 
+Seat 2: tjca123 ($2.21 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.23 in chips) 
+Seat 6: Lorpugo ($1.78 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 3h]
+Stonedify: folds 
+tjca123: folds 
+yonaikeralf: folds 
+nsc01: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+nsc01: calls $0.10
+*** FLOP *** [8s 9d 2c]
+nsc01: checks 
+Lorpugo: checks 
+*** TURN *** [8s 9d 2c] [8h]
+nsc01: checks 
+Lorpugo: checks 
+*** RIVER *** [8s 9d 2c 8h] [Jh]
+nsc01: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+nsc01: shows [Jd 6d] (two pair, Jacks and Eights)
+Lorpugo: mucks hand 
+nsc01 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8s 9d 2c 8h Jh]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) showed [Jd 6d] and won ($0.23) with two pair, Jacks and Eights
+Seat 6: Lorpugo (big blind) mucked [Ac 3h]
+
+
+
+PokerStars Hand #239383301926:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:28:57 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2.17 in chips) 
+Seat 2: tjca123 ($2.21 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.34 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ac]
+tjca123: folds 
+yonaikeralf: folds 
+nsc01: raises $0.02 to $0.04
+manolelps joins the table at seat #3 
+Lorpugo: raises $0.10 to $0.14
+Stonedify: folds 
+nsc01: raises $2.20 to $2.34 and is all-in
+Lorpugo: folds 
+Uncalled bet ($2.20) returned to nsc01
+nsc01 collected $0.30 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: Stonedify (big blind) folded before Flop
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 (button) collected ($0.30)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383307574:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:29:18 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2.15 in chips) 
+Seat 2: tjca123 ($2.21 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.50 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Stonedify: posts small blind $0.01
+tjca123: posts big blind $0.02
+manolelps: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5s]
+yonaikeralf: folds 
+nsc01 has timed out
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+tjca123: raises $0.14 to $0.20
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to tjca123
+manolelps leaves the table
+tjca123 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 2: tjca123 (big blind) collected ($0.13)
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #239383315550:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:29:46 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2.14 in chips) 
+Seat 2: tjca123 ($2.28 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.50 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+tjca123: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3s]
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: raises $0.03 to $0.05
+tjca123: folds 
+yonaikeralf: folds 
+Uncalled bet ($0.03) returned to Stonedify
+Stonedify collected $0.05 from pot
+Stonedify: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Stonedify (button) collected ($0.05)
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 4: yonaikeralf (big blind) folded before Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383319150:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:29:59 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: Stonedify ($2.17 in chips) 
+Seat 2: tjca123 ($2.27 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.50 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+yonaikeralf: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 3s]
+Lorpugo: raises $0.04 to $0.06
+Stonedify: raises $0.08 to $0.14
+tjca123: folds 
+yonaikeralf: folds 
+brosinro joins the table at seat #3 
+nsc01: folds 
+Lorpugo: calls $0.08
+*** FLOP *** [6d Ah Qc]
+Lorpugo: checks 
+Stonedify: checks 
+*** TURN *** [6d Ah Qc] [Ks]
+Lorpugo: checks 
+Stonedify: bets $0.23
+Lorpugo: calls $0.23
+*** RIVER *** [6d Ah Qc Ks] [7s]
+Lorpugo: checks 
+Stonedify: bets $0.56
+Lorpugo: folds 
+Uncalled bet ($0.56) returned to Stonedify
+Stonedify collected $0.74 from pot
+Stonedify: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [6d Ah Qc Ks 7s]
+Seat 1: Stonedify collected ($0.74)
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 4: yonaikeralf (small blind) folded before Flop
+Seat 5: nsc01 (big blind) folded before Flop
+Seat 6: Lorpugo folded on the River
+
+
+
+PokerStars Hand #239383332663:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:30:46 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Stonedify ($2.54 in chips) 
+Seat 2: tjca123 ($2.27 in chips) 
+Seat 3: brosinro ($2 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.48 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+brosinro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5h]
+Stonedify: folds 
+tjca123: folds 
+brosinro: checks 
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: checks 
+*** FLOP *** [Qh Qs 7h]
+Lorpugo: checks 
+brosinro: checks 
+*** TURN *** [Qh Qs 7h] [6h]
+Lorpugo: bets $0.05
+brosinro: calls $0.05
+*** RIVER *** [Qh Qs 7h 6h] [5d]
+Lorpugo: bets $1.53 and is all-in
+brosinro: folds 
+Uncalled bet ($1.53) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh Qs 7h 6h 5d]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: brosinro folded on the River
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #239383342019:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:31:18 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2.54 in chips) 
+Seat 2: tjca123 ($2.27 in chips) 
+Seat 3: brosinro ($1.93 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.47 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2d]
+tjca123: folds 
+brosinro: calls $0.02
+yonaikeralf: raises $0.06 to $0.08
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: folds 
+brosinro: calls $0.06
+*** FLOP *** [As 4c 3s]
+brosinro: checks 
+tjca123 is disconnected 
+yonaikeralf: bets $0.06
+brosinro: calls $0.06
+*** TURN *** [As 4c 3s] [Jh]
+brosinro: checks 
+yonaikeralf: checks 
+*** RIVER *** [As 4c 3s Jh] [Qh]
+brosinro: checks 
+yonaikeralf: checks 
+*** SHOW DOWN ***
+brosinro: shows [4d 2s] (a pair of Fours)
+yonaikeralf: shows [Tc Qc] (a pair of Queens)
+yonaikeralf collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [As 4c 3s Jh Qh]
+Seat 1: Stonedify (big blind) folded before Flop
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: brosinro showed [4d 2s] and lost with a pair of Fours
+Seat 4: yonaikeralf showed [Tc Qc] and won ($0.30) with a pair of Queens
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383356047:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:32:08 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2.52 in chips) 
+Seat 3: brosinro ($1.79 in chips) 
+Seat 4: yonaikeralf ($2.16 in chips) 
+Seat 5: nsc01 ($2.47 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+Stonedify: posts small blind $0.01
+tjca123 has timed out while disconnected
+tjca123: is sitting out 
+brosinro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9s]
+yonaikeralf: folds 
+nsc01: raises $0.02 to $0.04
+Lorpugo: folds 
+Stonedify: folds 
+brosinro: calls $0.02
+*** FLOP *** [Ts 5d 4s]
+brosinro: bets $0.02
+nsc01: folds 
+Uncalled bet ($0.02) returned to brosinro
+brosinro collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ts 5d 4s]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 3: brosinro (big blind) collected ($0.09)
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded on the Flop
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383364262:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:32:36 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2.51 in chips) 
+Seat 3: brosinro ($1.84 in chips) 
+Seat 4: yonaikeralf ($2.16 in chips) 
+Seat 5: nsc01 ($2.43 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+brosinro: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8d]
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: folds 
+brosinro: raises $0.04 to $0.06
+yonaikeralf: calls $0.04
+*** FLOP *** [4d Tc Qd]
+brosinro: checks 
+yonaikeralf: checks 
+*** TURN *** [4d Tc Qd] [4h]
+brosinro: bets $0.06
+yonaikeralf: folds 
+Uncalled bet ($0.06) returned to brosinro
+brosinro collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4d Tc Qd 4h]
+Seat 1: Stonedify (button) folded before Flop (didn't bet)
+Seat 3: brosinro (small blind) collected ($0.12)
+Seat 4: yonaikeralf (big blind) folded on the Turn
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383375220:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:33:15 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: Stonedify ($2.51 in chips) 
+Seat 3: brosinro ($1.90 in chips) 
+Seat 4: yonaikeralf ($2.10 in chips) 
+Seat 5: nsc01 ($2.43 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+yonaikeralf: posts small blind $0.01
+nsc01: posts big blind $0.02
+tjca123: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4c]
+Lorpugo: folds 
+Stonedify: raises $0.04 to $0.06
+brosinro: calls $0.06
+yonaikeralf: folds 
+nsc01: calls $0.04
+*** FLOP *** [6c Qh 5c]
+nsc01: checks 
+Stonedify: checks 
+brosinro: bets $0.09
+nsc01: folds 
+Stonedify: calls $0.09
+*** TURN *** [6c Qh 5c] [3d]
+Stonedify: checks 
+brosinro: bets $0.18
+Stonedify: folds 
+Uncalled bet ($0.18) returned to brosinro
+brosinro collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [6c Qh 5c 3d]
+Seat 1: Stonedify folded on the Turn
+Seat 3: brosinro (button) collected ($0.36)
+Seat 4: yonaikeralf (small blind) folded before Flop
+Seat 5: nsc01 (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383387474:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:33:57 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Stonedify ($2.36 in chips) 
+Seat 3: brosinro ($2.11 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2.37 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+tjca123: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 5c]
+Stonedify: raises $0.04 to $0.06
+brosinro: calls $0.06
+yonaikeralf: folds 
+nsc01: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [Th 3h 4h]
+nsc01: checks 
+Stonedify: checks 
+brosinro: checks 
+*** TURN *** [Th 3h 4h] [2h]
+nsc01: checks 
+Stonedify: checks 
+brosinro: bets $0.10
+nsc01: folds 
+Stonedify: folds 
+Uncalled bet ($0.10) returned to brosinro
+brosinro collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Th 3h 4h 2h]
+Seat 1: Stonedify folded on the Turn
+Seat 3: brosinro collected ($0.19)
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383396199:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:34:27 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2.30 in chips) 
+Seat 3: brosinro ($2.24 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2.31 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+tjca123: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7s]
+brosinro: calls $0.02
+yonaikeralf: folds 
+nsc01: raises $0.02 to $0.04
+Lorpugo: raises $0.12 to $0.16
+Stonedify: folds 
+brosinro: calls $0.14
+nsc01: calls $0.12
+*** FLOP *** [9c 4d Qc]
+Lorpugo: checks 
+brosinro: checks 
+nsc01: checks 
+*** TURN *** [9c 4d Qc] [3d]
+Lorpugo: checks 
+brosinro: checks 
+nsc01: checks 
+*** RIVER *** [9c 4d Qc 3d] [As]
+Lorpugo: checks 
+brosinro: checks 
+nsc01: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [8s 7s] (high card Ace)
+brosinro: shows [Jh Kh] (high card Ace - King kicker)
+nsc01: mucks hand 
+brosinro collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9c 4d Qc 3d As]
+Seat 1: Stonedify (big blind) folded before Flop
+Seat 3: brosinro showed [Jh Kh] and won ($0.48) with high card Ace
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 (button) mucked [5s 6s]
+Seat 6: Lorpugo (small blind) showed [8s 7s] and lost with high card Ace
+
+
+
+PokerStars Hand #239383410156:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:35:15 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2.28 in chips) 
+Seat 2: tjca123 ($2.27 in chips) 
+Seat 3: brosinro ($2.56 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2.15 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Stonedify: posts small blind $0.01
+tjca123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 3h]
+brosinro: calls $0.02
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: folds 
+tjca123: checks 
+*** FLOP *** [Ks Kd 6h]
+tjca123: bets $0.05
+brosinro: folds 
+Uncalled bet ($0.05) returned to tjca123
+tjca123 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ks Kd 6h]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 2: tjca123 (big blind) collected ($0.05)
+Seat 3: brosinro folded on the Flop
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383419586:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:35:47 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2.27 in chips) 
+Seat 2: tjca123 ($2.30 in chips) 
+Seat 3: brosinro ($2.54 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2.15 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+tjca123: posts small blind $0.01
+brosinro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 8d]
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: raises $0.08 to $0.14
+tjca123: folds 
+brosinro: calls $0.12
+Lorpugo: folds 
+*** FLOP *** [9h Th Jc]
+brosinro: checks 
+Stonedify: checks 
+*** TURN *** [9h Th Jc] [5c]
+brosinro: bets $0.17
+Stonedify: folds 
+Uncalled bet ($0.17) returned to brosinro
+brosinro collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9h Th Jc 5c]
+Seat 1: Stonedify (button) folded on the Turn
+Seat 2: tjca123 (small blind) folded before Flop
+Seat 3: brosinro (big blind) collected ($0.34)
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #239383434436:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:36:38 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: Stonedify ($2.13 in chips) 
+Seat 2: tjca123 ($2.29 in chips) 
+Seat 3: brosinro ($2.74 in chips) 
+Seat 4: yonaikeralf ($2.09 in chips) 
+Seat 5: nsc01 ($2.15 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+brosinro: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 3c]
+nsc01: raises $0.02 to $0.04
+Lorpugo: folds 
+Stonedify: folds 
+tjca123: folds 
+brosinro: folds 
+yonaikeralf: folds 
+Uncalled bet ($0.02) returned to nsc01
+nsc01 collected $0.05 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: tjca123 (button) folded before Flop (didn't bet)
+Seat 3: brosinro (small blind) folded before Flop
+Seat 4: yonaikeralf (big blind) folded before Flop
+Seat 5: nsc01 collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383438456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:36:53 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: Stonedify ($2.13 in chips) 
+Seat 2: tjca123 ($2.29 in chips) 
+Seat 3: brosinro ($2.73 in chips) 
+Seat 4: yonaikeralf ($2.07 in chips) 
+Seat 5: nsc01 ($2.18 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+yonaikeralf: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7s]
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+tjca123: folds 
+brosinro: folds 
+yonaikeralf: raises $0.12 to $0.18
+nsc01: folds 
+Lorpugo: calls $0.12
+*** FLOP *** [Qd 6c 3h]
+yonaikeralf: bets $0.12
+Lorpugo: calls $0.12
+*** TURN *** [Qd 6c 3h] [6s]
+yonaikeralf is disconnected 
+yonaikeralf is connected 
+yonaikeralf has timed out
+yonaikeralf: checks 
+tjca123 leaves the table
+Lorpugo: bets $0.40
+yonaikeralf: folds 
+Uncalled bet ($0.40) returned to Lorpugo
+Lorpugo collected $0.60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [Qd 6c 3h 6s]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: tjca123 folded before Flop (didn't bet)
+Seat 3: brosinro (button) folded before Flop (didn't bet)
+Seat 4: yonaikeralf (small blind) folded on the Turn
+Seat 5: nsc01 (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.60)
+
+
+
+PokerStars Hand #239383471125:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:38:46 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Stonedify ($2.13 in chips) 
+Seat 3: brosinro ($2.73 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.16 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ad]
+STASSLON joins the table at seat #2 
+Stonedify: raises $0.05 to $0.07
+brosinro: folds 
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: calls $0.05
+*** FLOP *** [8c 9c 2d]
+Lorpugo: checks 
+Stonedify: checks 
+*** TURN *** [8c 9c 2d] [Td]
+Lorpugo: bets $0.18
+Stonedify: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8c 9c 2d Td]
+Seat 1: Stonedify folded on the Turn
+Seat 3: brosinro folded before Flop (didn't bet)
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #239383482040:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:39:24 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2.06 in chips) 
+Seat 2: STASSLON ($1.20 in chips) 
+Seat 3: brosinro ($2.73 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.15 in chips) 
+Seat 6: Lorpugo ($1.97 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+STASSLON: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5c]
+STASSLON: checks 
+brosinro: calls $0.02
+yonaikeralf: folds 
+nsc01: calls $0.02
+Lorpugo: folds 
+Stonedify: checks 
+*** FLOP *** [Jh Js 2d]
+Stonedify: checks 
+STASSLON: checks 
+brosinro: checks 
+nsc01: checks 
+*** TURN *** [Jh Js 2d] [5h]
+Stonedify: checks 
+STASSLON: checks 
+brosinro: checks 
+nsc01: checks 
+*** RIVER *** [Jh Js 2d 5h] [9h]
+Stonedify: checks 
+STASSLON: checks 
+brosinro: bets $0.02
+nsc01: folds 
+Stonedify: calls $0.02
+STASSLON: folds 
+*** SHOW DOWN ***
+brosinro: shows [Qh Ah] (a flush, Ace high)
+Stonedify: mucks hand 
+brosinro collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jh Js 2d 5h 9h]
+Seat 1: Stonedify (big blind) mucked [9s Qs]
+Seat 2: STASSLON folded on the River (didn't bet)
+Seat 3: brosinro showed [Qh Ah] and won ($0.13) with a flush, Ace high
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded on the River
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383497148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:40:17 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2.02 in chips) 
+Seat 2: STASSLON ($1.18 in chips) 
+Seat 3: brosinro ($2.82 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.13 in chips) 
+Seat 6: Lorpugo ($1.96 in chips) 
+Stonedify: posts small blind $0.01
+STASSLON: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ac]
+brosinro: calls $0.02
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+STASSLON: calls $0.04
+brosinro: calls $0.04
+*** FLOP *** [9s Jd As]
+STASSLON: checks 
+brosinro: checks 
+Lorpugo: checks 
+*** TURN *** [9s Jd As] [Ks]
+STASSLON: checks 
+brosinro: checks 
+Lorpugo: bets $0.12
+STASSLON: folds 
+brosinro: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9s Jd As Ks]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 2: STASSLON (big blind) folded on the Turn
+Seat 3: brosinro folded on the Turn
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.18)
+
+
+
+PokerStars Hand #239383512944:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:41:11 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2.01 in chips) 
+Seat 2: STASSLON ($1.12 in chips) 
+Seat 3: brosinro ($2.76 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.13 in chips) 
+Seat 6: Lorpugo ($2.08 in chips) 
+STASSLON: posts small blind $0.01
+brosinro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7s]
+yonaikeralf: folds 
+nsc01: raises $0.02 to $0.04
+Lorpugo: folds 
+Stonedify: folds 
+STASSLON: calls $0.03
+brosinro: folds 
+*** FLOP *** [9s 4s Jd]
+brosinro leaves the table
+STASSLON: bets $0.02
+nsc01: raises $0.07 to $0.09
+AlGzl joins the table at seat #3 
+STASSLON: folds 
+Uncalled bet ($0.07) returned to nsc01
+nsc01 collected $0.14 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s 4s Jd]
+Seat 1: Stonedify (button) folded before Flop (didn't bet)
+Seat 2: STASSLON (small blind) folded on the Flop
+Seat 3: brosinro (big blind) folded before Flop
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 collected ($0.14)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383520849:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:41:39 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: Stonedify ($2.01 in chips) 
+Seat 2: STASSLON ($1.06 in chips) 
+Seat 4: yonaikeralf ($2 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.08 in chips) 
+yonaikeralf: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7s]
+Lorpugo: folds 
+Stonedify: folds 
+STASSLON: calls $0.02
+yonaikeralf: calls $0.01
+nsc01: checks 
+*** FLOP *** [Ks 9h 7h]
+yonaikeralf: checks 
+nsc01: checks 
+STASSLON: checks 
+*** TURN *** [Ks 9h 7h] [8c]
+yonaikeralf: checks 
+nsc01: checks 
+STASSLON: checks 
+*** RIVER *** [Ks 9h 7h 8c] [Qd]
+yonaikeralf: checks 
+nsc01: checks 
+STASSLON: checks 
+*** SHOW DOWN ***
+yonaikeralf: shows [5h 5d] (a pair of Fives)
+nsc01: mucks hand 
+STASSLON: mucks hand 
+yonaikeralf collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ks 9h 7h 8c Qd]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: STASSLON (button) mucked [6c 4c]
+Seat 4: yonaikeralf (small blind) showed [5h 5d] and won ($0.06) with a pair of Fives
+Seat 5: nsc01 (big blind) mucked [Ts 3s]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383548936:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:43:14 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Stonedify ($2.01 in chips) 
+Seat 2: STASSLON ($1.04 in chips) 
+Seat 3: AlGzl ($2 in chips) 
+Seat 4: yonaikeralf ($2.04 in chips) 
+Seat 5: nsc01 ($2.19 in chips) 
+Seat 6: Lorpugo ($2.08 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+AlGzl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 4h]
+Stonedify: folds 
+STASSLON: calls $0.02
+AlGzl: checks 
+yonaikeralf: folds 
+nsc01: raises $0.08 to $0.10
+Lorpugo: folds 
+STASSLON has timed out
+STASSLON: folds 
+AlGzl: folds 
+Uncalled bet ($0.08) returned to nsc01
+nsc01 collected $0.08 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: STASSLON folded before Flop
+Seat 3: AlGzl folded before Flop (didn't bet)
+Seat 4: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) collected ($0.08)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383563892:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:44:05 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2.01 in chips) 
+Seat 3: AlGzl ($1.98 in chips) 
+Seat 4: yonaikeralf ($2.04 in chips) 
+Seat 5: nsc01 ($2.25 in chips) 
+Seat 6: Lorpugo ($2.06 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3d]
+AlGzl: folds 
+yonaikeralf: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: calls $0.04
+*** FLOP *** [Tc 5h Kh]
+Lorpugo: bets $0.04
+Stonedify: calls $0.04
+*** TURN *** [Tc 5h Kh] [Ad]
+Lorpugo: bets $0.13
+Stonedify: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Tc 5h Kh Ad]
+Seat 1: Stonedify (big blind) folded on the Turn
+Seat 3: AlGzl folded before Flop (didn't bet)
+Seat 4: yonaikeralf folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #239383572560:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:44:34 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 3: AlGzl ($1.98 in chips) 
+Seat 4: yonaikeralf ($2.04 in chips) 
+Seat 5: nsc01 ($2.25 in chips) 
+Seat 6: Lorpugo ($2.15 in chips) 
+Stonedify: posts small blind $0.01
+AlGzl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 5d]
+yonaikeralf: raises $0.04 to $0.06
+nsc01: folds 
+Lorpugo: calls $0.06
+Stonedify: folds 
+AlGzl: calls $0.04
+*** FLOP *** [4c 4d Kc]
+AlGzl: checks 
+yonaikeralf: checks 
+Lorpugo: bets $0.09
+AlGzl: folds 
+yonaikeralf has timed out
+yonaikeralf: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4c 4d Kc]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 3: AlGzl (big blind) folded on the Flop
+Seat 4: yonaikeralf folded on the Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.18)
+
+
+
+PokerStars Hand #239383590288:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:45:34 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 3: AlGzl ($1.92 in chips) 
+Seat 5: nsc01 ($2.25 in chips) 
+Seat 6: Lorpugo ($2.27 in chips) 
+AlGzl: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5s]
+Lorpugo: folds 
+Stonedify: folds 
+AlGzl: folds 
+Uncalled bet ($0.01) returned to nsc01
+nsc01 collected $0.02 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Stonedify (button) folded before Flop (didn't bet)
+Seat 3: AlGzl (small blind) folded before Flop
+Seat 5: nsc01 (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383595174:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:45:51 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($1.02 in chips) 
+Seat 3: AlGzl ($1.91 in chips) 
+Seat 5: nsc01 ($2.26 in chips) 
+Seat 6: Lorpugo ($2.27 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+STASSLON: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 6d]
+Stonedify: folds 
+STASSLON: checks 
+AlGzl: folds 
+nsc01: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Kc 2s 8c]
+nsc01: checks 
+Lorpugo: checks 
+STASSLON: checks 
+*** TURN *** [Kc 2s 8c] [2h]
+nsc01: checks 
+Lorpugo: bets $0.03
+STASSLON: folds 
+nsc01: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Kc 2s 8c 2h]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: STASSLON folded on the Turn (didn't bet)
+Seat 3: AlGzl (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) collected ($0.07)
+
+
+
+PokerStars Hand #239383609826:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:46:39 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.99 in chips) 
+Seat 3: AlGzl ($1.91 in chips) 
+Seat 5: nsc01 ($2.24 in chips) 
+Seat 6: Lorpugo ($2.32 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d As]
+STASSLON: raises $0.02 to $0.04
+AlGzl: calls $0.04
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: calls $0.02
+*** FLOP *** [4c 6s 4s]
+Stonedify: checks 
+STASSLON: bets $0.04
+AlGzl: calls $0.04
+Stonedify: folds 
+*** TURN *** [4c 6s 4s] [Ts]
+STASSLON: checks 
+AlGzl: bets $0.06
+STASSLON: folds 
+Uncalled bet ($0.06) returned to AlGzl
+AlGzl collected $0.20 from pot
+AlGzl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4c 6s 4s Ts]
+Seat 1: Stonedify (big blind) folded on the Flop
+Seat 2: STASSLON folded on the Turn
+Seat 3: AlGzl collected ($0.20)
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383627200:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:47:37 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.91 in chips) 
+Seat 3: AlGzl ($2.03 in chips) 
+Seat 5: nsc01 ($2.24 in chips) 
+Seat 6: Lorpugo ($2.31 in chips) 
+Stonedify: posts small blind $0.01
+STASSLON: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4c]
+AlGzl: folds 
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: folds 
+Uncalled bet ($0.01) returned to STASSLON
+STASSLON collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 2: STASSLON (big blind) collected ($0.02)
+Seat 3: AlGzl folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383629876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:47:46 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.92 in chips) 
+Seat 3: AlGzl ($2.03 in chips) 
+Seat 5: nsc01 ($2.24 in chips) 
+Seat 6: Lorpugo ($2.31 in chips) 
+STASSLON: posts small blind $0.01
+AlGzl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qs]
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: raises $0.04 to $0.06
+STASSLON: folds 
+AlGzl: folds 
+Uncalled bet ($0.04) returned to Stonedify
+Stonedify collected $0.05 from pot
+Stonedify: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Stonedify (button) collected ($0.05)
+Seat 2: STASSLON (small blind) folded before Flop
+Seat 3: AlGzl (big blind) folded before Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383634081:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:48:00 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: Stonedify ($2.03 in chips) 
+Seat 2: STASSLON ($0.91 in chips) 
+Seat 3: AlGzl ($2.01 in chips) 
+Seat 5: nsc01 ($2.24 in chips) 
+Seat 6: Lorpugo ($2.31 in chips) 
+AlGzl: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Qd]
+Lorpugo: raises $0.05 to $0.07
+Stonedify: raises $0.09 to $0.16
+STASSLON: folds 
+AlGzl: folds 
+nsc01: folds 
+Lorpugo: raises $0.35 to $0.51
+Stonedify: folds 
+Uncalled bet ($0.35) returned to Lorpugo
+Lorpugo collected $0.35 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Stonedify folded before Flop
+Seat 2: STASSLON (button) folded before Flop (didn't bet)
+Seat 3: AlGzl (small blind) folded before Flop
+Seat 5: nsc01 (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.35)
+
+
+
+PokerStars Hand #239383641580:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:48:25 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.91 in chips) 
+Seat 3: AlGzl ($2 in chips) 
+Seat 5: nsc01 ($2.22 in chips) 
+Seat 6: Lorpugo ($2.50 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Js]
+Stonedify: folds 
+STASSLON: calls $0.02
+AlGzl: folds 
+nsc01: folds 
+Lorpugo: raises $0.05 to $0.07
+STASSLON: calls $0.05
+*** FLOP *** [Ah 4s Qs]
+Lorpugo: bets $0.07
+STASSLON: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ah 4s Qs]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: STASSLON folded on the Flop
+Seat 3: AlGzl (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #239383650028:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:48:53 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.84 in chips) 
+Seat 3: AlGzl ($2 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.57 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Kh]
+STASSLON: folds 
+AlGzl: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Stonedify (big blind) folded before Flop
+Seat 2: STASSLON folded before Flop (didn't bet)
+Seat 3: AlGzl folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239383656060:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:49:13 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.84 in chips) 
+Seat 3: AlGzl ($2 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.59 in chips) 
+Stonedify: posts small blind $0.01
+STASSLON: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4s]
+AlGzl: raises $0.04 to $0.06
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: folds 
+STASSLON: calls $0.04
+*** FLOP *** [2d 7c 8h]
+STASSLON: checks 
+AlGzl: bets $0.06
+STASSLON: folds 
+Uncalled bet ($0.06) returned to AlGzl
+AlGzl collected $0.13 from pot
+AlGzl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d 7c 8h]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 2: STASSLON (big blind) folded on the Flop
+Seat 3: AlGzl collected ($0.13)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383668817:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:49:55 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.78 in chips) 
+Seat 3: AlGzl ($2.07 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.59 in chips) 
+STASSLON: posts small blind $0.01
+AlGzl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Js]
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+STASSLON: folds 
+AlGzl: calls $0.04
+*** FLOP *** [8c 4h Jc]
+AlGzl: checks 
+Lorpugo: bets $0.06
+AlGzl: calls $0.06
+*** TURN *** [8c 4h Jc] [8d]
+AlGzl: checks 
+Lorpugo: bets $0.08
+AlGzl: calls $0.08
+*** RIVER *** [8c 4h Jc 8d] [Qd]
+AlGzl: checks 
+Lorpugo: bets $0.24
+AlGzl: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [8c 4h Jc 8d Qd]
+Seat 1: Stonedify (button) folded before Flop (didn't bet)
+Seat 2: STASSLON (small blind) folded before Flop
+Seat 3: AlGzl (big blind) folded on the River
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.40)
+
+
+
+PokerStars Hand #239383689299:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:51:03 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 2: STASSLON ($0.77 in chips) 
+Seat 3: AlGzl ($1.87 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.79 in chips) 
+AlGzl: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7h]
+Lorpugo: folds 
+Stonedify: folds 
+STASSLON has timed out
+STASSLON: folds 
+AlGzl: folds 
+Uncalled bet ($0.01) returned to nsc01
+nsc01 collected $0.02 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 2: STASSLON (button) folded before Flop (didn't bet)
+Seat 3: AlGzl (small blind) folded before Flop
+Seat 5: nsc01 (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383695014:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:51:22 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 3: AlGzl ($1.86 in chips) 
+Seat 5: nsc01 ($2.22 in chips) 
+Seat 6: Lorpugo ($2.79 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Js]
+Stonedify: folds 
+AlGzl: folds 
+nsc01: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 3: AlGzl (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239383698006:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:51:32 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 3: AlGzl ($1.86 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.80 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 4c]
+AlGzl: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: calls $0.04
+*** FLOP *** [Jh 3h 9c]
+Lorpugo: bets $0.04
+Stonedify: calls $0.04
+*** TURN *** [Jh 3h 9c] [5d]
+Lorpugo: bets $0.06
+Stonedify: raises $0.22 to $0.28
+Lorpugo: folds 
+Uncalled bet ($0.22) returned to Stonedify
+Stonedify collected $0.31 from pot
+Stonedify: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jh 3h 9c 5d]
+Seat 1: Stonedify (big blind) collected ($0.31)
+Seat 3: AlGzl folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239383712310:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:52:20 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2.15 in chips) 
+Seat 3: AlGzl ($1.86 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.64 in chips) 
+Stonedify: posts small blind $0.01
+AlGzl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3h]
+nsc01 has timed out
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+AlGzl: calls $0.04
+*** FLOP *** [Kc 7d 6d]
+AlGzl: checks 
+Lorpugo: checks 
+*** TURN *** [Kc 7d 6d] [4s]
+AlGzl: checks 
+Lorpugo: checks 
+*** RIVER *** [Kc 7d 6d 4s] [Qd]
+AlGzl: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+AlGzl: shows [6h 4h] (two pair, Sixes and Fours)
+Lorpugo: mucks hand 
+AlGzl collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kc 7d 6d 4s Qd]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 3: AlGzl (big blind) showed [6h 4h] and won ($0.13) with two pair, Sixes and Fours
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) mucked [Ad 3h]
+
+
+
+PokerStars Hand #239383724874:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:53:03 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2.14 in chips) 
+Seat 3: AlGzl ($1.93 in chips) 
+Seat 5: nsc01 ($2.21 in chips) 
+Seat 6: Lorpugo ($2.58 in chips) 
+AlGzl: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Jh]
+Lorpugo: raises $0.04 to $0.06
+Stonedify: folds 
+AlGzl: calls $0.05
+nsc01: folds 
+*** FLOP *** [Qs 4d 2c]
+AlGzl: bets $0.07
+STASSLON is disconnected 
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to AlGzl
+AlGzl collected $0.14 from pot
+yonaikeralf leaves the table
+AlGzl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 4d 2c]
+Seat 1: Stonedify (button) folded before Flop (didn't bet)
+Seat 3: AlGzl (small blind) collected ($0.14)
+Seat 5: nsc01 (big blind) folded before Flop
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #239383732026:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:53:27 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: Stonedify ($2.14 in chips) 
+Seat 3: AlGzl ($2.01 in chips) 
+Seat 5: nsc01 ($2.19 in chips) 
+Seat 6: Lorpugo ($2.52 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Qc]
+Stonedify: folds 
+AlGzl: raises $0.04 to $0.06
+nsc01: folds 
+Lorpugo: raises $0.13 to $0.19
+AlGzl: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 3: AlGzl (button) folded before Flop
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #239383737133:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:53:45 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2.14 in chips) 
+Seat 3: AlGzl ($1.95 in chips) 
+Seat 5: nsc01 ($2.18 in chips) 
+Seat 6: Lorpugo ($2.59 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ks]
+AlGzl: folds 
+nsc01: raises $0.02 to $0.04
+muipoker joins the table at seat #4 
+Lorpugo: raises $0.10 to $0.14
+Stonedify: folds 
+nsc01: calls $0.10
+*** FLOP *** [8s 5s 8d]
+Lorpugo: bets $0.10
+nsc01: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.29 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8s 5s 8d]
+Seat 1: Stonedify (big blind) folded before Flop
+Seat 3: AlGzl folded before Flop (didn't bet)
+Seat 5: nsc01 (button) folded on the Flop
+Seat 6: Lorpugo (small blind) collected ($0.29)
+
+
+
+PokerStars Hand #239383747121:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:54:19 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2.12 in chips) 
+Seat 3: AlGzl ($1.95 in chips) 
+Seat 5: nsc01 ($2.04 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+Stonedify: posts small blind $0.01
+AlGzl: posts big blind $0.02
+muipoker: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 6d]
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: folds 
+Uncalled bet ($0.01) returned to AlGzl
+AlGzl collected $0.02 from pot
+AlGzl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 3: AlGzl (big blind) collected ($0.02)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383750280:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:54:30 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2.11 in chips) 
+Seat 3: AlGzl ($1.96 in chips) 
+Seat 4: muipoker ($0.80 in chips) 
+Seat 5: nsc01 ($2.04 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+AlGzl: posts small blind $0.01
+muipoker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2h]
+nsc01: folds 
+Lorpugo: folds 
+Stonedify: raises $0.04 to $0.06
+AlGzl: folds 
+muipoker: folds 
+Uncalled bet ($0.04) returned to Stonedify
+Stonedify collected $0.05 from pot
+Stonedify: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Stonedify (button) collected ($0.05)
+Seat 3: AlGzl (small blind) folded before Flop
+Seat 4: muipoker (big blind) folded before Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383754649:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:54:45 ET
+Table 'Hadir' 6-max Seat #3 is the button
+Seat 1: Stonedify ($2.14 in chips) 
+Seat 3: AlGzl ($1.95 in chips) 
+Seat 4: muipoker ($0.78 in chips) 
+Seat 5: nsc01 ($2.04 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+muipoker: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2d]
+Lorpugo: folds 
+Stonedify: folds 
+AlGzl: raises $0.04 to $0.06
+muipoker: folds 
+nsc01: calls $0.04
+*** FLOP *** [Qs 9d 7d]
+nsc01: bets $0.07
+AlGzl: calls $0.07
+*** TURN *** [Qs 9d 7d] [Tc]
+nsc01: bets $0.26
+AlGzl: calls $0.26
+*** RIVER *** [Qs 9d 7d Tc] [9h]
+nsc01: checks 
+AlGzl: bets $0.38
+nsc01: calls $0.38
+*** SHOW DOWN ***
+AlGzl: shows [8h Qh] (two pair, Queens and Nines)
+nsc01: shows [Jd 8d] (a straight, Eight to Queen)
+nsc01 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [Qs 9d 7d Tc 9h]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 3: AlGzl (button) showed [8h Qh] and lost with two pair, Queens and Nines
+Seat 4: muipoker (small blind) folded before Flop
+Seat 5: nsc01 (big blind) showed [Jd 8d] and won ($1.50) with a straight, Eight to Queen
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383770992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:55:52 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Stonedify ($2.14 in chips) 
+Seat 3: AlGzl ($1.18 in chips) 
+Seat 4: muipoker ($0.77 in chips) 
+Seat 5: nsc01 ($2.77 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ah]
+Stonedify: raises $0.04 to $0.06
+AlGzl: calls $0.06
+muipoker: folds 
+nsc01: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [Ts 8c 5d]
+nsc01: bets $0.12
+Lorpugo: folds 
+Stonedify: calls $0.12
+AlGzl: folds 
+*** TURN *** [Ts 8c 5d] [9s]
+nsc01: bets $2.59 and is all-in
+Stonedify: folds 
+Uncalled bet ($2.59) returned to nsc01
+nsc01 collected $0.46 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Ts 8c 5d 9s]
+Seat 1: Stonedify folded on the Turn
+Seat 3: AlGzl folded on the Flop
+Seat 4: muipoker (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) collected ($0.46)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239383781087:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:56:37 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 3: AlGzl ($1.12 in chips) 
+Seat 4: muipoker ($0.77 in chips) 
+Seat 5: nsc01 ($3.05 in chips) 
+Seat 6: Lorpugo ($2.68 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Jh]
+AlGzl: raises $0.04 to $0.06
+muipoker: folds 
+nsc01: calls $0.06
+Lorpugo: folds 
+Stonedify: folds 
+*** FLOP *** [5h Qc Ad]
+AlGzl: bets $0.07
+nsc01: calls $0.07
+*** TURN *** [5h Qc Ad] [Th]
+AlGzl: checks 
+nsc01: bets $1.02
+AlGzl: folds 
+Uncalled bet ($1.02) returned to nsc01
+nsc01 collected $0.28 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [5h Qc Ad Th]
+Seat 1: Stonedify (big blind) folded before Flop
+Seat 3: AlGzl folded on the Turn
+Seat 4: muipoker folded before Flop (didn't bet)
+Seat 5: nsc01 (button) collected ($0.28)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383792009:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:57:26 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 3: AlGzl ($0.99 in chips) 
+Seat 4: muipoker ($0.77 in chips) 
+Seat 5: nsc01 ($3.20 in chips) 
+Seat 6: Lorpugo ($2.67 in chips) 
+Stonedify: posts small blind $0.01
+AlGzl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5d]
+muipoker: folds 
+nsc01: raises $0.02 to $0.04
+Lorpugo: folds 
+Stonedify: folds 
+AlGzl: raises $0.02 to $0.06
+nsc01: calls $0.02
+*** FLOP *** [Kc 5s Ks]
+AlGzl: checks 
+nsc01: checks 
+*** TURN *** [Kc 5s Ks] [7s]
+AlGzl: checks 
+nsc01: checks 
+*** RIVER *** [Kc 5s Ks 7s] [Ac]
+AlGzl: checks 
+nsc01: bets $3.14 and is all-in
+AlGzl: calls $0.93 and is all-in
+Uncalled bet ($2.21) returned to nsc01
+*** SHOW DOWN ***
+nsc01: shows [Th Kh] (three of a kind, Kings)
+AlGzl: shows [2c Ad] (two pair, Aces and Kings)
+nsc01 collected $1.92 from pot
+*** SUMMARY ***
+Total pot $1.99 | Rake $0.07 
+Board [Kc 5s Ks 7s Ac]
+Seat 1: Stonedify (small blind) folded before Flop
+Seat 3: AlGzl (big blind) showed [2c Ad] and lost with two pair, Aces and Kings
+Seat 4: muipoker folded before Flop (didn't bet)
+Seat 5: nsc01 showed [Th Kh] and won ($1.92) with three of a kind, Kings
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383803901:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:58:19 ET
+Table 'Hadir' 6-max Seat #1 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 4: muipoker ($0.77 in chips) 
+Seat 5: nsc01 ($4.13 in chips) 
+Seat 6: Lorpugo ($2.67 in chips) 
+muipoker: posts small blind $0.01
+nsc01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 2s]
+Lorpugo: folds 
+Stonedify: folds 
+muipoker: calls $0.01
+nsc01: checks 
+*** FLOP *** [8s Td Ts]
+muipoker: checks 
+nsc01: bets $0.04
+muipoker: calls $0.04
+*** TURN *** [8s Td Ts] [9d]
+muipoker: checks 
+nsc01: checks 
+*** RIVER *** [8s Td Ts 9d] [4s]
+muipoker: bets $0.12
+nsc01: folds 
+Uncalled bet ($0.12) returned to muipoker
+muipoker collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s Td Ts 9d 4s]
+Seat 1: Stonedify (button) folded before Flop (didn't bet)
+Seat 4: muipoker (small blind) collected ($0.12)
+Seat 5: nsc01 (big blind) folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383812007:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:58:56 ET
+Table 'Hadir' 6-max Seat #4 is the button
+Seat 1: Stonedify ($2 in chips) 
+Seat 3: AlGzl ($2 in chips) 
+Seat 4: muipoker ($0.83 in chips) 
+Seat 5: nsc01 ($4.07 in chips) 
+Seat 6: Lorpugo ($2.67 in chips) 
+nsc01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+AlGzl: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Qd]
+Stonedify: folds 
+AlGzl: raises $0.04 to $0.06
+muipoker: folds 
+nsc01: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [7h Qc 9h]
+Lorpugo: bets $0.05
+AlGzl: calls $0.05
+*** TURN *** [7h Qc 9h] [8h]
+Lorpugo: bets $0.11
+AlGzl: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7h Qc 9h 8h]
+Seat 1: Stonedify folded before Flop (didn't bet)
+Seat 3: AlGzl folded on the Turn
+Seat 4: muipoker (button) folded before Flop (didn't bet)
+Seat 5: nsc01 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.23)
+
+
+
+PokerStars Hand #239383823229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:59:46 ET
+Table 'Hadir' 6-max Seat #5 is the button
+Seat 2: STASSLON ($0.77 in chips) 
+Seat 3: AlGzl ($1.88 in chips) 
+Seat 4: muipoker ($0.83 in chips) 
+Seat 5: nsc01 ($4.06 in chips) 
+Seat 6: Lorpugo ($2.79 in chips) 
+Lorpugo: posts small blind $0.01
+Stonedify: is sitting out 
+STASSLON: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kc]
+AlGzl: folds 
+Stonedify leaves the table
+muipoker: folds 
+KRandall12 joins the table at seat #1 
+nsc01: calls $0.02
+Lorpugo: calls $0.01
+STASSLON: raises $0.02 to $0.04
+nsc01: calls $0.02
+Lorpugo: folds 
+*** FLOP *** [5c Qh Ts]
+STASSLON: bets $0.05
+nsc01: calls $0.05
+*** TURN *** [5c Qh Ts] [9s]
+STASSLON: checks 
+nsc01: bets $0.19
+STASSLON: calls $0.19
+*** RIVER *** [5c Qh Ts 9s] [Td]
+STASSLON: checks 
+nsc01: bets $0.34
+STASSLON: folds 
+Uncalled bet ($0.34) returned to nsc01
+nsc01 collected $0.56 from pot
+nsc01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [5c Qh Ts 9s Td]
+Seat 2: STASSLON (big blind) folded on the River
+Seat 3: AlGzl folded before Flop (didn't bet)
+Seat 4: muipoker folded before Flop (didn't bet)
+Seat 5: nsc01 (button) collected ($0.56)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383839603:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 12:00:55 ET
+Table 'Hadir' 6-max Seat #6 is the button
+Seat 2: STASSLON ($0.49 in chips) 
+Seat 3: AlGzl ($1.88 in chips) 
+Seat 4: muipoker ($0.83 in chips) 
+Seat 5: nsc01 ($4.34 in chips) 
+Seat 6: Lorpugo ($2.77 in chips) 
+STASSLON: posts small blind $0.01
+AlGzl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6s]
+muipoker: folds 
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+STASSLON: folds 
+AlGzl: calls $0.04
+*** FLOP *** [Qd 4s 7c]
+AlGzl: checks 
+Lorpugo: bets $0.06
+AlGzl: calls $0.06
+*** TURN *** [Qd 4s 7c] [Kh]
+AlGzl: checks 
+Lorpugo: checks 
+*** RIVER *** [Qd 4s 7c Kh] [9s]
+AlGzl: bets $0.12
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to AlGzl
+AlGzl collected $0.24 from pot
+AlGzl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qd 4s 7c Kh 9s]
+Seat 2: STASSLON (small blind) folded before Flop
+Seat 3: AlGzl (big blind) collected ($0.24)
+Seat 4: muipoker folded before Flop (didn't bet)
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded on the River
+
+
+
+PokerStars Hand #239383854949:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 12:01:52 ET
+Table 'Hadir' 6-max Seat #2 is the button
+Seat 2: STASSLON ($0.48 in chips) 
+Seat 3: AlGzl ($2 in chips) 
+Seat 4: muipoker ($0.83 in chips) 
+Seat 5: nsc01 ($4.34 in chips) 
+Seat 6: Lorpugo ($2.65 in chips) 
+AlGzl: posts small blind $0.01
+muipoker: posts big blind $0.02
+KRandall12: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 7s]
+nsc01: folds 
+Lorpugo: raises $0.04 to $0.06
+STASSLON: folds 
+AlGzl: folds 
+muipoker: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: STASSLON (button) folded before Flop (didn't bet)
+Seat 3: AlGzl (small blind) folded before Flop
+Seat 4: muipoker (big blind) folded before Flop
+Seat 5: nsc01 folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+

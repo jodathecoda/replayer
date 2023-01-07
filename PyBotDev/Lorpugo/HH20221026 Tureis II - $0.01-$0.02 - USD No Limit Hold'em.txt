@@ -1,0 +1,712 @@
+﻿PokerStars Hand #239469020883:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:17:21 ET
+Table 'Tureis II' 6-max Seat #2 is the button
+Seat 2: JoseDavidk ($1.64 in chips) 
+Seat 3: axel030997 ($1.65 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: MARUSYA94 ($3.24 in chips) 
+Seat 6: vartl ($2.03 in chips) 
+axel030997: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qd]
+MARUSYA94: folds 
+NTIVA2022 leaves the table
+vartl: folds 
+JoseDavidk: calls $0.02
+axel030997: calls $0.01
+Asmodeus DCLXVI joins the table at seat #1 
+Lorpugo: raises $0.12 to $0.14
+JoseDavidk: calls $0.12
+axel030997: folds 
+*** FLOP *** [As 2d Ac]
+Lorpugo: checks 
+JoseDavidk: bets $1.50 and is all-in
+Lorpugo: calls $1.46 and is all-in
+Uncalled bet ($0.04) returned to JoseDavidk
+*** TURN *** [As 2d Ac] [Qh]
+*** RIVER *** [As 2d Ac Qh] [7d]
+*** SHOW DOWN ***
+Lorpugo: shows [9d Qd] (two pair, Aces and Queens)
+JoseDavidk: shows [Td Th] (two pair, Aces and Tens)
+Lorpugo collected $3.11 from pot
+*** SUMMARY ***
+Total pot $3.22 | Rake $0.11 
+Board [As 2d Ac Qh 7d]
+Seat 2: JoseDavidk (button) showed [Td Th] and lost with two pair, Aces and Tens
+Seat 3: axel030997 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [9d Qd] and won ($3.11) with two pair, Aces and Queens
+Seat 5: MARUSYA94 folded before Flop (didn't bet)
+Seat 6: vartl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469036153:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:18:00 ET
+Table 'Tureis II' 6-max Seat #3 is the button
+Seat 2: JoseDavidk ($0.04 in chips) 
+Seat 3: axel030997 ($1.63 in chips) 
+Seat 4: Lorpugo ($3.11 in chips) 
+Seat 5: MARUSYA94 ($3.24 in chips) 
+Seat 6: vartl ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+MARUSYA94: posts big blind $0.02
+Asmodeus DCLXVI: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Kd]
+vartl: raises $0.02 to $0.04
+JoseDavidk: folds 
+axel030997: calls $0.04
+Lorpugo: calls $0.03
+MARUSYA94: calls $0.02
+*** FLOP *** [Th As 6c]
+Lorpugo: checks 
+MARUSYA94: checks 
+vartl: bets $0.08
+axel030997: folds 
+Lorpugo: folds 
+MARUSYA94: folds 
+Uncalled bet ($0.08) returned to vartl
+vartl collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Th As 6c]
+Seat 2: JoseDavidk folded before Flop (didn't bet)
+Seat 3: axel030997 (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 5: MARUSYA94 (big blind) folded on the Flop
+Seat 6: vartl collected ($0.15)
+
+
+
+PokerStars Hand #239469054111:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:18:46 ET
+Table 'Tureis II' 6-max Seat #4 is the button
+Seat 2: JoseDavidk ($0.04 in chips) 
+Seat 3: axel030997 ($1.59 in chips) 
+Seat 4: Lorpugo ($3.07 in chips) 
+Seat 5: MARUSYA94 ($3.20 in chips) 
+Seat 6: vartl ($2.14 in chips) 
+MARUSYA94: posts small blind $0.01
+vartl: posts big blind $0.02
+Asmodeus DCLXVI: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7c]
+JoseDavidk: raises $0.02 to $0.04 and is all-in
+axel030997: raises $0.12 to $0.16
+Lorpugo: folds 
+MARUSYA94: folds 
+vartl: folds 
+Uncalled bet ($0.12) returned to axel030997
+*** FLOP *** [7h 7s Qc]
+*** TURN *** [7h 7s Qc] [6s]
+*** RIVER *** [7h 7s Qc 6s] [6c]
+*** SHOW DOWN ***
+JoseDavidk: shows [4s Jh] (two pair, Sevens and Sixes)
+axel030997: shows [As Qs] (two pair, Queens and Sevens)
+axel030997 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7h 7s Qc 6s 6c]
+Seat 2: JoseDavidk showed [4s Jh] and lost with two pair, Sevens and Sixes
+Seat 3: axel030997 showed [As Qs] and won ($0.11) with two pair, Queens and Sevens
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: MARUSYA94 (small blind) folded before Flop
+Seat 6: vartl (big blind) folded before Flop
+
+
+
+PokerStars Hand #239469063788:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:19:11 ET
+Table 'Tureis II' 6-max Seat #5 is the button
+Seat 1: Asmodeus DCLXVI ($0.80 in chips) 
+Seat 3: axel030997 ($1.66 in chips) 
+Seat 4: Lorpugo ($3.07 in chips) 
+Seat 5: MARUSYA94 ($3.19 in chips) 
+Seat 6: vartl ($2.12 in chips) 
+vartl: posts small blind $0.01
+Asmodeus DCLXVI: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Qh]
+axel030997: folds 
+Lorpugo: raises $0.04 to $0.06
+MARUSYA94: folds 
+vartl: folds 
+Asmodeus DCLXVI: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Asmodeus DCLXVI (big blind) folded before Flop
+Seat 3: axel030997 folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: MARUSYA94 (button) folded before Flop (didn't bet)
+Seat 6: vartl (small blind) folded before Flop
+
+
+
+PokerStars Hand #239469069463:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:19:26 ET
+Table 'Tureis II' 6-max Seat #6 is the button
+Seat 1: Asmodeus DCLXVI ($0.78 in chips) 
+Seat 3: axel030997 ($1.66 in chips) 
+Seat 4: Lorpugo ($3.10 in chips) 
+Seat 5: MARUSYA94 ($3.19 in chips) 
+Seat 6: vartl ($2.11 in chips) 
+Asmodeus DCLXVI: posts small blind $0.01
+axel030997: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2d]
+Lorpugo: folds 
+MARUSYA94: folds 
+vartl: raises $0.02 to $0.04
+Asmodeus DCLXVI: folds 
+axel030997: folds 
+Uncalled bet ($0.02) returned to vartl
+vartl collected $0.05 from pot
+vartl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Asmodeus DCLXVI (small blind) folded before Flop
+Seat 3: axel030997 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: MARUSYA94 folded before Flop (didn't bet)
+Seat 6: vartl (button) collected ($0.05)
+
+
+
+PokerStars Hand #239469074972:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:19:40 ET
+Table 'Tureis II' 6-max Seat #1 is the button
+Seat 1: Asmodeus DCLXVI ($0.77 in chips) 
+Seat 3: axel030997 ($1.64 in chips) 
+Seat 4: Lorpugo ($3.10 in chips) 
+Seat 5: MARUSYA94 ($3.19 in chips) 
+Seat 6: vartl ($2.14 in chips) 
+axel030997: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Ah]
+MARUSYA94: folds 
+vartl: folds 
+Asmodeus DCLXVI: folds 
+axel030997: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Asmodeus DCLXVI (button) folded before Flop (didn't bet)
+Seat 3: axel030997 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: MARUSYA94 folded before Flop (didn't bet)
+Seat 6: vartl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469080735:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:19:54 ET
+Table 'Tureis II' 6-max Seat #3 is the button
+Seat 1: Asmodeus DCLXVI ($0.77 in chips) 
+Seat 3: axel030997 ($1.63 in chips) 
+Seat 4: Lorpugo ($3.11 in chips) 
+Seat 5: MARUSYA94 ($3.19 in chips) 
+Seat 6: vartl ($2.14 in chips) 
+Lorpugo: posts small blind $0.01
+MARUSYA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Js]
+vartl: folds 
+Asmodeus DCLXVI: raises $0.03 to $0.05
+axel030997: folds 
+Lorpugo: raises $0.12 to $0.17
+MARUSYA94: folds 
+Asmodeus DCLXVI: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Asmodeus DCLXVI folded before Flop
+Seat 3: axel030997 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.12)
+Seat 5: MARUSYA94 (big blind) folded before Flop
+Seat 6: vartl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469095280:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:20:31 ET
+Table 'Tureis II' 6-max Seat #4 is the button
+Seat 1: Asmodeus DCLXVI ($0.72 in chips) 
+Seat 3: axel030997 ($1.63 in chips) 
+Seat 4: Lorpugo ($3.18 in chips) 
+Seat 5: MARUSYA94 ($3.17 in chips) 
+Seat 6: vartl ($2.14 in chips) 
+MARUSYA94: posts small blind $0.01
+vartl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Jd]
+Asmodeus DCLXVI: folds 
+axel030997: folds 
+Lorpugo: raises $0.04 to $0.06
+MARUSYA94: folds 
+vartl: calls $0.04
+*** FLOP *** [Js 8c 6s]
+vartl: checks 
+Lorpugo: bets $0.09
+vartl: raises $0.09 to $0.18
+Lorpugo: calls $0.09
+*** TURN *** [Js 8c 6s] [6c]
+vartl: bets $0.10
+Lorpugo: raises $0.22 to $0.32
+vartl: raises $0.28 to $0.60
+Lorpugo: calls $0.28
+*** RIVER *** [Js 8c 6s 6c] [6h]
+vartl: bets $1.30 and is all-in
+Lorpugo: calls $1.30
+*** SHOW DOWN ***
+vartl: shows [Jh Jc] (a full house, Jacks full of Sixes)
+Lorpugo: shows [Tc Jd] (a full house, Sixes full of Jacks)
+vartl collected $4.14 from pot
+*** SUMMARY ***
+Total pot $4.29 | Rake $0.15 
+Board [Js 8c 6s 6c 6h]
+Seat 1: Asmodeus DCLXVI folded before Flop (didn't bet)
+Seat 3: axel030997 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) showed [Tc Jd] and lost with a full house, Sixes full of Jacks
+Seat 5: MARUSYA94 (small blind) folded before Flop
+Seat 6: vartl (big blind) showed [Jh Jc] and won ($4.14) with a full house, Jacks full of Sixes
+
+
+
+PokerStars Hand #239469123606:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:21:44 ET
+Table 'Tureis II' 6-max Seat #5 is the button
+Seat 3: axel030997 ($1.63 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: MARUSYA94 ($3.16 in chips) 
+Seat 6: vartl ($4.14 in chips) 
+vartl: posts small blind $0.01
+Asmodeus DCLXVI: is sitting out 
+axel030997: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Tc]
+Lorpugo: raises $0.04 to $0.06
+MARUSYA94: folds 
+vartl: folds 
+axel030997: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: axel030997 (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: MARUSYA94 (button) folded before Flop (didn't bet)
+Seat 6: vartl (small blind) folded before Flop
+
+
+
+PokerStars Hand #239469128215:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:21:56 ET
+Table 'Tureis II' 6-max Seat #6 is the button
+Seat 3: axel030997 ($1.61 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: MARUSYA94 ($3.16 in chips) 
+Seat 6: vartl ($4.13 in chips) 
+axel030997: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qc]
+MARUSYA94: folds 
+Asmodeus DCLXVI leaves the table
+vartl: folds 
+axel030997: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: axel030997 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.02)
+Seat 5: MARUSYA94 folded before Flop (didn't bet)
+Seat 6: vartl (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469135404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:22:14 ET
+Table 'Tureis II' 6-max Seat #3 is the button
+Seat 3: axel030997 ($1.60 in chips) 
+Seat 4: Lorpugo ($1.64 in chips) 
+Seat 5: MARUSYA94 ($3.16 in chips) 
+Seat 6: vartl ($4.13 in chips) 
+Lorpugo: posts small blind $0.01
+MARUSYA94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Tc]
+vartl: folds 
+axel030997: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to MARUSYA94
+MARUSYA94 collected $0.02 from pot
+MARUSYA94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: axel030997 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: MARUSYA94 (big blind) collected ($0.02)
+Seat 6: vartl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239469138568:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:22:22 ET
+Table 'Tureis II' 6-max Seat #4 is the button
+Seat 3: axel030997 ($1.60 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: MARUSYA94 ($3.17 in chips) 
+Seat 6: vartl ($4.13 in chips) 
+MARUSYA94: posts small blind $0.01
+vartl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Th]
+axel030997: raises $0.04 to $0.06
+Zigunzen joins the table at seat #1 
+JoseDavidk is disconnected 
+Lorpugo: folds 
+MARUSYA94: folds 
+vartl: calls $0.04
+*** FLOP *** [9d Js 3s]
+vartl: checks 
+axel030997: bets $0.07
+vartl: folds 
+Uncalled bet ($0.07) returned to axel030997
+axel030997 collected $0.13 from pot
+axel030997: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9d Js 3s]
+Seat 3: axel030997 collected ($0.13)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: MARUSYA94 (small blind) folded before Flop
+Seat 6: vartl (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239469148584:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 15:22:48 ET
+Table 'Tureis II' 6-max Seat #5 is the button
+Seat 3: axel030997 ($1.67 in chips) 
+Seat 4: Lorpugo ($1.63 in chips) 
+Seat 5: MARUSYA94 ($3.16 in chips) 
+Seat 6: vartl ($4.07 in chips) 
+vartl: posts small blind $0.01
+axel030997: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Kd]
+Lorpugo: raises $0.04 to $0.06
+MARUSYA94: folds 
+vartl: folds 
+axel030997: calls $0.04
+*** FLOP *** [9h 3c 6c]
+axel030997: checks 
+Zigunzen leaves the table
+Lorpugo: bets $0.09
+axel030997: calls $0.09
+*** TURN *** [9h 3c 6c] [5s]
+axel030997: checks 
+nsc01 joins the table at seat #1 
+Lorpugo: bets $0.36
+JoseDavidk is disconnected 
+axel030997: raises $0.42 to $0.78
+Lorpugo: folds 
+Uncalled bet ($0.42) returned to axel030997
+axel030997 collected $0.99 from pot
+axel030997: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [9h 3c 6c 5s]
+Seat 3: axel030997 (big blind) collected ($0.99)
+Seat 4: Lorpugo folded on the Turn
+Seat 5: MARUSYA94 (button) folded before Flop (didn't bet)
+Seat 6: vartl (small blind) folded before Flop
+
+
+
+PokerStars Hand #239471781433:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:20:06 ET
+Table 'Tureis II' 6-max Seat #6 is the button
+Seat 1: eason86 ($5.84 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: W.Aryel ($0.31 in chips) 
+Seat 4: hector111387 ($2.05 in chips) 
+Seat 6: plusovich ($2.97 in chips) 
+eason86: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 3c]
+W.Aryel: raises $0.08 to $0.10
+hector111387: folds 
+plusovich: folds 
+eason86: folds 
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to W.Aryel
+W.Aryel collected $0.05 from pot
+W.Aryel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: eason86 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: W.Aryel collected ($0.05)
+Seat 4: hector111387 folded before Flop (didn't bet)
+Seat 6: plusovich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239471790864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:20:31 ET
+Table 'Tureis II' 6-max Seat #1 is the button
+Seat 1: eason86 ($5.83 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: W.Aryel ($0.34 in chips) 
+Seat 4: hector111387 ($2.05 in chips) 
+Seat 6: plusovich ($2.97 in chips) 
+Lorpugo: posts small blind $0.01
+W.Aryel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qs]
+hector111387: raises $0.04 to $0.06
+plusovich: folds 
+eason86: folds 
+Lorpugo: folds 
+W.Aryel: folds 
+Uncalled bet ($0.04) returned to hector111387
+hector111387 collected $0.05 from pot
+hector111387: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: eason86 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: W.Aryel (big blind) folded before Flop
+Seat 4: hector111387 collected ($0.05)
+Seat 6: plusovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239471800459:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:20:56 ET
+Table 'Tureis II' 6-max Seat #2 is the button
+Seat 1: eason86 ($5.83 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: W.Aryel ($0.32 in chips) 
+Seat 4: hector111387 ($2.08 in chips) 
+Seat 6: plusovich ($2.97 in chips) 
+W.Aryel: posts small blind $0.01
+hector111387: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jh]
+plusovich: folds 
+eason86: folds 
+Lorpugo: raises $0.04 to $0.06
+W.Aryel: folds 
+hector111387: calls $0.04
+*** FLOP *** [6s 3d 5h]
+hector111387: bets $0.07
+Lorpugo: raises $1.47 to $1.54 and is all-in
+hector111387: folds 
+Uncalled bet ($1.47) returned to Lorpugo
+Lorpugo collected $0.26 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6s 3d 5h]
+Seat 1: eason86 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.26)
+Seat 3: W.Aryel (small blind) folded before Flop
+Seat 4: hector111387 (big blind) folded on the Flop
+Seat 6: plusovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239471811116:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:21:25 ET
+Table 'Tureis II' 6-max Seat #3 is the button
+Seat 1: eason86 ($5.83 in chips) 
+Seat 2: Lorpugo ($1.73 in chips) 
+Seat 3: W.Aryel ($0.31 in chips) 
+Seat 4: hector111387 ($1.95 in chips) 
+Seat 6: plusovich ($2.97 in chips) 
+hector111387: posts small blind $0.01
+plusovich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6h]
+eason86: folds 
+Lorpugo: folds 
+W.Aryel: folds 
+hector111387: folds 
+Uncalled bet ($0.01) returned to plusovich
+plusovich collected $0.02 from pot
+plusovich: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: eason86 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: W.Aryel (button) folded before Flop (didn't bet)
+Seat 4: hector111387 (small blind) folded before Flop
+Seat 6: plusovich (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239471814845:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:21:34 ET
+Table 'Tureis II' 6-max Seat #4 is the button
+Seat 1: eason86 ($5.83 in chips) 
+Seat 2: Lorpugo ($1.73 in chips) 
+Seat 3: W.Aryel ($0.31 in chips) 
+Seat 4: hector111387 ($1.94 in chips) 
+Seat 6: plusovich ($2.98 in chips) 
+plusovich: posts small blind $0.01
+eason86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Js]
+Lorpugo: raises $0.04 to $0.06
+W.Aryel: raises $0.25 to $0.31 and is all-in
+hector111387: folds 
+plusovich: folds 
+eason86: raises $0.25 to $0.56
+Lorpugo: folds 
+Uncalled bet ($0.25) returned to eason86
+*** FLOP *** [Ac 7s Jc]
+*** TURN *** [Ac 7s Jc] [3d]
+*** RIVER *** [Ac 7s Jc 3d] [Jd]
+*** SHOW DOWN ***
+eason86: shows [As Ts] (two pair, Aces and Jacks)
+W.Aryel: shows [Qc Kh] (a pair of Jacks)
+eason86 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [Ac 7s Jc 3d Jd]
+Seat 1: eason86 (big blind) showed [As Ts] and won ($0.67) with two pair, Aces and Jacks
+Seat 2: Lorpugo folded before Flop
+Seat 3: W.Aryel showed [Qc Kh] and lost with a pair of Jacks
+Seat 4: hector111387 (button) folded before Flop (didn't bet)
+Seat 6: plusovich (small blind) folded before Flop
+
+
+
+PokerStars Hand #239471828406:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:22:10 ET
+Table 'Tureis II' 6-max Seat #6 is the button
+Seat 1: eason86 ($6.19 in chips) 
+Seat 2: Lorpugo ($1.67 in chips) 
+Seat 4: hector111387 ($1.94 in chips) 
+Seat 6: plusovich ($2.97 in chips) 
+eason86: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8d]
+hector111387: folds 
+plusovich: raises $0.04 to $0.06
+eason86: folds 
+W.Aryel leaves the table
+Lorpugo: calls $0.04
+*** FLOP *** [8s 3s Jh]
+Lorpugo: checks 
+plusovich: bets $0.09
+Lorpugo: calls $0.09
+*** TURN *** [8s 3s Jh] [9s]
+Lorpugo: checks 
+plusovich: checks 
+*** RIVER *** [8s 3s Jh 9s] [6d]
+Lorpugo: checks 
+plusovich: bets $0.20
+Lorpugo: calls $0.20
+*** SHOW DOWN ***
+plusovich: shows [Jd Kh] (a pair of Jacks)
+Lorpugo: mucks hand 
+plusovich collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [8s 3s Jh 9s 6d]
+Seat 1: eason86 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) mucked [Qh 8d]
+Seat 4: hector111387 folded before Flop (didn't bet)
+Seat 6: plusovich (button) showed [Jd Kh] and won ($0.69) with a pair of Jacks
+
+
+
+PokerStars Hand #239471846252:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:22:57 ET
+Table 'Tureis II' 6-max Seat #1 is the button
+Seat 1: eason86 ($6.18 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: hector111387 ($1.94 in chips) 
+Seat 6: plusovich ($3.31 in chips) 
+Lorpugo: posts small blind $0.01
+hector111387: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 2h]
+plusovich: folds 
+eason86: calls $0.02
+Lorpugo: calls $0.01
+hector111387: checks 
+*** FLOP *** [7s Qd Td]
+Lorpugo: checks 
+hector111387: bets $0.03
+eason86: folds 
+Lorpugo: calls $0.03
+*** TURN *** [7s Qd Td] [Js]
+Lorpugo: checks 
+hector111387: bets $0.06
+Scubero joins the table at seat #3 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to hector111387
+hector111387 collected $0.12 from pot
+hector111387: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7s Qd Td Js]
+Seat 1: eason86 (button) folded on the Flop
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 4: hector111387 (big blind) collected ($0.12)
+Seat 6: plusovich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239471861605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:23:38 ET
+Table 'Tureis II' 6-max Seat #2 is the button
+Seat 1: eason86 ($6.16 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: hector111387 ($2.01 in chips) 
+Seat 6: plusovich ($3.31 in chips) 
+hector111387: posts small blind $0.01
+plusovich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 8c]
+eason86: raises $0.05 to $0.07
+Lorpugo: calls $0.07
+hector111387: folds 
+plusovich: folds 
+*** FLOP *** [6d Kd 5d]
+eason86: bets $0.16
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to eason86
+eason86 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6d Kd 5d]
+Seat 1: eason86 collected ($0.16)
+Seat 2: Lorpugo (button) folded on the Flop
+Seat 4: hector111387 (small blind) folded before Flop
+Seat 6: plusovich (big blind) folded before Flop
+
+
+
+PokerStars Hand #239471868658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/26 17:23:58 ET
+Table 'Tureis II' 6-max Seat #4 is the button
+Seat 1: eason86 ($6.25 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 4: hector111387 ($2 in chips) 
+Seat 6: plusovich ($3.29 in chips) 
+plusovich: posts small blind $0.01
+eason86: posts big blind $0.02
+Scubero: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4c]
+Lorpugo: folds 
+hector111387: folds 
+plusovich: folds 
+Uncalled bet ($0.01) returned to eason86
+eason86 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: eason86 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: hector111387 (button) folded before Flop (didn't bet)
+Seat 6: plusovich (small blind) folded before Flop
+
+
+

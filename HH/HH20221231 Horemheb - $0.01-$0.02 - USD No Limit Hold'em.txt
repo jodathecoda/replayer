@@ -1,0 +1,1523 @@
+﻿PokerStars Hand #240823258176:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:18:53 ET
+Table 'Horemheb' 6-max Seat #2 is the button
+Seat 2: chicho198414 ($3.99 in chips) 
+Seat 3: rambo66669 ($2.06 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: TIGER101979 ($2 in chips) 
+rambo66669: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4s]
+TIGER101979: folds 
+chicho198414: raises $0.03 to $0.05
+rambo66669: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [7d 3s Jd]
+rambo66669: checks 
+chicho198414: checks 
+*** TURN *** [7d 3s Jd] [7c]
+rambo66669: checks 
+chicho198414: checks 
+*** RIVER *** [7d 3s Jd 7c] [8d]
+rambo66669: bets $2.01 and is all-in
+chicho198414: folds 
+Uncalled bet ($2.01) returned to rambo66669
+rambo66669 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7d 3s Jd 7c 8d]
+Seat 2: chicho198414 (button) folded on the River
+Seat 3: rambo66669 (small blind) collected ($0.12)
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823267990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:19:28 ET
+Table 'Horemheb' 6-max Seat #3 is the button
+Seat 2: chicho198414 ($3.94 in chips) 
+Seat 3: rambo66669 ($2.13 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: TIGER101979 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9h]
+chicho198414: folds 
+rambo66669: folds 
+Lorpugo: raises $0.04 to $0.06
+TIGER101979: raises $0.18 to $0.24
+Lorpugo: calls $0.18
+*** FLOP *** [Jh Ts 2s]
+Lorpugo: checks 
+TIGER101979: bets $0.28
+Lorpugo: folds 
+Uncalled bet ($0.28) returned to TIGER101979
+TIGER101979 collected $0.46 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Jh Ts 2s]
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the Flop
+Seat 6: TIGER101979 (big blind) collected ($0.46)
+
+
+
+PokerStars Hand #240823278550:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:20:06 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 1: Silverstt ($2 in chips) 
+Seat 2: chicho198414 ($3.94 in chips) 
+Seat 3: rambo66669 ($2.13 in chips) 
+Seat 5: Lorpugo ($1.34 in chips) 
+Seat 6: TIGER101979 ($2.22 in chips) 
+TIGER101979: posts small blind $0.01
+Silverstt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ac]
+chicho198414: folds 
+rambo66669: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+TIGER101979: folds 
+Silverstt: folds 
+rambo66669: calls $0.10
+*** FLOP *** [Jc 9s 9d]
+rambo66669: checks 
+Lorpugo: bets $1.22 and is all-in
+rambo66669: calls $1.22
+*** TURN *** [Jc 9s 9d] [Qd]
+*** RIVER *** [Jc 9s 9d Qd] [2d]
+*** SHOW DOWN ***
+rambo66669: shows [Jd Ks] (two pair, Jacks and Nines)
+Lorpugo: shows [5c Ac] (a pair of Nines)
+rambo66669 collected $2.62 from pot
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.09 
+Board [Jc 9s 9d Qd 2d]
+Seat 1: Silverstt (big blind) folded before Flop
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 showed [Jd Ks] and won ($2.62) with two pair, Jacks and Nines
+Seat 5: Lorpugo (button) showed [5c Ac] and lost with a pair of Nines
+Seat 6: TIGER101979 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823294987:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:21:06 ET
+Table 'Horemheb' 6-max Seat #1 is the button
+Seat 1: Silverstt ($1.97 in chips) 
+Seat 2: chicho198414 ($3.95 in chips) 
+Seat 3: rambo66669 ($3.41 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: TIGER101979 ($2.21 in chips) 
+chicho198414: posts small blind $0.01
+rambo66669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3c]
+Lorpugo: folds 
+TIGER101979: raises $0.04 to $0.06
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.05 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Silverstt (button) folded before Flop (didn't bet)
+Seat 2: chicho198414 (small blind) folded before Flop
+Seat 3: rambo66669 (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 collected ($0.05)
+
+
+
+PokerStars Hand #240823299997:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:21:23 ET
+Table 'Horemheb' 6-max Seat #2 is the button
+Seat 1: Silverstt ($1.97 in chips) 
+Seat 2: chicho198414 ($3.94 in chips) 
+Seat 3: rambo66669 ($3.39 in chips) 
+Seat 4: d1ablo84 ($3.70 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: TIGER101979 ($2.24 in chips) 
+rambo66669: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8h]
+Lorpugo: raises $0.04 to $0.06
+TIGER101979: raises $0.12 to $0.18
+Silverstt: raises $0.12 to $0.30
+chicho198414: folds 
+rambo66669: calls $0.29
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: calls $0.12
+*** FLOP *** [5d Ts 3h]
+rambo66669: checks 
+TIGER101979: checks 
+Silverstt: checks 
+*** TURN *** [5d Ts 3h] [2c]
+rambo66669: checks 
+TIGER101979: bets $0.48
+Silverstt: calls $0.48
+rambo66669: folds 
+*** RIVER *** [5d Ts 3h 2c] [Jc]
+TIGER101979: checks 
+Silverstt: bets $0.94
+TIGER101979: calls $0.94
+*** SHOW DOWN ***
+Silverstt: shows [Js Ad] (a pair of Jacks)
+TIGER101979: mucks hand 
+Silverstt collected $3.69 from pot
+*** SUMMARY ***
+Total pot $3.82 | Rake $0.13 
+Board [5d Ts 3h 2c Jc]
+Seat 1: Silverstt showed [Js Ad] and won ($3.69) with a pair of Jacks
+Seat 2: chicho198414 (button) folded before Flop (didn't bet)
+Seat 3: rambo66669 (small blind) folded on the Turn
+Seat 4: d1ablo84 (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop
+Seat 6: TIGER101979 mucked [9d 9s]
+
+
+
+PokerStars Hand #240823330678:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:23:15 ET
+Table 'Horemheb' 6-max Seat #3 is the button
+Seat 1: Silverstt ($3.94 in chips) 
+Seat 2: chicho198414 ($3.94 in chips) 
+Seat 3: rambo66669 ($3.09 in chips) 
+Seat 4: d1ablo84 ($3.68 in chips) 
+Seat 5: Lorpugo ($1.54 in chips) 
+Seat 6: TIGER101979 ($2 in chips) 
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ad]
+TIGER101979: raises $0.04 to $0.06
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: calls $0.06
+d1ablo84: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [5h 6s Kc]
+Lorpugo: checks 
+TIGER101979: checks 
+rambo66669: checks 
+*** TURN *** [5h 6s Kc] [Jd]
+Lorpugo: checks 
+TIGER101979: checks 
+rambo66669: checks 
+*** RIVER *** [5h 6s Kc Jd] [Ts]
+Lorpugo: checks 
+TIGER101979: bets $1.94 and is all-in
+rambo66669: folds 
+Lorpugo: folds 
+Uncalled bet ($1.94) returned to TIGER101979
+TIGER101979 collected $0.18 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 6s Kc Jd Ts]
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 (button) folded on the River
+Seat 4: d1ablo84 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the River
+Seat 6: TIGER101979 collected ($0.18)
+
+
+
+PokerStars Hand #240823345325:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:24:08 ET
+Table 'Horemheb' 6-max Seat #4 is the button
+Seat 1: Silverstt ($3.94 in chips) 
+Seat 2: chicho198414 ($3.94 in chips) 
+Seat 3: rambo66669 ($3.03 in chips) 
+Seat 4: d1ablo84 ($3.67 in chips) 
+Seat 5: Lorpugo ($1.48 in chips) 
+Seat 6: TIGER101979 ($2.12 in chips) 
+Lorpugo: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 7d]
+Silverstt: calls $0.02
+chicho198414: raises $0.05 to $0.07
+rambo66669: folds 
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: calls $0.05
+Silverstt: calls $0.05
+*** FLOP *** [3s 3c As]
+TIGER101979: checks 
+Silverstt: checks 
+chicho198414: checks 
+*** TURN *** [3s 3c As] [2c]
+TIGER101979: checks 
+Silverstt: checks 
+chicho198414: checks 
+*** RIVER *** [3s 3c As 2c] [7s]
+TIGER101979: checks 
+Silverstt: checks 
+chicho198414: checks 
+*** SHOW DOWN ***
+TIGER101979: shows [Qd 9d] (a pair of Threes)
+Silverstt: shows [2h Kh] (two pair, Threes and Deuces)
+chicho198414: mucks hand 
+Silverstt collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [3s 3c As 2c 7s]
+Seat 1: Silverstt showed [2h Kh] and won ($0.21) with two pair, Threes and Deuces
+Seat 2: chicho198414 mucked [Qh Kd]
+Seat 3: rambo66669 folded before Flop (didn't bet)
+Seat 4: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: TIGER101979 (big blind) showed [Qd 9d] and lost with a pair of Threes
+
+
+
+PokerStars Hand #240823357955:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:24:54 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 1: Silverstt ($4.08 in chips) 
+Seat 2: chicho198414 ($3.87 in chips) 
+Seat 3: rambo66669 ($3.03 in chips) 
+Seat 4: d1ablo84 ($3.67 in chips) 
+Seat 5: Lorpugo ($1.47 in chips) 
+Seat 6: TIGER101979 ($2.05 in chips) 
+TIGER101979: posts small blind $0.01
+Silverstt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9s]
+chicho198414: folds 
+rambo66669: calls $0.02
+d1ablo84 has timed out
+d1ablo84: folds 
+Lorpugo: raises $0.04 to $0.06
+TIGER101979: folds 
+Silverstt: folds 
+rambo66669: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Silverstt (big blind) folded before Flop
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 folded before Flop
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.07)
+Seat 6: TIGER101979 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823367025:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:25:27 ET
+Table 'Horemheb' 6-max Seat #6 is the button
+Seat 1: Silverstt ($4.06 in chips) 
+Seat 2: chicho198414 ($3.87 in chips) 
+Seat 3: rambo66669 ($3.01 in chips) 
+Seat 4: d1ablo84 ($3.67 in chips) 
+Seat 5: Lorpugo ($1.52 in chips) 
+Seat 6: TIGER101979 ($2.04 in chips) 
+Silverstt: posts small blind $0.01
+chicho198414: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ks]
+rambo66669: folds 
+d1ablo84: folds 
+Lorpugo: raises $0.04 to $0.06
+TIGER101979: folds 
+Silverstt: calls $0.05
+chicho198414: folds 
+*** FLOP *** [3s Qs 6c]
+Silverstt: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Silverstt
+Silverstt collected $0.14 from pot
+Silverstt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3s Qs 6c]
+Seat 1: Silverstt (small blind) collected ($0.14)
+Seat 2: chicho198414 (big blind) folded before Flop
+Seat 3: rambo66669 folded before Flop (didn't bet)
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Flop
+Seat 6: TIGER101979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823376822:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:26:03 ET
+Table 'Horemheb' 6-max Seat #1 is the button
+Seat 1: Silverstt ($4.14 in chips) 
+Seat 2: chicho198414 ($3.85 in chips) 
+Seat 3: rambo66669 ($3.01 in chips) 
+Seat 4: d1ablo84 ($3.67 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: TIGER101979 ($2.04 in chips) 
+chicho198414: posts small blind $0.01
+rambo66669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 8h]
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: raises $0.04 to $0.06
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.05 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Silverstt (button) folded before Flop (didn't bet)
+Seat 2: chicho198414 (small blind) folded before Flop
+Seat 3: rambo66669 (big blind) folded before Flop
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 collected ($0.05)
+
+
+
+PokerStars Hand #240823383385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:26:28 ET
+Table 'Horemheb' 6-max Seat #2 is the button
+Seat 1: Silverstt ($4.14 in chips) 
+Seat 2: chicho198414 ($3.84 in chips) 
+Seat 3: rambo66669 ($2.99 in chips) 
+Seat 4: d1ablo84 ($3.67 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: TIGER101979 ($2.07 in chips) 
+rambo66669: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Qs]
+Lorpugo: raises $0.02 to $0.04
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: calls $0.03
+d1ablo84: folds 
+*** FLOP *** [Th 7h 8s]
+rambo66669: checks 
+Lorpugo: checks 
+*** TURN *** [Th 7h 8s] [5c]
+rambo66669: checks 
+Lorpugo: checks 
+*** RIVER *** [Th 7h 8s 5c] [Ah]
+rambo66669: bets $2.95 and is all-in
+Lorpugo: folds 
+Uncalled bet ($2.95) returned to rambo66669
+rambo66669 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Th 7h 8s 5c Ah]
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 (button) folded before Flop (didn't bet)
+Seat 3: rambo66669 (small blind) collected ($0.10)
+Seat 4: d1ablo84 (big blind) folded before Flop
+Seat 5: Lorpugo folded on the River
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823394257:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:27:08 ET
+Table 'Horemheb' 6-max Seat #3 is the button
+Seat 1: Silverstt ($4.14 in chips) 
+Seat 2: chicho198414 ($3.84 in chips) 
+Seat 3: rambo66669 ($3.05 in chips) 
+Seat 4: d1ablo84 ($3.65 in chips) 
+Seat 5: Lorpugo ($1.42 in chips) 
+Seat 6: TIGER101979 ($2.07 in chips) 
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qs]
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: calls $0.02
+d1ablo84: folds 
+Lorpugo: checks 
+*** FLOP *** [2h Ks Ts]
+Lorpugo: checks 
+rambo66669: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [2h Ks Ts] [2d]
+Lorpugo: checks 
+rambo66669: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to rambo66669
+rambo66669 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2h Ks Ts 2d]
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 (button) collected ($0.09)
+Seat 4: d1ablo84 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the Turn
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823413127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:28:19 ET
+Table 'Horemheb' 6-max Seat #4 is the button
+Seat 1: Silverstt ($4.14 in chips) 
+Seat 2: chicho198414 ($3.84 in chips) 
+Seat 3: rambo66669 ($3.10 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($1.38 in chips) 
+Seat 6: TIGER101979 ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 3s]
+Silverstt: raises $0.02 to $0.04
+chicho198414: folds 
+rambo66669: calls $0.04
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: calls $0.02
+*** FLOP *** [6h 8c 5c]
+TIGER101979: checks 
+Silverstt: checks 
+rambo66669: checks 
+*** TURN *** [6h 8c 5c] [4h]
+TIGER101979: checks 
+Silverstt: bets $0.04
+rambo66669: calls $0.04
+TIGER101979: calls $0.04
+*** RIVER *** [6h 8c 5c 4h] [2s]
+TIGER101979: checks 
+Silverstt: checks 
+rambo66669: checks 
+*** SHOW DOWN ***
+TIGER101979: shows [4s 9d] (a pair of Fours)
+Silverstt: mucks hand 
+rambo66669: shows [8d Jd] (a pair of Eights)
+rambo66669 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6h 8c 5c 4h 2s]
+Seat 1: Silverstt mucked [Kh As]
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 showed [8d Jd] and won ($0.24) with a pair of Eights
+Seat 4: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: TIGER101979 (big blind) showed [4s 9d] and lost with a pair of Fours
+
+
+
+PokerStars Hand #240823428750:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:29:19 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 1: Silverstt ($4.06 in chips) 
+Seat 2: chicho198414 ($3.84 in chips) 
+Seat 3: rambo66669 ($3.26 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($1.37 in chips) 
+Seat 6: TIGER101979 ($2 in chips) 
+TIGER101979: posts small blind $0.01
+Silverstt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 4d]
+chicho198414: raises $0.04 to $0.06
+rambo66669: folds 
+d1ablo84: folds 
+Lorpugo: calls $0.06
+TIGER101979: folds 
+Silverstt: calls $0.04
+*** FLOP *** [2s 3c Kd]
+Silverstt: checks 
+chicho198414: bets $0.06
+Lorpugo: calls $0.06
+Silverstt: calls $0.06
+*** TURN *** [2s 3c Kd] [4c]
+Silverstt: checks 
+chicho198414: bets $0.18
+Lorpugo: raises $0.36 to $0.54
+Silverstt: calls $0.54
+chicho198414: folds 
+*** RIVER *** [2s 3c Kd 4c] [8c]
+Silverstt: checks 
+Lorpugo: bets $0.71 and is all-in
+Silverstt: calls $0.71
+*** SHOW DOWN ***
+Lorpugo: shows [4h 4d] (three of a kind, Fours)
+Silverstt: shows [Td Ks] (a pair of Kings)
+Lorpugo collected $2.94 from pot
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.11 
+Board [2s 3c Kd 4c 8c]
+Seat 1: Silverstt (big blind) showed [Td Ks] and lost with a pair of Kings
+Seat 2: chicho198414 folded on the Turn
+Seat 3: rambo66669 folded before Flop (didn't bet)
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) showed [4h 4d] and won ($2.94) with three of a kind, Fours
+Seat 6: TIGER101979 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823445239:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:30:20 ET
+Table 'Horemheb' 6-max Seat #6 is the button
+Seat 1: Silverstt ($2.69 in chips) 
+Seat 2: chicho198414 ($3.54 in chips) 
+Seat 3: rambo66669 ($3.26 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($2.94 in chips) 
+Seat 6: TIGER101979 ($2 in chips) 
+Silverstt: posts small blind $0.01
+chicho198414: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4s]
+rambo66669: calls $0.02
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: calls $0.01
+chicho198414: checks 
+*** FLOP *** [3h Tc 9h]
+Silverstt: checks 
+chicho198414: checks 
+rambo66669: bets $0.02
+Silverstt: calls $0.02
+chicho198414: calls $0.02
+*** TURN *** [3h Tc 9h] [5c]
+Silverstt: checks 
+chicho198414: checks 
+rambo66669: bets $0.06
+Silverstt: calls $0.06
+chicho198414: calls $0.06
+*** RIVER *** [3h Tc 9h 5c] [Kc]
+Silverstt: checks 
+chicho198414: bets $0.22
+rambo66669: raises $0.98 to $1.20
+Silverstt: folds 
+chicho198414: calls $0.98
+*** SHOW DOWN ***
+rambo66669: shows [Th 5h] (two pair, Tens and Fives)
+chicho198414: shows [4c 2c] (a flush, King high)
+chicho198414 collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.09 
+Board [3h Tc 9h 5c Kc]
+Seat 1: Silverstt (small blind) folded on the River
+Seat 2: chicho198414 (big blind) showed [4c 2c] and won ($2.61) with a flush, King high
+Seat 3: rambo66669 showed [Th 5h] and lost with two pair, Tens and Fives
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823470363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:31:55 ET
+Table 'Horemheb' 6-max Seat #1 is the button
+Seat 1: Silverstt ($2.59 in chips) 
+Seat 2: chicho198414 ($4.85 in chips) 
+Seat 3: rambo66669 ($1.96 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($2.94 in chips) 
+Seat 6: TIGER101979 ($2 in chips) 
+chicho198414: posts small blind $0.01
+rambo66669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 9d]
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: calls $0.01
+rambo66669: checks 
+*** FLOP *** [3h 6d 9s]
+chicho198414: bets $0.02
+rambo66669: folds 
+Uncalled bet ($0.02) returned to chicho198414
+chicho198414 collected $0.04 from pot
+chicho198414: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h 6d 9s]
+Seat 1: Silverstt (button) folded before Flop (didn't bet)
+Seat 2: chicho198414 (small blind) collected ($0.04)
+Seat 3: rambo66669 (big blind) folded on the Flop
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823477842:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:32:23 ET
+Table 'Horemheb' 6-max Seat #2 is the button
+Seat 1: Silverstt ($2.59 in chips) 
+Seat 2: chicho198414 ($4.87 in chips) 
+Seat 3: rambo66669 ($1.94 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($2.94 in chips) 
+Seat 6: TIGER101979 ($2 in chips) 
+rambo66669: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 8h]
+Lorpugo: folds 
+TIGER101979: raises $0.04 to $0.06
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: folds 
+d1ablo84: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.05 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 (button) folded before Flop (didn't bet)
+Seat 3: rambo66669 (small blind) folded before Flop
+Seat 4: d1ablo84 (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 collected ($0.05)
+
+
+
+PokerStars Hand #240823482270:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:32:40 ET
+Table 'Horemheb' 6-max Seat #3 is the button
+Seat 1: Silverstt ($2.59 in chips) 
+Seat 2: chicho198414 ($4.87 in chips) 
+Seat 3: rambo66669 ($1.93 in chips) 
+Seat 4: d1ablo84 ($3.62 in chips) 
+Seat 5: Lorpugo ($2.94 in chips) 
+Seat 6: TIGER101979 ($2.03 in chips) 
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Ts]
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: raises $1.91 to $1.93 and is all-in
+d1ablo84: folds 
+Lorpugo: folds 
+Uncalled bet ($1.91) returned to rambo66669
+rambo66669 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 (button) collected ($0.05)
+Seat 4: d1ablo84 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823489954:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:33:09 ET
+Table 'Horemheb' 6-max Seat #4 is the button
+Seat 1: Silverstt ($2.59 in chips) 
+Seat 2: chicho198414 ($4.87 in chips) 
+Seat 3: rambo66669 ($1.96 in chips) 
+Seat 4: d1ablo84 ($3.61 in chips) 
+Seat 5: Lorpugo ($2.92 in chips) 
+Seat 6: TIGER101979 ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ks]
+Silverstt: folds 
+chicho198414: folds 
+rambo66669: raises $0.04 to $0.06
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Uncalled bet ($0.04) returned to rambo66669
+rambo66669 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: rambo66669 collected ($0.05)
+Seat 4: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: TIGER101979 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240823495161:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:33:28 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 1: Silverstt ($2.59 in chips) 
+Seat 2: chicho198414 ($4.87 in chips) 
+Seat 3: rambo66669 ($1.99 in chips) 
+Seat 4: d1ablo84 ($3.61 in chips) 
+Seat 5: Lorpugo ($2.91 in chips) 
+Seat 6: TIGER101979 ($2.01 in chips) 
+TIGER101979: posts small blind $0.01
+Silverstt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5s]
+chicho198414: raises $0.04 to $0.06
+rambo66669: folds 
+rambo66669 leaves the table
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: calls $0.05
+Silverstt: folds 
+*** FLOP *** [9s 5d 2h]
+TIGER101979: checks 
+chicho198414: checks 
+*** TURN *** [9s 5d 2h] [8d]
+Dr weder26 joins the table at seat #3 
+TIGER101979: bets $0.10
+chicho198414: calls $0.10
+*** RIVER *** [9s 5d 2h 8d] [9d]
+TIGER101979: bets $0.18
+chicho198414: folds 
+Uncalled bet ($0.18) returned to TIGER101979
+TIGER101979 collected $0.33 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [9s 5d 2h 8d 9d]
+Seat 1: Silverstt (big blind) folded before Flop
+Seat 2: chicho198414 folded on the River
+Seat 3: rambo66669 folded before Flop (didn't bet)
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: TIGER101979 (small blind) collected ($0.33)
+
+
+
+PokerStars Hand #240823506307:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:34:11 ET
+Table 'Horemheb' 6-max Seat #6 is the button
+Seat 1: Silverstt ($2.57 in chips) 
+Seat 2: chicho198414 ($4.71 in chips) 
+Seat 4: d1ablo84 ($3.61 in chips) 
+Seat 5: Lorpugo ($2.91 in chips) 
+Seat 6: TIGER101979 ($2.18 in chips) 
+Silverstt: posts small blind $0.01
+chicho198414: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9c]
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: raises $0.02 to $0.04
+chicho198414: calls $0.02
+*** FLOP *** [Tc Td 4s]
+Silverstt: checks 
+chicho198414: bets $0.04
+Silverstt: calls $0.04
+*** TURN *** [Tc Td 4s] [6h]
+Silverstt: checks 
+chicho198414: checks 
+*** RIVER *** [Tc Td 4s 6h] [5s]
+Silverstt: bets $0.32
+chicho198414: folds 
+Uncalled bet ($0.32) returned to Silverstt
+Silverstt collected $0.15 from pot
+Silverstt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Tc Td 4s 6h 5s]
+Seat 1: Silverstt (small blind) collected ($0.15)
+Seat 2: chicho198414 (big blind) folded on the River
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823518094:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:34:56 ET
+Table 'Horemheb' 6-max Seat #1 is the button
+Seat 1: Silverstt ($2.64 in chips) 
+Seat 2: chicho198414 ($4.63 in chips) 
+Seat 3: Dr weder26 ($0.80 in chips) 
+Seat 4: d1ablo84 ($3.61 in chips) 
+Seat 5: Lorpugo ($2.91 in chips) 
+Seat 6: TIGER101979 ($2.18 in chips) 
+chicho198414: posts small blind $0.01
+Dr weder26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Th]
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: raises $0.04 to $0.06
+Silverstt: calls $0.06
+chicho198414: folds 
+Dr weder26: calls $0.04
+*** FLOP *** [Js As 8h]
+Dr weder26: checks 
+TIGER101979: checks 
+Silverstt: bets $0.09
+Dr weder26: folds 
+TIGER101979: folds 
+Uncalled bet ($0.09) returned to Silverstt
+Silverstt collected $0.18 from pot
+Silverstt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Js As 8h]
+Seat 1: Silverstt (button) collected ($0.18)
+Seat 2: chicho198414 (small blind) folded before Flop
+Seat 3: Dr weder26 (big blind) folded on the Flop
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 folded on the Flop
+
+
+
+PokerStars Hand #240823526730:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:35:29 ET
+Table 'Horemheb' 6-max Seat #2 is the button
+Seat 1: Silverstt ($2.76 in chips) 
+Seat 2: chicho198414 ($4.62 in chips) 
+Seat 4: d1ablo84 ($3.61 in chips) 
+Seat 5: Lorpugo ($2.91 in chips) 
+Seat 6: TIGER101979 ($2.12 in chips) 
+Dr weder26 has timed out
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 8c]
+TIGER101979: raises $0.04 to $0.06
+Silverstt: raises $0.18 to $0.24
+chicho198414: folds 
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: calls $0.18
+*** FLOP *** [6h 8d 7c]
+TIGER101979: checks 
+Silverstt: bets $0.25
+TIGER101979: calls $0.25
+*** TURN *** [6h 8d 7c] [6c]
+TIGER101979: checks 
+Silverstt: checks 
+*** RIVER *** [6h 8d 7c 6c] [4s]
+TIGER101979: bets $1.63 and is all-in
+Silverstt: folds 
+Uncalled bet ($1.63) returned to TIGER101979
+TIGER101979 collected $0.97 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.04 
+Board [6h 8d 7c 6c 4s]
+Seat 1: Silverstt folded on the River
+Seat 2: chicho198414 (button) folded before Flop (didn't bet)
+Seat 4: d1ablo84 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: TIGER101979 collected ($0.97)
+
+
+
+PokerStars Hand #240823542916:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:36:31 ET
+Table 'Horemheb' 6-max Seat #4 is the button
+Seat 1: Silverstt ($2.27 in chips) 
+Seat 2: chicho198414 ($4.62 in chips) 
+Seat 3: Dr weder26 ($0.74 in chips) 
+Seat 4: d1ablo84 ($3.60 in chips) 
+Seat 5: Lorpugo ($2.89 in chips) 
+Seat 6: TIGER101979 ($2.60 in chips) 
+Lorpugo: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+Dr weder26: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Kc]
+Silverstt: folds 
+chicho198414: folds 
+Dr weder26: folds 
+d1ablo84: raises $0.03 to $0.05
+Lorpugo: folds 
+TIGER101979: folds 
+Uncalled bet ($0.03) returned to d1ablo84
+d1ablo84 collected $0.06 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: Dr weder26 folded before Flop (didn't bet)
+Seat 4: d1ablo84 (button) collected ($0.06)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: TIGER101979 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240823547987:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:36:50 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 1: Silverstt ($2.27 in chips) 
+Seat 2: chicho198414 ($4.62 in chips) 
+Seat 3: Dr weder26 ($0.73 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($2.88 in chips) 
+Seat 6: TIGER101979 ($2.58 in chips) 
+TIGER101979: posts small blind $0.01
+Silverstt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5d]
+chicho198414: raises $0.04 to $0.06
+Dr weder26: calls $0.06
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: folds 
+*** FLOP *** [As Qh 6s]
+chicho198414: bets $0.02
+Dr weder26: raises $0.04 to $0.06
+chicho198414: calls $0.04
+*** TURN *** [As Qh 6s] [7s]
+chicho198414: checks 
+Dr weder26: bets $0.26
+chicho198414: calls $0.26
+*** RIVER *** [As Qh 6s 7s] [Kc]
+chicho198414: checks 
+Dr weder26: checks 
+*** SHOW DOWN ***
+chicho198414: shows [Td Ks] (a pair of Kings)
+Dr weder26: shows [Th Ad] (a pair of Aces)
+Dr weder26 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03 
+Board [As Qh 6s 7s Kc]
+Seat 1: Silverstt (big blind) folded before Flop
+Seat 2: chicho198414 showed [Td Ks] and lost with a pair of Kings
+Seat 3: Dr weder26 showed [Th Ad] and won ($0.76) with a pair of Aces
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: TIGER101979 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823561503:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:37:42 ET
+Table 'Horemheb' 6-max Seat #6 is the button
+Seat 1: Silverstt ($2.25 in chips) 
+Seat 2: chicho198414 ($4.24 in chips) 
+Seat 3: Dr weder26 ($1.11 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($2.88 in chips) 
+Seat 6: TIGER101979 ($2.57 in chips) 
+Silverstt: posts small blind $0.01
+chicho198414: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 4s]
+Dr weder26: folds 
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: raises $0.02 to $0.04
+chicho198414: calls $0.02
+*** FLOP *** [As 7c 5d]
+Silverstt: checks 
+chicho198414: checks 
+*** TURN *** [As 7c 5d] [Ad]
+Silverstt: checks 
+chicho198414: checks 
+*** RIVER *** [As 7c 5d Ad] [Kh]
+Silverstt: bets $0.04
+chicho198414: folds 
+Uncalled bet ($0.04) returned to Silverstt
+Silverstt collected $0.08 from pot
+Silverstt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [As 7c 5d Ad Kh]
+Seat 1: Silverstt (small blind) collected ($0.08)
+Seat 2: chicho198414 (big blind) folded on the River
+Seat 3: Dr weder26 folded before Flop (didn't bet)
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823569711:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:38:13 ET
+Table 'Horemheb' 6-max Seat #1 is the button
+Seat 1: Silverstt ($2.29 in chips) 
+Seat 2: chicho198414 ($4.20 in chips) 
+Seat 3: Dr weder26 ($1.11 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($2.88 in chips) 
+Seat 6: TIGER101979 ($2.57 in chips) 
+chicho198414: posts small blind $0.01
+Dr weder26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 8d]
+d1ablo84: folds 
+Lorpugo: raises $0.04 to $0.06
+TIGER101979: calls $0.06
+Silverstt: raises $2.23 to $2.29 and is all-in
+chicho198414: folds 
+Dr weder26: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Uncalled bet ($2.23) returned to Silverstt
+Silverstt collected $0.21 from pot
+Silverstt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: Silverstt (button) collected ($0.21)
+Seat 2: chicho198414 (small blind) folded before Flop
+Seat 3: Dr weder26 (big blind) folded before Flop
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop
+Seat 6: TIGER101979 folded before Flop
+
+
+
+PokerStars Hand #240823576439:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:38:38 ET
+Table 'Horemheb' 6-max Seat #2 is the button
+Seat 1: Silverstt ($2.44 in chips) 
+Seat 2: chicho198414 ($4.19 in chips) 
+Seat 3: Dr weder26 ($1.09 in chips) 
+Seat 4: d1ablo84 ($3.64 in chips) 
+Seat 5: Lorpugo ($2.82 in chips) 
+Seat 6: TIGER101979 ($2.51 in chips) 
+Dr weder26: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3c]
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: folds 
+Dr weder26: calls $0.01
+d1ablo84: raises $0.06 to $0.08
+Dr weder26: calls $0.06
+*** FLOP *** [5s 4h 8d]
+Dr weder26: checks 
+d1ablo84: bets $0.08
+Dr weder26: folds 
+Uncalled bet ($0.08) returned to d1ablo84
+d1ablo84 collected $0.15 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [5s 4h 8d]
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 (button) folded before Flop (didn't bet)
+Seat 3: Dr weder26 (small blind) folded on the Flop
+Seat 4: d1ablo84 (big blind) collected ($0.15)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823586036:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:39:15 ET
+Table 'Horemheb' 6-max Seat #3 is the button
+Seat 1: Silverstt ($2.44 in chips) 
+Seat 2: chicho198414 ($4.19 in chips) 
+Seat 3: Dr weder26 ($1.01 in chips) 
+Seat 4: d1ablo84 ($3.71 in chips) 
+Seat 5: Lorpugo ($2.82 in chips) 
+Seat 6: TIGER101979 ($2.51 in chips) 
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 4s]
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: folds 
+Dr weder26: folds 
+d1ablo84: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to d1ablo84
+d1ablo84 collected $0.04 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: Dr weder26 (button) folded before Flop (didn't bet)
+Seat 4: d1ablo84 (small blind) collected ($0.04)
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823592124:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:39:38 ET
+Table 'Horemheb' 6-max Seat #4 is the button
+Seat 1: Silverstt ($2.44 in chips) 
+Seat 2: chicho198414 ($4.19 in chips) 
+Seat 3: Dr weder26 ($1.01 in chips) 
+Seat 4: d1ablo84 ($3.73 in chips) 
+Seat 5: Lorpugo ($2.80 in chips) 
+Seat 6: TIGER101979 ($2.51 in chips) 
+Lorpugo: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 3c]
+Silverstt: folds 
+chicho198414: folds 
+Dr weder26: calls $0.02
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: checks 
+*** FLOP *** [3d Ad 4h]
+TIGER101979: checks 
+Dr weder26: bets $0.05
+TIGER101979: folds 
+Uncalled bet ($0.05) returned to Dr weder26
+Dr weder26 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d Ad 4h]
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: Dr weder26 collected ($0.05)
+Seat 4: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: TIGER101979 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240823599212:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:40:05 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 1: Silverstt ($2.44 in chips) 
+Seat 2: chicho198414 ($4.19 in chips) 
+Seat 3: Dr weder26 ($1.04 in chips) 
+Seat 4: d1ablo84 ($3.73 in chips) 
+Seat 5: Lorpugo ($2.79 in chips) 
+Seat 6: TIGER101979 ($2.49 in chips) 
+TIGER101979: posts small blind $0.01
+Silverstt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3d]
+chicho198414: folds 
+Dr weder26: calls $0.02
+d1ablo84: raises $0.06 to $0.08
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: calls $0.06
+Dr weder26: calls $0.06
+*** FLOP *** [9d As 2c]
+Silverstt: checks 
+Dr weder26: checks 
+d1ablo84: bets $0.07
+Silverstt: folds 
+Dr weder26: folds 
+Uncalled bet ($0.07) returned to d1ablo84
+d1ablo84 collected $0.24 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9d As 2c]
+Seat 1: Silverstt (big blind) folded on the Flop
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: Dr weder26 folded on the Flop
+Seat 4: d1ablo84 collected ($0.24)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: TIGER101979 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823613340:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:40:59 ET
+Table 'Horemheb' 6-max Seat #6 is the button
+Seat 1: Silverstt ($2.36 in chips) 
+Seat 2: chicho198414 ($4.19 in chips) 
+Seat 3: Dr weder26 ($0.96 in chips) 
+Seat 4: d1ablo84 ($3.89 in chips) 
+Seat 5: Lorpugo ($2.79 in chips) 
+Seat 6: TIGER101979 ($2.48 in chips) 
+Silverstt: posts small blind $0.01
+chicho198414: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9c]
+Dr weder26: folds 
+d1ablo84: folds 
+Lorpugo: raises $0.04 to $0.06
+TIGER101979: calls $0.06
+Silverstt: folds 
+chicho198414: calls $0.04
+*** FLOP *** [Tc Qh 2d]
+chicho198414: checks 
+Lorpugo: checks 
+TIGER101979: bets $0.04
+chicho198414: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to TIGER101979
+TIGER101979 collected $0.18 from pot
+TIGER101979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Tc Qh 2d]
+Seat 1: Silverstt (small blind) folded before Flop
+Seat 2: chicho198414 (big blind) folded on the Flop
+Seat 3: Dr weder26 folded before Flop (didn't bet)
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Flop
+Seat 6: TIGER101979 (button) collected ($0.18)
+
+
+
+PokerStars Hand #240823628334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:41:57 ET
+Table 'Horemheb' 6-max Seat #1 is the button
+Seat 1: Silverstt ($2.35 in chips) 
+Seat 2: chicho198414 ($4.13 in chips) 
+Seat 3: Dr weder26 ($0.96 in chips) 
+Seat 4: d1ablo84 ($3.89 in chips) 
+Seat 5: Lorpugo ($2.73 in chips) 
+Seat 6: TIGER101979 ($2.60 in chips) 
+chicho198414: posts small blind $0.01
+Dr weder26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Tc]
+d1ablo84: folds 
+Lorpugo: raises $0.04 to $0.06
+TIGER101979: folds 
+Silverstt: calls $0.06
+chicho198414: folds 
+Dr weder26: calls $0.04
+*** FLOP *** [7h Qd 4h]
+Dr weder26: checks 
+Lorpugo: checks 
+Silverstt: bets $0.10
+Dr weder26: calls $0.10
+Lorpugo: folds 
+*** TURN *** [7h Qd 4h] [7d]
+Dr weder26: checks 
+Silverstt: bets $0.19
+Dr weder26: calls $0.19
+*** RIVER *** [7h Qd 4h 7d] [4s]
+Dr weder26: checks 
+Silverstt: bets $0.74
+Dr weder26: folds 
+Uncalled bet ($0.74) returned to Silverstt
+Silverstt collected $0.74 from pot
+Silverstt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [7h Qd 4h 7d 4s]
+Seat 1: Silverstt (button) collected ($0.74)
+Seat 2: chicho198414 (small blind) folded before Flop
+Seat 3: Dr weder26 (big blind) folded on the River
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Flop
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823647100:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:43:09 ET
+Table 'Horemheb' 6-max Seat #2 is the button
+Seat 1: Silverstt ($2.74 in chips) 
+Seat 2: chicho198414 ($4.12 in chips) 
+Seat 3: Dr weder26 ($0.61 in chips) 
+Seat 4: d1ablo84 ($3.89 in chips) 
+Seat 5: Lorpugo ($2.67 in chips) 
+Seat 6: TIGER101979 ($2.60 in chips) 
+Dr weder26: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Kc]
+Lorpugo: folds 
+TIGER101979: raises $0.04 to $0.06
+Silverstt: calls $0.06
+chicho198414: folds 
+Dr weder26: raises $0.06 to $0.12
+d1ablo84: folds 
+TIGER101979: calls $0.06
+Silverstt: calls $0.06
+*** FLOP *** [Js 8s 3d]
+Dr weder26: bets $0.19
+TIGER101979: folds 
+Silverstt: folds 
+Uncalled bet ($0.19) returned to Dr weder26
+Dr weder26 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Js 8s 3d]
+Seat 1: Silverstt folded on the Flop
+Seat 2: chicho198414 (button) folded before Flop (didn't bet)
+Seat 3: Dr weder26 (small blind) collected ($0.37)
+Seat 4: d1ablo84 (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 folded on the Flop
+
+
+
+PokerStars Hand #240823661375:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:44:04 ET
+Table 'Horemheb' 6-max Seat #3 is the button
+Seat 1: Silverstt ($2.62 in chips) 
+Seat 2: chicho198414 ($4.12 in chips) 
+Seat 3: Dr weder26 ($0.86 in chips) 
+Seat 4: d1ablo84 ($3.87 in chips) 
+Seat 5: Lorpugo ($2.67 in chips) 
+Seat 6: TIGER101979 ($2.48 in chips) 
+d1ablo84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Kc]
+TIGER101979: folds 
+Silverstt: calls $0.02
+chicho198414: folds 
+Dr weder26: folds 
+d1ablo84: folds 
+Lorpugo: raises $0.05 to $0.07
+Silverstt: calls $0.05
+*** FLOP *** [5s 6d As]
+Lorpugo: checks 
+Silverstt: bets $0.10
+Lorpugo: calls $0.10
+*** TURN *** [5s 6d As] [Kh]
+Lorpugo: checks 
+Silverstt: checks 
+*** RIVER *** [5s 6d As Kh] [Ts]
+Lorpugo: checks 
+Silverstt: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ks Kc] (three of a kind, Kings)
+Silverstt: mucks hand 
+Lorpugo collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [5s 6d As Kh Ts]
+Seat 1: Silverstt mucked [6h Qs]
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: Dr weder26 (button) folded before Flop (didn't bet)
+Seat 4: d1ablo84 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [Ks Kc] and won ($0.34) with three of a kind, Kings
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823675613:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:44:59 ET
+Table 'Horemheb' 6-max Seat #4 is the button
+Seat 1: Silverstt ($2.45 in chips) 
+Seat 2: chicho198414 ($4.12 in chips) 
+Seat 3: Dr weder26 ($0.86 in chips) 
+Seat 4: d1ablo84 ($3.86 in chips) 
+Seat 5: Lorpugo ($2.84 in chips) 
+Seat 6: TIGER101979 ($2.48 in chips) 
+Lorpugo: posts small blind $0.01
+TIGER101979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ts]
+Silverstt: folds 
+chicho198414: raises $0.04 to $0.06
+Dr weder26: folds 
+d1ablo84: folds 
+Lorpugo: calls $0.05
+TIGER101979: folds 
+*** FLOP *** [Jh Ks 3h]
+Lorpugo: checks 
+chicho198414: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [Jh Ks 3h] [Qh]
+Lorpugo: checks 
+chicho198414: bets $0.06
+Lorpugo: calls $0.06
+*** RIVER *** [Jh Ks 3h Qh] [2s]
+Lorpugo: checks 
+chicho198414: bets $0.25
+Lorpugo: folds 
+Uncalled bet ($0.25) returned to chicho198414
+chicho198414 collected $0.33 from pot
+chicho198414: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Jh Ks 3h Qh 2s]
+Seat 1: Silverstt folded before Flop (didn't bet)
+Seat 2: chicho198414 collected ($0.33)
+Seat 3: Dr weder26 folded before Flop (didn't bet)
+Seat 4: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the River
+Seat 6: TIGER101979 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240823695200:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:46:15 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 1: Silverstt ($2.45 in chips) 
+Seat 2: chicho198414 ($4.29 in chips) 
+Seat 3: Dr weder26 ($0.86 in chips) 
+Seat 4: d1ablo84 ($3.86 in chips) 
+Seat 5: Lorpugo ($2.68 in chips) 
+Seat 6: TIGER101979 ($2.46 in chips) 
+TIGER101979: posts small blind $0.01
+Silverstt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9d]
+chicho198414: folds 
+Dr weder26: calls $0.02
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: checks 
+*** FLOP *** [Qs 6c Kc]
+Silverstt: checks 
+Dr weder26: bets $0.03
+Silverstt: folds 
+Uncalled bet ($0.03) returned to Dr weder26
+Dr weder26 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs 6c Kc]
+Seat 1: Silverstt (big blind) folded on the Flop
+Seat 2: chicho198414 folded before Flop (didn't bet)
+Seat 3: Dr weder26 collected ($0.05)
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: TIGER101979 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240823704117:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:46:49 ET
+Table 'Horemheb' 6-max Seat #6 is the button
+Seat 1: Silverstt ($2.43 in chips) 
+Seat 2: chicho198414 ($4.29 in chips) 
+Seat 3: Dr weder26 ($0.89 in chips) 
+Seat 4: d1ablo84 ($3.86 in chips) 
+Seat 5: Lorpugo ($2.68 in chips) 
+Seat 6: TIGER101979 ($2.45 in chips) 
+Silverstt: posts small blind $0.01
+chicho198414: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 9s]
+Dr weder26: raises $0.02 to $0.04
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: calls $0.02
+*** FLOP *** [8h 3d 5s]
+chicho198414: checks 
+Dr weder26: checks 
+*** TURN *** [8h 3d 5s] [6d]
+chicho198414: bets $0.05
+Dr weder26: folds 
+Uncalled bet ($0.05) returned to chicho198414
+chicho198414 collected $0.09 from pot
+chicho198414: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8h 3d 5s 6d]
+Seat 1: Silverstt (small blind) folded before Flop
+Seat 2: chicho198414 (big blind) collected ($0.09)
+Seat 3: Dr weder26 folded on the Turn
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240823713273:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 14:47:25 ET
+Table 'Horemheb' 6-max Seat #1 is the button
+Seat 1: Silverstt ($2.42 in chips) 
+Seat 2: chicho198414 ($4.34 in chips) 
+Seat 3: Dr weder26 ($0.85 in chips) 
+Seat 4: d1ablo84 ($3.86 in chips) 
+Seat 5: Lorpugo ($2.68 in chips) 
+Seat 6: TIGER101979 ($2.45 in chips) 
+chicho198414: posts small blind $0.01
+Dr weder26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 3c]
+d1ablo84: folds 
+Lorpugo: folds 
+TIGER101979: folds 
+Silverstt: folds 
+chicho198414: folds 
+Uncalled bet ($0.01) returned to Dr weder26
+Dr weder26 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Silverstt (button) folded before Flop (didn't bet)
+Seat 2: chicho198414 (small blind) folded before Flop
+Seat 3: Dr weder26 (big blind) collected ($0.02)
+Seat 4: d1ablo84 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: TIGER101979 folded before Flop (didn't bet)
+
+
+

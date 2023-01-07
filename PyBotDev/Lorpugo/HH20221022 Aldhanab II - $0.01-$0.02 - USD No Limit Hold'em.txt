@@ -1,0 +1,3924 @@
+﻿PokerStars Hand #239382949298:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:08:47 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: chrisr5411 ($0.93 in chips) 
+Seat 3: Cooper9211 ($2.07 in chips) 
+Seat 4: ins0ns ($1.83 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: mipett ($2.10 in chips) 
+mipett: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5h]
+chrisr5411: folds 
+Cooper9211: folds 
+ins0ns: folds 
+CraCat: folds 
+mipett: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+*** FLOP *** [Tc Ts 8d]
+mipett: checks 
+Lorpugo: bets $0.06
+mipett: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc Ts 8d]
+Seat 1: Lorpugo (big blind) collected ($0.12)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: ins0ns folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: mipett (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239382961530:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:09:28 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.66 in chips) 
+Seat 2: chrisr5411 ($0.93 in chips) 
+Seat 3: Cooper9211 ($2.07 in chips) 
+Seat 4: ins0ns ($1.83 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: mipett ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7c]
+Cooper9211: folds 
+ins0ns: folds 
+CraCat: folds 
+mipett: raises $0.04 to $0.06
+Lorpugo: folds 
+chrisr5411: folds 
+Uncalled bet ($0.04) returned to mipett
+mipett collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: ins0ns folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: mipett (button) collected ($0.05)
+
+
+
+PokerStars Hand #239382966193:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:09:44 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.65 in chips) 
+Seat 2: chrisr5411 ($0.91 in chips) 
+Seat 3: Cooper9211 ($2.07 in chips) 
+Seat 4: ins0ns ($1.83 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: mipett ($2.07 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8h]
+ins0ns: folds 
+CraCat: folds 
+mipett: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+ins0ns leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: ins0ns folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239382970444:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:09:59 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.68 in chips) 
+Seat 2: chrisr5411 ($0.90 in chips) 
+Seat 3: Cooper9211 ($2.05 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: mipett ($2.07 in chips) 
+Cooper9211: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Qs]
+sergioad&udi joins the table at seat #4 
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: calls $0.02
+Cooper9211: folds 
+CraCat: checks 
+*** FLOP *** [Ks 8c Td]
+CraCat: checks 
+chrisr5411: checks 
+*** TURN *** [Ks 8c Td] [2d]
+CraCat: checks 
+chrisr5411: checks 
+*** RIVER *** [Ks 8c Td 2d] [7d]
+CraCat: checks 
+chrisr5411: bets $0.05
+CraCat: calls $0.05
+*** SHOW DOWN ***
+chrisr5411: shows [Kh 9s] (a pair of Kings)
+CraCat: mucks hand 
+chrisr5411 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks 8c Td 2d 7d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) showed [Kh 9s] and won ($0.14) with a pair of Kings
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 5: CraCat (big blind) mucked [Ac 6d]
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239382980140:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:10:32 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.68 in chips) 
+Seat 2: chrisr5411 ($0.97 in chips) 
+Seat 3: Cooper9211 ($2.04 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: mipett ($2.07 in chips) 
+CraCat: posts small blind $0.01
+mipett: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Js]
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: raises $0.04 to $0.06
+mipett: folds 
+Uncalled bet ($0.04) returned to CraCat
+CraCat collected $0.04 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) collected ($0.04)
+Seat 6: mipett (big blind) folded before Flop
+
+
+
+PokerStars Hand #239382984627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:10:48 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.68 in chips) 
+Seat 2: chrisr5411 ($0.97 in chips) 
+Seat 3: Cooper9211 ($2.04 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: mipett ($2.05 in chips) 
+mipett: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+sergioad&udi: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 3c]
+chrisr5411: calls $0.02
+Cooper9211: raises $0.06 to $0.08
+CraCat: folds 
+mipett: folds 
+Lorpugo: calls $0.06
+chrisr5411: folds 
+*** FLOP *** [Qh Ac 3s]
+Lorpugo: checks 
+Cooper9211: bets $0.14
+Lorpugo: calls $0.14
+*** TURN *** [Qh Ac 3s] [2d]
+Lorpugo: checks 
+Cooper9211: checks 
+*** RIVER *** [Qh Ac 3s 2d] [7s]
+Lorpugo: bets $0.34
+Cooper9211: folds 
+Uncalled bet ($0.34) returned to Lorpugo
+Lorpugo collected $0.45 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Qh Ac 3s 2d 7s]
+Seat 1: Lorpugo (big blind) collected ($0.45)
+Seat 2: chrisr5411 folded before Flop
+Seat 3: Cooper9211 folded on the River
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: mipett (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383002033:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:11:47 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.91 in chips) 
+Seat 2: chrisr5411 ($0.95 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($1.60 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: mipett ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6c]
+Cooper9211: folds 
+sergioad&udi: checks 
+CraCat: raises $0.06 to $0.08
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+sergioad&udi: calls $0.06
+*** FLOP *** [Th Jh 5h]
+sergioad&udi: checks 
+CraCat: bets $0.18
+sergioad&udi: folds 
+Uncalled bet ($0.18) returned to CraCat
+CraCat collected $0.18 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Th Jh 5h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded on the Flop
+Seat 5: CraCat collected ($0.18)
+Seat 6: mipett (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383010402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:12:15 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.90 in chips) 
+Seat 2: chrisr5411 ($0.93 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($1.52 in chips) 
+Seat 5: CraCat ($2.12 in chips) 
+Seat 6: mipett ($2.04 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 5h]
+sergioad&udi: raises $0.04 to $0.06
+CraCat: folds 
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: raises $0.12 to $0.18
+sergioad&udi: calls $0.12
+*** FLOP *** [4d Kd 4s]
+Cooper9211: bets $0.24
+sergioad&udi: calls $0.24
+*** TURN *** [4d Kd 4s] [9d]
+Cooper9211: bets $0.41
+sergioad&udi: raises $0.69 to $1.10 and is all-in
+Cooper9211: folds 
+Uncalled bet ($0.69) returned to sergioad&udi
+sergioad&udi collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.06 
+Board [4d Kd 4s 9d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded on the Turn
+Seat 4: sergioad&udi collected ($1.61)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383030695:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:13:24 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.90 in chips) 
+Seat 2: chrisr5411 ($0.92 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.30 in chips) 
+Seat 5: CraCat ($2.12 in chips) 
+Seat 6: mipett ($2.04 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Qs]
+CraCat: folds 
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.01) returned to sergioad&udi
+sergioad&udi collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) collected ($0.02)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383035325:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:13:39 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.90 in chips) 
+Seat 2: chrisr5411 ($0.92 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.31 in chips) 
+Seat 5: CraCat ($2.12 in chips) 
+Seat 6: mipett ($2.04 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8c]
+mipett: raises $0.04 to $0.06
+Lorpugo: folds 
+chrisr5411: calls $0.06
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+*** FLOP *** [9s 3s 3c]
+mipett: checks 
+chrisr5411: checks 
+*** TURN *** [9s 3s 3c] [2h]
+mipett: checks 
+chrisr5411: checks 
+*** RIVER *** [9s 3s 3c 2h] [Jd]
+mipett: checks 
+chrisr5411: bets $0.14
+mipett: folds 
+Uncalled bet ($0.14) returned to chrisr5411
+chrisr5411 collected $0.14 from pot
+chrisr5411: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9s 3s 3c 2h Jd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 collected ($0.14)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) folded before Flop
+Seat 6: mipett folded on the River
+
+
+
+PokerStars Hand #239383049578:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:14:28 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.90 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.30 in chips) 
+Seat 5: CraCat ($2.10 in chips) 
+Seat 6: mipett ($2 in chips) 
+CraCat: posts small blind $0.01
+mipett: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7h]
+Lorpugo: folds 
+chrisr5411: calls $0.02
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+mipett: checks 
+*** FLOP *** [8d As 5s]
+mipett: checks 
+chrisr5411: checks 
+*** TURN *** [8d As 5s] [3d]
+mipett: checks 
+chrisr5411: checks 
+*** RIVER *** [8d As 5s 3d] [Ts]
+mipett: checks 
+chrisr5411: checks 
+*** SHOW DOWN ***
+mipett: shows [Ks Qd] (high card Ace)
+chrisr5411: shows [Ac 2c] (a pair of Aces)
+chrisr5411 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d As 5s 3d Ts]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 showed [Ac 2c] and won ($0.05) with a pair of Aces
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: mipett (big blind) showed [Ks Qd] and lost with high card Ace
+
+
+
+PokerStars Hand #239383061563:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:15:09 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.90 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.30 in chips) 
+Seat 5: CraCat ($2.09 in chips) 
+Seat 6: mipett ($2 in chips) 
+mipett: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Td]
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: raises $0.02 to $0.04
+mipett: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [2s Ts Qd]
+mipett: bets $0.08
+Lorpugo: calls $0.08
+CraCat: calls $0.08
+*** TURN *** [2s Ts Qd] [2h]
+mipett: bets $0.25
+Lorpugo: folds 
+CraCat: folds 
+Uncalled bet ($0.25) returned to mipett
+mipett collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [2s Ts Qd 2h]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded on the Turn
+Seat 6: mipett (small blind) collected ($0.35)
+
+
+
+PokerStars Hand #239383071470:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:15:43 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.30 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: mipett ($2.23 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 2s]
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+mipett: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to chrisr5411
+chrisr5411 collected $0.02 from pot
+chrisr5411: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) collected ($0.02)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: mipett (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383077082:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:16:02 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: chrisr5411 ($1.04 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.30 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: mipett ($2.23 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8c]
+sergioad&udi: raises $0.04 to $0.06
+CraCat: calls $0.06
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+*** FLOP *** [4h 9s 2d]
+sergioad&udi: checks 
+CraCat: checks 
+*** TURN *** [4h 9s 2d] [Kd]
+sergioad&udi: bets $0.07
+CraCat: calls $0.07
+*** RIVER *** [4h 9s 2d Kd] [2h]
+sergioad&udi: checks 
+CraCat: bets $0.22
+sergioad&udi: folds 
+Uncalled bet ($0.22) returned to CraCat
+CraCat collected $0.28 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [4h 9s 2d Kd 2h]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: sergioad&udi folded on the River
+Seat 5: CraCat collected ($0.28)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383085717:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:16:31 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.17 in chips) 
+Seat 5: CraCat ($2.15 in chips) 
+Seat 6: mipett ($2.23 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5h]
+CraCat: folds 
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.01) returned to sergioad&udi
+sergioad&udi collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) collected ($0.02)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383090990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:16:49 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.18 in chips) 
+Seat 5: CraCat ($2.15 in chips) 
+Seat 6: mipett ($2.23 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Js]
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: raises $0.04 to $0.06
+CraCat: raises $0.18 to $0.24
+sergioad&udi: folds 
+Uncalled bet ($0.18) returned to CraCat
+CraCat collected $0.12 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) collected ($0.12)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383096798:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:17:09 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.12 in chips) 
+Seat 5: CraCat ($2.21 in chips) 
+Seat 6: mipett ($2.23 in chips) 
+CraCat: posts small blind $0.01
+mipett: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Ac]
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+Uncalled bet ($0.01) returned to mipett
+mipett collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: mipett (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239383101249:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:17:24 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($2.12 in chips) 
+Seat 5: CraCat ($2.20 in chips) 
+Seat 6: mipett ($2.24 in chips) 
+mipett: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9h]
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: raises $0.04 to $0.06
+CraCat: calls $0.06
+mipett: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [2c Ah 5d]
+mipett: checks 
+Lorpugo: bets $0.15
+sergioad&udi: calls $0.15
+CraCat: calls $0.15
+mipett: folds 
+*** TURN *** [2c Ah 5d] [7h]
+Lorpugo: bets $0.33
+sergioad&udi: folds 
+CraCat: raises $1.66 to $1.99 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.66) returned to CraCat
+CraCat collected $1.30 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [2c Ah 5d 7h]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded on the Turn
+Seat 5: CraCat (button) collected ($1.30)
+Seat 6: mipett (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239383117596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:18:21 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($1.91 in chips) 
+Seat 5: CraCat ($2.96 in chips) 
+Seat 6: mipett ($2.18 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 4h]
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: raises $0.04 to $0.06
+mipett: calls $0.06
+Lorpugo: folds 
+chrisr5411: folds 
+*** FLOP *** [3c Ad 5h]
+CraCat: bets $0.07
+mipett: folds 
+Uncalled bet ($0.07) returned to CraCat
+CraCat collected $0.14 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3c Ad 5h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat collected ($0.14)
+Seat 6: mipett (button) folded on the Flop
+
+
+
+PokerStars Hand #239383124713:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:18:45 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: chrisr5411 ($1.01 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($1.91 in chips) 
+Seat 5: CraCat ($3.04 in chips) 
+Seat 6: mipett ($2.12 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4h]
+sergioad&udi: raises $0.04 to $0.06
+CraCat: folds 
+mipett: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.04) returned to sergioad&udi
+sergioad&udi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: sergioad&udi collected ($0.05)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383128215:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:18:57 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($1.94 in chips) 
+Seat 5: CraCat ($3.04 in chips) 
+Seat 6: mipett ($2.12 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 4h]
+CraCat: raises $0.04 to $0.06
+mipett: folds 
+Lorpugo: calls $0.06
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+*** FLOP *** [2c 2s 4d]
+CraCat: bets $0.07
+Lorpugo: raises $0.14 to $0.21
+CraCat: raises $2.77 to $2.98 and is all-in
+Lorpugo: folds 
+Uncalled bet ($2.77) returned to CraCat
+CraCat collected $0.55 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [2c 2s 4d]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) folded before Flop
+Seat 5: CraCat collected ($0.55)
+Seat 6: mipett folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383140176:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:19:39 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($1.92 in chips) 
+Seat 5: CraCat ($3.32 in chips) 
+Seat 6: mipett ($2.12 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 4c]
+mipett: raises $0.04 to $0.06
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+Uncalled bet ($0.04) returned to mipett
+mipett collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) folded before Flop
+Seat 6: mipett collected ($0.05)
+
+
+
+PokerStars Hand #239383143700:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:19:51 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($2 in chips) 
+Seat 4: sergioad&udi ($1.91 in chips) 
+Seat 5: CraCat ($3.30 in chips) 
+Seat 6: mipett ($2.15 in chips) 
+CraCat: posts small blind $0.01
+mipett: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 6h]
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Cooper9211: calls $0.06
+sergioad&udi: calls $0.06
+CraCat: calls $0.05
+mipett: folds 
+*** FLOP *** [3s Qc 5s]
+CraCat: checks 
+Lorpugo: bets $0.12
+Cooper9211: calls $0.12
+sergioad&udi: calls $0.12
+CraCat: folds 
+*** TURN *** [3s Qc 5s] [Kh]
+Lorpugo: checks 
+Cooper9211: bets $0.38
+sergioad&udi: calls $0.38
+Lorpugo: folds 
+*** RIVER *** [3s Qc 5s Kh] [2c]
+Cooper9211: bets $0.80
+sergioad&udi: folds 
+Uncalled bet ($0.80) returned to Cooper9211
+Cooper9211 collected $1.33 from pot
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.05 
+Board [3s Qc 5s Kh 2c]
+Seat 1: Lorpugo folded on the Turn
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 collected ($1.33)
+Seat 4: sergioad&udi (button) folded on the River
+Seat 5: CraCat (small blind) folded on the Flop
+Seat 6: mipett (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383160134:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:20:47 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($2.77 in chips) 
+Seat 4: sergioad&udi ($1.35 in chips) 
+Seat 5: CraCat ($3.24 in chips) 
+Seat 6: mipett ($2.13 in chips) 
+mipett: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 9d]
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: raises $0.04 to $0.06
+CraCat: folds 
+mipett: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [5d 7d Th]
+mipett: checks 
+Lorpugo: bets $0.11
+sergioad&udi: calls $0.11
+mipett: folds 
+*** TURN *** [5d 7d Th] [7h]
+Lorpugo: bets $0.26
+mipett leaves the table
+sergioad&udi: folds 
+Uncalled bet ($0.26) returned to Lorpugo
+Lorpugo collected $0.39 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [5d 7d Th 7h]
+Seat 1: Lorpugo (big blind) collected ($0.39)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded on the Turn
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: mipett (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239383170211:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:21:21 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.82 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($2.77 in chips) 
+Seat 4: sergioad&udi ($1.18 in chips) 
+Seat 5: CraCat ($3.24 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qh]
+evrej228 joins the table at seat #6 
+sergioad&udi: raises $0.04 to $0.06
+CraCat: folds 
+Lorpugo: calls $0.06
+evrej228 leaves the table
+chrisr5411: folds 
+Cooper9211: folds 
+*** FLOP *** [Th 7h 2s]
+sergioad&udi: bets $0.07
+AYMEN232 joins the table at seat #6 
+Lorpugo: calls $0.07
+*** TURN *** [Th 7h 2s] [Ah]
+sergioad&udi: bets $0.14
+Lorpugo: calls $0.14
+*** RIVER *** [Th 7h 2s Ah] [9h]
+sergioad&udi: bets $0.28
+Lorpugo: raises $1.27 to $1.55 and is all-in
+sergioad&udi: folds 
+Uncalled bet ($1.27) returned to Lorpugo
+Lorpugo collected $1.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [Th 7h 2s Ah 9h]
+Seat 1: Lorpugo (button) collected ($1.09)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: sergioad&udi folded on the River
+Seat 5: CraCat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383183138:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:22:05 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: chrisr5411 ($0.99 in chips) 
+Seat 3: Cooper9211 ($2.75 in chips) 
+Seat 4: sergioad&udi ($0.63 in chips) 
+Seat 5: CraCat ($3.24 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+AYMEN232: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 8c]
+CraCat: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: raises $0.06 to $0.08
+sergioad&udi: calls $0.06
+*** FLOP *** [Qd 2c Qs]
+Cooper9211: bets $0.12
+sergioad&udi: folds 
+Uncalled bet ($0.12) returned to Cooper9211
+Cooper9211 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Qd 2c Qs]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) collected ($0.15)
+Seat 4: sergioad&udi (big blind) folded on the Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383190399:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:22:30 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.36 in chips) 
+Seat 2: chrisr5411 ($0.99 in chips) 
+Seat 3: Cooper9211 ($2.82 in chips) 
+Seat 4: sergioad&udi ($0.55 in chips) 
+Seat 5: CraCat ($3.24 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+AYMEN232: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 3d]
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: calls $0.05
+CraCat: calls $0.04
+*** FLOP *** [6h 2c Qh]
+sergioad&udi: checks 
+CraCat: bets $0.08
+Lorpugo: folds 
+sergioad&udi: raises $0.41 to $0.49 and is all-in
+CraCat: calls $0.41
+*** TURN *** [6h 2c Qh] [7d]
+*** RIVER *** [6h 2c Qh 7d] [3s]
+*** SHOW DOWN ***
+sergioad&udi: shows [2h Kh] (a pair of Deuces)
+CraCat: shows [Ts Qd] (a pair of Queens)
+CraCat collected $1.12 from pot
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.04 
+Board [6h 2c Qh 7d 3s]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 4: sergioad&udi (small blind) showed [2h Kh] and lost with a pair of Deuces
+Seat 5: CraCat (big blind) showed [Ts Qd] and won ($1.12) with a pair of Queens
+
+
+
+PokerStars Hand #239383200189:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:23:04 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.30 in chips) 
+Seat 2: chrisr5411 ($0.99 in chips) 
+Seat 3: Cooper9211 ($2.82 in chips) 
+Seat 5: CraCat ($3.81 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 6c]
+Cooper9211: folds 
+CraCat: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: calls $0.04
+*** FLOP *** [Qc Th Kd]
+Lorpugo: checks 
+chrisr5411: checks 
+*** TURN *** [Qc Th Kd] [Ad]
+Lorpugo: checks 
+chrisr5411: bets $0.12
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to chrisr5411
+chrisr5411 collected $0.12 from pot
+chrisr5411: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qc Th Kd Ad]
+Seat 1: Lorpugo (small blind) folded on the Turn
+Seat 2: chrisr5411 (big blind) collected ($0.12)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383211467:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:23:43 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.24 in chips) 
+Seat 2: chrisr5411 ($1.05 in chips) 
+Seat 3: Cooper9211 ($2.82 in chips) 
+Seat 4: sergioad&udi ($2 in chips) 
+Seat 5: CraCat ($3.81 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+AYMEN232: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 6d]
+sergioad&udi: folds 
+CraCat: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Uncalled bet ($0.01) returned to Cooper9211
+Cooper9211 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) collected ($0.02)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383215193:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:23:56 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.24 in chips) 
+Seat 2: chrisr5411 ($1.04 in chips) 
+Seat 3: Cooper9211 ($2.83 in chips) 
+Seat 4: sergioad&udi ($2 in chips) 
+Seat 5: CraCat ($3.81 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+AYMEN232: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8c]
+CraCat: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: raises $0.06 to $0.08
+sergioad&udi: folds 
+Uncalled bet ($0.06) returned to Cooper9211
+Cooper9211 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) collected ($0.04)
+Seat 4: sergioad&udi (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383220607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:24:14 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.24 in chips) 
+Seat 2: chrisr5411 ($1.04 in chips) 
+Seat 3: Cooper9211 ($2.85 in chips) 
+Seat 4: sergioad&udi ($1.98 in chips) 
+Seat 5: CraCat ($3.81 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+AYMEN232: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad As]
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: raises $0.13 to $0.19
+Lorpugo: raises $0.39 to $0.58
+CraCat: raises $3.23 to $3.81 and is all-in
+Lorpugo: calls $1.66 and is all-in
+Uncalled bet ($1.57) returned to CraCat
+*** FLOP *** [Js 5c 8s]
+*** TURN *** [Js 5c 8s] [5h]
+*** RIVER *** [Js 5c 8s 5h] [Qs]
+*** SHOW DOWN ***
+CraCat: shows [Kh Kc] (two pair, Kings and Fives)
+Lorpugo: shows [Ad As] (two pair, Aces and Fives)
+Lorpugo collected $4.33 from pot
+*** SUMMARY ***
+Total pot $4.49 | Rake $0.16 
+Board [Js 5c 8s 5h Qs]
+Seat 1: Lorpugo showed [Ad As] and won ($4.33) with two pair, Aces and Fives
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) showed [Kh Kc] and lost with two pair, Kings and Fives
+
+
+
+PokerStars Hand #239383235248:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:25:05 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($4.33 in chips) 
+Seat 2: chrisr5411 ($1.04 in chips) 
+Seat 3: Cooper9211 ($2.85 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: AYMEN232 ($1.50 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9c]
+Lorpugo: folds 
+chrisr5411: calls $0.02
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: checks 
+*** FLOP *** [7d 5s 5h]
+AYMEN232: checks 
+chrisr5411: checks 
+*** TURN *** [7d 5s 5h] [3h]
+AYMEN232: bets $0.04
+chrisr5411: calls $0.04
+*** RIVER *** [7d 5s 5h 3h] [3c]
+AYMEN232: checks 
+chrisr5411: checks 
+*** SHOW DOWN ***
+AYMEN232: shows [8h 4c] (two pair, Fives and Threes)
+chrisr5411: shows [Jh Ah] (two pair, Fives and Threes - Ace kicker)
+chrisr5411 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7d 5s 5h 3h 3c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 showed [Jh Ah] and won ($0.13) with two pair, Fives and Threes
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) showed [8h 4c] and lost with two pair, Fives and Threes
+
+
+
+PokerStars Hand #239383245436:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:25:41 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($4.33 in chips) 
+Seat 2: chrisr5411 ($1.11 in chips) 
+Seat 3: Cooper9211 ($2.85 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: AYMEN232 ($1.44 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5d]
+chrisr5411: calls $0.02
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: raises $0.06 to $0.08
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Uncalled bet ($0.06) returned to CraCat
+CraCat collected $0.07 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: chrisr5411 folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat (button) collected ($0.07)
+Seat 6: AYMEN232 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383251146:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:26:00 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($4.31 in chips) 
+Seat 2: chrisr5411 ($1.09 in chips) 
+Seat 3: Cooper9211 ($2.85 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2.05 in chips) 
+Seat 6: AYMEN232 ($1.43 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qc]
+Cooper9211: folds 
+sergioad&udi: raises $0.04 to $0.06
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Uncalled bet ($0.04) returned to sergioad&udi
+sergioad&udi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi collected ($0.05)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383254703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:26:13 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($4.30 in chips) 
+Seat 2: chrisr5411 ($1.07 in chips) 
+Seat 3: Cooper9211 ($2.85 in chips) 
+Seat 4: sergioad&udi ($2 in chips) 
+Seat 5: CraCat ($2.05 in chips) 
+Seat 6: AYMEN232 ($1.43 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ts]
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: raises $0.04 to $0.06
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.04) returned to AYMEN232
+AYMEN232 collected $0.05 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 collected ($0.05)
+
+
+
+PokerStars Hand #239383258476:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:26:26 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($4.30 in chips) 
+Seat 2: chrisr5411 ($1.06 in chips) 
+Seat 3: Cooper9211 ($2.83 in chips) 
+Seat 4: sergioad&udi ($2 in chips) 
+Seat 5: CraCat ($2.05 in chips) 
+Seat 6: AYMEN232 ($1.46 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 7s]
+CraCat: folds 
+AYMEN232: calls $0.02
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: checks 
+*** FLOP *** [Tc 8s 7c]
+sergioad&udi: checks 
+AYMEN232: bets $0.05
+sergioad&udi: folds 
+Uncalled bet ($0.05) returned to AYMEN232
+AYMEN232 collected $0.05 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc 8s 7c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) folded on the Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 collected ($0.05)
+
+
+
+PokerStars Hand #239383274247:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:27:20 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($4.30 in chips) 
+Seat 2: chrisr5411 ($1.06 in chips) 
+Seat 3: Cooper9211 ($2.82 in chips) 
+Seat 4: sergioad&udi ($1.98 in chips) 
+Seat 5: CraCat ($2.05 in chips) 
+Seat 6: AYMEN232 ($1.49 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Tc]
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: raises $0.04 to $0.06
+sergioad&udi: folds 
+CraCat: folds 
+Uncalled bet ($0.04) returned to Cooper9211
+Cooper9211 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) collected ($0.05)
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) folded before Flop
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383285534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:28:00 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($4.30 in chips) 
+Seat 2: chrisr5411 ($1.06 in chips) 
+Seat 3: Cooper9211 ($2.85 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2.03 in chips) 
+Seat 6: AYMEN232 ($1.49 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5s]
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: raises $0.06 to $0.08
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: calls $0.06
+*** FLOP *** [9h Th 9c]
+AYMEN232: checks 
+Cooper9211: bets $0.12
+AYMEN232: calls $0.12
+*** TURN *** [9h Th 9c] [8s]
+AYMEN232: checks 
+Cooper9211: checks 
+*** RIVER *** [9h Th 9c 8s] [Qs]
+AYMEN232: checks 
+Cooper9211: checks 
+*** SHOW DOWN ***
+AYMEN232: shows [8c Ah] (two pair, Nines and Eights)
+Cooper9211: mucks hand 
+AYMEN232 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [9h Th 9c 8s Qs]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 mucked [As 6s]
+Seat 4: sergioad&udi (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) showed [8c Ah] and won ($0.40) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #239383306301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:29:13 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($4.30 in chips) 
+Seat 2: chrisr5411 ($1.06 in chips) 
+Seat 3: Cooper9211 ($2.65 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($1.69 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6s]
+chrisr5411: folds 
+Cooper9211: calls $0.02
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: checks 
+*** FLOP *** [3h As Qc]
+Lorpugo: checks 
+Cooper9211: checks 
+*** TURN *** [3h As Qc] [Js]
+Lorpugo: bets $0.02
+Cooper9211: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h As Qc Js]
+Seat 1: Lorpugo (big blind) collected ($0.05)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded on the Turn
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: AYMEN232 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383321008:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:30:05 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($4.33 in chips) 
+Seat 2: chrisr5411 ($1.06 in chips) 
+Seat 3: Cooper9211 ($2.63 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($1.68 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7h]
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.04)
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383325489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:30:20 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($4.35 in chips) 
+Seat 2: chrisr5411 ($1.04 in chips) 
+Seat 3: Cooper9211 ($2.63 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($1.68 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9d]
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: raises $0.04 to $0.06
+Lorpugo: raises $0.15 to $0.21
+chrisr5411: folds 
+Cooper9211: folds 
+AYMEN232: calls $0.15
+*** FLOP *** [6c Th Qc]
+AYMEN232: checks 
+Lorpugo: checks 
+*** TURN *** [6c Th Qc] [9h]
+AYMEN232: bets $0.26
+Lorpugo: calls $0.26
+*** RIVER *** [6c Th Qc 9h] [Ks]
+AYMEN232: bets $1.21 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.21) returned to AYMEN232
+AYMEN232 collected $0.94 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [6c Th Qc 9h Ks]
+Seat 1: Lorpugo (button) folded on the River
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 collected ($0.94)
+
+
+
+PokerStars Hand #239383342504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:31:20 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.88 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2.61 in chips) 
+Seat 4: sergioad&udi ($1.97 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($2.15 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d As]
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383346489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:31:34 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.91 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($2.60 in chips) 
+Seat 4: sergioad&udi ($1.95 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($2.15 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4h]
+AYMEN232: raises $0.04 to $0.06
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: raises $0.12 to $0.18
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: calls $0.12
+*** FLOP *** [2h 9h Ks]
+AYMEN232: checks 
+Cooper9211: bets $0.19
+AYMEN232: calls $0.19
+*** TURN *** [2h 9h Ks] [7h]
+AYMEN232: checks 
+Cooper9211: bets $0.37
+AYMEN232: calls $0.37
+*** RIVER *** [2h 9h Ks 7h] [6d]
+AYMEN232: checks 
+Cooper9211: bets $1.46
+AYMEN232: calls $1.41 and is all-in
+Uncalled bet ($0.05) returned to Cooper9211
+*** SHOW DOWN ***
+Cooper9211: shows [Ah Kh] (a flush, Ace high)
+AYMEN232: shows [8c 8h] (a pair of Eights)
+Cooper9211 collected $4.18 from pot
+*** SUMMARY ***
+Total pot $4.33 | Rake $0.15 
+Board [2h 9h Ks 7h 6d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) showed [Ah Kh] and won ($4.18) with a flush, Ace high
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) folded before Flop
+Seat 6: AYMEN232 showed [8c 8h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #239383361664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:32:27 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.91 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($4.63 in chips) 
+Seat 4: sergioad&udi ($1.94 in chips) 
+Seat 5: CraCat ($2 in chips) 
+CraCat: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7s]
+chrisr5411: folds 
+Cooper9211: raises $0.04 to $0.06
+sergioad&udi: calls $0.06
+CraCat: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Ts 3d 2h]
+Lorpugo: checks 
+Cooper9211: checks 
+sergioad&udi: bets $0.09
+Lorpugo: folds 
+Cooper9211: folds 
+Uncalled bet ($0.09) returned to sergioad&udi
+sergioad&udi collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ts 3d 2h]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded on the Flop
+Seat 4: sergioad&udi (button) collected ($0.18)
+Seat 5: CraCat (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383373245:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:33:08 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.85 in chips) 
+Seat 2: chrisr5411 ($1.03 in chips) 
+Seat 3: Cooper9211 ($4.57 in chips) 
+Seat 4: sergioad&udi ($2.06 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 6d]
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: raises $0.02 to $0.04
+Lorpugo: folds 
+chrisr5411: folds 
+Uncalled bet ($0.02) returned to CraCat
+CraCat collected $0.05 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat (button) collected ($0.05)
+
+
+
+PokerStars Hand #239383376211:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:33:18 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.84 in chips) 
+Seat 2: chrisr5411 ($1.01 in chips) 
+Seat 3: Cooper9211 ($4.57 in chips) 
+Seat 4: sergioad&udi ($2.06 in chips) 
+Seat 5: CraCat ($2.03 in chips) 
+Seat 6: AYMEN232 ($1.24 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+AYMEN232: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 4d]
+sergioad&udi: folds 
+CraCat: raises $0.04 to $0.06
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.04) returned to CraCat
+CraCat collected $0.08 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat collected ($0.08)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383382873:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:33:41 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.84 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($4.55 in chips) 
+Seat 4: sergioad&udi ($2.06 in chips) 
+Seat 5: CraCat ($2.09 in chips) 
+Seat 6: AYMEN232 ($1.21 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Ad]
+CraCat: folds 
+AYMEN232: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+AYMEN232: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo collected ($0.07)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded before Flop
+
+
+
+PokerStars Hand #239383391703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:34:11 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.89 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($4.54 in chips) 
+Seat 4: sergioad&udi ($2.04 in chips) 
+Seat 5: CraCat ($2.09 in chips) 
+Seat 6: AYMEN232 ($1.19 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 9s]
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: raises $0.04 to $0.06
+CraCat: calls $0.04
+*** FLOP *** [6h Ac Ad]
+sergioad&udi: checks 
+CraCat: checks 
+*** TURN *** [6h Ac Ad] [7d]
+sergioad&udi: checks 
+CraCat: checks 
+*** RIVER *** [6h Ac Ad 7d] [3d]
+sergioad&udi: checks 
+CraCat: checks 
+*** SHOW DOWN ***
+sergioad&udi: shows [Td Qh] (a pair of Aces)
+CraCat: shows [Jc Qd] (a pair of Aces - Queen+Jack kicker)
+CraCat collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6h Ac Ad 7d 3d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 4: sergioad&udi (small blind) showed [Td Qh] and lost with a pair of Aces
+Seat 5: CraCat (big blind) showed [Jc Qd] and won ($0.12) with a pair of Aces
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383400743:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:34:42 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.89 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($4.54 in chips) 
+Seat 4: sergioad&udi ($1.98 in chips) 
+Seat 5: CraCat ($2.15 in chips) 
+Seat 6: AYMEN232 ($1.19 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Qh]
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: raises $0.04 to $0.06
+CraCat: folds 
+AYMEN232: folds 
+Uncalled bet ($0.04) returned to sergioad&udi
+sergioad&udi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi (button) collected ($0.05)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383406664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:35:02 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.89 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($4.54 in chips) 
+Seat 4: sergioad&udi ($2.01 in chips) 
+Seat 5: CraCat ($2.14 in chips) 
+Seat 6: AYMEN232 ($1.17 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6c]
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: raises $0.02 to $0.04
+AYMEN232: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [4s 4c Jc]
+Lorpugo: checks 
+CraCat: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [4s 4c Jc] [Kh]
+Lorpugo: checks 
+CraCat: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to CraCat
+CraCat collected $0.16 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4s 4c Jc Kh]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat (button) collected ($0.16)
+Seat 6: AYMEN232 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383421022:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:35:52 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.81 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($4.54 in chips) 
+Seat 4: sergioad&udi ($2.01 in chips) 
+Seat 5: CraCat ($2.22 in chips) 
+Seat 6: AYMEN232 ($1.16 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Jh]
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: calls $0.04
+*** FLOP *** [Ks Jc 3d]
+Lorpugo: bets $0.04
+chrisr5411: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ks Jc 3d]
+Seat 1: Lorpugo (small blind) collected ($0.12)
+Seat 2: chrisr5411 (big blind) folded on the Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383429974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:36:23 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.87 in chips) 
+Seat 2: chrisr5411 ($0.94 in chips) 
+Seat 3: Cooper9211 ($4.54 in chips) 
+Seat 4: sergioad&udi ($2.01 in chips) 
+Seat 5: CraCat ($2.22 in chips) 
+Seat 6: AYMEN232 ($1.16 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2s]
+sergioad&udi: raises $0.04 to $0.06
+CraCat: folds 
+AYMEN232: calls $0.06
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+*** FLOP *** [Th 3d 6h]
+sergioad&udi: checks 
+AYMEN232: bets $0.12
+sergioad&udi: folds 
+Uncalled bet ($0.12) returned to AYMEN232
+AYMEN232 collected $0.14 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Th 3d 6h]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 4: sergioad&udi folded on the Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 collected ($0.14)
+
+
+
+PokerStars Hand #239383438155:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:36:52 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.87 in chips) 
+Seat 2: chrisr5411 ($0.93 in chips) 
+Seat 3: Cooper9211 ($4.52 in chips) 
+Seat 4: sergioad&udi ($1.95 in chips) 
+Seat 5: CraCat ($2.22 in chips) 
+Seat 6: AYMEN232 ($1.24 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Td]
+CraCat: folds 
+AYMEN232: calls $0.02
+Lorpugo: calls $0.02
+chrisr5411: raises $0.09 to $0.11
+Cooper9211: folds 
+sergioad&udi: folds 
+AYMEN232: folds 
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to chrisr5411
+chrisr5411 collected $0.09 from pot
+chrisr5411: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Lorpugo folded before Flop
+Seat 2: chrisr5411 (button) collected ($0.09)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded before Flop
+
+
+
+PokerStars Hand #239383445727:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:37:18 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.85 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($4.51 in chips) 
+Seat 4: sergioad&udi ($1.93 in chips) 
+Seat 5: CraCat ($2.22 in chips) 
+Seat 6: AYMEN232 ($1.22 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Ah]
+AYMEN232: raises $0.05 to $0.07
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+Uncalled bet ($0.05) returned to AYMEN232
+AYMEN232 collected $0.05 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) folded before Flop
+Seat 6: AYMEN232 collected ($0.05)
+
+
+
+PokerStars Hand #239383456078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:37:54 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($3.85 in chips) 
+Seat 2: chrisr5411 ($1 in chips) 
+Seat 3: Cooper9211 ($4.51 in chips) 
+Seat 4: sergioad&udi ($1.92 in chips) 
+Seat 5: CraCat ($2.20 in chips) 
+Seat 6: AYMEN232 ($1.25 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3c]
+Lorpugo: folds 
+chrisr5411: calls $0.02
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: calls $0.01
+AYMEN232: raises $0.04 to $0.06
+chrisr5411: calls $0.04
+CraCat: calls $0.04
+*** FLOP *** [8s Ah 9h]
+CraCat: bets $0.08
+AYMEN232: calls $0.08
+chrisr5411: folds 
+*** TURN *** [8s Ah 9h] [4s]
+CraCat: bets $0.20
+AYMEN232: raises $0.24 to $0.44
+CraCat: calls $0.24
+*** RIVER *** [8s Ah 9h 4s] [2d]
+CraCat: checks 
+AYMEN232: bets $0.67 and is all-in
+CraCat: folds 
+Uncalled bet ($0.67) returned to AYMEN232
+AYMEN232 collected $1.18 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.04 
+Board [8s Ah 9h 4s 2d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded on the Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded on the River
+Seat 6: AYMEN232 (big blind) collected ($1.18)
+
+
+
+PokerStars Hand #239383475419:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:39:01 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.85 in chips) 
+Seat 2: chrisr5411 ($0.94 in chips) 
+Seat 3: Cooper9211 ($4.51 in chips) 
+Seat 4: sergioad&udi ($1.92 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: AYMEN232 ($1.85 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 4s]
+chrisr5411: raises $0.02 to $0.04
+Cooper9211: folds 
+sergioad&udi: calls $0.04
+CraCat: calls $0.04
+AYMEN232: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [3s Jd 9h]
+AYMEN232: checks 
+chrisr5411: checks 
+sergioad&udi: checks 
+CraCat: checks 
+*** TURN *** [3s Jd 9h] [7s]
+AYMEN232: bets $0.10
+chrisr5411: folds 
+sergioad&udi: folds 
+CraCat: calls $0.10
+*** RIVER *** [3s Jd 9h 7s] [5s]
+AYMEN232: bets $0.14
+CraCat: raises $0.33 to $0.47
+AYMEN232: folds 
+Uncalled bet ($0.33) returned to CraCat
+CraCat collected $0.64 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [3s Jd 9h 7s 5s]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: chrisr5411 folded on the Turn
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded on the Turn
+Seat 5: CraCat (button) collected ($0.64)
+Seat 6: AYMEN232 (small blind) folded on the River
+
+
+
+PokerStars Hand #239383495595:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:40:11 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.83 in chips) 
+Seat 2: chrisr5411 ($0.90 in chips) 
+Seat 3: Cooper9211 ($4.51 in chips) 
+Seat 4: sergioad&udi ($1.88 in chips) 
+Seat 5: CraCat ($2.36 in chips) 
+Seat 6: AYMEN232 ($1.57 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ah]
+Cooper9211: raises $0.06 to $0.08
+sergioad&udi has timed out
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: calls $0.07
+chrisr5411: folds 
+*** FLOP *** [Ts 9s Ks]
+Lorpugo: checks 
+Cooper9211: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to Cooper9211
+Cooper9211 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ts 9s Ks]
+Seat 1: Lorpugo (small blind) folded on the Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 collected ($0.17)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383510189:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:41:02 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.75 in chips) 
+Seat 2: chrisr5411 ($0.88 in chips) 
+Seat 3: Cooper9211 ($4.60 in chips) 
+Seat 4: sergioad&udi ($1.88 in chips) 
+Seat 5: CraCat ($2.36 in chips) 
+Seat 6: AYMEN232 ($1.57 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qd]
+sergioad&udi has timed out
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Cooper9211: raises $0.10 to $0.16
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Cooper9211
+Cooper9211 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) collected ($0.13)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383519483:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:41:34 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.69 in chips) 
+Seat 2: chrisr5411 ($0.87 in chips) 
+Seat 3: Cooper9211 ($4.67 in chips) 
+Seat 5: CraCat ($2.36 in chips) 
+Seat 6: AYMEN232 ($1.57 in chips) 
+Cooper9211: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Jh]
+AYMEN232: calls $0.02
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: checks 
+*** FLOP *** [Kh 7c Ad]
+CraCat: checks 
+AYMEN232: checks 
+*** TURN *** [Kh 7c Ad] [Ts]
+CraCat: checks 
+AYMEN232: checks 
+*** RIVER *** [Kh 7c Ad Ts] [Ah]
+CraCat: checks 
+AYMEN232: bets $0.05
+CraCat: calls $0.05
+*** SHOW DOWN ***
+AYMEN232: shows [6d 8d] (a pair of Aces)
+CraCat: shows [5h 7d] (two pair, Aces and Sevens)
+CraCat collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kh 7c Ad Ts Ah]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 5: CraCat (big blind) showed [5h 7d] and won ($0.14) with two pair, Aces and Sevens
+Seat 6: AYMEN232 showed [6d 8d] and lost with a pair of Aces
+
+
+
+PokerStars Hand #239383532056:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:42:17 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.69 in chips) 
+Seat 2: chrisr5411 ($0.87 in chips) 
+Seat 3: Cooper9211 ($4.66 in chips) 
+Seat 5: CraCat ($2.43 in chips) 
+Seat 6: AYMEN232 ($1.50 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7d]
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: raises $0.04 to $0.06
+AYMEN232: folds 
+Uncalled bet ($0.04) returned to CraCat
+CraCat collected $0.04 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) collected ($0.04)
+Seat 6: AYMEN232 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383536385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:42:32 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.69 in chips) 
+Seat 2: chrisr5411 ($0.87 in chips) 
+Seat 3: Cooper9211 ($4.66 in chips) 
+Seat 5: CraCat ($2.45 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+sergioad&udi: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3s]
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: raises $0.02 to $0.04
+AYMEN232: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [Ac 5c 9d]
+AYMEN232: checks 
+Lorpugo: checks 
+CraCat: bets $0.06
+AYMEN232: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to CraCat
+CraCat collected $0.12 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ac 5c 9d]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 5: CraCat (button) collected ($0.12)
+Seat 6: AYMEN232 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239383543349:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:42:55 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.65 in chips) 
+Seat 2: chrisr5411 ($0.87 in chips) 
+Seat 3: Cooper9211 ($4.66 in chips) 
+Seat 5: CraCat ($2.53 in chips) 
+Seat 6: AYMEN232 ($1.44 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+sergioad&udi: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9h]
+Cooper9211: raises $0.06 to $0.08
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: calls $0.06
+*** FLOP *** [8c Ac 7c]
+chrisr5411: checks 
+Cooper9211: bets $0.16
+chrisr5411: calls $0.16
+*** TURN *** [8c Ac 7c] [Qs]
+chrisr5411: checks 
+Cooper9211: bets $0.30
+chrisr5411: raises $0.33 to $0.63 and is all-in
+Cooper9211: folds 
+Uncalled bet ($0.33) returned to chrisr5411
+chrisr5411 collected $1.05 from pot
+chrisr5411: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [8c Ac 7c Qs]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) collected ($1.05)
+Seat 3: Cooper9211 folded on the Turn
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383559790:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:43:51 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($3.64 in chips) 
+Seat 2: chrisr5411 ($1.38 in chips) 
+Seat 3: Cooper9211 ($4.12 in chips) 
+Seat 5: CraCat ($2.53 in chips) 
+Seat 6: AYMEN232 ($1.44 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+sergioad&udi: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 8c]
+CraCat: folds 
+AYMEN232: calls $0.02
+Lorpugo: folds 
+chrisr5411: calls $0.01
+Cooper9211: checks 
+*** FLOP *** [7s 2d Qc]
+chrisr5411: checks 
+Cooper9211: checks 
+AYMEN232: bets $0.06
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.06) returned to AYMEN232
+AYMEN232 collected $0.06 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7s 2d Qc]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: chrisr5411 (small blind) folded on the Flop
+Seat 3: Cooper9211 (big blind) folded on the Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 collected ($0.06)
+
+
+
+PokerStars Hand #239383575488:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:44:44 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($3.64 in chips) 
+Seat 2: chrisr5411 ($1.36 in chips) 
+Seat 3: Cooper9211 ($4.10 in chips) 
+Seat 4: sergioad&udi ($1.88 in chips) 
+Seat 5: CraCat ($2.53 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ts]
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: calls $0.06
+Cooper9211: folds 
+sergioad&udi has timed out
+sergioad&udi: folds 
+*** FLOP *** [6d 9h 6s]
+Lorpugo: checks 
+chrisr5411: checks 
+*** TURN *** [6d 9h 6s] [6h]
+Lorpugo: checks 
+chrisr5411: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to chrisr5411
+chrisr5411 collected $0.14 from pot
+chrisr5411: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6d 9h 6s 6h]
+Seat 1: Lorpugo folded on the Turn
+Seat 2: chrisr5411 (button) collected ($0.14)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383600358:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:46:08 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($3.58 in chips) 
+Seat 2: chrisr5411 ($1.44 in chips) 
+Seat 3: Cooper9211 ($4.09 in chips) 
+Seat 5: CraCat ($2.53 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 2d]
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: raises $0.04 to $0.06
+AYMEN232: folds 
+Uncalled bet ($0.04) returned to CraCat
+CraCat collected $0.04 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) collected ($0.04)
+Seat 6: AYMEN232 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383606445:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:46:28 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($3.58 in chips) 
+Seat 2: chrisr5411 ($1.44 in chips) 
+Seat 3: Cooper9211 ($4.09 in chips) 
+Seat 5: CraCat ($2.55 in chips) 
+Seat 6: AYMEN232 ($1.46 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Tc]
+chrisr5411: calls $0.02
+Cooper9211: folds 
+CraCat: folds 
+AYMEN232: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Th 8d Js]
+AYMEN232: checks 
+Lorpugo: bets $0.02
+chrisr5411: calls $0.02
+AYMEN232: calls $0.02
+*** TURN *** [Th 8d Js] [4h]
+AYMEN232: checks 
+Lorpugo: bets $0.18
+chrisr5411: folds 
+AYMEN232: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Th 8d Js 4h]
+Seat 1: Lorpugo (big blind) collected ($0.12)
+Seat 2: chrisr5411 folded on the Turn
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: AYMEN232 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239383621775:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:47:19 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($3.66 in chips) 
+Seat 2: chrisr5411 ($1.40 in chips) 
+Seat 3: Cooper9211 ($4.09 in chips) 
+Seat 5: CraCat ($2.55 in chips) 
+Seat 6: AYMEN232 ($1.42 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Jd]
+Cooper9211: folds 
+CraCat: raises $0.04 to $0.06
+AYMEN232: folds 
+Lorpugo: calls $0.05
+chrisr5411: folds 
+*** FLOP *** [6h Js Jc]
+Lorpugo: checks 
+CraCat: bets $0.08
+Lorpugo: raises $0.15 to $0.23
+CraCat: raises $2.26 to $2.49 and is all-in
+Lorpugo: calls $2.26
+*** TURN *** [6h Js Jc] [Qh]
+*** RIVER *** [6h Js Jc Qh] [Jh]
+*** SHOW DOWN ***
+Lorpugo: shows [Qc Jd] (four of a kind, Jacks)
+CraCat: shows [Kd Ks] (a full house, Jacks full of Kings)
+Lorpugo collected $4.94 from pot
+*** SUMMARY ***
+Total pot $5.12 | Rake $0.18 
+Board [6h Js Jc Qh Jh]
+Seat 1: Lorpugo (small blind) showed [Qc Jd] and won ($4.94) with four of a kind, Jacks
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 5: CraCat showed [Kd Ks] and lost with a full house, Jacks full of Kings
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383635327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:48:04 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($6.05 in chips) 
+Seat 2: chrisr5411 ($1.38 in chips) 
+Seat 3: Cooper9211 ($4.09 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: AYMEN232 ($1.42 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ad]
+CraCat: raises $0.04 to $0.06
+AYMEN232: folds 
+Lorpugo: raises $0.15 to $0.21
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: calls $0.15
+*** FLOP *** [2d 4h 6h]
+CraCat: checks 
+Lorpugo: checks 
+*** TURN *** [2d 4h 6h] [5d]
+CraCat: bets $0.43
+Lorpugo: calls $0.43
+*** RIVER *** [2d 4h 6h 5d] [5h]
+CraCat: bets $1.36 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.36) returned to CraCat
+CraCat collected $1.26 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [2d 4h 6h 5d 5h]
+Seat 1: Lorpugo (button) folded on the River
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 5: CraCat collected ($1.26)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383651314:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:48:57 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($5.41 in chips) 
+Seat 2: chrisr5411 ($1.37 in chips) 
+Seat 3: Cooper9211 ($4.07 in chips) 
+Seat 4: sergioad&udi ($1.86 in chips) 
+Seat 5: CraCat ($2.62 in chips) 
+Seat 6: AYMEN232 ($1.42 in chips) 
+Cooper9211: posts small blind $0.01
+sergioad&udi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qs]
+CraCat: folds 
+AYMEN232: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi: folds 
+AYMEN232: calls $0.07
+*** FLOP *** [Ks 7s Jh]
+AYMEN232: checks 
+Lorpugo: bets $0.07
+AYMEN232: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ks 7s Jh]
+Seat 1: Lorpugo collected ($0.20)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 4: sergioad&udi (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded on the Flop
+
+
+
+PokerStars Hand #239383663149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:49:36 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($5.52 in chips) 
+Seat 2: chrisr5411 ($1.37 in chips) 
+Seat 3: Cooper9211 ($4.06 in chips) 
+Seat 4: sergioad&udi ($1.84 in chips) 
+Seat 5: CraCat ($2.62 in chips) 
+Seat 6: AYMEN232 ($1.33 in chips) 
+sergioad&udi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7d]
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: raises $0.04 to $0.06
+sergioad&udi: folds 
+CraCat: calls $0.04
+*** FLOP *** [6h Kd 7s]
+CraCat: checks 
+Cooper9211: bets $0.10
+CraCat: calls $0.10
+*** TURN *** [6h Kd 7s] [4h]
+CraCat: bets $0.16
+Cooper9211: folds 
+Uncalled bet ($0.16) returned to CraCat
+CraCat collected $0.32 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6h Kd 7s 4h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded on the Turn
+Seat 4: sergioad&udi (small blind) folded before Flop
+Seat 5: CraCat (big blind) collected ($0.32)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383674750:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:50:15 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($5.52 in chips) 
+Seat 2: chrisr5411 ($1.37 in chips) 
+Seat 3: Cooper9211 ($3.90 in chips) 
+Seat 4: sergioad&udi ($1.83 in chips) 
+Seat 5: CraCat ($2.78 in chips) 
+Seat 6: AYMEN232 ($1.33 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Jh]
+Lorpugo: raises $0.02 to $0.04
+chrisr5411: raises $0.11 to $0.15
+Cooper9211: folds 
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: calls $0.11
+*** FLOP *** [2d Ah 4s]
+Lorpugo: checks 
+chrisr5411: checks 
+*** TURN *** [2d Ah 4s] [6s]
+Lorpugo: bets $0.16
+chrisr5411: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2d Ah 4s 6s]
+Seat 1: Lorpugo collected ($0.32)
+Seat 2: chrisr5411 folded on the Turn
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383690784:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:51:08 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($5.69 in chips) 
+Seat 2: chrisr5411 ($1.22 in chips) 
+Seat 3: Cooper9211 ($3.90 in chips) 
+Seat 4: sergioad&udi ($1.83 in chips) 
+Seat 5: CraCat ($2.77 in chips) 
+Seat 6: AYMEN232 ($1.31 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 8s]
+chrisr5411: folds 
+Cooper9211: folds 
+sergioad&udi has timed out
+sergioad&udi: folds 
+CraCat: folds 
+AYMEN232: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+AYMEN232: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (big blind) collected ($0.04)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 4: sergioad&udi folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: AYMEN232 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383701808:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:51:45 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($5.71 in chips) 
+Seat 2: chrisr5411 ($1.22 in chips) 
+Seat 3: Cooper9211 ($3.90 in chips) 
+Seat 5: CraCat ($2.77 in chips) 
+Seat 6: AYMEN232 ($1.29 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 7c]
+Cooper9211: raises $0.06 to $0.08
+CraCat: folds 
+AYMEN232: calls $0.08
+Lorpugo: folds 
+chrisr5411: folds 
+*** FLOP *** [3h 6h 2s]
+Cooper9211: bets $0.12
+AYMEN232: raises $1.09 to $1.21 and is all-in
+Cooper9211: folds 
+Uncalled bet ($1.09) returned to AYMEN232
+AYMEN232 collected $0.41 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [3h 6h 2s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded on the Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) collected ($0.41)
+
+
+
+PokerStars Hand #239383713480:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:52:24 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($5.70 in chips) 
+Seat 2: chrisr5411 ($1.20 in chips) 
+Seat 3: Cooper9211 ($3.70 in chips) 
+Seat 5: CraCat ($2.77 in chips) 
+Seat 6: AYMEN232 ($1.50 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4d]
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 3: Cooper9211 (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383717000:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:52:36 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($5.73 in chips) 
+Seat 2: chrisr5411 ($1.19 in chips) 
+Seat 3: Cooper9211 ($3.68 in chips) 
+Seat 5: CraCat ($2.77 in chips) 
+Seat 6: AYMEN232 ($1.50 in chips) 
+Cooper9211: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 9h]
+AYMEN232: folds 
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+Uncalled bet ($0.01) returned to CraCat
+CraCat collected $0.02 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 3: Cooper9211 (small blind) folded before Flop
+Seat 5: CraCat (big blind) collected ($0.02)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383722509:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:52:55 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($5.73 in chips) 
+Seat 2: chrisr5411 ($1.19 in chips) 
+Seat 3: Cooper9211 ($3.67 in chips) 
+Seat 5: CraCat ($2.78 in chips) 
+Seat 6: AYMEN232 ($1.50 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 3s]
+Lorpugo: folds 
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: raises $0.04 to $0.06
+AYMEN232: folds 
+Uncalled bet ($0.04) returned to CraCat
+CraCat collected $0.04 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) collected ($0.04)
+Seat 6: AYMEN232 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383729550:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:53:19 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($5.73 in chips) 
+Seat 2: chrisr5411 ($1.19 in chips) 
+Seat 3: Cooper9211 ($3.67 in chips) 
+Seat 5: CraCat ($2.80 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 7c]
+chrisr5411: folds 
+Cooper9211: folds 
+CraCat: raises $0.02 to $0.04
+AYMEN232: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to CraCat
+CraCat collected $0.05 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 5: CraCat (button) collected ($0.05)
+Seat 6: AYMEN232 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383734752:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:53:37 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($5.71 in chips) 
+Seat 2: chrisr5411 ($1.19 in chips) 
+Seat 3: Cooper9211 ($3.67 in chips) 
+Seat 5: CraCat ($2.83 in chips) 
+Seat 6: AYMEN232 ($1.47 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 7d]
+Cooper9211: folds 
+CraCat: folds 
+AYMEN232: raises $0.04 to $0.06
+Lorpugo: folds 
+chrisr5411: folds 
+Uncalled bet ($0.04) returned to AYMEN232
+AYMEN232 collected $0.05 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 3: Cooper9211 folded before Flop (didn't bet)
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239383740422:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:53:56 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($5.70 in chips) 
+Seat 2: chrisr5411 ($1.17 in chips) 
+Seat 5: CraCat ($2.83 in chips) 
+Seat 6: AYMEN232 ($1.50 in chips) 
+chrisr5411: posts small blind $0.01
+Cooper9211: is sitting out 
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Ad]
+AYMEN232: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+Cooper9211 is disconnected 
+chrisr5411: folds 
+CraCat: calls $0.07
+AYMEN232: folds 
+*** FLOP *** [7d 5c 9h]
+CraCat: checks 
+Lorpugo: checks 
+*** TURN *** [7d 5c 9h] [Td]
+CraCat: checks 
+Lorpugo: bets $0.07
+CraCat: calls $0.07
+*** RIVER *** [7d 5c 9h Td] [Kd]
+CraCat: checks 
+Lorpugo: bets $0.34
+CraCat: calls $0.34
+*** SHOW DOWN ***
+Lorpugo: shows [2d Ad] (a flush, Ace high)
+CraCat: mucks hand 
+Lorpugo collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [7d 5c 9h Td Kd]
+Seat 1: Lorpugo (button) showed [2d Ad] and won ($0.99) with a flush, Ace high
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 5: CraCat (big blind) mucked [Ks Js]
+Seat 6: AYMEN232 folded before Flop
+
+
+
+PokerStars Hand #239383752296:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:54:36 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($6.19 in chips) 
+Seat 2: chrisr5411 ($1.16 in chips) 
+Seat 5: CraCat ($2.33 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3h]
+Lorpugo: folds 
+chrisr5411: folds 
+CraCat: folds 
+Uncalled bet ($0.01) returned to AYMEN232
+AYMEN232 collected $0.02 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239383754864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:54:45 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($6.19 in chips) 
+Seat 2: chrisr5411 ($1.16 in chips) 
+Seat 5: CraCat ($2.32 in chips) 
+Seat 6: AYMEN232 ($1.49 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Ac]
+chrisr5411: folds 
+CraCat: raises $0.02 to $0.04
+AYMEN232: folds 
+Lorpugo: raises $0.09 to $0.13
+CraCat: calls $0.09
+*** FLOP *** [As Qh Jd]
+Lorpugo: bets $0.09
+CraCat: calls $0.09
+*** TURN *** [As Qh Jd] [3c]
+Lorpugo: checks 
+CraCat: bets $0.43
+Lorpugo: raises $0.71 to $1.14
+CraCat: folds 
+Uncalled bet ($0.71) returned to Lorpugo
+Lorpugo collected $1.26 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [As Qh Jd 3c]
+Seat 1: Lorpugo (big blind) collected ($1.26)
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded on the Turn
+Seat 6: AYMEN232 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239383765791:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:55:28 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($6.80 in chips) 
+Seat 2: chrisr5411 ($1.16 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3d]
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.04)
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383770619:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:55:50 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($6.82 in chips) 
+Seat 2: chrisr5411 ($1.14 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+chrisr5411: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c As]
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+CraCat: calls $0.04
+*** FLOP *** [4s Kd Kh]
+CraCat: checks 
+Lorpugo: bets $0.06
+CraCat: raises $0.14 to $0.20
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to CraCat
+CraCat collected $0.24 from pot
+CraCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4s Kd Kh]
+Seat 1: Lorpugo (button) folded on the Flop
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 5: CraCat (big blind) collected ($0.24)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383777038:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:56:19 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($6.70 in chips) 
+Seat 2: chrisr5411 ($1.13 in chips) 
+Seat 5: CraCat ($2.12 in chips) 
+Seat 6: AYMEN232 ($1.48 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5s]
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+CraCat: folds 
+AYMEN232: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239383779073:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:56:28 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($6.73 in chips) 
+Seat 2: chrisr5411 ($1.13 in chips) 
+Seat 5: CraCat ($2.11 in chips) 
+Seat 6: AYMEN232 ($1.46 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 6c]
+chrisr5411: calls $0.02
+CraCat: folds 
+AYMEN232: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5s 9h Th]
+AYMEN232: checks 
+Lorpugo: checks 
+chrisr5411: checks 
+*** TURN *** [5s 9h Th] [4d]
+AYMEN232: checks 
+Lorpugo: checks 
+chrisr5411: checks 
+*** RIVER *** [5s 9h Th 4d] [Kd]
+AYMEN232: checks 
+Lorpugo: checks 
+chrisr5411: checks 
+*** SHOW DOWN ***
+AYMEN232: shows [Qd 3d] (high card King)
+Lorpugo: mucks hand 
+chrisr5411: shows [6s 6d] (a pair of Sixes)
+chrisr5411 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5s 9h Th 4d Kd]
+Seat 1: Lorpugo (big blind) mucked [8s 6c]
+Seat 2: chrisr5411 showed [6s 6d] and won ($0.06) with a pair of Sixes
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: AYMEN232 (small blind) showed [Qd 3d] and lost with high card King
+
+
+
+PokerStars Hand #239383791198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:57:22 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($6.71 in chips) 
+Seat 2: chrisr5411 ($1.17 in chips) 
+Seat 5: CraCat ($2.11 in chips) 
+Seat 6: AYMEN232 ($1.44 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3s]
+CraCat: raises $0.04 to $0.06
+AYMEN232: raises $0.08 to $0.14
+Lorpugo: folds 
+chrisr5411: folds 
+CraCat: folds 
+Uncalled bet ($0.08) returned to AYMEN232
+AYMEN232 collected $0.15 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 5: CraCat folded before Flop
+Seat 6: AYMEN232 (button) collected ($0.15)
+
+
+
+PokerStars Hand #239383794269:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:57:36 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($6.70 in chips) 
+Seat 2: chrisr5411 ($1.15 in chips) 
+Seat 5: CraCat ($2.05 in chips) 
+Seat 6: AYMEN232 ($1.53 in chips) 
+chrisr5411: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 6c]
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+CraCat: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+sergioad&udi leaves the table
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 5: CraCat (big blind) folded before Flop
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383797167:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:57:49 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($6.73 in chips) 
+Seat 2: chrisr5411 ($1.14 in chips) 
+Seat 5: CraCat ($2.03 in chips) 
+Seat 6: AYMEN232 ($1.53 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3d]
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+CraCat: folds 
+larike joins the table at seat #4 
+AYMEN232: calls $0.04
+*** FLOP *** [2d Ks Qd]
+AYMEN232: checks 
+Lorpugo: bets $0.06
+AYMEN232: calls $0.06
+*** TURN *** [2d Ks Qd] [Qc]
+larike leaves the table
+AYMEN232: checks 
+Lorpugo: checks 
+*** RIVER *** [2d Ks Qd Qc] [Qs]
+larike joins the table at seat #4 
+AYMEN232: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to AYMEN232
+AYMEN232 collected $0.24 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2d Ks Qd Qc Qs]
+Seat 1: Lorpugo folded on the River
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #239383807607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:58:36 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($6.61 in chips) 
+Seat 2: chrisr5411 ($1.14 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($1.65 in chips) 
+AYMEN232: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+larike: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 2d]
+chrisr5411: folds 
+CraCat: folds 
+AYMEN232: calls $0.01
+larike leaves the table
+Lorpugo: checks 
+*** FLOP *** [2c 9c 3d]
+PS.JuaChi joins the table at seat #4 
+AYMEN232: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [2c 9c 3d] [Kh]
+AYMEN232: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to AYMEN232
+AYMEN232 collected $0.12 from pot
+AYMEN232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2c 9c 3d Kh]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: chrisr5411 folded before Flop (didn't bet)
+Seat 5: CraCat (button) folded before Flop (didn't bet)
+Seat 6: AYMEN232 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #239383816704:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:59:17 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($6.55 in chips) 
+Seat 2: chrisr5411 ($1.14 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($1.71 in chips) 
+Lorpugo: posts small blind $0.01
+chrisr5411: posts big blind $0.02
+PS.JuaChi: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Tc]
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.04)
+Seat 2: chrisr5411 (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383821936:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 11:59:40 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($6.57 in chips) 
+Seat 2: chrisr5411 ($1.12 in chips) 
+Seat 4: PS.JuaChi ($2 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($1.71 in chips) 
+chrisr5411: posts small blind $0.01
+PS.JuaChi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5c]
+CraCat: folds 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+PS.JuaChi: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Cooper9211 leaves the table
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: chrisr5411 (small blind) folded before Flop
+Seat 4: PS.JuaChi (big blind) folded before Flop
+Seat 5: CraCat folded before Flop (didn't bet)
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383826857:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 12:00:02 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($6.60 in chips) 
+Seat 2: chrisr5411 ($1.11 in chips) 
+Seat 4: PS.JuaChi ($1.98 in chips) 
+Seat 5: CraCat ($2.02 in chips) 
+Seat 6: AYMEN232 ($1.71 in chips) 
+PS.JuaChi: posts small blind $0.01
+CraCat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9c]
+ichithekill joins the table at seat #3 
+AYMEN232: folds 
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: folds 
+PS.JuaChi: folds 
+CraCat: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: chrisr5411 (button) folded before Flop (didn't bet)
+Seat 4: PS.JuaChi (small blind) folded before Flop
+Seat 5: CraCat (big blind) folded before Flop
+Seat 6: AYMEN232 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239383830410:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 12:00:17 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($6.63 in chips) 
+Seat 2: chrisr5411 ($1.11 in chips) 
+Seat 4: PS.JuaChi ($2 in chips) 
+Seat 5: CraCat ($2 in chips) 
+Seat 6: AYMEN232 ($1.71 in chips) 
+CraCat: posts small blind $0.01
+AYMEN232: posts big blind $0.02
+ichithekill: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kc]
+Lorpugo: raises $0.04 to $0.06
+chrisr5411: calls $0.06
+PS.JuaChi: folds 
+CraCat: folds 
+AYMEN232: calls $0.04
+*** FLOP *** [3s 9s Qh]
+AYMEN232: checks 
+Lorpugo: checks 
+chrisr5411: checks 
+*** TURN *** [3s 9s Qh] [7h]
+AYMEN232: checks 
+Lorpugo: bets $0.24
+chrisr5411: folds 
+AYMEN232: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3s 9s Qh 7h]
+Seat 1: Lorpugo collected ($0.18)
+Seat 2: chrisr5411 folded on the Turn
+Seat 4: PS.JuaChi (button) folded before Flop (didn't bet)
+Seat 5: CraCat (small blind) folded before Flop
+Seat 6: AYMEN232 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239395382561:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:28:17 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.74 in chips) 
+Seat 5: toki3232 ($3.95 in chips) 
+Seat 6: goguxxl ($2.24 in chips) 
+goguxxl: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+playito: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 3d]
+frittz600: folds 
+toki3232: folds 
+goguxxl: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [2h 2s 8d]
+goguxxl: checks 
+Lorpugo: checks 
+*** TURN *** [2h 2s 8d] [Ts]
+goguxxl: checks 
+Lorpugo: bets $0.06
+goguxxl: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2h 2s 8d Ts]
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: frittz600 folded before Flop (didn't bet)
+Seat 5: toki3232 (button) folded before Flop (didn't bet)
+Seat 6: goguxxl (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239395389584:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:28:58 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.62 in chips) 
+Seat 3: frittz600 ($5.74 in chips) 
+Seat 5: toki3232 ($3.95 in chips) 
+Seat 6: goguxxl ($2.22 in chips) 
+Lorpugo: posts small blind $0.01
+frittz600: posts big blind $0.02
+playito: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 5h]
+toki3232: folds 
+goguxxl: raises $0.04 to $0.06
+Lorpugo: folds 
+frittz600: calls $0.04
+*** FLOP *** [8d 7s Jh]
+frittz600: checks 
+goguxxl: checks 
+*** TURN *** [8d 7s Jh] [2c]
+frittz600: bets $0.07
+goguxxl: folds 
+Uncalled bet ($0.07) returned to frittz600
+frittz600 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d 7s Jh 2c]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: frittz600 (big blind) collected ($0.13)
+Seat 5: toki3232 folded before Flop (didn't bet)
+Seat 6: goguxxl (button) folded on the Turn
+
+
+
+PokerStars Hand #239395393562:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:29:21 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: SharkBoy1994 ($2 in chips) 
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: frittz600 ($5.81 in chips) 
+Seat 4: playito ($2.02 in chips) 
+Seat 5: toki3232 ($3.95 in chips) 
+Seat 6: goguxxl ($2.16 in chips) 
+frittz600: posts small blind $0.01
+playito: posts big blind $0.02
+SharkBoy1994: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Qc]
+toki3232: folds 
+goguxxl: folds 
+SharkBoy1994: raises $0.04 to $0.06
+Lorpugo: folds 
+frittz600: calls $0.05
+playito: folds 
+*** FLOP *** [3d 7s 7h]
+frittz600: checks 
+SharkBoy1994: checks 
+*** TURN *** [3d 7s 7h] [8d]
+frittz600: checks 
+SharkBoy1994: bets $0.11
+frittz600: folds 
+Uncalled bet ($0.11) returned to SharkBoy1994
+SharkBoy1994 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3d 7s 7h 8d]
+Seat 1: SharkBoy1994 collected ($0.14)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: frittz600 (small blind) folded on the Turn
+Seat 4: playito (big blind) folded before Flop
+Seat 5: toki3232 folded before Flop (didn't bet)
+Seat 6: goguxxl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395400515:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:30:02 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: SharkBoy1994 ($2.07 in chips) 
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: frittz600 ($5.75 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 5: toki3232 ($3.95 in chips) 
+Seat 6: goguxxl ($2.16 in chips) 
+playito: posts small blind $0.01
+toki3232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8s]
+goguxxl: folds 
+SharkBoy1994: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+frittz600: calls $0.06
+playito: folds 
+toki3232: folds 
+*** FLOP *** [2c 4s 2d]
+SharkBoy1994: bets $0.10
+Lorpugo: calls $0.10
+frittz600: folds 
+*** TURN *** [2c 4s 2d] [9c]
+SharkBoy1994: bets $0.24
+Lorpugo: folds 
+Uncalled bet ($0.24) returned to SharkBoy1994
+SharkBoy1994 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2c 4s 2d 9c]
+Seat 1: SharkBoy1994 collected ($0.40)
+Seat 2: Lorpugo folded on the Turn
+Seat 3: frittz600 (button) folded on the Flop
+Seat 4: playito (small blind) folded before Flop
+Seat 5: toki3232 (big blind) folded before Flop
+Seat 6: goguxxl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395409235:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:30:54 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: SharkBoy1994 ($2.31 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.69 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 5: toki3232 ($3.93 in chips) 
+Seat 6: goguxxl ($2.16 in chips) 
+toki3232: posts small blind $0.01
+goguxxl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 4d]
+SharkBoy1994: calls $0.02
+Lorpugo: folds 
+frittz600: calls $0.02
+playito: folds 
+toki3232: folds 
+goguxxl: raises $0.10 to $0.12
+SharkBoy1994: calls $0.10
+frittz600: calls $0.10
+*** FLOP *** [7s 3s 6d]
+goguxxl: bets $0.24
+SharkBoy1994: folds 
+frittz600: calls $0.24
+*** TURN *** [7s 3s 6d] [Kc]
+goguxxl: bets $0.58
+frittz600: folds 
+Uncalled bet ($0.58) returned to goguxxl
+goguxxl collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [7s 3s 6d Kc]
+Seat 1: SharkBoy1994 folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: frittz600 folded on the Turn
+Seat 4: playito (button) folded before Flop (didn't bet)
+Seat 5: toki3232 (small blind) folded before Flop
+Seat 6: goguxxl (big blind) collected ($0.82)
+
+
+
+PokerStars Hand #239395416488:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:31:37 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 1: SharkBoy1994 ($2.19 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.33 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 5: toki3232 ($3.92 in chips) 
+Seat 6: goguxxl ($2.62 in chips) 
+goguxxl: posts small blind $0.01
+SharkBoy1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8c]
+Lorpugo: folds 
+frittz600: raises $0.04 to $0.06
+playito: folds 
+toki3232: folds 
+goguxxl: calls $0.05
+SharkBoy1994: folds 
+*** FLOP *** [Kh Ac 7c]
+goguxxl: checks 
+frittz600: checks 
+*** TURN *** [Kh Ac 7c] [Qh]
+goguxxl: bets $0.08
+frittz600: folds 
+Uncalled bet ($0.08) returned to goguxxl
+goguxxl collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Kh Ac 7c Qh]
+Seat 1: SharkBoy1994 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: frittz600 folded on the Turn
+Seat 4: playito folded before Flop (didn't bet)
+Seat 5: toki3232 (button) folded before Flop (didn't bet)
+Seat 6: goguxxl (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #239395424042:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:32:21 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 1: SharkBoy1994 ($2.17 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.27 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 5: toki3232 ($3.92 in chips) 
+Seat 6: goguxxl ($2.70 in chips) 
+SharkBoy1994: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Td]
+frittz600: raises $0.04 to $0.06
+playito: calls $0.06
+toki3232: calls $0.06
+goguxxl: folds 
+SharkBoy1994: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Kc 7c 3h]
+Lorpugo: checks 
+frittz600: checks 
+playito: checks 
+toki3232: checks 
+*** TURN *** [Kc 7c 3h] [Kh]
+Lorpugo: checks 
+frittz600: checks 
+playito: checks 
+toki3232: checks 
+*** RIVER *** [Kc 7c 3h Kh] [Tc]
+Lorpugo: bets $0.02
+frittz600: folds 
+playito: calls $0.02
+toki3232: folds 
+*** SHOW DOWN ***
+Lorpugo: shows [Jd Td] (two pair, Kings and Tens)
+playito: shows [Ac Th] (two pair, Kings and Tens - Ace kicker)
+playito collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Kc 7c 3h Kh Tc]
+Seat 1: SharkBoy1994 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Jd Td] and lost with two pair, Kings and Tens
+Seat 3: frittz600 folded on the River
+Seat 4: playito showed [Ac Th] and won ($0.28) with two pair, Kings and Tens
+Seat 5: toki3232 folded on the River
+Seat 6: goguxxl (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395439724:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:33:54 ET
+Table 'Aldhanab II' 6-max Seat #1 is the button
+Seat 1: SharkBoy1994 ($2.16 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.21 in chips) 
+Seat 4: playito ($2.20 in chips) 
+Seat 5: toki3232 ($3.86 in chips) 
+Seat 6: goguxxl ($2.70 in chips) 
+Lorpugo: posts small blind $0.01
+frittz600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Th]
+playito: folds 
+toki3232: raises $0.04 to $0.06
+goguxxl: folds 
+SharkBoy1994: folds 
+Lorpugo: folds 
+frittz600: calls $0.04
+*** FLOP *** [Kh 3h Kd]
+frittz600: checks 
+toki3232: checks 
+*** TURN *** [Kh 3h Kd] [Ah]
+frittz600: checks 
+toki3232: checks 
+*** RIVER *** [Kh 3h Kd Ah] [2d]
+frittz600: checks 
+toki3232: checks 
+*** SHOW DOWN ***
+frittz600: shows [7c 8s] (a pair of Kings)
+toki3232: shows [Jc Qs] (a pair of Kings - Ace+Queen kicker)
+toki3232 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kh 3h Kd Ah 2d]
+Seat 1: SharkBoy1994 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: frittz600 (big blind) showed [7c 8s] and lost with a pair of Kings
+Seat 4: playito folded before Flop (didn't bet)
+Seat 5: toki3232 showed [Jc Qs] and won ($0.13) with a pair of Kings
+Seat 6: goguxxl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395445739:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:34:30 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: SharkBoy1994 ($2.16 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.15 in chips) 
+Seat 4: playito ($2.20 in chips) 
+Seat 5: toki3232 ($3.93 in chips) 
+Seat 6: goguxxl ($2.70 in chips) 
+frittz600: posts small blind $0.01
+playito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 9c]
+toki3232: raises $0.04 to $0.06
+goguxxl: folds 
+SharkBoy1994 is disconnected 
+SharkBoy1994 has timed out while disconnected
+SharkBoy1994: folds 
+Lorpugo: folds 
+frittz600: calls $0.05
+playito: calls $0.04
+*** FLOP *** [Jc Ts 9d]
+frittz600: checks 
+playito: bets $0.11
+toki3232: calls $0.11
+frittz600: folds 
+*** TURN *** [Jc Ts 9d] [8s]
+playito: checks 
+toki3232: checks 
+*** RIVER *** [Jc Ts 9d 8s] [Tc]
+playito: checks 
+toki3232: bets $0.46
+playito: folds 
+Uncalled bet ($0.46) returned to toki3232
+toki3232 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Jc Ts 9d 8s Tc]
+Seat 1: SharkBoy1994 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: frittz600 (small blind) folded on the Flop
+Seat 4: playito (big blind) folded on the River
+Seat 5: toki3232 collected ($0.39)
+Seat 6: goguxxl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395457871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:35:42 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.09 in chips) 
+Seat 4: playito ($2.03 in chips) 
+Seat 5: toki3232 ($4.15 in chips) 
+Seat 6: goguxxl ($2.70 in chips) 
+playito: posts small blind $0.01
+toki3232: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5h]
+goguxxl: raises $0.04 to $0.06
+Lorpugo: folds 
+frittz600: calls $0.06
+playito: folds 
+toki3232: folds 
+*** FLOP *** [Kd Jd 3d]
+goguxxl: checks 
+frittz600: checks 
+*** TURN *** [Kd Jd 3d] [3c]
+goguxxl: checks 
+frittz600: checks 
+*** RIVER *** [Kd Jd 3d 3c] [Ah]
+goguxxl: checks 
+frittz600: checks 
+*** SHOW DOWN ***
+goguxxl: shows [9d 9s] (two pair, Nines and Threes)
+frittz600: mucks hand 
+goguxxl collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kd Jd 3d 3c Ah]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: frittz600 (button) mucked [5s 8s]
+Seat 4: playito (small blind) folded before Flop
+Seat 5: toki3232 (big blind) folded before Flop
+Seat 6: goguxxl showed [9d 9s] and won ($0.14) with two pair, Nines and Threes
+
+
+
+PokerStars Hand #239395463765:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:36:17 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: frittz600 ($5.03 in chips) 
+Seat 4: playito ($2.02 in chips) 
+Seat 5: toki3232 ($4.13 in chips) 
+Seat 6: goguxxl ($2.78 in chips) 
+toki3232: posts small blind $0.01
+goguxxl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Ah]
+Lorpugo: raises $0.04 to $0.06
+frittz600: folds 
+playito: folds 
+toki3232: folds 
+goguxxl: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: frittz600 folded before Flop (didn't bet)
+Seat 4: playito (button) folded before Flop (didn't bet)
+Seat 5: toki3232 (small blind) folded before Flop
+Seat 6: goguxxl (big blind) folded before Flop
+
+
+
+PokerStars Hand #239395465789:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:36:29 ET
+Table 'Aldhanab II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.63 in chips) 
+Seat 3: frittz600 ($5.03 in chips) 
+Seat 4: playito ($2.02 in chips) 
+Seat 5: toki3232 ($4.12 in chips) 
+Seat 6: goguxxl ($2.76 in chips) 
+goguxxl: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8d]
+frittz600: raises $0.02 to $0.04
+playito: calls $0.04
+toki3232: folds 
+goguxxl: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [4s As 8c]
+goguxxl: checks 
+Lorpugo: bets $0.05
+frittz600: calls $0.05
+playito: folds 
+goguxxl: folds 
+*** TURN *** [4s As 8c] [3h]
+Lorpugo: checks 
+frittz600: checks 
+*** RIVER *** [4s As 8c 3h] [5c]
+Lorpugo: checks 
+frittz600: bets $0.13
+Lorpugo: calls $0.13
+*** SHOW DOWN ***
+frittz600: shows [4h Kh] (a pair of Fours)
+Lorpugo: shows [Kd 8d] (a pair of Eights)
+Lorpugo collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [4s As 8c 3h 5c]
+Seat 2: Lorpugo (big blind) showed [Kd 8d] and won ($0.50) with a pair of Eights
+Seat 3: frittz600 showed [4h Kh] and lost with a pair of Fours
+Seat 4: playito folded on the Flop
+Seat 5: toki3232 (button) folded before Flop (didn't bet)
+Seat 6: goguxxl (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239395478093:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:37:44 ET
+Table 'Aldhanab II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.91 in chips) 
+Seat 3: frittz600 ($4.81 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 5: toki3232 ($4.12 in chips) 
+Seat 6: goguxxl ($2.72 in chips) 
+Lorpugo: posts small blind $0.01
+frittz600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jh]
+playito: folds 
+toki3232: folds 
+goguxxl: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to frittz600
+frittz600 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: frittz600 (big blind) collected ($0.02)
+Seat 4: playito folded before Flop (didn't bet)
+Seat 5: toki3232 folded before Flop (didn't bet)
+Seat 6: goguxxl (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395480888:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:38:01 ET
+Table 'Aldhanab II' 6-max Seat #2 is the button
+Seat 1: SharkBoy1994 ($2.16 in chips) 
+Seat 2: Lorpugo ($1.90 in chips) 
+Seat 3: frittz600 ($4.82 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 5: toki3232 ($4.12 in chips) 
+Seat 6: goguxxl ($2.72 in chips) 
+frittz600: posts small blind $0.01
+playito: posts big blind $0.02
+SharkBoy1994: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ts]
+toki3232: folds 
+goguxxl: folds 
+SharkBoy1994: raises $0.04 to $0.06
+Lorpugo: folds 
+frittz600: calls $0.05
+playito: folds 
+*** FLOP *** [8h 4c 4h]
+frittz600: checks 
+SharkBoy1994: checks 
+*** TURN *** [8h 4c 4h] [Qc]
+frittz600: checks 
+SharkBoy1994: bets $0.08
+frittz600: calls $0.08
+*** RIVER *** [8h 4c 4h Qc] [9d]
+frittz600: checks 
+SharkBoy1994: bets $0.20
+frittz600: folds 
+Uncalled bet ($0.20) returned to SharkBoy1994
+SharkBoy1994 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8h 4c 4h Qc 9d]
+Seat 1: SharkBoy1994 collected ($0.30)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: frittz600 (small blind) folded on the River
+Seat 4: playito (big blind) folded before Flop
+Seat 5: toki3232 folded before Flop (didn't bet)
+Seat 6: goguxxl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239395491792:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:39:06 ET
+Table 'Aldhanab II' 6-max Seat #3 is the button
+Seat 1: SharkBoy1994 ($2.31 in chips) 
+Seat 2: Lorpugo ($1.90 in chips) 
+Seat 3: frittz600 ($4.68 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 6: goguxxl ($2.72 in chips) 
+playito: posts small blind $0.01
+toki3232: is sitting out 
+goguxxl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 2c]
+toki3232 leaves the table
+SharkBoy1994 has timed out
+SharkBoy1994: folds 
+Lorpugo: raises $0.04 to $0.06
+frittz600: folds 
+playito: folds 
+goguxxl: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: SharkBoy1994 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: frittz600 (button) folded before Flop (didn't bet)
+Seat 4: playito (small blind) folded before Flop
+Seat 6: goguxxl (big blind) folded before Flop
+
+
+
+PokerStars Hand #239395496510:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/22 22:39:35 ET
+Table 'Aldhanab II' 6-max Seat #4 is the button
+Seat 1: SharkBoy1994 ($2.31 in chips) 
+Seat 2: Lorpugo ($1.93 in chips) 
+Seat 3: frittz600 ($4.68 in chips) 
+Seat 4: playito ($2 in chips) 
+Seat 6: goguxxl ($2.70 in chips) 
+goguxxl: posts small blind $0.01
+SharkBoy1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2h]
+Lorpugo: folds 
+frittz600: folds 
+playito: folds 
+goguxxl: calls $0.01
+SharkBoy1994: checks 
+*** FLOP *** [Jc Kh 8h]
+goguxxl: checks 
+SharkBoy1994: bets $0.02
+goguxxl: folds 
+Uncalled bet ($0.02) returned to SharkBoy1994
+SharkBoy1994 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jc Kh 8h]
+Seat 1: SharkBoy1994 (big blind) collected ($0.04)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: frittz600 folded before Flop (didn't bet)
+Seat 4: playito (button) folded before Flop (didn't bet)
+Seat 6: goguxxl (small blind) folded on the Flop
+
+
+

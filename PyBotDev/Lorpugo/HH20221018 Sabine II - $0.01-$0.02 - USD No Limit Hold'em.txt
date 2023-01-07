@@ -1,0 +1,5875 @@
+﻿PokerStars Hand #239301977081:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:21:00 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: WolfSoul66 ($2 in chips) 
+Seat 2: jagAERanton ($2.01 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: luiyi11 ($1.13 in chips) 
+Seat 6: KKonroy ($2.23 in chips) 
+jagAERanton: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+LongHart: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js As]
+luiyi11: folds 
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+jagAERanton: calls $0.12
+*** FLOP *** [7h Td 5s]
+jagAERanton: checks 
+Lorpugo: bets $0.23
+jagAERanton: raises $1.60 to $1.83 and is all-in
+Lorpugo: calls $1.19 and is all-in
+Uncalled bet ($0.41) returned to jagAERanton
+*** TURN *** [7h Td 5s] [Kh]
+*** RIVER *** [7h Td 5s Kh] [6s]
+*** SHOW DOWN ***
+jagAERanton: shows [Jc Tc] (a pair of Tens)
+Lorpugo: shows [Js As] (high card Ace)
+jagAERanton collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.20 | Rake $0.11 
+Board [7h Td 5s Kh 6s]
+Seat 1: WolfSoul66 (button) folded before Flop (didn't bet)
+Seat 2: jagAERanton (small blind) showed [Jc Tc] and won ($3.09) with a pair of Tens
+Seat 3: Lorpugo (big blind) showed [Js As] and lost with high card Ace
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302002592:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:23:11 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: WolfSoul66 ($2 in chips) 
+Seat 2: jagAERanton ($3.44 in chips) 
+Seat 3: Lorpugo ($2 in chips) 
+Seat 5: LongHart ($2.07 in chips) 
+Seat 6: KKonroy ($2.23 in chips) 
+KKonroy: posts small blind $0.01
+WolfSoul66: posts big blind $0.02
+Lorpugo: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2h]
+jagAERanton: folds 
+Lorpugo: folds 
+LongHart: raises $0.06 to $0.08
+KKonroy: folds 
+WolfSoul66: folds 
+Uncalled bet ($0.06) returned to LongHart
+LongHart collected $0.06 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: WolfSoul66 (big blind) folded before Flop
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: LongHart (button) collected ($0.06)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302005682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:23:27 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: WolfSoul66 ($2 in chips) 
+Seat 2: jagAERanton ($3.44 in chips) 
+Seat 3: Lorpugo ($1.99 in chips) 
+Seat 5: LongHart ($2.11 in chips) 
+Seat 6: KKonroy ($2.22 in chips) 
+WolfSoul66: posts small blind $0.01
+jagAERanton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 3s]
+Lorpugo: folds 
+LongHart: folds 
+KKonroy: folds 
+WolfSoul66: raises $0.04 to $0.06
+jagAERanton: folds 
+Uncalled bet ($0.04) returned to WolfSoul66
+WolfSoul66 collected $0.04 from pot
+WolfSoul66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: WolfSoul66 (small blind) collected ($0.04)
+Seat 2: jagAERanton (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: LongHart folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302009835:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:23:48 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: WolfSoul66 ($2.02 in chips) 
+Seat 2: jagAERanton ($3.42 in chips) 
+Seat 3: Lorpugo ($1.99 in chips) 
+Seat 5: LongHart ($2.11 in chips) 
+Seat 6: KKonroy ($2.22 in chips) 
+jagAERanton: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5h]
+LongHart: folds 
+KKonroy: folds 
+WolfSoul66: raises $0.03 to $0.05
+jagAERanton: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [7c 3h 9h]
+jagAERanton: checks 
+WolfSoul66: checks 
+*** TURN *** [7c 3h 9h] [9c]
+jagAERanton: checks 
+WolfSoul66: bets $0.04
+jagAERanton: folds 
+Uncalled bet ($0.04) returned to WolfSoul66
+WolfSoul66 collected $0.12 from pot
+WolfSoul66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7c 3h 9h 9c]
+Seat 1: WolfSoul66 (button) collected ($0.12)
+Seat 2: jagAERanton (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 5: LongHart folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302017642:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:24:28 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.37 in chips) 
+Seat 3: Lorpugo ($1.97 in chips) 
+Seat 4: luiyi11 ($1.12 in chips) 
+Seat 5: LongHart ($2.11 in chips) 
+Seat 6: KKonroy ($2.22 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qc]
+LongHart: raises $0.04 to $0.06
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: LongHart collected ($0.05)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302022351:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:24:52 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.37 in chips) 
+Seat 3: Lorpugo ($1.96 in chips) 
+Seat 4: luiyi11 ($1.10 in chips) 
+Seat 5: LongHart ($2.14 in chips) 
+Seat 6: KKonroy ($2.22 in chips) 
+luiyi11: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 4c]
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: calls $0.01
+LongHart: raises $0.04 to $0.06
+luiyi11: calls $0.04
+*** FLOP *** [5c 3c Qc]
+luiyi11: bets $1.04 and is all-in
+LongHart: folds 
+Uncalled bet ($1.04) returned to luiyi11
+luiyi11 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5c 3c Qc]
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) collected ($0.12)
+Seat 5: LongHart (big blind) folded on the Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302029120:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:25:26 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.37 in chips) 
+Seat 3: Lorpugo ($1.96 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: LongHart ($2.08 in chips) 
+Seat 6: KKonroy ($2.22 in chips) 
+LongHart: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6d]
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+LongHart: folds 
+Uncalled bet ($0.01) returned to KKonroy
+KKonroy collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: LongHart (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239302032404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:25:43 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.37 in chips) 
+Seat 3: Lorpugo ($1.96 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: LongHart ($2.07 in chips) 
+Seat 6: KKonroy ($2.23 in chips) 
+KKonroy: posts small blind $0.01
+WolfSoul66: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 3d]
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+LongHart: folds 
+KKonroy: raises $0.03 to $0.05
+WolfSoul66: folds 
+Uncalled bet ($0.03) returned to KKonroy
+KKonroy collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: WolfSoul66 (big blind) folded before Flop
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: LongHart (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239302036913:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:26:06 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: WolfSoul66 ($2.07 in chips) 
+Seat 2: jagAERanton ($3.37 in chips) 
+Seat 3: Lorpugo ($1.96 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: LongHart ($2.07 in chips) 
+Seat 6: KKonroy ($2.25 in chips) 
+WolfSoul66: posts small blind $0.01
+jagAERanton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8s]
+Lorpugo: folds 
+luiyi11: folds 
+LongHart: folds 
+KKonroy: folds 
+WolfSoul66: raises $0.04 to $0.06
+jagAERanton: folds 
+Uncalled bet ($0.04) returned to WolfSoul66
+WolfSoul66 collected $0.04 from pot
+WolfSoul66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: WolfSoul66 (small blind) collected ($0.04)
+Seat 2: jagAERanton (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: LongHart folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302040196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:26:23 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.35 in chips) 
+Seat 3: Lorpugo ($1.96 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: LongHart ($2.07 in chips) 
+Seat 6: KKonroy ($2.25 in chips) 
+jagAERanton: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7c]
+luiyi11: calls $0.02
+LongHart: raises $0.07 to $0.09
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+Uncalled bet ($0.07) returned to LongHart
+LongHart collected $0.07 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: WolfSoul66 (button) folded before Flop (didn't bet)
+Seat 2: jagAERanton (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop
+Seat 5: LongHart collected ($0.07)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302044528:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:26:44 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.34 in chips) 
+Seat 3: Lorpugo ($1.94 in chips) 
+Seat 4: luiyi11 ($1.14 in chips) 
+Seat 5: LongHart ($2.12 in chips) 
+Seat 6: KKonroy ($2.25 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 9c]
+LongHart: folds 
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: LongHart folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302048916:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:27:07 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.34 in chips) 
+Seat 3: Lorpugo ($1.96 in chips) 
+Seat 4: luiyi11 ($1.12 in chips) 
+Seat 5: LongHart ($2.12 in chips) 
+Seat 6: KKonroy ($2.25 in chips) 
+luiyi11: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8c]
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+Uncalled bet ($0.01) returned to LongHart
+LongHart collected $0.02 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: LongHart (big blind) collected ($0.02)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302051934:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:27:22 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.34 in chips) 
+Seat 3: Lorpugo ($1.96 in chips) 
+Seat 4: luiyi11 ($1.11 in chips) 
+Seat 5: LongHart ($2.13 in chips) 
+Seat 6: KKonroy ($2.25 in chips) 
+LongHart: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3h]
+WolfSoul66: folds 
+jagAERanton: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+luiyi11: folds 
+LongHart: folds 
+KKonroy: folds 
+*** FLOP *** [Ks 8s Ts]
+jagAERanton: checks 
+Lorpugo: checks 
+*** TURN *** [Ks 8s Ts] [Th]
+jagAERanton: checks 
+Lorpugo: bets $0.09
+jagAERanton: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks 8s Ts Th]
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton folded on the Turn
+Seat 3: Lorpugo collected ($0.14)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: LongHart (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302059797:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:28:02 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: WolfSoul66 ($2.09 in chips) 
+Seat 2: jagAERanton ($3.28 in chips) 
+Seat 3: Lorpugo ($2.04 in chips) 
+Seat 4: luiyi11 ($1.11 in chips) 
+Seat 5: LongHart ($2.12 in chips) 
+Seat 6: KKonroy ($2.23 in chips) 
+KKonroy: posts small blind $0.01
+WolfSoul66: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5c]
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: raises $0.04 to $0.06
+LongHart: folds 
+KKonroy: folds 
+WolfSoul66: raises $0.24 to $0.30
+luiyi11: raises $0.81 to $1.11 and is all-in
+WolfSoul66: calls $0.81
+*** FLOP *** [9c 4s 3s]
+*** TURN *** [9c 4s 3s] [7c]
+*** RIVER *** [9c 4s 3s 7c] [6d]
+*** SHOW DOWN ***
+WolfSoul66: shows [Qh Ah] (high card Ace)
+luiyi11: shows [Kh Ad] (high card Ace - King kicker)
+luiyi11 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.23 | Rake $0.08 
+Board [9c 4s 3s 7c 6d]
+Seat 1: WolfSoul66 (big blind) showed [Qh Ah] and lost with high card Ace
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 showed [Kh Ad] and won ($2.15) with high card Ace
+Seat 5: LongHart (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302070635:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:28:56 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: WolfSoul66 ($2 in chips) 
+Seat 2: jagAERanton ($3.28 in chips) 
+Seat 3: Lorpugo ($2.04 in chips) 
+Seat 4: luiyi11 ($2.15 in chips) 
+Seat 5: LongHart ($2.12 in chips) 
+Seat 6: KKonroy ($2.22 in chips) 
+WolfSoul66: posts small blind $0.01
+jagAERanton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 4h]
+Lorpugo: folds 
+luiyi11: folds 
+LongHart: raises $0.04 to $0.06
+KKonroy: raises $0.10 to $0.16
+WolfSoul66: folds 
+jagAERanton: folds 
+LongHart: folds 
+Uncalled bet ($0.10) returned to KKonroy
+KKonroy collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: WolfSoul66 (small blind) folded before Flop
+Seat 2: jagAERanton (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: LongHart folded before Flop
+Seat 6: KKonroy (button) collected ($0.15)
+
+
+
+PokerStars Hand #239302076065:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:29:24 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: WolfSoul66 ($2 in chips) 
+Seat 2: jagAERanton ($3.26 in chips) 
+Seat 3: Lorpugo ($2.04 in chips) 
+Seat 5: LongHart ($2.06 in chips) 
+Seat 6: KKonroy ($2.31 in chips) 
+jagAERanton: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 4s]
+LongHart: folds 
+KKonroy: folds 
+WolfSoul66: raises $0.03 to $0.05
+jagAERanton: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to WolfSoul66
+WolfSoul66 collected $0.05 from pot
+WolfSoul66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: WolfSoul66 (button) collected ($0.05)
+Seat 2: jagAERanton (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 5: LongHart folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302079634:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:29:42 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: WolfSoul66 ($2.03 in chips) 
+Seat 2: jagAERanton ($3.25 in chips) 
+Seat 3: Lorpugo ($2.02 in chips) 
+Seat 5: LongHart ($2.06 in chips) 
+Seat 6: KKonroy ($2.31 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qh]
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: raises $0.04 to $0.06
+Lorpugo: calls $0.05
+LongHart: folds 
+*** FLOP *** [Jd 5c 4d]
+Lorpugo: checks 
+jagAERanton: checks 
+*** TURN *** [Jd 5c 4d] [9s]
+Lorpugo: bets $0.09
+jagAERanton: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jd 5c 4d 9s]
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton (button) folded on the Turn
+Seat 3: Lorpugo (small blind) collected ($0.14)
+Seat 5: LongHart (big blind) folded before Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302087767:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:30:22 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: WolfSoul66 ($2.03 in chips) 
+Seat 2: jagAERanton ($3.19 in chips) 
+Seat 3: Lorpugo ($2.10 in chips) 
+Seat 5: LongHart ($2.04 in chips) 
+Seat 6: KKonroy ($2.31 in chips) 
+LongHart: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Td]
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+LongHart: folds 
+Uncalled bet ($0.01) returned to KKonroy
+KKonroy collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: LongHart (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239302090804:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:30:37 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: WolfSoul66 ($2.03 in chips) 
+Seat 2: jagAERanton ($3.19 in chips) 
+Seat 3: Lorpugo ($2.10 in chips) 
+Seat 5: LongHart ($2.03 in chips) 
+Seat 6: KKonroy ($2.32 in chips) 
+KKonroy: posts small blind $0.01
+WolfSoul66: posts big blind $0.02
+luiyi11: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ah]
+jagAERanton: folds 
+Lorpugo: raises $0.05 to $0.07
+LongHart: folds 
+LongHart leaves the table
+KKonroy: folds 
+WolfSoul66: calls $0.05
+*** FLOP *** [Js 7h Ad]
+WolfSoul66: checks 
+Lorpugo: bets $0.09
+WolfSoul66: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Js 7h Ad]
+Seat 1: WolfSoul66 (big blind) folded on the Flop
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.14)
+Seat 5: LongHart (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302097570:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:31:11 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: WolfSoul66 ($2 in chips) 
+Seat 2: jagAERanton ($3.19 in chips) 
+Seat 3: Lorpugo ($2.17 in chips) 
+Seat 6: KKonroy ($2.31 in chips) 
+WolfSoul66: posts small blind $0.01
+jagAERanton: posts big blind $0.02
+luiyi11: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Js]
+Lorpugo: folds 
+KKonroy: folds 
+WolfSoul66: raises $0.04 to $0.06
+jagAERanton: folds 
+Uncalled bet ($0.04) returned to WolfSoul66
+WolfSoul66 collected $0.04 from pot
+WolfSoul66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: WolfSoul66 (small blind) collected ($0.04)
+Seat 2: jagAERanton (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302100683:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:31:26 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: WolfSoul66 ($2.02 in chips) 
+Seat 2: jagAERanton ($3.17 in chips) 
+Seat 3: Lorpugo ($2.17 in chips) 
+Seat 4: luiyi11 ($2.15 in chips) 
+Seat 6: KKonroy ($2.31 in chips) 
+jagAERanton: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+luiyi11: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 7s]
+luiyi11: checks 
+oceter joins the table at seat #5 
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: checks 
+*** FLOP *** [3c 2d Kc]
+Lorpugo: bets $0.04
+luiyi11: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3c 2d Kc]
+Seat 1: WolfSoul66 (button) folded before Flop (didn't bet)
+Seat 2: jagAERanton (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.06)
+Seat 4: luiyi11 folded on the Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302105942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:31:53 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: WolfSoul66 ($2.02 in chips) 
+Seat 2: jagAERanton ($3.16 in chips) 
+Seat 3: Lorpugo ($2.21 in chips) 
+Seat 4: luiyi11 ($2.12 in chips) 
+Seat 6: KKonroy ($2.31 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+oceter: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 4h]
+KKonroy: folds 
+WolfSoul66: folds 
+jagAERanton: raises $0.04 to $0.06
+Lorpugo: folds 
+luiyi11: folds 
+Uncalled bet ($0.04) returned to jagAERanton
+jagAERanton collected $0.05 from pot
+jagAERanton: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302110853:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:32:17 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: WolfSoul66 ($2.02 in chips) 
+Seat 2: jagAERanton ($3.19 in chips) 
+Seat 3: Lorpugo ($2.20 in chips) 
+Seat 4: luiyi11 ($2.10 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.31 in chips) 
+luiyi11: posts small blind $0.01
+oceter: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jc]
+KKonroy: raises $0.03 to $0.05
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: raises $0.17 to $0.22
+KKonroy: calls $0.17
+*** FLOP *** [Tc 9h Th]
+oceter: checks 
+KKonroy: bets $0.28
+oceter: folds 
+Uncalled bet ($0.28) returned to KKonroy
+KKonroy collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Tc 9h Th]
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: oceter (big blind) folded on the Flop
+Seat 6: KKonroy collected ($0.43)
+
+
+
+PokerStars Hand #239302118535:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:32:56 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: WolfSoul66 ($2.02 in chips) 
+Seat 2: jagAERanton ($3.19 in chips) 
+Seat 3: Lorpugo ($2.20 in chips) 
+Seat 4: luiyi11 ($2.09 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.52 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5s]
+WolfSoul66: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: raises $0.04 to $0.06
+KKonroy: folds 
+Uncalled bet ($0.04) returned to oceter
+oceter collected $0.04 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: WolfSoul66 folded before Flop (didn't bet)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: oceter (small blind) collected ($0.04)
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302122783:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:33:16 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 2: jagAERanton ($3.19 in chips) 
+Seat 3: Lorpugo ($2.20 in chips) 
+Seat 4: luiyi11 ($2.09 in chips) 
+Seat 5: oceter ($2.02 in chips) 
+Seat 6: KKonroy ($2.50 in chips) 
+KKonroy: posts small blind $0.01
+WolfSoul66: is sitting out 
+jagAERanton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4c]
+Lorpugo: folds 
+luiyi11: folds 
+oceter: raises $0.03 to $0.05
+KKonroy: folds 
+jagAERanton: folds 
+Uncalled bet ($0.03) returned to oceter
+oceter collected $0.05 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jagAERanton (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter (button) collected ($0.05)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302125210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:33:28 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 2: jagAERanton ($3.17 in chips) 
+Seat 3: Lorpugo ($2.20 in chips) 
+Seat 4: luiyi11 ($2.09 in chips) 
+Seat 5: oceter ($2.05 in chips) 
+Seat 6: KKonroy ($2.49 in chips) 
+jagAERanton: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6d]
+luiyi11: folds 
+oceter: raises $0.03 to $0.05
+WolfSoul66 leaves the table
+KKonroy: folds 
+jagAERanton: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to oceter
+oceter collected $0.05 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jagAERanton (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter collected ($0.05)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302128475:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:33:45 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 2: jagAERanton ($3.16 in chips) 
+Seat 3: Lorpugo ($2.18 in chips) 
+Seat 4: luiyi11 ($2.09 in chips) 
+Seat 5: oceter ($2.08 in chips) 
+Seat 6: KKonroy ($2.49 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6h]
+oceter: folds 
+KKonroy: folds 
+jagAERanton: folds 
+joegere joins the table at seat #1 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: jagAERanton (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302130909:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:33:58 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: joegere ($1.60 in chips) 
+Seat 2: jagAERanton ($3.16 in chips) 
+Seat 3: Lorpugo ($2.20 in chips) 
+Seat 4: luiyi11 ($2.07 in chips) 
+Seat 5: oceter ($2.08 in chips) 
+Seat 6: KKonroy ($2.49 in chips) 
+luiyi11: posts small blind $0.01
+oceter: posts big blind $0.02
+joegere: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kc]
+KKonroy: folds 
+joegere: checks 
+jagAERanton: folds 
+Lorpugo: calls $0.02
+luiyi11: folds 
+oceter: checks 
+*** FLOP *** [7d 8c 4h]
+oceter: checks 
+joegere: checks 
+Lorpugo: checks 
+*** TURN *** [7d 8c 4h] [9d]
+oceter: checks 
+joegere: checks 
+Lorpugo: checks 
+*** RIVER *** [7d 8c 4h 9d] [7s]
+oceter: checks 
+joegere: checks 
+Lorpugo: bets $0.05
+oceter: folds 
+joegere: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7d 8c 4h 9d 7s]
+Seat 1: joegere folded on the River (didn't bet)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.07)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: oceter (big blind) folded on the River
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302142377:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:34:54 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: joegere ($1.58 in chips) 
+Seat 2: jagAERanton ($3.16 in chips) 
+Seat 3: Lorpugo ($2.25 in chips) 
+Seat 4: luiyi11 ($2.06 in chips) 
+Seat 5: oceter ($2.06 in chips) 
+Seat 6: KKonroy ($2.49 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Kc]
+joegere: raises $0.02 to $0.04
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: folds 
+KKonroy: folds 
+Uncalled bet ($0.02) returned to joegere
+joegere collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: joegere collected ($0.05)
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: oceter (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302145433:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:35:09 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: joegere ($1.61 in chips) 
+Seat 2: jagAERanton ($3.16 in chips) 
+Seat 3: Lorpugo ($2.25 in chips) 
+Seat 4: luiyi11 ($2.06 in chips) 
+Seat 5: oceter ($2.05 in chips) 
+Seat 6: KKonroy ($2.47 in chips) 
+KKonroy: posts small blind $0.01
+joegere: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5s]
+jagAERanton: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: raises $0.03 to $0.05
+KKonroy: folds 
+joegere: raises $0.05 to $0.10
+oceter: calls $0.05
+*** FLOP *** [Th Jh Kc]
+joegere: bets $0.10
+oceter: calls $0.10
+*** TURN *** [Th Jh Kc] [Qd]
+joegere: bets $0.10
+jagAERanton leaves the table
+oceter: calls $0.10
+*** RIVER *** [Th Jh Kc Qd] [4d]
+joegere: bets $0.10
+oceter: calls $0.10
+*** SHOW DOWN ***
+joegere: shows [Qs Kd] (two pair, Kings and Queens)
+oceter: mucks hand 
+joegere collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [Th Jh Kc Qd 4d]
+Seat 1: joegere (big blind) showed [Qs Kd] and won ($0.78) with two pair, Kings and Queens
+Seat 2: jagAERanton folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter (button) mucked [Ks Tc]
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302159237:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:36:17 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: joegere ($1.99 in chips) 
+Seat 3: Lorpugo ($2.25 in chips) 
+Seat 4: luiyi11 ($2.06 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.46 in chips) 
+joegere: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h As]
+luiyi11: folds 
+oceter: folds 
+KKonroy: folds 
+joegere: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+joegere: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: joegere (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.04)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302162872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:36:34 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: joegere ($1.97 in chips) 
+Seat 3: Lorpugo ($2.27 in chips) 
+Seat 4: luiyi11 ($2.06 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.46 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7c]
+oceter: folds 
+KKonroy: folds 
+joegere: calls $0.02
+Lorpugo: calls $0.01
+luiyi11: checks 
+*** FLOP *** [5c Ts Td]
+lalon22 joins the table at seat #2 
+Lorpugo: bets $0.04
+luiyi11: folds 
+joegere: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5c Ts Td]
+Seat 1: joegere (button) folded on the Flop
+Seat 3: Lorpugo (small blind) collected ($0.06)
+Seat 4: luiyi11 (big blind) folded on the Flop
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302167065:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:36:55 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: joegere ($1.95 in chips) 
+Seat 3: Lorpugo ($2.31 in chips) 
+Seat 4: luiyi11 ($2.04 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.46 in chips) 
+luiyi11: posts small blind $0.01
+oceter: posts big blind $0.02
+lalon22: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qc]
+KKonroy: folds 
+joegere: raises $0.08 to $0.10
+Lorpugo: folds 
+luiyi11: folds 
+oceter: folds 
+Uncalled bet ($0.08) returned to joegere
+joegere collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: joegere collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: oceter (big blind) folded before Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302171706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:37:18 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: joegere ($1.98 in chips) 
+Seat 3: Lorpugo ($2.31 in chips) 
+Seat 4: luiyi11 ($2.03 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.46 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+lalon22: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6s]
+joegere: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: folds 
+Uncalled bet ($0.01) returned to KKonroy
+KKonroy collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: joegere folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: oceter (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239302174115:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:37:29 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: joegere ($1.98 in chips) 
+Seat 3: Lorpugo ($2.31 in chips) 
+Seat 4: luiyi11 ($2.03 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.47 in chips) 
+KKonroy: posts small blind $0.01
+joegere: posts big blind $0.02
+lalon22: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9h]
+Lorpugo: raises $0.02 to $0.04
+luiyi11: folds 
+oceter: folds 
+KKonroy: folds 
+joegere: calls $0.02
+*** FLOP *** [Qc 4h Kc]
+joegere: checks 
+Lorpugo: bets $0.04
+joegere: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qc 4h Kc]
+Seat 1: joegere (big blind) folded on the Flop
+Seat 3: Lorpugo collected ($0.09)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302179037:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:37:54 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: joegere ($1.94 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.36 in chips) 
+Seat 4: luiyi11 ($2.03 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.46 in chips) 
+joegere: posts small blind $0.01
+lalon22: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Th]
+Lorpugo: folds 
+luiyi11: folds 
+oceter: raises $0.03 to $0.05
+KKonroy: folds 
+joegere: calls $0.04
+lalon22: calls $0.03
+*** FLOP *** [5c 3h Ac]
+joegere: checks 
+lalon22: checks 
+oceter: checks 
+*** TURN *** [5c 3h Ac] [4h]
+joegere: bets $0.06
+lalon22: folds 
+oceter: folds 
+Uncalled bet ($0.06) returned to joegere
+joegere collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5c 3h Ac 4h]
+Seat 1: joegere (small blind) collected ($0.14)
+Seat 2: lalon22 (big blind) folded on the Turn
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter folded on the Turn
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302189058:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:38:42 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: joegere ($2.03 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.36 in chips) 
+Seat 4: luiyi11 ($2.03 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.46 in chips) 
+lalon22: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Qs]
+luiyi11: folds 
+oceter: folds 
+KKonroy: raises $0.03 to $0.05
+joegere: folds 
+lalon22: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [Ad Th 8s]
+lalon22: checks 
+KKonroy: bets $0.08
+lalon22: folds 
+Uncalled bet ($0.08) returned to KKonroy
+KKonroy collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ad Th 8s]
+Seat 1: joegere (button) folded before Flop (didn't bet)
+Seat 2: lalon22 (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy collected ($0.12)
+
+
+
+PokerStars Hand #239302194957:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:39:11 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: joegere ($2.03 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.34 in chips) 
+Seat 4: luiyi11 ($2.03 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.53 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Qs]
+oceter: raises $0.03 to $0.05
+KKonroy: folds 
+joegere: folds 
+lalon22: folds 
+Lorpugo: raises $0.12 to $0.17
+luiyi11: folds 
+oceter: calls $0.12
+*** FLOP *** [Tc 3d 7s]
+Lorpugo: checks 
+oceter: checks 
+*** TURN *** [Tc 3d 7s] [Ah]
+Lorpugo: bets $0.30
+oceter: folds 
+Uncalled bet ($0.30) returned to Lorpugo
+Lorpugo collected $0.35 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Tc 3d 7s Ah]
+Seat 1: joegere folded before Flop (didn't bet)
+Seat 2: lalon22 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.35)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: oceter folded on the Turn
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302204271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:39:56 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: joegere ($2.03 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: luiyi11 ($2.01 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.53 in chips) 
+luiyi11: posts small blind $0.01
+oceter: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6d]
+KKonroy: folds 
+joegere: raises $0.04 to $0.06
+lalon22: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: calls $0.04
+*** FLOP *** [Qc 9d 6s]
+oceter: checks 
+joegere: bets $0.06
+oceter: calls $0.06
+*** TURN *** [Qc 9d 6s] [4d]
+oceter: checks 
+joegere: bets $0.10
+oceter: calls $0.10
+*** RIVER *** [Qc 9d 6s 4d] [Td]
+oceter: checks 
+joegere: checks 
+*** SHOW DOWN ***
+oceter: shows [Ks 9s] (a pair of Nines)
+joegere: shows [Tc As] (a pair of Tens)
+joegere collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qc 9d 6s 4d Td]
+Seat 1: joegere showed [Tc As] and won ($0.43) with a pair of Tens
+Seat 2: lalon22 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: oceter (big blind) showed [Ks 9s] and lost with a pair of Nines
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302215587:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:40:51 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: joegere ($2.24 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: luiyi11 ($2 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.53 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 3h]
+joegere: folds 
+lalon22: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: folds 
+Uncalled bet ($0.01) returned to KKonroy
+KKonroy collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: joegere folded before Flop (didn't bet)
+Seat 2: lalon22 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: oceter (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239302217893:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:41:02 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: joegere ($2.24 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: luiyi11 ($2 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.54 in chips) 
+KKonroy: posts small blind $0.01
+joegere: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Qs]
+lalon22: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: folds 
+KKonroy: raises $0.03 to $0.05
+joegere: calls $0.03
+*** FLOP *** [5s 5h Qd]
+KKonroy: checks 
+joegere: checks 
+*** TURN *** [5s 5h Qd] [5c]
+KKonroy: checks 
+joegere: bets $0.04
+KKonroy: folds 
+Uncalled bet ($0.04) returned to joegere
+joegere collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5s 5h Qd 5c]
+Seat 1: joegere (big blind) collected ($0.10)
+Seat 2: lalon22 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239302227962:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:41:51 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: joegere ($2.29 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: luiyi11 ($2 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.49 in chips) 
+joegere: posts small blind $0.01
+lalon22: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 6s]
+Lorpugo: folds 
+luiyi11: folds 
+oceter: raises $0.03 to $0.05
+KKonroy: folds 
+joegere: calls $0.04
+lalon22: folds 
+*** FLOP *** [4s Ts Ac]
+joegere: checks 
+oceter: checks 
+*** TURN *** [4s Ts Ac] [5c]
+joegere: checks 
+oceter: bets $0.08
+joegere: folds 
+Uncalled bet ($0.08) returned to oceter
+oceter collected $0.12 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s Ts Ac 5c]
+Seat 1: joegere (small blind) folded on the Turn
+Seat 2: lalon22 (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter collected ($0.12)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302235438:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:42:27 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: joegere ($2.24 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: luiyi11 ($2 in chips) 
+Seat 5: oceter ($2.07 in chips) 
+Seat 6: KKonroy ($2.49 in chips) 
+lalon22: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Kc]
+luiyi11: folds 
+oceter: raises $0.03 to $0.05
+KKonroy: folds 
+joegere: folds 
+joegere leaves the table
+lalon22: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to oceter
+oceter collected $0.05 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: joegere (button) folded before Flop (didn't bet)
+Seat 2: lalon22 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter collected ($0.05)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302239539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:42:46 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.50 in chips) 
+Seat 4: luiyi11 ($2 in chips) 
+Seat 5: oceter ($2.10 in chips) 
+Seat 6: KKonroy ($2.49 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+oceter: folds 
+nico1nied joins the table at seat #1 
+KKonroy: raises $0.04 to $0.06
+lalon22: folds 
+Lorpugo: folds 
+luiyi11: calls $0.04
+*** FLOP *** [2s 5h Ac]
+luiyi11: checks 
+KKonroy: checks 
+*** TURN *** [2s 5h Ac] [Qh]
+luiyi11: checks 
+KKonroy: bets $0.08
+luiyi11: folds 
+Uncalled bet ($0.08) returned to KKonroy
+KKonroy collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2s 5h Ac Qh]
+Seat 2: lalon22 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded on the Turn
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy collected ($0.13)
+
+
+
+PokerStars Hand #239302247622:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:43:25 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.49 in chips) 
+Seat 4: luiyi11 ($1.94 in chips) 
+Seat 5: oceter ($2.10 in chips) 
+Seat 6: KKonroy ($2.56 in chips) 
+luiyi11: posts small blind $0.01
+oceter: posts big blind $0.02
+nico1nied: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 7s]
+KKonroy: raises $0.04 to $0.06
+lalon22: folds 
+Lorpugo: raises $0.12 to $0.18
+luiyi11: folds 
+oceter: folds 
+KKonroy: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 2: lalon22 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.15)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: oceter (big blind) folded before Flop
+Seat 6: KKonroy folded before Flop
+
+
+
+PokerStars Hand #239302251660:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:43:44 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.58 in chips) 
+Seat 4: luiyi11 ($1.93 in chips) 
+Seat 5: oceter ($2.08 in chips) 
+Seat 6: KKonroy ($2.50 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+nico1nied: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9d]
+lalon22: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+oceter: raises $0.19 to $0.25
+KKonroy: folds 
+Lorpugo: folds 
+Uncalled bet ($0.19) returned to oceter
+oceter collected $0.14 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 2: lalon22 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: oceter (small blind) collected ($0.14)
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302255748:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:44:04 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: lalon22 ($2 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: luiyi11 ($1.93 in chips) 
+Seat 5: oceter ($2.16 in chips) 
+Seat 6: KKonroy ($2.48 in chips) 
+KKonroy: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2h]
+lalon22: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: folds 
+KKonroy: folds 
+Uncalled bet ($0.01) returned to nico1nied
+nico1nied collected $0.02 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: nico1nied (big blind) collected ($0.02)
+Seat 2: lalon22 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302258665:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:44:18 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.01 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: luiyi11 ($1.93 in chips) 
+Seat 5: oceter ($2.16 in chips) 
+Seat 6: KKonroy ($2.47 in chips) 
+nico1nied: posts small blind $0.01
+lalon22: is sitting out 
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2s]
+luiyi11: folds 
+oceter: folds 
+KKonroy: raises $0.03 to $0.05
+nico1nied: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to KKonroy
+KKonroy collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy (button) collected ($0.05)
+
+
+
+PokerStars Hand #239302261376:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:44:31 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 3: Lorpugo ($2.50 in chips) 
+Seat 4: luiyi11 ($1.93 in chips) 
+Seat 5: oceter ($2.16 in chips) 
+Seat 6: KKonroy ($2.50 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 3c]
+oceter: raises $0.03 to $0.05
+KKonroy: raises $0.13 to $0.18
+lalon22 leaves the table
+nico1nied: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: raises $0.32 to $0.50
+KKonroy: folds 
+Uncalled bet ($0.32) returned to oceter
+oceter collected $0.39 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0 
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: oceter collected ($0.39)
+Seat 6: KKonroy folded before Flop
+
+
+
+PokerStars Hand #239302267907:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:45:02 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 3: Lorpugo ($2.49 in chips) 
+Seat 4: luiyi11 ($1.91 in chips) 
+Seat 5: oceter ($2.37 in chips) 
+Seat 6: KKonroy ($2.32 in chips) 
+luiyi11: posts small blind $0.01
+oceter: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 8s]
+KKonroy: folds 
+nico1nied: folds 
+Lorpugo: folds 
+luiyi11: calls $0.01
+oceter: checks 
+*** FLOP *** [Th 7d 2h]
+luiyi11: checks 
+blizpanic joins the table at seat #2 
+oceter: bets $0.03
+luiyi11: folds 
+Uncalled bet ($0.03) returned to oceter
+oceter collected $0.04 from pot
+oceter: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Th 7d 2h]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded on the Flop
+Seat 5: oceter (big blind) collected ($0.04)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302274584:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:45:34 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 3: Lorpugo ($2.49 in chips) 
+Seat 4: luiyi11 ($1.89 in chips) 
+Seat 5: oceter ($2.39 in chips) 
+Seat 6: KKonroy ($2.32 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+blizpanic: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 6c]
+nico1nied: folds 
+Lorpugo: folds 
+luiyi11: folds 
+oceter: folds 
+Uncalled bet ($0.01) returned to KKonroy
+KKonroy collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: oceter (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239302278391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:45:53 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 3: Lorpugo ($2.49 in chips) 
+Seat 4: luiyi11 ($1.89 in chips) 
+Seat 5: oceter ($2.38 in chips) 
+Seat 6: KKonroy ($2.33 in chips) 
+KKonroy: posts small blind $0.01
+nico1nied: posts big blind $0.02
+blizpanic: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Qs]
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+oceter: folds 
+KKonroy: folds 
+nico1nied: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302281674:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:46:09 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($0.80 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 5: oceter ($2.38 in chips) 
+Seat 6: KKonroy ($2.32 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qh]
+Lorpugo: folds 
+oceter: folds 
+KKonroy: raises $0.03 to $0.05
+nico1nied: folds 
+blizpanic: calls $0.03
+*** FLOP *** [8d 3s 4c]
+blizpanic: bets $0.02
+KKonroy: raises $0.09 to $0.11
+blizpanic: folds 
+Uncalled bet ($0.09) returned to KKonroy
+KKonroy collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8d 3s 4c]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy (button) collected ($0.14)
+
+
+
+PokerStars Hand #239302285428:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:46:27 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($0.73 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 5: oceter ($2.38 in chips) 
+Seat 6: KKonroy ($2.39 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ad]
+oceter: folds 
+KKonroy: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.05
+Lorpugo: raises $0.12 to $0.18
+nico1nied: folds 
+blizpanic: calls $0.12
+*** FLOP *** [Ac Qc 3s]
+blizpanic: bets $0.55 and is all-in
+Lorpugo: calls $0.55
+*** TURN *** [Ac Qc 3s] [4c]
+*** RIVER *** [Ac Qc 3s 4c] [6d]
+*** SHOW DOWN ***
+blizpanic: shows [Jc Kc] (a flush, Ace high)
+Lorpugo: shows [As Ad] (three of a kind, Aces)
+blizpanic collected $1.47 from pot
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.05 
+Board [Ac Qc 3s 4c 6d]
+Seat 1: nico1nied (button) folded before Flop
+Seat 2: blizpanic (small blind) showed [Jc Kc] and won ($1.47) with a flush, Ace high
+Seat 3: Lorpugo (big blind) showed [As Ad] and lost with three of a kind, Aces
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302291454:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:46:56 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.47 in chips) 
+Seat 3: Lorpugo ($1.79 in chips) 
+Seat 5: oceter ($2.38 in chips) 
+Seat 6: KKonroy ($2.39 in chips) 
+Lorpugo: posts small blind $0.01
+oceter: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6c]
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+oceter: calls $0.04
+*** FLOP *** [2c 8c 7d]
+Lorpugo: bets $0.08
+oceter: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2c 8c 7d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.12)
+Seat 5: oceter (big blind) folded on the Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302295700:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:47:16 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.47 in chips) 
+Seat 3: Lorpugo ($1.85 in chips) 
+Seat 5: oceter ($2.32 in chips) 
+Seat 6: KKonroy ($2.39 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 8c]
+nico1nied: folds 
+blizpanic: calls $0.02
+Lorpugo: calls $0.02
+oceter: folds 
+KKonroy: checks 
+*** FLOP *** [7c Td As]
+KKonroy: checks 
+blizpanic: checks 
+Lorpugo: bets $0.03
+KKonroy: folds 
+blizpanic: calls $0.03
+*** TURN *** [7c Td As] [7s]
+blizpanic: checks 
+Lorpugo: checks 
+*** RIVER *** [7c Td As 7s] [3s]
+blizpanic: bets $0.30
+Lorpugo: folds 
+Uncalled bet ($0.30) returned to blizpanic
+blizpanic collected $0.13 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7c Td As 7s 3s]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.13)
+Seat 3: Lorpugo (button) folded on the River
+Seat 5: oceter (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239302303013:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:47:50 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.55 in chips) 
+Seat 3: Lorpugo ($1.80 in chips) 
+Seat 5: oceter ($2.31 in chips) 
+Seat 6: KKonroy ($2.37 in chips) 
+KKonroy: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9h]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+oceter: folds 
+KKonroy: folds 
+nico1nied: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: oceter (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302310088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:48:25 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.58 in chips) 
+Seat 3: Lorpugo ($1.80 in chips) 
+Seat 5: oceter ($2.31 in chips) 
+Seat 6: KKonroy ($2.36 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 3d]
+Lorpugo: folds 
+oceter: raises $0.03 to $0.05
+KKonroy: raises $0.11 to $0.16
+nico1nied: folds 
+blizpanic: folds 
+oceter: calls $0.11
+*** FLOP *** [9s Kd Ah]
+oceter: checks 
+KKonroy: bets $0.22
+oceter: calls $0.22
+*** TURN *** [9s Kd Ah] [6h]
+oceter: checks 
+KKonroy: checks 
+*** RIVER *** [9s Kd Ah 6h] [2c]
+oceter: checks 
+KKonroy: checks 
+*** SHOW DOWN ***
+oceter: shows [9c 8c] (a pair of Nines)
+KKonroy: shows [Ks Ts] (a pair of Kings)
+KKonroy collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03 
+Board [9s Kd Ah 6h 2c]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: oceter showed [9c 8c] and lost with a pair of Nines
+Seat 6: KKonroy (button) showed [Ks Ts] and won ($0.76) with a pair of Kings
+
+
+
+PokerStars Hand #239302316961:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:48:58 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.56 in chips) 
+Seat 3: Lorpugo ($1.80 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.74 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Jd]
+oceter: raises $0.03 to $0.05
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [2c 9c 5c]
+blizpanic: bets $0.04
+Lorpugo: folds 
+oceter: folds 
+Uncalled bet ($0.04) returned to blizpanic
+blizpanic collected $0.14 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 9c 5c]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) collected ($0.14)
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 5: oceter folded on the Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302321649:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:49:20 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.65 in chips) 
+Seat 3: Lorpugo ($1.75 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.74 in chips) 
+Lorpugo: posts small blind $0.01
+oceter: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 7c]
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.03
+oceter: calls $0.02
+*** FLOP *** [4s Ad 2h]
+Lorpugo: checks 
+oceter: checks 
+blizpanic: checks 
+*** TURN *** [4s Ad 2h] [As]
+Lorpugo: checks 
+oceter: checks 
+blizpanic: bets $0.12
+Lorpugo: folds 
+oceter: folds 
+Uncalled bet ($0.12) returned to blizpanic
+blizpanic collected $0.12 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s Ad 2h As]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) collected ($0.12)
+Seat 3: Lorpugo (small blind) folded on the Turn
+Seat 5: oceter (big blind) folded on the Turn
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302331140:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:50:06 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.73 in chips) 
+Seat 3: Lorpugo ($1.71 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.74 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9c]
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.06
+Lorpugo: calls $0.06
+oceter: folds 
+KKonroy: calls $0.04
+*** FLOP *** [5h Kc Tc]
+KKonroy: checks 
+nico1nied: checks 
+blizpanic: checks 
+Lorpugo: bets $0.08
+KKonroy: calls $0.08
+nico1nied: folds 
+blizpanic: folds 
+*** TURN *** [5h Kc Tc] [8c]
+KKonroy: checks 
+Lorpugo: checks 
+*** RIVER *** [5h Kc Tc 8c] [Qc]
+KKonroy: bets $0.26
+Lorpugo: calls $0.26
+*** SHOW DOWN ***
+KKonroy: shows [9d Td] (a pair of Tens)
+Lorpugo: shows [9s 9c] (a flush, King high)
+Lorpugo collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [5h Kc Tc 8c Qc]
+Seat 1: nico1nied folded on the Flop
+Seat 2: blizpanic folded on the Flop
+Seat 3: Lorpugo (button) showed [9s 9c] and won ($0.90) with a flush, King high
+Seat 5: oceter (small blind) folded before Flop
+Seat 6: KKonroy (big blind) showed [9d Td] and lost with a pair of Tens
+
+
+
+PokerStars Hand #239302339305:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:50:45 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.67 in chips) 
+Seat 3: Lorpugo ($2.21 in chips) 
+Seat 4: luiyi11 ($1.89 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.34 in chips) 
+KKonroy: posts small blind $0.01
+nico1nied: posts big blind $0.02
+luiyi11: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9d]
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+oceter: folds 
+KKonroy: calls $0.05
+nico1nied: calls $0.04
+*** FLOP *** [Kc 4d Ks]
+KKonroy: bets $0.13
+nico1nied: folds 
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to KKonroy
+KKonroy collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Kc 4d Ks]
+Seat 1: nico1nied (big blind) folded on the Flop
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #239302344756:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:51:11 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.67 in chips) 
+Seat 3: Lorpugo ($2.15 in chips) 
+Seat 4: luiyi11 ($1.86 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.48 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5s]
+Lorpugo: folds 
+luiyi11: calls $0.02
+oceter: folds 
+KKonroy: folds 
+nico1nied: raises $0.06 to $0.08
+blizpanic: folds 
+luiyi11: folds 
+Uncalled bet ($0.06) returned to nico1nied
+nico1nied collected $0.06 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: nico1nied (small blind) collected ($0.06)
+Seat 2: blizpanic (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302348775:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:51:31 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.04 in chips) 
+Seat 2: blizpanic ($1.65 in chips) 
+Seat 3: Lorpugo ($2.15 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.48 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 4s]
+luiyi11: folds 
+oceter: folds 
+KKonroy: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [6s Ad 9h]
+blizpanic: bets $0.02
+nico1nied: calls $0.02
+*** TURN *** [6s Ad 9h] [3d]
+blizpanic: bets $0.02
+nico1nied: calls $0.02
+*** RIVER *** [6s Ad 9h 3d] [2d]
+blizpanic: bets $0.12
+nico1nied: calls $0.12
+*** SHOW DOWN ***
+blizpanic: shows [5c 8s] (high card Ace)
+nico1nied: shows [As 8d] (a pair of Aces)
+nico1nied collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [6s Ad 9h 3d 2d]
+Seat 1: nico1nied (button) showed [As 8d] and won ($0.44) with a pair of Aces
+Seat 2: blizpanic (small blind) showed [5c 8s] and lost with high card Ace
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302355320:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:52:03 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.26 in chips) 
+Seat 2: blizpanic ($1.43 in chips) 
+Seat 3: Lorpugo ($2.13 in chips) 
+Seat 4: luiyi11 ($1.84 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.48 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Kd]
+oceter: folds 
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: raises $0.10 to $0.14
+luiyi11: folds 
+blizpanic: calls $0.10
+*** FLOP *** [6h Jd Kc]
+Lorpugo: bets $0.10
+blizpanic: calls $0.10
+*** TURN *** [6h Jd Kc] [3d]
+Lorpugo: bets $0.24
+blizpanic: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.48 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [6h Jd Kc 3d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) folded on the Turn
+Seat 3: Lorpugo (small blind) collected ($0.48)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302363687:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:52:44 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.26 in chips) 
+Seat 2: blizpanic ($1.19 in chips) 
+Seat 3: Lorpugo ($2.37 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.48 in chips) 
+oceter: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2d]
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: folds 
+oceter: raises $0.04 to $0.06
+KKonroy: raises $0.10 to $0.16
+oceter: folds 
+Uncalled bet ($0.10) returned to KKonroy
+KKonroy collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: oceter (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239302368533:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:53:07 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.26 in chips) 
+Seat 2: blizpanic ($1.19 in chips) 
+Seat 3: Lorpugo ($2.37 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.54 in chips) 
+KKonroy: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 7d]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+oceter: folds 
+KKonroy: folds 
+nico1nied: calls $0.02
+*** FLOP *** [Kh 2c 3c]
+nico1nied: checks 
+blizpanic: bets $0.02
+Lorpugo: raises $0.04 to $0.06
+nico1nied: folds 
+blizpanic: calls $0.04
+*** TURN *** [Kh 2c 3c] [6s]
+blizpanic: checks 
+Lorpugo: bets $0.12
+blizpanic: calls $0.12
+*** RIVER *** [Kh 2c 3c 6s] [4d]
+blizpanic: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+blizpanic: shows [Ks 5h] (a straight, Deuce to Six)
+Lorpugo: mucks hand 
+blizpanic collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kh 2c 3c 6s 4d]
+Seat 1: nico1nied (big blind) folded on the Flop
+Seat 2: blizpanic showed [Ks 5h] and won ($0.47) with a straight, Deuce to Six
+Seat 3: Lorpugo mucked [7s 7d]
+Seat 5: oceter (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302377078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:53:48 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.22 in chips) 
+Seat 2: blizpanic ($1.44 in chips) 
+Seat 3: Lorpugo ($2.15 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.53 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 5c]
+Lorpugo: folds 
+oceter: folds 
+KKonroy: raises $0.03 to $0.05
+nico1nied: folds 
+blizpanic: calls $0.03
+*** FLOP *** [4s As 8d]
+blizpanic: checks 
+KKonroy: bets $0.07
+blizpanic: folds 
+Uncalled bet ($0.07) returned to KKonroy
+KKonroy collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4s As 8d]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy (button) collected ($0.11)
+
+
+
+PokerStars Hand #239302380681:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:54:05 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.21 in chips) 
+Seat 2: blizpanic ($1.39 in chips) 
+Seat 3: Lorpugo ($2.15 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.59 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qh]
+oceter: folds 
+KKonroy: raises $0.03 to $0.05
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: raises $0.11 to $0.16
+KKonroy: calls $0.11
+*** FLOP *** [Tc Kh Qs]
+Lorpugo: checks 
+KKonroy: checks 
+*** TURN *** [Tc Kh Qs] [7h]
+Lorpugo: bets $0.11
+KKonroy: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Tc Kh Qs 7h]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.32)
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy folded on the Turn
+
+
+
+PokerStars Hand #239302388517:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:54:43 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.21 in chips) 
+Seat 2: blizpanic ($1.38 in chips) 
+Seat 3: Lorpugo ($2.31 in chips) 
+Seat 4: luiyi11 ($1.82 in chips) 
+Seat 5: oceter ($2 in chips) 
+Seat 6: KKonroy ($2.43 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ac]
+oceter: folds 
+KKonroy: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.06
+Lorpugo: raises $0.20 to $0.26
+luiyi11: folds 
+nico1nied: folds 
+blizpanic: calls $0.20
+*** FLOP *** [Kh Kc 4s]
+Lorpugo: bets $0.24
+blizpanic: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.58 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Kh Kc 4s]
+Seat 1: nico1nied folded before Flop
+Seat 2: blizpanic (button) folded on the Flop
+Seat 3: Lorpugo (small blind) collected ($0.58)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: oceter folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302395636:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:55:19 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.15 in chips) 
+Seat 2: blizpanic ($1.12 in chips) 
+Seat 3: Lorpugo ($2.63 in chips) 
+Seat 4: luiyi11 ($1.80 in chips) 
+Seat 6: KKonroy ($2.43 in chips) 
+luiyi11: posts small blind $0.01
+oceter: is sitting out 
+oceter leaves the table
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 5h]
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+luiyi11: calls $0.03
+KKonroy: raises $0.20 to $0.24
+blizpanic: calls $0.20
+mar0 joins the table at seat #5 
+Lorpugo: folds 
+luiyi11: folds 
+*** FLOP *** [Jd 4s 3c]
+KKonroy: bets $0.35
+blizpanic: calls $0.35
+*** TURN *** [Jd 4s 3c] [As]
+KKonroy: bets $0.43
+blizpanic: calls $0.43
+*** RIVER *** [Jd 4s 3c As] [8d]
+KKonroy: bets $0.10
+blizpanic: calls $0.10 and is all-in
+*** SHOW DOWN ***
+KKonroy: shows [Qd Qs] (a pair of Queens)
+blizpanic: shows [Js Tc] (a pair of Jacks)
+KKonroy collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.32 | Rake $0.08 
+Board [Jd 4s 3c As 8d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic showed [Js Tc] and lost with a pair of Jacks
+Seat 3: Lorpugo (button) folded before Flop
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) showed [Qd Qs] and won ($2.24) with a pair of Queens
+
+
+
+PokerStars Hand #239302403620:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:56:04 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.15 in chips) 
+Seat 3: Lorpugo ($2.59 in chips) 
+Seat 4: luiyi11 ($1.76 in chips) 
+Seat 6: KKonroy ($3.55 in chips) 
+KKonroy: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Js]
+Lorpugo has timed out
+Lorpugo: folds 
+luiyi11: folds 
+KKonroy: raises $0.03 to $0.05
+nico1nied: folds 
+Uncalled bet ($0.03) returned to KKonroy
+KKonroy collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239302407456:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:56:26 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.13 in chips) 
+Seat 2: blizpanic ($0.80 in chips) 
+Seat 3: Lorpugo ($2.59 in chips) 
+Seat 4: luiyi11 ($1.76 in chips) 
+Seat 6: KKonroy ($3.57 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+mar0: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3s]
+Lorpugo: folds 
+luiyi11: folds 
+KKonroy: raises $0.03 to $0.05
+nico1nied: folds 
+blizpanic: calls $0.03
+*** FLOP *** [4h Kc Ah]
+blizpanic: bets $0.02
+KKonroy: calls $0.02
+*** TURN *** [4h Kc Ah] [6h]
+blizpanic: bets $0.02
+KKonroy: calls $0.02
+*** RIVER *** [4h Kc Ah 6h] [3d]
+blizpanic: bets $0.02
+KKonroy: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.18 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4h Kc Ah 6h 3d]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) collected ($0.18)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded on the River
+
+
+
+PokerStars Hand #239302412132:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:56:53 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.12 in chips) 
+Seat 2: blizpanic ($0.89 in chips) 
+Seat 3: Lorpugo ($2.59 in chips) 
+Seat 4: luiyi11 ($1.76 in chips) 
+Seat 6: KKonroy ($3.48 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+mar0: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 6s]
+luiyi11: folds 
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302414662:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:57:07 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.12 in chips) 
+Seat 2: blizpanic ($0.88 in chips) 
+Seat 3: Lorpugo ($2.60 in chips) 
+Seat 4: luiyi11 ($1.76 in chips) 
+Seat 6: KKonroy ($3.48 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+mar0: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 4s]
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: calls $0.02
+*** FLOP *** [Qd 6c 3c]
+luiyi11: checks 
+blizpanic: bets $0.02
+luiyi11: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.09 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qd 6c 3c]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) collected ($0.09)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded on the Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302419477:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:57:34 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.12 in chips) 
+Seat 2: blizpanic ($0.93 in chips) 
+Seat 3: Lorpugo ($2.59 in chips) 
+Seat 4: luiyi11 ($1.72 in chips) 
+Seat 5: mar0 ($2 in chips) 
+Seat 6: KKonroy ($3.48 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 3c]
+KKonroy: raises $0.04 to $0.06
+nico1nied: folds 
+blizpanic: calls $0.06
+Lorpugo: folds 
+luiyi11: folds 
+mar0: folds 
+*** FLOP *** [Th Ah 5c]
+KKonroy: bets $0.09
+blizpanic: calls $0.09
+*** TURN *** [Th Ah 5c] [2h]
+KKonroy: bets $0.20
+blizpanic: folds 
+Uncalled bet ($0.20) returned to KKonroy
+KKonroy collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Th Ah 5c 2h]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded on the Turn
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: mar0 (big blind) folded before Flop
+Seat 6: KKonroy collected ($0.32)
+
+
+
+PokerStars Hand #239302423355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:57:56 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.12 in chips) 
+Seat 2: blizpanic ($0.78 in chips) 
+Seat 3: Lorpugo ($2.59 in chips) 
+Seat 4: luiyi11 ($1.71 in chips) 
+Seat 5: mar0 ($1.98 in chips) 
+Seat 6: KKonroy ($3.65 in chips) 
+mar0: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 8s]
+nico1nied: folds 
+blizpanic: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+luiyi11: folds 
+mar0: folds 
+KKonroy: folds 
+blizpanic: calls $0.07
+*** FLOP *** [4h 7d Qc]
+blizpanic: checks 
+Lorpugo: bets $0.12
+blizpanic: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4h 7d Qc]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded on the Flop
+Seat 3: Lorpugo collected ($0.20)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302427387:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:58:18 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.12 in chips) 
+Seat 2: blizpanic ($0.69 in chips) 
+Seat 3: Lorpugo ($2.70 in chips) 
+Seat 4: luiyi11 ($1.71 in chips) 
+Seat 5: mar0 ($1.97 in chips) 
+Seat 6: KKonroy ($3.63 in chips) 
+KKonroy: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Tc]
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: calls $0.02
+mar0: raises $0.06 to $0.08
+KKonroy: folds 
+nico1nied: folds 
+luiyi11: calls $0.06
+*** FLOP *** [Kh 9s Jd]
+luiyi11: checks 
+mar0: bets $0.10
+luiyi11: calls $0.10
+*** TURN *** [Kh 9s Jd] [3h]
+luiyi11: checks 
+mar0: bets $0.22
+luiyi11: calls $0.22
+*** RIVER *** [Kh 9s Jd 3h] [9c]
+luiyi11: checks 
+mar0: bets $0.40
+luiyi11: calls $0.40
+*** SHOW DOWN ***
+mar0: shows [Jc Kd] (two pair, Kings and Jacks)
+luiyi11: mucks hand 
+mar0 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.08 
+Board [Kh 9s Jd 3h 9c]
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 mucked [Ah Kc]
+Seat 5: mar0 (button) showed [Jc Kd] and won ($1.55) with two pair, Kings and Jacks
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302437583:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:59:16 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.10 in chips) 
+Seat 2: blizpanic ($0.69 in chips) 
+Seat 3: Lorpugo ($2.70 in chips) 
+Seat 4: luiyi11 ($0.91 in chips) 
+Seat 5: mar0 ($2.72 in chips) 
+Seat 6: KKonroy ($3.62 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3h]
+Lorpugo: folds 
+luiyi11: raises $0.06 to $0.08
+mar0: calls $0.08
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: calls $0.06
+*** FLOP *** [2h Ah 3s]
+blizpanic: bets $0.06
+luiyi11: raises $0.77 to $0.83 and is all-in
+mar0: folds 
+blizpanic: folds 
+Uncalled bet ($0.77) returned to luiyi11
+luiyi11 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2h Ah 3s]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 collected ($0.36)
+Seat 5: mar0 folded on the Flop
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302441784:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:59:40 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.09 in chips) 
+Seat 2: blizpanic ($0.55 in chips) 
+Seat 3: Lorpugo ($2.70 in chips) 
+Seat 4: luiyi11 ($1.13 in chips) 
+Seat 5: mar0 ($2.64 in chips) 
+Seat 6: KKonroy ($3.62 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 6c]
+luiyi11: folds 
+mar0: folds 
+KKonroy: raises $0.03 to $0.05
+nico1nied: folds 
+blizpanic: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [Qs 9h Qd]
+blizpanic: checks 
+KKonroy: checks 
+*** TURN *** [Qs 9h Qd] [8d]
+blizpanic: bets $0.02
+KKonroy: raises $0.10 to $0.12
+blizpanic: calls $0.10
+*** RIVER *** [Qs 9h Qd 8d] [7c]
+blizpanic: bets $0.12
+KKonroy: calls $0.12
+*** SHOW DOWN ***
+blizpanic: shows [8s 7d] (two pair, Queens and Eights)
+KKonroy: shows [Kc 8c] (two pair, Queens and Eights - King kicker)
+KKonroy collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Qs 9h Qd 8d 7c]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) showed [8s 7d] and lost with two pair, Queens and Eights
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: KKonroy showed [Kc 8c] and won ($0.58) with two pair, Queens and Eights
+
+
+
+PokerStars Hand #239302448641:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:00:19 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.09 in chips) 
+Seat 2: blizpanic ($0.26 in chips) 
+Seat 3: Lorpugo ($2.68 in chips) 
+Seat 4: luiyi11 ($1.13 in chips) 
+Seat 5: mar0 ($2.64 in chips) 
+Seat 6: KKonroy ($3.91 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 6d]
+mar0: folds 
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302452863:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:00:42 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.09 in chips) 
+Seat 2: blizpanic ($0.29 in chips) 
+Seat 3: Lorpugo ($2.67 in chips) 
+Seat 4: luiyi11 ($1.11 in chips) 
+Seat 5: mar0 ($2.64 in chips) 
+Seat 6: KKonroy ($3.91 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 8c]
+KKonroy: folds 
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+mar0: calls $0.04
+*** FLOP *** [Ad 6h Th]
+mar0: checks 
+Lorpugo: bets $0.06
+mar0: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ad 6h Th]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.13)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: mar0 (big blind) folded on the Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302460370:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:01:21 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.09 in chips) 
+Seat 2: blizpanic ($0.29 in chips) 
+Seat 3: Lorpugo ($2.74 in chips) 
+Seat 4: luiyi11 ($1.10 in chips) 
+Seat 5: mar0 ($2.58 in chips) 
+mar0: posts small blind $0.01
+KKonroy: is sitting out 
+KKonroy leaves the table
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8d]
+blizpanic: raises $0.02 to $0.04
+MrEco99 joins the table at seat #6 
+Lorpugo: folds 
+luiyi11: folds 
+mar0: folds 
+nico1nied: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302465358:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:01:45 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.07 in chips) 
+Seat 2: blizpanic ($0.32 in chips) 
+Seat 3: Lorpugo ($2.74 in chips) 
+Seat 4: luiyi11 ($1.10 in chips) 
+Seat 5: mar0 ($2.57 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 5d]
+Lorpugo: folds 
+luiyi11: calls $0.02
+mar0: folds 
+nico1nied: folds 
+blizpanic: checks 
+*** FLOP *** [3d 4c 6d]
+blizpanic: bets $0.02
+luiyi11: raises $0.08 to $0.10
+blizpanic: calls $0.08
+*** TURN *** [3d 4c 6d] [4d]
+blizpanic: checks 
+luiyi11: bets $0.14
+blizpanic: folds 
+Uncalled bet ($0.14) returned to luiyi11
+luiyi11 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3d 4c 6d 4d]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Turn
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 collected ($0.24)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302472664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:02:21 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.06 in chips) 
+Seat 2: blizpanic ($0.20 in chips) 
+Seat 3: Lorpugo ($2.74 in chips) 
+Seat 4: luiyi11 ($1.22 in chips) 
+Seat 5: mar0 ($2.57 in chips) 
+Seat 6: MrEco99 ($2 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7c]
+luiyi11: folds 
+mar0: folds 
+MrEco99: checks 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+MrEco99: calls $0.02
+*** FLOP *** [Js 9d Jh]
+blizpanic: checks 
+Lorpugo: checks 
+MrEco99: checks 
+*** TURN *** [Js 9d Jh] [6h]
+blizpanic: checks 
+Lorpugo: bets $0.16
+MrEco99: folds 
+blizpanic: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js 9d Jh 6h]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) collected ($0.12)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded on the Turn
+
+
+
+PokerStars Hand #239302478992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:02:52 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.06 in chips) 
+Seat 2: blizpanic ($0.16 in chips) 
+Seat 3: Lorpugo ($2.82 in chips) 
+Seat 4: luiyi11 ($1.22 in chips) 
+Seat 5: mar0 ($2.57 in chips) 
+Seat 6: MrEco99 ($1.96 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7d]
+mar0: folds 
+MrEco99: calls $0.02
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: folds 
+MrEco99: calls $0.02
+*** FLOP *** [Ts 2d 2s]
+MrEco99: checks 
+blizpanic: bets $0.06
+MrEco99: folds 
+Uncalled bet ($0.06) returned to blizpanic
+blizpanic collected $0.11 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ts 2d 2s]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) collected ($0.11)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded on the Flop
+
+
+
+PokerStars Hand #239302484819:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:03:19 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.06 in chips) 
+Seat 2: blizpanic ($0.23 in chips) 
+Seat 3: Lorpugo ($2.81 in chips) 
+Seat 4: luiyi11 ($1.20 in chips) 
+Seat 6: MrEco99 ($1.92 in chips) 
+luiyi11: posts small blind $0.01
+mar0: is sitting out 
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 2d]
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: folds 
+MrEco99: calls $0.02
+*** FLOP *** [Tc 2c Kh]
+MrEco99: checks 
+blizpanic: bets $0.04
+MrEco99: raises $0.06 to $0.10
+blizpanic: calls $0.06
+*** TURN *** [Tc 2c Kh] [5d]
+MrEco99: checks 
+blizpanic: bets $0.09 and is all-in
+MrEco99: folds 
+Uncalled bet ($0.09) returned to blizpanic
+blizpanic collected $0.28 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Tc 2c Kh 5d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.28)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239302492369:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:03:55 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.06 in chips) 
+Seat 2: blizpanic ($0.37 in chips) 
+Seat 3: Lorpugo ($2.81 in chips) 
+Seat 4: luiyi11 ($1.19 in chips) 
+Seat 6: MrEco99 ($1.78 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 2h]
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: folds 
+MrEco99: raises $0.04 to $0.06
+nico1nied: folds 
+Uncalled bet ($0.04) returned to MrEco99
+MrEco99 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239302496082:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:04:13 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.04 in chips) 
+Seat 2: blizpanic ($0.37 in chips) 
+Seat 3: Lorpugo ($2.81 in chips) 
+Seat 4: luiyi11 ($1.19 in chips) 
+Seat 6: MrEco99 ($1.80 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ts]
+Lorpugo: folds 
+luiyi11: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.04
+*** FLOP *** [Kc Qc 7s]
+nico1nied: bets $0.04
+blizpanic: folds 
+Uncalled bet ($0.04) returned to nico1nied
+nico1nied collected $0.12 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kc Qc 7s]
+Seat 1: nico1nied (small blind) collected ($0.12)
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302500926:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:04:36 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.10 in chips) 
+Seat 2: blizpanic ($0.31 in chips) 
+Seat 3: Lorpugo ($2.81 in chips) 
+Seat 4: luiyi11 ($1.19 in chips) 
+Seat 6: MrEco99 ($1.80 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+mar0: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Qc]
+luiyi11: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to nico1nied
+nico1nied collected $0.05 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (button) collected ($0.05)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302503191:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:04:48 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.13 in chips) 
+Seat 2: blizpanic ($0.30 in chips) 
+Seat 3: Lorpugo ($2.79 in chips) 
+Seat 4: luiyi11 ($1.19 in chips) 
+Seat 6: MrEco99 ($1.80 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+mar0: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Ks]
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302507401:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:05:08 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.13 in chips) 
+Seat 2: blizpanic ($0.30 in chips) 
+Seat 3: Lorpugo ($2.81 in chips) 
+Seat 4: luiyi11 ($1.17 in chips) 
+Seat 5: mar0 ($2.57 in chips) 
+Seat 6: MrEco99 ($1.80 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Js]
+MrEco99: raises $0.02 to $0.04
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: calls $0.04
+luiyi11: folds 
+mar0: folds 
+*** FLOP *** [5s Kh Jh]
+MrEco99: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [5s Kh Jh] [Ac]
+MrEco99: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to MrEco99
+MrEco99 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5s Kh Jh Ac]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded on the Turn
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: mar0 (big blind) folded before Flop
+Seat 6: MrEco99 collected ($0.18)
+
+
+
+PokerStars Hand #239302513443:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:05:36 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.13 in chips) 
+Seat 2: blizpanic ($0.30 in chips) 
+Seat 3: Lorpugo ($2.73 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: mar0 ($2.55 in chips) 
+Seat 6: MrEco99 ($1.90 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 9c]
+nico1nied: raises $0.04 to $0.06
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: folds 
+mar0: raises $0.14 to $0.20
+MrEco99: folds 
+nico1nied: folds 
+Uncalled bet ($0.14) returned to mar0
+mar0 collected $0.14 from pot
+mar0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: nico1nied folded before Flop
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) collected ($0.14)
+Seat 6: MrEco99 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302519318:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:06:04 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.07 in chips) 
+Seat 2: blizpanic ($0.30 in chips) 
+Seat 3: Lorpugo ($2.73 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: mar0 ($2.63 in chips) 
+Seat 6: MrEco99 ($1.88 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6d]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11 has timed out
+luiyi11: folds 
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302525206:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:06:32 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.05 in chips) 
+Seat 2: blizpanic ($0.33 in chips) 
+Seat 3: Lorpugo ($2.73 in chips) 
+Seat 5: mar0 ($2.63 in chips) 
+Seat 6: MrEco99 ($1.87 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2d]
+Lorpugo: folds 
+mar0: folds 
+MrEco99: raises $0.04 to $0.06
+nico1nied: folds 
+blizpanic: calls $0.04
+*** FLOP *** [Js 3s Ts]
+blizpanic: bets $0.04
+MrEco99: calls $0.04
+*** TURN *** [Js 3s Ts] [2s]
+blizpanic: bets $0.04
+MrEco99: calls $0.04
+*** RIVER *** [Js 3s Ts 2s] [Qc]
+blizpanic: checks 
+MrEco99: bets $1.73 and is all-in
+blizpanic: folds 
+Uncalled bet ($1.73) returned to MrEco99
+MrEco99 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Js 3s Ts 2s Qc]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the River
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) collected ($0.28)
+
+
+
+PokerStars Hand #239302532398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:07:06 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.04 in chips) 
+Seat 2: blizpanic ($0.19 in chips) 
+Seat 3: Lorpugo ($2.73 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: mar0 ($2.63 in chips) 
+Seat 6: MrEco99 ($2.01 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Jd]
+luiyi11 has timed out
+luiyi11: folds 
+mar0: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: raises $0.13 to $0.19 and is all-in
+Lorpugo: calls $0.17
+nico1nied: calls $0.13
+*** FLOP *** [2s As 9c]
+Lorpugo: checks 
+nico1nied: bets $0.18
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to nico1nied
+*** TURN *** [2s As 9c] [Tc]
+*** RIVER *** [2s As 9c Tc] [7s]
+*** SHOW DOWN ***
+blizpanic: shows [4d 4h] (a pair of Fours)
+nico1nied: shows [Jh Jc] (a pair of Jacks)
+nico1nied collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [2s As 9c Tc 7s]
+Seat 1: nico1nied (button) showed [Jh Jc] and won ($0.55) with a pair of Jacks
+Seat 2: blizpanic (small blind) showed [4d 4h] and lost with a pair of Fours
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302541210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:07:47 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.40 in chips) 
+Seat 3: Lorpugo ($2.54 in chips) 
+Seat 5: mar0 ($2.63 in chips) 
+Seat 6: MrEco99 ($2.01 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Jh]
+nico1nied: folds 
+Lorpugo: raises $0.04 to $0.06
+mar0: folds 
+MrEco99: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 5: mar0 (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302543310:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:07:57 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.40 in chips) 
+Seat 2: blizpanic ($0.80 in chips) 
+Seat 3: Lorpugo ($2.57 in chips) 
+Seat 5: mar0 ($2.62 in chips) 
+Seat 6: MrEco99 ($1.99 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 6s]
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302545605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:08:08 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.38 in chips) 
+Seat 2: blizpanic ($0.80 in chips) 
+Seat 3: Lorpugo ($2.60 in chips) 
+Seat 5: mar0 ($2.62 in chips) 
+Seat 6: MrEco99 ($1.98 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 6c]
+Lorpugo: folds 
+mar0: raises $0.04 to $0.06
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: calls $0.04
+*** FLOP *** [Qd 8c Qc]
+blizpanic: bets $0.02
+mar0: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.13 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qd 8c Qc]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) collected ($0.13)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: mar0 folded on the Flop
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302548501:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:08:21 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.37 in chips) 
+Seat 2: blizpanic ($0.87 in chips) 
+Seat 3: Lorpugo ($2.60 in chips) 
+Seat 5: mar0 ($2.56 in chips) 
+Seat 6: MrEco99 ($1.98 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Ts]
+mar0: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Qd 6d Kc]
+Lorpugo: checks 
+nico1nied: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to nico1nied
+nico1nied collected $0.13 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qd 6d Kc]
+Seat 1: nico1nied (button) collected ($0.13)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302554992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:08:52 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.44 in chips) 
+Seat 2: blizpanic ($0.86 in chips) 
+Seat 3: Lorpugo ($2.54 in chips) 
+Seat 5: mar0 ($2.56 in chips) 
+Seat 6: MrEco99 ($1.98 in chips) 
+Lorpugo: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Td]
+MrEco99: raises $0.04 to $0.06
+nico1nied: folds 
+blizpanic: calls $0.06
+Lorpugo: folds 
+mar0: folds 
+*** FLOP *** [4h 8s Kd]
+MrEco99: bets $0.08
+blizpanic: calls $0.08
+*** TURN *** [4h 8s Kd] [Qh]
+MrEco99: bets $0.08
+blizpanic: calls $0.08
+*** RIVER *** [4h 8s Kd Qh] [5h]
+MrEco99: bets $0.08
+blizpanic: calls $0.08
+*** SHOW DOWN ***
+MrEco99: shows [8d Ad] (a pair of Eights)
+blizpanic: mucks hand 
+MrEco99 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [4h 8s Kd Qh 5h]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) mucked [4c 3c]
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 5: mar0 (big blind) folded before Flop
+Seat 6: MrEco99 showed [8d Ad] and won ($0.61) with a pair of Eights
+
+
+
+PokerStars Hand #239302562254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:09:26 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.44 in chips) 
+Seat 2: blizpanic ($0.56 in chips) 
+Seat 3: Lorpugo ($2.53 in chips) 
+Seat 5: mar0 ($2.54 in chips) 
+Seat 6: MrEco99 ($2.29 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 2d]
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+mar0: folds 
+MrEco99: calls $0.02
+*** FLOP *** [8c Ah Ad]
+MrEco99: checks 
+blizpanic: checks 
+*** TURN *** [8c Ah Ad] [6d]
+MrEco99: checks 
+blizpanic: checks 
+*** RIVER *** [8c Ah Ad 6d] [6c]
+MrEco99: bets $0.02
+blizpanic: raises $0.50 to $0.52 and is all-in
+MrEco99: folds 
+Uncalled bet ($0.50) returned to blizpanic
+blizpanic collected $0.13 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c Ah Ad 6d 6c]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.13)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) folded on the River
+
+
+
+PokerStars Hand #239302566716:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:09:47 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.44 in chips) 
+Seat 2: blizpanic ($0.63 in chips) 
+Seat 3: Lorpugo ($2.53 in chips) 
+Seat 5: mar0 ($2.53 in chips) 
+Seat 6: MrEco99 ($2.23 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h As]
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302570817:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:10:06 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.42 in chips) 
+Seat 2: blizpanic ($0.63 in chips) 
+Seat 3: Lorpugo ($2.56 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: mar0 ($2.53 in chips) 
+Seat 6: MrEco99 ($2.22 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+luiyi11: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3c]
+Lorpugo: folds 
+luiyi11: checks 
+mar0: folds 
+MrEco99: calls $0.02
+nico1nied: folds 
+blizpanic: checks 
+*** FLOP *** [2h 5s Qh]
+blizpanic: checks 
+luiyi11: checks 
+MrEco99: bets $0.08
+blizpanic: folds 
+luiyi11: folds 
+Uncalled bet ($0.08) returned to MrEco99
+MrEco99 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2h 5s Qh]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) collected ($0.08)
+
+
+
+PokerStars Hand #239302577199:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:10:36 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.41 in chips) 
+Seat 2: blizpanic ($0.61 in chips) 
+Seat 3: Lorpugo ($2.56 in chips) 
+Seat 4: luiyi11 ($1.13 in chips) 
+Seat 5: mar0 ($2.53 in chips) 
+Seat 6: MrEco99 ($2.28 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5d]
+luiyi11: folds 
+mar0: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [6d Ac 4h]
+blizpanic: bets $0.02
+nico1nied: calls $0.02
+*** TURN *** [6d Ac 4h] [Qc]
+blizpanic: bets $0.16
+nico1nied: calls $0.16
+*** RIVER *** [6d Ac 4h Qc] [5c]
+blizpanic: bets $0.37 and is all-in
+nico1nied: calls $0.37
+*** SHOW DOWN ***
+blizpanic: shows [7c Tc] (a flush, Ace high)
+nico1nied: shows [Ad 7h] (a pair of Aces)
+blizpanic collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.04 
+Board [6d Ac 4h Qc 5c]
+Seat 1: nico1nied (button) showed [Ad 7h] and lost with a pair of Aces
+Seat 2: blizpanic (small blind) showed [7c Tc] and won ($1.20) with a flush, Ace high
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302584776:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:11:12 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.20 in chips) 
+Seat 3: Lorpugo ($2.54 in chips) 
+Seat 4: luiyi11 ($1.13 in chips) 
+Seat 5: mar0 ($2.53 in chips) 
+Seat 6: MrEco99 ($2.28 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Th]
+mar0: folds 
+MrEco99: raises $0.02 to $0.04
+nico1nied: folds 
+blizpanic: calls $0.04
+Lorpugo: calls $0.03
+luiyi11: folds 
+*** FLOP *** [Td 4h 4d]
+Lorpugo: bets $0.07
+MrEco99: folds 
+blizpanic: calls $0.07
+*** TURN *** [Td 4h 4d] [5d]
+Lorpugo: bets $0.13
+blizpanic: calls $0.13
+*** RIVER *** [Td 4h 4d 5d] [Jc]
+Lorpugo: checks 
+blizpanic: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Js Th] (two pair, Jacks and Tens)
+blizpanic: mucks hand 
+Lorpugo collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Td 4h 4d 5d Jc]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) mucked [7c Tc]
+Seat 3: Lorpugo (small blind) showed [Js Th] and won ($0.52) with two pair, Jacks and Tens
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded on the Flop
+
+
+
+PokerStars Hand #239302594391:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:11:57 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($0.96 in chips) 
+Seat 3: Lorpugo ($2.82 in chips) 
+Seat 4: luiyi11 ($1.11 in chips) 
+Seat 5: mar0 ($2.53 in chips) 
+Seat 6: MrEco99 ($2.24 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3s]
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: calls $0.03
+mar0: calls $0.02
+*** FLOP *** [3c Qd Ah]
+luiyi11: checks 
+mar0: checks 
+blizpanic: checks 
+*** TURN *** [3c Qd Ah] [Ad]
+luiyi11: checks 
+mar0: checks 
+blizpanic: bets $0.16
+luiyi11: calls $0.16
+mar0: folds 
+*** RIVER *** [3c Qd Ah Ad] [Td]
+luiyi11: checks 
+blizpanic: checks 
+*** SHOW DOWN ***
+luiyi11: shows [Qh Kh] (two pair, Aces and Queens)
+blizpanic: mucks hand 
+luiyi11 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [3c Qd Ah Ad Td]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic mucked [7d 5h]
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) showed [Qh Kh] and won ($0.42) with two pair, Aces and Queens
+Seat 5: mar0 (big blind) folded on the Turn
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302602676:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:12:36 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($0.76 in chips) 
+Seat 3: Lorpugo ($2.82 in chips) 
+Seat 4: luiyi11 ($1.33 in chips) 
+Seat 5: mar0 ($2.49 in chips) 
+Seat 6: MrEco99 ($2.24 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Js]
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+mar0: folds 
+MrEco99: calls $0.04
+*** FLOP *** [3h Kd 4c]
+MrEco99: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to MrEco99
+MrEco99 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3h Kd 4c]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Flop
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #239302606385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:12:54 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($0.76 in chips) 
+Seat 3: Lorpugo ($2.76 in chips) 
+Seat 4: luiyi11 ($1.33 in chips) 
+Seat 5: mar0 ($2.48 in chips) 
+Seat 6: MrEco99 ($2.31 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 4s]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: folds 
+mar0: calls $0.04
+MrEco99: folds 
+nico1nied: folds 
+*** FLOP *** [As Td Jd]
+blizpanic: bets $0.06
+mar0: folds 
+Uncalled bet ($0.06) returned to blizpanic
+blizpanic collected $0.11 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [As Td Jd]
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic collected ($0.11)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 (button) folded on the Flop
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302610220:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:13:11 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($0.83 in chips) 
+Seat 3: Lorpugo ($2.76 in chips) 
+Seat 4: luiyi11 ($1.33 in chips) 
+Seat 5: mar0 ($2.44 in chips) 
+Seat 6: MrEco99 ($2.30 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Qd]
+Lorpugo: folds 
+luiyi11: folds 
+mar0: raises $0.04 to $0.06
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: calls $0.04
+*** FLOP *** [Qc Td 7s]
+blizpanic: bets $0.06
+mar0: calls $0.06
+*** TURN *** [Qc Td 7s] [4s]
+blizpanic: bets $0.08
+mar0: calls $0.08
+*** RIVER *** [Qc Td 7s 4s] [5c]
+blizpanic: checks 
+mar0: checks 
+*** SHOW DOWN ***
+blizpanic: shows [9s 8d] (high card Queen)
+mar0: shows [Ad 7c] (a pair of Sevens)
+mar0 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Qc Td 7s 4s 5c]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) showed [9s 8d] and lost with high card Queen
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 showed [Ad 7c] and won ($0.40) with a pair of Sevens
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302615995:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:13:39 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($0.63 in chips) 
+Seat 3: Lorpugo ($2.76 in chips) 
+Seat 4: luiyi11 ($1.33 in chips) 
+Seat 5: mar0 ($2.64 in chips) 
+Seat 6: MrEco99 ($2.30 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5c]
+luiyi11: folds 
+mar0: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to nico1nied
+nico1nied collected $0.05 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (button) collected ($0.05)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302618586:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:13:51 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.03 in chips) 
+Seat 2: blizpanic ($0.62 in chips) 
+Seat 3: Lorpugo ($2.74 in chips) 
+Seat 4: luiyi11 ($1.33 in chips) 
+Seat 5: mar0 ($2.64 in chips) 
+Seat 6: MrEco99 ($2.30 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks As]
+mar0: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.06
+Lorpugo: raises $0.20 to $0.26
+luiyi11: folds 
+nico1nied: folds 
+blizpanic: calls $0.20
+*** FLOP *** [5h 4c Kc]
+Lorpugo: bets $0.29
+blizpanic: raises $0.07 to $0.36 and is all-in
+Lorpugo: calls $0.07
+*** TURN *** [5h 4c Kc] [5s]
+*** RIVER *** [5h 4c Kc 5s] [Th]
+*** SHOW DOWN ***
+Lorpugo: shows [Ks As] (two pair, Kings and Fives)
+blizpanic: shows [5d 2d] (three of a kind, Fives)
+blizpanic collected $1.27 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.05 
+Board [5h 4c Kc 5s Th]
+Seat 1: nico1nied folded before Flop
+Seat 2: blizpanic (button) showed [5d 2d] and won ($1.27) with three of a kind, Fives
+Seat 3: Lorpugo (small blind) showed [Ks As] and lost with two pair, Kings and Fives
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302625635:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:14:23 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.27 in chips) 
+Seat 3: Lorpugo ($2.12 in chips) 
+Seat 4: luiyi11 ($1.31 in chips) 
+Seat 5: mar0 ($2.64 in chips) 
+Seat 6: MrEco99 ($2.30 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9d]
+MrEco99: raises $0.02 to $0.04
+nico1nied: folds 
+blizpanic: calls $0.04
+Lorpugo has timed out
+Lorpugo: folds 
+luiyi11: folds 
+mar0: folds 
+*** FLOP *** [4c Th Qh]
+MrEco99: checks 
+blizpanic: bets $0.10
+MrEco99: folds 
+Uncalled bet ($0.10) returned to blizpanic
+blizpanic collected $0.11 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4c Th Qh]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.11)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: mar0 (big blind) folded before Flop
+Seat 6: MrEco99 folded on the Flop
+
+
+
+PokerStars Hand #239302632531:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:14:56 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.34 in chips) 
+Seat 3: Lorpugo ($2.12 in chips) 
+Seat 4: luiyi11 ($1.30 in chips) 
+Seat 5: mar0 ($2.62 in chips) 
+Seat 6: MrEco99 ($2.26 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3h]
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: calls $0.02
+mar0: raises $0.06 to $0.08
+MrEco99: calls $0.06
+luiyi11: calls $0.06
+*** FLOP *** [Kc 6c 2s]
+mar0: checks 
+MrEco99: checks 
+luiyi11: checks 
+*** TURN *** [Kc 6c 2s] [3s]
+mar0: checks 
+MrEco99: checks 
+luiyi11: checks 
+*** RIVER *** [Kc 6c 2s 3s] [2c]
+mar0: checks 
+MrEco99: checks 
+luiyi11: checks 
+*** SHOW DOWN ***
+mar0: shows [7c 7h] (two pair, Sevens and Deuces)
+MrEco99: mucks hand 
+luiyi11: mucks hand 
+mar0 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Kc 6c 2s 3s 2c]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) mucked [9d Ad]
+Seat 5: mar0 (small blind) showed [7c 7h] and won ($0.23) with two pair, Sevens and Deuces
+Seat 6: MrEco99 (big blind) mucked [Jd Ac]
+
+
+
+PokerStars Hand #239302641108:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:15:35 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($1.34 in chips) 
+Seat 3: Lorpugo ($2.12 in chips) 
+Seat 4: luiyi11 ($1.22 in chips) 
+Seat 5: mar0 ($2.77 in chips) 
+Seat 6: MrEco99 ($2.18 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 9d]
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: calls $0.02
+mar0: folds 
+MrEco99: calls $0.01
+nico1nied: checks 
+*** FLOP *** [Kc Jd Tc]
+MrEco99: checks 
+nico1nied: bets $0.02
+luiyi11: calls $0.02
+MrEco99: folds 
+*** TURN *** [Kc Jd Tc] [7h]
+nico1nied: bets $0.07
+luiyi11: folds 
+Uncalled bet ($0.07) returned to nico1nied
+nico1nied collected $0.10 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kc Jd Tc 7h]
+Seat 1: nico1nied (big blind) collected ($0.10)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Turn
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239302648363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:16:08 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.06 in chips) 
+Seat 2: blizpanic ($1.34 in chips) 
+Seat 3: Lorpugo ($2.12 in chips) 
+Seat 4: luiyi11 ($1.18 in chips) 
+Seat 5: mar0 ($2.77 in chips) 
+Seat 6: MrEco99 ($2.16 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ks]
+Lorpugo: folds 
+luiyi11: calls $0.02
+mar0: folds 
+MrEco99: calls $0.02
+nico1nied: folds 
+blizpanic: checks 
+*** FLOP *** [3s Qd 3d]
+blizpanic: bets $0.02
+luiyi11: folds 
+MrEco99: calls $0.02
+*** TURN *** [3s Qd 3d] [5s]
+blizpanic: bets $0.04
+MrEco99: folds 
+Uncalled bet ($0.04) returned to blizpanic
+blizpanic collected $0.11 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3s Qd 3d 5s]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) collected ($0.11)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded on the Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) folded on the Turn
+
+
+
+PokerStars Hand #239302653333:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:16:31 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.05 in chips) 
+Seat 2: blizpanic ($1.41 in chips) 
+Seat 3: Lorpugo ($2.12 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: mar0 ($2.77 in chips) 
+Seat 6: MrEco99 ($2.12 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 2d]
+luiyi11: folds 
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: raises $0.08 to $0.12
+blizpanic: calls $0.08
+*** FLOP *** [Ad 5s Ac]
+blizpanic: checks 
+Lorpugo: bets $0.11
+blizpanic: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ad 5s Ac]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) collected ($0.23)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302658992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:16:57 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.05 in chips) 
+Seat 2: blizpanic ($1.29 in chips) 
+Seat 3: Lorpugo ($2.23 in chips) 
+Seat 4: luiyi11 ($1.16 in chips) 
+Seat 5: mar0 ($2.77 in chips) 
+Seat 6: MrEco99 ($2.12 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Td]
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302662547:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:17:13 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.05 in chips) 
+Seat 2: blizpanic ($1.29 in chips) 
+Seat 3: Lorpugo ($2.25 in chips) 
+Seat 4: luiyi11 ($1.14 in chips) 
+Seat 5: mar0 ($2.77 in chips) 
+Seat 6: MrEco99 ($2.12 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 5c]
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+luiyi11: calls $0.03
+mar0: folds 
+*** FLOP *** [7c 2d 7d]
+luiyi11: checks 
+blizpanic: checks 
+Lorpugo: bets $0.09
+luiyi11: folds 
+blizpanic: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c 2d 7d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded on the Flop
+Seat 3: Lorpugo (button) collected ($0.14)
+Seat 4: luiyi11 (small blind) folded on the Flop
+Seat 5: mar0 (big blind) folded before Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302667461:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:17:36 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.05 in chips) 
+Seat 2: blizpanic ($1.25 in chips) 
+Seat 3: Lorpugo ($2.35 in chips) 
+Seat 4: luiyi11 ($1.10 in chips) 
+Seat 5: mar0 ($2.75 in chips) 
+Seat 6: MrEco99 ($2.12 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5c]
+nico1nied: raises $0.04 to $0.06
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: folds 
+mar0: folds 
+MrEco99: calls $0.04
+*** FLOP *** [3d 2d As]
+MrEco99: checks 
+nico1nied: bets $0.04
+MrEco99: calls $0.04
+*** TURN *** [3d 2d As] [8s]
+MrEco99: checks 
+nico1nied: bets $0.10
+MrEco99: calls $0.10
+*** RIVER *** [3d 2d As 8s] [Kd]
+MrEco99: checks 
+nico1nied: bets $0.20
+MrEco99: calls $0.20
+*** SHOW DOWN ***
+nico1nied: shows [8h 8c] (three of a kind, Eights)
+MrEco99: mucks hand 
+nico1nied collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04 
+Board [3d 2d As 8s Kd]
+Seat 1: nico1nied showed [8h 8c] and won ($0.77) with three of a kind, Eights
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) mucked [Jc Ac]
+
+
+
+PokerStars Hand #239302675091:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:18:11 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.42 in chips) 
+Seat 2: blizpanic ($1.25 in chips) 
+Seat 3: Lorpugo ($2.35 in chips) 
+Seat 4: luiyi11 ($1.10 in chips) 
+Seat 5: mar0 ($2.74 in chips) 
+Seat 6: MrEco99 ($1.72 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qc]
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11 has timed out
+luiyi11: folds 
+mar0: folds 
+MrEco99: calls $0.01
+nico1nied: raises $0.04 to $0.06
+MrEco99: folds 
+Uncalled bet ($0.04) returned to nico1nied
+nico1nied collected $0.04 from pot
+nico1nied: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nico1nied (big blind) collected ($0.04)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302679995:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:18:34 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.44 in chips) 
+Seat 2: blizpanic ($1.25 in chips) 
+Seat 3: Lorpugo ($2.35 in chips) 
+Seat 5: mar0 ($2.74 in chips) 
+Seat 6: MrEco99 ($1.70 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Jd]
+Lorpugo: raises $0.04 to $0.06
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: calls $0.04
+*** FLOP *** [Qc Tc Qh]
+blizpanic: checks 
+Lorpugo: bets $0.06
+blizpanic: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qc Tc Qh]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo collected ($0.13)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302684817:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:18:56 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.43 in chips) 
+Seat 2: blizpanic ($1.19 in chips) 
+Seat 3: Lorpugo ($2.42 in chips) 
+Seat 4: luiyi11 ($1.10 in chips) 
+Seat 5: mar0 ($2.74 in chips) 
+Seat 6: MrEco99 ($1.70 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2c]
+luiyi11: calls $0.02
+mar0: calls $0.02
+MrEco99: folds 
+nico1nied: calls $0.02
+blizpanic: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [6d Qs Kd]
+blizpanic: checks 
+Lorpugo: bets $0.02
+luiyi11: calls $0.02
+mar0: calls $0.02
+nico1nied: calls $0.02
+blizpanic: folds 
+*** TURN *** [6d Qs Kd] [3h]
+Lorpugo: checks 
+luiyi11: checks 
+mar0: checks 
+nico1nied: checks 
+*** RIVER *** [6d Qs Kd 3h] [Ad]
+Lorpugo: checks 
+luiyi11: bets $1.06 and is all-in
+mar0: folds 
+nico1nied: folds 
+Lorpugo: folds 
+Uncalled bet ($1.06) returned to luiyi11
+luiyi11 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6d Qs Kd 3h Ad]
+Seat 1: nico1nied (button) folded on the River
+Seat 2: blizpanic (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) folded on the River
+Seat 4: luiyi11 collected ($0.17)
+Seat 5: mar0 folded on the River
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302696480:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:19:51 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.39 in chips) 
+Seat 2: blizpanic ($1.17 in chips) 
+Seat 3: Lorpugo ($2.38 in chips) 
+Seat 4: luiyi11 ($1.23 in chips) 
+Seat 5: mar0 ($2.70 in chips) 
+Seat 6: MrEco99 ($1.70 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Ah]
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: raises $0.04 to $0.06
+luiyi11: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302699359:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:20:04 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.39 in chips) 
+Seat 2: blizpanic ($1.17 in chips) 
+Seat 3: Lorpugo ($2.40 in chips) 
+Seat 4: luiyi11 ($1.21 in chips) 
+Seat 5: mar0 ($2.70 in chips) 
+Seat 6: MrEco99 ($1.70 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5s]
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: folds 
+mar0: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: mar0 (big blind) folded before Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302702682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:20:20 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.39 in chips) 
+Seat 2: blizpanic ($1.20 in chips) 
+Seat 3: Lorpugo ($2.40 in chips) 
+Seat 4: luiyi11 ($1.20 in chips) 
+Seat 5: mar0 ($2.68 in chips) 
+Seat 6: MrEco99 ($1.70 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Th]
+nico1nied: folds 
+blizpanic: calls $0.02
+Lorpugo: calls $0.02
+luiyi11: folds 
+mar0: calls $0.01
+MrEco99: checks 
+*** FLOP *** [7s 9h Jd]
+mar0: checks 
+MrEco99: checks 
+blizpanic: bets $0.08
+Lorpugo: calls $0.08
+mar0: folds 
+MrEco99: calls $0.08
+*** TURN *** [7s 9h Jd] [Td]
+MrEco99: checks 
+blizpanic: bets $0.26
+Lorpugo: calls $0.26
+MrEco99: folds 
+*** RIVER *** [7s 9h Jd Td] [Js]
+blizpanic: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+blizpanic: shows [3d 5d] (a pair of Jacks)
+Lorpugo: shows [Qc Th] (two pair, Jacks and Tens)
+Lorpugo collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [7s 9h Jd Td Js]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic showed [3d 5d] and lost with a pair of Jacks
+Seat 3: Lorpugo showed [Qc Th] and won ($0.81) with two pair, Jacks and Tens
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) folded on the Flop
+Seat 6: MrEco99 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239302713620:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:21:11 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.39 in chips) 
+Seat 2: blizpanic ($0.84 in chips) 
+Seat 3: Lorpugo ($2.85 in chips) 
+Seat 4: luiyi11 ($1.20 in chips) 
+Seat 5: mar0 ($2.66 in chips) 
+Seat 6: MrEco99 ($1.60 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Qc]
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11 has timed out
+luiyi11: folds 
+mar0: folds 
+MrEco99: raises $0.04 to $0.06
+nico1nied: folds 
+Uncalled bet ($0.04) returned to MrEco99
+MrEco99 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239302718979:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:21:36 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.37 in chips) 
+Seat 2: blizpanic ($0.84 in chips) 
+Seat 3: Lorpugo ($2.85 in chips) 
+Seat 5: mar0 ($2.66 in chips) 
+Seat 6: MrEco99 ($1.62 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2d]
+Lorpugo: folds 
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+Uncalled bet ($0.01) returned to blizpanic
+blizpanic collected $0.02 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302720710:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:21:44 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.36 in chips) 
+Seat 2: blizpanic ($0.85 in chips) 
+Seat 3: Lorpugo ($2.85 in chips) 
+Seat 5: mar0 ($2.66 in chips) 
+Seat 6: MrEco99 ($1.62 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ts]
+mar0: raises $0.04 to $0.06
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [6s Jc 5h]
+blizpanic: bets $0.06
+Lorpugo: folds 
+mar0: folds 
+Uncalled bet ($0.06) returned to blizpanic
+blizpanic collected $0.17 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6s Jc 5h]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) collected ($0.17)
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 5: mar0 folded on the Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302724380:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:22:00 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.36 in chips) 
+Seat 2: blizpanic ($0.96 in chips) 
+Seat 3: Lorpugo ($2.79 in chips) 
+Seat 4: luiyi11 ($1.20 in chips) 
+Seat 5: mar0 ($2.60 in chips) 
+Seat 6: MrEco99 ($1.62 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4h]
+mar0: folds 
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: raises $0.10 to $0.16
+nico1nied: calls $0.10
+*** FLOP *** [7d 6s Kh]
+luiyi11: bets $0.18
+nico1nied: folds 
+Uncalled bet ($0.18) returned to luiyi11
+luiyi11 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [7d 6s Kh]
+Seat 1: nico1nied folded on the Flop
+Seat 2: blizpanic (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) collected ($0.32)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302731794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:22:35 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.20 in chips) 
+Seat 2: blizpanic ($0.96 in chips) 
+Seat 3: Lorpugo ($2.78 in chips) 
+Seat 4: luiyi11 ($1.36 in chips) 
+Seat 5: mar0 ($2.60 in chips) 
+Seat 6: MrEco99 ($1.62 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Tc]
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: raises $0.11 to $0.15
+luiyi11: folds 
+mar0: raises $0.35 to $0.50
+blizpanic: raises $0.46 to $0.96 and is all-in
+Lorpugo: folds 
+mar0: calls $0.46
+*** FLOP *** [Ah Qh Th]
+*** TURN *** [Ah Qh Th] [7d]
+*** RIVER *** [Ah Qh Th 7d] [3d]
+*** SHOW DOWN ***
+mar0: shows [Ks Kh] (a pair of Kings)
+blizpanic: shows [Kd As] (a pair of Aces)
+blizpanic collected $2.01 from pot
+*** SUMMARY ***
+Total pot $2.08 | Rake $0.07 
+Board [Ah Qh Th 7d 3d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic showed [Kd As] and won ($2.01) with a pair of Aces
+Seat 3: Lorpugo (button) folded before Flop
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: mar0 (big blind) showed [Ks Kh] and lost with a pair of Kings
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302739149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:23:09 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.20 in chips) 
+Seat 2: blizpanic ($2.01 in chips) 
+Seat 3: Lorpugo ($2.63 in chips) 
+Seat 4: luiyi11 ($1.35 in chips) 
+Seat 5: mar0 ($1.64 in chips) 
+Seat 6: MrEco99 ($1.62 in chips) 
+mar0: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5d]
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: folds 
+mar0: calls $0.03
+MrEco99: calls $0.02
+*** FLOP *** [4c 8s 8d]
+mar0: checks 
+MrEco99: checks 
+blizpanic: bets $0.08
+mar0: folds 
+MrEco99: folds 
+Uncalled bet ($0.08) returned to blizpanic
+blizpanic collected $0.12 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4c 8s 8d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.12)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 (button) folded before Flop (didn't bet)
+Seat 5: mar0 (small blind) folded on the Flop
+Seat 6: MrEco99 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239302747604:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:23:47 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.20 in chips) 
+Seat 2: blizpanic ($2.09 in chips) 
+Seat 3: Lorpugo ($2.63 in chips) 
+Seat 4: luiyi11 ($1.35 in chips) 
+Seat 5: mar0 ($1.60 in chips) 
+Seat 6: MrEco99 ($1.58 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Td]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+luiyi11: folds 
+mar0: folds 
+MrEco99: folds 
+nico1nied: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302751191:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:24:03 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.18 in chips) 
+Seat 2: blizpanic ($2.12 in chips) 
+Seat 3: Lorpugo ($2.63 in chips) 
+Seat 4: luiyi11 ($1.35 in chips) 
+Seat 5: mar0 ($1.60 in chips) 
+Seat 6: MrEco99 ($1.57 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 9c]
+Lorpugo: folds 
+luiyi11: folds 
+mar0: folds 
+MrEco99: calls $0.02
+nico1nied: folds 
+blizpanic: checks 
+*** FLOP *** [3s Qs Ts]
+blizpanic: bets $0.02
+MrEco99: calls $0.02
+*** TURN *** [3s Qs Ts] [8c]
+blizpanic: bets $0.02
+MrEco99: calls $0.02
+*** RIVER *** [3s Qs Ts 8c] [Th]
+blizpanic: checks 
+MrEco99: bets $0.14
+blizpanic: folds 
+Uncalled bet ($0.14) returned to MrEco99
+MrEco99 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s Qs Ts 8c Th]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the River
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) collected ($0.13)
+
+
+
+PokerStars Hand #239302758388:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:24:37 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.17 in chips) 
+Seat 2: blizpanic ($2.06 in chips) 
+Seat 3: Lorpugo ($2.63 in chips) 
+Seat 4: luiyi11 ($1.35 in chips) 
+Seat 5: mar0 ($1.60 in chips) 
+Seat 6: MrEco99 ($1.64 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Ac]
+luiyi11 has timed out
+luiyi11: folds 
+mar0: raises $0.04 to $0.06
+MrEco99: calls $0.06
+nico1nied: folds 
+blizpanic: calls $0.05
+Lorpugo: raises $0.24 to $0.30
+mar0: folds 
+MrEco99: folds 
+blizpanic: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.24 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0 
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.24)
+Seat 4: luiyi11 folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop
+Seat 6: MrEco99 folded before Flop
+
+
+
+PokerStars Hand #239302764965:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:25:07 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.17 in chips) 
+Seat 2: blizpanic ($2 in chips) 
+Seat 3: Lorpugo ($2.81 in chips) 
+Seat 4: luiyi11 ($1.35 in chips) 
+Seat 5: mar0 ($1.54 in chips) 
+Seat 6: MrEco99 ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+luiyi11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4d]
+mar0: raises $0.04 to $0.06
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: folds 
+luiyi11: folds 
+Uncalled bet ($0.04) returned to mar0
+mar0 collected $0.05 from pot
+mar0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: luiyi11 (big blind) folded before Flop
+Seat 5: mar0 collected ($0.05)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302767464:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:25:19 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.17 in chips) 
+Seat 2: blizpanic ($2 in chips) 
+Seat 3: Lorpugo ($2.80 in chips) 
+Seat 4: luiyi11 ($1.33 in chips) 
+Seat 5: mar0 ($1.57 in chips) 
+Seat 6: MrEco99 ($1.58 in chips) 
+luiyi11: posts small blind $0.01
+mar0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Td]
+MrEco99: raises $0.02 to $0.04
+nico1nied: folds 
+blizpanic: calls $0.04
+Lorpugo: raises $0.15 to $0.19
+luiyi11 has timed out
+luiyi11: folds 
+mar0: folds 
+MrEco99: calls $0.15
+blizpanic: folds 
+*** FLOP *** [Tc 2c 5s]
+MrEco99: checks 
+Lorpugo: bets $0.28
+MrEco99: folds 
+Uncalled bet ($0.28) returned to Lorpugo
+Lorpugo collected $0.43 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Tc 2c 5s]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded before Flop
+Seat 3: Lorpugo (button) collected ($0.43)
+Seat 4: luiyi11 (small blind) folded before Flop
+Seat 5: mar0 (big blind) folded before Flop
+Seat 6: MrEco99 folded on the Flop
+
+
+
+PokerStars Hand #239302782992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:26:30 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.17 in chips) 
+Seat 2: blizpanic ($1.96 in chips) 
+Seat 3: Lorpugo ($3.04 in chips) 
+Seat 5: mar0 ($1.55 in chips) 
+Seat 6: MrEco99 ($1.39 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 7h]
+blizpanic: calls $0.02
+Lorpugo: folds 
+mar0: folds 
+MrEco99: calls $0.01
+nico1nied: checks 
+*** FLOP *** [5s 5c Th]
+MrEco99: checks 
+nico1nied: checks 
+blizpanic: bets $0.02
+MrEco99: calls $0.02
+nico1nied: folds 
+*** TURN *** [5s 5c Th] [8s]
+MrEco99: checks 
+blizpanic: checks 
+*** RIVER *** [5s 5c Th 8s] [3d]
+MrEco99: bets $0.32
+blizpanic: calls $0.32
+*** SHOW DOWN ***
+MrEco99: shows [9h 3h] (two pair, Fives and Threes)
+blizpanic: shows [5d 4d] (three of a kind, Fives)
+blizpanic collected $0.71 from pot
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [5s 5c Th 8s 3d]
+Seat 1: nico1nied (big blind) folded on the Flop
+Seat 2: blizpanic showed [5d 4d] and won ($0.71) with three of a kind, Fives
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: mar0 (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) showed [9h 3h] and lost with two pair, Fives and Threes
+
+
+
+PokerStars Hand #239302791650:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:27:10 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.15 in chips) 
+Seat 2: blizpanic ($2.31 in chips) 
+Seat 3: Lorpugo ($3.04 in chips) 
+Seat 5: mar0 ($1.55 in chips) 
+Seat 6: MrEco99 ($1.03 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2c]
+Lorpugo: folds 
+mar0: folds 
+MrEco99: raises $0.12 to $0.14
+nico1nied: folds 
+blizpanic: calls $0.12
+*** FLOP *** [2s 2d Th]
+blizpanic: checks 
+MrEco99: bets $0.22
+blizpanic: folds 
+Uncalled bet ($0.22) returned to MrEco99
+MrEco99 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2s 2d Th]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) collected ($0.28)
+
+
+
+PokerStars Hand #239302795783:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:27:29 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.14 in chips) 
+Seat 2: blizpanic ($2.17 in chips) 
+Seat 3: Lorpugo ($3.04 in chips) 
+Seat 5: mar0 ($1.55 in chips) 
+Seat 6: MrEco99 ($1.17 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 6d]
+mar0: folds 
+MrEco99: folds 
+mar0 leaves the table
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [Js 2h 2s]
+blizpanic: bets $0.12
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to blizpanic
+blizpanic collected $0.08 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Js 2h 2s]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) collected ($0.08)
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 5: mar0 folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302799488:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:27:46 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.14 in chips) 
+Seat 2: blizpanic ($2.21 in chips) 
+Seat 3: Lorpugo ($3 in chips) 
+Seat 6: MrEco99 ($1.17 in chips) 
+Lorpugo: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Kc]
+nico1nied: folds 
+blizpanic: folds 
+Qebel joins the table at seat #5 
+Lorpugo: raises $0.04 to $0.06
+MrEco99: calls $0.04
+*** FLOP *** [2s Jh 5h]
+Lorpugo: checks 
+MrEco99: bets $0.16
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to MrEco99
+MrEco99 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2s Jh 5h]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 6: MrEco99 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239302805254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:28:12 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.14 in chips) 
+Seat 2: blizpanic ($2.21 in chips) 
+Seat 3: Lorpugo ($2.94 in chips) 
+Seat 6: MrEco99 ($1.23 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8c]
+blizpanic: calls $0.02
+Lorpugo: folds 
+MrEco99: calls $0.01
+nico1nied: checks 
+*** FLOP *** [7c 4h 5c]
+MrEco99: checks 
+nico1nied: bets $0.03
+blizpanic: calls $0.03
+MrEco99: folds 
+*** TURN *** [7c 4h 5c] [Td]
+nico1nied: bets $0.06
+blizpanic: calls $0.06
+*** RIVER *** [7c 4h 5c Td] [Ad]
+nico1nied: checks 
+blizpanic: bets $0.34
+nico1nied: folds 
+Uncalled bet ($0.34) returned to blizpanic
+blizpanic collected $0.23 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7c 4h 5c Td Ad]
+Seat 1: nico1nied (big blind) folded on the River
+Seat 2: blizpanic collected ($0.23)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239302815727:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:29:01 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.03 in chips) 
+Seat 2: blizpanic ($2.33 in chips) 
+Seat 3: Lorpugo ($2.94 in chips) 
+Seat 6: MrEco99 ($1.21 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+Qebel: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 8c]
+Lorpugo: raises $0.04 to $0.06
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: calls $0.04
+*** FLOP *** [9d Js 5s]
+blizpanic: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [9d Js 5s] [4d]
+blizpanic: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.16 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9d Js 5s 4d]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) collected ($0.16)
+Seat 3: Lorpugo folded on the Turn
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302823997:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:29:39 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.02 in chips) 
+Seat 2: blizpanic ($2.41 in chips) 
+Seat 3: Lorpugo ($2.86 in chips) 
+Seat 6: MrEco99 ($1.21 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Qebel: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ah]
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302825472:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:29:46 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.02 in chips) 
+Seat 2: blizpanic ($2.40 in chips) 
+Seat 3: Lorpugo ($2.87 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.21 in chips) 
+Lorpugo: posts small blind $0.01
+Qebel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 9c]
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.03
+Qebel: folds 
+*** FLOP *** [8s Kc 4s]
+Lorpugo: checks 
+blizpanic: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.10 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [8s Kc 4s]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) collected ($0.10)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 5: Qebel (big blind) folded before Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302829355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:30:03 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.02 in chips) 
+Seat 2: blizpanic ($2.46 in chips) 
+Seat 3: Lorpugo ($2.83 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.21 in chips) 
+Qebel: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6h]
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+Qebel: folds 
+MrEco99: calls $0.02
+*** FLOP *** [3c 2h 4s]
+MrEco99: checks 
+blizpanic: bets $0.02
+Lorpugo: folds 
+MrEco99: calls $0.02
+*** TURN *** [3c 2h 4s] [Kd]
+MrEco99: checks 
+blizpanic: checks 
+*** RIVER *** [3c 2h 4s Kd] [Kh]
+MrEco99: checks 
+blizpanic: bets $0.10
+MrEco99: folds 
+Uncalled bet ($0.10) returned to blizpanic
+blizpanic collected $0.16 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3c 2h 4s Kd Kh]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.16)
+Seat 3: Lorpugo (button) folded on the Flop
+Seat 5: Qebel (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) folded on the River
+
+
+
+PokerStars Hand #239302836748:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:30:37 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.02 in chips) 
+Seat 2: blizpanic ($2.56 in chips) 
+Seat 3: Lorpugo ($2.79 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.15 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 9s]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+Qebel: folds 
+MrEco99: folds 
+nico1nied: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: nico1nied (big blind) folded before Flop
+Seat 2: blizpanic collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: Qebel (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302838598:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:30:46 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($2.59 in chips) 
+Seat 3: Lorpugo ($2.79 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.14 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2c]
+Lorpugo: folds 
+Qebel: folds 
+MrEco99: raises $0.06 to $0.08
+nico1nied: folds 
+blizpanic: calls $0.06
+*** FLOP *** [7h 6s 2s]
+blizpanic: bets $0.02
+MrEco99: raises $0.16 to $0.18
+blizpanic: folds 
+Uncalled bet ($0.16) returned to MrEco99
+MrEco99 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7h 6s 2s]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: Qebel folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) collected ($0.20)
+
+
+
+PokerStars Hand #239302843570:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:31:09 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($2.49 in chips) 
+Seat 3: Lorpugo ($2.79 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.24 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9h]
+Qebel: folds 
+MrEco99: calls $0.02
+nico1nied: folds 
+blizpanic: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+MrEco99: folds 
+blizpanic: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.06)
+Seat 5: Qebel folded before Flop (didn't bet)
+Seat 6: MrEco99 folded before Flop
+
+
+
+PokerStars Hand #239302846968:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:31:24 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($2.47 in chips) 
+Seat 3: Lorpugo ($2.83 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.22 in chips) 
+Lorpugo: posts small blind $0.01
+Qebel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Ah]
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.06
+Lorpugo: raises $0.20 to $0.26
+Qebel: folds 
+nico1nied: folds 
+blizpanic: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: nico1nied folded before Flop
+Seat 2: blizpanic (button) folded before Flop
+Seat 3: Lorpugo (small blind) collected ($0.20)
+Seat 5: Qebel (big blind) folded before Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302852102:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:31:47 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($2.41 in chips) 
+Seat 3: Lorpugo ($2.97 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.22 in chips) 
+Qebel: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 4s]
+nico1nied: folds 
+blizpanic: calls $0.02
+Lorpugo: folds 
+Qebel: folds 
+MrEco99: checks 
+*** FLOP *** [9h Ac 6d]
+MrEco99: checks 
+blizpanic: bets $0.02
+MrEco99: calls $0.02
+*** TURN *** [9h Ac 6d] [Tc]
+MrEco99: checks 
+blizpanic: checks 
+*** RIVER *** [9h Ac 6d Tc] [7s]
+MrEco99: bets $0.02
+blizpanic: calls $0.02
+*** SHOW DOWN ***
+MrEco99: shows [6s 8d] (a straight, Six to Ten)
+blizpanic: mucks hand 
+MrEco99 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h Ac 6d Tc 7s]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic mucked [5h 7h]
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Qebel (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) showed [6s 8d] and won ($0.13) with a straight, Six to Ten
+
+
+
+PokerStars Hand #239302857923:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:32:14 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2 in chips) 
+Seat 2: blizpanic ($2.35 in chips) 
+Seat 3: Lorpugo ($2.97 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.29 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c As]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+Qebel: folds 
+MrEco99: folds 
+nico1nied: raises $0.10 to $0.14
+blizpanic: calls $0.10
+*** FLOP *** [Jh 4c Tc]
+nico1nied: bets $0.09
+blizpanic: raises $0.09 to $0.18
+nico1nied: calls $0.09
+*** TURN *** [Jh 4c Tc] [5s]
+nico1nied: checks 
+blizpanic: checks 
+*** RIVER *** [Jh 4c Tc 5s] [Ks]
+nico1nied: bets $0.31
+blizpanic: calls $0.31
+*** SHOW DOWN ***
+nico1nied: shows [Qh 9h] (a straight, Nine to King)
+blizpanic: mucks hand 
+nico1nied collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.05 
+Board [Jh 4c Tc 5s Ks]
+Seat 1: nico1nied (big blind) showed [Qh 9h] and won ($1.22) with a straight, Nine to King
+Seat 2: blizpanic mucked [4d Jd]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: Qebel (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302865087:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:32:46 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.59 in chips) 
+Seat 2: blizpanic ($1.72 in chips) 
+Seat 3: Lorpugo ($2.97 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.28 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 9h]
+Lorpugo: raises $0.04 to $0.06
+Qebel: folds 
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: calls $0.04
+*** FLOP *** [8s Ac 3h]
+blizpanic: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.13 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8s Ac 3h]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) collected ($0.13)
+Seat 3: Lorpugo folded on the Flop
+Seat 5: Qebel folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302869583:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:33:07 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.58 in chips) 
+Seat 2: blizpanic ($1.79 in chips) 
+Seat 3: Lorpugo ($2.91 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.28 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Kh]
+Qebel: raises $0.04 to $0.06
+MrEco99: calls $0.06
+nico1nied: folds 
+blizpanic: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [3h Td Ac]
+blizpanic: bets $0.02
+Qebel: calls $0.02
+MrEco99: raises $0.10 to $0.12
+blizpanic: folds 
+Qebel: folds 
+Uncalled bet ($0.10) returned to MrEco99
+MrEco99 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [3h Td Ac]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 5: Qebel folded on the Flop
+Seat 6: MrEco99 collected ($0.25)
+
+
+
+PokerStars Hand #239302876743:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:33:40 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.58 in chips) 
+Seat 2: blizpanic ($1.71 in chips) 
+Seat 3: Lorpugo ($2.89 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.45 in chips) 
+Lorpugo: posts small blind $0.01
+Qebel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 5s]
+MrEco99: folds 
+nico1nied: raises $0.04 to $0.06
+blizpanic: calls $0.06
+Lorpugo: folds 
+Qebel: folds 
+*** FLOP *** [4s As 7d]
+nico1nied: bets $0.05
+blizpanic: calls $0.05
+*** TURN *** [4s As 7d] [2c]
+nico1nied: bets $0.12
+blizpanic: calls $0.12
+*** RIVER *** [4s As 7d 2c] [Kd]
+nico1nied: bets $0.16
+blizpanic: raises $0.16 to $0.32
+nico1nied: calls $0.16
+*** SHOW DOWN ***
+blizpanic: shows [Ks 2h] (two pair, Kings and Deuces)
+nico1nied: mucks hand 
+blizpanic collected $1.09 from pot
+luiyi11 leaves the table
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [4s As 7d 2c Kd]
+Seat 1: nico1nied mucked [Ts Ad]
+Seat 2: blizpanic (button) showed [Ks 2h] and won ($1.09) with two pair, Kings and Deuces
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 5: Qebel (big blind) folded before Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302884819:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:34:16 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.03 in chips) 
+Seat 2: blizpanic ($2.25 in chips) 
+Seat 3: Lorpugo ($2.88 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.45 in chips) 
+Qebel: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 9h]
+nico1nied: folds 
+blizpanic: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+Qebel: folds 
+MrEco99: calls $0.02
+*** FLOP *** [3c Ad Js]
+MrEco99: checks 
+blizpanic: bets $0.02
+Lorpugo: calls $0.02
+MrEco99: calls $0.02
+*** TURN *** [3c Ad Js] [6h]
+MrEco99: checks 
+blizpanic: bets $0.02
+Lorpugo: folds 
+Johnny S600 joins the table at seat #4 
+MrEco99: calls $0.02
+*** RIVER *** [3c Ad Js 6h] [Kd]
+MrEco99: checks 
+blizpanic: checks 
+*** SHOW DOWN ***
+MrEco99: shows [4c 2h] (high card Ace)
+blizpanic: shows [8s Ac] (a pair of Aces)
+blizpanic collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3c Ad Js 6h Kd]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic showed [8s Ac] and won ($0.22) with a pair of Aces
+Seat 3: Lorpugo (button) folded on the Turn
+Seat 5: Qebel (small blind) folded before Flop
+Seat 6: MrEco99 (big blind) showed [4c 2h] and lost with high card Ace
+
+
+
+PokerStars Hand #239302890647:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:34:43 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.03 in chips) 
+Seat 2: blizpanic ($2.39 in chips) 
+Seat 3: Lorpugo ($2.82 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.37 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+Johnny S600: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 7d]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+Qebel: folds 
+MrEco99: calls $0.03
+nico1nied: calls $0.02
+*** FLOP *** [Kc Ac Qc]
+MrEco99: checks 
+nico1nied: checks 
+blizpanic: checks 
+*** TURN *** [Kc Ac Qc] [Qd]
+MrEco99: checks 
+nico1nied: bets $0.08
+blizpanic: calls $0.08
+MrEco99: calls $0.08
+*** RIVER *** [Kc Ac Qc Qd] [8s]
+MrEco99: checks 
+nico1nied: bets $0.23
+blizpanic: calls $0.23
+MrEco99: folds 
+*** SHOW DOWN ***
+nico1nied: shows [7c 8c] (a flush, Ace high)
+blizpanic: mucks hand 
+nico1nied collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [Kc Ac Qc Qd 8s]
+Seat 1: nico1nied (big blind) showed [7c 8c] and won ($0.78) with a flush, Ace high
+Seat 2: blizpanic mucked [Qh 2h]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: Qebel (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) folded on the River
+
+
+
+PokerStars Hand #239302897172:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:35:12 ET
+Table 'Sabine II' 6-max Seat #6 is the button
+Seat 1: nico1nied ($2.46 in chips) 
+Seat 2: blizpanic ($2.04 in chips) 
+Seat 3: Lorpugo ($2.82 in chips) 
+Seat 4: Johnny S600 ($1.04 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.25 in chips) 
+nico1nied: posts small blind $0.01
+blizpanic: posts big blind $0.02
+Johnny S600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9c]
+Lorpugo: folds 
+Johnny S600: checks 
+Qebel: folds 
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: checks 
+*** FLOP *** [3h 7c Ks]
+blizpanic: bets $0.02
+Johnny S600: folds 
+Uncalled bet ($0.02) returned to blizpanic
+blizpanic collected $0.05 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h 7c Ks]
+Seat 1: nico1nied (small blind) folded before Flop
+Seat 2: blizpanic (big blind) collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Johnny S600 folded on the Flop (didn't bet)
+Seat 5: Qebel folded before Flop (didn't bet)
+Seat 6: MrEco99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302900325:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:35:26 ET
+Table 'Sabine II' 6-max Seat #1 is the button
+Seat 1: nico1nied ($2.45 in chips) 
+Seat 2: blizpanic ($2.07 in chips) 
+Seat 3: Lorpugo ($2.82 in chips) 
+Seat 4: Johnny S600 ($1.02 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.25 in chips) 
+blizpanic: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Ts]
+Johnny S600: folds 
+Qebel: folds 
+MrEco99: raises $0.10 to $0.12
+nico1nied: folds 
+blizpanic: calls $0.11
+Lorpugo: folds 
+*** FLOP *** [7d 8h Ac]
+blizpanic: bets $0.02
+MrEco99: raises $0.10 to $0.12
+blizpanic: calls $0.10
+*** TURN *** [7d 8h Ac] [8c]
+blizpanic: checks 
+MrEco99: bets $0.44
+blizpanic: folds 
+Uncalled bet ($0.44) returned to MrEco99
+MrEco99 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [7d 8h Ac 8c]
+Seat 1: nico1nied (button) folded before Flop (didn't bet)
+Seat 2: blizpanic (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Johnny S600 folded before Flop (didn't bet)
+Seat 5: Qebel folded before Flop (didn't bet)
+Seat 6: MrEco99 collected ($0.48)
+
+
+
+PokerStars Hand #239302907398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:35:59 ET
+Table 'Sabine II' 6-max Seat #2 is the button
+Seat 1: nico1nied ($2.45 in chips) 
+Seat 2: blizpanic ($1.83 in chips) 
+Seat 3: Lorpugo ($2.80 in chips) 
+Seat 4: Johnny S600 ($1.02 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.49 in chips) 
+Lorpugo: posts small blind $0.01
+Johnny S600: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Jc]
+Qebel: raises $0.04 to $0.06
+MrEco99: folds 
+nico1nied: folds 
+blizpanic: calls $0.06
+Lorpugo: raises $0.20 to $0.26
+Johnny S600: folds 
+Qebel: folds 
+blizpanic: calls $0.20
+*** FLOP *** [5h 3c Ah]
+Lorpugo: checks 
+blizpanic: bets $0.36
+Lorpugo: raises $2.18 to $2.54 and is all-in
+blizpanic: calls $1.21 and is all-in
+Uncalled bet ($0.97) returned to Lorpugo
+*** TURN *** [5h 3c Ah] [Kh]
+*** RIVER *** [5h 3c Ah Kh] [7d]
+*** SHOW DOWN ***
+Lorpugo: shows [As Jc] (a pair of Aces)
+blizpanic: shows [3s Ad] (two pair, Aces and Threes)
+blizpanic collected $3.61 from pot
+*** SUMMARY ***
+Total pot $3.74 | Rake $0.13 
+Board [5h 3c Ah Kh 7d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic (button) showed [3s Ad] and won ($3.61) with two pair, Aces and Threes
+Seat 3: Lorpugo (small blind) showed [As Jc] and lost with a pair of Aces
+Seat 4: Johnny S600 (big blind) folded before Flop
+Seat 5: Qebel folded before Flop
+Seat 6: MrEco99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302915828:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:36:37 ET
+Table 'Sabine II' 6-max Seat #3 is the button
+Seat 1: nico1nied ($2.45 in chips) 
+Seat 2: blizpanic ($3.61 in chips) 
+Seat 3: Lorpugo ($0.97 in chips) 
+Seat 4: Johnny S600 ($1 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.49 in chips) 
+Johnny S600: posts small blind $0.01
+Qebel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 6d]
+MrEco99: calls $0.02
+nico1nied: folds 
+blizpanic: calls $0.02
+Lorpugo: raises $0.09 to $0.11
+Johnny S600: folds 
+Qebel: calls $0.09
+MrEco99: folds 
+blizpanic: calls $0.09
+*** FLOP *** [Ac 9c 9d]
+Qebel: checks 
+blizpanic: checks 
+Lorpugo: bets $0.17
+Qebel: folds 
+blizpanic: raises $3.33 to $3.50 and is all-in
+Lorpugo: folds 
+Uncalled bet ($3.33) returned to blizpanic
+blizpanic collected $0.68 from pot
+blizpanic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [Ac 9c 9d]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic collected ($0.68)
+Seat 3: Lorpugo (button) folded on the Flop
+Seat 4: Johnny S600 (small blind) folded before Flop
+Seat 5: Qebel (big blind) folded on the Flop
+Seat 6: MrEco99 folded before Flop
+
+
+
+PokerStars Hand #239302923236:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:37:10 ET
+Table 'Sabine II' 6-max Seat #4 is the button
+Seat 1: nico1nied ($2.45 in chips) 
+Seat 2: blizpanic ($4.01 in chips) 
+Seat 3: Lorpugo ($0.69 in chips) 
+Seat 4: Johnny S600 ($0.99 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.47 in chips) 
+Qebel: posts small blind $0.01
+MrEco99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2c]
+nico1nied: folds 
+blizpanic: folds 
+Lorpugo: folds 
+Johnny S600: folds 
+Qebel: raises $0.04 to $0.06
+MrEco99: calls $0.04
+*** FLOP *** [2s Kc 5s]
+Qebel: checks 
+MrEco99: checks 
+*** TURN *** [2s Kc 5s] [4h]
+Qebel: checks 
+MrEco99: checks 
+*** RIVER *** [2s Kc 5s 4h] [Qs]
+Qebel: checks 
+MrEco99: bets $0.04
+Qebel: calls $0.04
+*** SHOW DOWN ***
+MrEco99: shows [Qd Td] (a pair of Queens)
+Qebel: mucks hand 
+MrEco99 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2s Kc 5s 4h Qs]
+Seat 1: nico1nied folded before Flop (didn't bet)
+Seat 2: blizpanic folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Johnny S600 (button) folded before Flop (didn't bet)
+Seat 5: Qebel (small blind) mucked [Th Ts]
+Seat 6: MrEco99 (big blind) showed [Qd Td] and won ($0.19) with a pair of Queens
+
+
+
+PokerStars Hand #239302930932:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:37:45 ET
+Table 'Sabine II' 6-max Seat #5 is the button
+Seat 1: nico1nied ($2.45 in chips) 
+Seat 2: blizpanic ($4.01 in chips) 
+Seat 3: Lorpugo ($0.69 in chips) 
+Seat 4: Johnny S600 ($0.99 in chips) 
+Seat 5: Qebel ($2 in chips) 
+Seat 6: MrEco99 ($1.56 in chips) 
+MrEco99: posts small blind $0.01
+nico1nied: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Th]
+blizpanic: raises $0.02 to $0.04
+Lorpugo: folds 
+Johnny S600: folds 
+Qebel: folds 
+MrEco99: calls $0.03
+nico1nied: calls $0.02
+*** FLOP *** [9s 4s 5d]
+MrEco99: checks 
+nico1nied: bets $0.04
+blizpanic: calls $0.04
+MrEco99: raises $0.12 to $0.16
+nico1nied: folds 
+blizpanic: folds 
+Uncalled bet ($0.12) returned to MrEco99
+MrEco99 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9s 4s 5d]
+Seat 1: nico1nied (big blind) folded on the Flop
+Seat 2: blizpanic folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Johnny S600 folded before Flop (didn't bet)
+Seat 5: Qebel (button) folded before Flop (didn't bet)
+Seat 6: MrEco99 (small blind) collected ($0.23)
+
+
+

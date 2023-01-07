@@ -1,0 +1,37 @@
+﻿PokerStars Hand #239469177898: Tournament #3491383681, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/10/26 15:24:03 ET
+Table '3491383681 1' 3-max Seat #1 is the button
+Seat 1: straza99 (500 in chips) 
+Seat 2: Mona_Pain (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+Mona_Pain: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Qc]
+straza99: raises 20 to 40
+Mona_Pain: calls 30
+Lorpugo: calls 20
+*** FLOP *** [Jc Kh 2h]
+Mona_Pain: checks 
+Lorpugo: bets 90
+straza99: calls 90
+Mona_Pain: calls 90
+*** TURN *** [Jc Kh 2h] [Ac]
+Mona_Pain: bets 80
+Lorpugo: raises 290 to 370 and is all-in
+straza99: folds 
+Mona_Pain: calls 290 and is all-in
+*** RIVER *** [Jc Kh 2h Ac] [Qs]
+*** SHOW DOWN ***
+Mona_Pain: shows [3c Kc] (a pair of Kings)
+Lorpugo: shows [9h Qc] (a pair of Queens)
+Mona_Pain collected 1130 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1130 | Rake 0 
+Board [Jc Kh 2h Ac Qs]
+Seat 1: straza99 (button) folded on the Turn
+Seat 2: Mona_Pain (small blind) showed [3c Kc] and won (1130) with a pair of Kings
+Seat 3: Lorpugo (big blind) showed [9h Qc] and lost with a pair of Queens
+
+
+

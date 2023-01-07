@@ -1,0 +1,41 @@
+﻿PokerStars Hand #240701399357:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/26 8:41:40 ET
+Table 'Moskva II' 6-max Seat #1 is the button
+Seat 1: pablo.pers87 ($1.58 in chips) 
+Seat 2: zeramyke ($2.05 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: 0Sergunchik ($0.54 in chips) 
+Seat 5: luffe269 ($0.93 in chips) 
+zeramyke: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 7h]
+0Sergunchik: folds 
+luffe269: calls $0.02
+GerarSov leaves the table
+pablo.pers87: raises $0.04 to $0.06
+zeramyke: folds 
+Lorpugo: folds 
+luffe269: raises $0.06 to $0.12
+magicmueller89 joins the table at seat #6 
+pablo.pers87: calls $0.06
+*** FLOP *** [6d 6h 8h]
+luffe269: checks 
+pablo.pers87: bets $0.08
+luffe269: calls $0.08
+*** TURN *** [6d 6h 8h] []
+luffe269: bets $0.41
+pablo.pers87: folds 
+Uncalled bet ($0.41) returned to luffe269
+luffe269 collected $0.41 from pot
+luffe269: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [6d 6h 8h 5s]
+Seat 1: pablo.pers87 (button) folded on the Turn
+Seat 2: zeramyke (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: 0Sergunchik folded before Flop (didn't bet)
+Seat 5: luffe269 collected ($0.41)
+
+
+

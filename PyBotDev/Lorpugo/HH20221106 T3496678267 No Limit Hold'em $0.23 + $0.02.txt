@@ -1,0 +1,83 @@
+﻿PokerStars Hand #239692718213: Tournament #3496678267, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:40:17 ET
+Table '3496678267 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: kushdogg (500 in chips) 
+Seat 3: Radír (500 in chips) 
+kushdogg: posts small blind 10
+Radír: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Td]
+Lorpugo: raises 20 to 40
+kushdogg: folds 
+Radír: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Lorpugo (button) collected (50)
+Seat 2: kushdogg (small blind) folded before Flop
+Seat 3: Radír (big blind) folded before Flop
+
+
+
+PokerStars Hand #239692722236: Tournament #3496678267, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:40:25 ET
+Table '3496678267 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (530 in chips) 
+Seat 2: kushdogg (490 in chips) 
+Seat 3: Radír (480 in chips) 
+Radír: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7c]
+kushdogg: folds 
+Radír: raises 80 to 100
+Lorpugo: raises 430 to 530 and is all-in
+Radír: calls 380 and is all-in
+Uncalled bet (50) returned to Lorpugo
+*** FLOP *** [Ad 4c 5s]
+*** TURN *** [Ad 4c 5s] [Jc]
+*** RIVER *** [Ad 4c 5s Jc] [3s]
+*** SHOW DOWN ***
+Radír: shows [Ac 2s] (a straight, Ace to Five)
+Lorpugo: shows [As 7c] (a pair of Aces)
+Radír collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Ad 4c 5s Jc 3s]
+Seat 1: Lorpugo (big blind) showed [As 7c] and lost with a pair of Aces
+Seat 2: kushdogg (button) folded before Flop (didn't bet)
+Seat 3: Radír (small blind) showed [Ac 2s] and won (960) with a straight, Ace to Five
+
+
+
+PokerStars Hand #239692734867: Tournament #3496678267, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/11/06 13:40:50 ET
+Table '3496678267 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (50 in chips) 
+Seat 2: kushdogg (490 in chips) 
+Seat 3: Radír (960 in chips) 
+Lorpugo: posts small blind 10
+kushdogg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 9h]
+Radír: raises 60 to 80
+Lorpugo: calls 40 and is all-in
+kushdogg: folds 
+Uncalled bet (30) returned to Radír
+*** FLOP *** [7s 2h As]
+*** TURN *** [7s 2h As] [Kh]
+*** RIVER *** [7s 2h As Kh] [Ad]
+*** SHOW DOWN ***
+Lorpugo: shows [Th 9h] (a pair of Aces)
+Radír: shows [Kd 9d] (two pair, Aces and Kings)
+Radír collected 120 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 2h As Kh Ad]
+Seat 1: Lorpugo (small blind) showed [Th 9h] and lost with a pair of Aces
+Seat 2: kushdogg (big blind) folded before Flop
+Seat 3: Radír (button) showed [Kd 9d] and won (120) with two pair, Aces and Kings
+
+
+

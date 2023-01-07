@@ -1,0 +1,4195 @@
+﻿PokerStars Hand #239402877303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:26:12 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.25 in chips) 
+Seat 4: S1K1C1 ($2.44 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: Pokista1 ($3.38 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Kh]
+Pokista1: folds 
+XxIBAxX: folds 
+Vlao: folds 
+aurefran: raises $0.06 to $0.08
+S1K1C1: calls $0.07
+Lorpugo: raises $0.24 to $0.32
+aurefran: folds 
+S1K1C1: calls $0.24
+*** FLOP *** [7d 9c Qd]
+S1K1C1: checks 
+Lorpugo: bets $0.58
+S1K1C1: raises $0.58 to $1.16
+Lorpugo: raises $0.12 to $1.28 and is all-in
+S1K1C1: calls $0.12
+*** TURN *** [7d 9c Qd] [5c]
+*** RIVER *** [7d 9c Qd 5c] [2h]
+*** SHOW DOWN ***
+S1K1C1: shows [2s 2c] (three of a kind, Deuces)
+Lorpugo: shows [Kd Kh] (a pair of Kings)
+S1K1C1 collected $3.14 from pot
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.14 
+Board [7d 9c Qd 5c 2h]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: aurefran (button) folded before Flop
+Seat 4: S1K1C1 (small blind) showed [2s 2c] and won ($3.14) with three of a kind, Deuces
+Seat 5: Lorpugo (big blind) showed [Kd Kh] and lost with a pair of Kings
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239402894239:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:27:10 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.17 in chips) 
+Seat 4: S1K1C1 ($3.98 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: Pokista1 ($3.38 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ah]
+XxIBAxX: folds 
+Vlao: raises $0.03 to $0.05
+aurefran: folds 
+S1K1C1: calls $0.05
+Lorpugo: calls $0.04
+Pokista1: calls $0.03
+*** FLOP *** [Td 2s 2c]
+Lorpugo: checks 
+Pokista1: checks 
+Vlao: checks 
+S1K1C1: checks 
+*** TURN *** [Td 2s 2c] [7d]
+Lorpugo: bets $0.06
+Pokista1: folds 
+Vlao: folds 
+S1K1C1: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Td 2s 2c 7d]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao folded on the Turn
+Seat 3: aurefran folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) folded on the Turn
+Seat 5: Lorpugo (small blind) collected ($0.19)
+Seat 6: Pokista1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239402907075:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:27:55 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.17 in chips) 
+Seat 4: S1K1C1 ($3.93 in chips) 
+Seat 5: Lorpugo ($1.74 in chips) 
+Seat 6: Pokista1 ($3.33 in chips) 
+Pokista1: posts small blind $0.01
+XxIBAxX: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 2h]
+Vlao: folds 
+aurefran: raises $0.04 to $0.06
+S1K1C1: calls $0.06
+Lorpugo: folds 
+Pokista1: calls $0.05
+XxIBAxX: folds 
+*** FLOP *** [8h Kc Js]
+Pokista1: checks 
+aurefran: checks 
+S1K1C1: checks 
+*** TURN *** [8h Kc Js] [9h]
+Pokista1: checks 
+aurefran: checks 
+S1K1C1: checks 
+*** RIVER *** [8h Kc Js 9h] [9d]
+Pokista1: checks 
+aurefran: checks 
+S1K1C1: checks 
+*** SHOW DOWN ***
+Pokista1: shows [5s As] (a pair of Nines)
+aurefran: shows [Ac Jd] (two pair, Jacks and Nines)
+S1K1C1: mucks hand 
+aurefran collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8h Kc Js 9h 9d]
+Seat 1: XxIBAxX (big blind) folded before Flop
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: aurefran showed [Ac Jd] and won ($0.19) with two pair, Jacks and Nines
+Seat 4: S1K1C1 mucked [7c 7d]
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) showed [5s As] and lost with a pair of Nines
+
+
+
+PokerStars Hand #239402915619:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:28:25 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.30 in chips) 
+Seat 4: S1K1C1 ($3.87 in chips) 
+Seat 5: Lorpugo ($1.74 in chips) 
+Seat 6: Pokista1 ($3.27 in chips) 
+XxIBAxX: posts small blind $0.01
+Vlao: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Jc]
+aurefran: folds 
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: folds 
+XxIBAxX: folds 
+Uncalled bet ($0.01) returned to Vlao
+Vlao collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: XxIBAxX (small blind) folded before Flop
+Seat 2: Vlao (big blind) collected ($0.02)
+Seat 3: aurefran folded before Flop (didn't bet)
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239402919254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:28:38 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2.01 in chips) 
+Seat 3: aurefran ($2.30 in chips) 
+Seat 4: S1K1C1 ($3.87 in chips) 
+Seat 5: Lorpugo ($1.74 in chips) 
+Seat 6: Pokista1 ($3.27 in chips) 
+Vlao: posts small blind $0.01
+aurefran: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Js]
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: folds 
+XxIBAxX: raises $0.04 to $0.06
+Vlao: folds 
+aurefran: calls $0.04
+*** FLOP *** [Kc Jd 2d]
+aurefran: checks 
+XxIBAxX: bets $0.04
+aurefran: calls $0.04
+*** TURN *** [Kc Jd 2d] [6d]
+aurefran: checks 
+XxIBAxX: checks 
+*** RIVER *** [Kc Jd 2d 6d] [2s]
+aurefran: bets $0.08
+XxIBAxX: folds 
+Uncalled bet ($0.08) returned to aurefran
+aurefran collected $0.20 from pot
+aurefran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Kc Jd 2d 6d 2s]
+Seat 1: XxIBAxX (button) folded on the River
+Seat 2: Vlao (small blind) folded before Flop
+Seat 3: aurefran (big blind) collected ($0.20)
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239402937437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:29:42 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.40 in chips) 
+Seat 4: S1K1C1 ($3.87 in chips) 
+Seat 5: Lorpugo ($1.74 in chips) 
+Seat 6: Pokista1 ($3.27 in chips) 
+aurefran: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3h]
+Lorpugo: folds 
+Pokista1: folds 
+XxIBAxX: folds 
+Vlao: folds 
+aurefran: raises $0.04 to $0.06
+S1K1C1: calls $0.04
+*** FLOP *** [8s 7h Ah]
+aurefran: checks 
+S1K1C1: checks 
+*** TURN *** [8s 7h Ah] [Ad]
+aurefran: checks 
+S1K1C1: checks 
+*** RIVER *** [8s 7h Ah Ad] [Js]
+aurefran: checks 
+S1K1C1: bets $0.12
+aurefran: folds 
+Uncalled bet ($0.12) returned to S1K1C1
+S1K1C1 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8s 7h Ah Ad Js]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao (button) folded before Flop (didn't bet)
+Seat 3: aurefran (small blind) folded on the River
+Seat 4: S1K1C1 (big blind) collected ($0.12)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239402947542:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:30:18 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.34 in chips) 
+Seat 4: S1K1C1 ($3.93 in chips) 
+Seat 5: Lorpugo ($1.74 in chips) 
+Seat 6: Pokista1 ($3.27 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 2c]
+Pokista1: raises $0.02 to $0.04
+XxIBAxX: folds 
+Vlao: folds 
+aurefran: folds 
+S1K1C1: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [2h 4c 5h]
+S1K1C1: checks 
+Lorpugo: bets $0.08
+Pokista1: raises $0.14 to $0.22
+S1K1C1: folds 
+Lorpugo: raises $1.48 to $1.70 and is all-in
+Pokista1: calls $1.48
+*** TURN *** [2h 4c 5h] [Tc]
+*** RIVER *** [2h 4c 5h Tc] [Qd]
+*** SHOW DOWN ***
+Lorpugo: shows [2s 2c] (three of a kind, Deuces)
+Pokista1: shows [Ah 8h] (high card Ace)
+Lorpugo collected $3.40 from pot
+*** SUMMARY ***
+Total pot $3.52 | Rake $0.12 
+Board [2h 4c 5h Tc Qd]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: aurefran (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) folded on the Flop
+Seat 5: Lorpugo (big blind) showed [2s 2c] and won ($3.40) with three of a kind, Deuces
+Seat 6: Pokista1 showed [Ah 8h] and lost with high card Ace
+
+
+
+PokerStars Hand #239402964165:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:31:16 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.34 in chips) 
+Seat 4: S1K1C1 ($3.89 in chips) 
+Seat 5: Lorpugo ($3.40 in chips) 
+Seat 6: Pokista1 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Td]
+XxIBAxX: folds 
+Vlao: folds 
+aurefran: folds 
+S1K1C1: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+Pokista1: folds 
+S1K1C1: calls $0.06
+*** FLOP *** [Ks Qc 9c]
+Lorpugo: bets $0.11
+S1K1C1: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ks Qc 9c]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: aurefran folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) folded on the Flop
+Seat 5: Lorpugo (small blind) collected ($0.17)
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239402973339:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:31:48 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: aurefran ($2.34 in chips) 
+Seat 4: S1K1C1 ($3.81 in chips) 
+Seat 5: Lorpugo ($3.49 in chips) 
+Seat 6: Pokista1 ($2 in chips) 
+Pokista1: posts small blind $0.01
+XxIBAxX: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Js]
+Vlao: folds 
+aurefran: folds 
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: raises $0.04 to $0.06
+XxIBAxX: calls $0.04
+*** FLOP *** [5d 9d 8c]
+Pokista1: bets $0.12
+XxIBAxX: calls $0.12
+*** TURN *** [5d 9d 8c] [6s]
+Pokista1: bets $0.35
+XxIBAxX: folds 
+Uncalled bet ($0.35) returned to Pokista1
+Pokista1 collected $0.35 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5d 9d 8c 6s]
+Seat 1: XxIBAxX (big blind) folded on the Turn
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: aurefran folded before Flop (didn't bet)
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) collected ($0.35)
+
+
+
+PokerStars Hand #239403002761:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:33:29 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: stubmytoe ($1.81 in chips) 
+Seat 4: S1K1C1 ($4.17 in chips) 
+Seat 5: Lorpugo ($3.49 in chips) 
+Seat 6: Pokista1 ($2 in chips) 
+stubmytoe: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8d]
+Lorpugo: folds 
+Pokista1: folds 
+XxIBAxX: folds 
+Vlao: folds 
+stubmytoe: folds 
+Uncalled bet ($0.01) returned to S1K1C1
+S1K1C1 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao (button) folded before Flop (didn't bet)
+Seat 3: stubmytoe (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403007144:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:33:44 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: stubmytoe ($1.80 in chips) 
+Seat 4: S1K1C1 ($4.18 in chips) 
+Seat 5: Lorpugo ($3.49 in chips) 
+Seat 6: Pokista1 ($2 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Td]
+Pokista1: raises $0.02 to $0.04
+XxIBAxX: folds 
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [3h 9s As]
+S1K1C1: checks 
+Lorpugo: checks 
+Pokista1: bets $0.06
+S1K1C1: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Pokista1
+Pokista1 collected $0.12 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3h 9s As]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) folded on the Flop
+Seat 5: Lorpugo (big blind) folded on the Flop
+Seat 6: Pokista1 collected ($0.12)
+
+
+
+PokerStars Hand #239403023151:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:34:39 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: stubmytoe ($1.80 in chips) 
+Seat 4: S1K1C1 ($4.14 in chips) 
+Seat 5: Lorpugo ($3.45 in chips) 
+Seat 6: Pokista1 ($2.08 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Kc]
+XxIBAxX: folds 
+Vlao: folds 
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: calls $0.01
+Pokista1: checks 
+*** FLOP *** [6s 2d 9d]
+Lorpugo: checks 
+Pokista1: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [6s 2d 9d] [3s]
+Lorpugo: checks 
+Pokista1: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** RIVER *** [6s 2d 9d 3s] [8h]
+Lorpugo: checks 
+Pokista1: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [8s Kc] (a pair of Eights)
+Pokista1: shows [8c Kh] (a pair of Eights)
+stubmytoe: mucks hand 
+S1K1C1: mucks hand 
+Lorpugo collected $0.04 from pot
+Pokista1 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6s 2d 9d 3s 8h]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe mucked [Ts Jd]
+Seat 4: S1K1C1 (button) mucked [Qh 4h]
+Seat 5: Lorpugo (small blind) showed [8s Kc] and won ($0.04) with a pair of Eights
+Seat 6: Pokista1 (big blind) showed [8c Kh] and won ($0.04) with a pair of Eights
+
+
+
+PokerStars Hand #239403070491:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:37:24 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: stubmytoe ($2.01 in chips) 
+Seat 4: S1K1C1 ($4.04 in chips) 
+Seat 5: Lorpugo ($3.47 in chips) 
+Seat 6: Pokista1 ($2.10 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7c]
+Pokista1: folds 
+XxIBAxX: folds 
+Vlao: folds 
+stubmytoe: calls $0.02
+S1K1C1: calls $0.01
+Lorpugo: raises $0.06 to $0.08
+stubmytoe: calls $0.06
+S1K1C1: folds 
+*** FLOP *** [Jc Td 4h]
+Lorpugo: checks 
+stubmytoe: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [Jc Td 4h] [Jd]
+Lorpugo: checks 
+stubmytoe: bets $0.04
+Lorpugo: calls $0.04
+*** RIVER *** [Jc Td 4h Jd] [8c]
+Lorpugo: checks 
+stubmytoe: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [As 7c] (a pair of Jacks)
+stubmytoe: shows [2s 2c] (two pair, Jacks and Deuces)
+stubmytoe collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jc Td 4h Jd 8c]
+Seat 1: XxIBAxX folded before Flop (didn't bet)
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe (button) showed [2s 2c] and won ($0.29) with two pair, Jacks and Deuces
+Seat 4: S1K1C1 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [As 7c] and lost with a pair of Jacks
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403087334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:38:22 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: XxIBAxX ($2 in chips) 
+Seat 2: Vlao ($2 in chips) 
+Seat 3: stubmytoe ($2.16 in chips) 
+Seat 4: S1K1C1 ($4.02 in chips) 
+Seat 5: Lorpugo ($3.33 in chips) 
+Seat 6: Pokista1 ($2.10 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 9d]
+XxIBAxX: raises $0.04 to $0.06
+Vlao: raises $0.14 to $0.20
+stubmytoe: folds 
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: folds 
+XxIBAxX: folds 
+Uncalled bet ($0.14) returned to Vlao
+XxIBAxX leaves the table
+Vlao collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: XxIBAxX folded before Flop
+Seat 2: Vlao collected ($0.15)
+Seat 3: stubmytoe folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403092025:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:38:38 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 2: Vlao ($2.09 in chips) 
+Seat 3: stubmytoe ($2.16 in chips) 
+Seat 4: S1K1C1 ($4.02 in chips) 
+Seat 5: Lorpugo ($3.32 in chips) 
+Seat 6: Pokista1 ($2.08 in chips) 
+Pokista1: posts small blind $0.01
+Vlao: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kh]
+stubmytoe: calls $0.02
+S1K1C1: folds 
+Lorpugo: raises $0.07 to $0.09
+Pokista1: folds 
+quispe2102 joins the table at seat #1 
+Vlao: folds 
+stubmytoe: calls $0.07
+*** FLOP *** [9s 2c Js]
+stubmytoe: checks 
+Lorpugo: checks 
+*** TURN *** [9s 2c Js] [6h]
+stubmytoe: checks 
+Lorpugo: bets $0.24
+stubmytoe: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9s 2c Js 6h]
+Seat 2: Vlao (big blind) folded before Flop
+Seat 3: stubmytoe folded on the Turn
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.20)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403103927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:39:19 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 2: Vlao ($2.07 in chips) 
+Seat 3: stubmytoe ($2.07 in chips) 
+Seat 4: S1K1C1 ($4.02 in chips) 
+Seat 5: Lorpugo ($3.43 in chips) 
+Seat 6: Pokista1 ($2.07 in chips) 
+Vlao: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 9c]
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: folds 
+Vlao: raises $0.08 to $0.10
+stubmytoe: calls $0.08
+S1K1C1: calls $0.08
+*** FLOP *** [Qd Th As]
+Vlao: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [Qd Th As] [3h]
+Vlao: bets $0.23
+stubmytoe: calls $0.23
+S1K1C1: folds 
+*** RIVER *** [Qd Th As 3h] [3s]
+Vlao: bets $0.26
+stubmytoe: calls $0.26
+*** SHOW DOWN ***
+Vlao: shows [Tc Td] (a full house, Tens full of Threes)
+stubmytoe: mucks hand 
+Vlao collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.04 
+Board [Qd Th As 3h 3s]
+Seat 2: Vlao (small blind) showed [Tc Td] and won ($1.24) with a full house, Tens full of Threes
+Seat 3: stubmytoe (big blind) mucked [Ah 9d]
+Seat 4: S1K1C1 folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403117816:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:40:07 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: quispe2102 ($0.90 in chips) 
+Seat 2: Vlao ($2.72 in chips) 
+Seat 3: stubmytoe ($1.48 in chips) 
+Seat 4: S1K1C1 ($3.92 in chips) 
+Seat 5: Lorpugo ($3.43 in chips) 
+Seat 6: Pokista1 ($2.07 in chips) 
+stubmytoe: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+quispe2102: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 8h]
+Lorpugo: raises $0.04 to $0.06
+Pokista1: folds 
+quispe2102: folds 
+Vlao: raises $0.18 to $0.24
+stubmytoe: folds 
+S1K1C1: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to Vlao
+Vlao collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: quispe2102 folded before Flop (didn't bet)
+Seat 2: Vlao (button) collected ($0.17)
+Seat 3: stubmytoe (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403128289:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:40:43 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: quispe2102 ($0.88 in chips) 
+Seat 2: Vlao ($2.83 in chips) 
+Seat 3: stubmytoe ($1.47 in chips) 
+Seat 4: S1K1C1 ($3.90 in chips) 
+Seat 5: Lorpugo ($3.37 in chips) 
+Seat 6: Pokista1 ($2.07 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7s]
+Pokista1: folds 
+quispe2102: calls $0.02
+Vlao: raises $0.06 to $0.08
+stubmytoe: calls $0.08
+S1K1C1: folds 
+Lorpugo: folds 
+quispe2102: raises $0.80 to $0.88 and is all-in
+Vlao: raises $1.95 to $2.83 and is all-in
+stubmytoe: folds 
+Uncalled bet ($1.95) returned to Vlao
+*** FLOP *** [3h 3d 2h]
+*** TURN *** [3h 3d 2h] [Th]
+*** RIVER *** [3h 3d 2h Th] [5h]
+*** SHOW DOWN ***
+quispe2102: shows [Qs Ac] (a pair of Threes)
+Vlao: shows [Ah Kd] (a flush, Ace high)
+Vlao cashed out the hand for $1.32 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 
+Board [3h 3d 2h Th 5h]
+Seat 1: quispe2102 showed [Qs Ac] and lost with a pair of Threes
+Seat 2: Vlao showed [Ah Kd] and won ($1.80) with a flush, Ace high (pot not awarded as player cashed out)
+Seat 3: stubmytoe (button) folded before Flop
+Seat 4: S1K1C1 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403198027:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:44:41 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 2: Vlao ($3.21 in chips) 
+Seat 3: stubmytoe ($1.53 in chips) 
+Seat 4: S1K1C1 ($3.66 in chips) 
+Seat 5: Lorpugo ($3.35 in chips) 
+Seat 6: Pokista1 ($2.18 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qd]
+Pokista1: raises $0.02 to $0.04
+Vlao: folds 
+stubmytoe: calls $0.04
+S1K1C1: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [Ts 2d 2s]
+S1K1C1: checks 
+Pokista1: checks 
+stubmytoe: checks 
+*** TURN *** [Ts 2d 2s] [7s]
+S1K1C1: checks 
+Pokista1: checks 
+stubmytoe: checks 
+*** RIVER *** [Ts 2d 2s 7s] [Kh]
+S1K1C1: checks 
+Pokista1: bets $0.07
+stubmytoe: calls $0.07
+S1K1C1: folds 
+*** SHOW DOWN ***
+Pokista1: shows [Kd Jh] (two pair, Kings and Deuces)
+stubmytoe: mucks hand 
+Pokista1 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ts 2d 2s 7s Kh]
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe (button) mucked [Ad 8d]
+Seat 4: S1K1C1 (small blind) folded on the River
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Pokista1 showed [Kd Jh] and won ($0.27) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #239403209635:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:45:21 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 2: Vlao ($3.21 in chips) 
+Seat 3: stubmytoe ($1.42 in chips) 
+Seat 4: S1K1C1 ($3.62 in chips) 
+Seat 5: Lorpugo ($3.33 in chips) 
+Seat 6: Pokista1 ($2.34 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 4c]
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: raises $0.04 to $0.06
+Lorpugo: folds 
+Pokista1: calls $0.04
+*** FLOP *** [Ah 6s 6h]
+Pokista1: bets $0.06
+S1K1C1: calls $0.06
+*** TURN *** [Ah 6s 6h] [Kc]
+Pokista1: checks 
+S1K1C1: checks 
+*** RIVER *** [Ah 6s 6h Kc] [Qh]
+Pokista1: checks 
+S1K1C1: checks 
+*** SHOW DOWN ***
+Pokista1: shows [Th As] (two pair, Aces and Sixes)
+S1K1C1: shows [Ac 8c] (two pair, Aces and Sixes)
+Pokista1 collected $0.12 from pot
+S1K1C1 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ah 6s 6h Kc Qh]
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) showed [Ac 8c] and won ($0.12) with two pair, Aces and Sixes
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) showed [Th As] and won ($0.12) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #239403220862:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:45:59 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 2: Vlao ($3.21 in chips) 
+Seat 3: stubmytoe ($1.42 in chips) 
+Seat 4: S1K1C1 ($3.62 in chips) 
+Seat 5: Lorpugo ($3.32 in chips) 
+Seat 6: Pokista1 ($2.34 in chips) 
+Pokista1: posts small blind $0.01
+Vlao: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 7c]
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: calls $0.01
+Vlao: checks 
+*** FLOP *** [3c 5d 5c]
+Pokista1: checks 
+Vlao: checks 
+stubmytoe: checks 
+S1K1C1: bets $0.08
+Pokista1: calls $0.08
+Vlao: folds 
+stubmytoe: calls $0.08
+*** TURN *** [3c 5d 5c] [Qs]
+Pokista1: checks 
+stubmytoe: checks 
+S1K1C1: bets $0.16
+Pokista1: folds 
+stubmytoe: folds 
+Uncalled bet ($0.16) returned to S1K1C1
+S1K1C1 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3c 5d 5c Qs]
+Seat 2: Vlao (big blind) folded on the Flop
+Seat 3: stubmytoe folded on the Turn
+Seat 4: S1K1C1 collected ($0.31)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239403237406:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:46:56 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 2: Vlao ($3.19 in chips) 
+Seat 3: stubmytoe ($1.32 in chips) 
+Seat 4: S1K1C1 ($3.83 in chips) 
+Seat 5: Lorpugo ($3.32 in chips) 
+Seat 6: Pokista1 ($2.24 in chips) 
+Vlao: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qh]
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: folds 
+Vlao: calls $0.01
+stubmytoe: checks 
+*** FLOP *** [8c Th 2h]
+Vlao: bets $0.05
+stubmytoe: folds 
+S1K1C1: calls $0.05
+*** TURN *** [8c Th 2h] [5c]
+Vlao: bets $0.12
+S1K1C1: calls $0.12
+*** RIVER *** [8c Th 2h 5c] [Qs]
+Vlao: checks 
+S1K1C1: bets $0.39
+Vlao: calls $0.39
+*** SHOW DOWN ***
+S1K1C1: shows [7h 9d] (high card Queen)
+Vlao: shows [8h Ts] (two pair, Tens and Eights)
+Vlao collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [8c Th 2h 5c Qs]
+Seat 2: Vlao (small blind) showed [8h Ts] and won ($1.14) with two pair, Tens and Eights
+Seat 3: stubmytoe (big blind) folded on the Flop
+Seat 4: S1K1C1 showed [7h 9d] and lost with high card Queen
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403248048:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:47:32 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 2: Vlao ($3.75 in chips) 
+Seat 3: stubmytoe ($1.30 in chips) 
+Seat 4: S1K1C1 ($3.25 in chips) 
+Seat 5: Lorpugo ($3.32 in chips) 
+Seat 6: Pokista1 ($2.24 in chips) 
+stubmytoe: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Td]
+Lorpugo: folds 
+Pokista1: folds 
+Vlao: folds 
+stubmytoe: folds 
+Uncalled bet ($0.01) returned to S1K1C1
+S1K1C1 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Vlao (button) folded before Flop (didn't bet)
+Seat 3: stubmytoe (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403253445:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:47:50 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 2: Vlao ($3.75 in chips) 
+Seat 3: stubmytoe ($1.29 in chips) 
+Seat 4: S1K1C1 ($3.26 in chips) 
+Seat 5: Lorpugo ($3.32 in chips) 
+Seat 6: Pokista1 ($2.24 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Jh]
+Pokista1: folds 
+Vlao: folds 
+stubmytoe: calls $0.02
+S1K1C1: calls $0.01
+Lorpugo: raises $0.06 to $0.08
+stubmytoe: calls $0.06
+S1K1C1: calls $0.06
+*** FLOP *** [2c 9h 2d]
+S1K1C1: checks 
+Lorpugo: bets $0.08
+stubmytoe: folds 
+S1K1C1: calls $0.08
+*** TURN *** [2c 9h 2d] [6c]
+S1K1C1: checks 
+Lorpugo: checks 
+*** RIVER *** [2c 9h 2d 6c] [As]
+S1K1C1: checks 
+Lorpugo: bets $0.32
+S1K1C1: folds 
+Uncalled bet ($0.32) returned to Lorpugo
+Lorpugo collected $0.39 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [2c 9h 2d 6c As]
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe (button) folded on the Flop
+Seat 4: S1K1C1 (small blind) folded on the River
+Seat 5: Lorpugo (big blind) collected ($0.39)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403266949:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:48:37 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 2: Vlao ($3.75 in chips) 
+Seat 3: stubmytoe ($1.21 in chips) 
+Seat 4: S1K1C1 ($3.10 in chips) 
+Seat 5: Lorpugo ($3.55 in chips) 
+Seat 6: Pokista1 ($2.24 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c As]
+Vlao: folds 
+stubmytoe: calls $0.02
+S1K1C1: folds 
+Lorpugo: raises $0.06 to $0.08
+Pokista1: folds 
+stubmytoe: calls $0.06
+*** FLOP *** [3s Qc Jh]
+Lorpugo: bets $0.06
+stubmytoe: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3s Qc Jh]
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe folded on the Flop
+Seat 4: S1K1C1 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($0.17)
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403274791:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:49:04 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 2: Vlao ($3.75 in chips) 
+Seat 3: stubmytoe ($1.13 in chips) 
+Seat 4: S1K1C1 ($3.10 in chips) 
+Seat 5: Lorpugo ($3.64 in chips) 
+Seat 6: Pokista1 ($2.22 in chips) 
+Pokista1: posts small blind $0.01
+Vlao: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Td]
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: folds 
+Vlao: checks 
+*** FLOP *** [9s Qd 7h]
+Vlao: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [9s Qd 7h] [Ac]
+Vlao: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** RIVER *** [9s Qd 7h Ac] [2c]
+Vlao: bets $0.02
+stubmytoe: folds 
+S1K1C1: calls $0.02
+*** SHOW DOWN ***
+Vlao: shows [8c As] (a pair of Aces)
+S1K1C1: mucks hand 
+Vlao collected $0.11 from pot
+quispe2102 leaves the table
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9s Qd 7h Ac 2c]
+Seat 2: Vlao (big blind) showed [8c As] and won ($0.11) with a pair of Aces
+Seat 3: stubmytoe folded on the River
+Seat 4: S1K1C1 mucked [Ts Kd]
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403291970:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:50:03 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 2: Vlao ($3.82 in chips) 
+Seat 3: stubmytoe ($1.11 in chips) 
+Seat 4: S1K1C1 ($3.06 in chips) 
+Seat 5: Lorpugo ($3.64 in chips) 
+Seat 6: Pokista1 ($2.21 in chips) 
+Vlao: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jd]
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: folds 
+Vlao: folds 
+Uncalled bet ($0.01) returned to stubmytoe
+stubmytoe collected $0.02 from pot
+stubmytoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Vlao (small blind) folded before Flop
+Seat 3: stubmytoe (big blind) collected ($0.02)
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403294800:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:50:13 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 2: Vlao ($3.81 in chips) 
+Seat 3: stubmytoe ($1.12 in chips) 
+Seat 4: S1K1C1 ($3.06 in chips) 
+Seat 5: Lorpugo ($3.64 in chips) 
+Seat 6: Pokista1 ($2.21 in chips) 
+karsten700 joins the table at seat #1 
+stubmytoe: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ad]
+Lorpugo: raises $0.04 to $0.06
+Pokista1: calls $0.06
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.04
+*** FLOP *** [Qd 4h 2d]
+S1K1C1: checks 
+Lorpugo: bets $0.12
+Pokista1: folds 
+S1K1C1: calls $0.12
+*** TURN *** [Qd 4h 2d] [Td]
+S1K1C1: checks 
+Lorpugo: checks 
+*** RIVER *** [Qd 4h 2d Td] [8h]
+S1K1C1: bets $0.41
+Lorpugo: folds 
+Uncalled bet ($0.41) returned to S1K1C1
+S1K1C1 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Qd 4h 2d Td 8h]
+Seat 2: Vlao (button) folded before Flop (didn't bet)
+Seat 3: stubmytoe (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) collected ($0.41)
+Seat 5: Lorpugo folded on the River
+Seat 6: Pokista1 folded on the Flop
+
+
+
+PokerStars Hand #239403307359:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:50:57 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($3.81 in chips) 
+Seat 3: stubmytoe ($1.11 in chips) 
+Seat 4: S1K1C1 ($3.29 in chips) 
+Seat 5: Lorpugo ($3.46 in chips) 
+Seat 6: Pokista1 ($2.15 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+karsten700: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 5s]
+Pokista1: folds 
+karsten700: raises $0.03 to $0.05
+Vlao: calls $0.05
+stubmytoe: calls $0.05
+S1K1C1: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [Js Jc 7s]
+S1K1C1: checks 
+Lorpugo: checks 
+karsten700: checks 
+Vlao: checks 
+stubmytoe: checks 
+*** TURN *** [Js Jc 7s] [4h]
+S1K1C1: checks 
+Lorpugo: bets $0.24
+karsten700: folds 
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.24 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Js Jc 7s 4h]
+Seat 1: karsten700 folded on the Turn
+Seat 2: Vlao folded on the Turn
+Seat 3: stubmytoe (button) folded on the Turn
+Seat 4: S1K1C1 (small blind) folded on the Turn
+Seat 5: Lorpugo (big blind) collected ($0.24)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403318505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:51:35 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($3.76 in chips) 
+Seat 3: stubmytoe ($1.06 in chips) 
+Seat 4: S1K1C1 ($3.24 in chips) 
+Seat 5: Lorpugo ($3.65 in chips) 
+Seat 6: Pokista1 ($2.15 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kh]
+karsten700: raises $0.03 to $0.05
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.05
+Lorpugo: calls $0.04
+Pokista1: folds 
+*** FLOP *** [4h 2c Jh]
+Lorpugo: checks 
+karsten700: bets $0.08
+S1K1C1: folds 
+Lorpugo: calls $0.08
+*** TURN *** [4h 2c Jh] [2d]
+Lorpugo: checks 
+karsten700: bets $0.24
+Lorpugo: calls $0.24
+*** RIVER *** [4h 2c Jh 2d] [As]
+Lorpugo: checks 
+karsten700: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Jd Kh] (two pair, Jacks and Deuces)
+karsten700: shows [Kd Jc] (two pair, Jacks and Deuces)
+Lorpugo collected $0.39 from pot
+karsten700 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [4h 2c Jh 2d As]
+Seat 1: karsten700 showed [Kd Jc] and won ($0.39) with two pair, Jacks and Deuces
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) folded on the Flop
+Seat 5: Lorpugo (small blind) showed [Jd Kh] and won ($0.39) with two pair, Jacks and Deuces
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403332931:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:52:24 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: karsten700 ($2.02 in chips) 
+Seat 2: Vlao ($3.76 in chips) 
+Seat 3: stubmytoe ($1.06 in chips) 
+Seat 4: S1K1C1 ($3.19 in chips) 
+Seat 5: Lorpugo ($3.67 in chips) 
+Seat 6: Pokista1 ($2.13 in chips) 
+Pokista1: posts small blind $0.01
+karsten700: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Ah]
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+Pokista1: folds 
+karsten700: calls $0.07
+S1K1C1: calls $0.07
+*** FLOP *** [7c 7h 9c]
+karsten700: checks 
+S1K1C1: checks 
+Lorpugo: bets $0.09
+karsten700: folds 
+S1K1C1: calls $0.09
+*** TURN *** [7c 7h 9c] [4c]
+S1K1C1: bets $0.22
+Lorpugo: folds 
+Uncalled bet ($0.22) returned to S1K1C1
+S1K1C1 collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [7c 7h 9c 4c]
+Seat 1: karsten700 (big blind) folded on the Flop
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe folded before Flop (didn't bet)
+Seat 4: S1K1C1 collected ($0.44)
+Seat 5: Lorpugo (button) folded on the Turn
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403344771:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:53:04 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($3.76 in chips) 
+Seat 3: stubmytoe ($1.06 in chips) 
+Seat 4: S1K1C1 ($3.45 in chips) 
+Seat 5: Lorpugo ($3.49 in chips) 
+Seat 6: Pokista1 ($2.12 in chips) 
+karsten700: posts small blind $0.01
+Vlao: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 6c]
+stubmytoe: calls $0.02
+S1K1C1: raises $0.07 to $0.09
+Lorpugo: folds 
+Pokista1: folds 
+karsten700: folds 
+Vlao: calls $0.07
+stubmytoe: calls $0.07
+*** FLOP *** [8h Qc 2c]
+Vlao: bets $0.14
+stubmytoe: raises $0.83 to $0.97 and is all-in
+S1K1C1: folds 
+Vlao: calls $0.83
+*** TURN *** [8h Qc 2c] [Ks]
+*** RIVER *** [8h Qc 2c Ks] [4d]
+*** SHOW DOWN ***
+Vlao: shows [8s 8d] (three of a kind, Eights)
+stubmytoe: shows [Kh Kd] (three of a kind, Kings)
+stubmytoe collected $2.14 from pot
+Vlao cashed out the hand for $1.93 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.22 | Rake $0.08 
+Board [8h Qc 2c Ks 4d]
+Seat 1: karsten700 (small blind) folded before Flop
+Seat 2: Vlao (big blind) showed [8s 8d] and lost with three of a kind, Eights (cashed out).
+Seat 3: stubmytoe showed [Kh Kd] and won ($2.14) with three of a kind, Kings
+Seat 4: S1K1C1 folded on the Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403356339:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:53:44 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.63 in chips) 
+Seat 3: stubmytoe ($2.14 in chips) 
+Seat 4: S1K1C1 ($3.36 in chips) 
+Seat 5: Lorpugo ($3.49 in chips) 
+Seat 6: Pokista1 ($2.12 in chips) 
+Vlao: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4d]
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: folds 
+karsten700: folds 
+Vlao: folds 
+Uncalled bet ($0.01) returned to stubmytoe
+stubmytoe collected $0.02 from pot
+stubmytoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: karsten700 (button) folded before Flop (didn't bet)
+Seat 2: Vlao (small blind) folded before Flop
+Seat 3: stubmytoe (big blind) collected ($0.02)
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403359579:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:53:55 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.62 in chips) 
+Seat 3: stubmytoe ($2.15 in chips) 
+Seat 4: S1K1C1 ($3.36 in chips) 
+Seat 5: Lorpugo ($3.49 in chips) 
+Seat 6: Pokista1 ($2.12 in chips) 
+stubmytoe: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7c]
+Lorpugo: folds 
+Pokista1: folds 
+karsten700: folds 
+Vlao: folds 
+stubmytoe: raises $0.02 to $0.04
+S1K1C1: calls $0.02
+*** FLOP *** [Th Kd 5d]
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [Th Kd 5d] [Qs]
+stubmytoe: bets $0.10
+S1K1C1: folds 
+Uncalled bet ($0.10) returned to stubmytoe
+stubmytoe collected $0.08 from pot
+stubmytoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Th Kd 5d Qs]
+Seat 1: karsten700 folded before Flop (didn't bet)
+Seat 2: Vlao (button) folded before Flop (didn't bet)
+Seat 3: stubmytoe (small blind) collected ($0.08)
+Seat 4: S1K1C1 (big blind) folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403365348:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:54:15 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.62 in chips) 
+Seat 3: stubmytoe ($2.19 in chips) 
+Seat 4: S1K1C1 ($3.32 in chips) 
+Seat 5: Lorpugo ($3.49 in chips) 
+Seat 6: Pokista1 ($2.12 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4h]
+Pokista1: folds 
+karsten700 has timed out
+karsten700: folds 
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Td Ks Ah]
+S1K1C1: checks 
+Lorpugo: bets $0.02
+S1K1C1: calls $0.02
+*** TURN *** [Td Ks Ah] [5h]
+S1K1C1: checks 
+Lorpugo: checks 
+*** RIVER *** [Td Ks Ah 5h] [4d]
+S1K1C1: bets $0.08
+Lorpugo: calls $0.08
+*** SHOW DOWN ***
+S1K1C1: shows [As Kd] (two pair, Aces and Kings)
+Lorpugo: mucks hand 
+S1K1C1 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Td Ks Ah 5h 4d]
+Seat 1: karsten700 folded before Flop (didn't bet)
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) showed [As Kd] and won ($0.23) with two pair, Aces and Kings
+Seat 5: Lorpugo (big blind) mucked [7d 4h]
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403382608:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:55:17 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 2: Vlao ($4.62 in chips) 
+Seat 3: stubmytoe ($2.19 in chips) 
+Seat 4: S1K1C1 ($3.43 in chips) 
+Seat 5: Lorpugo ($3.37 in chips) 
+Seat 6: Pokista1 ($2.12 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9h]
+Vlao: folds 
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: calls $0.01
+Pokista1: checks 
+*** FLOP *** [6s 8s As]
+Lorpugo: checks 
+Pokista1: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [6s 8s As] [6h]
+Lorpugo: bets $0.05
+Pokista1: folds 
+stubmytoe: calls $0.05
+S1K1C1: folds 
+*** RIVER *** [6s 8s As 6h] [2d]
+Lorpugo: bets $0.11
+stubmytoe: raises $0.11 to $0.22
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to stubmytoe
+stubmytoe collected $0.39 from pot
+stubmytoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [6s 8s As 6h 2d]
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe collected ($0.39)
+Seat 4: S1K1C1 (button) folded on the Turn
+Seat 5: Lorpugo (small blind) folded on the River
+Seat 6: Pokista1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239403395026:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:56:13 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.62 in chips) 
+Seat 3: stubmytoe ($2.40 in chips) 
+Seat 4: S1K1C1 ($3.41 in chips) 
+Seat 5: Lorpugo ($3.19 in chips) 
+Seat 6: Pokista1 ($2.10 in chips) 
+Pokista1: posts small blind $0.01
+karsten700: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 2h]
+Vlao: folds 
+stubmytoe: raises $0.02 to $0.04
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: calls $0.03
+karsten700: folds 
+*** FLOP *** [8c 2d 3s]
+Pokista1: checks 
+stubmytoe: checks 
+*** TURN *** [8c 2d 3s] [7d]
+Pokista1: checks 
+stubmytoe: checks 
+*** RIVER *** [8c 2d 3s 7d] [5d]
+Pokista1: checks 
+stubmytoe: bets $0.14
+Pokista1: calls $0.14
+*** SHOW DOWN ***
+stubmytoe: shows [Jc Kc] (high card King)
+Pokista1: shows [Ad Qh] (high card Ace)
+Pokista1 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [8c 2d 3s 7d 5d]
+Seat 1: karsten700 (big blind) folded before Flop
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe showed [Jc Kc] and lost with high card King
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) showed [Ad Qh] and won ($0.37) with high card Ace
+
+
+
+PokerStars Hand #239403404585:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:56:55 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.62 in chips) 
+Seat 3: stubmytoe ($2.22 in chips) 
+Seat 4: S1K1C1 ($3.41 in chips) 
+Seat 5: Lorpugo ($3.19 in chips) 
+Seat 6: Pokista1 ($2.29 in chips) 
+karsten700: posts small blind $0.01
+Vlao: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Td]
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: raises $0.09 to $0.11
+Pokista1: folds 
+karsten700: folds 
+Vlao: folds 
+stubmytoe: calls $0.09
+S1K1C1: calls $0.09
+*** FLOP *** [4c Kd 9d]
+stubmytoe: checks 
+S1K1C1: checks 
+Lorpugo: bets $0.23
+stubmytoe: folds 
+S1K1C1: calls $0.23
+*** TURN *** [4c Kd 9d] [Ks]
+S1K1C1: checks 
+Lorpugo: checks 
+*** RIVER *** [4c Kd 9d Ks] [As]
+S1K1C1: bets $0.40
+Lorpugo: folds 
+Uncalled bet ($0.40) returned to S1K1C1
+S1K1C1 collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [4c Kd 9d Ks As]
+Seat 1: karsten700 (small blind) folded before Flop
+Seat 2: Vlao (big blind) folded before Flop
+Seat 3: stubmytoe folded on the Flop
+Seat 4: S1K1C1 collected ($0.78)
+Seat 5: Lorpugo folded on the River
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403417601:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:57:53 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.60 in chips) 
+Seat 3: stubmytoe ($2.11 in chips) 
+Seat 4: S1K1C1 ($3.85 in chips) 
+Seat 5: Lorpugo ($2.85 in chips) 
+Seat 6: Pokista1 ($2.29 in chips) 
+Vlao: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jh]
+S1K1C1: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+Pokista1: folds 
+karsten700: folds 
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.08
+*** FLOP *** [3c Ah Jc]
+S1K1C1: checks 
+Lorpugo: bets $0.15
+S1K1C1: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.22 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3c Ah Jc]
+Seat 1: karsten700 (button) folded before Flop (didn't bet)
+Seat 2: Vlao (small blind) folded before Flop
+Seat 3: stubmytoe (big blind) folded before Flop
+Seat 4: S1K1C1 folded on the Flop
+Seat 5: Lorpugo collected ($0.22)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403423904:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:58:21 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.59 in chips) 
+Seat 3: stubmytoe ($2.09 in chips) 
+Seat 4: S1K1C1 ($3.75 in chips) 
+Seat 5: Lorpugo ($2.97 in chips) 
+Seat 6: Pokista1 ($2.29 in chips) 
+stubmytoe: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jc]
+Lorpugo: folds 
+Pokista1: raises $0.02 to $0.04
+karsten700: folds 
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.02
+*** FLOP *** [Qs Ah Th]
+S1K1C1: bets $0.05
+Pokista1: calls $0.05
+*** TURN *** [Qs Ah Th] [Ad]
+S1K1C1: bets $0.09
+Pokista1: calls $0.09
+*** RIVER *** [Qs Ah Th Ad] [6s]
+S1K1C1: bets $0.18
+Pokista1: calls $0.18
+*** SHOW DOWN ***
+S1K1C1: shows [9d Js] (a pair of Aces)
+Pokista1: shows [As 9h] (three of a kind, Aces)
+Pokista1 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Qs Ah Th Ad 6s]
+Seat 1: karsten700 folded before Flop (didn't bet)
+Seat 2: Vlao (button) folded before Flop (didn't bet)
+Seat 3: stubmytoe (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) showed [9d Js] and lost with a pair of Aces
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 showed [As 9h] and won ($0.70) with three of a kind, Aces
+
+
+
+PokerStars Hand #239403431364:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:58:54 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 2: Vlao ($4.59 in chips) 
+Seat 3: stubmytoe ($2.08 in chips) 
+Seat 4: S1K1C1 ($3.39 in chips) 
+Seat 5: Lorpugo ($2.97 in chips) 
+Seat 6: Pokista1 ($2.63 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7c]
+Pokista1: folds 
+karsten700: raises $0.03 to $0.05
+Vlao: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [6d 9c Kc]
+S1K1C1: checks 
+karsten700: checks 
+*** TURN *** [6d 9c Kc] [7s]
+S1K1C1: checks 
+karsten700: checks 
+*** RIVER *** [6d 9c Kc 7s] [Jh]
+S1K1C1: checks 
+karsten700: checks 
+*** SHOW DOWN ***
+S1K1C1: shows [4s 3h] (high card King)
+karsten700: shows [7h Th] (a pair of Sevens)
+karsten700 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6d 9c Kc 7s Jh]
+Seat 1: karsten700 showed [7h Th] and won ($0.12) with a pair of Sevens
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) showed [4s 3h] and lost with high card King
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403438798:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 10:59:27 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: karsten700 ($2.07 in chips) 
+Seat 2: Vlao ($4.59 in chips) 
+Seat 3: stubmytoe ($2.08 in chips) 
+Seat 4: S1K1C1 ($3.34 in chips) 
+Seat 5: Lorpugo ($2.95 in chips) 
+Seat 6: Pokista1 ($2.63 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Jh]
+karsten700: raises $0.03 to $0.05
+Vlao: folds 
+stubmytoe: calls $0.05
+S1K1C1: calls $0.05
+Lorpugo: calls $0.04
+Pokista1: folds 
+*** FLOP *** [3h 7s 9s]
+Lorpugo: checks 
+karsten700: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [3h 7s 9s] [5c]
+Lorpugo: checks 
+karsten700: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** RIVER *** [3h 7s 9s 5c] [4d]
+Lorpugo: bets $0.26
+karsten700: folds 
+stubmytoe: folds 
+S1K1C1: calls $0.26
+*** SHOW DOWN ***
+Lorpugo: shows [Kc Jh] (high card King)
+S1K1C1: shows [5h 7d] (two pair, Sevens and Fives)
+S1K1C1 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.04 
+Board [3h 7s 9s 5c 4d]
+Seat 1: karsten700 folded on the River
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe folded on the River
+Seat 4: S1K1C1 (button) showed [5h 7d] and won ($0.70) with two pair, Sevens and Fives
+Seat 5: Lorpugo (small blind) showed [Kc Jh] and lost with high card King
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403453713:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:00:31 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: karsten700 ($2.02 in chips) 
+Seat 2: Vlao ($4.59 in chips) 
+Seat 3: stubmytoe ($2.03 in chips) 
+Seat 4: S1K1C1 ($3.73 in chips) 
+Seat 5: Lorpugo ($2.64 in chips) 
+Seat 6: Pokista1 ($2.61 in chips) 
+Pokista1: posts small blind $0.01
+karsten700: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ks]
+Vlao: folds 
+stubmytoe: calls $0.02
+S1K1C1: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Pokista1: folds 
+karsten700: folds 
+stubmytoe: calls $0.04
+*** FLOP *** [8s 3s Tc]
+stubmytoe: checks 
+S1K1C1: checks 
+Lorpugo: bets $0.13
+stubmytoe: calls $0.13
+S1K1C1: folds 
+*** TURN *** [8s 3s Tc] [4h]
+stubmytoe: checks 
+Lorpugo: bets $0.30
+stubmytoe: calls $0.30
+*** RIVER *** [8s 3s Tc 4h] [2s]
+stubmytoe: checks 
+Lorpugo: bets $1.32
+stubmytoe: folds 
+Uncalled bet ($1.32) returned to Lorpugo
+Lorpugo collected $1.03 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [8s 3s Tc 4h 2s]
+Seat 1: karsten700 (big blind) folded before Flop
+Seat 2: Vlao folded before Flop (didn't bet)
+Seat 3: stubmytoe folded on the River
+Seat 4: S1K1C1 folded on the Flop
+Seat 5: Lorpugo (button) collected ($1.03)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403466876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:01:22 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: karsten700 ($2 in chips) 
+Seat 3: stubmytoe ($1.54 in chips) 
+Seat 4: S1K1C1 ($3.67 in chips) 
+Seat 5: Lorpugo ($3.18 in chips) 
+Seat 6: Pokista1 ($2.60 in chips) 
+karsten700: posts small blind $0.01
+Vlao: is sitting out 
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6c]
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: folds 
+Vlao leaves the table
+karsten700: calls $0.01
+stubmytoe: checks 
+*** FLOP *** [Qc 7c Jd]
+karsten700: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [Qc 7c Jd] [Kh]
+karsten700: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** RIVER *** [Qc 7c Jd Kh] [9d]
+karsten700: bets $0.05
+stubmytoe: folds 
+Kuzzz49 joins the table at seat #2 
+S1K1C1: folds 
+Uncalled bet ($0.05) returned to karsten700
+karsten700 collected $0.06 from pot
+karsten700: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc 7c Jd Kh 9d]
+Seat 1: karsten700 (small blind) collected ($0.06)
+Seat 3: stubmytoe (big blind) folded on the River
+Seat 4: S1K1C1 folded on the River
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403475768:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:01:53 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: karsten700 ($2.04 in chips) 
+Seat 3: stubmytoe ($1.52 in chips) 
+Seat 4: S1K1C1 ($3.65 in chips) 
+Seat 5: Lorpugo ($3.18 in chips) 
+Seat 6: Pokista1 ($2.60 in chips) 
+stubmytoe: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5c]
+Lorpugo: folds 
+Pokista1 has timed out
+Pokista1: folds 
+karsten700: folds 
+karsten700 leaves the table
+stubmytoe: calls $0.01
+Je5u5fav joins the table at seat #1 
+S1K1C1: checks 
+*** FLOP *** [Kh 2d Js]
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [Kh 2d Js] [4h]
+stubmytoe: checks 
+S1K1C1: checks 
+*** RIVER *** [Kh 2d Js 4h] [5s]
+stubmytoe: bets $0.02
+S1K1C1: calls $0.02
+*** SHOW DOWN ***
+stubmytoe: shows [9c 7c] (high card King)
+S1K1C1: shows [Tc 8h] (high card King - Jack+Ten kicker)
+S1K1C1 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kh 2d Js 4h 5s]
+Seat 1: karsten700 (button) folded before Flop (didn't bet)
+Seat 3: stubmytoe (small blind) showed [9c 7c] and lost with high card King
+Seat 4: S1K1C1 (big blind) showed [Tc 8h] and won ($0.08) with high card King
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403483927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:02:21 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 2: Kuzzz49 ($2 in chips) 
+Seat 3: stubmytoe ($1.48 in chips) 
+Seat 4: S1K1C1 ($3.69 in chips) 
+Seat 5: Lorpugo ($3.18 in chips) 
+Seat 6: Pokista1 ($2.60 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Je5u5fav: sits out 
+Kuzzz49: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 6h]
+Pokista1: folds 
+Kuzzz49: checks 
+stubmytoe: folds 
+S1K1C1: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Qc Ad Tc]
+S1K1C1: checks 
+Lorpugo: checks 
+Kuzzz49: checks 
+*** TURN *** [Qc Ad Tc] [9d]
+S1K1C1: checks 
+Lorpugo: checks 
+Kuzzz49: bets $0.04
+S1K1C1: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Kuzzz49
+Kuzzz49 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc Ad Tc 9d]
+Seat 2: Kuzzz49 collected ($0.06)
+Seat 3: stubmytoe (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) folded on the Turn
+Seat 5: Lorpugo (big blind) folded on the Turn
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403492110:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:02:49 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 2: Kuzzz49 ($2.04 in chips) 
+Seat 3: stubmytoe ($1.48 in chips) 
+Seat 4: S1K1C1 ($3.67 in chips) 
+Seat 5: Lorpugo ($3.16 in chips) 
+Seat 6: Pokista1 ($2.60 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+Je5u5fav: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8s]
+Kuzzz49: calls $0.02
+stubmytoe: calls $0.02
+S1K1C1: raises $0.04 to $0.06
+Lorpugo: folds 
+Pokista1: folds 
+Kuzzz49: calls $0.04
+stubmytoe: calls $0.04
+*** FLOP *** [Jc 3s 3h]
+Kuzzz49: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [Jc 3s 3h] [2c]
+Kuzzz49: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** RIVER *** [Jc 3s 3h 2c] [9c]
+Kuzzz49: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** SHOW DOWN ***
+Kuzzz49: shows [Tc 4s] (a pair of Threes)
+stubmytoe: shows [Ks Qc] (a pair of Threes - King kicker)
+S1K1C1: mucks hand 
+stubmytoe collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jc 3s 3h 2c 9c]
+Seat 2: Kuzzz49 showed [Tc 4s] and lost with a pair of Threes
+Seat 3: stubmytoe showed [Ks Qc] and won ($0.20) with a pair of Threes
+Seat 4: S1K1C1 (button) mucked [Kh Td]
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403503250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:03:27 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: Je5u5fav ($2 in chips) 
+Seat 2: Kuzzz49 ($1.98 in chips) 
+Seat 3: stubmytoe ($1.62 in chips) 
+Seat 4: S1K1C1 ($3.61 in chips) 
+Seat 5: Lorpugo ($3.15 in chips) 
+Seat 6: Pokista1 ($2.58 in chips) 
+Pokista1: posts small blind $0.01
+Je5u5fav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 7h]
+Kuzzz49: calls $0.02
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: folds 
+Je5u5fav: checks 
+*** FLOP *** [9s Qh 9h]
+Je5u5fav: checks 
+Kuzzz49: checks 
+stubmytoe: checks 
+S1K1C1: checks 
+*** TURN *** [9s Qh 9h] [4d]
+Je5u5fav: checks 
+Kuzzz49: bets $0.02
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Je5u5fav: folds 
+*** RIVER *** [9s Qh 9h 4d] [6c]
+Kuzzz49: bets $0.04
+stubmytoe: calls $0.04
+S1K1C1: folds 
+*** SHOW DOWN ***
+Kuzzz49: shows [4c Jh] (two pair, Nines and Fours)
+stubmytoe: shows [4h Th] (two pair, Nines and Fours)
+Kuzzz49 collected $0.11 from pot
+stubmytoe collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9s Qh 9h 4d 6c]
+Seat 1: Je5u5fav (big blind) folded on the Turn
+Seat 2: Kuzzz49 showed [4c Jh] and won ($0.11) with two pair, Nines and Fours
+Seat 3: stubmytoe showed [4h Th] and won ($0.11) with two pair, Nines and Fours
+Seat 4: S1K1C1 folded on the River
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403514963:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:04:06 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: Je5u5fav ($1.98 in chips) 
+Seat 2: Kuzzz49 ($2.01 in chips) 
+Seat 3: stubmytoe ($1.65 in chips) 
+Seat 4: S1K1C1 ($3.57 in chips) 
+Seat 5: Lorpugo ($3.15 in chips) 
+Seat 6: Pokista1 ($2.57 in chips) 
+Je5u5fav: posts small blind $0.01
+Kuzzz49: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Ks]
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: calls $0.02
+Pokista1: folds 
+Je5u5fav: calls $0.01
+Kuzzz49: raises $0.02 to $0.04
+stubmytoe: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: calls $0.02
+Je5u5fav: calls $0.02
+*** FLOP *** [Kd Th Qs]
+Je5u5fav: checks 
+Kuzzz49: bets $0.06
+stubmytoe: calls $0.06
+S1K1C1: calls $0.06
+Lorpugo: calls $0.06
+Je5u5fav: folds 
+*** TURN *** [Kd Th Qs] [Tc]
+Kuzzz49: checks 
+stubmytoe: bets $0.10
+S1K1C1: calls $0.10
+Lorpugo: calls $0.10
+Kuzzz49: calls $0.10
+*** RIVER *** [Kd Th Qs Tc] [Ah]
+Kuzzz49: checks 
+stubmytoe: bets $1.45 and is all-in
+S1K1C1: folds 
+Lorpugo: calls $1.45
+Kuzzz49: raises $0.36 to $1.81 and is all-in
+Lorpugo: calls $0.36
+*** SHOW DOWN ***
+Kuzzz49: shows [7d Jd] (a straight, Ten to Ace)
+Lorpugo: shows [Jh Ks] (a straight, Ten to Ace)
+Kuzzz49 collected $0.35 from side pot
+Lorpugo collected $0.34 from side pot
+stubmytoe: shows [Qc Td] (a full house, Tens full of Queens)
+stubmytoe collected $5.01 from main pot
+*** SUMMARY ***
+Total pot $5.91 Main pot $5.01. Side pot $0.69. | Rake $0.21 
+Board [Kd Th Qs Tc Ah]
+Seat 1: Je5u5fav (small blind) folded on the Flop
+Seat 2: Kuzzz49 (big blind) showed [7d Jd] and won ($0.35) with a straight, Ten to Ace
+Seat 3: stubmytoe showed [Qc Td] and won ($5.01) with a full house, Tens full of Queens
+Seat 4: S1K1C1 folded on the River
+Seat 5: Lorpugo showed [Jh Ks] and won ($0.34) with a straight, Ten to Ace
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403566626:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:06:50 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: Je5u5fav ($2.84 in chips) 
+Seat 3: stubmytoe ($4.55 in chips) 
+Seat 4: S1K1C1 ($3.23 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: Pokista1 ($2.57 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qs]
+Pokista1: raises $0.02 to $0.04
+Je5u5fav: folds 
+stubmytoe: calls $0.04
+S1K1C1: raises $0.02 to $0.06
+Lorpugo: calls $0.04
+Pokista1: calls $0.02
+stubmytoe: calls $0.02
+*** FLOP *** [Qh Jh 3c]
+S1K1C1: checks 
+Lorpugo: bets $0.15
+Pokista1: folds 
+stubmytoe: calls $0.15
+S1K1C1: folds 
+*** TURN *** [Qh Jh 3c] [5d]
+Lorpugo: bets $0.48
+stubmytoe: calls $0.48
+*** RIVER *** [Qh Jh 3c 5d] [2h]
+Lorpugo: bets $0.91 and is all-in
+stubmytoe: calls $0.91
+*** SHOW DOWN ***
+Lorpugo: shows [Jd Qs] (two pair, Queens and Jacks)
+stubmytoe: shows [Js Ad] (a pair of Jacks)
+Lorpugo collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.32 | Rake $0.12 
+Board [Qh Jh 3c 5d 2h]
+Seat 1: Je5u5fav folded before Flop (didn't bet)
+Seat 3: stubmytoe (button) showed [Js Ad] and lost with a pair of Jacks
+Seat 4: S1K1C1 (small blind) folded on the Flop
+Seat 5: Lorpugo (big blind) showed [Jd Qs] and won ($3.20) with two pair, Queens and Jacks
+Seat 6: Pokista1 folded on the Flop
+
+
+
+PokerStars Hand #239403593363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:08:14 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: Je5u5fav ($2.84 in chips) 
+Seat 2: Kuzzz49 ($2 in chips) 
+Seat 3: stubmytoe ($2.95 in chips) 
+Seat 4: S1K1C1 ($3.17 in chips) 
+Seat 5: Lorpugo ($3.20 in chips) 
+Seat 6: Pokista1 ($2.51 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 2s]
+Je5u5fav: folds 
+Kuzzz49: calls $0.02
+stubmytoe: folds 
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: checks 
+*** FLOP *** [7c Ad 9s]
+Pokista1: bets $0.03
+Kuzzz49: folds 
+S1K1C1: calls $0.03
+*** TURN *** [7c Ad 9s] [Qc]
+Pokista1: checks 
+S1K1C1: checks 
+*** RIVER *** [7c Ad 9s Qc] [8d]
+Pokista1: checks 
+S1K1C1: bets $0.07
+Pokista1: calls $0.07
+*** SHOW DOWN ***
+S1K1C1: shows [9c Jh] (a pair of Nines)
+Pokista1: shows [Ah Tc] (a pair of Aces)
+Pokista1 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [7c Ad 9s Qc 8d]
+Seat 1: Je5u5fav folded before Flop (didn't bet)
+Seat 2: Kuzzz49 folded on the Flop
+Seat 3: stubmytoe folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) showed [9c Jh] and lost with a pair of Nines
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) showed [Ah Tc] and won ($0.26) with a pair of Aces
+
+
+
+PokerStars Hand #239403608004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:08:59 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: Je5u5fav ($2.84 in chips) 
+Seat 2: Kuzzz49 ($1.98 in chips) 
+Seat 3: stubmytoe ($2.95 in chips) 
+Seat 4: S1K1C1 ($3.05 in chips) 
+Seat 5: Lorpugo ($3.19 in chips) 
+Seat 6: Pokista1 ($2.65 in chips) 
+Pokista1: posts small blind $0.01
+Je5u5fav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Js]
+Kuzzz49: calls $0.02
+stubmytoe: calls $0.02
+S1K1C1: raises $0.04 to $0.06
+Lorpugo: folds 
+Pokista1: folds 
+Je5u5fav: calls $0.04
+Kuzzz49: calls $0.04
+stubmytoe: calls $0.04
+*** FLOP *** [6d 2s 5h]
+Je5u5fav: checks 
+Kuzzz49: bets $0.08
+stubmytoe: folds 
+S1K1C1: calls $0.08
+Je5u5fav: folds 
+*** TURN *** [6d 2s 5h] [8s]
+Kuzzz49: bets $0.20
+S1K1C1: raises $0.40 to $0.60
+Kuzzz49: calls $0.40
+*** RIVER *** [6d 2s 5h 8s] [9c]
+Kuzzz49: checks 
+S1K1C1: bets $1.55
+Kuzzz49: folds 
+Uncalled bet ($1.55) returned to S1K1C1
+S1K1C1 collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.08 
+Board [6d 2s 5h 8s 9c]
+Seat 1: Je5u5fav (big blind) folded on the Flop
+Seat 2: Kuzzz49 folded on the River
+Seat 3: stubmytoe folded on the Flop
+Seat 4: S1K1C1 collected ($1.53)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403626382:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:09:56 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: Je5u5fav ($2.78 in chips) 
+Seat 2: Kuzzz49 ($1.24 in chips) 
+Seat 3: stubmytoe ($2.89 in chips) 
+Seat 4: S1K1C1 ($3.84 in chips) 
+Seat 5: Lorpugo ($3.19 in chips) 
+Seat 6: Pokista1 ($2.64 in chips) 
+Je5u5fav: posts small blind $0.01
+Kuzzz49: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Qd]
+stubmytoe: folds 
+S1K1C1: calls $0.02
+Lorpugo: calls $0.02
+Pokista1: raises $0.09 to $0.11
+Je5u5fav: folds 
+Kuzzz49: folds 
+S1K1C1: calls $0.09
+Lorpugo: folds 
+*** FLOP *** [5c 8h Ad]
+S1K1C1: checks 
+Pokista1: bets $0.13
+S1K1C1: folds 
+Uncalled bet ($0.13) returned to Pokista1
+Pokista1 collected $0.26 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5c 8h Ad]
+Seat 1: Je5u5fav (small blind) folded before Flop
+Seat 2: Kuzzz49 (big blind) folded before Flop
+Seat 3: stubmytoe folded before Flop (didn't bet)
+Seat 4: S1K1C1 folded on the Flop
+Seat 5: Lorpugo folded before Flop
+Seat 6: Pokista1 (button) collected ($0.26)
+
+
+
+PokerStars Hand #239403633643:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:10:18 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: Je5u5fav ($2.77 in chips) 
+Seat 2: Kuzzz49 ($1.22 in chips) 
+Seat 4: S1K1C1 ($3.73 in chips) 
+Seat 5: Lorpugo ($3.17 in chips) 
+Seat 6: Pokista1 ($2.79 in chips) 
+Kuzzz49: posts small blind $0.01
+stubmytoe: is sitting out 
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 4c]
+Lorpugo: folds 
+Pokista1: raises $0.02 to $0.04
+Je5u5fav: folds 
+Kuzzz49: calls $0.03
+S1K1C1: calls $0.02
+*** FLOP *** [7d 8d Jc]
+Kuzzz49: checks 
+S1K1C1: bets $0.06
+Pokista1: calls $0.06
+Kuzzz49: calls $0.06
+*** TURN *** [7d 8d Jc] [9h]
+Kuzzz49: checks 
+S1K1C1: bets $0.29
+Pokista1: folds 
+Kuzzz49: folds 
+Uncalled bet ($0.29) returned to S1K1C1
+S1K1C1 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7d 8d Jc 9h]
+Seat 1: Je5u5fav (button) folded before Flop (didn't bet)
+Seat 2: Kuzzz49 (small blind) folded on the Turn
+Seat 4: S1K1C1 (big blind) collected ($0.29)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded on the Turn
+
+
+
+PokerStars Hand #239403642351:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:10:45 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: Je5u5fav ($2.77 in chips) 
+Seat 2: Kuzzz49 ($1.12 in chips) 
+Seat 4: S1K1C1 ($3.92 in chips) 
+Seat 5: Lorpugo ($3.17 in chips) 
+Seat 6: Pokista1 ($2.69 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td As]
+Pokista1: folds 
+Je5u5fav: raises $0.04 to $0.06
+Kuzzz49: folds 
+S1K1C1: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [7h Jc 7s]
+S1K1C1: checks 
+Lorpugo: bets $0.06
+Je5u5fav: calls $0.06
+S1K1C1: calls $0.06
+*** TURN *** [7h Jc 7s] [Jh]
+S1K1C1: checks 
+Lorpugo: checks 
+Je5u5fav: checks 
+*** RIVER *** [7h Jc 7s Jh] [Kd]
+S1K1C1: bets $0.18
+Lorpugo: folds 
+Je5u5fav: folds 
+Uncalled bet ($0.18) returned to S1K1C1
+S1K1C1 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [7h Jc 7s Jh Kd]
+Seat 1: Je5u5fav folded on the River
+Seat 2: Kuzzz49 (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) collected ($0.35)
+Seat 5: Lorpugo (big blind) folded on the River
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403659921:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:11:39 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: Je5u5fav ($2.65 in chips) 
+Seat 2: Kuzzz49 ($1.12 in chips) 
+Seat 4: S1K1C1 ($4.15 in chips) 
+Seat 5: Lorpugo ($3.05 in chips) 
+Seat 6: Pokista1 ($2.69 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 7s]
+Je5u5fav: folds 
+Kuzzz49: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: calls $0.01
+Pokista1: checks 
+*** FLOP *** [8c 8h 5s]
+Lorpugo: bets $0.03
+stubmytoe leaves the table
+Pokista1: folds 
+Kuzzz49: calls $0.03
+S1K1C1: folds 
+*** TURN *** [8c 8h 5s] [4c]
+Lorpugo: checks 
+mYster1o joins the table at seat #3 
+Kuzzz49: bets $0.08
+Lorpugo: calls $0.08
+*** RIVER *** [8c 8h 5s 4c] [3s]
+Lorpugo: checks 
+Kuzzz49: bets $0.15
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Kuzzz49
+Kuzzz49 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8c 8h 5s 4c 3s]
+Seat 1: Je5u5fav folded before Flop (didn't bet)
+Seat 2: Kuzzz49 collected ($0.29)
+Seat 4: S1K1C1 (button) folded on the Flop
+Seat 5: Lorpugo (small blind) folded on the River
+Seat 6: Pokista1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239403686546:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:13:01 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: Je5u5fav ($2.65 in chips) 
+Seat 2: Kuzzz49 ($1.28 in chips) 
+Seat 4: S1K1C1 ($4.13 in chips) 
+Seat 5: Lorpugo ($2.92 in chips) 
+Seat 6: Pokista1 ($2.67 in chips) 
+Pokista1: posts small blind $0.01
+Je5u5fav: posts big blind $0.02
+mYster1o: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 6d]
+Kuzzz49: calls $0.02
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: calls $0.01
+Je5u5fav: checks 
+*** FLOP *** [Jd 5s Tc]
+Pokista1: checks 
+Je5u5fav: checks 
+Kuzzz49: checks 
+S1K1C1: checks 
+*** TURN *** [Jd 5s Tc] [5h]
+Pokista1: checks 
+Je5u5fav: bets $0.06
+Kuzzz49: folds 
+S1K1C1: folds 
+Pokista1: folds 
+Uncalled bet ($0.06) returned to Je5u5fav
+Je5u5fav collected $0.08 from pot
+Je5u5fav: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Jd 5s Tc 5h]
+Seat 1: Je5u5fav (big blind) collected ($0.08)
+Seat 2: Kuzzz49 folded on the Turn
+Seat 4: S1K1C1 folded on the Turn
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239403698993:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:13:38 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: Je5u5fav ($2.71 in chips) 
+Seat 2: Kuzzz49 ($1.26 in chips) 
+Seat 4: S1K1C1 ($4.11 in chips) 
+Seat 5: Lorpugo ($2.92 in chips) 
+Seat 6: Pokista1 ($2.65 in chips) 
+Je5u5fav: posts small blind $0.01
+Kuzzz49: posts big blind $0.02
+mYster1o: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Jc]
+S1K1C1: calls $0.02
+Lorpugo has timed out
+Lorpugo: folds 
+Pokista1: raises $0.02 to $0.04
+Je5u5fav: folds 
+Kuzzz49: raises $0.02 to $0.06
+S1K1C1: raises $0.17 to $0.23
+Pokista1: folds 
+Kuzzz49: calls $0.17
+*** FLOP *** [5s 8c 7h]
+Kuzzz49: checks 
+S1K1C1: bets $0.25
+Kuzzz49: raises $0.25 to $0.50
+S1K1C1: raises $1.49 to $1.99
+Kuzzz49: calls $0.53 and is all-in
+Uncalled bet ($0.96) returned to S1K1C1
+*** TURN *** [5s 8c 7h] [2h]
+*** RIVER *** [5s 8c 7h 2h] [8d]
+*** SHOW DOWN ***
+Kuzzz49: shows [2d 2s] (a full house, Deuces full of Eights)
+S1K1C1: shows [Ks 7s] (two pair, Eights and Sevens)
+Kuzzz49 collected $2.48 from pot
+*** SUMMARY ***
+Total pot $2.57 | Rake $0.09 
+Board [5s 8c 7h 2h 8d]
+Seat 1: Je5u5fav (small blind) folded before Flop
+Seat 2: Kuzzz49 (big blind) showed [2d 2s] and won ($2.48) with a full house, Deuces full of Eights
+Seat 4: S1K1C1 showed [Ks 7s] and lost with two pair, Eights and Sevens
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop
+
+
+
+PokerStars Hand #239403715137:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:14:27 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: Je5u5fav ($2.70 in chips) 
+Seat 2: Kuzzz49 ($2.48 in chips) 
+Seat 3: mYster1o ($2 in chips) 
+Seat 4: S1K1C1 ($2.85 in chips) 
+Seat 5: Lorpugo ($2.92 in chips) 
+Seat 6: Pokista1 ($2.61 in chips) 
+Kuzzz49: posts small blind $0.01
+mYster1o: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5h]
+S1K1C1: raises $0.05 to $0.07
+Lorpugo: folds 
+Pokista1: folds 
+Je5u5fav: folds 
+Kuzzz49: calls $0.06
+mYster1o: folds 
+*** FLOP *** [Td 3s Ah]
+Kuzzz49: checks 
+S1K1C1: checks 
+*** TURN *** [Td 3s Ah] [8c]
+Kuzzz49: checks 
+S1K1C1: checks 
+*** RIVER *** [Td 3s Ah 8c] [8d]
+Kuzzz49: checks 
+S1K1C1: checks 
+*** SHOW DOWN ***
+Kuzzz49: shows [4c Qh] (a pair of Eights)
+S1K1C1: shows [Kh 7d] (a pair of Eights - Ace+King kicker)
+S1K1C1 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Td 3s Ah 8c 8d]
+Seat 1: Je5u5fav (button) folded before Flop (didn't bet)
+Seat 2: Kuzzz49 (small blind) showed [4c Qh] and lost with a pair of Eights
+Seat 3: mYster1o (big blind) folded before Flop
+Seat 4: S1K1C1 showed [Kh 7d] and won ($0.15) with a pair of Eights
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403726997:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:15:02 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: Je5u5fav ($2.70 in chips) 
+Seat 2: Kuzzz49 ($2.41 in chips) 
+Seat 3: mYster1o ($1.98 in chips) 
+Seat 4: S1K1C1 ($2.93 in chips) 
+Seat 5: Lorpugo ($2.92 in chips) 
+Seat 6: Pokista1 ($2.61 in chips) 
+mYster1o: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ts]
+Lorpugo: folds 
+Pokista1: folds 
+Je5u5fav: folds 
+Kuzzz49: calls $0.02
+mYster1o: folds 
+S1K1C1: checks 
+*** FLOP *** [Qd 3c 4d]
+S1K1C1: checks 
+Kuzzz49: checks 
+*** TURN *** [Qd 3c 4d] [Ah]
+S1K1C1: checks 
+Kuzzz49: bets $0.04
+S1K1C1: calls $0.04
+*** RIVER *** [Qd 3c 4d Ah] [8s]
+S1K1C1: bets $0.13
+Kuzzz49: calls $0.13
+*** SHOW DOWN ***
+S1K1C1: shows [As 8c] (two pair, Aces and Eights)
+Kuzzz49: mucks hand 
+S1K1C1 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Qd 3c 4d Ah 8s]
+Seat 1: Je5u5fav folded before Flop (didn't bet)
+Seat 2: Kuzzz49 (button) mucked [9h Kd]
+Seat 3: mYster1o (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) showed [As 8c] and won ($0.38) with two pair, Aces and Eights
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403736598:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:15:32 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: Je5u5fav ($2.70 in chips) 
+Seat 2: Kuzzz49 ($2.22 in chips) 
+Seat 3: mYster1o ($1.97 in chips) 
+Seat 4: S1K1C1 ($3.12 in chips) 
+Seat 5: Lorpugo ($2.92 in chips) 
+Seat 6: Pokista1 ($2.61 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 4c]
+Pokista1 has timed out
+Pokista1: folds 
+Je5u5fav: folds 
+Kuzzz49: folds 
+Kuzzz49 leaves the table
+mYster1o: folds 
+S1K1C1: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [6s 2d Kh]
+S1K1C1: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [6s 2d Kh] [6c]
+S1K1C1: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [6s 2d Kh 6c] [Td]
+S1K1C1: bets $0.06
+Lorpugo: calls $0.06
+*** SHOW DOWN ***
+S1K1C1: shows [3d Qs] (a pair of Sixes)
+Lorpugo: shows [2s 4c] (two pair, Sixes and Deuces)
+Lorpugo collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [6s 2d Kh 6c Td]
+Seat 1: Je5u5fav folded before Flop (didn't bet)
+Seat 2: Kuzzz49 folded before Flop (didn't bet)
+Seat 3: mYster1o (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) showed [3d Qs] and lost with a pair of Sixes
+Seat 5: Lorpugo (big blind) showed [2s 4c] and won ($0.23) with two pair, Sixes and Deuces
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403749786:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:16:11 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: Je5u5fav ($2.70 in chips) 
+Seat 3: mYster1o ($1.97 in chips) 
+Seat 4: S1K1C1 ($3 in chips) 
+Seat 5: Lorpugo ($3.03 in chips) 
+Seat 6: Pokista1 ($2.61 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 4c]
+Je5u5fav: raises $0.04 to $0.06
+mYster1o: folds 
+kkpote joins the table at seat #2 
+S1K1C1: raises $0.15 to $0.21
+Lorpugo: folds 
+Pokista1: folds 
+Je5u5fav: folds 
+Uncalled bet ($0.15) returned to S1K1C1
+Je5u5fav leaves the table
+S1K1C1 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Je5u5fav folded before Flop
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) collected ($0.15)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403758842:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:16:38 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 2: kkpote ($1.60 in chips) 
+Seat 3: mYster1o ($1.97 in chips) 
+Seat 4: S1K1C1 ($3.09 in chips) 
+Seat 5: Lorpugo ($3.02 in chips) 
+Seat 6: Pokista1 ($2.59 in chips) 
+Pokista1: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 7s]
+mYster1o: folds 
+S1K1C1: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+Pokista1: folds 
+kkpote: folds 
+S1K1C1: raises $0.21 to $0.30
+Lorpugo: calls $0.21
+*** FLOP *** [Ts 8h 4c]
+S1K1C1: bets $0.61
+Lorpugo: folds 
+Uncalled bet ($0.61) returned to S1K1C1
+S1K1C1 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [Ts 8h 4c]
+Seat 2: kkpote (big blind) folded before Flop
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 collected ($0.61)
+Seat 5: Lorpugo (button) folded on the Flop
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403767784:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:17:04 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 2: kkpote ($1.58 in chips) 
+Seat 3: mYster1o ($1.97 in chips) 
+Seat 4: S1K1C1 ($3.40 in chips) 
+Seat 5: Lorpugo ($2.72 in chips) 
+Seat 6: Pokista1 ($2.58 in chips) 
+kkpote: posts small blind $0.01
+mYster1o: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Ks]
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: folds 
+kkpote: raises $0.06 to $0.08
+mYster1o: folds 
+S1K1C1: calls $0.06
+*** FLOP *** [3c Qc Td]
+kkpote: checks 
+S1K1C1: checks 
+*** TURN *** [3c Qc Td] [Kc]
+yonaikeralf joins the table at seat #1 
+kkpote: checks 
+S1K1C1: checks 
+*** RIVER *** [3c Qc Td Kc] [Tc]
+kkpote: checks 
+S1K1C1: checks 
+*** SHOW DOWN ***
+kkpote: shows [Js 4s] (a pair of Tens)
+S1K1C1: mucks hand 
+kkpote collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3c Qc Td Kc Tc]
+Seat 2: kkpote (small blind) showed [Js 4s] and won ($0.17) with a pair of Tens
+Seat 3: mYster1o (big blind) folded before Flop
+Seat 4: S1K1C1 mucked [4d 2h]
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403778168:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:17:35 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 2: kkpote ($1.67 in chips) 
+Seat 3: mYster1o ($1.95 in chips) 
+Seat 4: S1K1C1 ($3.32 in chips) 
+Seat 5: Lorpugo ($2.72 in chips) 
+Seat 6: Pokista1 ($2.58 in chips) 
+mYster1o: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+yonaikeralf: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Kd]
+Lorpugo: raises $0.04 to $0.06
+Pokista1: calls $0.06
+kkpote: folds 
+mYster1o: folds 
+S1K1C1: folds 
+*** FLOP *** [Ts 6c Tc]
+Lorpugo: bets $0.07
+Pokista1: calls $0.07
+*** TURN *** [Ts 6c Tc] [Jc]
+Lorpugo: bets $0.14
+Pokista1: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.28 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ts 6c Tc Jc]
+Seat 2: kkpote (button) folded before Flop (didn't bet)
+Seat 3: mYster1o (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) folded before Flop
+Seat 5: Lorpugo collected ($0.28)
+Seat 6: Pokista1 folded on the Turn
+
+
+
+PokerStars Hand #239403793578:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:18:21 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 2: kkpote ($1.67 in chips) 
+Seat 3: mYster1o ($1.94 in chips) 
+Seat 4: S1K1C1 ($3.30 in chips) 
+Seat 5: Lorpugo ($2.87 in chips) 
+Seat 6: Pokista1 ($2.45 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+yonaikeralf: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9c]
+Pokista1 has timed out
+Pokista1: folds 
+kkpote: folds 
+mYster1o: raises $0.03 to $0.05
+S1K1C1: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [Td Qc Ah]
+S1K1C1: checks 
+Lorpugo: checks 
+mYster1o: bets $0.05
+S1K1C1: calls $0.05
+Lorpugo: folds 
+*** TURN *** [Td Qc Ah] [7c]
+S1K1C1: checks 
+mYster1o: bets $0.08
+S1K1C1: calls $0.08
+*** RIVER *** [Td Qc Ah 7c] [9h]
+S1K1C1: checks 
+mYster1o: checks 
+*** SHOW DOWN ***
+S1K1C1: shows [Jc 5c] (high card Ace)
+mYster1o: shows [4d Ad] (a pair of Aces)
+mYster1o collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Td Qc Ah 7c 9h]
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: mYster1o (button) showed [4d Ad] and won ($0.40) with a pair of Aces
+Seat 4: S1K1C1 (small blind) showed [Jc 5c] and lost with high card Ace
+Seat 5: Lorpugo (big blind) folded on the Flop
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403808293:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:19:06 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 2: kkpote ($1.67 in chips) 
+Seat 3: mYster1o ($2.16 in chips) 
+Seat 4: S1K1C1 ($3.12 in chips) 
+Seat 5: Lorpugo ($2.82 in chips) 
+Seat 6: Pokista1 ($2.45 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+yonaikeralf: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h As]
+kkpote: raises $0.04 to $0.06
+mYster1o: folds 
+S1K1C1: calls $0.06
+Lorpugo: folds 
+Pokista1: folds 
+*** FLOP *** [7c 4h Ks]
+kkpote: checks 
+S1K1C1: checks 
+*** TURN *** [7c 4h Ks] [2c]
+kkpote: checks 
+S1K1C1: checks 
+*** RIVER *** [7c 4h Ks 2c] [8s]
+kkpote: checks 
+S1K1C1: bets $0.07
+kkpote: folds 
+Uncalled bet ($0.07) returned to S1K1C1
+S1K1C1 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7c 4h Ks 2c 8s]
+Seat 2: kkpote folded on the River
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) collected ($0.14)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403818180:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:19:35 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.61 in chips) 
+Seat 3: mYster1o ($2.16 in chips) 
+Seat 4: S1K1C1 ($3.20 in chips) 
+Seat 5: Lorpugo ($2.81 in chips) 
+Seat 6: Pokista1 ($2.43 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2h]
+kkpote: raises $0.04 to $0.06
+mYster1o: folds 
+S1K1C1: raises $0.15 to $0.21
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: folds 
+Uncalled bet ($0.15) returned to S1K1C1
+S1K1C1 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: yonaikeralf (big blind) folded before Flop
+Seat 2: kkpote folded before Flop
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 collected ($0.15)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403822829:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:19:49 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.55 in chips) 
+Seat 3: mYster1o ($2.16 in chips) 
+Seat 4: S1K1C1 ($3.29 in chips) 
+Seat 5: Lorpugo ($2.81 in chips) 
+Seat 6: Pokista1 ($2.42 in chips) 
+yonaikeralf: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Tc]
+mYster1o: folds 
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: raises $0.07 to $0.09
+yonaikeralf: folds 
+kkpote: calls $0.07
+S1K1C1: calls $0.07
+*** FLOP *** [8s 7h 7c]
+kkpote: checks 
+S1K1C1: checks 
+Pokista1: checks 
+*** TURN *** [8s 7h 7c] [Ts]
+kkpote: bets $0.18
+S1K1C1: folds 
+Pokista1: folds 
+Uncalled bet ($0.18) returned to kkpote
+kkpote collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [8s 7h 7c Ts]
+Seat 1: yonaikeralf (small blind) folded before Flop
+Seat 2: kkpote (big blind) collected ($0.27)
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded on the Turn
+
+
+
+PokerStars Hand #239403835369:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:20:28 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($2 in chips) 
+Seat 3: mYster1o ($2.16 in chips) 
+Seat 4: S1K1C1 ($3.20 in chips) 
+Seat 5: Lorpugo ($2.81 in chips) 
+Seat 6: Pokista1 ($2.33 in chips) 
+kkpote: posts small blind $0.01
+mYster1o: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 8c]
+S1K1C1: raises $0.04 to $0.06
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: folds 
+mYster1o: folds 
+Uncalled bet ($0.04) returned to S1K1C1
+S1K1C1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: mYster1o (big blind) folded before Flop
+Seat 4: S1K1C1 collected ($0.05)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403839969:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:20:42 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.99 in chips) 
+Seat 3: mYster1o ($2.14 in chips) 
+Seat 4: S1K1C1 ($3.23 in chips) 
+Seat 5: Lorpugo ($2.81 in chips) 
+Seat 6: Pokista1 ($2.33 in chips) 
+mYster1o: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jc]
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: folds 
+mYster1o: folds 
+Uncalled bet ($0.01) returned to S1K1C1
+S1K1C1 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: kkpote (button) folded before Flop (didn't bet)
+Seat 3: mYster1o (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403845929:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:21:00 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.99 in chips) 
+Seat 3: mYster1o ($2.13 in chips) 
+Seat 4: S1K1C1 ($3.24 in chips) 
+Seat 5: Lorpugo ($2.81 in chips) 
+Seat 6: Pokista1 ($2.33 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4s]
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: folds 
+mYster1o: folds 
+S1K1C1: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ah Jc Jd]
+S1K1C1: checks 
+Lorpugo: bets $0.02
+S1K1C1: calls $0.02
+*** TURN *** [Ah Jc Jd] [5s]
+S1K1C1: checks 
+Lorpugo: checks 
+*** RIVER *** [Ah Jc Jd 5s] [3h]
+S1K1C1: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+S1K1C1: shows [Tc 9s] (a pair of Jacks)
+Lorpugo: shows [Qs 4s] (a pair of Jacks - Ace+Queen kicker)
+Lorpugo collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ah Jc Jd 5s 3h]
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: mYster1o (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) showed [Tc 9s] and lost with a pair of Jacks
+Seat 5: Lorpugo (big blind) showed [Qs 4s] and won ($0.08) with a pair of Jacks
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403857047:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:21:34 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.99 in chips) 
+Seat 3: mYster1o ($2.13 in chips) 
+Seat 4: S1K1C1 ($3.20 in chips) 
+Seat 5: Lorpugo ($2.85 in chips) 
+Seat 6: Pokista1 ($2.33 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Tc]
+yonaikeralf: folds 
+kkpote: folds 
+mYster1o: folds 
+S1K1C1: calls $0.02
+Lorpugo: calls $0.01
+Pokista1: checks 
+*** FLOP *** [9d 6d Jd]
+Lorpugo: checks 
+Pokista1: checks 
+S1K1C1: checks 
+*** TURN *** [9d 6d Jd] [9h]
+Lorpugo: bets $0.06
+Pokista1: folds 
+S1K1C1: calls $0.06
+*** RIVER *** [9d 6d Jd 9h] [6c]
+Lorpugo: bets $0.17
+S1K1C1: calls $0.17
+*** SHOW DOWN ***
+Lorpugo: shows [6s Tc] (a full house, Sixes full of Nines)
+S1K1C1: mucks hand 
+Lorpugo collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [9d 6d Jd 9h 6c]
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) mucked [Qs Qh]
+Seat 5: Lorpugo (small blind) showed [6s Tc] and won ($0.50) with a full house, Sixes full of Nines
+Seat 6: Pokista1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239403880074:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:22:43 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.99 in chips) 
+Seat 3: mYster1o ($2.13 in chips) 
+Seat 4: S1K1C1 ($2.95 in chips) 
+Seat 5: Lorpugo ($3.10 in chips) 
+Seat 6: Pokista1 ($2.31 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Td]
+kkpote: raises $0.04 to $0.06
+mYster1o: folds 
+S1K1C1: raises $0.15 to $0.21
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: calls $0.15
+*** FLOP *** [9c 7c Ks]
+kkpote: checks 
+S1K1C1: bets $0.43
+kkpote: folds 
+Uncalled bet ($0.43) returned to S1K1C1
+S1K1C1 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9c 7c Ks]
+Seat 1: yonaikeralf (big blind) folded before Flop
+Seat 2: kkpote folded on the Flop
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 collected ($0.43)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403888279:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:23:08 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.78 in chips) 
+Seat 3: mYster1o ($2.13 in chips) 
+Seat 4: S1K1C1 ($3.17 in chips) 
+Seat 5: Lorpugo ($3.10 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+yonaikeralf: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Kd]
+mYster1o: folds 
+S1K1C1: calls $0.02
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: raises $0.04 to $0.06
+S1K1C1: raises $0.13 to $0.19
+kkpote: folds 
+Uncalled bet ($0.13) returned to S1K1C1
+S1K1C1 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: yonaikeralf (small blind) folded before Flop
+Seat 2: kkpote (big blind) folded before Flop
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 collected ($0.13)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403896900:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:23:34 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.94 in chips) 
+Seat 3: mYster1o ($2.13 in chips) 
+Seat 4: S1K1C1 ($3.24 in chips) 
+Seat 5: Lorpugo ($3.10 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+kkpote: posts small blind $0.01
+mYster1o: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jh]
+S1K1C1: raises $0.05 to $0.07
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: folds 
+mYster1o: calls $0.05
+*** FLOP *** [6c Ts Qd]
+mYster1o: checks 
+S1K1C1: checks 
+*** TURN *** [6c Ts Qd] [Kh]
+mYster1o: checks 
+S1K1C1: checks 
+*** RIVER *** [6c Ts Qd Kh] [5c]
+mYster1o: bets $0.06
+S1K1C1: calls $0.06
+*** SHOW DOWN ***
+mYster1o: shows [Qs As] (a pair of Queens)
+S1K1C1: mucks hand 
+mYster1o collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6c Ts Qd Kh 5c]
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: mYster1o (big blind) showed [Qs As] and won ($0.26) with a pair of Queens
+Seat 4: S1K1C1 mucked [9d 9s]
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403908793:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:24:10 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($1.93 in chips) 
+Seat 3: mYster1o ($2.26 in chips) 
+Seat 4: S1K1C1 ($3.11 in chips) 
+Seat 5: Lorpugo ($3.10 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+mYster1o: posts small blind $0.01
+S1K1C1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ks]
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: raises $0.04 to $0.06
+mYster1o: folds 
+S1K1C1: calls $0.04
+*** FLOP *** [Qs 2h 7d]
+S1K1C1: checks 
+kkpote: bets $0.06
+S1K1C1: calls $0.06
+*** TURN *** [Qs 2h 7d] [5c]
+S1K1C1: checks 
+kkpote: bets $0.18
+S1K1C1: folds 
+Uncalled bet ($0.18) returned to kkpote
+kkpote collected $0.24 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qs 2h 7d 5c]
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: kkpote (button) collected ($0.24)
+Seat 3: mYster1o (small blind) folded before Flop
+Seat 4: S1K1C1 (big blind) folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403918797:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:24:40 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($2.05 in chips) 
+Seat 3: mYster1o ($2.25 in chips) 
+Seat 4: S1K1C1 ($2.99 in chips) 
+Seat 5: Lorpugo ($3.10 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+S1K1C1: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 9c]
+Pokista1: folds 
+yonaikeralf: raises $0.04 to $0.06
+kkpote: folds 
+mYster1o: folds 
+S1K1C1: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [3d 3c 7s]
+S1K1C1: checks 
+Lorpugo: bets $0.11
+yonaikeralf: folds 
+S1K1C1: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3d 3c 7s]
+Seat 1: yonaikeralf folded on the Flop
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: mYster1o (button) folded before Flop (didn't bet)
+Seat 4: S1K1C1 (small blind) folded on the Flop
+Seat 5: Lorpugo (big blind) collected ($0.17)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403930574:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:25:16 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($2.05 in chips) 
+Seat 3: mYster1o ($2.25 in chips) 
+Seat 4: S1K1C1 ($2.93 in chips) 
+Seat 5: Lorpugo ($3.21 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ac]
+yonaikeralf: folds 
+kkpote: raises $0.04 to $0.06
+mYster1o: folds 
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: folds 
+Uncalled bet ($0.04) returned to kkpote
+kkpote collected $0.05 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: kkpote collected ($0.05)
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403939271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:25:42 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($2.08 in chips) 
+Seat 3: mYster1o ($2.25 in chips) 
+Seat 4: S1K1C1 ($2.93 in chips) 
+Seat 5: Lorpugo ($3.20 in chips) 
+Seat 6: Pokista1 ($2.28 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 4s]
+kkpote: folds 
+mYster1o: folds 
+S1K1C1: folds 
+S1K1C1 is disconnected 
+Lorpugo: raises $0.04 to $0.06
+Pokista1: calls $0.05
+yonaikeralf: calls $0.04
+*** FLOP *** [Qd 2s 9h]
+Pokista1: checks 
+yonaikeralf: checks 
+Lorpugo: checks 
+*** TURN *** [Qd 2s 9h] [9s]
+Pokista1: bets $0.08
+yonaikeralf: folds 
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to Pokista1
+Pokista1 collected $0.17 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qd 2s 9h 9s]
+Seat 1: yonaikeralf (big blind) folded on the Turn
+Seat 2: kkpote folded before Flop (didn't bet)
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded on the Turn
+Seat 6: Pokista1 (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #239403950940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:26:17 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($2.08 in chips) 
+Seat 3: mYster1o ($2.25 in chips) 
+Seat 4: S1K1C1 ($2.93 in chips) 
+Seat 5: Lorpugo ($3.14 in chips) 
+Seat 6: Pokista1 ($2.39 in chips) 
+yonaikeralf: posts small blind $0.01
+kkpote: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7s]
+mYster1o: folds 
+S1K1C1 has timed out while disconnected
+S1K1C1: folds 
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+Uncalled bet ($0.01) returned to kkpote
+kkpote collected $0.02 from pot
+kkpote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yonaikeralf (small blind) folded before Flop
+Seat 2: kkpote (big blind) collected ($0.02)
+Seat 3: mYster1o folded before Flop (didn't bet)
+Seat 4: S1K1C1 folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403958477:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:26:40 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($2.09 in chips) 
+Seat 3: mYster1o ($2.25 in chips) 
+Seat 5: Lorpugo ($3.14 in chips) 
+Seat 6: Pokista1 ($2.39 in chips) 
+kkpote: posts small blind $0.01
+mYster1o: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qc]
+Lorpugo: raises $0.04 to $0.06
+Pokista1: calls $0.06
+yonaikeralf: folds 
+kkpote: folds 
+mYster1o: folds 
+*** FLOP *** [Kh 5d 5c]
+Lorpugo: bets $0.05
+Pokista1: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kh 5d 5c]
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: kkpote (small blind) folded before Flop
+Seat 3: mYster1o (big blind) folded before Flop
+Seat 5: Lorpugo collected ($0.14)
+Seat 6: Pokista1 folded on the Flop
+
+
+
+PokerStars Hand #239403969866:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:27:15 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: kkpote ($2.08 in chips) 
+Seat 3: mYster1o ($2.23 in chips) 
+Seat 5: Lorpugo ($3.22 in chips) 
+Seat 6: Pokista1 ($2.33 in chips) 
+mYster1o: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Tc]
+Pokista1: folds 
+yonaikeralf: folds 
+kkpote: folds 
+kkpote leaves the table
+mYster1o: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: kkpote (button) folded before Flop (didn't bet)
+Seat 3: mYster1o (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.02)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403974438:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:27:28 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 3: mYster1o ($2.22 in chips) 
+Seat 5: Lorpugo ($3.23 in chips) 
+Seat 6: Pokista1 ($2.33 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 2s]
+yonaikeralf: folds 
+Vandalar joins the table at seat #2 
+mYster1o: folds 
+Lorpugo: raises $0.04 to $0.06
+Pokista1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 3: mYster1o (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($0.04)
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239403981308:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:27:49 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 3: mYster1o ($2.22 in chips) 
+Seat 5: Lorpugo ($3.25 in chips) 
+Seat 6: Pokista1 ($2.31 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+Vandalar: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 7c]
+mYster1o: raises $0.03 to $0.05
+Lorpugo: calls $0.05
+Pokista1: folds 
+yonaikeralf: folds 
+*** FLOP *** [Ad 4c Qs]
+mYster1o: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to mYster1o
+mYster1o collected $0.13 from pot
+mYster1o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ad 4c Qs]
+Seat 1: yonaikeralf (big blind) folded before Flop
+Seat 3: mYster1o collected ($0.13)
+Seat 5: Lorpugo (button) folded on the Flop
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239403989861:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:28:15 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: Vandalar ($2 in chips) 
+Seat 3: mYster1o ($2.30 in chips) 
+Seat 5: Lorpugo ($3.20 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+yonaikeralf: posts small blind $0.01
+Vandalar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9c]
+mYster1o: raises $0.04 to $0.06
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+Vandalar: raises $0.19 to $0.25
+mYster1o: folds 
+Uncalled bet ($0.19) returned to Vandalar
+Vandalar collected $0.13 from pot
+Vandalar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: yonaikeralf (small blind) folded before Flop
+Seat 2: Vandalar (big blind) collected ($0.13)
+Seat 3: mYster1o folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239403997625:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:28:38 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: Vandalar ($2.07 in chips) 
+Seat 5: Lorpugo ($3.20 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+Vandalar: posts small blind $0.01
+mYster1o: is sitting out 
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 4c]
+Pokista1: folds 
+mYster1o leaves the table
+yonaikeralf: folds 
+Vandalar: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Vandalar
+Vandalar collected $0.04 from pot
+Vandalar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: Vandalar (small blind) collected ($0.04)
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404001345:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:28:49 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: Vandalar ($2.09 in chips) 
+Seat 5: Lorpugo ($3.18 in chips) 
+Seat 6: Pokista1 ($2.30 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 7d]
+yonaikeralf: raises $0.04 to $0.06
+Dragon1248 joins the table at seat #3 
+Vandalar: calls $0.06
+Lorpugo: folds 
+Pokista1: raises $0.20 to $0.26
+yonaikeralf: folds 
+Vandalar: folds 
+Uncalled bet ($0.20) returned to Pokista1
+Pokista1 collected $0.19 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: yonaikeralf folded before Flop
+Seat 2: Vandalar (button) folded before Flop
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #239404010333:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:29:16 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: Vandalar ($2.03 in chips) 
+Seat 5: Lorpugo ($3.17 in chips) 
+Seat 6: Pokista1 ($2.43 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 2d]
+Vandalar: folds 
+Lorpugo: folds 
+Pokista1: folds 
+Uncalled bet ($0.01) returned to yonaikeralf
+yonaikeralf collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yonaikeralf (big blind) collected ($0.02)
+Seat 2: Vandalar folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239404015385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:29:31 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2.01 in chips) 
+Seat 2: Vandalar ($2.03 in chips) 
+Seat 5: Lorpugo ($3.17 in chips) 
+Seat 6: Pokista1 ($2.42 in chips) 
+yonaikeralf: posts small blind $0.01
+Vandalar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3h]
+Dragon1248 leaves the table
+trikyman joins the table at seat #3 
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: raises $0.04 to $0.06
+Vandalar: folds 
+Uncalled bet ($0.04) returned to yonaikeralf
+yonaikeralf collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: yonaikeralf (small blind) collected ($0.04)
+Seat 2: Vandalar (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404019907:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:29:45 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2.03 in chips) 
+Seat 2: Vandalar ($2.01 in chips) 
+Seat 3: trikyman ($2 in chips) 
+Seat 5: Lorpugo ($3.17 in chips) 
+Seat 6: Pokista1 ($2.42 in chips) 
+Vandalar: posts small blind $0.01
+trikyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 5c]
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+Vandalar: folds 
+Uncalled bet ($0.01) returned to trikyman
+trikyman collected $0.02 from pot
+trikyman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: Vandalar (small blind) folded before Flop
+Seat 3: trikyman (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404024010:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:29:57 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: yonaikeralf ($2.03 in chips) 
+Seat 2: Vandalar ($2 in chips) 
+Seat 3: trikyman ($2.01 in chips) 
+Seat 5: Lorpugo ($3.17 in chips) 
+Seat 6: Pokista1 ($2.42 in chips) 
+trikyman: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Kh]
+Pokista1: raises $0.02 to $0.04
+yonaikeralf: folds 
+Vandalar: calls $0.04
+trikyman: folds 
+Lorpugo: folds 
+*** FLOP *** [5h 9c Th]
+Pokista1: bets $0.05
+Vandalar: calls $0.05
+*** TURN *** [5h 9c Th] [4h]
+Pokista1: checks 
+Vandalar has timed out
+Vandalar: checks 
+*** RIVER *** [5h 9c Th 4h] [3c]
+Pokista1: checks 
+Vandalar: checks 
+*** SHOW DOWN ***
+Pokista1: shows [As Kc] (high card Ace)
+Vandalar: mucks hand 
+Pokista1 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5h 9c Th 4h 3c]
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: Vandalar (button) mucked [Ac 7c]
+Seat 3: trikyman (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Pokista1 showed [As Kc] and won ($0.20) with high card Ace
+
+
+
+PokerStars Hand #239404052250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:31:21 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: yonaikeralf ($2.03 in chips) 
+Seat 2: Vandalar ($2 in chips) 
+Seat 3: trikyman ($2 in chips) 
+Seat 5: Lorpugo ($3.15 in chips) 
+Seat 6: Pokista1 ($2.53 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jd]
+yonaikeralf: folds 
+Vandalar: folds 
+trikyman: folds 
+Lorpugo: raises $0.04 to $0.06
+Pokista1: raises $0.12 to $0.18
+Lorpugo: calls $0.12
+*** FLOP *** [2s 7s 9s]
+Lorpugo: checks 
+Pokista1: bets $0.17
+Vandalar leaves the table
+NORD-DE joins the table at seat #2 
+Lorpugo: folds 
+Uncalled bet ($0.17) returned to Pokista1
+Pokista1 collected $0.35 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [2s 7s 9s]
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: Vandalar folded before Flop (didn't bet)
+Seat 3: trikyman (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the Flop
+Seat 6: Pokista1 (big blind) collected ($0.35)
+
+
+
+PokerStars Hand #239404069989:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:32:14 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2.03 in chips) 
+Seat 3: trikyman ($2 in chips) 
+Seat 5: Lorpugo ($2.97 in chips) 
+Seat 6: Pokista1 ($2.70 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+NORD-DE: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 6h]
+trikyman: folds 
+Lorpugo: raises $0.04 to $0.06
+Pokista1: folds 
+yonaikeralf: calls $0.04
+*** FLOP *** [Qc 3c 2s]
+yonaikeralf: checks 
+Lorpugo: bets $0.09
+yonaikeralf: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qc 3c 2s]
+Seat 1: yonaikeralf (big blind) folded on the Flop
+Seat 3: trikyman folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.13)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239404081944:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:32:50 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: NORD-DE ($1.60 in chips) 
+Seat 3: trikyman ($2 in chips) 
+Seat 5: Lorpugo ($3.04 in chips) 
+Seat 6: Pokista1 ($2.69 in chips) 
+yonaikeralf: posts small blind $0.01
+NORD-DE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7s]
+trikyman: folds 
+Lorpugo: folds 
+Pokista1: raises $0.02 to $0.04
+yonaikeralf: folds 
+NORD-DE: folds 
+Uncalled bet ($0.02) returned to Pokista1
+Pokista1 collected $0.05 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yonaikeralf (small blind) folded before Flop
+Seat 2: NORD-DE (big blind) folded before Flop
+Seat 3: trikyman folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239404086874:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:33:05 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: NORD-DE ($1.58 in chips) 
+Seat 3: trikyman ($2 in chips) 
+Seat 5: Lorpugo ($3.04 in chips) 
+Seat 6: Pokista1 ($2.72 in chips) 
+NORD-DE: posts small blind $0.01
+trikyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7h]
+Lorpugo: raises $0.04 to $0.06
+Pokista1: folds 
+yonaikeralf: folds 
+NORD-DE: folds 
+trikyman: raises $0.06 to $0.12
+Lorpugo: calls $0.06
+*** FLOP *** [Ad Jc 4c]
+trikyman: checks 
+Lorpugo: checks 
+*** TURN *** [Ad Jc 4c] [7d]
+trikyman: checks 
+Lorpugo: bets $0.16
+trikyman: raises $0.16 to $0.32
+Lorpugo: calls $0.16
+*** RIVER *** [Ad Jc 4c 7d] [Ac]
+trikyman: bets $0.86
+Lorpugo: folds 
+Uncalled bet ($0.86) returned to trikyman
+trikyman collected $0.86 from pot
+trikyman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [Ad Jc 4c 7d Ac]
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: NORD-DE (small blind) folded before Flop
+Seat 3: trikyman (big blind) collected ($0.86)
+Seat 5: Lorpugo folded on the River
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404103507:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:33:54 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: NORD-DE ($1.57 in chips) 
+Seat 3: trikyman ($2.42 in chips) 
+Seat 5: Lorpugo ($2.60 in chips) 
+Seat 6: Pokista1 ($2.72 in chips) 
+trikyman: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6c]
+Pokista1: folds 
+yonaikeralf: raises $0.04 to $0.06
+NORD-DE: folds 
+trikyman: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to yonaikeralf
+yonaikeralf collected $0.05 from pot
+S1K1C1 leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yonaikeralf collected ($0.05)
+Seat 2: NORD-DE (button) folded before Flop (didn't bet)
+Seat 3: trikyman (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404110701:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:34:16 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: yonaikeralf ($2.03 in chips) 
+Seat 2: NORD-DE ($1.57 in chips) 
+Seat 3: trikyman ($2.41 in chips) 
+Seat 5: Lorpugo ($2.58 in chips) 
+Seat 6: Pokista1 ($2.72 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 4d]
+yonaikeralf: folds 
+NORD-DE: folds 
+trikyman: raises $0.04 to $0.06
+Lorpugo: folds 
+Pokista1: calls $0.04
+*** FLOP *** [6h Qd 4c]
+fishersk joins the table at seat #4 
+Pokista1: checks 
+trikyman: checks 
+*** TURN *** [6h Qd 4c] [Td]
+Pokista1: checks 
+trikyman: bets $0.10
+Pokista1: folds 
+Uncalled bet ($0.10) returned to trikyman
+trikyman collected $0.13 from pot
+trikyman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6h Qd 4c Td]
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: NORD-DE folded before Flop (didn't bet)
+Seat 3: trikyman (button) collected ($0.13)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239404121018:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:34:46 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2.03 in chips) 
+Seat 2: NORD-DE ($1.57 in chips) 
+Seat 3: trikyman ($2.48 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.57 in chips) 
+Seat 6: Pokista1 ($2.66 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+fishersk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 8s]
+NORD-DE: folds 
+trikyman: folds 
+fishersk: checks 
+Lorpugo: folds 
+Pokista1: calls $0.01
+yonaikeralf: checks 
+*** FLOP *** [4d Ah 2h]
+Pokista1: bets $0.06
+yonaikeralf: folds 
+fishersk: folds 
+Uncalled bet ($0.06) returned to Pokista1
+Pokista1 collected $0.06 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4d Ah 2h]
+Seat 1: yonaikeralf (big blind) folded on the Flop
+Seat 2: NORD-DE folded before Flop (didn't bet)
+Seat 3: trikyman folded before Flop (didn't bet)
+Seat 4: fishersk folded on the Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #239404133762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:35:24 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2.01 in chips) 
+Seat 2: NORD-DE ($1.57 in chips) 
+Seat 3: trikyman ($2.48 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.57 in chips) 
+Seat 6: Pokista1 ($2.70 in chips) 
+yonaikeralf: posts small blind $0.01
+NORD-DE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 9h]
+trikyman: folds 
+fishersk: folds 
+Lorpugo: folds 
+Pokista1: raises $0.02 to $0.04
+yonaikeralf: folds 
+NORD-DE: raises $0.02 to $0.06
+Pokista1: calls $0.02
+*** FLOP *** [Qd 2h Jd]
+NORD-DE: checks 
+Pokista1: checks 
+*** TURN *** [Qd 2h Jd] [9d]
+NORD-DE: checks 
+Pokista1: bets $0.06
+NORD-DE: folds 
+Uncalled bet ($0.06) returned to Pokista1
+Pokista1 collected $0.13 from pot
+Pokista1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qd 2h Jd 9d]
+Seat 1: yonaikeralf (small blind) folded before Flop
+Seat 2: NORD-DE (big blind) folded on the Turn
+Seat 3: trikyman folded before Flop (didn't bet)
+Seat 4: fishersk folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) collected ($0.13)
+
+
+
+PokerStars Hand #239404152250:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:36:19 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: NORD-DE ($1.51 in chips) 
+Seat 3: trikyman ($2.48 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.57 in chips) 
+Seat 6: Pokista1 ($2.77 in chips) 
+NORD-DE: posts small blind $0.01
+trikyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8d]
+fishersk: raises $0.04 to $0.06
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+NORD-DE: calls $0.05
+trikyman: folds 
+*** FLOP *** [8h Ad 8s]
+NORD-DE: checks 
+fishersk: bets $0.10
+NORD-DE: calls $0.10
+*** TURN *** [8h Ad 8s] [Ks]
+NORD-DE: checks 
+fishersk: checks 
+*** RIVER *** [8h Ad 8s Ks] [7s]
+NORD-DE: bets $0.22
+fishersk: calls $0.22
+*** SHOW DOWN ***
+NORD-DE: shows [Ac 8c] (a full house, Eights full of Aces)
+fishersk: mucks hand 
+NORD-DE collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04 
+Board [8h Ad 8s Ks 7s]
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: NORD-DE (small blind) showed [Ac 8c] and won ($0.74) with a full house, Eights full of Aces
+Seat 3: trikyman (big blind) folded before Flop
+Seat 4: fishersk mucked [7h 7c]
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404168653:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:37:08 ET
+Table 'Parvulesco' 6-max Seat #2 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: NORD-DE ($1.87 in chips) 
+Seat 3: trikyman ($2.46 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.57 in chips) 
+Seat 6: Pokista1 ($2.77 in chips) 
+trikyman: posts small blind $0.01
+fishersk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Ad]
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+NORD-DE: folds 
+trikyman: folds 
+Uncalled bet ($0.01) returned to fishersk
+fishersk collected $0.02 from pot
+fishersk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: NORD-DE (button) folded before Flop (didn't bet)
+Seat 3: trikyman (small blind) folded before Flop
+Seat 4: fishersk (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404175726:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:37:29 ET
+Table 'Parvulesco' 6-max Seat #3 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: NORD-DE ($1.87 in chips) 
+Seat 3: trikyman ($2.45 in chips) 
+Seat 4: fishersk ($2.01 in chips) 
+Seat 5: Lorpugo ($2.57 in chips) 
+Seat 6: Pokista1 ($2.77 in chips) 
+fishersk: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jc]
+Pokista1: folds 
+yonaikeralf: folds 
+NORD-DE: folds 
+trikyman: raises $0.04 to $0.06
+fishersk: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [8h 3d 8s]
+fishersk: checks 
+trikyman: bets $0.05
+fishersk: calls $0.05
+*** TURN *** [8h 3d 8s] [6s]
+fishersk: checks 
+trikyman: bets $0.10
+fishersk: calls $0.10
+*** RIVER *** [8h 3d 8s 6s] [As]
+fishersk: checks 
+trikyman: checks 
+*** SHOW DOWN ***
+fishersk: shows [2c 2s] (two pair, Eights and Deuces)
+trikyman: shows [Qc Qs] (two pair, Queens and Eights)
+trikyman collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [8h 3d 8s 6s As]
+Seat 1: yonaikeralf folded before Flop (didn't bet)
+Seat 2: NORD-DE folded before Flop (didn't bet)
+Seat 3: trikyman (button) showed [Qc Qs] and won ($0.42) with two pair, Queens and Eights
+Seat 4: fishersk (small blind) showed [2c 2s] and lost with two pair, Eights and Deuces
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404190551:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:38:13 ET
+Table 'Parvulesco' 6-max Seat #4 is the button
+Seat 1: yonaikeralf ($2 in chips) 
+Seat 2: NORD-DE ($1.87 in chips) 
+Seat 3: trikyman ($2.66 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.55 in chips) 
+Seat 6: Pokista1 ($2.77 in chips) 
+Lorpugo: posts small blind $0.01
+Pokista1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ts]
+yonaikeralf: raises $0.04 to $0.06
+NORD-DE: calls $0.06
+trikyman: folds 
+fishersk: folds 
+Lorpugo: folds 
+Pokista1: folds 
+*** FLOP *** [Qh 6d Jh]
+yonaikeralf: bets $0.07
+NORD-DE: folds 
+Uncalled bet ($0.07) returned to yonaikeralf
+yonaikeralf collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh 6d Jh]
+Seat 1: yonaikeralf collected ($0.14)
+Seat 2: NORD-DE folded on the Flop
+Seat 3: trikyman folded before Flop (didn't bet)
+Seat 4: fishersk (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pokista1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239404203281:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:38:51 ET
+Table 'Parvulesco' 6-max Seat #5 is the button
+Seat 1: yonaikeralf ($2.08 in chips) 
+Seat 2: NORD-DE ($1.81 in chips) 
+Seat 3: trikyman ($2.66 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.54 in chips) 
+Seat 6: Pokista1 ($2.75 in chips) 
+Pokista1: posts small blind $0.01
+yonaikeralf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kc]
+NORD-DE: raises $0.02 to $0.04
+trikyman: folds 
+fishersk: folds 
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+Uncalled bet ($0.02) returned to NORD-DE
+NORD-DE collected $0.05 from pot
+NORD-DE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yonaikeralf (big blind) folded before Flop
+Seat 2: NORD-DE collected ($0.05)
+Seat 3: trikyman folded before Flop (didn't bet)
+Seat 4: fishersk folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Pokista1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239404209045:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:39:08 ET
+Table 'Parvulesco' 6-max Seat #6 is the button
+Seat 1: yonaikeralf ($2.06 in chips) 
+Seat 2: NORD-DE ($1.84 in chips) 
+Seat 3: trikyman ($2.66 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.54 in chips) 
+Seat 6: Pokista1 ($2.74 in chips) 
+yonaikeralf: posts small blind $0.01
+NORD-DE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 3s]
+trikyman: raises $0.04 to $0.06
+fishersk: folds 
+Lorpugo: folds 
+Pokista1: folds 
+yonaikeralf: folds 
+NORD-DE: folds 
+Uncalled bet ($0.04) returned to trikyman
+trikyman collected $0.05 from pot
+trikyman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yonaikeralf (small blind) folded before Flop
+Seat 2: NORD-DE (big blind) folded before Flop
+Seat 3: trikyman collected ($0.05)
+Seat 4: fishersk folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Pokista1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239404214473:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/23 11:39:24 ET
+Table 'Parvulesco' 6-max Seat #1 is the button
+Seat 1: yonaikeralf ($2.05 in chips) 
+Seat 2: NORD-DE ($1.82 in chips) 
+Seat 3: trikyman ($2.69 in chips) 
+Seat 4: fishersk ($2 in chips) 
+Seat 5: Lorpugo ($2.54 in chips) 
+Seat 6: Pokista1 ($2.74 in chips) 
+NORD-DE: posts small blind $0.01
+trikyman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Jh]
+fishersk: folds 
+Lorpugo: raises $0.04 to $0.06
+Pokista1: folds 
+yonaikeralf: folds 
+NORD-DE: folds 
+trikyman: calls $0.04
+*** FLOP *** [4d Td 3h]
+trikyman: checks 
+Lorpugo: bets $0.09
+trikyman: calls $0.09
+*** TURN *** [4d Td 3h] [Jd]
+trikyman: checks 
+Lorpugo: bets $0.36
+trikyman: folds 
+Uncalled bet ($0.36) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4d Td 3h Jd]
+Seat 1: yonaikeralf (button) folded before Flop (didn't bet)
+Seat 2: NORD-DE (small blind) folded before Flop
+Seat 3: trikyman (big blind) folded on the Turn
+Seat 4: fishersk folded before Flop (didn't bet)
+Seat 5: Lorpugo collected ($0.30)
+Seat 6: Pokista1 folded before Flop (didn't bet)
+
+
+

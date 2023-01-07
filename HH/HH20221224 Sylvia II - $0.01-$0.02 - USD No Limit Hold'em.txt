@@ -1,0 +1,680 @@
+﻿PokerStars Hand #240668082198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:45:07 ET
+Table 'Sylvia II' 6-max Seat #3 is the button
+Seat 2: fazuelly ($1.61 in chips) 
+Seat 3: PAPIcamaron2 ($1.97 in chips) 
+Seat 4: muk1303 ($0.95 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: foc14 ($1 in chips) 
+muk1303: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+foc14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Ks]
+foc14: checks 
+fazuelly: calls $0.02
+PAPIcamaron2: folds 
+muk1303: raises $0.08 to $0.10
+Lorpugo: folds 
+foc14: calls $0.08
+fazuelly: calls $0.08
+*** FLOP *** [9h 2d 2s]
+muk1303: checks 
+foc14: checks 
+fazuelly: bets $0.16
+muk1303: calls $0.16
+foc14: folds 
+*** TURN *** [9h 2d 2s] [3d]
+muk1303: checks 
+fazuelly: bets $0.62
+muk1303: folds 
+Uncalled bet ($0.62) returned to fazuelly
+fazuelly collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [9h 2d 2s 3d]
+Seat 2: fazuelly collected ($0.62)
+Seat 3: PAPIcamaron2 (button) folded before Flop (didn't bet)
+Seat 4: muk1303 (small blind) folded on the Turn
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: foc14 folded on the Flop
+
+
+
+PokerStars Hand #240668102962:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:46:18 ET
+Table 'Sylvia II' 6-max Seat #4 is the button
+Seat 2: fazuelly ($1.97 in chips) 
+Seat 3: PAPIcamaron2 ($1.97 in chips) 
+Seat 4: muk1303 ($0.69 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: foc14 ($0.90 in chips) 
+Lorpugo: posts small blind $0.01
+foc14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 4s]
+fazuelly: calls $0.02
+PAPIcamaron2: raises $0.04 to $0.06
+muk1303: calls $0.06
+Lorpugo: folds 
+foc14: calls $0.04
+fazuelly: calls $0.04
+*** FLOP *** [Td 9s 2h]
+foc14: checks 
+fazuelly: checks 
+PAPIcamaron2: checks 
+muk1303: checks 
+*** TURN *** [Td 9s 2h] [Qs]
+foc14: checks 
+fazuelly: checks 
+PAPIcamaron2: checks 
+muk1303: checks 
+*** RIVER *** [Td 9s 2h Qs] [Jc]
+DeriAfonso is disconnected 
+foc14: bets $0.02
+fazuelly: calls $0.02
+PAPIcamaron2: raises $0.30 to $0.32
+muk1303: folds 
+foc14: folds 
+fazuelly: folds 
+Uncalled bet ($0.30) returned to PAPIcamaron2
+PAPIcamaron2 collected $0.30 from pot
+PAPIcamaron2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Td 9s 2h Qs Jc]
+Seat 2: fazuelly folded on the River
+Seat 3: PAPIcamaron2 collected ($0.30)
+Seat 4: muk1303 (button) folded on the River
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: foc14 (big blind) folded on the River
+
+
+
+PokerStars Hand #240668128990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:47:46 ET
+Table 'Sylvia II' 6-max Seat #5 is the button
+Seat 2: fazuelly ($1.89 in chips) 
+Seat 3: PAPIcamaron2 ($2.19 in chips) 
+Seat 4: muk1303 ($0.63 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: foc14 ($0.82 in chips) 
+foc14: posts small blind $0.01
+DeriAfonso has timed out while disconnected
+fazuelly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qd]
+PAPIcamaron2: folds 
+muk1303: raises $0.05 to $0.07
+Lorpugo: raises $0.17 to $0.24
+foc14: folds 
+fazuelly: folds 
+muk1303: calls $0.17
+*** FLOP *** [Th 8d 9s]
+muk1303: bets $0.39 and is all-in
+Lorpugo: calls $0.39
+*** TURN *** [Th 8d 9s] [3s]
+*** RIVER *** [Th 8d 9s 3s] [5c]
+*** SHOW DOWN ***
+muk1303: shows [Jc Qc] (a straight, Eight to Queen)
+Lorpugo: shows [Ad Qd] (high card Ace)
+muk1303 collected $1.23 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.06 
+Board [Th 8d 9s 3s 5c]
+Seat 2: fazuelly (big blind) folded before Flop
+Seat 3: PAPIcamaron2 folded before Flop (didn't bet)
+Seat 4: muk1303 showed [Jc Qc] and won ($1.23) with a straight, Eight to Queen
+Seat 5: Lorpugo (button) showed [Ad Qd] and lost with high card Ace
+Seat 6: foc14 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240668140380:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:48:25 ET
+Table 'Sylvia II' 6-max Seat #6 is the button
+Seat 2: fazuelly ($1.87 in chips) 
+Seat 3: PAPIcamaron2 ($2.19 in chips) 
+Seat 4: muk1303 ($1.23 in chips) 
+Seat 5: Lorpugo ($0.94 in chips) 
+Seat 6: foc14 ($0.81 in chips) 
+fazuelly: posts small blind $0.01
+PAPIcamaron2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5d]
+muk1303: calls $0.02
+Lorpugo: folds 
+foc14: calls $0.02
+fazuelly: calls $0.01
+PAPIcamaron2: checks 
+*** FLOP *** [2d Td 6h]
+fazuelly: checks 
+PAPIcamaron2: bets $0.03
+muk1303: calls $0.03
+foc14: folds 
+fazuelly: calls $0.03
+*** TURN *** [2d Td 6h] [Jd]
+fazuelly: checks 
+PAPIcamaron2: bets $0.05
+muk1303: calls $0.05
+fazuelly: calls $0.05
+*** RIVER *** [2d Td 6h Jd] [8c]
+fazuelly: checks 
+PAPIcamaron2: bets $0.10
+muk1303: folds 
+fazuelly: raises $0.10 to $0.20
+PAPIcamaron2: calls $0.10
+*** SHOW DOWN ***
+fazuelly: shows [Jc 8d] (two pair, Jacks and Eights)
+PAPIcamaron2: mucks hand 
+fazuelly collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [2d Td 6h Jd 8c]
+Seat 2: fazuelly (small blind) showed [Jc 8d] and won ($0.69) with two pair, Jacks and Eights
+Seat 3: PAPIcamaron2 (big blind) mucked [Ts 2s]
+Seat 4: muk1303 folded on the River
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: foc14 (button) folded on the Flop
+
+
+
+PokerStars Hand #240668156153:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:49:19 ET
+Table 'Sylvia II' 6-max Seat #2 is the button
+Seat 2: fazuelly ($2.26 in chips) 
+Seat 3: PAPIcamaron2 ($1.89 in chips) 
+Seat 4: muk1303 ($1.13 in chips) 
+Seat 5: Lorpugo ($0.94 in chips) 
+Seat 6: foc14 ($0.79 in chips) 
+PAPIcamaron2: posts small blind $0.01
+muk1303: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7h]
+Lorpugo: folds 
+foc14: calls $0.02
+fazuelly: calls $0.02
+PAPIcamaron2: folds 
+muk1303: raises $0.07 to $0.09
+foc14: folds 
+fazuelly: calls $0.07
+*** FLOP *** [Ad 3d 4c]
+DeriAfonso leaves the table
+muk1303: bets $0.20
+ULISSES 222 joins the table at seat #1 
+fazuelly: folds 
+Uncalled bet ($0.20) returned to muk1303
+muk1303 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ad 3d 4c]
+Seat 2: fazuelly (button) folded on the Flop
+Seat 3: PAPIcamaron2 (small blind) folded before Flop
+Seat 4: muk1303 (big blind) collected ($0.20)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: foc14 folded before Flop
+
+
+
+PokerStars Hand #240668165388:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:49:51 ET
+Table 'Sylvia II' 6-max Seat #3 is the button
+Seat 2: fazuelly ($2.17 in chips) 
+Seat 3: PAPIcamaron2 ($1.88 in chips) 
+Seat 4: muk1303 ($1.24 in chips) 
+Seat 5: Lorpugo ($1.52 in chips) 
+Seat 6: foc14 ($0.77 in chips) 
+muk1303: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5d]
+foc14: calls $0.02
+fazuelly: calls $0.02
+PAPIcamaron2: raises $0.04 to $0.06
+muk1303: calls $0.05
+Lorpugo: folds 
+foc14: calls $0.04
+fazuelly: calls $0.04
+*** FLOP *** [9d 7c 3h]
+muk1303: checks 
+foc14: checks 
+fazuelly: checks 
+PAPIcamaron2: bets $0.19
+muk1303: calls $0.19
+foc14: folds 
+fazuelly: folds 
+*** TURN *** [9d 7c 3h] [Jd]
+muk1303: checks 
+PAPIcamaron2: bets $1.50
+muk1303: folds 
+Uncalled bet ($1.50) returned to PAPIcamaron2
+PAPIcamaron2 collected $0.62 from pot
+PAPIcamaron2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [9d 7c 3h Jd]
+Seat 2: fazuelly folded on the Flop
+Seat 3: PAPIcamaron2 (button) collected ($0.62)
+Seat 4: muk1303 (small blind) folded on the Turn
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: foc14 folded on the Flop
+
+
+
+PokerStars Hand #240668180954:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:50:44 ET
+Table 'Sylvia II' 6-max Seat #4 is the button
+Seat 2: fazuelly ($2.11 in chips) 
+Seat 3: PAPIcamaron2 ($2.25 in chips) 
+Seat 4: muk1303 ($0.99 in chips) 
+Seat 5: Lorpugo ($1.50 in chips) 
+Seat 6: foc14 ($0.71 in chips) 
+Lorpugo: posts small blind $0.01
+foc14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3d]
+fazuelly: calls $0.02
+PAPIcamaron2: folds 
+muk1303: calls $0.02
+Lorpugo: folds 
+foc14: checks 
+*** FLOP *** [8d Kc 4s]
+foc14: checks 
+fazuelly: checks 
+muk1303: bets $0.07
+foc14: folds 
+fazuelly: calls $0.07
+*** TURN *** [8d Kc 4s] [5s]
+fazuelly: checks 
+muk1303: bets $0.20
+fazuelly: folds 
+Uncalled bet ($0.20) returned to muk1303
+muk1303 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8d Kc 4s 5s]
+Seat 2: fazuelly folded on the Turn
+Seat 3: PAPIcamaron2 folded before Flop (didn't bet)
+Seat 4: muk1303 (button) collected ($0.20)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: foc14 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240668190148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:51:16 ET
+Table 'Sylvia II' 6-max Seat #5 is the button
+Seat 1: ULISSES 222 ($2 in chips) 
+Seat 2: fazuelly ($2.02 in chips) 
+Seat 3: PAPIcamaron2 ($2.25 in chips) 
+Seat 4: muk1303 ($1.10 in chips) 
+Seat 5: Lorpugo ($1.49 in chips) 
+Seat 6: foc14 ($0.69 in chips) 
+foc14: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 2d]
+fazuelly: folds 
+PAPIcamaron2: folds 
+muk1303: calls $0.02
+Lorpugo: folds 
+foc14: calls $0.01
+ULISSES 222: checks 
+*** FLOP *** [8s 6c Ah]
+foc14: checks 
+ULISSES 222: checks 
+muk1303: checks 
+*** TURN *** [8s 6c Ah] [Js]
+foc14: bets $0.06
+ULISSES 222: folds 
+muk1303: calls $0.06
+*** RIVER *** [8s 6c Ah Js] [2h]
+foc14: checks 
+muk1303: checks 
+*** SHOW DOWN ***
+foc14: shows [9h Kd] (high card Ace)
+muk1303: shows [Qh 6h] (a pair of Sixes)
+muk1303 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [8s 6c Ah Js 2h]
+Seat 1: ULISSES 222 (big blind) folded on the Turn
+Seat 2: fazuelly folded before Flop (didn't bet)
+Seat 3: PAPIcamaron2 folded before Flop (didn't bet)
+Seat 4: muk1303 showed [Qh 6h] and won ($0.17) with a pair of Sixes
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: foc14 (small blind) showed [9h Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #240668200435:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:51:51 ET
+Table 'Sylvia II' 6-max Seat #6 is the button
+Seat 1: ULISSES 222 ($1.98 in chips) 
+Seat 2: fazuelly ($2.02 in chips) 
+Seat 3: PAPIcamaron2 ($2.25 in chips) 
+Seat 4: muk1303 ($1.19 in chips) 
+Seat 5: Lorpugo ($1.49 in chips) 
+Seat 6: foc14 ($0.61 in chips) 
+ULISSES 222: posts small blind $0.01
+fazuelly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 3s]
+PAPIcamaron2: raises $0.04 to $0.06
+muk1303: calls $0.06
+Lorpugo: folds 
+foc14: folds 
+ULISSES 222: folds 
+fazuelly: calls $0.04
+*** FLOP *** [Qh Qd 6d]
+fazuelly: checks 
+PAPIcamaron2: checks 
+muk1303: bets $0.18
+fazuelly: folds 
+PAPIcamaron2: folds 
+Uncalled bet ($0.18) returned to muk1303
+muk1303 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qh Qd 6d]
+Seat 1: ULISSES 222 (small blind) folded before Flop
+Seat 2: fazuelly (big blind) folded on the Flop
+Seat 3: PAPIcamaron2 folded on the Flop
+Seat 4: muk1303 collected ($0.18)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: foc14 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240668211971:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:52:31 ET
+Table 'Sylvia II' 6-max Seat #1 is the button
+Seat 1: ULISSES 222 ($1.97 in chips) 
+Seat 2: fazuelly ($1.96 in chips) 
+Seat 3: PAPIcamaron2 ($2.19 in chips) 
+Seat 4: muk1303 ($1.31 in chips) 
+Seat 5: Lorpugo ($1.49 in chips) 
+Seat 6: foc14 ($0.61 in chips) 
+fazuelly: posts small blind $0.01
+PAPIcamaron2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6s]
+muk1303: raises $0.05 to $0.07
+Lorpugo: folds 
+foc14: calls $0.07
+ULISSES 222: folds 
+fazuelly: calls $0.06
+PAPIcamaron2: calls $0.05
+*** FLOP *** [3s 8s 2s]
+fazuelly: checks 
+PAPIcamaron2: bets $0.09
+muk1303: calls $0.09
+foc14: folds 
+fazuelly: calls $0.09
+*** TURN *** [3s 8s 2s] [9c]
+fazuelly: checks 
+PAPIcamaron2: bets $0.17
+muk1303: calls $0.17
+fazuelly: calls $0.17
+*** RIVER *** [3s 8s 2s 9c] [3d]
+fazuelly: checks 
+PAPIcamaron2: checks 
+muk1303: checks 
+*** SHOW DOWN ***
+fazuelly: shows [Jd Ks] (a pair of Threes)
+PAPIcamaron2: shows [As 8d] (two pair, Eights and Threes)
+muk1303: shows [Th Tc] (two pair, Tens and Threes)
+muk1303 collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.05 
+Board [3s 8s 2s 9c 3d]
+Seat 1: ULISSES 222 (button) folded before Flop (didn't bet)
+Seat 2: fazuelly (small blind) showed [Jd Ks] and lost with a pair of Threes
+Seat 3: PAPIcamaron2 (big blind) showed [As 8d] and lost with two pair, Eights and Threes
+Seat 4: muk1303 showed [Th Tc] and won ($1.01) with two pair, Tens and Threes
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: foc14 folded on the Flop
+
+
+
+PokerStars Hand #240668227022:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:53:24 ET
+Table 'Sylvia II' 6-max Seat #2 is the button
+Seat 1: ULISSES 222 ($1.97 in chips) 
+Seat 2: fazuelly ($1.63 in chips) 
+Seat 3: PAPIcamaron2 ($1.86 in chips) 
+Seat 4: muk1303 ($1.99 in chips) 
+Seat 5: Lorpugo ($1.49 in chips) 
+Seat 6: foc14 ($0.54 in chips) 
+PAPIcamaron2: posts small blind $0.01
+muk1303: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8c]
+Lorpugo: folds 
+foc14: folds 
+ULISSES 222: raises $0.02 to $0.04
+fazuelly: folds 
+PAPIcamaron2: raises $0.10 to $0.14
+muk1303: calls $0.12
+ULISSES 222: folds 
+*** FLOP *** [8s 7d 5d]
+PAPIcamaron2: bets $0.23
+muk1303: calls $0.23
+*** TURN *** [8s 7d 5d] [7c]
+PAPIcamaron2: bets $0.25
+muk1303: calls $0.25
+*** RIVER *** [8s 7d 5d 7c] [Qs]
+PAPIcamaron2: bets $0.62
+muk1303: folds 
+Uncalled bet ($0.62) returned to PAPIcamaron2
+PAPIcamaron2 collected $1.24 from pot
+PAPIcamaron2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.04 
+Board [8s 7d 5d 7c Qs]
+Seat 1: ULISSES 222 folded before Flop
+Seat 2: fazuelly (button) folded before Flop (didn't bet)
+Seat 3: PAPIcamaron2 (small blind) collected ($1.24)
+Seat 4: muk1303 (big blind) folded on the River
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: foc14 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240668242635:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:54:18 ET
+Table 'Sylvia II' 6-max Seat #3 is the button
+Seat 1: ULISSES 222 ($1.93 in chips) 
+Seat 2: fazuelly ($1.63 in chips) 
+Seat 3: PAPIcamaron2 ($2.48 in chips) 
+Seat 4: muk1303 ($1.37 in chips) 
+Seat 5: Lorpugo ($1.49 in chips) 
+Seat 6: foc14 ($0.54 in chips) 
+muk1303: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9d]
+foc14: calls $0.02
+ULISSES 222: folds 
+fazuelly: calls $0.02
+PAPIcamaron2: raises $0.09 to $0.11
+muk1303: calls $0.10
+Lorpugo: folds 
+foc14: calls $0.09
+fazuelly: calls $0.09
+*** FLOP *** [Ac Ah Kh]
+muk1303: checks 
+foc14: checks 
+fazuelly: checks 
+PAPIcamaron2: bets $0.15
+muk1303: calls $0.15
+foc14: calls $0.15
+fazuelly: calls $0.15
+*** TURN *** [Ac Ah Kh] [5h]
+muk1303: checks 
+foc14: bets $0.28 and is all-in
+fazuelly: calls $0.28
+PAPIcamaron2: calls $0.28
+muk1303: folds 
+*** RIVER *** [Ac Ah Kh 5h] [3s]
+fazuelly: bets $1.09 and is all-in
+PAPIcamaron2: calls $1.09
+*** SHOW DOWN ***
+fazuelly: shows [6s Ad] (three of a kind, Aces)
+PAPIcamaron2: shows [As Qd] (three of a kind, Aces - King+Queen kicker)
+PAPIcamaron2 collected $2.11 from side pot
+foc14: shows [8d 5c] (two pair, Aces and Fives)
+PAPIcamaron2 collected $1.83 from main pot
+*** SUMMARY ***
+Total pot $4.08 Main pot $1.83. Side pot $2.11. | Rake $0.14 
+Board [Ac Ah Kh 5h 3s]
+Seat 1: ULISSES 222 folded before Flop (didn't bet)
+Seat 2: fazuelly showed [6s Ad] and lost with three of a kind, Aces
+Seat 3: PAPIcamaron2 (button) showed [As Qd] and won ($3.94) with three of a kind, Aces
+Seat 4: muk1303 (small blind) folded on the Turn
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: foc14 showed [8d 5c] and lost with two pair, Aces and Fives
+
+
+
+PokerStars Hand #240668257743:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:55:11 ET
+Table 'Sylvia II' 6-max Seat #4 is the button
+Seat 1: ULISSES 222 ($1.93 in chips) 
+Seat 3: PAPIcamaron2 ($4.79 in chips) 
+Seat 4: muk1303 ($1.11 in chips) 
+Seat 5: Lorpugo ($1.47 in chips) 
+Lorpugo: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2h]
+PAPIcamaron2: folds 
+muk1303: calls $0.02
+Lorpugo: calls $0.01
+foc14 leaves the table
+ULISSES 222: checks 
+*** FLOP *** [Ks Qc Ad]
+fazuelly is disconnected 
+Pechorin.G joins the table at seat #6 
+Lorpugo: checks 
+ULISSES 222: checks 
+muk1303: bets $0.06
+Lorpugo: calls $0.06
+ULISSES 222: folds 
+*** TURN *** [Ks Qc Ad] [8d]
+Lorpugo: checks 
+muk1303: checks 
+*** RIVER *** [Ks Qc Ad 8d] [3s]
+Lorpugo: checks 
+muk1303: bets $0.17
+Lorpugo: calls $0.17
+*** SHOW DOWN ***
+muk1303: shows [9s Kh] (a pair of Kings)
+Lorpugo: shows [Ac 2h] (a pair of Aces)
+Lorpugo collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Ks Qc Ad 8d 3s]
+Seat 1: ULISSES 222 (big blind) folded on the Flop
+Seat 3: PAPIcamaron2 folded before Flop (didn't bet)
+Seat 4: muk1303 (button) showed [9s Kh] and lost with a pair of Kings
+Seat 5: Lorpugo (small blind) showed [Ac 2h] and won ($0.50) with a pair of Aces
+
+
+
+PokerStars Hand #240668268514:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:56:00 ET
+Table 'Sylvia II' 6-max Seat #5 is the button
+Seat 1: ULISSES 222 ($1.91 in chips) 
+Seat 3: PAPIcamaron2 ($4.79 in chips) 
+Seat 4: muk1303 ($0.86 in chips) 
+Seat 5: Lorpugo ($1.72 in chips) 
+ULISSES 222: posts small blind $0.01
+PAPIcamaron2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Kc]
+muk1303: raises $0.05 to $0.07
+Lorpugo: calls $0.07
+ULISSES 222: folds 
+PAPIcamaron2: calls $0.05
+*** FLOP *** [Qc 9c 5c]
+PAPIcamaron2: checks 
+muk1303: bets $0.21
+Lorpugo: calls $0.21
+PAPIcamaron2: folds 
+*** TURN *** [Qc 9c 5c] [7h]
+PAPIcamaron2 leaves the table
+muk1303: bets $0.58 and is all-in
+Lorpugo: calls $0.58
+*** RIVER *** [Qc 9c 5c 7h] [9s]
+*** SHOW DOWN ***
+muk1303: shows [Jc Qh] (two pair, Queens and Nines)
+Lorpugo: shows [8c Kc] (a flush, King high)
+Lorpugo collected $1.74 from pot
+grantd3nz joins the table at seat #3 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.06 
+Board [Qc 9c 5c 7h 9s]
+Seat 1: ULISSES 222 (small blind) folded before Flop
+Seat 3: PAPIcamaron2 (big blind) folded on the Flop
+Seat 4: muk1303 showed [Jc Qh] and lost with two pair, Queens and Nines
+Seat 5: Lorpugo (button) showed [8c Kc] and won ($1.74) with a flush, King high
+
+
+
+PokerStars Hand #240668275948:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:56:36 ET
+Table 'Sylvia II' 6-max Seat #1 is the button
+Seat 1: ULISSES 222 ($1.90 in chips) 
+Seat 5: Lorpugo ($2.60 in chips) 
+Seat 6: Pechorin.G ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Pechorin.G: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4c]
+muk1303 leaves the table
+ULISSES 222: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Pechorin.G
+Pechorin.G collected $0.02 from pot
+Pechorin.G: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ULISSES 222 (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Pechorin.G (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240668278125:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:56:47 ET
+Table 'Sylvia II' 6-max Seat #5 is the button
+Seat 1: ULISSES 222 ($1.90 in chips) 
+Seat 5: Lorpugo ($2.59 in chips) 
+Seat 6: Pechorin.G ($2.01 in chips) 
+Pechorin.G: posts small blind $0.01
+ULISSES 222: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3d]
+Lorpugo: raises $0.04 to $0.06
+Pechorin.G: folds 
+grantd3nz leaves the table
+ULISSES 222: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ULISSES 222 (big blind) folded before Flop
+Seat 5: Lorpugo (button) collected ($0.05)
+Seat 6: Pechorin.G (small blind) folded before Flop
+
+
+
+PokerStars Hand #240668281827:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/24 15:57:04 ET
+Table 'Sylvia II' 6-max Seat #6 is the button
+Seat 1: ULISSES 222 ($1.88 in chips) 
+Seat 5: Lorpugo ($2.62 in chips) 
+Seat 6: Pechorin.G ($2 in chips) 
+ULISSES 222: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 4s]
+Pechorin.G: folds 
+ULISSES 222: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+ULISSES 222 leaves the table
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ULISSES 222 (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.02)
+Seat 6: Pechorin.G (button) folded before Flop (didn't bet)
+
+
+

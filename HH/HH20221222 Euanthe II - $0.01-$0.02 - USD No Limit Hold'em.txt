@@ -1,0 +1,2650 @@
+﻿PokerStars Hand #240624975930:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:51:00 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.95 in chips) 
+Seat 2: BözerOnkel ($3.53 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 5: nekro211986 ($2.09 in chips) 
+Seat 6: stocan13 ($4.02 in chips) 
+BözerOnkel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Jh]
+Alex Tuca DJ joins the table at seat #4 
+nekro211986: folds 
+stocan13: raises $0.02 to $0.04
+Aaron Levy92: raises $0.02 to $0.06
+BözerOnkel: folds 
+Lorpugo: raises $0.16 to $0.22
+stocan13: calls $0.18
+Aaron Levy92: calls $0.16
+*** FLOP *** [Ts 5d 5s]
+Lorpugo: bets $1.38 and is all-in
+stocan13: calls $1.38
+Aaron Levy92: folds 
+*** TURN *** [Ts 5d 5s] [5c]
+*** RIVER *** [Ts 5d 5s 5c] [Jc]
+*** SHOW DOWN ***
+Lorpugo: shows [Jd Jh] (a full house, Jacks full of Fives)
+stocan13: shows [Ks Kc] (a full house, Fives full of Kings)
+Lorpugo collected $3.31 from pot
+*** SUMMARY ***
+Total pot $3.43 | Rake $0.12 
+Board [Ts 5d 5s 5c Jc]
+Seat 1: Aaron Levy92 (button) folded on the Flop
+Seat 2: BözerOnkel (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) showed [Jd Jh] and won ($3.31) with a full house, Jacks full of Fives
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 showed [Ks Kc] and lost with a full house, Fives full of Kings
+
+
+
+PokerStars Hand #240624992037:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:51:44 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 1: Aaron Levy92 ($1.73 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.31 in chips) 
+Seat 4: Alex Tuca DJ ($2 in chips) 
+Seat 5: nekro211986 ($2.09 in chips) 
+Seat 6: stocan13 ($2.42 in chips) 
+Lorpugo: posts small blind $0.01
+Alex Tuca DJ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 4s]
+nekro211986: folds 
+stocan13: raises $0.02 to $0.04
+Aaron Levy92: raises $0.11 to $0.15
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+stocan13: calls $0.11
+*** FLOP *** [8c 2s 6h]
+stocan13: checks 
+Aaron Levy92: checks 
+*** TURN *** [8c 2s 6h] [6c]
+stocan13: bets $0.08
+Aaron Levy92: folds 
+Uncalled bet ($0.08) returned to stocan13
+stocan13 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8c 2s 6h 6c]
+Seat 1: Aaron Levy92 folded on the Turn
+Seat 2: BözerOnkel (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Alex Tuca DJ (big blind) folded before Flop
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 collected ($0.32)
+
+
+
+PokerStars Hand #240625006149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:52:22 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($1.58 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.30 in chips) 
+Seat 4: Alex Tuca DJ ($1.98 in chips) 
+Seat 5: nekro211986 ($2.09 in chips) 
+Seat 6: stocan13 ($2.59 in chips) 
+Alex Tuca DJ: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 5c]
+stocan13: raises $0.02 to $0.04
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+nekro211986: calls $0.02
+*** FLOP *** [4h 4c Js]
+nekro211986: checks 
+stocan13: checks 
+*** TURN *** [4h 4c Js] [7h]
+nekro211986: bets $0.07
+stocan13: calls $0.07
+*** RIVER *** [4h 4c Js 7h] [5h]
+nekro211986: checks 
+stocan13: checks 
+*** SHOW DOWN ***
+nekro211986: shows [Ac Jc] (two pair, Jacks and Fours)
+stocan13: mucks hand 
+nekro211986 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [4h 4c Js 7h 5h]
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) showed [Ac Jc] and won ($0.22) with two pair, Jacks and Fours
+Seat 6: stocan13 mucked [Ad Kh]
+
+
+
+PokerStars Hand #240625019692:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:52:59 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 1: Aaron Levy92 ($1.58 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.30 in chips) 
+Seat 4: Alex Tuca DJ ($1.97 in chips) 
+Seat 5: nekro211986 ($2.20 in chips) 
+Seat 6: stocan13 ($2.48 in chips) 
+nekro211986: posts small blind $0.01
+stocan13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 6c]
+Aaron Levy92: calls $0.02
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: raises $0.02 to $0.04
+nekro211986: folds 
+stocan13: calls $0.02
+Aaron Levy92: calls $0.02
+*** FLOP *** [Kc As 3h]
+stocan13: bets $0.02
+Aaron Levy92: raises $0.17 to $0.19
+Alex Tuca DJ: folds 
+stocan13: calls $0.17
+*** TURN *** [Kc As 3h] [9d]
+stocan13: checks 
+Aaron Levy92: bets $0.49
+stocan13: folds 
+Uncalled bet ($0.49) returned to Aaron Levy92
+Aaron Levy92 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Kc As 3h 9d]
+Seat 1: Aaron Levy92 collected ($0.49)
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ (button) folded on the Flop
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: stocan13 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240625035244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:53:41 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 1: Aaron Levy92 ($1.84 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.30 in chips) 
+Seat 4: Alex Tuca DJ ($1.93 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.25 in chips) 
+stocan13: posts small blind $0.01
+Aaron Levy92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 7s]
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+nekro211986: folds 
+stocan13: calls $0.01
+Aaron Levy92: checks 
+*** FLOP *** [4c 6c Ts]
+stocan13: bets $0.02
+Aaron Levy92: folds 
+Uncalled bet ($0.02) returned to stocan13
+stocan13 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4c 6c Ts]
+Seat 1: Aaron Levy92 (big blind) folded on the Flop
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: stocan13 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240625044961:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:54:07 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 1: Aaron Levy92 ($1.82 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.30 in chips) 
+Seat 4: Alex Tuca DJ ($1.93 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.27 in chips) 
+Aaron Levy92: posts small blind $0.01
+BözerOnkel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 9s]
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+nekro211986: folds 
+stocan13: folds 
+Aaron Levy92: folds 
+Uncalled bet ($0.01) returned to BözerOnkel
+BözerOnkel collected $0.02 from pot
+BözerOnkel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 (small blind) folded before Flop
+Seat 2: BözerOnkel (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625051268:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:54:24 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.81 in chips) 
+Seat 2: BözerOnkel ($3.53 in chips) 
+Seat 3: Lorpugo ($3.30 in chips) 
+Seat 4: Alex Tuca DJ ($1.93 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.27 in chips) 
+BözerOnkel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5d]
+Alex Tuca DJ: folds 
+nekro211986: raises $0.04 to $0.06
+stocan13: folds 
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.05 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aaron Levy92 (button) folded before Flop (didn't bet)
+Seat 2: BözerOnkel (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 collected ($0.05)
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625058955:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:54:45 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 1: Aaron Levy92 ($1.81 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.28 in chips) 
+Seat 4: Alex Tuca DJ ($1.93 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: stocan13 ($2.27 in chips) 
+Lorpugo: posts small blind $0.01
+Alex Tuca DJ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Jd]
+nekro211986: raises $0.04 to $0.06
+stocan13: folds 
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: BözerOnkel (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Alex Tuca DJ (big blind) folded before Flop
+Seat 5: nekro211986 collected ($0.05)
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625068348:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:55:11 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($1.81 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.27 in chips) 
+Seat 4: Alex Tuca DJ ($1.91 in chips) 
+Seat 5: nekro211986 ($2.25 in chips) 
+Seat 6: stocan13 ($2.27 in chips) 
+Alex Tuca DJ: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 9s]
+stocan13: folds 
+Aaron Levy92: calls $0.02
+BözerOnkel: folds 
+Lorpugo: calls $0.02
+Alex Tuca DJ: folds 
+nekro211986: checks 
+*** FLOP *** [5c 6d Ks]
+nekro211986: checks 
+Aaron Levy92: checks 
+Lorpugo: bets $0.03
+nekro211986: folds 
+Aaron Levy92: raises $0.03 to $0.06
+Lorpugo: calls $0.03
+*** TURN *** [5c 6d Ks] [Ad]
+Aaron Levy92: checks 
+Lorpugo: checks 
+*** RIVER *** [5c 6d Ks Ad] [4h]
+Aaron Levy92: bets $0.18
+Lorpugo has timed out
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to Aaron Levy92
+Aaron Levy92 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5c 6d Ks Ad 4h]
+Seat 1: Aaron Levy92 collected ($0.18)
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded on the River
+Seat 4: Alex Tuca DJ (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) folded on the Flop
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625099909:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:57:03 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 1: Aaron Levy92 ($1.91 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.19 in chips) 
+Seat 4: Alex Tuca DJ ($1.90 in chips) 
+Seat 5: nekro211986 ($2.23 in chips) 
+Seat 6: stocan13 ($2.27 in chips) 
+nekro211986: posts small blind $0.01
+stocan13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 8d]
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Lorpugo: raises $0.04 to $0.06
+Alex Tuca DJ: calls $0.06
+nekro211986: folds 
+stocan13: calls $0.04
+*** FLOP *** [5h 4s 6d]
+stocan13: checks 
+Lorpugo: bets $0.14
+Alex Tuca DJ: folds 
+stocan13: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 4s 6d]
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.18)
+Seat 4: Alex Tuca DJ (button) folded on the Flop
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: stocan13 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240625110467:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:57:41 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 1: Aaron Levy92 ($1.91 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.31 in chips) 
+Seat 4: Alex Tuca DJ ($1.84 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: stocan13 ($2.21 in chips) 
+stocan13: posts small blind $0.01
+Aaron Levy92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ts]
+BözerOnkel has timed out
+BözerOnkel: folds 
+Lorpugo: raises $0.04 to $0.06
+Alex Tuca DJ: folds 
+nekro211986: folds 
+stocan13: folds 
+Aaron Levy92: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aaron Levy92 (big blind) folded before Flop
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: stocan13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240625121619:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:58:20 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 1: Aaron Levy92 ($1.89 in chips) 
+Seat 2: BözerOnkel ($3.52 in chips) 
+Seat 3: Lorpugo ($3.34 in chips) 
+Seat 4: Alex Tuca DJ ($1.84 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: stocan13 ($2.20 in chips) 
+Aaron Levy92: posts small blind $0.01
+BözerOnkel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 4s]
+Lorpugo: folds 
+Alex Tuca DJ: raises $0.02 to $0.04
+nekro211986: folds 
+stocan13: folds 
+Aaron Levy92: calls $0.03
+BözerOnkel: calls $0.02
+*** FLOP *** [9c Jd Ad]
+Aaron Levy92: checks 
+BözerOnkel: checks 
+Alex Tuca DJ: bets $0.08
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Uncalled bet ($0.08) returned to Alex Tuca DJ
+Alex Tuca DJ collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9c Jd Ad]
+Seat 1: Aaron Levy92 (small blind) folded on the Flop
+Seat 2: BözerOnkel (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ collected ($0.12)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625131218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:58:53 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.85 in chips) 
+Seat 2: BözerOnkel ($3.48 in chips) 
+Seat 3: Lorpugo ($3.34 in chips) 
+Seat 4: Alex Tuca DJ ($1.92 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: stocan13 ($2.20 in chips) 
+BözerOnkel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Qc]
+Alex Tuca DJ has timed out
+Alex Tuca DJ: folds 
+nekro211986: folds 
+stocan13: folds 
+Aaron Levy92: raises $0.02 to $0.04
+BözerOnkel: raises $0.12 to $0.16
+Lorpugo: calls $0.14
+Aaron Levy92: raises $0.48 to $0.64
+BözerOnkel: folds 
+Lorpugo: raises $2.70 to $3.34 and is all-in
+Aaron Levy92: calls $1.21 and is all-in
+Uncalled bet ($1.49) returned to Lorpugo
+*** FLOP *** [As 6c Kh]
+*** TURN *** [As 6c Kh] [Qs]
+*** RIVER *** [As 6c Kh Qs] [7s]
+*** SHOW DOWN ***
+Lorpugo: shows [Qd Qc] (three of a kind, Queens)
+Aaron Levy92: shows [Ks Jd] (a pair of Kings)
+Lorpugo collected $3.72 from pot
+*** SUMMARY ***
+Total pot $3.86 | Rake $0.14 
+Board [As 6c Kh Qs 7s]
+Seat 1: Aaron Levy92 (button) showed [Ks Jd] and lost with a pair of Kings
+Seat 2: BözerOnkel (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) showed [Qd Qc] and won ($3.72) with three of a kind, Queens
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625147661:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 14:59:52 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: BözerOnkel ($3.32 in chips) 
+Seat 3: Lorpugo ($5.21 in chips) 
+Seat 4: Alex Tuca DJ ($1.92 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: stocan13 ($2.20 in chips) 
+Lorpugo: posts small blind $0.01
+Alex Tuca DJ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7s]
+nekro211986: folds 
+stocan13: folds 
+BözerOnkel: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+Alex Tuca DJ: calls $0.03
+*** FLOP *** [3h 7d 4d]
+Lorpugo: checks 
+Alex Tuca DJ: checks 
+BözerOnkel: bets $0.10
+Lorpugo: calls $0.10
+Alex Tuca DJ: folds 
+*** TURN *** [3h 7d 4d] [3d]
+Lorpugo: checks 
+BözerOnkel: bets $0.18
+Lorpugo: calls $0.18
+*** RIVER *** [3h 7d 4d 3d] [Qs]
+Lorpugo: checks 
+BözerOnkel: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5s 7s] (two pair, Sevens and Threes)
+BözerOnkel: shows [5c 6d] (a straight, Three to Seven)
+BözerOnkel collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [3h 7d 4d 3d Qs]
+Seat 2: BözerOnkel (button) showed [5c 6d] and won ($0.69) with a straight, Three to Seven
+Seat 3: Lorpugo (small blind) showed [5s 7s] and lost with two pair, Sevens and Threes
+Seat 4: Alex Tuca DJ (big blind) folded on the Flop
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625166440:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:00:53 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($2 in chips) 
+Seat 2: BözerOnkel ($3.68 in chips) 
+Seat 3: Lorpugo ($4.88 in chips) 
+Seat 4: Alex Tuca DJ ($1.87 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+Seat 6: stocan13 ($2.20 in chips) 
+Alex Tuca DJ: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Th]
+stocan13: folds 
+Aaron Levy92: folds 
+BözerOnkel: raises $0.04 to $0.06
+Lorpugo: raises $0.15 to $0.21
+Alex Tuca DJ: folds 
+nekro211986: folds 
+BözerOnkel: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: BözerOnkel folded before Flop
+Seat 3: Lorpugo (button) collected ($0.15)
+Seat 4: Alex Tuca DJ (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) folded before Flop
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625176334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:01:22 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 1: Aaron Levy92 ($2 in chips) 
+Seat 2: BözerOnkel ($3.62 in chips) 
+Seat 3: Lorpugo ($4.97 in chips) 
+Seat 4: Alex Tuca DJ ($1.86 in chips) 
+Seat 5: nekro211986 ($2.20 in chips) 
+Seat 6: stocan13 ($2.20 in chips) 
+nekro211986: posts small blind $0.01
+stocan13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Qc]
+Aaron Levy92: raises $0.02 to $0.04
+BözerOnkel: folds 
+Lorpugo: raises $0.11 to $0.15
+Alex Tuca DJ: folds 
+nekro211986: folds 
+stocan13: folds 
+Aaron Levy92: raises $0.33 to $0.48
+Lorpugo: raises $4.49 to $4.97 and is all-in
+Aaron Levy92: calls $1.52 and is all-in
+Uncalled bet ($2.97) returned to Lorpugo
+*** FLOP *** [4c Jh 6c]
+*** TURN *** [4c Jh 6c] [4d]
+*** RIVER *** [4c Jh 6c 4d] [2d]
+*** SHOW DOWN ***
+Aaron Levy92: shows [Ad Jc] (two pair, Jacks and Fours)
+Lorpugo: shows [Qs Qc] (two pair, Queens and Fours)
+Lorpugo collected $3.89 from pot
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.14 
+Board [4c Jh 6c 4d 2d]
+Seat 1: Aaron Levy92 showed [Ad Jc] and lost with two pair, Jacks and Fours
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo showed [Qs Qc] and won ($3.89) with two pair, Queens and Fours
+Seat 4: Alex Tuca DJ (button) folded before Flop (didn't bet)
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: stocan13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240625194371:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:02:12 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 2: BözerOnkel ($3.62 in chips) 
+Seat 3: Lorpugo ($6.86 in chips) 
+Seat 4: Alex Tuca DJ ($1.86 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.18 in chips) 
+stocan13: posts small blind $0.01
+BözerOnkel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ts]
+Lorpugo: raises $0.04 to $0.06
+Alex Tuca DJ has timed out
+Alex Tuca DJ: folds 
+nekro211986: folds 
+stocan13: folds 
+BözerOnkel: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: BözerOnkel (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: stocan13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240625204012:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:02:37 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 2: BözerOnkel ($3.60 in chips) 
+Seat 3: Lorpugo ($6.89 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.17 in chips) 
+BözerOnkel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Tc]
+nekro211986: folds 
+stocan13: folds 
+BözerOnkel: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to BözerOnkel
+BözerOnkel collected $0.04 from pot
+BözerOnkel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: BözerOnkel (small blind) collected ($0.04)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625211225:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:02:55 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 1: Aaron Levy92 ($2 in chips) 
+Seat 2: BözerOnkel ($3.62 in chips) 
+Seat 3: Lorpugo ($6.87 in chips) 
+Seat 4: Alex Tuca DJ ($1.86 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.17 in chips) 
+Lorpugo: posts small blind $0.01
+Alex Tuca DJ: posts big blind $0.02
+Aaron Levy92: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8d]
+nekro211986: folds 
+stocan13: folds 
+Aaron Levy92: checks 
+BözerOnkel: calls $0.02
+Lorpugo: calls $0.01
+Alex Tuca DJ: checks 
+*** FLOP *** [Jd 3s Ts]
+Lorpugo: checks 
+Alex Tuca DJ: checks 
+Aaron Levy92: checks 
+BözerOnkel: checks 
+*** TURN *** [Jd 3s Ts] [Tc]
+Lorpugo: checks 
+Alex Tuca DJ: checks 
+Aaron Levy92: checks 
+BözerOnkel: bets $0.06
+Lorpugo: calls $0.06
+Alex Tuca DJ: folds 
+Aaron Levy92: folds 
+*** RIVER *** [Jd 3s Ts Tc] [5s]
+Lorpugo: checks 
+BözerOnkel: bets $0.18
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to BözerOnkel
+BözerOnkel collected $0.20 from pot
+BözerOnkel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jd 3s Ts Tc 5s]
+Seat 1: Aaron Levy92 folded on the Turn (didn't bet)
+Seat 2: BözerOnkel (button) collected ($0.20)
+Seat 3: Lorpugo (small blind) folded on the River
+Seat 4: Alex Tuca DJ (big blind) folded on the Turn
+Seat 5: nekro211986 folded before Flop (didn't bet)
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625245081:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:04:22 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($1.97 in chips) 
+Seat 2: BözerOnkel ($3.74 in chips) 
+Seat 3: Lorpugo ($6.79 in chips) 
+Seat 4: Alex Tuca DJ ($1.84 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.17 in chips) 
+Alex Tuca DJ: posts small blind $0.01
+nekro211986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Kd]
+stocan13: folds 
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+Uncalled bet ($0.01) returned to nekro211986
+nekro211986 collected $0.02 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ (small blind) folded before Flop
+Seat 5: nekro211986 (big blind) collected ($0.02)
+Seat 6: stocan13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625250799:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:04:37 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 1: Aaron Levy92 ($1.97 in chips) 
+Seat 2: BözerOnkel ($3.74 in chips) 
+Seat 3: Lorpugo ($6.79 in chips) 
+Seat 4: Alex Tuca DJ ($1.83 in chips) 
+Seat 5: nekro211986 ($2.20 in chips) 
+Seat 6: stocan13 ($2.17 in chips) 
+nekro211986: posts small blind $0.01
+stocan13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Tc]
+Aaron Levy92: calls $0.02
+BözerOnkel: folds 
+Lorpugo: raises $0.04 to $0.06
+Alex Tuca DJ: calls $0.06
+nekro211986: folds 
+stocan13: folds 
+Aaron Levy92: calls $0.04
+*** FLOP *** [9h Qh Ts]
+Aaron Levy92: checks 
+Lorpugo: bets $0.07
+Alex Tuca DJ: calls $0.07
+Aaron Levy92: folds 
+*** TURN *** [9h Qh Ts] [6h]
+Lorpugo: bets $0.11
+Alex Tuca DJ: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.34 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9h Qh Ts 6h]
+Seat 1: Aaron Levy92 folded on the Flop
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.34)
+Seat 4: Alex Tuca DJ (button) folded on the Turn
+Seat 5: nekro211986 (small blind) folded before Flop
+Seat 6: stocan13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240625276964:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:05:43 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 1: Aaron Levy92 ($1.91 in chips) 
+Seat 2: BözerOnkel ($3.74 in chips) 
+Seat 3: Lorpugo ($7 in chips) 
+Seat 4: Alex Tuca DJ ($1.70 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.15 in chips) 
+stocan13: posts small blind $0.01
+Aaron Levy92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ah]
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+nekro211986: folds 
+stocan13: folds 
+Uncalled bet ($0.01) returned to Aaron Levy92
+Aaron Levy92 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 (big blind) collected ($0.02)
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 (button) folded before Flop (didn't bet)
+Seat 6: stocan13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240625282849:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:05:58 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 1: Aaron Levy92 ($1.92 in chips) 
+Seat 2: BözerOnkel ($3.74 in chips) 
+Seat 3: Lorpugo ($7 in chips) 
+Seat 4: Alex Tuca DJ ($1.70 in chips) 
+Seat 5: nekro211986 ($2.19 in chips) 
+Seat 6: stocan13 ($2.14 in chips) 
+Aaron Levy92: posts small blind $0.01
+BözerOnkel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 4h]
+Lorpugo: folds 
+Alex Tuca DJ has timed out
+Alex Tuca DJ: folds 
+nekro211986: raises $0.04 to $0.06
+stocan13 has timed out
+stocan13: folds 
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Uncalled bet ($0.04) returned to nekro211986
+nekro211986 collected $0.05 from pot
+nekro211986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aaron Levy92 (small blind) folded before Flop
+Seat 2: BözerOnkel (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 collected ($0.05)
+Seat 6: stocan13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625297615:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:06:35 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.91 in chips) 
+Seat 2: BözerOnkel ($3.72 in chips) 
+Seat 3: Lorpugo ($7 in chips) 
+Seat 4: Alex Tuca DJ ($1.70 in chips) 
+Seat 5: nekro211986 ($2.22 in chips) 
+BözerOnkel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qc]
+Alex Tuca DJ: folds 
+nekro211986: raises $0.04 to $0.06
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [8d 2c 2d]
+Lorpugo: bets $0.04
+nekro211986: calls $0.04
+*** TURN *** [8d 2c 2d] [7d]
+Lorpugo: bets $0.13
+nekro211986: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8d 2c 2d 7d]
+Seat 1: Aaron Levy92 (button) folded before Flop (didn't bet)
+Seat 2: BözerOnkel (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.20)
+Seat 4: Alex Tuca DJ folded before Flop (didn't bet)
+Seat 5: nekro211986 folded on the Turn
+
+
+
+PokerStars Hand #240625312426:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:07:12 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 1: Aaron Levy92 ($1.91 in chips) 
+Seat 2: BözerOnkel ($3.71 in chips) 
+Seat 3: Lorpugo ($7.10 in chips) 
+Seat 4: Alex Tuca DJ ($1.70 in chips) 
+Seat 5: nekro211986 ($2.12 in chips) 
+Lorpugo: posts small blind $0.01
+Alex Tuca DJ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 5s]
+nekro211986: folds 
+Aaron Levy92: folds 
+nekro211986 leaves the table
+BözerOnkel: raises $0.03 to $0.05
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+Uncalled bet ($0.03) returned to BözerOnkel
+BözerOnkel collected $0.05 from pot
+BözerOnkel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: BözerOnkel (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Alex Tuca DJ (big blind) folded before Flop
+Seat 5: nekro211986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625321658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:07:34 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($1.91 in chips) 
+Seat 2: BözerOnkel ($3.74 in chips) 
+Seat 3: Lorpugo ($7.09 in chips) 
+Seat 4: Alex Tuca DJ ($1.68 in chips) 
+Alex Tuca DJ: posts small blind $0.01
+Aaron Levy92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7d]
+BözerOnkel: folds 
+Lorpugo: folds 
+Alex Tuca DJ: folds 
+Uncalled bet ($0.01) returned to Aaron Levy92
+Alex Tuca DJ leaves the table
+Aaron Levy92 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 (big blind) collected ($0.02)
+Seat 2: BözerOnkel folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Alex Tuca DJ (small blind) folded before Flop
+
+
+
+PokerStars Hand #240625325549:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:07:44 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.92 in chips) 
+Seat 2: BözerOnkel ($3.74 in chips) 
+Seat 3: Lorpugo ($7.09 in chips) 
+BözerOnkel: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Th]
+Aaron Levy92: folds 
+BözerOnkel: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 (button) folded before Flop (didn't bet)
+Seat 2: BözerOnkel (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240625328610:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:07:52 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 1: Aaron Levy92 ($1.92 in chips) 
+Seat 2: BözerOnkel ($3.73 in chips) 
+Seat 3: Lorpugo ($7.10 in chips) 
+Lorpugo: posts small blind $0.01
+Aaron Levy92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Td]
+BözerOnkel: raises $0.03 to $0.05
+Lorpugo: raises $0.12 to $0.17
+Aaron Levy92: folds 
+BözerOnkel: calls $0.12
+*** FLOP *** [3c 4d 7d]
+Lorpugo: bets $0.18
+BözerOnkel: calls $0.18
+*** TURN *** [3c 4d 7d] [Qd]
+Lorpugo: checks 
+BözerOnkel: bets $0.59
+Lorpugo has timed out
+Lorpugo: folds 
+Uncalled bet ($0.59) returned to BözerOnkel
+BözerOnkel collected $0.68 from pot
+BözerOnkel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.04 
+Board [3c 4d 7d Qd]
+Seat 1: Aaron Levy92 (big blind) folded before Flop
+Seat 2: BözerOnkel (button) collected ($0.68)
+Seat 3: Lorpugo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240625356378:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:09:01 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.90 in chips) 
+Seat 3: Lorpugo ($6.75 in chips) 
+Aaron Levy92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 2c]
+Aaron Levy92: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+BözerOnkel leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240625358631:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:09:06 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($1.89 in chips) 
+Seat 3: Lorpugo ($6.76 in chips) 
+Lorpugo: posts small blind $0.01
+Aaron Levy92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ah]
+Lorpugo: raises $0.04 to $0.06
+Aaron Levy92: calls $0.04
+*** FLOP *** [2s 3d Tc]
+Aaron Levy92: checks 
+Lorpugo: bets $0.08
+Aaron Levy92: calls $0.08
+*** TURN *** [2s 3d Tc] [As]
+Aaron Levy92: checks 
+Lorpugo: bets $0.10
+Aaron Levy92: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [2s 3d Tc As]
+Seat 1: Aaron Levy92 (big blind) folded on the Turn
+Seat 3: Lorpugo (button) (small blind) collected ($0.27)
+
+
+
+PokerStars Hand #240625373346:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:09:42 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.75 in chips) 
+Seat 3: Lorpugo ($6.89 in chips) 
+Aaron Levy92: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 2c]
+Aaron Levy92: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5d Td Qd]
+Lorpugo: checks 
+Aaron Levy92: checks 
+*** TURN *** [5d Td Qd] [Qh]
+Lorpugo: checks 
+Aaron Levy92: checks 
+*** RIVER *** [5d Td Qd Qh] [5s]
+Lorpugo: checks 
+Ramirres joins the table at seat #2 
+Aaron Levy92: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Aaron Levy92
+Aaron Levy92 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5d Td Qd Qh 5s]
+Seat 1: Aaron Levy92 (button) (small blind) collected ($0.04)
+Seat 3: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #240625388009:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:10:19 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($1.77 in chips) 
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($6.87 in chips) 
+Aaron Levy92: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ad]
+Lorpugo: raises $0.04 to $0.06
+Aaron Levy92: folds 
+Ramirres: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Aaron Levy92 (small blind) folded before Flop
+Seat 2: Ramirres (big blind) folded before Flop
+Seat 3: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240625392316:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:10:29 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: Aaron Levy92 ($1.76 in chips) 
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($6.90 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 7d]
+Aaron Levy92: folds 
+LongHart joins the table at seat #4 
+Ramirres: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 (button) folded before Flop (didn't bet)
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240625396163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:10:39 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 1: Aaron Levy92 ($1.76 in chips) 
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($6.91 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4h]
+Aaron Levy92: folds 
+Ramirres: folds 
+MattBeary1 joins the table at seat #5 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to LongHart
+LongHart collected $0.02 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: Ramirres (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: LongHart (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240625401931:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:10:53 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Aaron Levy92 ($1.76 in chips) 
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($6.90 in chips) 
+Seat 4: LongHart ($2.01 in chips) 
+Seat 5: MattBeary1 ($2 in chips) 
+LongHart: posts small blind $0.01
+MattBeary1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Kh]
+Aaron Levy92: folds 
+Ramirres: raises $0.03 to $0.05
+Lorpugo: raises $0.13 to $0.18
+LongHart: folds 
+MattBeary1: folds 
+Ramirres: calls $0.13
+*** FLOP *** [2d 3c Ac]
+Ramirres: checks 
+Lorpugo: bets $0.16
+Ramirres: calls $0.16
+*** TURN *** [2d 3c Ac] [6c]
+Ramirres: checks 
+Lorpugo: checks 
+*** RIVER *** [2d 3c Ac 6c] [3s]
+Ramirres: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Ramirres: shows [Js As] (two pair, Aces and Threes)
+Lorpugo: mucks hand 
+Ramirres collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [2d 3c Ac 6c 3s]
+Seat 1: Aaron Levy92 folded before Flop (didn't bet)
+Seat 2: Ramirres showed [Js As] and won ($0.69) with two pair, Aces and Threes
+Seat 3: Lorpugo (button) mucked [Qh Kh]
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: MattBeary1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240625426875:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:11:56 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 1: Aaron Levy92 ($1.76 in chips) 
+Seat 2: Ramirres ($2.35 in chips) 
+Seat 3: Lorpugo ($6.56 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Seat 5: MattBeary1 ($1.98 in chips) 
+MattBeary1: posts small blind $0.01
+Aaron Levy92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ac]
+Ramirres: folds 
+Lorpugo: raises $0.04 to $0.06
+LongHart: folds 
+MattBeary1: folds 
+Aaron Levy92: calls $0.04
+*** FLOP *** [4h Ah 6c]
+Aaron Levy92: checks 
+Lorpugo: bets $0.07
+Aaron Levy92: raises $0.07 to $0.14
+Lorpugo: raises $0.21 to $0.35
+Aaron Levy92: raises $0.21 to $0.56
+Lorpugo: raises $5.94 to $6.50 and is all-in
+Aaron Levy92: calls $1.14 and is all-in
+Uncalled bet ($4.80) returned to Lorpugo
+*** TURN *** [4h Ah 6c] [9s]
+*** RIVER *** [4h Ah 6c 9s] [Qc]
+*** SHOW DOWN ***
+Aaron Levy92: shows [Ad 4d] (two pair, Aces and Fours)
+Lorpugo: shows [As Ac] (three of a kind, Aces)
+Lorpugo collected $3.41 from pot
+stocan13 leaves the table
+*** SUMMARY ***
+Total pot $3.53 | Rake $0.12 
+Board [4h Ah 6c 9s Qc]
+Seat 1: Aaron Levy92 (big blind) showed [Ad 4d] and lost with two pair, Aces and Fours
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo showed [As Ac] and won ($3.41) with three of a kind, Aces
+Seat 4: LongHart (button) folded before Flop (didn't bet)
+Seat 5: MattBeary1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240625447019:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:12:47 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 2: Ramirres ($2.35 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Seat 5: MattBeary1 ($1.97 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 4d]
+csw14kb joins the table at seat #6 
+LongHart: folds 
+MattBeary1: folds 
+Ramirres: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625452922:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:13:01 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: Ramirres ($2.34 in chips) 
+Seat 3: Lorpugo ($8.22 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Seat 5: MattBeary1 ($1.97 in chips) 
+Seat 6: csw14kb ($2 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+csw14kb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Ks]
+MattBeary1: folds 
+csw14kb: checks 
+Ramirres: raises $0.05 to $0.07
+Lorpugo: folds 
+LongHart: folds 
+csw14kb: folds 
+Uncalled bet ($0.05) returned to Ramirres
+Ramirres collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: Ramirres (button) collected ($0.07)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: LongHart (big blind) folded before Flop
+Seat 5: MattBeary1 folded before Flop (didn't bet)
+Seat 6: csw14kb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625465400:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:13:33 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 2: Ramirres ($2.39 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($1.98 in chips) 
+Seat 5: MattBeary1 ($1.97 in chips) 
+Seat 6: csw14kb ($1.98 in chips) 
+LongHart: posts small blind $0.01
+MattBeary1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5d]
+csw14kb: folds 
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: raises $0.04 to $0.06
+MattBeary1: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.04 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) collected ($0.04)
+Seat 5: MattBeary1 (big blind) folded before Flop
+Seat 6: csw14kb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625475967:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:13:59 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 2: Ramirres ($2.39 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($2 in chips) 
+Seat 5: MattBeary1 ($1.95 in chips) 
+Seat 6: csw14kb ($1.98 in chips) 
+MattBeary1: posts small blind $0.01
+csw14kb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 5d]
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: raises $0.04 to $0.06
+MattBeary1: calls $0.05
+csw14kb: calls $0.04
+*** FLOP *** [Ac Ad 3s]
+MattBeary1: bets $0.02
+csw14kb: folds 
+LongHart: calls $0.02
+*** TURN *** [Ac Ad 3s] [Tc]
+MattBeary1: bets $0.06
+LongHart: calls $0.06
+*** RIVER *** [Ac Ad 3s Tc] [9h]
+MattBeary1: bets $0.68
+LongHart: calls $0.68
+*** SHOW DOWN ***
+MattBeary1: shows [6h Ah] (three of a kind, Aces)
+LongHart: mucks hand 
+MattBeary1 collected $1.64 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.06 
+Board [Ac Ad 3s Tc 9h]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart (button) mucked [Qc Qh]
+Seat 5: MattBeary1 (small blind) showed [6h Ah] and won ($1.64) with three of a kind, Aces
+Seat 6: csw14kb (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240625492466:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:14:40 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 2: Ramirres ($2.39 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($1.18 in chips) 
+Seat 5: MattBeary1 ($2.77 in chips) 
+Seat 6: csw14kb ($1.92 in chips) 
+csw14kb: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7d]
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: calls $0.02
+csw14kb: calls $0.01
+Ramirres: raises $0.10 to $0.12
+MattBeary1: calls $0.10
+csw14kb: folds 
+*** FLOP *** [Qd Jh 3d]
+Ramirres: bets $0.10
+MattBeary1: folds 
+Uncalled bet ($0.10) returned to Ramirres
+Ramirres collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Qd Jh 3d]
+Seat 2: Ramirres (big blind) collected ($0.25)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 (button) folded on the Flop
+Seat 6: csw14kb (small blind) folded before Flop
+
+
+
+PokerStars Hand #240625508945:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:15:21 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 2: Ramirres ($2.52 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($1.98 in chips) 
+Seat 5: MattBeary1 ($2.65 in chips) 
+Seat 6: csw14kb ($1.90 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 4d]
+LongHart: folds 
+MattBeary1: calls $0.02
+csw14kb: folds 
+Ramirres: folds 
+Lorpugo: checks 
+*** FLOP *** [7d Ah 6s]
+Lorpugo: checks 
+MattBeary1: bets $0.12
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to MattBeary1
+MattBeary1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7d Ah 6s]
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 collected ($0.05)
+Seat 6: csw14kb (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625520885:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:15:51 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: Ramirres ($2.51 in chips) 
+Seat 3: Lorpugo ($8.19 in chips) 
+Seat 4: LongHart ($1.98 in chips) 
+Seat 5: MattBeary1 ($2.68 in chips) 
+Seat 6: csw14kb ($1.90 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 7h]
+MattBeary1: folds 
+csw14kb: folds 
+Ramirres: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to LongHart
+LongHart collected $0.02 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Ramirres (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: LongHart (big blind) collected ($0.02)
+Seat 5: MattBeary1 folded before Flop (didn't bet)
+Seat 6: csw14kb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625528587:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:16:10 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 2: Ramirres ($2.51 in chips) 
+Seat 3: Lorpugo ($8.18 in chips) 
+Seat 4: LongHart ($1.99 in chips) 
+Seat 5: MattBeary1 ($2.68 in chips) 
+Seat 6: csw14kb ($1.90 in chips) 
+LongHart: posts small blind $0.01
+MattBeary1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9d]
+csw14kb: folds 
+Ramirres: folds 
+Lorpugo: raises $0.04 to $0.06
+LongHart: folds 
+MattBeary1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: MattBeary1 (big blind) folded before Flop
+Seat 6: csw14kb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625538774:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:16:36 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 2: Ramirres ($2.51 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($1.98 in chips) 
+Seat 5: MattBeary1 ($2.66 in chips) 
+Seat 6: csw14kb ($1.90 in chips) 
+MattBeary1: posts small blind $0.01
+csw14kb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 3c]
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: calls $0.01
+csw14kb: checks 
+*** FLOP *** [Ts 9d 3h]
+MattBeary1: checks 
+csw14kb: checks 
+*** TURN *** [Ts 9d 3h] [Ac]
+MattBeary1: checks 
+csw14kb: checks 
+*** RIVER *** [Ts 9d 3h Ac] [Qh]
+MattBeary1: checks 
+csw14kb: bets $0.04
+MattBeary1: calls $0.04
+*** SHOW DOWN ***
+csw14kb: shows [6s Qs] (a pair of Queens)
+MattBeary1: mucks hand 
+csw14kb collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts 9d 3h Ac Qh]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart (button) folded before Flop (didn't bet)
+Seat 5: MattBeary1 (small blind) mucked [Jh 6d]
+Seat 6: csw14kb (big blind) showed [6s Qs] and won ($0.12) with a pair of Queens
+
+
+
+PokerStars Hand #240625552450:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:17:10 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 2: Ramirres ($2.51 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($1.98 in chips) 
+Seat 5: MattBeary1 ($2.60 in chips) 
+Seat 6: csw14kb ($1.96 in chips) 
+csw14kb: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Jd]
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: calls $0.02
+csw14kb: calls $0.01
+Ramirres: checks 
+*** FLOP *** [Qh 6d 3s]
+csw14kb: bets $0.06
+Ramirres: folds 
+MattBeary1: folds 
+Uncalled bet ($0.06) returned to csw14kb
+csw14kb collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qh 6d 3s]
+Seat 2: Ramirres (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 (button) folded on the Flop
+Seat 6: csw14kb (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #240625560987:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:17:31 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 2: Ramirres ($2.49 in chips) 
+Seat 3: Lorpugo ($8.21 in chips) 
+Seat 4: LongHart ($1.98 in chips) 
+Seat 5: MattBeary1 ($2.58 in chips) 
+Seat 6: csw14kb ($2 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Kh]
+LongHart: raises $0.04 to $0.06
+MattBeary1: folds 
+csw14kb: folds 
+Ramirres: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: LongHart collected ($0.05)
+Seat 5: MattBeary1 folded before Flop (didn't bet)
+Seat 6: csw14kb (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625568701:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:17:51 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: Ramirres ($2.48 in chips) 
+Seat 3: Lorpugo ($8.19 in chips) 
+Seat 4: LongHart ($2.01 in chips) 
+Seat 5: MattBeary1 ($2.58 in chips) 
+Seat 6: csw14kb ($2 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 5s]
+MattBeary1: calls $0.02
+csw14kb: folds 
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: raises $0.05 to $0.07
+MattBeary1: calls $0.05
+*** FLOP *** [Qd 6c 8c]
+LongHart: checks 
+MattBeary1: bets $0.06
+LongHart: calls $0.06
+*** TURN *** [Qd 6c 8c] [7d]
+LongHart: checks 
+MattBeary1: checks 
+*** RIVER *** [Qd 6c 8c 7d] [Tc]
+LongHart: bets $0.26
+MattBeary1: folds 
+Uncalled bet ($0.26) returned to LongHart
+LongHart collected $0.26 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qd 6c 8c 7d Tc]
+Seat 2: Ramirres (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: LongHart (big blind) collected ($0.26)
+Seat 5: MattBeary1 folded on the River
+Seat 6: csw14kb folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625592279:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:18:50 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 2: Ramirres ($2.48 in chips) 
+Seat 3: Lorpugo ($8.18 in chips) 
+Seat 4: LongHart ($2.14 in chips) 
+Seat 5: MattBeary1 ($2.45 in chips) 
+Seat 6: csw14kb ($2 in chips) 
+LongHart: posts small blind $0.01
+MattBeary1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Jc]
+csw14kb: raises $0.05 to $0.07
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: folds 
+Uncalled bet ($0.05) returned to csw14kb
+csw14kb collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: MattBeary1 (big blind) folded before Flop
+Seat 6: csw14kb collected ($0.05)
+
+
+
+PokerStars Hand #240625601786:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:19:14 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 2: Ramirres ($2.48 in chips) 
+Seat 3: Lorpugo ($8.18 in chips) 
+Seat 4: LongHart ($2.13 in chips) 
+Seat 5: MattBeary1 ($2.43 in chips) 
+Seat 6: csw14kb ($2.03 in chips) 
+MattBeary1: posts small blind $0.01
+csw14kb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6d]
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: raises $0.04 to $0.06
+MattBeary1: calls $0.05
+csw14kb: folds 
+*** FLOP *** [6c Qh 4s]
+csw14kb leaves the table
+MattBeary1: checks 
+LongHart: checks 
+*** TURN *** [6c Qh 4s] [Kc]
+MattBeary1: bets $0.10
+LongHart: calls $0.10
+*** RIVER *** [6c Qh 4s Kc] [2s]
+MattBeary1: bets $0.10
+LongHart: calls $0.10
+*** SHOW DOWN ***
+MattBeary1: shows [Kh 5s] (a pair of Kings)
+LongHart: shows [Kd Jh] (a pair of Kings - Queen+Jack kicker)
+LongHart collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [6c Qh 4s Kc 2s]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart (button) showed [Kd Jh] and won ($0.52) with a pair of Kings
+Seat 5: MattBeary1 (small blind) showed [Kh 5s] and lost with a pair of Kings
+Seat 6: csw14kb (big blind) folded before Flop
+
+
+
+PokerStars Hand #240625618619:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:19:56 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 2: Ramirres ($2.48 in chips) 
+Seat 3: Lorpugo ($8.18 in chips) 
+Seat 4: LongHart ($2.39 in chips) 
+Seat 5: MattBeary1 ($2.17 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Tc]
+LongHart: folds 
+MattBeary1: calls $0.02
+Ramirres: folds 
+Lorpugo: raises $0.08 to $0.10
+MattBeary1: calls $0.08
+*** FLOP *** [Kc 8h Td]
+Lorpugo: checks 
+MattBeary1: checks 
+*** TURN *** [Kc 8h Td] [7h]
+Lorpugo: checks 
+MattBeary1: checks 
+*** RIVER *** [Kc 8h Td 7h] [6c]
+baxterfindlay joins the table at seat #6 
+Lorpugo: bets $0.04
+MattBeary1: raises $0.16 to $0.20
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to MattBeary1
+MattBeary1 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Kc 8h Td 7h 6c]
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the River
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 (button) collected ($0.28)
+
+
+
+PokerStars Hand #240625644383:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:21:01 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: Ramirres ($2.47 in chips) 
+Seat 3: Lorpugo ($8.04 in chips) 
+Seat 4: LongHart ($2.39 in chips) 
+Seat 5: MattBeary1 ($2.31 in chips) 
+Seat 6: baxterfindlay ($1.42 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+baxterfindlay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 4d]
+MattBeary1: folds 
+baxterfindlay: checks 
+Ramirres: folds 
+Lorpugo: raises $0.08 to $0.10
+LongHart: folds 
+baxterfindlay: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 2: Ramirres (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.06)
+Seat 4: LongHart (big blind) folded before Flop
+Seat 5: MattBeary1 folded before Flop (didn't bet)
+Seat 6: baxterfindlay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625652309:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:21:21 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 2: Ramirres ($2.47 in chips) 
+Seat 3: Lorpugo ($8.08 in chips) 
+Seat 4: LongHart ($2.37 in chips) 
+Seat 5: MattBeary1 ($2.31 in chips) 
+Seat 6: baxterfindlay ($1.40 in chips) 
+LongHart: posts small blind $0.01
+MattBeary1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 3d]
+baxterfindlay: calls $0.02
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: checks 
+*** FLOP *** [Ts 4s 4d]
+MattBeary1: checks 
+baxterfindlay: bets $0.03
+MattBeary1: folds 
+Uncalled bet ($0.03) returned to baxterfindlay
+baxterfindlay collected $0.05 from pot
+baxterfindlay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ts 4s 4d]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: MattBeary1 (big blind) folded on the Flop
+Seat 6: baxterfindlay collected ($0.05)
+
+
+
+PokerStars Hand #240625663249:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:21:49 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 2: Ramirres ($2.47 in chips) 
+Seat 3: Lorpugo ($8.08 in chips) 
+Seat 4: LongHart ($2.36 in chips) 
+Seat 5: MattBeary1 ($2.29 in chips) 
+Seat 6: baxterfindlay ($1.43 in chips) 
+MattBeary1: posts small blind $0.01
+baxterfindlay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 6c]
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: raises $0.04 to $0.06
+MattBeary1: folds 
+baxterfindlay: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart (button) collected ($0.05)
+Seat 5: MattBeary1 (small blind) folded before Flop
+Seat 6: baxterfindlay (big blind) folded before Flop
+
+
+
+PokerStars Hand #240625669173:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:22:04 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 2: Ramirres ($2.47 in chips) 
+Seat 3: Lorpugo ($8.08 in chips) 
+Seat 4: LongHart ($2.39 in chips) 
+Seat 5: MattBeary1 ($2.28 in chips) 
+Seat 6: baxterfindlay ($1.41 in chips) 
+baxterfindlay: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6h]
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: folds 
+baxterfindlay: raises $0.02 to $0.04
+Ramirres: folds 
+Uncalled bet ($0.02) returned to baxterfindlay
+baxterfindlay collected $0.04 from pot
+Aaron Levy92 leaves the table
+baxterfindlay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Ramirres (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 (button) folded before Flop (didn't bet)
+Seat 6: baxterfindlay (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240625676051:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:22:21 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 2: Ramirres ($2.45 in chips) 
+Seat 3: Lorpugo ($8.08 in chips) 
+Seat 4: LongHart ($2.39 in chips) 
+Seat 5: MattBeary1 ($2.28 in chips) 
+Seat 6: baxterfindlay ($1.43 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Jc]
+LongHart: folds 
+Neske72 joins the table at seat #1 
+MattBeary1: raises $0.02 to $0.04
+baxterfindlay: folds 
+Ramirres: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [4h 3s 9h]
+Lorpugo: checks 
+MattBeary1: checks 
+*** TURN *** [4h 3s 9h] [6c]
+Lorpugo: bets $0.06
+MattBeary1: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4h 3s 9h 6c]
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.09)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 folded on the Turn
+Seat 6: baxterfindlay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625693871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:23:06 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 1: Neske72 ($1.60 in chips) 
+Seat 2: Ramirres ($2.44 in chips) 
+Seat 3: Lorpugo ($8.13 in chips) 
+Seat 4: LongHart ($2.39 in chips) 
+Seat 5: MattBeary1 ($2.24 in chips) 
+Seat 6: baxterfindlay ($1.43 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+Neske72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Jh]
+MattBeary1: raises $0.04 to $0.06
+baxterfindlay: folds 
+Neske72: folds 
+Ramirres: folds 
+Lorpugo: raises $0.14 to $0.20
+LongHart: folds 
+MattBeary1: calls $0.14
+*** FLOP *** [6s 5s 3s]
+Lorpugo: checks 
+MattBeary1: checks 
+*** TURN *** [6s 5s 3s] [6c]
+Lorpugo: bets $7.93 and is all-in
+MattBeary1: folds 
+Uncalled bet ($7.93) returned to Lorpugo
+Lorpugo collected $0.42 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [6s 5s 3s 6c]
+Seat 1: Neske72 folded before Flop (didn't bet)
+Seat 2: Ramirres (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.42)
+Seat 4: LongHart (big blind) folded before Flop
+Seat 5: MattBeary1 folded on the Turn
+Seat 6: baxterfindlay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625712971:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:23:54 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 1: Neske72 ($1.58 in chips) 
+Seat 2: Ramirres ($2.44 in chips) 
+Seat 3: Lorpugo ($8.35 in chips) 
+Seat 4: LongHart ($2.37 in chips) 
+Seat 5: MattBeary1 ($2.04 in chips) 
+Seat 6: baxterfindlay ($1.43 in chips) 
+LongHart: posts small blind $0.01
+MattBeary1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9h]
+baxterfindlay: calls $0.02
+Neske72: calls $0.02
+Ramirres: folds 
+Lorpugo: raises $0.10 to $0.12
+LongHart: folds 
+MattBeary1: calls $0.10
+baxterfindlay: calls $0.10
+Neske72: calls $0.10
+*** FLOP *** [As 2c 7d]
+MattBeary1: checks 
+baxterfindlay: bets $0.24
+Neske72: folds 
+Lorpugo: folds 
+MattBeary1: folds 
+Uncalled bet ($0.24) returned to baxterfindlay
+baxterfindlay collected $0.47 from pot
+baxterfindlay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [As 2c 7d]
+Seat 1: Neske72 folded on the Flop
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded on the Flop
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: MattBeary1 (big blind) folded on the Flop
+Seat 6: baxterfindlay collected ($0.47)
+
+
+
+PokerStars Hand #240625733479:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:24:45 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 1: Neske72 ($1.46 in chips) 
+Seat 2: Ramirres ($2.44 in chips) 
+Seat 3: Lorpugo ($8.23 in chips) 
+Seat 4: LongHart ($2.36 in chips) 
+Seat 5: MattBeary1 ($1.92 in chips) 
+Seat 6: baxterfindlay ($1.78 in chips) 
+MattBeary1: posts small blind $0.01
+baxterfindlay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 6c]
+Neske72: raises $0.02 to $0.04
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: folds 
+baxterfindlay: calls $0.02
+*** FLOP *** [2c 2h 3c]
+baxterfindlay: bets $0.02
+Neske72: raises $0.06 to $0.08
+baxterfindlay: folds 
+Uncalled bet ($0.06) returned to Neske72
+Neske72 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2c 2h 3c]
+Seat 1: Neske72 collected ($0.13)
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart (button) folded before Flop (didn't bet)
+Seat 5: MattBeary1 (small blind) folded before Flop
+Seat 6: baxterfindlay (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240625756777:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:25:44 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 1: Neske72 ($1.53 in chips) 
+Seat 2: Ramirres ($2.44 in chips) 
+Seat 3: Lorpugo ($8.23 in chips) 
+Seat 4: LongHart ($2.36 in chips) 
+Seat 5: MattBeary1 ($1.91 in chips) 
+Seat 6: baxterfindlay ($1.72 in chips) 
+baxterfindlay: posts small blind $0.01
+Neske72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 3c]
+Ramirres: folds 
+Lorpugo: calls $0.02
+LongHart: folds 
+MattBeary1: calls $0.02
+baxterfindlay: calls $0.01
+Neske72: raises $0.08 to $0.10
+Lorpugo: calls $0.08
+MattBeary1: calls $0.08
+baxterfindlay: calls $0.08
+*** FLOP *** [Td 9d 5s]
+baxterfindlay: bets $0.20
+Neske72: calls $0.20
+Lorpugo: folds 
+MattBeary1: folds 
+*** TURN *** [Td 9d 5s] [Qs]
+baxterfindlay: bets $0.39
+Neske72: calls $0.39
+*** RIVER *** [Td 9d 5s Qs] [Jd]
+baxterfindlay: bets $0.76
+Neske72: raises $0.08 to $0.84 and is all-in
+baxterfindlay: calls $0.08
+*** SHOW DOWN ***
+Neske72: shows [9c Kh] (a straight, Nine to King)
+baxterfindlay: shows [Qd 8d] (a straight flush, Eight to Queen)
+baxterfindlay collected $3.15 from pot
+*** SUMMARY ***
+Total pot $3.26 | Rake $0.11 
+Board [Td 9d 5s Qs Jd]
+Seat 1: Neske72 (big blind) showed [9c Kh] and lost with a straight, Nine to King
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Flop
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 (button) folded on the Flop
+Seat 6: baxterfindlay (small blind) showed [Qd 8d] and won ($3.15) with a straight flush, Eight to Queen
+
+
+
+PokerStars Hand #240625785870:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:26:57 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 2: Ramirres ($2.44 in chips) 
+Seat 3: Lorpugo ($8.13 in chips) 
+Seat 4: LongHart ($2.36 in chips) 
+Seat 5: MattBeary1 ($2 in chips) 
+Seat 6: baxterfindlay ($3.34 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5d]
+LongHart: folds 
+MattBeary1: folds 
+baxterfindlay: folds 
+Neske72 leaves the table
+Ramirres: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 folded before Flop (didn't bet)
+Seat 6: baxterfindlay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625792030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:27:13 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: Ramirres ($2.43 in chips) 
+Seat 3: Lorpugo ($8.14 in chips) 
+Seat 4: LongHart ($2.36 in chips) 
+Seat 5: MattBeary1 ($2 in chips) 
+Seat 6: baxterfindlay ($3.34 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5h]
+DeriAfonso joins the table at seat #1 
+MattBeary1: calls $0.02
+baxterfindlay: folds 
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: raises $0.05 to $0.07
+MattBeary1: calls $0.05
+*** FLOP *** [7s 9h Qs]
+LongHart: checks 
+MattBeary1: checks 
+*** TURN *** [7s 9h Qs] [8s]
+LongHart: checks 
+MattBeary1: checks 
+*** RIVER *** [7s 9h Qs 8s] [Th]
+LongHart: bets $0.07
+MattBeary1: folds 
+Uncalled bet ($0.07) returned to LongHart
+LongHart collected $0.14 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 9h Qs 8s Th]
+Seat 2: Ramirres (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: LongHart (big blind) collected ($0.14)
+Seat 5: MattBeary1 folded on the River
+Seat 6: baxterfindlay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625811009:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:28:01 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 2: Ramirres ($2.43 in chips) 
+Seat 3: Lorpugo ($8.13 in chips) 
+Seat 4: LongHart ($2.43 in chips) 
+Seat 5: MattBeary1 ($1.93 in chips) 
+Seat 6: baxterfindlay ($3.34 in chips) 
+LongHart: posts small blind $0.01
+MattBeary1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 9s]
+baxterfindlay: calls $0.02
+Ramirres: raises $0.06 to $0.08
+Lorpugo: folds 
+DeriAfonso leaves the table
+LongHart: folds 
+MattBeary1: folds 
+baxterfindlay: calls $0.06
+*** FLOP *** [9h 6d Jd]
+lauti214 joins the table at seat #1 
+baxterfindlay: bets $0.06
+Ramirres: raises $0.12 to $0.18
+baxterfindlay: calls $0.12
+*** TURN *** [9h 6d Jd] [4d]
+baxterfindlay: bets $0.27
+Ramirres: calls $0.27
+*** RIVER *** [9h 6d Jd 4d] [5s]
+baxterfindlay: checks 
+Ramirres: bets $0.70
+baxterfindlay: calls $0.70
+*** SHOW DOWN ***
+Ramirres: shows [Kd Qc] (high card King)
+baxterfindlay: shows [Js Qd] (a pair of Jacks)
+baxterfindlay collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.09 
+Board [9h 6d Jd 4d 5s]
+Seat 2: Ramirres showed [Kd Qc] and lost with high card King
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 5: MattBeary1 (big blind) folded before Flop
+Seat 6: baxterfindlay showed [Js Qd] and won ($2.40) with a pair of Jacks
+
+
+
+PokerStars Hand #240625848698:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:29:35 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($8.13 in chips) 
+Seat 4: LongHart ($2.42 in chips) 
+Seat 5: MattBeary1 ($1.98 in chips) 
+Seat 6: baxterfindlay ($4.51 in chips) 
+MattBeary1: posts small blind $0.01
+baxterfindlay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 8h]
+Ramirres: folds 
+Lorpugo: raises $0.02 to $0.04
+LongHart: folds 
+MattBeary1: calls $0.03
+baxterfindlay: calls $0.02
+*** FLOP *** [4d 9c Qh]
+MattBeary1: checks 
+baxterfindlay: bets $0.04
+Lorpugo: folds 
+MattBeary1: calls $0.04
+*** TURN *** [4d 9c Qh] [6d]
+MattBeary1: checks 
+baxterfindlay: bets $0.06
+MattBeary1: folds 
+Uncalled bet ($0.06) returned to baxterfindlay
+baxterfindlay collected $0.19 from pot
+baxterfindlay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4d 9c Qh 6d]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Flop
+Seat 4: LongHart (button) folded before Flop (didn't bet)
+Seat 5: MattBeary1 (small blind) folded on the Turn
+Seat 6: baxterfindlay (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #240625873591:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:30:37 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 1: lauti214 ($2 in chips) 
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($8.09 in chips) 
+Seat 4: LongHart ($2.42 in chips) 
+Seat 5: MattBeary1 ($1.90 in chips) 
+Seat 6: baxterfindlay ($4.62 in chips) 
+baxterfindlay: posts small blind $0.01
+lauti214: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8d]
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: folds 
+MattBeary1: folds 
+baxterfindlay: calls $0.01
+lauti214: raises $0.04 to $0.06
+baxterfindlay: calls $0.04
+*** FLOP *** [As Th Jh]
+baxterfindlay: checks 
+lauti214: checks 
+*** TURN *** [As Th Jh] [3d]
+baxterfindlay: checks 
+lauti214: bets $0.12
+baxterfindlay: folds 
+Uncalled bet ($0.12) returned to lauti214
+lauti214 collected $0.12 from pot
+lauti214: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As Th Jh 3d]
+Seat 1: lauti214 (big blind) collected ($0.12)
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 (button) folded before Flop (didn't bet)
+Seat 6: baxterfindlay (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240625885374:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:31:06 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 1: lauti214 ($2.06 in chips) 
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($8.09 in chips) 
+Seat 4: LongHart ($2.42 in chips) 
+Seat 5: MattBeary1 ($1.90 in chips) 
+Seat 6: baxterfindlay ($4.56 in chips) 
+lauti214: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2d]
+Lorpugo: folds 
+LongHart: raises $0.04 to $0.06
+MattBeary1: calls $0.06
+baxterfindlay: folds 
+lauti214: calls $0.05
+Ramirres: folds 
+*** FLOP *** [Js 4d 2s]
+lauti214: checks 
+LongHart: checks 
+MattBeary1: checks 
+*** TURN *** [Js 4d 2s] [5d]
+lauti214: bets $0.10
+LongHart: folds 
+MattBeary1: folds 
+Uncalled bet ($0.10) returned to lauti214
+lauti214 collected $0.19 from pot
+lauti214: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Js 4d 2s 5d]
+Seat 1: lauti214 (small blind) collected ($0.19)
+Seat 2: Ramirres (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart folded on the Turn
+Seat 5: MattBeary1 folded on the Turn
+Seat 6: baxterfindlay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625900043:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:31:43 ET
+Table 'Euanthe II' 6-max Seat #1 is the button
+Seat 1: lauti214 ($2.19 in chips) 
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($8.09 in chips) 
+Seat 4: LongHart ($2.36 in chips) 
+Seat 5: MattBeary1 ($1.84 in chips) 
+Seat 6: baxterfindlay ($4.56 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8d]
+LongHart: folds 
+MattBeary1: folds 
+MattBeary1 leaves the table
+baxterfindlay: folds 
+lauti214 has timed out
+lauti214: folds 
+Ramirres: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: lauti214 (button) folded before Flop (didn't bet)
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: MattBeary1 folded before Flop (didn't bet)
+Seat 6: baxterfindlay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625908363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:32:04 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($8.10 in chips) 
+Seat 4: LongHart ($2.36 in chips) 
+Seat 6: baxterfindlay ($4.56 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 8h]
+baxterfindlay: folds 
+Ramirres: folds 
+lauti214 leaves the table
+Lorpugo: raises $0.04 to $0.06
+LongHart: calls $0.04
+*** FLOP *** [4c Td 9d]
+Lorpugo: checks 
+LongHart: checks 
+*** TURN *** [4c Td 9d] [Kc]
+Lorpugo: checks 
+LongHart: checks 
+*** RIVER *** [4c Td 9d Kc] [4h]
+Lorpugo: bets $0.08
+LongHart: calls $0.08
+*** SHOW DOWN ***
+Lorpugo: shows [Ac 8h] (a pair of Fours)
+LongHart: shows [2s 2d] (two pair, Fours and Deuces)
+LongHart collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4c Td 9d Kc 4h]
+Seat 2: Ramirres (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) showed [Ac 8h] and lost with a pair of Fours
+Seat 4: LongHart (big blind) showed [2s 2d] and won ($0.27) with two pair, Fours and Deuces
+Seat 6: baxterfindlay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625924854:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:32:46 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($7.96 in chips) 
+Seat 4: LongHart ($2.49 in chips) 
+Seat 6: baxterfindlay ($4.56 in chips) 
+LongHart: posts small blind $0.01
+baxterfindlay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Ts]
+Ramirres: folds 
+Lorpugo: raises $0.04 to $0.06
+LongHart: folds 
+baxterfindlay: calls $0.04
+*** FLOP *** [4d Kd 8d]
+baxterfindlay: checks 
+Lorpugo: bets $0.04
+baxterfindlay: calls $0.04
+*** TURN *** [4d Kd 8d] [Th]
+chonibg30 joins the table at seat #5 
+baxterfindlay: checks 
+Lorpugo: bets $0.14
+baxterfindlay: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4d Kd 8d Th]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.20)
+Seat 4: LongHart (small blind) folded before Flop
+Seat 6: baxterfindlay (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240625943209:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:33:33 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($8.06 in chips) 
+Seat 4: LongHart ($2.48 in chips) 
+Seat 6: baxterfindlay ($4.46 in chips) 
+baxterfindlay: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3d]
+Lorpugo: folds 
+LongHart: folds 
+baxterfindlay: folds 
+Uncalled bet ($0.01) returned to Ramirres
+Ramirres collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Ramirres (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart (button) folded before Flop (didn't bet)
+Seat 6: baxterfindlay (small blind) folded before Flop
+
+
+
+PokerStars Hand #240625946569:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:33:41 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 2: Ramirres ($2.01 in chips) 
+Seat 3: Lorpugo ($8.06 in chips) 
+Seat 4: LongHart ($2.48 in chips) 
+Seat 6: baxterfindlay ($4.45 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Th]
+iMarriedMyFish joins the table at seat #1 
+LongHart: raises $0.04 to $0.06
+baxterfindlay: folds 
+Ramirres: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to LongHart
+LongHart collected $0.05 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Ramirres (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: LongHart collected ($0.05)
+Seat 6: baxterfindlay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240625953324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:33:58 ET
+Table 'Euanthe II' 6-max Seat #2 is the button
+Seat 2: Ramirres ($2 in chips) 
+Seat 3: Lorpugo ($8.04 in chips) 
+Seat 4: LongHart ($2.51 in chips) 
+Seat 6: baxterfindlay ($4.45 in chips) 
+Lorpugo: posts small blind $0.01
+LongHart: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 3d]
+baxterfindlay: calls $0.02
+Ramirres: raises $0.05 to $0.07
+Lorpugo: folds 
+LongHart: calls $0.05
+baxterfindlay: calls $0.05
+*** FLOP *** [5c 5d 5s]
+LongHart: checks 
+baxterfindlay: checks 
+Ramirres: bets $0.12
+LongHart: folds 
+baxterfindlay: folds 
+Uncalled bet ($0.12) returned to Ramirres
+Ramirres collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5c 5d 5s]
+Seat 2: Ramirres (button) collected ($0.21)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: LongHart (big blind) folded on the Flop
+Seat 6: baxterfindlay folded on the Flop
+
+
+
+PokerStars Hand #240625976923:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:34:57 ET
+Table 'Euanthe II' 6-max Seat #3 is the button
+Seat 2: Ramirres ($2.14 in chips) 
+Seat 3: Lorpugo ($8.03 in chips) 
+Seat 4: LongHart ($2.44 in chips) 
+Seat 5: chonibg30 ($1.60 in chips) 
+Seat 6: baxterfindlay ($4.38 in chips) 
+LongHart: posts small blind $0.01
+chonibg30: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8h]
+baxterfindlay: calls $0.02
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: calls $0.01
+chonibg30: checks 
+*** FLOP *** [2d Th 8d]
+LongHart: checks 
+chonibg30: bets $0.06
+baxterfindlay: calls $0.06
+LongHart: folds 
+*** TURN *** [2d Th 8d] [4d]
+chonibg30: bets $0.17
+baxterfindlay: calls $0.17
+*** RIVER *** [2d Th 8d 4d] [5s]
+chonibg30: checks 
+baxterfindlay: checks 
+*** SHOW DOWN ***
+chonibg30: shows [Td 8c] (two pair, Tens and Eights)
+baxterfindlay: shows [2s 2c] (three of a kind, Deuces)
+baxterfindlay collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [2d Th 8d 4d 5s]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: LongHart (small blind) folded on the Flop
+Seat 5: chonibg30 (big blind) showed [Td 8c] and lost with two pair, Tens and Eights
+Seat 6: baxterfindlay showed [2s 2c] and won ($0.50) with three of a kind, Deuces
+
+
+
+PokerStars Hand #240625997915:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:35:50 ET
+Table 'Euanthe II' 6-max Seat #4 is the button
+Seat 2: Ramirres ($2.14 in chips) 
+Seat 3: Lorpugo ($8.03 in chips) 
+Seat 4: LongHart ($2.42 in chips) 
+Seat 5: chonibg30 ($1.35 in chips) 
+Seat 6: baxterfindlay ($4.63 in chips) 
+chonibg30: posts small blind $0.01
+baxterfindlay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 7d]
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: folds 
+chonibg30: calls $0.01
+baxterfindlay: checks 
+*** FLOP *** [7c 7h 2d]
+chonibg30: checks 
+baxterfindlay: checks 
+*** TURN *** [7c 7h 2d] [Jc]
+chonibg30: checks 
+baxterfindlay: bets $0.02
+chonibg30: folds 
+Uncalled bet ($0.02) returned to baxterfindlay
+baxterfindlay collected $0.04 from pot
+baxterfindlay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7c 7h 2d Jc]
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart (button) folded before Flop (didn't bet)
+Seat 5: chonibg30 (small blind) folded on the Turn
+Seat 6: baxterfindlay (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #240626013891:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:36:29 ET
+Table 'Euanthe II' 6-max Seat #5 is the button
+Seat 1: iMarriedMyFish ($2 in chips) 
+Seat 2: Ramirres ($2.14 in chips) 
+Seat 3: Lorpugo ($8.03 in chips) 
+Seat 4: LongHart ($2.42 in chips) 
+Seat 5: chonibg30 ($1.98 in chips) 
+Seat 6: baxterfindlay ($4.65 in chips) 
+baxterfindlay: posts small blind $0.01
+iMarriedMyFish: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 5h]
+Ramirres: folds 
+Lorpugo: folds 
+LongHart: folds 
+chonibg30: folds 
+baxterfindlay: calls $0.01
+iMarriedMyFish: raises $0.04 to $0.06
+chonibg30 leaves the table
+baxterfindlay: calls $0.04
+*** FLOP *** [8s 2c Ac]
+baxterfindlay: bets $0.04
+Zogu255 joins the table at seat #5 
+iMarriedMyFish: raises $0.10 to $0.14
+baxterfindlay: folds 
+Uncalled bet ($0.10) returned to iMarriedMyFish
+iMarriedMyFish collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8s 2c Ac]
+Seat 1: iMarriedMyFish (big blind) collected ($0.19)
+Seat 2: Ramirres folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart folded before Flop (didn't bet)
+Seat 5: chonibg30 (button) folded before Flop (didn't bet)
+Seat 6: baxterfindlay (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240626031989:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/22 15:37:15 ET
+Table 'Euanthe II' 6-max Seat #6 is the button
+Seat 1: iMarriedMyFish ($2.09 in chips) 
+Seat 2: Ramirres ($2.14 in chips) 
+Seat 3: Lorpugo ($8.03 in chips) 
+Seat 4: LongHart ($2.42 in chips) 
+Seat 5: Zogu255 ($2 in chips) 
+Seat 6: baxterfindlay ($4.55 in chips) 
+iMarriedMyFish: posts small blind $0.01
+Ramirres: posts big blind $0.02
+Zogu255: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Kc]
+Lorpugo: folds 
+LongHart: raises $0.07 to $0.09
+Zogu255: folds 
+baxterfindlay: calls $0.09
+iMarriedMyFish: folds 
+Ramirres: folds 
+*** FLOP *** [8d Jh 4h]
+LongHart: bets $0.11
+baxterfindlay: calls $0.11
+*** TURN *** [8d Jh 4h] [9c]
+LongHart: bets $0.22
+baxterfindlay: folds 
+Uncalled bet ($0.22) returned to LongHart
+LongHart collected $0.43 from pot
+LongHart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8d Jh 4h 9c]
+Seat 1: iMarriedMyFish (small blind) folded before Flop
+Seat 2: Ramirres (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: LongHart collected ($0.43)
+Seat 5: Zogu255 folded before Flop (didn't bet)
+Seat 6: baxterfindlay (button) folded on the Turn
+
+
+

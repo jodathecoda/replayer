@@ -1,0 +1,3634 @@
+﻿PokerStars Hand #240733388896:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:08:01 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($0.79 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: Lex1974 ($1.60 in chips) 
+Seat 5: Raspberry_C ($7.19 in chips) 
+Seat 6: Mikeloko182 ($2.01 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ts]
+Lex1974: folds 
+Raspberry_C: raises $0.04 to $0.06
+Mikeloko182: folds 
+gelopoly: raises $0.06 to $0.12
+Lorpugo: folds 
+Raspberry_C: calls $0.06
+*** FLOP *** [3s 2c As]
+gelopoly: checks 
+Raspberry_C: checks 
+*** TURN *** [3s 2c As] [9h]
+gelopoly: bets $0.67 and is all-in
+Raspberry_C: folds 
+Uncalled bet ($0.67) returned to gelopoly
+gelopoly collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [3s 2c As 9h]
+Seat 1: gelopoly (small blind) collected ($0.25)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 5: Raspberry_C folded on the Turn
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733404363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:08:32 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($0.92 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: Lex1974 ($1.60 in chips) 
+Seat 5: Raspberry_C ($7.07 in chips) 
+Seat 6: Mikeloko182 ($2.01 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kh]
+Raspberry_C: raises $0.04 to $0.06
+Mikeloko182: folds 
+gelopoly: raises $0.86 to $0.92 and is all-in
+Lorpugo: folds 
+Lex1974: folds 
+Raspberry_C: folds 
+Uncalled bet ($0.86) returned to gelopoly
+gelopoly collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: gelopoly (button) collected ($0.15)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 5: Raspberry_C folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733412402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:08:49 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.01 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Lex1974 ($1.58 in chips) 
+Seat 6: Mikeloko182 ($2.01 in chips) 
+Lex1974: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 7d]
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+Mikeloko182: calls $0.04
+*** FLOP *** [5c 6c 6h]
+Raspberry_C leaves the table
+Mikeloko182: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [5c 6c 6h] [4h]
+Mikeloko182: bets $0.26
+andrim joins the table at seat #5 
+Lorpugo: calls $0.26
+*** RIVER *** [5c 6c 6h 4h] [2c]
+Mikeloko182: bets $1.28
+Lorpugo: folds 
+Uncalled bet ($1.28) returned to Mikeloko182
+Mikeloko182 collected $0.70 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [5c 6c 6h 4h 2c]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the River
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) collected ($0.70)
+
+
+
+PokerStars Hand #240733443839:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:09:54 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.01 in chips) 
+Seat 2: Lorpugo ($1.21 in chips) 
+Seat 3: Lex1974 ($1.57 in chips) 
+Seat 6: Mikeloko182 ($2.35 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Jh]
+Lorpugo: raises $0.04 to $0.06
+Lex1974: calls $0.06
+Mikeloko182: folds 
+gelopoly: folds 
+*** FLOP *** [8c 8h 5d]
+Lorpugo: bets $0.07
+Lex1974: calls $0.07
+*** TURN *** [8c 8h 5d] [Ad]
+Lorpugo: checks 
+Lex1974: bets $0.14
+Lorpugo: calls $0.14
+*** RIVER *** [8c 8h 5d Ad] [3h]
+Lorpugo: checks 
+Lex1974: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ah Jh] (two pair, Aces and Eights)
+Lex1974: mucks hand 
+Lorpugo collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [8c 8h 5d Ad 3h]
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo showed [Ah Jh] and won ($0.55) with two pair, Aces and Eights
+Seat 3: Lex1974 (button) mucked [9c Jc]
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733464556:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:10:37 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($0.99 in chips) 
+Seat 2: Lorpugo ($1.49 in chips) 
+Seat 3: Lex1974 ($1.30 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.34 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ks]
+Lex1974: folds 
+andrim: checks 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: checks 
+*** FLOP *** [Qd Js 3c]
+Lorpugo: checks 
+andrim: checks 
+*** TURN *** [Qd Js 3c] [Th]
+Lorpugo: checks 
+andrim: checks 
+*** RIVER *** [Qd Js 3c Th] [Kh]
+Lorpugo: checks 
+andrim: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7h Ks] (a pair of Kings)
+andrim: shows [Kc 3d] (two pair, Kings and Threes)
+andrim collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qd Js 3c Th Kh]
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [7h Ks] and lost with a pair of Kings
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 5: andrim showed [Kc 3d] and won ($0.05) with two pair, Kings and Threes
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733490927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:11:31 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($1.47 in chips) 
+Seat 3: Lex1974 ($1.30 in chips) 
+Seat 5: andrim ($2.03 in chips) 
+Seat 6: Mikeloko182 ($2.34 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Qh]
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733498030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:11:46 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($1.49 in chips) 
+Seat 3: Lex1974 ($1.28 in chips) 
+Seat 4: rkkn ($2.19 in chips) 
+Seat 5: andrim ($2.03 in chips) 
+Seat 6: Mikeloko182 ($2.34 in chips) 
+Lex1974: posts small blind $0.01
+rkkn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4c]
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+rkkn: calls $0.04
+*** FLOP *** [Ks 5c 9d]
+rkkn: checks 
+Lorpugo: bets $0.07
+rkkn: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks 5c 9d]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.13)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: rkkn (big blind) folded on the Flop
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733518695:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:12:29 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($1.56 in chips) 
+Seat 3: Lex1974 ($1.27 in chips) 
+Seat 4: rkkn ($2.13 in chips) 
+Seat 5: andrim ($2.03 in chips) 
+Seat 6: Mikeloko182 ($2.34 in chips) 
+rkkn: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6c]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: raises $0.03 to $0.05
+andrim: folds 
+Uncalled bet ($0.03) returned to rkkn
+rkkn collected $0.04 from pot
+rkkn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: rkkn (small blind) collected ($0.04)
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733531302:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:12:55 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($1.56 in chips) 
+Seat 3: Lex1974 ($1.27 in chips) 
+Seat 4: rkkn ($2.15 in chips) 
+Seat 5: andrim ($2.01 in chips) 
+Seat 6: Mikeloko182 ($2.34 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 8s]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: calls $0.02
+rkkn: folds 
+andrim: calls $0.01
+Mikeloko182: checks 
+*** FLOP *** [8d 6h 8h]
+andrim: checks 
+Mikeloko182: checks 
+Lex1974: checks 
+*** TURN *** [8d 6h 8h] [6d]
+andrim: checks 
+Mikeloko182: checks 
+Lex1974: checks 
+*** RIVER *** [8d 6h 8h 6d] [Th]
+andrim: bets $0.02
+Mikeloko182: folds 
+Lex1974: folds 
+Uncalled bet ($0.02) returned to andrim
+andrim collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8d 6h 8h 6d Th]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded on the River
+Seat 4: rkkn (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) collected ($0.06)
+Seat 6: Mikeloko182 (big blind) folded on the River
+
+
+
+PokerStars Hand #240733558277:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:13:50 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($1.56 in chips) 
+Seat 3: Lex1974 ($1.25 in chips) 
+Seat 4: rkkn ($2.15 in chips) 
+Seat 5: andrim ($2.05 in chips) 
+Seat 6: Mikeloko182 ($2.32 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ad]
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.01) returned to gelopoly
+gelopoly collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733569196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:14:13 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($0.99 in chips) 
+Seat 2: Lorpugo ($1.56 in chips) 
+Seat 3: Lex1974 ($1.25 in chips) 
+Seat 4: rkkn ($2.15 in chips) 
+Seat 5: andrim ($2.05 in chips) 
+Seat 6: Mikeloko182 ($2.31 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 5d]
+Lex1974: folds 
+rkkn: folds 
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5s 4d Ah]
+gelopoly: bets $0.06
+Lorpugo: calls $0.06
+andrim: folds 
+*** TURN *** [5s 4d Ah] [4s]
+gelopoly: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to gelopoly
+gelopoly collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5s 4d Ah 4s]
+Seat 1: gelopoly (small blind) collected ($0.17)
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim folded on the Flop
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733589439:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:14:56 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.08 in chips) 
+Seat 2: Lorpugo ($1.48 in chips) 
+Seat 3: Lex1974 ($1.25 in chips) 
+Seat 4: rkkn ($2.15 in chips) 
+Seat 5: andrim ($2.03 in chips) 
+Seat 6: Mikeloko182 ($2.31 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7d]
+rkkn: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+Uncalled bet ($0.04) returned to rkkn
+rkkn collected $0.05 from pot
+rkkn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 4: rkkn collected ($0.05)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733599050:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:15:16 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.08 in chips) 
+Seat 2: Lorpugo ($1.47 in chips) 
+Seat 3: Lex1974 ($1.23 in chips) 
+Seat 4: rkkn ($2.18 in chips) 
+Seat 5: andrim ($2.03 in chips) 
+Seat 6: Mikeloko182 ($2.31 in chips) 
+Lex1974: posts small blind $0.01
+rkkn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ah]
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: calls $0.05
+rkkn: folds 
+*** FLOP *** [3d Js Ac]
+Lex1974: bets $0.14
+Lorpugo: raises $0.21 to $0.35
+Lex1974: raises $0.82 to $1.17 and is all-in
+Lorpugo: calls $0.82
+*** TURN *** [3d Js Ac] [5h]
+*** RIVER *** [3d Js Ac 5h] [9h]
+*** SHOW DOWN ***
+Lex1974: shows [As Kc] (a pair of Aces)
+Lorpugo: shows [Kd Ah] (a pair of Aces)
+Lex1974 collected $1.19 from pot
+Lorpugo collected $1.19 from pot
+*** SUMMARY ***
+Total pot $2.48 | Rake $0.10 
+Board [3d Js Ac 5h 9h]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [Kd Ah] and won ($1.19) with a pair of Aces
+Seat 3: Lex1974 (small blind) showed [As Kc] and won ($1.19) with a pair of Aces
+Seat 4: rkkn (big blind) folded before Flop
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733629369:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:16:19 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.08 in chips) 
+Seat 2: Lorpugo ($1.43 in chips) 
+Seat 3: Lex1974 ($1.19 in chips) 
+Seat 4: rkkn ($2.16 in chips) 
+Seat 5: andrim ($2.03 in chips) 
+Seat 6: Mikeloko182 ($2.31 in chips) 
+rkkn: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 7d]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+rkkn: folds 
+andrim: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: rkkn (small blind) folded before Flop
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733637274:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:16:36 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.08 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: Lex1974 ($1.19 in chips) 
+Seat 4: rkkn ($2.15 in chips) 
+Seat 5: andrim ($2.01 in chips) 
+Seat 6: Mikeloko182 ($2.31 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 6c]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: raises $0.04 to $0.06
+rkkn: folds 
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.04) returned to Lex1974
+Lex1974 collected $0.05 from pot
+Lex1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 collected ($0.05)
+Seat 4: rkkn (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240733647031:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:16:56 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.08 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: Lex1974 ($1.22 in chips) 
+Seat 4: rkkn ($2.15 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.29 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 2d]
+Lorpugo: folds 
+Lex1974: calls $0.02
+rkkn: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lex1974: calls $0.04
+*** FLOP *** [Js Ah 2s]
+Lex1974: checks 
+rkkn: bets $0.05
+Lex1974: folds 
+Uncalled bet ($0.05) returned to rkkn
+rkkn collected $0.14 from pot
+rkkn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Js Ah 2s]
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded on the Flop
+Seat 4: rkkn collected ($0.14)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733665565:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:17:34 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.06 in chips) 
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: Lex1974 ($1.16 in chips) 
+Seat 4: rkkn ($2.23 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.28 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ks]
+Lex1974: folds 
+rkkn: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: calls $0.05
+Lorpugo: raises $0.14 to $0.20
+rkkn: folds 
+gelopoly: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.18)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733686497:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:18:17 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: Lex1974 ($1.16 in chips) 
+Seat 4: rkkn ($2.17 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.28 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 9d]
+rkkn: folds 
+andrim: folds 
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+Uncalled bet ($0.04) returned to Mikeloko182
+Mikeloko182 collected $0.05 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 collected ($0.05)
+
+
+
+PokerStars Hand #240733694582:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:18:34 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Lex1974 ($1.14 in chips) 
+Seat 4: rkkn ($2.17 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.31 in chips) 
+Lex1974: posts small blind $0.01
+rkkn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5h]
+andrim: folds 
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: calls $0.06
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+*** FLOP *** [7c 2s 6d]
+Mikeloko182: bets $0.05
+gelopoly: calls $0.05
+*** TURN *** [7c 2s 6d] [Ad]
+Mikeloko182: bets $0.17
+gelopoly: raises $0.17 to $0.34
+Mikeloko182: folds 
+Uncalled bet ($0.17) returned to gelopoly
+gelopoly collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [7c 2s 6d Ad]
+Seat 1: gelopoly collected ($0.57)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: rkkn (big blind) folded before Flop
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded on the Turn
+
+
+
+PokerStars Hand #240733711891:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:19:10 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.29 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Lex1974 ($1.13 in chips) 
+Seat 4: rkkn ($2.15 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.03 in chips) 
+rkkn: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Tc]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+Uncalled bet ($0.01) returned to andrim
+andrim collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: rkkn (small blind) folded before Flop
+Seat 5: andrim (big blind) collected ($0.02)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733719068:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:19:25 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.29 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Lex1974 ($1.13 in chips) 
+Seat 4: rkkn ($2.14 in chips) 
+Seat 5: andrim ($2.01 in chips) 
+Seat 6: Mikeloko182 ($2.03 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c As]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+andrim: folds 
+Uncalled bet ($0.01) returned to Mikeloko182
+Mikeloko182 collected $0.02 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240733727864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:19:43 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.29 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Lex1974 ($1.13 in chips) 
+Seat 4: rkkn ($2.14 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.04 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qs]
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.04) returned to rkkn
+rkkn collected $0.05 from pot
+rkkn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn collected ($0.05)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733739863:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:20:08 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.27 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Lex1974 ($1.13 in chips) 
+Seat 4: rkkn ($2.17 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.03 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ks]
+Lex1974: folds 
+rkkn: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733747532:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:20:24 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.26 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: Lex1974 ($1.13 in chips) 
+Seat 4: rkkn ($2.17 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Kh]
+rkkn has timed out
+rkkn: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: calls $0.02
+Lorpugo: folds 
+Lex1974: checks 
+*** FLOP *** [6c Ad Ac]
+Lex1974: checks 
+gelopoly: bets $0.05
+Lex1974: folds 
+Uncalled bet ($0.05) returned to gelopoly
+gelopoly collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c Ad Ac]
+Seat 1: gelopoly (button) collected ($0.05)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded on the Flop
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733766616:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:21:03 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.29 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: Lex1974 ($1.11 in chips) 
+Seat 4: rkkn ($2.17 in chips) 
+Seat 5: andrim ($2 in chips) 
+Seat 6: Mikeloko182 ($2.03 in chips) 
+Lex1974: posts small blind $0.01
+rkkn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 3h]
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: calls $0.02
+Lex1974: folds 
+rkkn: checks 
+*** FLOP *** [8d 8h Jh]
+rkkn: checks 
+andrim: checks 
+Lorpugo: bets $0.05
+rkkn: calls $0.05
+andrim: folds 
+*** TURN *** [8d 8h Jh] [6h]
+rkkn: checks 
+Lorpugo: bets $0.11
+rkkn: calls $0.11
+*** RIVER *** [8d 8h Jh 6h] [Qd]
+rkkn: checks 
+Lorpugo: bets $1.39 and is all-in
+rkkn: calls $1.39
+*** SHOW DOWN ***
+Lorpugo: shows [Kh 3h] (a flush, King high)
+rkkn: shows [2h Qh] (a flush, Queen high)
+Lorpugo collected $3.06 from pot
+*** SUMMARY ***
+Total pot $3.17 | Rake $0.11 
+Board [8d 8h Jh 6h Qd]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [Kh 3h] and won ($3.06) with a flush, King high
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: rkkn (big blind) showed [2h Qh] and lost with a flush, Queen high
+Seat 5: andrim folded on the Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733807071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:22:27 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.29 in chips) 
+Seat 2: Lorpugo ($3.06 in chips) 
+Seat 3: Lex1974 ($1.10 in chips) 
+Seat 4: rkkn ($2 in chips) 
+Seat 5: andrim ($1.98 in chips) 
+Seat 6: Mikeloko182 ($2.03 in chips) 
+rkkn: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3s]
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+andrim: calls $0.04
+*** FLOP *** [6h 6c 3h]
+andrim: checks 
+Mikeloko182: checks 
+*** TURN *** [6h 6c 3h] [9s]
+andrim: checks 
+Mikeloko182: checks 
+*** RIVER *** [6h 6c 3h 9s] [Js]
+andrim: checks 
+Mikeloko182: checks 
+*** SHOW DOWN ***
+andrim: shows [2h 2c] (two pair, Sixes and Deuces)
+Mikeloko182: shows [5c 5d] (two pair, Sixes and Fives)
+Mikeloko182 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6h 6c 3h 9s Js]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: rkkn (small blind) folded before Flop
+Seat 5: andrim (big blind) showed [2h 2c] and lost with two pair, Sixes and Deuces
+Seat 6: Mikeloko182 showed [5c 5d] and won ($0.13) with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #240733821517:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:22:57 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.29 in chips) 
+Seat 2: Lorpugo ($3.06 in chips) 
+Seat 3: Lex1974 ($1.10 in chips) 
+Seat 4: rkkn ($1.99 in chips) 
+Seat 5: andrim ($1.92 in chips) 
+Seat 6: Mikeloko182 ($2.10 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4s]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+andrim: calls $0.01
+Mikeloko182: checks 
+*** FLOP *** [9s Jh Ah]
+andrim: checks 
+Mikeloko182: checks 
+*** TURN *** [9s Jh Ah] [7h]
+andrim: checks 
+Mikeloko182: checks 
+*** RIVER *** [9s Jh Ah 7h] [Jc]
+andrim: checks 
+Mikeloko182: bets $0.02
+andrim: calls $0.02
+*** SHOW DOWN ***
+Mikeloko182: shows [Js 7s] (a full house, Jacks full of Sevens)
+andrim: mucks hand 
+Mikeloko182 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9s Jh Ah 7h Jc]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) mucked [Ks Qh]
+Seat 6: Mikeloko182 (big blind) showed [Js 7s] and won ($0.08) with a full house, Jacks full of Sevens
+
+
+
+PokerStars Hand #240733844982:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:23:46 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.29 in chips) 
+Seat 2: Lorpugo ($3.06 in chips) 
+Seat 3: Lex1974 ($1.10 in chips) 
+Seat 4: rkkn ($1.99 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2.14 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Kd]
+Lorpugo has timed out
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.01) returned to gelopoly
+gelopoly collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240733859871:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:24:17 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.30 in chips) 
+Seat 2: Lorpugo ($3.06 in chips) 
+Seat 3: Lex1974 ($1.10 in chips) 
+Seat 4: rkkn ($1.99 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2.13 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Ac]
+Lex1974: folds 
+rkkn: folds 
+andrim: folds 
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: raises $0.04 to $0.10
+Lorpugo: calls $0.08
+Mikeloko182: calls $0.04
+*** FLOP *** [5d Qd 4d]
+gelopoly: checks 
+Lorpugo: bets $0.19
+Mikeloko182: calls $0.19
+gelopoly: folds 
+*** TURN *** [5d Qd 4d] [Kc]
+Lorpugo: checks 
+Mikeloko182: checks 
+*** RIVER *** [5d Qd 4d Kc] [Kh]
+Lorpugo: checks 
+Mikeloko182: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qh Ac] (two pair, Kings and Queens)
+Mikeloko182: mucks hand 
+Lorpugo collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [5d Qd 4d Kc Kh]
+Seat 1: gelopoly (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) showed [Qh Ac] and won ($0.66) with two pair, Kings and Queens
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) mucked [5h 6d]
+
+
+
+PokerStars Hand #240733887061:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:25:13 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.20 in chips) 
+Seat 2: Lorpugo ($3.43 in chips) 
+Seat 3: Lex1974 ($1.10 in chips) 
+Seat 4: rkkn ($1.99 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Qh]
+rkkn: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733899236:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:25:39 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.20 in chips) 
+Seat 2: Lorpugo ($3.45 in chips) 
+Seat 3: Lex1974 ($1.08 in chips) 
+Seat 4: rkkn ($1.99 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2 in chips) 
+Lex1974: posts small blind $0.01
+rkkn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 4s]
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: calls $0.02
+Lex1974: folds 
+rkkn: checks 
+*** FLOP *** [3h 5c 6d]
+rkkn: checks 
+andrim: checks 
+Lorpugo: bets $0.05
+rkkn: calls $0.05
+andrim: folds 
+*** TURN *** [3h 5c 6d] [Ac]
+rkkn: checks 
+Lorpugo: checks 
+*** RIVER *** [3h 5c 6d Ac] [8c]
+rkkn: bets $0.05
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to rkkn
+rkkn collected $0.16 from pot
+rkkn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3h 5c 6d Ac 8c]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the River
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: rkkn (big blind) collected ($0.16)
+Seat 5: andrim folded on the Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733925046:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:26:32 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.20 in chips) 
+Seat 2: Lorpugo ($3.38 in chips) 
+Seat 3: Lex1974 ($1.07 in chips) 
+Seat 4: rkkn ($2.08 in chips) 
+Seat 5: andrim ($1.86 in chips) 
+Seat 6: Mikeloko182 ($2 in chips) 
+rkkn: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Kc]
+Mikeloko182: folds 
+gelopoly: calls $0.02
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+andrim: checks 
+*** FLOP *** [3c 8c 5h]
+andrim: checks 
+gelopoly: checks 
+*** TURN *** [3c 8c 5h] [Ts]
+andrim: checks 
+gelopoly: bets $0.05
+andrim: folds 
+Uncalled bet ($0.05) returned to gelopoly
+gelopoly collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c 8c 5h Ts]
+Seat 1: gelopoly collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: rkkn (small blind) folded before Flop
+Seat 5: andrim (big blind) folded on the Turn
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733936762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:26:57 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.23 in chips) 
+Seat 2: Lorpugo ($3.38 in chips) 
+Seat 3: Lex1974 ($1.07 in chips) 
+Seat 4: rkkn ($2.07 in chips) 
+Seat 5: andrim ($1.84 in chips) 
+Seat 6: Mikeloko182 ($2 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4d]
+gelopoly: calls $0.02
+Lorpugo: folds 
+Lex1974: calls $0.02
+rkkn: folds 
+andrim: calls $0.01
+Mikeloko182: checks 
+*** FLOP *** [Qh 6s 6h]
+andrim: checks 
+Mikeloko182: checks 
+gelopoly: checks 
+Lex1974: checks 
+*** TURN *** [Qh 6s 6h] [3h]
+andrim: checks 
+Mikeloko182: checks 
+gelopoly: checks 
+Lex1974: checks 
+*** RIVER *** [Qh 6s 6h 3h] [8c]
+andrim: checks 
+Mikeloko182: checks 
+gelopoly: checks 
+Lex1974: checks 
+*** SHOW DOWN ***
+andrim: shows [5s 5h] (two pair, Sixes and Fives)
+Mikeloko182: mucks hand 
+gelopoly: mucks hand 
+Lex1974: mucks hand 
+andrim collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qh 6s 6h 3h 8c]
+Seat 1: gelopoly mucked [4h 4c]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 mucked [Kc Ac]
+Seat 4: rkkn (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) showed [5s 5h] and won ($0.08) with two pair, Sixes and Fives
+Seat 6: Mikeloko182 (big blind) mucked [Jd 3s]
+
+
+
+PokerStars Hand #240733967662:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:28:01 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.21 in chips) 
+Seat 2: Lorpugo ($3.38 in chips) 
+Seat 3: Lex1974 ($1.05 in chips) 
+Seat 4: rkkn ($2.07 in chips) 
+Seat 5: andrim ($1.90 in chips) 
+Seat 6: Mikeloko182 ($2 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3s]
+Lorpugo: folds 
+Lex1974: folds 
+rkkn: folds 
+andrim: calls $0.02
+Mikeloko182: raises $0.08 to $0.10
+gelopoly: folds 
+andrim: folds 
+Uncalled bet ($0.08) returned to Mikeloko182
+Mikeloko182 collected $0.06 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop
+Seat 6: Mikeloko182 (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #240733980317:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:28:27 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.19 in chips) 
+Seat 2: Lorpugo ($3.38 in chips) 
+Seat 3: Lex1974 ($1.05 in chips) 
+Seat 4: rkkn ($2.07 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2.04 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Th]
+Lex1974: folds 
+rkkn: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+gelopoly: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: rkkn folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733990418:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:28:48 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.17 in chips) 
+Seat 2: Lorpugo ($3.40 in chips) 
+Seat 3: Lex1974 ($1.05 in chips) 
+Seat 4: rkkn ($2.07 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7d]
+rkkn: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+Uncalled bet ($0.04) returned to rkkn
+rkkn collected $0.05 from pot
+rkkn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 4: rkkn collected ($0.05)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240733995650:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:28:59 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.17 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($1.03 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2.04 in chips) 
+Lex1974: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6s]
+Mikeloko182: folds 
+rkkn leaves the table
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+Uncalled bet ($0.01) returned to andrim
+andrim collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 5: andrim (big blind) collected ($0.02)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734001103:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:29:11 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.17 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($1.02 in chips) 
+Seat 5: andrim ($1.89 in chips) 
+Seat 6: Mikeloko182 ($2.04 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8s]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.04) returned to Lex1974
+Lex1974 collected $0.05 from pot
+Lex1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) collected ($0.05)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734014144:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:29:38 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.17 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($1.05 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2.02 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 9d]
+Lorpugo: folds 
+Lex1974: folds 
+andrim: raises $1.86 to $1.88 and is all-in
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($1.86) returned to andrim
+andrim collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 5: andrim (button) collected ($0.05)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734024169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:29:58 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.15 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($1.05 in chips) 
+Seat 5: andrim ($1.91 in chips) 
+Seat 6: Mikeloko182 ($2.01 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Kc]
+Lex1974: folds 
+kjampec joins the table at seat #4 
+andrim has timed out
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734034470:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:30:20 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.14 in chips) 
+Seat 2: Lorpugo ($3.40 in chips) 
+Seat 3: Lex1974 ($1.05 in chips) 
+Seat 4: kjampec ($0.80 in chips) 
+Seat 5: andrim ($1.91 in chips) 
+Seat 6: Mikeloko182 ($2.01 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+kjampec: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 6s]
+kjampec: checks 
+andrim: folds 
+Mikeloko182: raises $0.07 to $0.09
+gelopoly: calls $0.09
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: folds 
+*** FLOP *** [7s 5s 2h]
+Mikeloko182: checks 
+gelopoly: checks 
+*** TURN *** [7s 5s 2h] [Ks]
+Mikeloko182: checks 
+gelopoly: checks 
+*** RIVER *** [7s 5s 2h Ks] [9h]
+Mikeloko182: checks 
+gelopoly: checks 
+*** SHOW DOWN ***
+Mikeloko182: shows [As 9c] (a pair of Nines)
+gelopoly: mucks hand 
+Mikeloko182 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [7s 5s 2h Ks 9h]
+Seat 1: gelopoly (button) mucked [Qd Ad]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 showed [As 9c] and won ($0.22) with a pair of Nines
+
+
+
+PokerStars Hand #240734056434:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:31:05 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.05 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($1.03 in chips) 
+Seat 4: kjampec ($0.78 in chips) 
+Seat 5: andrim ($1.91 in chips) 
+Seat 6: Mikeloko182 ($2.14 in chips) 
+Lex1974: posts small blind $0.01
+kjampec: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Kc]
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: calls $0.02
+Lorpugo: folds 
+Lex1974: calls $0.01
+kjampec: checks 
+*** FLOP *** [4h 6h 3s]
+Lex1974: checks 
+kjampec: bets $0.02
+gelopoly: folds 
+Lex1974: calls $0.02
+*** TURN *** [4h 6h 3s] [Ks]
+Lex1974: checks 
+kjampec: bets $0.04
+Lex1974: calls $0.04
+*** RIVER *** [4h 6h 3s Ks] [Ac]
+Lex1974: checks 
+kjampec: bets $0.08
+Lex1974: calls $0.08
+*** SHOW DOWN ***
+kjampec: shows [4c 3h] (two pair, Fours and Threes)
+Lex1974: mucks hand 
+kjampec collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [4h 6h 3s Ks Ac]
+Seat 1: gelopoly folded on the Flop
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) mucked [8s As]
+Seat 4: kjampec (big blind) showed [4c 3h] and won ($0.33) with two pair, Fours and Threes
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734091823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:32:18 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.03 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($0.87 in chips) 
+Seat 4: kjampec ($0.95 in chips) 
+Seat 5: andrim ($1.91 in chips) 
+Seat 6: Mikeloko182 ($2.14 in chips) 
+kjampec: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 2d]
+Mikeloko182: raises $0.02 to $0.04
+gelopoly: calls $0.04
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: folds 
+andrim: folds 
+*** FLOP *** [8c 7c 2h]
+Mikeloko182: checks 
+gelopoly: checks 
+*** TURN *** [8c 7c 2h] [5h]
+Mikeloko182: checks 
+gelopoly: checks 
+*** RIVER *** [8c 7c 2h 5h] [Qs]
+Mikeloko182: checks 
+gelopoly: bets $0.11
+Mikeloko182: folds 
+Uncalled bet ($0.11) returned to gelopoly
+gelopoly collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8c 7c 2h 5h Qs]
+Seat 1: gelopoly collected ($0.11)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: kjampec (small blind) folded before Flop
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded on the River
+
+
+
+PokerStars Hand #240734113753:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:33:03 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.10 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($0.87 in chips) 
+Seat 4: kjampec ($0.94 in chips) 
+Seat 5: andrim ($1.89 in chips) 
+Seat 6: Mikeloko182 ($2.10 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8s]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: folds 
+andrim: calls $0.01
+Mikeloko182: checks 
+*** FLOP *** [4h 6h Qs]
+andrim: checks 
+Mikeloko182: checks 
+*** TURN *** [4h 6h Qs] [4d]
+andrim: checks 
+Mikeloko182: checks 
+*** RIVER *** [4h 6h Qs 4d] [9d]
+andrim: checks 
+Mikeloko182: checks 
+*** SHOW DOWN ***
+andrim: shows [5d Tc] (a pair of Fours)
+Mikeloko182: shows [2c Ts] (a pair of Fours)
+andrim collected $0.02 from pot
+Mikeloko182 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4h 6h Qs 4d 9d]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) showed [5d Tc] and won ($0.02) with a pair of Fours
+Seat 6: Mikeloko182 (big blind) showed [2c Ts] and won ($0.02) with a pair of Fours
+
+
+
+PokerStars Hand #240734130434:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:33:38 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.10 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($0.87 in chips) 
+Seat 4: kjampec ($0.94 in chips) 
+Seat 5: andrim ($1.89 in chips) 
+Seat 6: Mikeloko182 ($2.10 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7c]
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: folds 
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.01) returned to gelopoly
+gelopoly collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734138466:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:33:55 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.11 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($0.87 in chips) 
+Seat 4: kjampec ($0.94 in chips) 
+Seat 5: andrim ($1.89 in chips) 
+Seat 6: Mikeloko182 ($2.09 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ac]
+Lex1974: folds 
+kjampec: folds 
+andrim: calls $0.02
+Mikeloko182: raises $0.10 to $0.12
+gelopoly: folds 
+Lorpugo: folds 
+andrim: folds 
+Uncalled bet ($0.10) returned to Mikeloko182
+Mikeloko182 collected $0.07 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop
+Seat 6: Mikeloko182 (button) collected ($0.07)
+
+
+
+PokerStars Hand #240734148653:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:34:16 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.10 in chips) 
+Seat 2: Lorpugo ($3.37 in chips) 
+Seat 3: Lex1974 ($0.87 in chips) 
+Seat 4: kjampec ($0.94 in chips) 
+Seat 5: andrim ($1.87 in chips) 
+Seat 6: Mikeloko182 ($2.14 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7h]
+kjampec: calls $0.02
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: checks 
+*** FLOP *** [6s 4s 7s]
+Lex1974: checks 
+kjampec: bets $0.02
+Lex1974: folds 
+Uncalled bet ($0.02) returned to kjampec
+kjampec collected $0.05 from pot
+kjampec: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s 4s 7s]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded on the Flop
+Seat 4: kjampec collected ($0.05)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734159739:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:34:39 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.10 in chips) 
+Seat 2: Lorpugo ($3.36 in chips) 
+Seat 3: Lex1974 ($0.85 in chips) 
+Seat 4: kjampec ($0.97 in chips) 
+Seat 5: andrim ($1.87 in chips) 
+Seat 6: Mikeloko182 ($2.14 in chips) 
+Lex1974: posts small blind $0.01
+kjampec: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4h]
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: checks 
+*** FLOP *** [Qd Jd Tc]
+kjampec: checks 
+andrim: bets $0.02
+kjampec: calls $0.02
+*** TURN *** [Qd Jd Tc] [6c]
+kjampec: bets $0.02
+andrim: calls $0.02
+*** RIVER *** [Qd Jd Tc 6c] [2h]
+kjampec: bets $0.02
+andrim: calls $0.02
+*** SHOW DOWN ***
+kjampec: shows [Jh 3c] (a pair of Jacks)
+andrim: shows [Qc As] (a pair of Queens)
+andrim collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd Jd Tc 6c 2h]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: kjampec (big blind) showed [Jh 3c] and lost with a pair of Jacks
+Seat 5: andrim showed [Qc As] and won ($0.16) with a pair of Queens
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734175279:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:35:11 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.10 in chips) 
+Seat 2: Lorpugo ($3.36 in chips) 
+Seat 3: Lex1974 ($0.84 in chips) 
+Seat 4: kjampec ($0.89 in chips) 
+Seat 5: andrim ($1.95 in chips) 
+Seat 6: Mikeloko182 ($2.14 in chips) 
+kjampec: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Qc]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+kjampec: calls $0.05
+andrim: folds 
+*** FLOP *** [As 7h 9d]
+kjampec: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [As 7h 9d] [Ks]
+kjampec: checks 
+Lorpugo: bets $0.09
+kjampec: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [As 7h 9d Ks]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.17)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: kjampec (small blind) folded on the Turn
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734193193:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:35:48 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.10 in chips) 
+Seat 2: Lorpugo ($3.45 in chips) 
+Seat 3: Lex1974 ($0.84 in chips) 
+Seat 4: kjampec ($0.81 in chips) 
+Seat 5: andrim ($1.93 in chips) 
+Seat 6: Mikeloko182 ($2.14 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 4s]
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+kjampec: calls $0.06
+andrim: folds 
+Mikeloko182: raises $0.24 to $0.30
+Lorpugo: folds 
+kjampec: calls $0.24
+*** FLOP *** [6c 7h 6s]
+Mikeloko182: bets $0.21
+kjampec: calls $0.21
+*** TURN *** [6c 7h 6s] [Jc]
+Mikeloko182: bets $0.35
+kjampec: folds 
+Uncalled bet ($0.35) returned to Mikeloko182
+Mikeloko182 collected $1.05 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [6c 7h 6s Jc]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec (button) folded on the Turn
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) collected ($1.05)
+
+
+
+PokerStars Hand #240734215843:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:36:35 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.10 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($0.84 in chips) 
+Seat 4: kjampec ($0.30 in chips) 
+Seat 5: andrim ($1.92 in chips) 
+Seat 6: Mikeloko182 ($2.68 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4c]
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: calls $0.02
+andrim: folds 
+Mikeloko182: raises $0.08 to $0.10
+gelopoly: folds 
+kjampec: calls $0.08
+*** FLOP *** [9h 8s Ks]
+Mikeloko182: checks 
+kjampec: checks 
+*** TURN *** [9h 8s Ks] [Jc]
+Mikeloko182: checks 
+kjampec: checks 
+*** RIVER *** [9h 8s Ks Jc] [Ts]
+Mikeloko182: bets $0.15
+kjampec: calls $0.15
+*** SHOW DOWN ***
+Mikeloko182: shows [Ac Qs] (a straight, Ten to Ace)
+kjampec: mucks hand 
+Mikeloko182 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [9h 8s Ks Jc Ts]
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec mucked [Ah Th]
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) showed [Ac Qs] and won ($0.50) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #240734237657:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:37:20 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.08 in chips) 
+Seat 2: Lorpugo ($3.39 in chips) 
+Seat 3: Lex1974 ($0.84 in chips) 
+Seat 4: kjampec ($0.05 in chips) 
+Seat 5: andrim ($1.92 in chips) 
+Seat 6: Mikeloko182 ($2.93 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3s]
+Lex1974: folds 
+kjampec: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ks 5s 4s]
+gelopoly: checks 
+Lorpugo: bets $0.02
+gelopoly: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ks 5s 4s]
+Seat 1: gelopoly (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected ($0.04)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734246947:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:37:39 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.06 in chips) 
+Seat 2: Lorpugo ($3.41 in chips) 
+Seat 3: Lex1974 ($0.84 in chips) 
+Seat 4: kjampec ($0.05 in chips) 
+Seat 5: andrim ($1.92 in chips) 
+Seat 6: Mikeloko182 ($2.93 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4s]
+kjampec: calls $0.02
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: raises $0.02 to $0.04
+Lorpugo: folds 
+Lex1974: calls $0.02
+kjampec: calls $0.02
+andrim: calls $0.02
+*** FLOP *** [4d Kh Kc]
+Lex1974: checks 
+kjampec: checks 
+andrim: checks 
+gelopoly: bets $0.08
+Lex1974: folds 
+kjampec: calls $0.01 and is all-in
+andrim: folds 
+Uncalled bet ($0.07) returned to gelopoly
+*** TURN *** [4d Kh Kc] [8d]
+*** RIVER *** [4d Kh Kc 8d] [2c]
+*** SHOW DOWN ***
+kjampec: shows [5c 9c] (a pair of Kings)
+gelopoly: shows [Ad Ac] (two pair, Aces and Kings)
+gelopoly collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4d Kh Kc 8d 2c]
+Seat 1: gelopoly (button) showed [Ad Ac] and won ($0.18) with two pair, Aces and Kings
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded on the Flop
+Seat 4: kjampec showed [5c 9c] and lost with a pair of Kings
+Seat 5: andrim folded on the Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734274830:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:38:36 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.19 in chips) 
+Seat 2: Lorpugo ($3.40 in chips) 
+Seat 3: Lex1974 ($0.80 in chips) 
+Seat 5: andrim ($1.88 in chips) 
+Seat 6: Mikeloko182 ($2.93 in chips) 
+Lex1974: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9d]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: raises $0.06 to $0.08
+andrim: folds 
+Uncalled bet ($0.06) returned to Lex1974
+Lex1974 collected $0.04 from pot
+Lex1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) collected ($0.04)
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734281239:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:38:49 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.19 in chips) 
+Seat 2: Lorpugo ($3.40 in chips) 
+Seat 3: Lex1974 ($0.82 in chips) 
+Seat 5: andrim ($1.86 in chips) 
+Seat 6: Mikeloko182 ($2.93 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Kd]
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+andrim: folds 
+Mikeloko182: calls $0.04
+*** FLOP *** [2c Js 5c]
+Mikeloko182: checks 
+Lorpugo: checks 
+*** TURN *** [2c Js 5c] [Ah]
+Mikeloko182: checks 
+Lorpugo: checks 
+*** RIVER *** [2c Js 5c Ah] [5s]
+Mikeloko182: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Mikeloko182: shows [Qd 2d] (two pair, Fives and Deuces)
+Lorpugo: mucks hand 
+Mikeloko182 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2c Js 5c Ah 5s]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo mucked [8d Kd]
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) showed [Qd 2d] and won ($0.13) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #240734299353:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:39:27 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.19 in chips) 
+Seat 2: Lorpugo ($3.34 in chips) 
+Seat 3: Lex1974 ($0.82 in chips) 
+Seat 4: kjampec ($0.80 in chips) 
+Seat 5: andrim ($1.85 in chips) 
+Seat 6: Mikeloko182 ($3 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+kjampec: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Th]
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: checks 
+andrim: calls $0.02
+Mikeloko182: raises $0.22 to $0.24
+gelopoly: folds 
+kjampec: folds 
+andrim: folds 
+Uncalled bet ($0.22) returned to Mikeloko182
+Mikeloko182 collected $0.09 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop
+Seat 6: Mikeloko182 (small blind) collected ($0.09)
+
+
+
+PokerStars Hand #240734319640:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:40:09 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.17 in chips) 
+Seat 2: Lorpugo ($3.34 in chips) 
+Seat 3: Lex1974 ($0.82 in chips) 
+Seat 4: kjampec ($0.77 in chips) 
+Seat 5: andrim ($1.83 in chips) 
+Seat 6: Mikeloko182 ($3.07 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ah]
+Lex1974: calls $0.02
+kjampec: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: checks 
+*** FLOP *** [9h 6d Ad]
+Lorpugo: checks 
+Lex1974: checks 
+*** TURN *** [9h 6d Ad] [Kd]
+Lorpugo: bets $3.32 and is all-in
+Lex1974: folds 
+Uncalled bet ($3.32) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 6d Ad Kd]
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.05)
+Seat 3: Lex1974 folded on the Turn
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734337535:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:40:46 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.16 in chips) 
+Seat 2: Lorpugo ($3.37 in chips) 
+Seat 3: Lex1974 ($0.80 in chips) 
+Seat 4: kjampec ($0.77 in chips) 
+Seat 5: andrim ($1.83 in chips) 
+Seat 6: Mikeloko182 ($3.07 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 2s]
+kjampec: folds 
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: checks 
+*** FLOP *** [4d Kh 5h]
+Lex1974: checks 
+andrim: checks 
+*** TURN *** [4d Kh 5h] [9d]
+Lex1974: checks 
+andrim: checks 
+*** RIVER *** [4d Kh 5h 9d] [Jh]
+Lex1974: checks 
+andrim: bets $0.10
+Lex1974: folds 
+Uncalled bet ($0.10) returned to andrim
+andrim collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d Kh 5h 9d Jh]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Lex1974 (big blind) folded on the River
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim collected ($0.05)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734362460:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:41:38 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.16 in chips) 
+Seat 2: Lorpugo ($3.36 in chips) 
+Seat 3: Lex1974 ($0.78 in chips) 
+Seat 4: kjampec ($0.77 in chips) 
+Seat 5: andrim ($1.86 in chips) 
+Seat 6: Mikeloko182 ($3.07 in chips) 
+Lex1974: posts small blind $0.01
+kjampec: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Th]
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+kjampec: calls $0.04
+*** FLOP *** [Ks 3c Td]
+kjampec: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [Ks 3c Td] [Qc]
+kjampec: bets $0.06
+Lorpugo: calls $0.06
+*** RIVER *** [Ks 3c Td Qc] [Ah]
+kjampec: bets $0.12
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to kjampec
+kjampec collected $0.36 from pot
+kjampec: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Ks 3c Td Qc Ah]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the River
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: kjampec (big blind) collected ($0.36)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734381248:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:42:17 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.16 in chips) 
+Seat 2: Lorpugo ($3.18 in chips) 
+Seat 3: Lex1974 ($0.77 in chips) 
+Seat 4: kjampec ($0.95 in chips) 
+Seat 5: andrim ($1.86 in chips) 
+Seat 6: Mikeloko182 ($3.07 in chips) 
+kjampec: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 8s]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: raises $0.04 to $0.06
+kjampec: folds 
+andrim: folds 
+Uncalled bet ($0.04) returned to Lex1974
+Lex1974 collected $0.05 from pot
+Lex1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) collected ($0.05)
+Seat 4: kjampec (small blind) folded before Flop
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734390244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:42:36 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.16 in chips) 
+Seat 2: Lorpugo ($3.18 in chips) 
+Seat 3: Lex1974 ($0.80 in chips) 
+Seat 4: kjampec ($0.94 in chips) 
+Seat 5: andrim ($1.84 in chips) 
+Seat 6: Mikeloko182 ($3.07 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 9h]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: raises $0.04 to $0.06
+kjampec: folds 
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.04) returned to Lex1974
+Lex1974 collected $0.05 from pot
+Lex1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 collected ($0.05)
+Seat 4: kjampec (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734402986:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:43:02 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.16 in chips) 
+Seat 2: Lorpugo ($3.18 in chips) 
+Seat 3: Lex1974 ($0.83 in chips) 
+Seat 4: kjampec ($0.94 in chips) 
+Seat 5: andrim ($1.83 in chips) 
+Seat 6: Mikeloko182 ($3.05 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qs]
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+kjampec: calls $0.06
+andrim: folds 
+Mikeloko182: calls $0.05
+gelopoly: folds 
+*** FLOP *** [Kd 3d Qh]
+Mikeloko182: checks 
+Lorpugo: checks 
+kjampec: checks 
+*** TURN *** [Kd 3d Qh] [9c]
+Mikeloko182: checks 
+Lorpugo: bets $0.19
+kjampec: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.19) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kd 3d Qh 9c]
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.19)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec folded on the Turn
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240734436729:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:44:12 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.14 in chips) 
+Seat 2: Lorpugo ($3.31 in chips) 
+Seat 3: Lex1974 ($0.83 in chips) 
+Seat 4: kjampec ($0.88 in chips) 
+Seat 5: andrim ($1.83 in chips) 
+Seat 6: Mikeloko182 ($2.99 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9h]
+Lex1974: folds 
+kjampec: folds 
+andrim has timed out
+andrim: folds 
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Mikeloko182
+Mikeloko182 collected $0.05 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) collected ($0.05)
+
+
+
+PokerStars Hand #240734449888:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:44:39 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.13 in chips) 
+Seat 2: Lorpugo ($3.29 in chips) 
+Seat 3: Lex1974 ($0.83 in chips) 
+Seat 4: kjampec ($0.88 in chips) 
+Seat 6: Mikeloko182 ($3.02 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9d]
+kjampec: calls $0.02
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: calls $0.01
+Lex1974: checks 
+*** FLOP *** [Qs 7d 7h]
+Lorpugo: checks 
+Lex1974: checks 
+kjampec: checks 
+*** TURN *** [Qs 7d 7h] [Kh]
+Lorpugo: checks 
+Lex1974: checks 
+kjampec: checks 
+*** RIVER *** [Qs 7d 7h Kh] [Js]
+Lorpugo: bets $0.12
+Lex1974: folds 
+kjampec: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qs 7d 7h Kh Js]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.06)
+Seat 3: Lex1974 (big blind) folded on the River
+Seat 4: kjampec folded on the River
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734474669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:45:30 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.13 in chips) 
+Seat 2: Lorpugo ($3.33 in chips) 
+Seat 3: Lex1974 ($0.81 in chips) 
+Seat 4: kjampec ($0.86 in chips) 
+Seat 6: Mikeloko182 ($3.02 in chips) 
+Lex1974: posts small blind $0.01
+kjampec: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ah]
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: folds 
+Uncalled bet ($0.04) returned to Mikeloko182
+Mikeloko182 collected $0.05 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: kjampec (big blind) folded before Flop
+Seat 6: Mikeloko182 collected ($0.05)
+
+
+
+PokerStars Hand #240734480609:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:45:42 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.13 in chips) 
+Seat 2: Lorpugo ($3.33 in chips) 
+Seat 3: Lex1974 ($0.80 in chips) 
+Seat 4: kjampec ($0.84 in chips) 
+Seat 6: Mikeloko182 ($3.05 in chips) 
+kjampec: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ks]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: folds 
+Uncalled bet ($0.01) returned to Mikeloko182
+Mikeloko182 collected $0.02 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: kjampec (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240734487209:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:45:56 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.13 in chips) 
+Seat 2: Lorpugo ($3.33 in chips) 
+Seat 3: Lex1974 ($0.80 in chips) 
+Seat 4: kjampec ($0.83 in chips) 
+Seat 6: Mikeloko182 ($3.06 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 4d]
+Lorpugo: folds 
+Lex1974: folds 
+kjampec: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.01) returned to gelopoly
+gelopoly collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734494226:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:46:11 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.14 in chips) 
+Seat 2: Lorpugo ($3.33 in chips) 
+Seat 3: Lex1974 ($0.80 in chips) 
+Seat 4: kjampec ($0.83 in chips) 
+Seat 6: Mikeloko182 ($3.05 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4c]
+Lex1974: folds 
+kjampec: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734499780:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:46:22 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.13 in chips) 
+Seat 2: Lorpugo ($3.34 in chips) 
+Seat 3: Lex1974 ($0.80 in chips) 
+Seat 4: kjampec ($0.83 in chips) 
+Seat 6: Mikeloko182 ($3.05 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Ah]
+kjampec: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+kjampec leaves the table
+Lorpugo: raises $0.04 to $0.06
+Lex1974: calls $0.04
+*** FLOP *** [Js 7d Ad]
+Lorpugo: bets $0.08
+Lex1974: calls $0.08
+*** TURN *** [Js 7d Ad] [2d]
+XprC joins the table at seat #4 
+Lorpugo: bets $0.14
+Lex1974: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.27 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Js 7d Ad 2d]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.27)
+Seat 3: Lex1974 (big blind) folded on the Turn
+Seat 4: kjampec folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734518527:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:47:01 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.13 in chips) 
+Seat 2: Lorpugo ($3.47 in chips) 
+Seat 3: Lex1974 ($0.66 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.83 in chips) 
+Seat 6: Mikeloko182 ($3.05 in chips) 
+Lex1974: posts small blind $0.01
+XprC: posts big blind $0.02
+andrim: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Jd]
+andrim: checks 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+XprC: raises $0.08 to $0.10
+andrim: folds 
+Uncalled bet ($0.08) returned to XprC
+XprC collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: XprC (big blind) collected ($0.06)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734525860:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:47:17 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.13 in chips) 
+Seat 2: Lorpugo ($3.47 in chips) 
+Seat 3: Lex1974 ($0.65 in chips) 
+Seat 4: XprC ($2.04 in chips) 
+Seat 5: andrim ($1.80 in chips) 
+Seat 6: Mikeloko182 ($3.05 in chips) 
+XprC: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Js]
+Mikeloko182: folds 
+gelopoly: calls $0.02
+Lorpugo: folds 
+Lex1974: raises $0.04 to $0.06
+XprC: folds 
+andrim: folds 
+gelopoly: calls $0.04
+*** FLOP *** [Kh 4d 5s]
+gelopoly: checks 
+Lex1974: bets $0.08
+gelopoly: folds 
+Uncalled bet ($0.08) returned to Lex1974
+Lex1974 collected $0.14 from pot
+Lex1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kh 4d 5s]
+Seat 1: gelopoly folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) collected ($0.14)
+Seat 4: XprC (small blind) folded before Flop
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734542579:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:47:52 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.07 in chips) 
+Seat 2: Lorpugo ($3.47 in chips) 
+Seat 3: Lex1974 ($0.73 in chips) 
+Seat 4: XprC ($2.03 in chips) 
+Seat 5: andrim ($1.78 in chips) 
+Seat 6: Mikeloko182 ($3.05 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Tc]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+XprC: folds 
+andrim: folds 
+Uncalled bet ($0.01) returned to Mikeloko182
+Mikeloko182 collected $0.02 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: XprC (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240734554275:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:48:17 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.07 in chips) 
+Seat 2: Lorpugo ($3.47 in chips) 
+Seat 3: Lex1974 ($0.73 in chips) 
+Seat 4: XprC ($2.03 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.06 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qh]
+Lorpugo: raises $0.04 to $0.06
+Lex1974: calls $0.06
+XprC: folds 
+andrim: folds 
+Mikeloko182: calls $0.05
+gelopoly: folds 
+*** FLOP *** [8c Ad Ks]
+Mikeloko182: checks 
+Lorpugo: checks 
+Lex1974: bets $0.10
+Mikeloko182: calls $0.10
+Lorpugo: folds 
+*** TURN *** [8c Ad Ks] [8h]
+Mikeloko182: checks 
+Lex1974: bets $0.16
+Mikeloko182: raises $0.50 to $0.66
+Lex1974: folds 
+Uncalled bet ($0.50) returned to Mikeloko182
+Mikeloko182 collected $0.69 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [8c Ad Ks 8h]
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded on the Flop
+Seat 3: Lex1974 folded on the Turn
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) collected ($0.69)
+
+
+
+PokerStars Hand #240734591936:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:49:36 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.05 in chips) 
+Seat 2: Lorpugo ($3.41 in chips) 
+Seat 3: Lex1974 ($0.41 in chips) 
+Seat 4: XprC ($2.03 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.43 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5s]
+Lex1974: folds 
+XprC: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734599786:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:49:52 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.42 in chips) 
+Seat 3: Lex1974 ($0.41 in chips) 
+Seat 4: XprC ($2.03 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.43 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5c]
+XprC: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: raises $0.04 to $0.10
+Lorpugo: calls $0.04
+*** FLOP *** [6h Qh 7c]
+Lorpugo: checks 
+Lex1974: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Lex1974
+Lex1974 collected $0.19 from pot
+Lex1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6h Qh 7c]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: Lex1974 (big blind) collected ($0.19)
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734620895:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:50:36 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.32 in chips) 
+Seat 3: Lex1974 ($0.50 in chips) 
+Seat 4: XprC ($2.03 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.43 in chips) 
+Lex1974: posts small blind $0.01
+XprC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Kh]
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+XprC: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: XprC (big blind) folded before Flop
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734631247:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:50:58 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: Lex1974 ($0.49 in chips) 
+Seat 4: XprC ($2.01 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.43 in chips) 
+XprC: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4d]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+XprC: folds 
+Uncalled bet ($0.01) returned to andrim
+andrim collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: XprC (small blind) folded before Flop
+Seat 5: andrim (big blind) collected ($0.02)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734645088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:51:27 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: Lex1974 ($0.49 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.78 in chips) 
+Seat 6: Mikeloko182 ($3.43 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 4h]
+gelopoly: calls $0.02
+Lorpugo: folds 
+Lex1974: folds 
+XprC: folds 
+andrim: folds 
+Mikeloko182: checks 
+*** FLOP *** [4c 8c Tc]
+Mikeloko182: checks 
+gelopoly: bets $0.04
+Mikeloko182: folds 
+Uncalled bet ($0.04) returned to gelopoly
+gelopoly collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4c 8c Tc]
+Seat 1: gelopoly collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: XprC (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240734664549:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:52:07 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.07 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: Lex1974 ($0.49 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.41 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3h]
+Lorpugo: folds 
+Lex1974: calls $0.02
+XprC: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: checks 
+*** FLOP *** [Qh Qc Qs]
+gelopoly: checks 
+Lex1974: checks 
+*** TURN *** [Qh Qc Qs] [Kd]
+gelopoly: checks 
+Lex1974: checks 
+*** RIVER *** [Qh Qc Qs Kd] [8d]
+gelopoly: checks 
+Lex1974: checks 
+*** SHOW DOWN ***
+gelopoly: shows [Jh 5c] (three of a kind, Queens)
+Lex1974: shows [Ad 3d] (three of a kind, Queens - Ace kicker)
+Lex1974 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qh Qc Qs Kd 8d]
+Seat 1: gelopoly (big blind) showed [Jh 5c] and lost with three of a kind, Queens
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 showed [Ad 3d] and won ($0.05) with three of a kind, Queens
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734680289:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:52:40 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.05 in chips) 
+Seat 2: Lorpugo ($3.35 in chips) 
+Seat 3: Lex1974 ($0.52 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.40 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 8s]
+Lex1974: folds 
+XprC: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734688762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:52:58 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.36 in chips) 
+Seat 3: Lex1974 ($0.52 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.77 in chips) 
+Seat 6: Mikeloko182 ($3.40 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Js]
+XprC: folds 
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: calls $0.01
+Lex1974: checks 
+*** FLOP *** [5c Ad Qd]
+Lorpugo: bets $0.02
+Lex1974: folds 
+andrim: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5c Ad Qd]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.06)
+Seat 3: Lex1974 (big blind) folded on the Flop
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim folded on the Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734700544:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:53:22 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.40 in chips) 
+Seat 3: Lex1974 ($0.50 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.75 in chips) 
+Seat 6: Mikeloko182 ($3.40 in chips) 
+Lex1974: posts small blind $0.01
+XprC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Tc]
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: folds 
+XprC: raises $0.13 to $0.19
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to XprC
+XprC collected $0.13 from pot
+XprC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: XprC (big blind) collected ($0.13)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734711027:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:53:44 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.34 in chips) 
+Seat 3: Lex1974 ($0.49 in chips) 
+Seat 4: XprC ($2.07 in chips) 
+Seat 5: andrim ($1.75 in chips) 
+Seat 6: Mikeloko182 ($3.40 in chips) 
+XprC: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ac]
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+XprC: raises $0.14 to $0.20
+andrim: folds 
+Mikeloko182: calls $0.14
+*** FLOP *** [4s 6h 2h]
+XprC: bets $0.31
+Mikeloko182: folds 
+Uncalled bet ($0.31) returned to XprC
+XprC collected $0.41 from pot
+XprC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [4s 6h 2h]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 (button) folded before Flop (didn't bet)
+Seat 4: XprC (small blind) collected ($0.41)
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded on the Flop
+
+
+
+PokerStars Hand #240734731350:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:54:27 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.34 in chips) 
+Seat 3: Lex1974 ($0.49 in chips) 
+Seat 4: XprC ($2.28 in chips) 
+Seat 5: andrim ($1.73 in chips) 
+Seat 6: Mikeloko182 ($3.20 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5s]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+XprC: folds 
+andrim: calls $0.01
+Mikeloko182: checks 
+*** FLOP *** [3h Js 4c]
+andrim: checks 
+Mikeloko182: checks 
+*** TURN *** [3h Js 4c] [7c]
+andrim: checks 
+Mikeloko182: checks 
+*** RIVER *** [3h Js 4c 7c] [3c]
+andrim: checks 
+Mikeloko182: checks 
+*** SHOW DOWN ***
+andrim: shows [8h Td] (a pair of Threes)
+Mikeloko182: shows [Ac 4s] (two pair, Fours and Threes)
+Mikeloko182 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h Js 4c 7c 3c]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: XprC (button) folded before Flop (didn't bet)
+Seat 5: andrim (small blind) showed [8h Td] and lost with a pair of Threes
+Seat 6: Mikeloko182 (big blind) showed [Ac 4s] and won ($0.04) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #240734758044:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:55:32 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.04 in chips) 
+Seat 2: Lorpugo ($3.34 in chips) 
+Seat 3: Lex1974 ($0.49 in chips) 
+Seat 4: XprC ($2.28 in chips) 
+Seat 5: andrim ($1.71 in chips) 
+Seat 6: Mikeloko182 ($3.22 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Kc]
+Lorpugo: folds 
+Lex1974: folds 
+XprC: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.04) returned to XprC
+XprC collected $0.05 from pot
+XprC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: XprC collected ($0.05)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734766105:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:55:57 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($1.02 in chips) 
+Seat 2: Lorpugo ($3.34 in chips) 
+Seat 3: Lex1974 ($0.49 in chips) 
+Seat 4: XprC ($2.31 in chips) 
+Seat 5: andrim ($1.71 in chips) 
+Seat 6: Mikeloko182 ($3.21 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7c]
+Lex1974: calls $0.02
+XprC: folds 
+andrim: calls $0.02
+Mikeloko182: raises $0.09 to $0.11
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: calls $0.09
+andrim: calls $0.09
+*** FLOP *** [8c 6h Jd]
+Lex1974: checks 
+andrim: checks 
+Mikeloko182: checks 
+*** TURN *** [8c 6h Jd] [Js]
+Lex1974: checks 
+andrim: checks 
+Mikeloko182: bets $0.25
+Lex1974: folds 
+andrim: folds 
+Uncalled bet ($0.25) returned to Mikeloko182
+Mikeloko182 collected $0.35 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [8c 6h Jd Js]
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Lex1974 folded on the Turn
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim folded on the Turn
+Seat 6: Mikeloko182 (button) collected ($0.35)
+
+
+
+PokerStars Hand #240734788823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:57:08 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($1.01 in chips) 
+Seat 2: Lorpugo ($3.32 in chips) 
+Seat 3: Lex1974 ($0.38 in chips) 
+Seat 4: XprC ($2.31 in chips) 
+Seat 5: andrim ($1.60 in chips) 
+Seat 6: Mikeloko182 ($3.45 in chips) 
+Lorpugo: posts small blind $0.01
+Lex1974: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 5c]
+XprC: raises $0.04 to $0.06
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: calls $0.05
+Lex1974: folds 
+*** FLOP *** [4d 7h 4c]
+Lorpugo: checks 
+XprC: checks 
+*** TURN *** [4d 7h 4c] [5d]
+Lorpugo: bets $0.05
+XprC: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d 7h 4c 5d]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.14)
+Seat 3: Lex1974 (big blind) folded before Flop
+Seat 4: XprC folded on the Turn
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734801164:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:57:47 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($1.01 in chips) 
+Seat 2: Lorpugo ($3.40 in chips) 
+Seat 3: Lex1974 ($0.36 in chips) 
+Seat 4: XprC ($2.25 in chips) 
+Seat 5: andrim ($1.60 in chips) 
+Seat 6: Mikeloko182 ($3.45 in chips) 
+Lex1974: posts small blind $0.01
+XprC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 3s]
+andrim has timed out
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: folds 
+Uncalled bet ($0.01) returned to XprC
+XprC collected $0.02 from pot
+XprC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Lex1974 (small blind) folded before Flop
+Seat 4: XprC (big blind) collected ($0.02)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734809699:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:58:14 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($1.01 in chips) 
+Seat 2: Lorpugo ($3.40 in chips) 
+Seat 3: Lex1974 ($0.35 in chips) 
+Seat 4: XprC ($2.26 in chips) 
+Seat 5: andrim ($1.60 in chips) 
+Seat 6: Mikeloko182 ($3.45 in chips) 
+XprC: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ad]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+Lex1974: calls $0.06
+XprC: folds 
+andrim: calls $0.04
+*** FLOP *** [9h 9c 8d]
+andrim: checks 
+Lorpugo: bets $0.06
+Lex1974: folds 
+andrim: calls $0.06
+*** TURN *** [9h 9c 8d] [8c]
+andrim: checks 
+Lorpugo: bets $0.10
+andrim: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9h 9c 8d 8c]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.30)
+Seat 3: Lex1974 (button) folded on the Flop
+Seat 4: XprC (small blind) folded before Flop
+Seat 5: andrim (big blind) folded on the Turn
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734823554:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:58:57 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($1.01 in chips) 
+Seat 2: Lorpugo ($3.58 in chips) 
+Seat 3: Lex1974 ($0.29 in chips) 
+Seat 4: XprC ($2.25 in chips) 
+Seat 5: andrim ($1.48 in chips) 
+Seat 6: Mikeloko182 ($3.45 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 6c]
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: calls $0.02
+XprC: raises $0.08 to $0.10
+andrim: folds 
+Mikeloko182: folds 
+Lex1974: calls $0.08
+*** FLOP *** [6s Ah 2s]
+Lex1974: checks 
+XprC: bets $0.07
+Lex1974: raises $0.12 to $0.19 and is all-in
+XprC: calls $0.12
+*** TURN *** [6s Ah 2s] [Ac]
+*** RIVER *** [6s Ah 2s Ac] [4c]
+*** SHOW DOWN ***
+Lex1974: shows [Tc Td] (two pair, Aces and Tens)
+XprC: shows [7c 7s] (two pair, Aces and Sevens)
+Lex1974 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [6s Ah 2s Ac 4c]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Lex1974 showed [Tc Td] and won ($0.59) with two pair, Aces and Tens
+Seat 4: XprC (button) showed [7c 7s] and lost with two pair, Aces and Sevens
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734842549:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 15:59:56 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($1.01 in chips) 
+Seat 2: Lorpugo ($3.58 in chips) 
+Seat 3: Lex1974 ($0.59 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.47 in chips) 
+Seat 6: Mikeloko182 ($3.43 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 9s]
+Lorpugo: raises $0.02 to $0.04
+Lex1974: folds 
+XprC: folds 
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (big blind) folded before Flop
+Seat 2: Lorpugo collected ($0.05)
+Seat 3: Lex1974 folded before Flop (didn't bet)
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734848170:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:00:12 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($0.99 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 3: Lex1974 ($0.59 in chips) 
+Seat 4: XprC ($2 in chips) 
+Seat 5: andrim ($1.47 in chips) 
+Seat 6: Mikeloko182 ($3.42 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 5s]
+Lex1974: calls $0.02
+XprC: raises $0.08 to $0.10
+andrim: folds 
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+Lex1974: raises $0.49 to $0.59 and is all-in
+XprC: calls $0.49
+Lex1974 has timed out
+*** FLOP *** [9h 7h 6d]
+*** TURN *** [9h 7h 6d] [7d]
+*** RIVER *** [9h 7h 6d 7d] [4d]
+*** SHOW DOWN ***
+Lex1974: shows [Qc Ac] (a pair of Sevens)
+XprC: shows [Ad Td] (a flush, Ace high)
+XprC collected $1.17 from pot
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [9h 7h 6d 7d 4d]
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Lex1974 showed [Qc Ac] and lost with a pair of Sevens
+Seat 4: XprC showed [Ad Td] and won ($1.17) with a flush, Ace high
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734865163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:00:59 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($3.59 in chips) 
+Seat 4: XprC ($2.58 in chips) 
+Seat 5: andrim ($1.47 in chips) 
+Seat 6: Mikeloko182 ($3.42 in chips) 
+Lorpugo: posts small blind $0.01
+XprC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 9d]
+andrim: calls $0.02
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: folds 
+XprC: checks 
+*** FLOP *** [4d 3s Qc]
+XprC: checks 
+andrim: checks 
+*** TURN *** [4d 3s Qc] [2h]
+XprC: checks 
+andrim: checks 
+*** RIVER *** [4d 3s Qc 2h] [Kc]
+XprC: checks 
+andrim: bets $1.45 and is all-in
+XprC: folds 
+Uncalled bet ($1.45) returned to andrim
+andrim collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d 3s Qc 2h Kc]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 4: XprC (big blind) folded on the River
+Seat 5: andrim collected ($0.05)
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734884404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:01:47 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($3.58 in chips) 
+Seat 4: XprC ($2.56 in chips) 
+Seat 5: andrim ($1.50 in chips) 
+Seat 6: Mikeloko182 ($3.42 in chips) 
+XprC: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qh]
+Mikeloko182: folds 
+gelopoly: folds 
+Lorpugo: raises $0.04 to $0.06
+XprC: folds 
+andrim: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 4: XprC (small blind) folded before Flop
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240734892652:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:02:04 ET
+Table 'Ilioneus II' 6-max Seat #4 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 4: XprC ($2.55 in chips) 
+Seat 5: andrim ($1.48 in chips) 
+Seat 6: Mikeloko182 ($3.42 in chips) 
+andrim: posts small blind $0.01
+Mikeloko182: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7h]
+gelopoly: folds 
+Lorpugo: folds 
+XprC: raises $0.03 to $0.05
+Lex1974 leaves the table
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.03) returned to XprC
+XprC collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: XprC (button) collected ($0.05)
+Seat 5: andrim (small blind) folded before Flop
+Seat 6: Mikeloko182 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240734904161:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:02:30 ET
+Table 'Ilioneus II' 6-max Seat #5 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 4: XprC ($2.58 in chips) 
+Seat 5: andrim ($1.47 in chips) 
+Seat 6: Mikeloko182 ($3.40 in chips) 
+Mikeloko182: posts small blind $0.01
+gelopoly: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Jh]
+Lorpugo: folds 
+XprC: folds 
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.01) returned to gelopoly
+1942jonah joins the table at seat #3 
+gelopoly collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gelopoly (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim (button) folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240734910833:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:02:45 ET
+Table 'Ilioneus II' 6-max Seat #6 is the button
+Seat 1: gelopoly ($0.99 in chips) 
+Seat 2: Lorpugo ($3.61 in chips) 
+Seat 4: XprC ($2.58 in chips) 
+Seat 5: andrim ($1.47 in chips) 
+Seat 6: Mikeloko182 ($3.39 in chips) 
+gelopoly: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9c]
+XprC: folds 
+andrim: folds 
+Mikeloko182: raises $0.02 to $0.04
+gelopoly: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Mikeloko182
+Mikeloko182 collected $0.05 from pot
+Mikeloko182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gelopoly (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 (button) collected ($0.05)
+
+
+
+PokerStars Hand #240734920068:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:03:03 ET
+Table 'Ilioneus II' 6-max Seat #1 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($3.59 in chips) 
+Seat 3: 1942jonah ($1.60 in chips) 
+Seat 4: XprC ($2.58 in chips) 
+Seat 5: andrim ($1.47 in chips) 
+Seat 6: Mikeloko182 ($3.42 in chips) 
+Lorpugo: posts small blind $0.01
+1942jonah: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 7s]
+XprC: folds 
+andrim: calls $0.02
+Mikeloko182: calls $0.02
+gelopoly: folds 
+Lorpugo: folds 
+1942jonah: checks 
+*** FLOP *** [7h Qc 2d]
+1942jonah: checks 
+andrim: checks 
+Mikeloko182: checks 
+*** TURN *** [7h Qc 2d] [8c]
+1942jonah: bets $0.04
+andrim: folds 
+Mikeloko182: folds 
+Uncalled bet ($0.04) returned to 1942jonah
+1942jonah collected $0.07 from pot
+1942jonah: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7h Qc 2d 8c]
+Seat 1: gelopoly (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: 1942jonah (big blind) collected ($0.07)
+Seat 4: XprC folded before Flop (didn't bet)
+Seat 5: andrim folded on the Turn
+Seat 6: Mikeloko182 folded on the Turn
+
+
+
+PokerStars Hand #240734937265:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:03:40 ET
+Table 'Ilioneus II' 6-max Seat #2 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($3.58 in chips) 
+Seat 3: 1942jonah ($1.65 in chips) 
+Seat 4: XprC ($2.58 in chips) 
+Seat 5: andrim ($1.45 in chips) 
+Seat 6: Mikeloko182 ($3.40 in chips) 
+1942jonah: posts small blind $0.01
+XprC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3d]
+andrim: folds 
+Mikeloko182: raises $0.04 to $0.06
+gelopoly: folds 
+Lorpugo: calls $0.06
+1942jonah: folds 
+XprC: folds 
+*** FLOP *** [3h 2c 7h]
+Mikeloko182: bets $0.05
+Lorpugo: calls $0.05
+*** TURN *** [3h 2c 7h] [5c]
+Mikeloko182: checks 
+Lorpugo: checks 
+*** RIVER *** [3h 2c 7h 5c] [Kh]
+Mikeloko182: bets $0.17
+Lorpugo: calls $0.17
+*** SHOW DOWN ***
+Mikeloko182: shows [Ah As] (a pair of Aces)
+Lorpugo: mucks hand 
+Mikeloko182 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [3h 2c 7h 5c Kh]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) mucked [Ad 3d]
+Seat 3: 1942jonah (small blind) folded before Flop
+Seat 4: XprC (big blind) folded before Flop
+Seat 5: andrim folded before Flop (didn't bet)
+Seat 6: Mikeloko182 showed [Ah As] and won ($0.57) with a pair of Aces
+
+
+
+PokerStars Hand #240734967637:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 16:04:42 ET
+Table 'Ilioneus II' 6-max Seat #3 is the button
+Seat 1: gelopoly ($0.98 in chips) 
+Seat 2: Lorpugo ($3.30 in chips) 
+Seat 3: 1942jonah ($1.64 in chips) 
+Seat 4: XprC ($2.56 in chips) 
+Seat 5: andrim ($1.45 in chips) 
+Seat 6: Mikeloko182 ($3.69 in chips) 
+XprC: posts small blind $0.01
+andrim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qd]
+Mikeloko182: raises $0.02 to $0.04
+gelopoly: folds 
+Lorpugo: raises $0.11 to $0.15
+1942jonah: folds 
+XprC: folds 
+andrim has timed out
+andrim: folds 
+Mikeloko182: calls $0.11
+*** FLOP *** [4c Jh 2h]
+Mikeloko182: checks 
+Lorpugo: bets $0.16
+Mikeloko182: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [4c Jh 2h]
+Seat 1: gelopoly folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.32)
+Seat 3: 1942jonah (button) folded before Flop (didn't bet)
+Seat 4: XprC (small blind) folded before Flop
+Seat 5: andrim (big blind) folded before Flop
+Seat 6: Mikeloko182 folded on the Flop
+
+
+

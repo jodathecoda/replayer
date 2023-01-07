@@ -1,0 +1,814 @@
+﻿PokerStars Hand #240818380659:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:01:36 ET
+Table 'Circe II' 6-max Seat #6 is the button
+Seat 1: Pokershmok ($2.15 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: cartani1980 ($0.80 in chips) 
+Seat 4: piask ($2.10 in chips) 
+Seat 5: ZOOlou_13 ($3.60 in chips) 
+Seat 6: Hendula ($0.40 in chips) 
+Pokershmok: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qh]
+cartani1980: folds 
+piask: folds 
+ZOOlou_13: folds 
+Hendula: calls $0.02
+Pokershmok: raises $0.02 to $0.04
+Lorpugo: folds 
+Hendula: calls $0.02
+*** FLOP *** [3c Jd Js]
+Pokershmok: bets $0.07
+Hendula: raises $0.29 to $0.36 and is all-in
+Pokershmok: calls $0.29
+*** TURN *** [3c Jd Js] [8h]
+*** RIVER *** [3c Jd Js 8h] [7d]
+*** SHOW DOWN ***
+Pokershmok: shows [Qd 3d] (two pair, Jacks and Threes)
+Hendula: shows [Jc 5s] (three of a kind, Jacks)
+Hendula collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [3c Jd Js 8h 7d]
+Seat 1: Pokershmok (small blind) showed [Qd 3d] and lost with two pair, Jacks and Threes
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula (button) showed [Jc 5s] and won ($0.78) with three of a kind, Jacks
+
+
+
+PokerStars Hand #240818390658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:02:14 ET
+Table 'Circe II' 6-max Seat #1 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: cartani1980 ($0.80 in chips) 
+Seat 4: piask ($2.10 in chips) 
+Seat 5: ZOOlou_13 ($3.60 in chips) 
+Seat 6: Hendula ($0.78 in chips) 
+Lorpugo: posts small blind $0.01
+cartani1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qh]
+piask: folds 
+ZOOlou_13: folds 
+Hendula: calls $0.02
+Pokershmok: raises $0.02 to $0.04
+Lorpugo: raises $0.12 to $0.16
+cartani1980: folds 
+Hendula: folds 
+Pokershmok: calls $0.12
+*** FLOP *** [7d 4s 5c]
+Lorpugo: checks 
+Pokershmok: checks 
+*** TURN *** [7d 4s 5c] [2d]
+Lorpugo: checks 
+Pokershmok: checks 
+*** RIVER *** [7d 4s 5c 2d] [7h]
+Lorpugo: checks 
+Pokershmok: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ac Qh] (a pair of Sevens)
+Pokershmok: mucks hand 
+Lorpugo collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [7d 4s 5c 2d 7h]
+Seat 1: Pokershmok (button) mucked [Js Td]
+Seat 2: Lorpugo (small blind) showed [Ac Qh] and won ($0.35) with a pair of Sevens
+Seat 3: cartani1980 (big blind) folded before Flop
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula folded before Flop
+
+
+
+PokerStars Hand #240818399276:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:02:48 ET
+Table 'Circe II' 6-max Seat #2 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: cartani1980 ($0.78 in chips) 
+Seat 4: piask ($2.10 in chips) 
+Seat 5: ZOOlou_13 ($3.60 in chips) 
+Seat 6: Hendula ($0.76 in chips) 
+cartani1980: posts small blind $0.01
+piask: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qd]
+ZOOlou_13: folds 
+Hendula: calls $0.02
+Pokershmok: folds 
+Lorpugo: calls $0.02
+cartani1980: folds 
+piask: checks 
+*** FLOP *** [Kd Td 2s]
+piask: checks 
+Hendula: checks 
+Lorpugo: bets $0.04
+piask: folds 
+Hendula: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Kd Td 2s]
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.07)
+Seat 3: cartani1980 (small blind) folded before Flop
+Seat 4: piask (big blind) folded on the Flop
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula folded on the Flop
+
+
+
+PokerStars Hand #240818405909:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:03:13 ET
+Table 'Circe II' 6-max Seat #3 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: cartani1980 ($0.77 in chips) 
+Seat 4: piask ($2.08 in chips) 
+Seat 5: ZOOlou_13 ($3.60 in chips) 
+Seat 6: Hendula ($0.74 in chips) 
+piask: posts small blind $0.01
+ZOOlou_13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 8s]
+Hendula: raises $0.02 to $0.04
+Pokershmok: folds 
+Lorpugo: raises $0.02 to $0.06
+cartani1980: folds 
+piask: calls $0.05
+ZOOlou_13: calls $0.04
+Hendula: calls $0.02
+*** FLOP *** [Td 6d 4h]
+piask: checks 
+ZOOlou_13: checks 
+Hendula: checks 
+Lorpugo: checks 
+*** TURN *** [Td 6d 4h] [Ad]
+piask: checks 
+ZOOlou_13: checks 
+Hendula: bets $0.04
+Lorpugo: folds 
+piask: folds 
+ZOOlou_13: calls $0.04
+*** RIVER *** [Td 6d 4h Ad] [3d]
+ZOOlou_13: checks 
+Hendula: bets $0.06
+ZOOlou_13: calls $0.06
+*** SHOW DOWN ***
+Hendula: shows [7d Ah] (a flush, Ace high)
+ZOOlou_13: shows [8h 8d] (a flush, Ace high - Eight higher)
+ZOOlou_13 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Td 6d 4h Ad 3d]
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo folded on the Turn
+Seat 3: cartani1980 (button) folded before Flop (didn't bet)
+Seat 4: piask (small blind) folded on the Turn
+Seat 5: ZOOlou_13 (big blind) showed [8h 8d] and won ($0.42) with a flush, Ace high
+Seat 6: Hendula showed [7d Ah] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #240818421386:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:04:11 ET
+Table 'Circe II' 6-max Seat #4 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.76 in chips) 
+Seat 3: cartani1980 ($0.77 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.86 in chips) 
+Seat 6: Hendula ($0.58 in chips) 
+ZOOlou_13: posts small blind $0.01
+Hendula: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 3d]
+Pokershmok: folds 
+Lorpugo: folds 
+cartani1980: folds 
+piask: folds 
+ZOOlou_13: raises $0.04 to $0.06
+Hendula: folds 
+Uncalled bet ($0.04) returned to ZOOlou_13
+ZOOlou_13 collected $0.04 from pot
+ZOOlou_13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask (button) folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 (small blind) collected ($0.04)
+Seat 6: Hendula (big blind) folded before Flop
+
+
+
+PokerStars Hand #240818425627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:04:27 ET
+Table 'Circe II' 6-max Seat #5 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.76 in chips) 
+Seat 3: cartani1980 ($0.77 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.88 in chips) 
+Seat 6: Hendula ($0.56 in chips) 
+Hendula: posts small blind $0.01
+Pokershmok: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 7d]
+Lorpugo: raises $0.04 to $0.06
+cartani1980: folds 
+piask: folds 
+ZOOlou_13: folds 
+Hendula: raises $0.50 to $0.56 and is all-in
+Pokershmok: folds 
+Lorpugo: folds 
+Uncalled bet ($0.50) returned to Hendula
+Hendula collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Pokershmok (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 (button) folded before Flop (didn't bet)
+Seat 6: Hendula (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #240818431872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:04:50 ET
+Table 'Circe II' 6-max Seat #6 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.70 in chips) 
+Seat 3: cartani1980 ($0.77 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.88 in chips) 
+Seat 6: Hendula ($0.64 in chips) 
+Pokershmok: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8c]
+cartani1980: folds 
+piask: folds 
+ZOOlou_13: folds 
+Hendula: folds 
+Pokershmok: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [2c Qd Qs]
+Pokershmok: checks 
+Lorpugo: checks 
+*** TURN *** [2c Qd Qs] [Kc]
+Pokershmok: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Pokershmok
+Pokershmok collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c Qd Qs Kc]
+Seat 1: Pokershmok (small blind) collected ($0.08)
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818439408:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:05:18 ET
+Table 'Circe II' 6-max Seat #1 is the button
+Seat 1: Pokershmok ($2.04 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: cartani1980 ($0.77 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.88 in chips) 
+Seat 6: Hendula ($0.64 in chips) 
+Lorpugo: posts small blind $0.01
+cartani1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 9h]
+piask: folds 
+ZOOlou_13: folds 
+Hendula: calls $0.02
+Pokershmok: folds 
+Lorpugo: calls $0.01
+cartani1980: checks 
+*** FLOP *** [3s Td 6s]
+Lorpugo: checks 
+cartani1980: checks 
+Hendula: checks 
+*** TURN *** [3s Td 6s] [5d]
+Lorpugo: checks 
+cartani1980: checks 
+Hendula: checks 
+*** RIVER *** [3s Td 6s 5d] [Ac]
+Lorpugo: checks 
+cartani1980: checks 
+Hendula: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Qd 9h] (high card Ace)
+cartani1980: shows [Js Qs] (high card Ace - Queen+Jack kicker)
+Hendula: shows [Qh 7c] (high card Ace - lower kicker)
+cartani1980 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3s Td 6s 5d Ac]
+Seat 1: Pokershmok (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) showed [Qd 9h] and lost with high card Ace
+Seat 3: cartani1980 (big blind) showed [Js Qs] and won ($0.06) with high card Ace
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula showed [Qh 7c] and lost with high card Ace
+
+
+
+PokerStars Hand #240818450149:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:05:58 ET
+Table 'Circe II' 6-max Seat #2 is the button
+Seat 1: Pokershmok ($2.04 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: cartani1980 ($0.81 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.88 in chips) 
+Seat 6: Hendula ($0.62 in chips) 
+cartani1980: posts small blind $0.01
+piask: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 2c]
+ZOOlou_13: folds 
+Hendula: folds 
+Pokershmok: folds 
+Lorpugo: folds 
+cartani1980: calls $0.01
+piask: raises $0.06 to $0.08
+cartani1980: folds 
+Uncalled bet ($0.06) returned to piask
+piask collected $0.04 from pot
+piask: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: cartani1980 (small blind) folded before Flop
+Seat 4: piask (big blind) collected ($0.04)
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818454629:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:06:15 ET
+Table 'Circe II' 6-max Seat #3 is the button
+Seat 1: Pokershmok ($2.04 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: cartani1980 ($0.79 in chips) 
+Seat 4: piask ($2.04 in chips) 
+Seat 5: ZOOlou_13 ($3.88 in chips) 
+Seat 6: Hendula ($0.62 in chips) 
+piask: posts small blind $0.01
+ZOOlou_13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 3c]
+Hendula: calls $0.02
+Pokershmok: folds 
+Lorpugo: folds 
+cartani1980: folds 
+piask: calls $0.01
+ZOOlou_13: checks 
+*** FLOP *** [5d Kh 3d]
+piask: checks 
+ZOOlou_13: checks 
+Hendula: bets $0.04
+piask: folds 
+ZOOlou_13: folds 
+Uncalled bet ($0.04) returned to Hendula
+Hendula collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5d Kh 3d]
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: cartani1980 (button) folded before Flop (didn't bet)
+Seat 4: piask (small blind) folded on the Flop
+Seat 5: ZOOlou_13 (big blind) folded on the Flop
+Seat 6: Hendula collected ($0.06)
+
+
+
+PokerStars Hand #240818464669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:06:53 ET
+Table 'Circe II' 6-max Seat #4 is the button
+Seat 1: Pokershmok ($2.04 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: cartani1980 ($0.79 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.86 in chips) 
+Seat 6: Hendula ($0.66 in chips) 
+ZOOlou_13: posts small blind $0.01
+Hendula: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8s]
+Pokershmok: folds 
+Lorpugo: folds 
+cartani1980: raises $0.77 to $0.79 and is all-in
+piask: folds 
+ZOOlou_13: folds 
+Hendula: folds 
+Uncalled bet ($0.77) returned to cartani1980
+cartani1980 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: cartani1980 collected ($0.05)
+Seat 4: piask (button) folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 (small blind) folded before Flop
+Seat 6: Hendula (big blind) folded before Flop
+
+
+
+PokerStars Hand #240818467046:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:07:02 ET
+Table 'Circe II' 6-max Seat #5 is the button
+Seat 1: Pokershmok ($2.04 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: cartani1980 ($0.82 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.85 in chips) 
+Seat 6: Hendula ($0.64 in chips) 
+Hendula: posts small blind $0.01
+Pokershmok: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Kc]
+Lorpugo: folds 
+cartani1980: folds 
+piask: folds 
+ZOOlou_13: raises $0.04 to $0.06
+Hendula: folds 
+Pokershmok: calls $0.04
+*** FLOP *** [Tc 6d Qh]
+Pokershmok: checks 
+ZOOlou_13: bets $0.04
+Pokershmok: raises $0.14 to $0.18
+ZOOlou_13: folds 
+Uncalled bet ($0.14) returned to Pokershmok
+Pokershmok collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Tc 6d Qh]
+Seat 1: Pokershmok (big blind) collected ($0.20)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 (button) folded on the Flop
+Seat 6: Hendula (small blind) folded before Flop
+
+
+
+PokerStars Hand #240818476355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:07:36 ET
+Table 'Circe II' 6-max Seat #6 is the button
+Seat 1: Pokershmok ($2.14 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: cartani1980 ($0.82 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.75 in chips) 
+Seat 6: Hendula ($0.63 in chips) 
+Pokershmok: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Kh]
+cartani1980 has timed out
+cartani1980: folds 
+piask: folds 
+ZOOlou_13: raises $0.04 to $0.06
+Hendula: folds 
+Pokershmok: raises $0.08 to $0.14
+Lorpugo: folds 
+ZOOlou_13: calls $0.08
+*** FLOP *** [Kd Ah Jc]
+Pokershmok: bets $0.08
+ZOOlou_13: calls $0.08
+*** TURN *** [Kd Ah Jc] [As]
+Pokershmok: checks 
+cartani1980 is disconnected 
+ZOOlou_13: checks 
+*** RIVER *** [Kd Ah Jc As] [5c]
+Pokershmok: checks 
+ZOOlou_13: bets $0.26
+Pokershmok: folds 
+Uncalled bet ($0.26) returned to ZOOlou_13
+ZOOlou_13 collected $0.44 from pot
+ZOOlou_13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Kd Ah Jc As 5c]
+Seat 1: Pokershmok (small blind) folded on the River
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 collected ($0.44)
+Seat 6: Hendula (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818496874:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:08:53 ET
+Table 'Circe II' 6-max Seat #1 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.62 in chips) 
+Seat 4: piask ($2.02 in chips) 
+Seat 5: ZOOlou_13 ($3.97 in chips) 
+Seat 6: Hendula ($0.63 in chips) 
+Lorpugo: posts small blind $0.01
+piask: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qd]
+ZOOlou_13: folds 
+Hendula: raises $0.61 to $0.63 and is all-in
+Pokershmok: folds 
+Lorpugo: folds 
+piask: folds 
+Uncalled bet ($0.61) returned to Hendula
+Hendula collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Pokershmok (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 4: piask (big blind) folded before Flop
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula collected ($0.05)
+
+
+
+PokerStars Hand #240818499693:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:09:03 ET
+Table 'Circe II' 6-max Seat #2 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 4: piask ($2 in chips) 
+Seat 5: ZOOlou_13 ($3.97 in chips) 
+Seat 6: Hendula ($0.66 in chips) 
+piask: posts small blind $0.01
+ZOOlou_13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 6c]
+Hendula: raises $0.02 to $0.04
+Pokershmok: folds 
+Lorpugo: folds 
+piask: calls $0.03
+ZOOlou_13: raises $0.12 to $0.16
+Hendula: raises $0.50 to $0.66 and is all-in
+piask: folds 
+ZOOlou_13: calls $0.50
+*** FLOP *** [4h 5c 3c]
+*** TURN *** [4h 5c 3c] [Jh]
+*** RIVER *** [4h 5c 3c Jh] [3d]
+*** SHOW DOWN ***
+ZOOlou_13: shows [Qc Qh] (two pair, Queens and Threes)
+Hendula: shows [Kc Kd] (two pair, Kings and Threes)
+Hendula collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.06 
+Board [4h 5c 3c Jh 3d]
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: piask (small blind) folded before Flop
+Seat 5: ZOOlou_13 (big blind) showed [Qc Qh] and lost with two pair, Queens and Threes
+Seat 6: Hendula showed [Kc Kd] and won ($1.30) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #240818508196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:09:35 ET
+Table 'Circe II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: cartani1980 ($0.82 in chips) 
+Seat 4: piask ($1.96 in chips) 
+Seat 5: ZOOlou_13 ($3.31 in chips) 
+Seat 6: Hendula ($1.30 in chips) 
+ZOOlou_13: posts small blind $0.01
+Hendula: posts big blind $0.02
+cartani1980: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5s]
+Lorpugo: folds 
+cartani1980: checks 
+piask: calls $0.02
+ZOOlou_13: calls $0.01
+Hendula: checks 
+*** FLOP *** [Jd Ks 3c]
+ZOOlou_13: checks 
+Hendula: checks 
+cartani1980: checks 
+piask: bets $0.02
+ZOOlou_13: calls $0.02
+Hendula: folds 
+cartani1980: folds 
+*** TURN *** [Jd Ks 3c] [Ad]
+ZOOlou_13: checks 
+piask: bets $0.02
+ZOOlou_13: calls $0.02
+*** RIVER *** [Jd Ks 3c Ad] [5c]
+ZOOlou_13: checks 
+piask: checks 
+*** SHOW DOWN ***
+ZOOlou_13: shows [Qd Jc] (a pair of Jacks)
+piask: shows [Kh 6h] (a pair of Kings)
+piask collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Jd Ks 3c Ad 5c]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: cartani1980 folded on the Flop (didn't bet)
+Seat 4: piask (button) showed [Kh 6h] and won ($0.16) with a pair of Kings
+Seat 5: ZOOlou_13 (small blind) showed [Qd Jc] and lost with a pair of Jacks
+Seat 6: Hendula (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240818534057:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:11:10 ET
+Table 'Circe II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.61 in chips) 
+Seat 3: cartani1980 ($0.76 in chips) 
+Seat 4: piask ($2.04 in chips) 
+Seat 5: ZOOlou_13 ($3.33 in chips) 
+Seat 6: Hendula ($1.25 in chips) 
+Hendula: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 4s]
+cartani1980: folds 
+piask: raises $0.04 to $0.06
+ZOOlou_13: folds 
+Hendula: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to piask
+piask collected $0.05 from pot
+piask: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask collected ($0.05)
+Seat 5: ZOOlou_13 (button) folded before Flop (didn't bet)
+Seat 6: Hendula (small blind) folded before Flop
+
+
+
+PokerStars Hand #240818537929:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:11:24 ET
+Table 'Circe II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.59 in chips) 
+Seat 3: cartani1980 ($0.76 in chips) 
+Seat 4: piask ($2.07 in chips) 
+Seat 5: ZOOlou_13 ($3.33 in chips) 
+Seat 6: Hendula ($1.24 in chips) 
+Lorpugo: posts small blind $0.01
+cartani1980: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 7h]
+piask: folds 
+ZOOlou_13: folds 
+Hendula: calls $0.02
+Lorpugo: folds 
+cartani1980: checks 
+*** FLOP *** [Td 9c Qs]
+cartani1980: checks 
+Hendula: bets $0.02
+cartani1980: folds 
+Uncalled bet ($0.02) returned to Hendula
+Hendula collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td 9c Qs]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: cartani1980 (big blind) folded on the Flop
+Seat 4: piask folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula (button) collected ($0.05)
+
+
+
+PokerStars Hand #240818544071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:11:47 ET
+Table 'Circe II' 6-max Seat #2 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: cartani1980 ($0.74 in chips) 
+Seat 4: piask ($2.07 in chips) 
+Seat 5: ZOOlou_13 ($3.33 in chips) 
+Seat 6: Hendula ($1.27 in chips) 
+cartani1980: posts small blind $0.01
+piask: posts big blind $0.02
+Pokershmok: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7h]
+ZOOlou_13: folds 
+Hendula: calls $0.02
+Pokershmok: checks 
+Lorpugo: calls $0.02
+cartani1980: folds 
+piask: checks 
+*** FLOP *** [3h 6h Qs]
+piask: checks 
+Hendula: checks 
+Pokershmok: checks 
+Lorpugo: checks 
+*** TURN *** [3h 6h Qs] [5d]
+piask: checks 
+Hendula: checks 
+Pokershmok: checks 
+Lorpugo: checks 
+*** RIVER *** [3h 6h Qs 5d] [4h]
+piask: checks 
+Hendula: checks 
+Pokershmok: checks 
+Lorpugo: bets $0.07
+piask: folds 
+Hendula: folds 
+Pokershmok: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3h 6h Qs 5d 4h]
+Seat 1: Pokershmok folded on the River (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.10)
+Seat 3: cartani1980 (small blind) folded before Flop
+Seat 4: piask (big blind) folded on the River
+Seat 5: ZOOlou_13 folded before Flop (didn't bet)
+Seat 6: Hendula folded on the River
+
+
+
+PokerStars Hand #240818560027:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:12:45 ET
+Table 'Circe II' 6-max Seat #3 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: cartani1980 ($0.73 in chips) 
+Seat 4: piask ($2.05 in chips) 
+Seat 5: ZOOlou_13 ($3.33 in chips) 
+Seat 6: Hendula ($1.25 in chips) 
+piask: posts small blind $0.01
+ZOOlou_13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 4d]
+Hendula: folds 
+Pokershmok: folds 
+Lorpugo: folds 
+cartani1980: folds 
+piask: calls $0.01
+ZOOlou_13: checks 
+*** FLOP *** [6h Td 9d]
+piask: bets $0.04
+ZOOlou_13: folds 
+Uncalled bet ($0.04) returned to piask
+piask collected $0.04 from pot
+piask: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6h Td 9d]
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: cartani1980 (button) folded before Flop (didn't bet)
+Seat 4: piask (small blind) collected ($0.04)
+Seat 5: ZOOlou_13 (big blind) folded on the Flop
+Seat 6: Hendula folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818565349:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:13:05 ET
+Table 'Circe II' 6-max Seat #4 is the button
+Seat 1: Pokershmok ($2 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: cartani1980 ($0.73 in chips) 
+Seat 4: piask ($2.07 in chips) 
+Seat 5: ZOOlou_13 ($3.31 in chips) 
+Seat 6: Hendula ($1.25 in chips) 
+ZOOlou_13: posts small blind $0.01
+Hendula: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Th]
+Pokershmok: folds 
+Lorpugo: folds 
+cartani1980: folds 
+piask: folds 
+ZOOlou_13: calls $0.01
+Hendula: checks 
+*** FLOP *** [Ac 3c 4s]
+ZOOlou_13: checks 
+Hendula: checks 
+*** TURN *** [Ac 3c 4s] [Ad]
+ZOOlou_13: bets $0.02
+Hendula: calls $0.02
+*** RIVER *** [Ac 3c 4s Ad] [5d]
+ZOOlou_13: checks 
+Hendula: bets $0.02
+ZOOlou_13: folds 
+Uncalled bet ($0.02) returned to Hendula
+Hendula collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ac 3c 4s Ad 5d]
+Seat 1: Pokershmok folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: cartani1980 folded before Flop (didn't bet)
+Seat 4: piask (button) folded before Flop (didn't bet)
+Seat 5: ZOOlou_13 (small blind) folded on the River
+Seat 6: Hendula (big blind) collected ($0.08)
+
+
+

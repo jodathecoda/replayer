@@ -1,0 +1,715 @@
+﻿PokerStars Hand #240644867559: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:02:02 ET
+Table '3519955657 1' 3-max Seat #1 is the button
+Seat 1: Jejoo210 (500 in chips) 
+Seat 2: alfredo_rojo (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+alfredo_rojo: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 3h]
+Jejoo210: calls 20
+alfredo_rojo: folds 
+Lorpugo: checks 
+*** FLOP *** [3s 8d 9s]
+Lorpugo: checks 
+Jejoo210: checks 
+*** TURN *** [3s 8d 9s] [Qs]
+Lorpugo: bets 20
+Jejoo210: calls 20
+*** RIVER *** [3s 8d 9s Qs] [Ac]
+Lorpugo: checks 
+Jejoo210: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Th 3h] (a pair of Threes)
+Jejoo210: mucks hand 
+Lorpugo collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3s 8d 9s Qs Ac]
+Seat 1: Jejoo210 (button) mucked [Kc Jc]
+Seat 2: alfredo_rojo (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) showed [Th 3h] and won (90) with a pair of Threes
+
+
+
+PokerStars Hand #240644876089: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:02:26 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 1: Jejoo210 (460 in chips) 
+Seat 2: alfredo_rojo (490 in chips) 
+Seat 3: Lorpugo (550 in chips) 
+Lorpugo: posts small blind 10
+Jejoo210: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 7c]
+alfredo_rojo: folds 
+Lorpugo: raises 20 to 40
+Jejoo210: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jejoo210 (big blind) folded before Flop
+Seat 2: alfredo_rojo (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected (40)
+
+
+
+PokerStars Hand #240644880793: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:02:38 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 1: Jejoo210 (440 in chips) 
+Seat 2: alfredo_rojo (490 in chips) 
+Seat 3: Lorpugo (570 in chips) 
+Jejoo210: posts small blind 10
+alfredo_rojo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Ad]
+Lorpugo: raises 20 to 40
+Jejoo210: folds 
+alfredo_rojo: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Jejoo210 (small blind) folded before Flop
+Seat 2: alfredo_rojo (big blind) folded before Flop
+Seat 3: Lorpugo (button) collected (50)
+
+
+
+PokerStars Hand #240644883826: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:02:47 ET
+Table '3519955657 1' 3-max Seat #1 is the button
+Seat 1: Jejoo210 (430 in chips) 
+Seat 2: alfredo_rojo (470 in chips) 
+Seat 3: Lorpugo (600 in chips) 
+alfredo_rojo: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7d]
+Jejoo210: calls 20
+alfredo_rojo: calls 10
+Lorpugo: raises 80 to 100
+Jejoo210: calls 80
+alfredo_rojo: folds 
+*** FLOP *** [Ts 2d 4c]
+Lorpugo: bets 500 and is all-in
+Jejoo210: folds 
+Uncalled bet (500) returned to Lorpugo
+Lorpugo collected 220 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Ts 2d 4c]
+Seat 1: Jejoo210 (button) folded on the Flop
+Seat 2: alfredo_rojo (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (220)
+
+
+
+PokerStars Hand #240644891657: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:03:09 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 1: Jejoo210 (330 in chips) 
+Seat 2: alfredo_rojo (450 in chips) 
+Seat 3: Lorpugo (720 in chips) 
+Lorpugo: posts small blind 10
+Jejoo210: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5h]
+alfredo_rojo: raises 20 to 40
+Lorpugo: folds 
+Jejoo210: calls 20
+*** FLOP *** [Jc 2c Ah]
+Jejoo210: checks 
+alfredo_rojo: bets 45
+Jejoo210: folds 
+Uncalled bet (45) returned to alfredo_rojo
+alfredo_rojo collected 90 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jc 2c Ah]
+Seat 1: Jejoo210 (big blind) folded on the Flop
+Seat 2: alfredo_rojo (button) collected (90)
+Seat 3: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644896950: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:03:24 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 1: Jejoo210 (290 in chips) 
+Seat 2: alfredo_rojo (500 in chips) 
+Seat 3: Lorpugo (710 in chips) 
+Jejoo210: posts small blind 10
+alfredo_rojo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ah]
+Lorpugo: raises 40 to 60
+Jejoo210: raises 230 to 290 and is all-in
+alfredo_rojo: folds 
+Lorpugo: folds 
+Uncalled bet (230) returned to Jejoo210
+Jejoo210 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: Jejoo210 (small blind) collected (140)
+Seat 2: alfredo_rojo (big blind) folded before Flop
+Seat 3: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #240644900866: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:03:35 ET
+Table '3519955657 1' 3-max Seat #1 is the button
+Seat 1: Jejoo210 (370 in chips) 
+Seat 2: alfredo_rojo (480 in chips) 
+Seat 3: Lorpugo (650 in chips) 
+alfredo_rojo: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ah]
+Jejoo210: folds 
+alfredo_rojo: calls 10
+Lorpugo: raises 80 to 100
+alfredo_rojo: folds 
+Uncalled bet (80) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jejoo210 (button) folded before Flop (didn't bet)
+Seat 2: alfredo_rojo (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #240644907524: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2022/12/23 14:03:54 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 1: Jejoo210 (370 in chips) 
+Seat 2: alfredo_rojo (460 in chips) 
+Seat 3: Lorpugo (670 in chips) 
+Lorpugo: posts small blind 10
+Jejoo210: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7h]
+alfredo_rojo: folds 
+Lorpugo: raises 20 to 40
+Jejoo210: raises 330 to 370 and is all-in
+Lorpugo: folds 
+Uncalled bet (330) returned to Jejoo210
+Jejoo210 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Jejoo210 (big blind) collected (80)
+Seat 2: alfredo_rojo (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644913339: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:04:10 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 1: Jejoo210 (410 in chips) 
+Seat 2: alfredo_rojo (460 in chips) 
+Seat 3: Lorpugo (630 in chips) 
+Jejoo210: posts small blind 15
+alfredo_rojo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 5s]
+Lorpugo: folds 
+Jejoo210: calls 15
+alfredo_rojo: raises 33 to 63
+Jejoo210: calls 33
+*** FLOP *** [Qc 2h 3c]
+Jejoo210: checks 
+alfredo_rojo: bets 50
+Jejoo210: folds 
+Uncalled bet (50) returned to alfredo_rojo
+alfredo_rojo collected 126 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [Qc 2h 3c]
+Seat 1: Jejoo210 (small blind) folded on the Flop
+Seat 2: alfredo_rojo (big blind) collected (126)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644923332: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:04:38 ET
+Table '3519955657 1' 3-max Seat #1 is the button
+Seat 1: Jejoo210 (347 in chips) 
+Seat 2: alfredo_rojo (523 in chips) 
+Seat 3: Lorpugo (630 in chips) 
+alfredo_rojo: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 2s]
+Jejoo210: folds 
+alfredo_rojo: folds 
+Uncalled bet (15) returned to Lorpugo
+Lorpugo collected 30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Jejoo210 (button) folded before Flop (didn't bet)
+Seat 2: alfredo_rojo (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (30)
+
+
+
+PokerStars Hand #240644925920: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:04:45 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 1: Jejoo210 (347 in chips) 
+Seat 2: alfredo_rojo (508 in chips) 
+Seat 3: Lorpugo (645 in chips) 
+Lorpugo: posts small blind 15
+Jejoo210: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 4s]
+alfredo_rojo: folds 
+Lorpugo: raises 615 to 645 and is all-in
+Jejoo210: calls 317 and is all-in
+Uncalled bet (298) returned to Lorpugo
+*** FLOP *** [9d 6h 2c]
+*** TURN *** [9d 6h 2c] [3s]
+*** RIVER *** [9d 6h 2c 3s] [7c]
+*** SHOW DOWN ***
+Lorpugo: shows [9c 4s] (a pair of Nines)
+Jejoo210: shows [Kc Jd] (high card King)
+Lorpugo collected 694 from pot
+Jejoo210 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 694 | Rake 0 
+Board [9d 6h 2c 3s 7c]
+Seat 1: Jejoo210 (big blind) showed [Kc Jd] and lost with high card King
+Seat 2: alfredo_rojo (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) showed [9c 4s] and won (694) with a pair of Nines
+
+
+
+PokerStars Hand #240644933138: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:05:05 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (508 in chips) 
+Seat 3: Lorpugo (992 in chips) 
+Lorpugo: posts small blind 15
+alfredo_rojo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qc]
+Lorpugo: raises 962 to 992 and is all-in
+alfredo_rojo: folds 
+Uncalled bet (962) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: alfredo_rojo (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #240644937805: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:05:18 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (478 in chips) 
+Seat 3: Lorpugo (1022 in chips) 
+alfredo_rojo: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9c]
+alfredo_rojo: folds 
+Uncalled bet (15) returned to Lorpugo
+Lorpugo collected 30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (30)
+
+
+
+PokerStars Hand #240644939150: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:05:22 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (463 in chips) 
+Seat 3: Lorpugo (1037 in chips) 
+Lorpugo: posts small blind 15
+alfredo_rojo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Kd]
+Lorpugo: raises 1007 to 1037 and is all-in
+alfredo_rojo: calls 433 and is all-in
+Uncalled bet (574) returned to Lorpugo
+*** FLOP *** [Qs 5s 3c]
+*** TURN *** [Qs 5s 3c] [4d]
+*** RIVER *** [Qs 5s 3c 4d] [Jd]
+*** SHOW DOWN ***
+alfredo_rojo: shows [6s 6d] (a pair of Sixes)
+Lorpugo: shows [Ah Kd] (high card Ace)
+alfredo_rojo collected 926 from pot
+*** SUMMARY ***
+Total pot 926 | Rake 0 
+Board [Qs 5s 3c 4d Jd]
+Seat 2: alfredo_rojo (big blind) showed [6s 6d] and won (926) with a pair of Sixes
+Seat 3: Lorpugo (button) (small blind) showed [Ah Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #240644944559: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:05:36 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (926 in chips) 
+Seat 3: Lorpugo (574 in chips) 
+alfredo_rojo: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qd]
+alfredo_rojo: raises 30 to 60
+Lorpugo: raises 514 to 574 and is all-in
+alfredo_rojo: folds 
+Uncalled bet (514) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (120)
+
+
+
+PokerStars Hand #240644948477: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:05:47 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (866 in chips) 
+Seat 3: Lorpugo (634 in chips) 
+Lorpugo: posts small blind 15
+alfredo_rojo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 6d]
+Lorpugo: raises 604 to 634 and is all-in
+alfredo_rojo: folds 
+Uncalled bet (604) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: alfredo_rojo (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #240644951243: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:05:55 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (836 in chips) 
+Seat 3: Lorpugo (664 in chips) 
+alfredo_rojo: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 6s]
+alfredo_rojo: raises 806 to 836 and is all-in
+Lorpugo: folds 
+Uncalled bet (806) returned to alfredo_rojo
+alfredo_rojo collected 60 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) collected (60)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644953391: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2022/12/23 14:06:01 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (866 in chips) 
+Seat 3: Lorpugo (634 in chips) 
+Lorpugo: posts small blind 15
+alfredo_rojo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5c]
+Lorpugo: raises 30 to 60
+alfredo_rojo: calls 30
+*** FLOP *** [Tc 5h 8c]
+alfredo_rojo: checks 
+Lorpugo: bets 30
+alfredo_rojo: calls 30
+*** TURN *** [Tc 5h 8c] [Qs]
+alfredo_rojo: checks 
+Lorpugo: checks 
+*** RIVER *** [Tc 5h 8c Qs] [Td]
+alfredo_rojo: bets 99
+Lorpugo: folds 
+Uncalled bet (99) returned to alfredo_rojo
+alfredo_rojo collected 180 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Tc 5h 8c Qs Td]
+Seat 2: alfredo_rojo (big blind) collected (180)
+Seat 3: Lorpugo (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #240644965090: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:06:33 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (956 in chips) 
+Seat 3: Lorpugo (544 in chips) 
+alfredo_rojo: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 6d]
+alfredo_rojo: calls 20
+Lorpugo: raises 504 to 544 and is all-in
+alfredo_rojo: folds 
+Uncalled bet (504) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (80)
+
+
+
+PokerStars Hand #240644967917: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:06:41 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (916 in chips) 
+Seat 3: Lorpugo (584 in chips) 
+Lorpugo: posts small blind 20
+alfredo_rojo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3d]
+Lorpugo: raises 40 to 80
+alfredo_rojo: raises 836 to 916 and is all-in
+Lorpugo: calls 504 and is all-in
+Uncalled bet (332) returned to alfredo_rojo
+*** FLOP *** [8h 5d 4d]
+*** TURN *** [8h 5d 4d] [6d]
+*** RIVER *** [8h 5d 4d 6d] [9d]
+*** SHOW DOWN ***
+alfredo_rojo: shows [9c 9h] (three of a kind, Nines)
+Lorpugo: shows [Ad 3d] (a flush, Ace high)
+Lorpugo collected 1168 from pot
+*** SUMMARY ***
+Total pot 1168 | Rake 0 
+Board [8h 5d 4d 6d 9d]
+Seat 2: alfredo_rojo (big blind) showed [9c 9h] and lost with three of a kind, Nines
+Seat 3: Lorpugo (button) (small blind) showed [Ad 3d] and won (1168) with a flush, Ace high
+
+
+
+PokerStars Hand #240644974558: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:07:00 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (332 in chips) 
+Seat 3: Lorpugo (1168 in chips) 
+alfredo_rojo: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 7c]
+alfredo_rojo: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #240644976617: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:07:05 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (312 in chips) 
+Seat 3: Lorpugo (1188 in chips) 
+Lorpugo: posts small blind 20
+alfredo_rojo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4h]
+Lorpugo: calls 20
+alfredo_rojo: raises 272 to 312 and is all-in
+Lorpugo: folds 
+Uncalled bet (272) returned to alfredo_rojo
+alfredo_rojo collected 80 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: alfredo_rojo (big blind) collected (80)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644979537: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:07:13 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (352 in chips) 
+Seat 3: Lorpugo (1148 in chips) 
+alfredo_rojo: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Qd]
+alfredo_rojo: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #240644980716: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:07:17 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (332 in chips) 
+Seat 3: Lorpugo (1168 in chips) 
+Lorpugo: posts small blind 20
+alfredo_rojo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8s]
+Lorpugo: calls 20
+alfredo_rojo: checks 
+*** FLOP *** [Tc 7h 2h]
+alfredo_rojo: checks 
+Lorpugo: bets 40
+alfredo_rojo: raises 252 to 292 and is all-in
+Lorpugo: folds 
+Uncalled bet (252) returned to alfredo_rojo
+alfredo_rojo collected 160 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Tc 7h 2h]
+Seat 2: alfredo_rojo (big blind) collected (160)
+Seat 3: Lorpugo (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240644988296: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:07:38 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (412 in chips) 
+Seat 3: Lorpugo (1088 in chips) 
+alfredo_rojo: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2h]
+alfredo_rojo: raises 372 to 412 and is all-in
+Lorpugo: folds 
+Uncalled bet (372) returned to alfredo_rojo
+alfredo_rojo collected 80 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) collected (80)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644990566: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2022/12/23 14:07:44 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (452 in chips) 
+Seat 3: Lorpugo (1048 in chips) 
+Lorpugo: posts small blind 20
+alfredo_rojo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Qd]
+Lorpugo: calls 20
+alfredo_rojo: checks 
+*** FLOP *** [Jd 5c 6s]
+alfredo_rojo: checks 
+Lorpugo: bets 40
+alfredo_rojo: calls 40
+*** TURN *** [Jd 5c 6s] [Kh]
+alfredo_rojo: checks 
+Lorpugo: bets 968 and is all-in
+alfredo_rojo: folds 
+Uncalled bet (968) returned to Lorpugo
+Lorpugo collected 160 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd 5c 6s Kh]
+Seat 2: alfredo_rojo (big blind) folded on the Turn
+Seat 3: Lorpugo (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #240645002459: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2022/12/23 14:08:17 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (372 in chips) 
+Seat 3: Lorpugo (1128 in chips) 
+alfredo_rojo: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Th]
+alfredo_rojo: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (60)
+
+
+
+PokerStars Hand #240645003852: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2022/12/23 14:08:21 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (342 in chips) 
+Seat 3: Lorpugo (1158 in chips) 
+Lorpugo: posts small blind 30
+alfredo_rojo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7h]
+Lorpugo: calls 30
+alfredo_rojo: raises 282 to 342 and is all-in
+Lorpugo: folds 
+Uncalled bet (282) returned to alfredo_rojo
+alfredo_rojo collected 120 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: alfredo_rojo (big blind) collected (120)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #240645007326: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2022/12/23 14:08:31 ET
+Table '3519955657 1' 3-max Seat #2 is the button
+Seat 2: alfredo_rojo (402 in chips) 
+Seat 3: Lorpugo (1098 in chips) 
+alfredo_rojo: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9s]
+alfredo_rojo: raises 342 to 402 and is all-in
+Lorpugo: folds 
+Uncalled bet (342) returned to alfredo_rojo
+alfredo_rojo collected 120 from pot
+alfredo_rojo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: alfredo_rojo (button) (small blind) collected (120)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240645009247: Tournament #3519955657, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2022/12/23 14:08:36 ET
+Table '3519955657 1' 3-max Seat #3 is the button
+Seat 2: alfredo_rojo (462 in chips) 
+Seat 3: Lorpugo (1038 in chips) 
+Lorpugo: posts small blind 30
+alfredo_rojo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Jh]
+Lorpugo: calls 30
+alfredo_rojo: raises 402 to 462 and is all-in
+Lorpugo: calls 402
+*** FLOP *** [As 3s Qc]
+*** TURN *** [As 3s Qc] [8c]
+*** RIVER *** [As 3s Qc 8c] [Jc]
+*** SHOW DOWN ***
+alfredo_rojo: shows [Ks 4d] (high card Ace)
+Lorpugo: shows [Qh Jh] (two pair, Queens and Jacks)
+Lorpugo collected 924 from pot
+alfredo_rojo finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $0.50 - congratulations!
+*** SUMMARY ***
+Total pot 924 | Rake 0 
+Board [As 3s Qc 8c Jc]
+Seat 2: alfredo_rojo (big blind) showed [Ks 4d] and lost with high card Ace
+Seat 3: Lorpugo (button) (small blind) showed [Qh Jh] and won (924) with two pair, Queens and Jacks
+
+
+

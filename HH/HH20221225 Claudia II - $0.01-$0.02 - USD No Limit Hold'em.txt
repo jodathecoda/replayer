@@ -1,0 +1,354 @@
+﻿PokerStars Hand #240686506300:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:43:59 ET
+Table 'Claudia II' 6-max Seat #6 is the button
+Seat 1: iEdredon ($2.01 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: 1989molo ($1.66 in chips) 
+Seat 4: baroncapelle ($2.05 in chips) 
+Seat 5: garabathos ($1.59 in chips) 
+Seat 6: PokerSlk230 ($1 in chips) 
+iEdredon: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 5h]
+1989molo: calls $0.02
+baroncapelle: folds 
+garabathos: folds 
+PokerSlk230: calls $0.02
+iEdredon: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [As Td 7h]
+iEdredon: checks 
+Lorpugo: checks 
+1989molo: checks 
+PokerSlk230: checks 
+*** TURN *** [As Td 7h] [2s]
+iEdredon: checks 
+Lorpugo: bets $0.03
+1989molo: calls $0.03
+PokerSlk230: calls $0.03
+iEdredon: folds 
+*** RIVER *** [As Td 7h 2s] [9d]
+Lorpugo: checks 
+1989molo: checks 
+PokerSlk230: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7s 5h] (a pair of Sevens)
+1989molo: mucks hand 
+PokerSlk230: shows [6s Ah] (a pair of Aces)
+PokerSlk230 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [As Td 7h 2s 9d]
+Seat 1: iEdredon (small blind) folded on the Turn
+Seat 2: Lorpugo (big blind) showed [7s 5h] and lost with a pair of Sevens
+Seat 3: 1989molo mucked [3c 4d]
+Seat 4: baroncapelle folded before Flop (didn't bet)
+Seat 5: garabathos folded before Flop (didn't bet)
+Seat 6: PokerSlk230 (button) showed [6s Ah] and won ($0.16) with a pair of Aces
+
+
+
+PokerStars Hand #240686542904:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:45:28 ET
+Table 'Claudia II' 6-max Seat #1 is the button
+Seat 1: iEdredon ($2 in chips) 
+Seat 2: Lorpugo ($1.55 in chips) 
+Seat 4: baroncapelle ($2.05 in chips) 
+Seat 5: garabathos ($1.59 in chips) 
+Seat 6: PokerSlk230 ($1.11 in chips) 
+Lorpugo: posts small blind $0.01
+baroncapelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 2s]
+garabathos: raises $0.02 to $0.04
+DredUA joins the table at seat #3 
+PokerSlk230: calls $0.04
+iEdredon: folds 
+Lorpugo: calls $0.03
+baroncapelle: calls $0.02
+*** FLOP *** [4s As Ah]
+Lorpugo: checks 
+baroncapelle: checks 
+garabathos: checks 
+PokerSlk230: checks 
+*** TURN *** [4s As Ah] [8c]
+Lorpugo: checks 
+baroncapelle: checks 
+garabathos: checks 
+PokerSlk230: bets $0.02
+Lorpugo: folds 
+baroncapelle: calls $0.02
+garabathos: calls $0.02
+*** RIVER *** [4s As Ah 8c] [Jh]
+baroncapelle: bets $0.21
+garabathos: folds 
+PokerSlk230: folds 
+Uncalled bet ($0.21) returned to baroncapelle
+baroncapelle collected $0.21 from pot
+baroncapelle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [4s As Ah 8c Jh]
+Seat 1: iEdredon (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 4: baroncapelle (big blind) collected ($0.21)
+Seat 5: garabathos folded on the River
+Seat 6: PokerSlk230 folded on the River
+
+
+
+PokerStars Hand #240686578793:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:46:55 ET
+Table 'Claudia II' 6-max Seat #2 is the button
+Seat 1: iEdredon ($2 in chips) 
+Seat 2: Lorpugo ($1.51 in chips) 
+Seat 4: baroncapelle ($2.20 in chips) 
+Seat 5: garabathos ($1.53 in chips) 
+Seat 6: PokerSlk230 ($1.05 in chips) 
+baroncapelle: posts small blind $0.01
+garabathos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Jc]
+PokerSlk230: calls $0.02
+iEdredon: folds 
+Lorpugo: raises $0.02 to $0.04
+baroncapelle: folds 
+garabathos: folds 
+PokerSlk230: calls $0.02
+*** FLOP *** [Ac Qc 5d]
+PokerSlk230: checks 
+Lorpugo: bets $0.02
+PokerSlk230: calls $0.02
+*** TURN *** [Ac Qc 5d] [9h]
+PokerSlk230: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac Qc 5d 9h] [9c]
+PokerSlk230: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to PokerSlk230
+PokerSlk230 collected $0.14 from pot
+PokerSlk230: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ac Qc 5d 9h 9c]
+Seat 1: iEdredon folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the River
+Seat 4: baroncapelle (small blind) folded before Flop
+Seat 5: garabathos (big blind) folded before Flop
+Seat 6: PokerSlk230 collected ($0.14)
+
+
+
+PokerStars Hand #240686595560:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:47:35 ET
+Table 'Claudia II' 6-max Seat #4 is the button
+Seat 1: iEdredon ($2 in chips) 
+Seat 2: Lorpugo ($1.45 in chips) 
+Seat 3: DredUA ($2 in chips) 
+Seat 4: baroncapelle ($2.19 in chips) 
+Seat 5: garabathos ($1.51 in chips) 
+Seat 6: PokerSlk230 ($1.13 in chips) 
+garabathos: posts small blind $0.01
+PokerSlk230: posts big blind $0.02
+DredUA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Jc]
+iEdredon: folds 
+Lorpugo: folds 
+DredUA: checks 
+baroncapelle: folds 
+garabathos: raises $0.04 to $0.06
+PokerSlk230: calls $0.04
+DredUA: folds 
+*** FLOP *** [Js As 6s]
+garabathos: bets $0.07
+PokerSlk230: calls $0.07
+*** TURN *** [Js As 6s] [6h]
+garabathos: bets $0.20
+PokerSlk230: calls $0.20
+*** RIVER *** [Js As 6s 6h] [9h]
+garabathos: checks 
+PokerSlk230: checks 
+*** SHOW DOWN ***
+garabathos: shows [Qs Qh] (two pair, Queens and Sixes)
+PokerSlk230: shows [Ac Kh] (two pair, Aces and Sixes)
+PokerSlk230 collected $0.66 from pot
+iEdredon is disconnected 
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [Js As 6s 6h 9h]
+Seat 1: iEdredon folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: DredUA folded before Flop (didn't bet)
+Seat 4: baroncapelle (button) folded before Flop (didn't bet)
+Seat 5: garabathos (small blind) showed [Qs Qh] and lost with two pair, Queens and Sixes
+Seat 6: PokerSlk230 (big blind) showed [Ac Kh] and won ($0.66) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #240686613240:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:48:18 ET
+Table 'Claudia II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.45 in chips) 
+Seat 3: DredUA ($1.98 in chips) 
+Seat 4: baroncapelle ($2.19 in chips) 
+Seat 5: garabathos ($1.18 in chips) 
+Seat 6: PokerSlk230 ($1.46 in chips) 
+PokerSlk230: posts small blind $0.01
+iEdredon has timed out while disconnected
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 7s]
+DredUA: folds 
+baroncapelle: folds 
+garabathos: folds 
+PokerSlk230: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: DredUA folded before Flop (didn't bet)
+Seat 4: baroncapelle folded before Flop (didn't bet)
+Seat 5: garabathos (button) folded before Flop (didn't bet)
+Seat 6: PokerSlk230 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240686621689:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:48:38 ET
+Table 'Claudia II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.46 in chips) 
+Seat 3: DredUA ($1.98 in chips) 
+Seat 4: baroncapelle ($2.19 in chips) 
+Seat 5: garabathos ($1.18 in chips) 
+Seat 6: PokerSlk230 ($1.45 in chips) 
+Lorpugo: posts small blind $0.01
+DredUA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Jd]
+baroncapelle: folds 
+garabathos: raises $0.02 to $0.04
+PokerSlk230: folds 
+Lorpugo: calls $0.03
+DredUA: folds 
+*** FLOP *** [7h Qd 4c]
+Lorpugo: checks 
+garabathos: bets $1.14 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.14) returned to garabathos
+garabathos collected $0.10 from pot
+garabathos: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7h Qd 4c]
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: DredUA (big blind) folded before Flop
+Seat 4: baroncapelle folded before Flop (didn't bet)
+Seat 5: garabathos collected ($0.10)
+Seat 6: PokerSlk230 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240686633408:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:49:07 ET
+Table 'Claudia II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: DredUA ($1.96 in chips) 
+Seat 4: baroncapelle ($2.19 in chips) 
+Seat 5: garabathos ($1.24 in chips) 
+Seat 6: PokerSlk230 ($1.45 in chips) 
+DredUA: posts small blind $0.01
+baroncapelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qs]
+garabathos: folds 
+PokerSlk230: folds 
+Lorpugo: raises $0.04 to $0.06
+DredUA: folds 
+baroncapelle: raises $0.04 to $0.10
+Lorpugo: calls $0.04
+*** FLOP *** [9h 4d 7s]
+baroncapelle: bets $0.20
+Lorpugo: folds 
+Uncalled bet ($0.20) returned to baroncapelle
+baroncapelle collected $0.20 from pot
+baroncapelle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9h 4d 7s]
+Seat 2: Lorpugo (button) folded on the Flop
+Seat 3: DredUA (small blind) folded before Flop
+Seat 4: baroncapelle (big blind) collected ($0.20)
+Seat 5: garabathos folded before Flop (didn't bet)
+Seat 6: PokerSlk230 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240686654327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:49:57 ET
+Table 'Claudia II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.32 in chips) 
+Seat 3: DredUA ($1.95 in chips) 
+Seat 4: baroncapelle ($2.29 in chips) 
+Seat 5: garabathos ($1.24 in chips) 
+Seat 6: PokerSlk230 ($1.45 in chips) 
+baroncapelle: posts small blind $0.01
+garabathos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Qc]
+PokerSlk230: folds 
+iEdredon is disconnected 
+Lorpugo: folds 
+DredUA: folds 
+baroncapelle: folds 
+Uncalled bet ($0.01) returned to garabathos
+garabathos collected $0.02 from pot
+garabathos: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: DredUA (button) folded before Flop (didn't bet)
+Seat 4: baroncapelle (small blind) folded before Flop
+Seat 5: garabathos (big blind) collected ($0.02)
+Seat 6: PokerSlk230 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240686662094:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/25 14:50:16 ET
+Table 'Claudia II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.32 in chips) 
+Seat 3: DredUA ($1.95 in chips) 
+Seat 4: baroncapelle ($2.28 in chips) 
+Seat 5: garabathos ($1.25 in chips) 
+Seat 6: PokerSlk230 ($1.45 in chips) 
+garabathos: posts small blind $0.01
+PokerSlk230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 4d]
+Lorpugo: folds 
+DredUA: folds 
+baroncapelle: folds 
+garabathos: calls $0.01
+PokerSlk230: raises $0.04 to $0.06
+garabathos: calls $0.04
+*** FLOP *** [Jc 2d Ac]
+garabathos: checks 
+PokerSlk230: bets $0.02
+garabathos: calls $0.02
+*** TURN *** [Jc 2d Ac] [8s]
+garabathos: checks 
+PokerSlk230: bets $0.02
+garabathos: calls $0.02
+*** RIVER *** [Jc 2d Ac 8s] [9s]
+garabathos: checks 
+PokerSlk230: checks 
+*** SHOW DOWN ***
+garabathos: shows [Td 9c] (a pair of Nines)
+PokerSlk230: shows [Qs Qd] (a pair of Queens)
+PokerSlk230 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jc 2d Ac 8s 9s]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: DredUA folded before Flop (didn't bet)
+Seat 4: baroncapelle (button) folded before Flop (didn't bet)
+Seat 5: garabathos (small blind) showed [Td 9c] and lost with a pair of Nines
+Seat 6: PokerSlk230 (big blind) showed [Qs Qd] and won ($0.19) with a pair of Queens
+
+
+

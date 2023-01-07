@@ -1,0 +1,4369 @@
+﻿PokerStars Hand #240914832289:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:50:02 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($4.34 in chips) 
+Seat 2: stubmytoe ($3.09 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Leonardo2254 ($2.21 in chips) 
+Seat 5: caziano ($2.07 in chips) 
+stubmytoe: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8c]
+Leonardo2254: folds 
+caziano: folds 
+Hilde304: folds 
+stubmytoe: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Hilde304 (button) folded before Flop (didn't bet)
+Seat 2: stubmytoe (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240914835677:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:50:09 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: Hilde304 ($4.34 in chips) 
+Seat 2: stubmytoe ($3.08 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: Leonardo2254 ($2.21 in chips) 
+Seat 5: caziano ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+Leonardo2254: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 5s]
+caziano: folds 
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: raises $0.12 to $0.14
+Leonardo2254: folds 
+Hilde304: calls $0.12
+*** FLOP *** [2c Qc 9d]
+Lorpugo: checks 
+Hilde304: checks 
+*** TURN *** [2c Qc 9d] [6d]
+Lorpugo: checks 
+Hilde304: checks 
+*** RIVER *** [2c Qc 9d 6d] [3d]
+Lorpugo: checks 
+Hilde304: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ad 5s] (high card Ace)
+Hilde304: shows [As 7s] (high card Ace - Queen+Nine+Seven kicker)
+Hilde304 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2c Qc 9d 6d 3d]
+Seat 1: Hilde304 showed [As 7s] and won ($0.29) with high card Ace
+Seat 2: stubmytoe (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) showed [Ad 5s] and lost with high card Ace
+Seat 4: Leonardo2254 (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240914855898:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:50:52 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($4.49 in chips) 
+Seat 2: stubmytoe ($3.08 in chips) 
+Seat 3: Lorpugo ($1.47 in chips) 
+Seat 4: Leonardo2254 ($2.19 in chips) 
+Seat 5: caziano ($2.07 in chips) 
+Leonardo2254: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9d]
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: checks 
+*** FLOP *** [6h Qs 5c]
+caziano: checks 
+Hilde304: checks 
+*** TURN *** [6h Qs 5c] [6d]
+caziano: checks 
+Hilde304: checks 
+*** RIVER *** [6h Qs 5c 6d] [As]
+caziano: bets $0.02
+Hilde304: folds 
+Uncalled bet ($0.02) returned to caziano
+caziano collected $0.05 from pot
+caziano: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h Qs 5c 6d As]
+Seat 1: Hilde304 folded on the River
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (small blind) folded before Flop
+Seat 5: caziano (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #240914866073:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:51:14 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: Hilde304 ($4.47 in chips) 
+Seat 2: stubmytoe ($3.08 in chips) 
+Seat 3: Lorpugo ($1.47 in chips) 
+Seat 4: Leonardo2254 ($2.18 in chips) 
+Seat 5: caziano ($2.10 in chips) 
+Seat 6: Swaz59 ($1.39 in chips) 
+caziano: posts small blind $0.01
+Swaz59: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3h]
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: folds 
+Swaz59: checks 
+*** FLOP *** [5s 6d 6c]
+Swaz59: checks 
+Hilde304: bets $0.05
+Swaz59: calls $0.05
+*** TURN *** [5s 6d 6c] [Kh]
+Swaz59: checks 
+Hilde304: bets $0.14
+Swaz59: calls $0.14
+*** RIVER *** [5s 6d 6c Kh] [Ad]
+Swaz59: checks 
+Hilde304: bets $0.41
+Swaz59: folds 
+Uncalled bet ($0.41) returned to Hilde304
+Hilde304 collected $0.41 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [5s 6d 6c Kh Ad]
+Seat 1: Hilde304 collected ($0.41)
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: Swaz59 (big blind) folded on the River
+
+
+
+PokerStars Hand #240914879270:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:51:42 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: Hilde304 ($4.67 in chips) 
+Seat 2: stubmytoe ($3.08 in chips) 
+Seat 3: Lorpugo ($1.47 in chips) 
+Seat 4: Leonardo2254 ($2.18 in chips) 
+Seat 5: caziano ($2.09 in chips) 
+Seat 6: Swaz59 ($1.18 in chips) 
+Swaz59: posts small blind $0.01
+Hilde304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jh]
+stubmytoe: calls $0.02
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: folds 
+Swaz59: calls $0.01
+Hilde304: checks 
+*** FLOP *** [5c 2s 9d]
+Swaz59: checks 
+Hilde304: checks 
+stubmytoe: checks 
+*** TURN *** [5c 2s 9d] [3c]
+Swaz59: bets $0.02
+Hilde304: calls $0.02
+stubmytoe: folds 
+*** RIVER *** [5c 2s 9d 3c] [Kd]
+Swaz59: checks 
+Hilde304: checks 
+*** SHOW DOWN ***
+Swaz59: shows [Qs Ah] (high card Ace)
+Hilde304: shows [2c 6c] (a pair of Deuces)
+Hilde304 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5c 2s 9d 3c Kd]
+Seat 1: Hilde304 (big blind) showed [2c 6c] and won ($0.10) with a pair of Deuces
+Seat 2: stubmytoe folded on the Turn
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: Swaz59 (small blind) showed [Qs Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #240914891775:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:52:10 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: Hilde304 ($4.73 in chips) 
+Seat 2: stubmytoe ($3.06 in chips) 
+Seat 3: Lorpugo ($1.47 in chips) 
+Seat 4: Leonardo2254 ($2.18 in chips) 
+Seat 5: caziano ($2.09 in chips) 
+Seat 6: Swaz59 ($1.14 in chips) 
+Hilde304: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 3c]
+Lorpugo has timed out
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: raises $0.03 to $0.05
+Swaz59: calls $0.05
+Hilde304: folds 
+stubmytoe: calls $0.03
+*** FLOP *** [Ac 8d 3s]
+stubmytoe: checks 
+caziano: checks 
+Swaz59: checks 
+*** TURN *** [Ac 8d 3s] [Ts]
+stubmytoe: checks 
+caziano: checks 
+Swaz59: checks 
+*** RIVER *** [Ac 8d 3s Ts] [6c]
+stubmytoe: checks 
+caziano: checks 
+Swaz59: checks 
+*** SHOW DOWN ***
+stubmytoe: shows [7d Jd] (high card Ace)
+caziano: shows [8c 7c] (a pair of Eights)
+Swaz59: mucks hand 
+caziano collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ac 8d 3s Ts 6c]
+Seat 1: Hilde304 (small blind) folded before Flop
+Seat 2: stubmytoe (big blind) showed [7d Jd] and lost with high card Ace
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano showed [8c 7c] and won ($0.15) with a pair of Eights
+Seat 6: Swaz59 (button) mucked [9s Jc]
+
+
+
+PokerStars Hand #240914912760:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:52:55 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($4.72 in chips) 
+Seat 2: stubmytoe ($3.01 in chips) 
+Seat 3: Lorpugo ($1.47 in chips) 
+Seat 4: Leonardo2254 ($2.18 in chips) 
+Seat 5: caziano ($2.19 in chips) 
+stubmytoe: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qh]
+Swaz59 leaves the table
+Leonardo2254: folds 
+caziano: raises $0.03 to $0.05
+Hilde304: calls $0.05
+stubmytoe: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [8h Jc Qd]
+stubmytoe: checks 
+caziano: bets $0.11
+Hilde304: calls $0.11
+stubmytoe: folds 
+*** TURN *** [8h Jc Qd] [3h]
+R.Andrei AKs joins the table at seat #6 
+caziano: bets $0.25
+Hilde304: calls $0.25
+*** RIVER *** [8h Jc Qd 3h] [4c]
+caziano: bets $0.57
+Hilde304: calls $0.57
+*** SHOW DOWN ***
+caziano: shows [As Qs] (a pair of Queens)
+Hilde304: mucks hand 
+caziano collected $1.94 from pot
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.09 
+Board [8h Jc Qd 3h 4c]
+Seat 1: Hilde304 (button) mucked [9c Qc]
+Seat 2: stubmytoe (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano showed [As Qs] and won ($1.94) with a pair of Queens
+
+
+
+PokerStars Hand #240914937441:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:53:49 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: Hilde304 ($3.74 in chips) 
+Seat 2: stubmytoe ($2.96 in chips) 
+Seat 3: Lorpugo ($1.45 in chips) 
+Seat 4: Leonardo2254 ($2.18 in chips) 
+Seat 5: caziano ($3.15 in chips) 
+Lorpugo: posts small blind $0.01
+Leonardo2254: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ad]
+caziano: folds 
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: raises $0.10 to $0.12
+Leonardo2254: calls $0.10
+Hilde304: folds 
+*** FLOP *** [9d Jc Kd]
+Lorpugo: checks 
+Leonardo2254: checks 
+*** TURN *** [9d Jc Kd] [8h]
+Lorpugo: checks 
+Leonardo2254: checks 
+*** RIVER *** [9d Jc Kd 8h] [4h]
+Lorpugo: checks 
+Leonardo2254: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to Leonardo2254
+Leonardo2254 collected $0.25 from pot
+Leonardo2254: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [9d Jc Kd 8h 4h]
+Seat 1: Hilde304 folded before Flop
+Seat 2: stubmytoe (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the River
+Seat 4: Leonardo2254 (big blind) collected ($0.25)
+Seat 5: caziano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240914968710:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:54:58 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($3.72 in chips) 
+Seat 2: stubmytoe ($2.96 in chips) 
+Seat 3: Lorpugo ($1.33 in chips) 
+Seat 4: Leonardo2254 ($2.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Leonardo2254: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7d]
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: folds 
+R.Andrei AKs: checks 
+*** FLOP *** [3c Qc 3s]
+R.Andrei AKs: checks 
+Hilde304: bets $0.02
+R.Andrei AKs: folds 
+Uncalled bet ($0.02) returned to Hilde304
+Hilde304 collected $0.05 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c Qc 3s]
+Seat 1: Hilde304 collected ($0.05)
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240914978121:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:55:24 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: Hilde304 ($3.75 in chips) 
+Seat 2: stubmytoe ($2.96 in chips) 
+Seat 3: Lorpugo ($1.33 in chips) 
+Seat 4: Leonardo2254 ($2.30 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Hilde304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 9c]
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: folds 
+R.Andrei AKs: folds 
+Uncalled bet ($0.01) returned to Hilde304
+Hilde304 collected $0.02 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Hilde304 (big blind) collected ($0.02)
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240914983130:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:55:40 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: Hilde304 ($3.76 in chips) 
+Seat 2: stubmytoe ($2.96 in chips) 
+Seat 3: Lorpugo ($1.33 in chips) 
+Seat 4: Leonardo2254 ($2.30 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Hilde304: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ks]
+Lorpugo: folds 
+Leonardo2254: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.01
+stubmytoe: checks 
+*** FLOP *** [4h As 4c]
+Hilde304: bets $0.02
+stubmytoe: folds 
+Uncalled bet ($0.02) returned to Hilde304
+Hilde304 collected $0.04 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4h As 4c]
+Seat 1: Hilde304 (small blind) collected ($0.04)
+Seat 2: stubmytoe (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240914988679:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:55:58 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($3.78 in chips) 
+Seat 2: stubmytoe ($2.94 in chips) 
+Seat 3: Lorpugo ($1.33 in chips) 
+Seat 4: Leonardo2254 ($2.30 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+stubmytoe: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2h]
+Leonardo2254: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: checks 
+*** FLOP *** [3s 6d Ad]
+Lorpugo: bets $0.02
+Hilde304: calls $0.02
+*** TURN *** [3s 6d Ad] [Ts]
+Lorpugo: checks 
+Hilde304: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to Hilde304
+Hilde304 collected $0.09 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3s 6d Ad Ts]
+Seat 1: Hilde304 (button) collected ($0.09)
+Seat 2: stubmytoe (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Turn
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915001663:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:56:38 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: Hilde304 ($3.83 in chips) 
+Seat 2: stubmytoe ($2.93 in chips) 
+Seat 3: Lorpugo ($1.29 in chips) 
+Seat 4: Leonardo2254 ($2.30 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Leonardo2254: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ac]
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: raises $0.07 to $0.09
+Leonardo2254: calls $0.07
+Hilde304: folds 
+*** FLOP *** [8c Qh 5s]
+Lorpugo: bets $0.02
+Leonardo2254: raises $0.15 to $0.17
+Lorpugo: folds 
+Uncalled bet ($0.15) returned to Leonardo2254
+Leonardo2254 collected $0.23 from pot
+Leonardo2254: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8c Qh 5s]
+Seat 1: Hilde304 folded before Flop
+Seat 2: stubmytoe (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: Leonardo2254 (big blind) collected ($0.23)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915019860:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:57:34 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($3.81 in chips) 
+Seat 2: stubmytoe ($2.93 in chips) 
+Seat 3: Lorpugo ($1.18 in chips) 
+Seat 4: Leonardo2254 ($2.42 in chips) 
+Seat 5: caziano ($3.15 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Leonardo2254: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5d]
+R.Andrei AKs: raises $0.04 to $0.06
+Hilde304: folds 
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: folds 
+Uncalled bet ($0.04) returned to R.Andrei AKs
+R.Andrei AKs collected $0.05 from pot
+R.Andrei AKs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Hilde304 folded before Flop (didn't bet)
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (small blind) folded before Flop
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: R.Andrei AKs collected ($0.05)
+
+
+
+PokerStars Hand #240915024488:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:57:48 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: Hilde304 ($3.81 in chips) 
+Seat 2: stubmytoe ($2.93 in chips) 
+Seat 3: Lorpugo ($1.18 in chips) 
+Seat 4: Leonardo2254 ($2.41 in chips) 
+Seat 5: caziano ($3.13 in chips) 
+Seat 6: R.Andrei AKs ($2.03 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Js]
+Hilde304: folds 
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: folds 
+Uncalled bet ($0.01) returned to R.Andrei AKs
+R.Andrei AKs collected $0.02 from pot
+R.Andrei AKs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Hilde304 folded before Flop (didn't bet)
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240915029404:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:58:03 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: Hilde304 ($3.81 in chips) 
+Seat 2: stubmytoe ($2.93 in chips) 
+Seat 3: Lorpugo ($1.18 in chips) 
+Seat 4: Leonardo2254 ($2.41 in chips) 
+Seat 5: caziano ($3.12 in chips) 
+Seat 6: R.Andrei AKs ($2.04 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Hilde304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Kh]
+stubmytoe: folds 
+Lorpugo: raises $0.02 to $0.04
+Leonardo2254: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+*** FLOP *** [Ac Qh Tc]
+Hilde304: checks 
+Lorpugo: checks 
+*** TURN *** [Ac Qh Tc] [5d]
+Hilde304: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac Qh Tc 5d] [3h]
+Hilde304: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Hilde304: shows [2s 6c] (high card Ace)
+Lorpugo: shows [4h Kh] (high card Ace - King kicker)
+Lorpugo collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ac Qh Tc 5d 3h]
+Seat 1: Hilde304 (big blind) showed [2s 6c] and lost with high card Ace
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo showed [4h Kh] and won ($0.09) with high card Ace
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915043239:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:58:46 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: Hilde304 ($3.77 in chips) 
+Seat 2: stubmytoe ($2.93 in chips) 
+Seat 3: Lorpugo ($1.23 in chips) 
+Seat 4: Leonardo2254 ($2.41 in chips) 
+Seat 5: caziano ($3.12 in chips) 
+Seat 6: R.Andrei AKs ($2.03 in chips) 
+Hilde304: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8d]
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.01
+stubmytoe: checks 
+*** FLOP *** [2s Qs Th]
+Hilde304: bets $0.02
+stubmytoe: calls $0.02
+*** TURN *** [2s Qs Th] [7s]
+Hilde304: checks 
+stubmytoe: checks 
+*** RIVER *** [2s Qs Th 7s] [Ah]
+Hilde304: checks 
+stubmytoe: checks 
+*** SHOW DOWN ***
+Hilde304: shows [Ad 3d] (a pair of Aces)
+stubmytoe: mucks hand 
+Hilde304 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2s Qs Th 7s Ah]
+Seat 1: Hilde304 (small blind) showed [Ad 3d] and won ($0.08) with a pair of Aces
+Seat 2: stubmytoe (big blind) mucked [Tc 4c]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915061312:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 16:59:42 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($3.81 in chips) 
+Seat 2: stubmytoe ($2.89 in chips) 
+Seat 3: Lorpugo ($1.23 in chips) 
+Seat 4: Leonardo2254 ($2.41 in chips) 
+Seat 5: caziano ($3.12 in chips) 
+Seat 6: R.Andrei AKs ($2.03 in chips) 
+stubmytoe: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 4s]
+Leonardo2254: folds 
+caziano: raises $0.03 to $0.05
+R.Andrei AKs: folds 
+Hilde304: calls $0.05
+stubmytoe: calls $0.04
+Lorpugo: raises $0.03 to $0.08
+caziano: calls $0.03
+Hilde304: calls $0.03
+stubmytoe: calls $0.03
+*** FLOP *** [Js 3c Qh]
+stubmytoe: checks 
+Lorpugo: bets $0.02
+caziano: calls $0.02
+Hilde304: folds 
+stubmytoe: folds 
+*** TURN *** [Js 3c Qh] [9c]
+Lorpugo: checks 
+caziano: checks 
+*** RIVER *** [Js 3c Qh 9c] [8s]
+Lorpugo: checks 
+caziano: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7s 4s] (high card Queen)
+caziano: shows [5c 5s] (a pair of Fives)
+caziano collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Js 3c Qh 9c 8s]
+Seat 1: Hilde304 (button) folded on the Flop
+Seat 2: stubmytoe (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) showed [7s 4s] and lost with high card Queen
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano showed [5c 5s] and won ($0.35) with a pair of Fives
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915083684:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:00:48 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: Hilde304 ($3.73 in chips) 
+Seat 2: stubmytoe ($2.81 in chips) 
+Seat 3: Lorpugo ($1.13 in chips) 
+Seat 4: Leonardo2254 ($2.41 in chips) 
+Seat 5: caziano ($3.37 in chips) 
+Seat 6: R.Andrei AKs ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+Leonardo2254: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 5d]
+caziano: folds 
+R.Andrei AKs: raises $0.04 to $0.06
+Hilde304: calls $0.06
+stubmytoe: calls $0.06
+Lorpugo: folds 
+Leonardo2254: folds 
+*** FLOP *** [Ts 6s Th]
+R.Andrei AKs: bets $0.10
+Hilde304: calls $0.10
+stubmytoe: folds 
+*** TURN *** [Ts 6s Th] [Qd]
+R.Andrei AKs: bets $0.20
+Hilde304: raises $0.20 to $0.40
+R.Andrei AKs: calls $0.20
+*** RIVER *** [Ts 6s Th Qd] [Kd]
+R.Andrei AKs: checks 
+Hilde304: bets $0.38
+R.Andrei AKs: calls $0.38
+*** SHOW DOWN ***
+Hilde304: shows [Td 9h] (three of a kind, Tens)
+R.Andrei AKs: mucks hand 
+Hilde304 collected $1.88 from pot
+*** SUMMARY ***
+Total pot $1.97 | Rake $0.09 
+Board [Ts 6s Th Qd Kd]
+Seat 1: Hilde304 showed [Td 9h] and won ($1.88) with three of a kind, Tens
+Seat 2: stubmytoe (button) folded on the Flop
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Leonardo2254 (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs mucked [Ac Qs]
+
+
+
+PokerStars Hand #240915113557:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:02:01 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($4.67 in chips) 
+Seat 2: stubmytoe ($2.75 in chips) 
+Seat 3: Lorpugo ($1.12 in chips) 
+Seat 4: Leonardo2254 ($2.39 in chips) 
+Seat 5: caziano ($3.37 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Leonardo2254: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+stubmytoe: calls $0.02
+Lorpugo: folds 
+Leonardo2254: folds 
+caziano: checks 
+*** FLOP *** [7d As Qs]
+caziano: checks 
+Hilde304: bets $0.07
+stubmytoe: folds 
+caziano: folds 
+Uncalled bet ($0.07) returned to Hilde304
+Hilde304 collected $0.07 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7d As Qs]
+Seat 1: Hilde304 collected ($0.07)
+Seat 2: stubmytoe folded on the Flop
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (small blind) folded before Flop
+Seat 5: caziano (big blind) folded on the Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915132799:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:02:43 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: Hilde304 ($4.72 in chips) 
+Seat 2: stubmytoe ($2.73 in chips) 
+Seat 3: Lorpugo ($1.12 in chips) 
+Seat 4: Leonardo2254 ($2.38 in chips) 
+Seat 5: caziano ($3.35 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Kd]
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: raises $0.02 to $0.04
+Leonardo2254: folds 
+caziano: calls $0.03
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+*** FLOP *** [Ts Td 2s]
+caziano: checks 
+Hilde304: checks 
+Lorpugo: bets $0.06
+caziano: folds 
+Hilde304: calls $0.06
+*** TURN *** [Ts Td 2s] [Kh]
+Hilde304: checks 
+Lorpugo: bets $0.16
+Hilde304: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.25 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Ts Td 2s Kh]
+Seat 1: Hilde304 folded on the Turn
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.25)
+Seat 4: Leonardo2254 (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded on the Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915153985:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:03:30 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: Hilde304 ($4.62 in chips) 
+Seat 2: stubmytoe ($2.73 in chips) 
+Seat 3: Lorpugo ($1.27 in chips) 
+Seat 4: Leonardo2254 ($2.38 in chips) 
+Seat 5: caziano ($3.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Hilde304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Js]
+stubmytoe has timed out
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: raises $0.03 to $0.05
+caziano: folds 
+R.Andrei AKs: calls $0.04
+Hilde304: folds 
+*** FLOP *** [Ts 3d 8c]
+R.Andrei AKs: checks 
+Leonardo2254: bets $0.07
+R.Andrei AKs: folds 
+Uncalled bet ($0.07) returned to Leonardo2254
+Leonardo2254 collected $0.12 from pot
+Leonardo2254: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts 3d 8c]
+Seat 1: Hilde304 (big blind) folded before Flop
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Leonardo2254 collected ($0.12)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240915168759:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:04:01 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: Hilde304 ($4.60 in chips) 
+Seat 2: stubmytoe ($2.73 in chips) 
+Seat 3: Lorpugo ($1.27 in chips) 
+Seat 4: Leonardo2254 ($2.45 in chips) 
+Seat 5: caziano ($3.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Hilde304: posts small blind $0.01
+stubmytoe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Qd]
+Lorpugo: raises $0.02 to $0.04
+Leonardo2254: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.03
+stubmytoe: folds 
+*** FLOP *** [Js 7c 2c]
+Hilde304: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [Js 7c 2c] [6s]
+Hilde304: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Hilde304
+Hilde304 collected $0.14 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Js 7c 2c 6s]
+Seat 1: Hilde304 (small blind) collected ($0.14)
+Seat 2: stubmytoe (big blind) folded before Flop
+Seat 3: Lorpugo folded on the Turn
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915185312:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:04:37 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($4.68 in chips) 
+Seat 2: stubmytoe ($2.71 in chips) 
+Seat 3: Lorpugo ($1.21 in chips) 
+Seat 4: Leonardo2254 ($2.45 in chips) 
+Seat 5: caziano ($3.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+stubmytoe: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Qd]
+Leonardo2254: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: raises $0.22 to $0.24
+Hilde304: folds 
+Uncalled bet ($0.22) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Hilde304 (button) folded before Flop
+Seat 2: stubmytoe (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.05)
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915196574:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:05:01 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: Hilde304 ($4.66 in chips) 
+Seat 2: stubmytoe ($2.70 in chips) 
+Seat 3: Lorpugo ($1.24 in chips) 
+Seat 4: Leonardo2254 ($2.45 in chips) 
+Seat 5: caziano ($3.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Leonardo2254: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qd]
+caziano: raises $0.03 to $0.05
+R.Andrei AKs: folds 
+Hilde304: calls $0.05
+stubmytoe: folds 
+Lorpugo: calls $0.04
+Leonardo2254: folds 
+*** FLOP *** [5c 6h 3s]
+Lorpugo: bets $0.02
+caziano: raises $0.12 to $0.14
+Hilde304: folds 
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to caziano
+caziano collected $0.20 from pot
+caziano: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5c 6h 3s]
+Seat 1: Hilde304 folded on the Flop
+Seat 2: stubmytoe (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: Leonardo2254 (big blind) folded before Flop
+Seat 5: caziano collected ($0.20)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915208526:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:05:27 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($4.61 in chips) 
+Seat 2: stubmytoe ($2.70 in chips) 
+Seat 3: Lorpugo ($1.17 in chips) 
+Seat 4: Leonardo2254 ($2.43 in chips) 
+Seat 5: caziano ($3.44 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Leonardo2254: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3d]
+R.Andrei AKs: folds 
+Hilde304: folds 
+stubmytoe has timed out
+stubmytoe: folds 
+Lorpugo: folds 
+Leonardo2254: raises $0.04 to $0.06
+caziano: calls $0.04
+*** FLOP *** [5c 5h Ah]
+Leonardo2254: bets $0.06
+caziano: calls $0.06
+*** TURN *** [5c 5h Ah] [Jc]
+Leonardo2254: bets $0.19
+caziano: folds 
+Uncalled bet ($0.19) returned to Leonardo2254
+Leonardo2254 collected $0.23 from pot
+Leonardo2254: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5c 5h Ah Jc]
+Seat 1: Hilde304 folded before Flop (didn't bet)
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Leonardo2254 (small blind) collected ($0.23)
+Seat 5: caziano (big blind) folded on the Turn
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915237338:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:06:29 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: Hilde304 ($4.61 in chips) 
+Seat 2: stubmytoe ($2.70 in chips) 
+Seat 3: Lorpugo ($1.17 in chips) 
+Seat 4: Leonardo2254 ($2.54 in chips) 
+Seat 5: caziano ($3.32 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3c]
+Hilde304: calls $0.02
+stubmytoe: folds 
+Lorpugo: calls $0.02
+Leonardo2254: folds 
+caziano: folds 
+R.Andrei AKs: checks 
+*** FLOP *** [6h Kh 3d]
+R.Andrei AKs: checks 
+Hilde304: bets $0.07
+Lorpugo: calls $0.07
+R.Andrei AKs: folds 
+*** TURN *** [6h Kh 3d] [5c]
+Hilde304: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Hilde304
+Hilde304 collected $0.20 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [6h Kh 3d 5c]
+Seat 1: Hilde304 collected ($0.20)
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Turn
+Seat 4: Leonardo2254 (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240915265102:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:07:29 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: Hilde304 ($4.72 in chips) 
+Seat 2: stubmytoe ($2.70 in chips) 
+Seat 3: Lorpugo ($1.08 in chips) 
+Seat 4: Leonardo2254 ($2.54 in chips) 
+Seat 5: caziano ($3.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Hilde304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 5h]
+stubmytoe has timed out
+stubmytoe: folds 
+Lorpugo: raises $0.02 to $0.04
+Leonardo2254: raises $0.14 to $0.18
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: folds 
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to Leonardo2254
+Leonardo2254 collected $0.11 from pot
+Leonardo2254: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Hilde304 (big blind) folded before Flop
+Seat 2: stubmytoe folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop
+Seat 4: Leonardo2254 collected ($0.11)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915279334:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:08:00 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: Hilde304 ($4.70 in chips) 
+Seat 3: Lorpugo ($1.04 in chips) 
+Seat 4: Leonardo2254 ($2.61 in chips) 
+Seat 5: caziano ($3.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Hilde304: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 3d]
+Leonardo2254: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.01
+Lorpugo: raises $1.02 to $1.04 and is all-in
+Hilde304: folds 
+Uncalled bet ($1.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Hilde304 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.04)
+Seat 4: Leonardo2254 folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915285594:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:08:14 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($4.68 in chips) 
+Seat 3: Lorpugo ($1.06 in chips) 
+Seat 5: caziano ($3.31 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2s]
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+Lorpugo: folds 
+caziano: checks 
+*** FLOP *** [Ah Kd 7s]
+Leonardo2254 leaves the table
+caziano: checks 
+Hilde304: bets $0.02
+caziano: calls $0.02
+*** TURN *** [Ah Kd 7s] [Qh]
+caziano: checks 
+Hilde304: bets $0.04
+caziano: calls $0.04
+*** RIVER *** [Ah Kd 7s Qh] [Jd]
+Eli1757 joins the table at seat #4 
+caziano: checks 
+Hilde304: checks 
+*** SHOW DOWN ***
+caziano: shows [7h Th] (a straight, Ten to Ace)
+Hilde304: mucks hand 
+caziano collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ah Kd 7s Qh Jd]
+Seat 1: Hilde304 (button) mucked [Ac 8h]
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 5: caziano (big blind) showed [7h Th] and won ($0.16) with a straight, Ten to Ace
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915298901:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:08:43 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($4.60 in chips) 
+Seat 3: Lorpugo ($1.05 in chips) 
+Seat 5: caziano ($3.39 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Js]
+Hilde304: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+caziano: folds 
+R.Andrei AKs: raises $0.10 to $0.14
+Hilde304: folds 
+Lorpugo: calls $0.10
+*** FLOP *** [2s 6s Kc]
+R.Andrei AKs: checks 
+Lorpugo: bets $0.40
+R.Andrei AKs: folds 
+Uncalled bet ($0.40) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [2s 6s Kc]
+Seat 1: Hilde304 folded before Flop
+Seat 3: Lorpugo (button) collected ($0.30)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240915313285:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:09:14 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: Hilde304 ($4.58 in chips) 
+Seat 3: Lorpugo ($1.21 in chips) 
+Seat 4: Eli1757 ($1.54 in chips) 
+Seat 5: caziano ($3.38 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Hilde304: posts big blind $0.02
+Eli1757: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Jh]
+Lorpugo: raises $0.02 to $0.04
+Eli1757: calls $0.02
+caziano: raises $0.17 to $0.21
+R.Andrei AKs: folds 
+Hilde304: folds 
+Lorpugo: folds 
+Eli1757: calls $0.17
+*** FLOP *** [Jd 2h 5d]
+Eli1757: bets $0.24
+caziano: folds 
+Uncalled bet ($0.24) returned to Eli1757
+Eli1757 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Jd 2h 5d]
+Seat 1: Hilde304 (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop
+Seat 4: Eli1757 collected ($0.47)
+Seat 5: caziano (button) folded on the Flop
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915326722:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:09:44 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: Hilde304 ($4.56 in chips) 
+Seat 3: Lorpugo ($1.17 in chips) 
+Seat 4: Eli1757 ($1.80 in chips) 
+Seat 5: caziano ($3.17 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Hilde304: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7s]
+Eli1757: raises $0.02 to $0.04
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [Tc 4s Qc]
+Hilde304: bets $0.12
+Lorpugo: folds 
+Eli1757: calls $0.12
+*** TURN *** [Tc 4s Qc] [5s]
+Hilde304: bets $0.35
+Eli1757: folds 
+Uncalled bet ($0.35) returned to Hilde304
+Hilde304 collected $0.35 from pot
+Hilde304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Tc 4s Qc 5s]
+Seat 1: Hilde304 (small blind) collected ($0.35)
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: Eli1757 folded on the Turn
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915344227:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:10:22 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($4.75 in chips) 
+Seat 3: Lorpugo ($1.13 in chips) 
+Seat 4: Eli1757 ($1.64 in chips) 
+Seat 5: caziano ($3.17 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Eli1757: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Qh]
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+Lorpugo: folds 
+Eli1757: checks 
+*** FLOP *** [4c 2h 5c]
+Eli1757: bets $0.02
+Hilde304: calls $0.02
+*** TURN *** [4c 2h 5c] [As]
+Eli1757: bets $0.05
+Hilde304: folds 
+Uncalled bet ($0.05) returned to Eli1757
+Eli1757 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4c 2h 5c As]
+Seat 1: Hilde304 (button) folded on the Turn
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Eli1757 (big blind) collected ($0.09)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915355553:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:10:47 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($4.71 in chips) 
+Seat 3: Lorpugo ($1.12 in chips) 
+Seat 4: Eli1757 ($1.69 in chips) 
+Seat 5: caziano ($3.17 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Eli1757: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 2c]
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+Lorpugo: folds 
+Eli1757: calls $0.01
+caziano: checks 
+*** FLOP *** [6d 2h 9h]
+Eli1757: bets $0.06
+caziano: folds 
+Hilde304: calls $0.06
+*** TURN *** [6d 2h 9h] [9s]
+Eli1757: bets $0.09
+Hilde304: calls $0.09
+*** RIVER *** [6d 2h 9h 9s] [6c]
+Eli1757: bets $1.52 and is all-in
+Hilde304: folds 
+Uncalled bet ($1.52) returned to Eli1757
+Eli1757 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6d 2h 9h 9s 6c]
+Seat 1: Hilde304 folded on the River
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Eli1757 (small blind) collected ($0.35)
+Seat 5: caziano (big blind) folded on the Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915371626:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:11:22 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: Hilde304 ($4.54 in chips) 
+Seat 3: Lorpugo ($1.12 in chips) 
+Seat 4: Eli1757 ($1.87 in chips) 
+Seat 5: caziano ($3.15 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Td]
+Hilde304: folds 
+Lorpugo: folds 
+Eli1757: raises $0.02 to $0.04
+caziano: folds 
+R.Andrei AKs: folds 
+Uncalled bet ($0.02) returned to Eli1757
+Eli1757 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Hilde304 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Eli1757 (button) collected ($0.05)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915378472:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:11:37 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: Hilde304 ($4.54 in chips) 
+Seat 3: Lorpugo ($1.12 in chips) 
+Seat 4: Eli1757 ($1.90 in chips) 
+Seat 5: caziano ($3.14 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Hilde304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qd]
+Lorpugo: raises $0.02 to $0.04
+Eli1757: calls $0.04
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+*** FLOP *** [6c 2h 6s]
+Hilde304: checks 
+Lorpugo: checks 
+Eli1757: bets $0.13
+Hilde304: folds 
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to Eli1757
+Eli1757 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6c 2h 6s]
+Seat 1: Hilde304 (big blind) folded on the Flop
+Seat 3: Lorpugo folded on the Flop
+Seat 4: Eli1757 collected ($0.13)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915390139:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:12:03 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: Hilde304 ($4.50 in chips) 
+Seat 3: Lorpugo ($1.08 in chips) 
+Seat 4: Eli1757 ($1.99 in chips) 
+Seat 5: caziano ($3.14 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Hilde304: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6d]
+Eli1757: raises $0.02 to $0.04
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.03
+Lorpugo: raises $0.12 to $0.16
+Eli1757: calls $0.12
+Hilde304: calls $0.12
+*** FLOP *** [Ac 3s 8d]
+Hilde304: checks 
+Lorpugo: bets $0.02
+Eli1757: calls $0.02
+Hilde304: calls $0.02
+*** TURN *** [Ac 3s 8d] [9c]
+Hilde304: checks 
+Lorpugo: checks 
+Eli1757: bets $0.02
+Hilde304: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+Eli1757: calls $0.06
+Hilde304: calls $0.06
+*** RIVER *** [Ac 3s 8d 9c] [9h]
+Hilde304: checks 
+Lorpugo: bets $0.82 and is all-in
+Eli1757: folds 
+Hilde304: folds 
+Uncalled bet ($0.82) returned to Lorpugo
+Lorpugo collected $0.75 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [Ac 3s 8d 9c 9h]
+Seat 1: Hilde304 (small blind) folded on the River
+Seat 3: Lorpugo (big blind) collected ($0.75)
+Seat 4: Eli1757 folded on the River
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915422012:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:13:12 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: Hilde304 ($4.24 in chips) 
+Seat 3: Lorpugo ($1.57 in chips) 
+Seat 4: Eli1757 ($1.73 in chips) 
+Seat 5: caziano ($3.14 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Eli1757: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 2c]
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Eli1757
+Eli1757 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Hilde304 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Eli1757 (big blind) collected ($0.02)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915427661:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:13:24 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: Hilde304 ($4.24 in chips) 
+Seat 3: Lorpugo ($1.56 in chips) 
+Seat 4: Eli1757 ($1.74 in chips) 
+Seat 5: caziano ($3.14 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Eli1757: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 9s]
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+Lorpugo: folds 
+Eli1757: raises $0.02 to $0.04
+caziano: folds 
+Hilde304: calls $0.02
+*** FLOP *** [9c 6s 3c]
+Eli1757: bets $0.05
+Hilde304: folds 
+Uncalled bet ($0.05) returned to Eli1757
+Eli1757 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9c 6s 3c]
+Seat 1: Hilde304 folded on the Flop
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Eli1757 (small blind) collected ($0.10)
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915437376:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:13:46 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: Hilde304 ($4.20 in chips) 
+Seat 3: Lorpugo ($1.56 in chips) 
+Seat 4: Eli1757 ($1.80 in chips) 
+Seat 5: caziano ($3.12 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Td]
+Hilde304: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+Eli1757: calls $0.04
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.02
+*** FLOP *** [8c Qh Js]
+Hilde304: checks 
+Lorpugo: checks 
+Eli1757: checks 
+*** TURN *** [8c Qh Js] [6s]
+Hilde304: checks 
+Lorpugo: bets $0.14
+Eli1757: calls $0.14
+Hilde304: calls $0.14
+*** RIVER *** [8c Qh Js 6s] [8h]
+Hilde304: checks 
+Lorpugo: checks 
+Eli1757: checks 
+*** SHOW DOWN ***
+Hilde304: shows [2s Qs] (two pair, Queens and Eights)
+Lorpugo: mucks hand 
+Eli1757: mucks hand 
+Hilde304 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [8c Qh Js 6s 8h]
+Seat 1: Hilde304 showed [2s Qs] and won ($0.55) with two pair, Queens and Eights
+Seat 3: Lorpugo mucked [Kd Td]
+Seat 4: Eli1757 (button) mucked [Kh 4d]
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915458887:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:14:33 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: Hilde304 ($4.57 in chips) 
+Seat 3: Lorpugo ($1.38 in chips) 
+Seat 4: Eli1757 ($1.62 in chips) 
+Seat 5: caziano ($3.11 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Hilde304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Tc]
+stubmytoe leaves the table
+Lorpugo: raises $0.02 to $0.04
+Eli1757: raises $0.02 to $0.06
+caziano: folds 
+R.Andrei AKs: folds 
+Hilde304: calls $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [2d 7d Td]
+Hilde304: checks 
+Lorpugo: bets $1.32 and is all-in
+Eli1757: calls $1.32
+Hilde304: folds 
+*** TURN *** [2d 7d Td] [Qh]
+*** RIVER *** [2d 7d Td Qh] [Ah]
+*** SHOW DOWN ***
+Lorpugo: shows [9h Tc] (a pair of Tens)
+Eli1757: shows [5h Ad] (a pair of Aces)
+Eli1757 collected $2.73 from pot
+*** SUMMARY ***
+Total pot $2.83 | Rake $0.10 
+Board [2d 7d Td Qh Ah]
+Seat 1: Hilde304 (big blind) folded on the Flop
+Seat 3: Lorpugo showed [9h Tc] and lost with a pair of Tens
+Seat 4: Eli1757 showed [5h Ad] and won ($2.73) with a pair of Aces
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915492373:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:15:47 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Eli1757 ($3.09 in chips) 
+Seat 5: caziano ($2.99 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jh]
+Lorpugo: checks 
+Eli1757: raises $0.02 to $0.04
+caziano: folds 
+R.Andrei AKs: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Eli1757
+Eli1757 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Eli1757 (button) collected ($0.07)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915497870:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:15:59 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 2: Daniel11300 ($1.60 in chips) 
+Seat 3: Lorpugo ($1.58 in chips) 
+Seat 4: Eli1757 ($3.14 in chips) 
+Seat 5: caziano ($2.98 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Daniel11300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 9c]
+Lorpugo: raises $0.02 to $0.04
+Eli1757: raises $0.02 to $0.06
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [Kd Th 6h]
+Lorpugo: checks 
+Eli1757: checks 
+*** TURN *** [Kd Th 6h] [Qh]
+Lorpugo: bets $1.52 and is all-in
+Eli1757: folds 
+Uncalled bet ($1.52) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kd Th 6h Qh]
+Seat 2: Daniel11300 (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.14)
+Seat 4: Eli1757 folded on the Turn
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915509908:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:16:25 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Daniel11300 ($1.58 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Eli1757 ($3.08 in chips) 
+Seat 5: caziano ($2.98 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Daniel11300: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ad]
+Eli1757: raises $0.02 to $0.04
+caziano: folds 
+EL COSO LOCO joins the table at seat #1 
+R.Andrei AKs: calls $0.04
+Daniel11300: folds 
+Lorpugo: raises $0.13 to $0.17
+Eli1757: calls $0.13
+R.Andrei AKs: folds 
+*** FLOP *** [5d 8h 5c]
+Lorpugo: bets $0.13
+Eli1757: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.38 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [5d 8h 5c]
+Seat 2: Daniel11300 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.38)
+Seat 4: Eli1757 folded on the Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop
+
+
+
+PokerStars Hand #240915523021:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:16:54 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: EL COSO LOCO ($1 in chips) 
+Seat 2: Daniel11300 ($1.57 in chips) 
+Seat 3: Lorpugo ($1.87 in chips) 
+Seat 4: Eli1757 ($2.91 in chips) 
+Seat 5: caziano ($2.98 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Eli1757: posts big blind $0.02
+EL COSO LOCO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Js]
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: raises $0.02 to $0.04
+Daniel11300: folds 
+Lorpugo: folds 
+Eli1757: folds 
+Uncalled bet ($0.02) returned to EL COSO LOCO
+Eli1757 leaves the table
+EL COSO LOCO collected $0.05 from pot
+EL COSO LOCO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: EL COSO LOCO collected ($0.05)
+Seat 2: Daniel11300 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Eli1757 (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915528399:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:17:06 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: EL COSO LOCO ($1.03 in chips) 
+Seat 2: Daniel11300 ($1.57 in chips) 
+Seat 3: Lorpugo ($1.86 in chips) 
+Seat 5: caziano ($2.98 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 6c]
+EL COSO LOCO: raises $0.02 to $0.04
+Daniel11300: calls $0.04
+Lorpugo: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+*** FLOP *** [Jc Ah 4s]
+ruleagor joins the table at seat #4 
+EL COSO LOCO: bets $0.06
+Daniel11300: raises $0.06 to $0.12
+EL COSO LOCO: calls $0.06
+*** TURN *** [Jc Ah 4s] [Ad]
+EL COSO LOCO: bets $0.06
+Daniel11300: calls $0.06
+*** RIVER *** [Jc Ah 4s Ad] [Tc]
+EL COSO LOCO: bets $0.20
+Daniel11300: calls $0.20
+*** SHOW DOWN ***
+EL COSO LOCO: shows [Ac Qh] (three of a kind, Aces)
+Daniel11300: mucks hand 
+EL COSO LOCO collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Jc Ah 4s Ad Tc]
+Seat 1: EL COSO LOCO showed [Ac Qh] and won ($0.84) with three of a kind, Aces
+Seat 2: Daniel11300 mucked [Js 8d]
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915548499:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:17:50 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: EL COSO LOCO ($1.45 in chips) 
+Seat 2: Daniel11300 ($1.15 in chips) 
+Seat 3: Lorpugo ($1.86 in chips) 
+Seat 5: caziano ($2.97 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+EL COSO LOCO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 8s]
+Daniel11300: raises $0.02 to $0.04
+Lorpugo: raises $0.02 to $0.06
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: calls $0.04
+Daniel11300: calls $0.02
+*** FLOP *** [Qd Ad Jd]
+EL COSO LOCO: bets $0.08
+Daniel11300: calls $0.08
+Lorpugo: raises $1.72 to $1.80 and is all-in
+EL COSO LOCO: calls $1.31 and is all-in
+Daniel11300: folds 
+Uncalled bet ($0.41) returned to Lorpugo
+*** TURN *** [Qd Ad Jd] [2s]
+*** RIVER *** [Qd Ad Jd 2s] [9h]
+*** SHOW DOWN ***
+EL COSO LOCO: shows [5d Jc] (a pair of Jacks)
+Lorpugo: shows [As 8s] (a pair of Aces)
+Lorpugo collected $2.94 from pot
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.11 
+Board [Qd Ad Jd 2s 9h]
+Seat 1: EL COSO LOCO (big blind) showed [5d Jc] and lost with a pair of Jacks
+Seat 2: Daniel11300 folded on the Flop
+Seat 3: Lorpugo showed [As 8s] and won ($2.94) with a pair of Aces
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915575775:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:18:50 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Daniel11300 ($1.01 in chips) 
+Seat 3: Lorpugo ($3.35 in chips) 
+Seat 5: caziano ($2.97 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Daniel11300: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 4d]
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5c 4c 8d]
+Daniel11300: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [5c 4c 8d] [6d]
+Daniel11300: bets $0.06
+Lorpugo: calls $0.06
+*** RIVER *** [5c 4c 8d 6d] [2c]
+Daniel11300: bets $0.87 and is all-in
+Lorpugo: folds 
+Uncalled bet ($0.87) returned to Daniel11300
+Daniel11300 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5c 4c 8d 6d 2c]
+Seat 2: Daniel11300 (small blind) collected ($0.27)
+Seat 3: Lorpugo (big blind) folded on the River
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915591104:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:19:25 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: EL COSO LOCO ($2 in chips) 
+Seat 2: Daniel11300 ($1.14 in chips) 
+Seat 3: Lorpugo ($3.21 in chips) 
+Seat 4: ruleagor ($2 in chips) 
+Seat 5: caziano ($2.97 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+EL COSO LOCO: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 9s]
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: calls $0.02
+Daniel11300: calls $0.02
+Lorpugo: raises $0.04 to $0.06
+ruleagor: folds 
+EL COSO LOCO: calls $0.04
+Daniel11300: calls $0.04
+*** FLOP *** [Kh 8c Qc]
+Lorpugo: bets $0.02
+EL COSO LOCO: calls $0.02
+Daniel11300: folds 
+*** TURN *** [Kh 8c Qc] [4c]
+Lorpugo: bets $0.08
+EL COSO LOCO: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.24 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kh 8c Qc 4c]
+Seat 1: EL COSO LOCO folded on the Turn
+Seat 2: Daniel11300 (button) folded on the Flop
+Seat 3: Lorpugo (small blind) collected ($0.24)
+Seat 4: ruleagor (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915615026:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:20:17 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: EL COSO LOCO ($1.91 in chips) 
+Seat 2: Daniel11300 ($1.08 in chips) 
+Seat 3: Lorpugo ($3.37 in chips) 
+Seat 4: ruleagor ($2 in chips) 
+Seat 5: caziano ($2.97 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 2s]
+R.Andrei AKs: folds 
+EL COSO LOCO: raises $0.02 to $0.04
+Daniel11300: calls $0.04
+Lorpugo: folds 
+ruleagor: folds 
+caziano: calls $0.02
+*** FLOP *** [Td Tc 9h]
+caziano: checks 
+EL COSO LOCO: bets $0.10
+Daniel11300: folds 
+caziano: folds 
+Uncalled bet ($0.10) returned to EL COSO LOCO
+EL COSO LOCO collected $0.13 from pot
+EL COSO LOCO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td Tc 9h]
+Seat 1: EL COSO LOCO collected ($0.13)
+Seat 2: Daniel11300 folded on the Flop
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded on the Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915632564:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:20:57 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: EL COSO LOCO ($2 in chips) 
+Seat 2: Daniel11300 ($1.04 in chips) 
+Seat 3: Lorpugo ($3.37 in chips) 
+Seat 4: ruleagor ($2 in chips) 
+Seat 5: caziano ($2.93 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Qc]
+EL COSO LOCO: calls $0.02
+Daniel11300: raises $0.02 to $0.04
+Lorpugo: folds 
+ruleagor: raises $0.08 to $0.12
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: folds 
+Daniel11300: calls $0.08
+*** FLOP *** [7s Qs 2c]
+Daniel11300: bets $0.34
+ruleagor: raises $1.54 to $1.88 and is all-in
+Daniel11300: calls $0.58 and is all-in
+Uncalled bet ($0.96) returned to ruleagor
+*** TURN *** [7s Qs 2c] [Kc]
+*** RIVER *** [7s Qs 2c Kc] [5h]
+*** SHOW DOWN ***
+Daniel11300: shows [Qd 8d] (a pair of Queens)
+ruleagor: shows [As Ad] (a pair of Aces)
+ruleagor collected $2.06 from pot
+*** SUMMARY ***
+Total pot $2.13 | Rake $0.07 
+Board [7s Qs 2c Kc 5h]
+Seat 1: EL COSO LOCO folded before Flop
+Seat 2: Daniel11300 showed [Qd 8d] and lost with a pair of Queens
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) showed [As Ad] and won ($2.06) with a pair of Aces
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915655071:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:21:46 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: EL COSO LOCO ($1.98 in chips) 
+Seat 3: Lorpugo ($3.37 in chips) 
+Seat 4: ruleagor ($3.02 in chips) 
+Seat 5: caziano ($2.92 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+EL COSO LOCO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 9h]
+Lorpugo: folds 
+ruleagor: raises $0.03 to $0.05
+caziano: folds 
+R.Andrei AKs: raises $0.11 to $0.16
+EL COSO LOCO: folds 
+ruleagor: folds 
+Uncalled bet ($0.11) returned to R.Andrei AKs
+R.Andrei AKs collected $0.12 from pot
+R.Andrei AKs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: EL COSO LOCO (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded before Flop
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #240915666067:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:22:11 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: EL COSO LOCO ($1.96 in chips) 
+Seat 2: Daniel11300 ($0.84 in chips) 
+Seat 3: Lorpugo ($3.37 in chips) 
+Seat 4: ruleagor ($2.97 in chips) 
+Seat 5: caziano ($2.92 in chips) 
+Seat 6: R.Andrei AKs ($2.07 in chips) 
+EL COSO LOCO: posts small blind $0.01
+Daniel11300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6s]
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: calls $0.01
+Daniel11300: raises $0.02 to $0.04
+EL COSO LOCO: calls $0.02
+*** FLOP *** [5d As Jh]
+EL COSO LOCO: checks 
+Daniel11300: checks 
+*** TURN *** [5d As Jh] [8d]
+EL COSO LOCO: checks 
+Daniel11300: checks 
+*** RIVER *** [5d As Jh 8d] [7s]
+EL COSO LOCO: checks 
+Daniel11300: bets $0.08
+EL COSO LOCO: folds 
+Uncalled bet ($0.08) returned to Daniel11300
+Daniel11300 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5d As Jh 8d 7s]
+Seat 1: EL COSO LOCO (small blind) folded on the River
+Seat 2: Daniel11300 (big blind) collected ($0.08)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915682925:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:22:48 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: EL COSO LOCO ($1.92 in chips) 
+Seat 2: Daniel11300 ($0.88 in chips) 
+Seat 3: Lorpugo ($3.37 in chips) 
+Seat 4: ruleagor ($2.97 in chips) 
+Seat 5: caziano ($2.92 in chips) 
+Seat 6: R.Andrei AKs ($2.07 in chips) 
+Daniel11300: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6s]
+ruleagor: raises $0.04 to $0.06
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: calls $0.06
+Daniel11300: folds 
+Lorpugo: folds 
+*** FLOP *** [4d 8s 7c]
+ruleagor: checks 
+EL COSO LOCO: checks 
+*** TURN *** [4d 8s 7c] [Ad]
+ruleagor: bets $0.11
+EL COSO LOCO: folds 
+Uncalled bet ($0.11) returned to ruleagor
+ruleagor collected $0.14 from pot
+ruleagor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d 8s 7c Ad]
+Seat 1: EL COSO LOCO (button) folded on the Turn
+Seat 2: Daniel11300 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: ruleagor collected ($0.14)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915693474:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:23:12 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: EL COSO LOCO ($1.86 in chips) 
+Seat 2: Daniel11300 ($0.87 in chips) 
+Seat 3: Lorpugo ($3.35 in chips) 
+Seat 4: ruleagor ($3.05 in chips) 
+Seat 5: caziano ($2.92 in chips) 
+Seat 6: R.Andrei AKs ($2.07 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ah]
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: calls $0.02
+Daniel11300: raises $0.12 to $0.14
+Lorpugo: folds 
+ruleagor: folds 
+EL COSO LOCO: folds 
+Uncalled bet ($0.12) returned to Daniel11300
+Daniel11300 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: EL COSO LOCO folded before Flop
+Seat 2: Daniel11300 (button) collected ($0.07)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: ruleagor (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915702530:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:23:32 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: EL COSO LOCO ($1.84 in chips) 
+Seat 2: Daniel11300 ($0.92 in chips) 
+Seat 3: Lorpugo ($3.34 in chips) 
+Seat 4: ruleagor ($3.03 in chips) 
+Seat 5: caziano ($2.92 in chips) 
+Seat 6: R.Andrei AKs ($2.07 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 5h]
+R.Andrei AKs: folds 
+EL COSO LOCO: calls $0.02
+Daniel11300: folds 
+Lorpugo: folds 
+ruleagor: folds 
+caziano: checks 
+*** FLOP *** [4h 3s 8c]
+caziano: checks 
+EL COSO LOCO: bets $0.08
+caziano: folds 
+Uncalled bet ($0.08) returned to EL COSO LOCO
+EL COSO LOCO collected $0.05 from pot
+EL COSO LOCO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h 3s 8c]
+Seat 1: EL COSO LOCO collected ($0.05)
+Seat 2: Daniel11300 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded on the Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915712152:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:23:54 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: EL COSO LOCO ($1.87 in chips) 
+Seat 2: Daniel11300 ($0.92 in chips) 
+Seat 3: Lorpugo ($3.34 in chips) 
+Seat 4: ruleagor ($3.02 in chips) 
+Seat 5: caziano ($2.90 in chips) 
+Seat 6: R.Andrei AKs ($2.07 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9s]
+EL COSO LOCO: raises $0.02 to $0.04
+Daniel11300: folds 
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Uncalled bet ($0.02) returned to EL COSO LOCO
+EL COSO LOCO collected $0.05 from pot
+EL COSO LOCO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: EL COSO LOCO collected ($0.05)
+Seat 2: Daniel11300 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915721114:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:24:14 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: EL COSO LOCO ($1.90 in chips) 
+Seat 2: Daniel11300 ($0.92 in chips) 
+Seat 3: Lorpugo ($3.34 in chips) 
+Seat 4: ruleagor ($3.02 in chips) 
+Seat 5: caziano ($2.89 in chips) 
+Seat 6: R.Andrei AKs ($2.05 in chips) 
+R.Andrei AKs: posts small blind $0.01
+EL COSO LOCO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Kd]
+Daniel11300: raises $0.12 to $0.14
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+EL COSO LOCO: folds 
+Uncalled bet ($0.12) returned to Daniel11300
+Daniel11300 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: EL COSO LOCO (big blind) folded before Flop
+Seat 2: Daniel11300 collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915732752:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:24:41 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Daniel11300 ($0.95 in chips) 
+Seat 3: Lorpugo ($3.34 in chips) 
+Seat 4: ruleagor ($3.02 in chips) 
+Seat 5: caziano ($2.89 in chips) 
+Seat 6: R.Andrei AKs ($2.04 in chips) 
+Daniel11300: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Qs]
+ruleagor: folds 
+caziano: raises $0.03 to $0.05
+R.Andrei AKs: folds 
+Daniel11300: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [6c 9d 2h]
+Daniel11300: checks 
+caziano: bets $0.08
+Daniel11300: calls $0.08
+*** TURN *** [6c 9d 2h] [8h]
+Daniel11300: checks 
+caziano: bets $0.18
+Daniel11300: calls $0.18
+*** RIVER *** [6c 9d 2h 8h] [7h]
+Daniel11300: bets $0.64 and is all-in
+caziano: folds 
+Uncalled bet ($0.64) returned to Daniel11300
+Daniel11300 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [6c 9d 2h 8h 7h]
+Seat 2: Daniel11300 (small blind) collected ($0.62)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded on the River
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915754356:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:25:29 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Daniel11300 ($1.26 in chips) 
+Seat 3: Lorpugo ($3.32 in chips) 
+Seat 4: ruleagor ($3.02 in chips) 
+Seat 5: caziano ($2.58 in chips) 
+Seat 6: R.Andrei AKs ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6d]
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: folds 
+Lorpugo: raises $0.02 to $0.04
+ruleagor: calls $0.02
+*** FLOP *** [2c Kd 2d]
+Lorpugo: checks 
+ruleagor: bets $0.06
+Lorpugo: raises $0.06 to $0.12
+ruleagor: calls $0.06
+*** TURN *** [2c Kd 2d] [7d]
+Lorpugo: checks 
+ruleagor: bets $0.23
+Lorpugo: folds 
+Uncalled bet ($0.23) returned to ruleagor
+ruleagor collected $0.31 from pot
+ruleagor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2c Kd 2d 7d]
+Seat 2: Daniel11300 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Turn
+Seat 4: ruleagor (big blind) collected ($0.31)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915775898:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:26:18 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Daniel11300 ($1.26 in chips) 
+Seat 3: Lorpugo ($3.16 in chips) 
+Seat 4: ruleagor ($3.17 in chips) 
+Seat 5: caziano ($2.58 in chips) 
+Seat 6: R.Andrei AKs ($2.04 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9c]
+R.Andrei AKs: folds 
+Daniel11300: calls $0.02
+Lorpugo: calls $0.02
+ruleagor: folds 
+caziano: checks 
+*** FLOP *** [Td 7h Tc]
+caziano: checks 
+Daniel11300: checks 
+Lorpugo: bets $0.14
+caziano: folds 
+Daniel11300: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Td 7h Tc]
+Seat 2: Daniel11300 folded on the Flop
+Seat 3: Lorpugo (button) collected ($0.07)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded on the Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915790376:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:26:51 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 2: Daniel11300 ($1.24 in chips) 
+Seat 3: Lorpugo ($3.21 in chips) 
+Seat 4: ruleagor ($3.16 in chips) 
+Seat 5: caziano ($2.56 in chips) 
+Seat 6: R.Andrei AKs ($2.04 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 6d]
+Daniel11300: folds 
+Lorpugo: folds 
+ruleagor: folds 
+caziano: raises $0.04 to $0.06
+R.Andrei AKs: calls $0.04
+*** FLOP *** [5s 7s Kh]
+caziano: checks 
+R.Andrei AKs: checks 
+*** TURN *** [5s 7s Kh] [5h]
+caziano: checks 
+R.Andrei AKs: checks 
+*** RIVER *** [5s 7s Kh 5h] [3c]
+caziano: checks 
+R.Andrei AKs: checks 
+*** SHOW DOWN ***
+caziano: shows [8d Js] (a pair of Fives)
+R.Andrei AKs: mucks hand 
+caziano collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5s 7s Kh 5h 3c]
+Seat 2: Daniel11300 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) showed [8d Js] and won ($0.12) with a pair of Fives
+Seat 6: R.Andrei AKs (big blind) mucked [8c Tc]
+
+
+
+PokerStars Hand #240915802726:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:27:19 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 2: Daniel11300 ($1.24 in chips) 
+Seat 3: Lorpugo ($3.21 in chips) 
+Seat 4: ruleagor ($3.16 in chips) 
+Seat 5: caziano ($2.62 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Daniel11300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Kd]
+Lorpugo: raises $0.02 to $0.04
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: raises $0.06 to $0.10
+Lorpugo: raises $0.06 to $0.16
+Daniel11300: calls $0.06
+*** FLOP *** [7h 4s 6h]
+Daniel11300: checks 
+Lorpugo: bets $3.05 and is all-in
+Daniel11300: calls $1.08 and is all-in
+Uncalled bet ($1.97) returned to Lorpugo
+*** TURN *** [7h 4s 6h] [Ah]
+*** RIVER *** [7h 4s 6h Ah] [2s]
+*** SHOW DOWN ***
+Daniel11300: shows [Ad Td] (a pair of Aces)
+Lorpugo: shows [9d Kd] (high card Ace)
+Daniel11300 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.09 
+Board [7h 4s 6h Ah 2s]
+Seat 2: Daniel11300 (big blind) showed [Ad Td] and won ($2.40) with a pair of Aces
+Seat 3: Lorpugo showed [9d Kd] and lost with high card Ace
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915825678:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:28:11 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Daniel11300 ($2.40 in chips) 
+Seat 3: Lorpugo ($1.97 in chips) 
+Seat 4: ruleagor ($3.16 in chips) 
+Seat 5: caziano ($2.62 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Daniel11300: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 8c]
+ruleagor: folds 
+caziano: raises $0.03 to $0.05
+R.Andrei AKs: folds 
+Daniel11300: folds 
+Lorpugo: raises $1.92 to $1.97 and is all-in
+caziano: folds 
+Uncalled bet ($1.92) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 2: Daniel11300 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.11)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915833387:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:28:29 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Daniel11300 ($2.39 in chips) 
+Seat 3: Lorpugo ($2.03 in chips) 
+Seat 4: ruleagor ($3.16 in chips) 
+Seat 5: caziano ($2.57 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 6d]
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: folds 
+Lorpugo: raises $0.02 to $0.04
+ruleagor: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Daniel11300 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: ruleagor (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915837437:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:28:38 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Daniel11300 ($2.39 in chips) 
+Seat 3: Lorpugo ($2.05 in chips) 
+Seat 4: ruleagor ($3.14 in chips) 
+Seat 5: caziano ($2.57 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4d]
+R.Andrei AKs: folds 
+Daniel11300: raises $2.37 to $2.39 and is all-in
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+Uncalled bet ($2.37) returned to Daniel11300
+Daniel11300 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Daniel11300 collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915843168:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:28:51 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 2: Daniel11300 ($2.42 in chips) 
+Seat 3: Lorpugo ($2.05 in chips) 
+Seat 4: ruleagor ($3.13 in chips) 
+Seat 5: caziano ($2.55 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jd]
+Daniel11300: calls $0.02
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: raises $0.06 to $0.08
+Daniel11300: calls $0.06
+*** FLOP *** [8h Ah 2c]
+R.Andrei AKs: bets $0.08
+Daniel11300: calls $0.08
+*** TURN *** [8h Ah 2c] [Kc]
+R.Andrei AKs: bets $0.16
+Daniel11300: calls $0.16
+*** RIVER *** [8h Ah 2c Kc] [9c]
+R.Andrei AKs: checks 
+Daniel11300: bets $2.10 and is all-in
+R.Andrei AKs: folds 
+Uncalled bet ($2.10) returned to Daniel11300
+Daniel11300 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [8h Ah 2c Kc 9c]
+Seat 2: Daniel11300 collected ($0.63)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded on the River
+
+
+
+PokerStars Hand #240915857632:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:29:24 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 2: Daniel11300 ($2.73 in chips) 
+Seat 3: Lorpugo ($2.05 in chips) 
+Seat 4: ruleagor ($3.13 in chips) 
+Seat 5: caziano ($2.54 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Daniel11300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Qc]
+Lorpugo: raises $0.02 to $0.04
+ruleagor: folds 
+caziano: calls $0.04
+R.Andrei AKs: folds 
+Daniel11300: calls $0.02
+*** FLOP *** [3c 8d Jc]
+Daniel11300: checks 
+Lorpugo: checks 
+caziano: checks 
+*** TURN *** [3c 8d Jc] [5s]
+Daniel11300: bets $0.02
+Lorpugo: raises $0.17 to $0.19
+caziano: folds 
+Daniel11300: folds 
+Uncalled bet ($0.17) returned to Lorpugo
+Lorpugo collected $0.16 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3c 8d Jc 5s]
+Seat 2: Daniel11300 (big blind) folded on the Turn
+Seat 3: Lorpugo collected ($0.16)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) folded on the Turn
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240915876449:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:30:07 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Daniel11300 ($2.67 in chips) 
+Seat 3: Lorpugo ($2.15 in chips) 
+Seat 4: ruleagor ($3.13 in chips) 
+Seat 5: caziano ($2.50 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Daniel11300: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Js]
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: raises $0.02 to $0.04
+Lorpugo: raises $0.34 to $0.38
+Daniel11300: folds 
+Uncalled bet ($0.34) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 2: Daniel11300 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.08)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915885130:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:30:27 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Daniel11300 ($2.63 in chips) 
+Seat 3: Lorpugo ($2.19 in chips) 
+Seat 4: ruleagor ($3.13 in chips) 
+Seat 5: caziano ($2.50 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 4s]
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: raises $0.08 to $0.10
+Lorpugo: folds 
+ruleagor: folds 
+Uncalled bet ($0.08) returned to Daniel11300
+Daniel11300 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Daniel11300 (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: ruleagor (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915891399:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:30:41 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Daniel11300 ($2.66 in chips) 
+Seat 3: Lorpugo ($2.18 in chips) 
+Seat 4: ruleagor ($3.11 in chips) 
+Seat 5: caziano ($2.50 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Jh]
+R.Andrei AKs: raises $0.04 to $0.06
+Daniel11300: folds 
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+Uncalled bet ($0.04) returned to R.Andrei AKs
+R.Andrei AKs collected $0.05 from pot
+R.Andrei AKs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Daniel11300 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: R.Andrei AKs collected ($0.05)
+
+
+
+PokerStars Hand #240915896141:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:30:52 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 2: Daniel11300 ($2.66 in chips) 
+Seat 3: Lorpugo ($2.18 in chips) 
+Seat 4: ruleagor ($3.10 in chips) 
+Seat 5: caziano ($2.48 in chips) 
+Seat 6: R.Andrei AKs ($2.03 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7h]
+Daniel11300: calls $0.02
+Lorpugo: folds 
+ruleagor: raises $0.06 to $0.08
+caziano: folds 
+R.Andrei AKs: folds 
+Daniel11300: calls $0.06
+*** FLOP *** [7c 2d Js]
+Daniel11300: checks 
+ruleagor: checks 
+*** TURN *** [7c 2d Js] [8h]
+Daniel11300: checks 
+ruleagor: checks 
+*** RIVER *** [7c 2d Js 8h] [9c]
+Daniel11300: checks 
+ruleagor: checks 
+*** SHOW DOWN ***
+Daniel11300: shows [Kd 3d] (high card King)
+ruleagor: shows [5h As] (high card Ace)
+ruleagor collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7c 2d Js 8h 9c]
+Seat 2: Daniel11300 showed [Kd 3d] and lost with high card King
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) showed [5h As] and won ($0.18) with high card Ace
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240915911154:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:31:26 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 2: Daniel11300 ($2.58 in chips) 
+Seat 3: Lorpugo ($2.18 in chips) 
+Seat 4: ruleagor ($3.20 in chips) 
+Seat 5: caziano ($2.47 in chips) 
+Seat 6: R.Andrei AKs ($2.01 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Daniel11300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 8d]
+Lorpugo: folds 
+ruleagor: raises $0.03 to $0.05
+caziano: folds 
+R.Andrei AKs: calls $0.04
+Daniel11300: raises $0.05 to $0.10
+ruleagor: calls $0.05
+R.Andrei AKs: calls $0.05
+*** FLOP *** [2h Js 8s]
+R.Andrei AKs: checks 
+Daniel11300: bets $0.10
+ruleagor: calls $0.10
+R.Andrei AKs: folds 
+*** TURN *** [2h Js 8s] [6c]
+Daniel11300: bets $0.10
+ruleagor: calls $0.10
+*** RIVER *** [2h Js 8s 6c] [3s]
+Daniel11300: bets $0.12
+ruleagor: calls $0.12
+*** SHOW DOWN ***
+Daniel11300: shows [Ac Ts] (high card Ace)
+ruleagor: shows [Td Tc] (a pair of Tens)
+ruleagor collected $0.91 from pot
+EL COSO LOCO leaves the table
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [2h Js 8s 6c 3s]
+Seat 2: Daniel11300 (big blind) showed [Ac Ts] and lost with high card Ace
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor showed [Td Tc] and won ($0.91) with a pair of Tens
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240915929168:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:32:07 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Daniel11300 ($2.16 in chips) 
+Seat 3: Lorpugo ($2.18 in chips) 
+Seat 4: ruleagor ($3.69 in chips) 
+Seat 5: caziano ($2.47 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Daniel11300: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 5d]
+ruleagor: folds 
+caziano: raises $0.03 to $0.05
+R.Andrei AKs: folds 
+Daniel11300: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [7d 2d 2s]
+Lorpugo: checks 
+caziano: checks 
+*** TURN *** [7d 2d 2s] [Js]
+Lorpugo: bets $0.07
+caziano: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7d 2d 2s Js]
+Seat 2: Daniel11300 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.11)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded on the Turn
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915942116:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:32:37 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Daniel11300 ($2.15 in chips) 
+Seat 3: Lorpugo ($2.24 in chips) 
+Seat 4: ruleagor ($3.69 in chips) 
+Seat 5: caziano ($2.42 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jd]
+caziano: folds 
+R.Andrei AKs: raises $0.04 to $0.06
+Daniel11300: calls $0.06
+EL COSO LOCO joins the table at seat #1 
+Lorpugo: calls $0.05
+ruleagor: calls $0.04
+*** FLOP *** [4h 6c 8h]
+Lorpugo: checks 
+ruleagor: checks 
+R.Andrei AKs: checks 
+Daniel11300: bets $0.16
+Lorpugo: folds 
+ruleagor: calls $0.16
+R.Andrei AKs: folds 
+*** TURN *** [4h 6c 8h] [As]
+ruleagor: checks 
+Daniel11300: bets $0.18
+ruleagor: calls $0.18
+*** RIVER *** [4h 6c 8h As] [3d]
+ruleagor: checks 
+Daniel11300: bets $0.12
+ruleagor: folds 
+Uncalled bet ($0.12) returned to Daniel11300
+Daniel11300 collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [4h 6c 8h As 3d]
+Seat 2: Daniel11300 (button) collected ($0.89)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: ruleagor (big blind) folded on the River
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded on the Flop
+
+
+
+PokerStars Hand #240915961231:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:33:21 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: EL COSO LOCO ($1.88 in chips) 
+Seat 2: Daniel11300 ($2.64 in chips) 
+Seat 3: Lorpugo ($2.18 in chips) 
+Seat 4: ruleagor ($3.29 in chips) 
+Seat 5: caziano ($2.42 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+EL COSO LOCO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 8d]
+R.Andrei AKs: folds 
+EL COSO LOCO: raises $0.02 to $0.04
+Daniel11300: folds 
+Lorpugo: raises $0.10 to $0.14
+ruleagor: folds 
+caziano: folds 
+EL COSO LOCO: calls $0.10
+*** FLOP *** [4d 2h Qh]
+EL COSO LOCO: checks 
+Daniel11300 leaves the table
+Lorpugo: checks 
+*** TURN *** [4d 2h Qh] [As]
+EL COSO LOCO: checks 
+Lorpugo: bets $0.10
+EL COSO LOCO: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.30 from pot
+Lorpugo: doesn't show hand 
+Wrathexz joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4d 2h Qh As]
+Seat 1: EL COSO LOCO folded on the Turn
+Seat 2: Daniel11300 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.30)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240915981973:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:34:09 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: EL COSO LOCO ($1.74 in chips) 
+Seat 3: Lorpugo ($2.34 in chips) 
+Seat 4: ruleagor ($3.28 in chips) 
+Seat 5: caziano ($2.40 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+caziano: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Ad]
+EL COSO LOCO: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+ruleagor: folds 
+caziano: calls $0.03
+R.Andrei AKs: folds 
+EL COSO LOCO: calls $0.02
+*** FLOP *** [9s 9d Jh]
+caziano: checks 
+EL COSO LOCO: checks 
+Lorpugo: checks 
+*** TURN *** [9s 9d Jh] [5c]
+caziano: checks 
+EL COSO LOCO: checks 
+Lorpugo: bets $0.05
+caziano: folds 
+EL COSO LOCO: calls $0.05
+*** RIVER *** [9s 9d Jh 5c] [3h]
+EL COSO LOCO: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+EL COSO LOCO: shows [7h 6s] (a pair of Nines)
+Lorpugo: shows [8s Ad] (a pair of Nines - Ace kicker)
+Lorpugo collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9s 9d Jh 5c 3h]
+Seat 1: EL COSO LOCO showed [7h 6s] and lost with a pair of Nines
+Seat 3: Lorpugo showed [8s Ad] and won ($0.23) with a pair of Nines
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded on the Turn
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240916004447:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:35:00 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 2: Wrathexz ($1.60 in chips) 
+Seat 3: Lorpugo ($2.48 in chips) 
+Seat 4: ruleagor ($3.28 in chips) 
+Seat 5: caziano ($2.36 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 7s]
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: raises $0.04 to $0.06
+Wrathexz: calls $0.04
+*** FLOP *** [8c 9h 9d]
+R.Andrei AKs: bets $0.06
+Wrathexz: calls $0.06
+*** TURN *** [8c 9h 9d] [2s]
+R.Andrei AKs: bets $0.12
+Wrathexz: calls $0.12
+*** RIVER *** [8c 9h 9d 2s] [Ks]
+R.Andrei AKs: checks 
+Wrathexz: bets $0.50
+R.Andrei AKs: folds 
+Uncalled bet ($0.50) returned to Wrathexz
+Wrathexz collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [8c 9h 9d 2s Ks]
+Seat 2: Wrathexz (big blind) collected ($0.46)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (small blind) folded on the River
+
+
+
+PokerStars Hand #240916021769:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:35:40 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Wrathexz ($1.82 in chips) 
+Seat 3: Lorpugo ($2.48 in chips) 
+Seat 4: ruleagor ($3.28 in chips) 
+Seat 5: caziano ($2.36 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jc]
+ruleagor: folds 
+caziano: folds 
+R.Andrei AKs: raises $0.04 to $0.06
+Wrathexz: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [Jd Qc 7c]
+Wrathexz: checks 
+R.Andrei AKs: checks 
+*** TURN *** [Jd Qc 7c] [Kh]
+Wrathexz: checks 
+R.Andrei AKs: checks 
+*** RIVER *** [Jd Qc 7c Kh] [2c]
+Wrathexz: bets $0.50
+R.Andrei AKs: folds 
+Uncalled bet ($0.50) returned to Wrathexz
+Wrathexz collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jd Qc 7c Kh 2c]
+Seat 2: Wrathexz (small blind) collected ($0.14)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded on the River
+
+
+
+PokerStars Hand #240916037021:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:36:15 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Wrathexz ($1.90 in chips) 
+Seat 3: Lorpugo ($2.46 in chips) 
+Seat 4: ruleagor ($3.28 in chips) 
+Seat 5: caziano ($2.36 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6c]
+caziano: folds 
+R.Andrei AKs: folds 
+Wrathexz: raises $0.02 to $0.04
+Lorpugo: folds 
+ruleagor: folds 
+Uncalled bet ($0.02) returned to Wrathexz
+Wrathexz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Wrathexz (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: ruleagor (big blind) folded before Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916048878:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:36:43 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Wrathexz ($1.93 in chips) 
+Seat 3: Lorpugo ($2.45 in chips) 
+Seat 4: ruleagor ($3.26 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+ruleagor: posts small blind $0.01
+R.Andrei AKs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ac]
+Wrathexz: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+ruleagor: folds 
+R.Andrei AKs: folds 
+Wrathexz: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: Wrathexz folded before Flop
+Seat 3: Lorpugo (button) collected ($0.07)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 6: R.Andrei AKs (big blind) folded before Flop
+
+
+
+PokerStars Hand #240916056917:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:37:02 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 2: Wrathexz ($1.91 in chips) 
+Seat 3: Lorpugo ($2.50 in chips) 
+Seat 4: ruleagor ($3.25 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+R.Andrei AKs: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Jd]
+Lorpugo: raises $0.02 to $0.04
+ruleagor: calls $0.04
+R.Andrei AKs: folds 
+Wrathexz: calls $0.02
+*** FLOP *** [2c As 8d]
+Wrathexz: checks 
+Lorpugo: bets $0.02
+ruleagor: calls $0.02
+Wrathexz: calls $0.02
+*** TURN *** [2c As 8d] [3c]
+Wrathexz: checks 
+Lorpugo: bets $0.02
+ruleagor: calls $0.02
+Wrathexz: calls $0.02
+*** RIVER *** [2c As 8d 3c] [9h]
+Wrathexz: checks 
+Lorpugo: bets $0.16
+ruleagor: folds 
+Wrathexz: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.24 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c As 8d 3c 9h]
+Seat 2: Wrathexz (big blind) folded on the River
+Seat 3: Lorpugo collected ($0.24)
+Seat 4: ruleagor (button) folded on the River
+Seat 6: R.Andrei AKs (small blind) folded before Flop
+
+
+
+PokerStars Hand #240916075141:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:37:45 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Wrathexz ($1.83 in chips) 
+Seat 3: Lorpugo ($2.66 in chips) 
+Seat 4: ruleagor ($3.17 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5c]
+ruleagor: folds 
+R.Andrei AKs: folds 
+Wrathexz: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [6d 9h 2d]
+Wrathexz: checks 
+Lorpugo: bets $0.04
+Wrathexz: calls $0.04
+*** TURN *** [6d 9h 2d] [Jc]
+Wrathexz: checks 
+Lorpugo: checks 
+*** RIVER *** [6d 9h 2d Jc] [6c]
+Wrathexz: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Wrathexz
+Wrathexz collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6d 9h 2d Jc 6c]
+Seat 2: Wrathexz (small blind) collected ($0.12)
+Seat 3: Lorpugo (big blind) folded on the River
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 6: R.Andrei AKs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916090792:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:38:22 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Wrathexz ($1.89 in chips) 
+Seat 3: Lorpugo ($2.60 in chips) 
+Seat 4: ruleagor ($3.17 in chips) 
+Seat 6: R.Andrei AKs ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9s]
+R.Andrei AKs: raises $0.04 to $0.06
+Wrathexz: calls $0.06
+Lorpugo: calls $0.05
+ruleagor: folds 
+*** FLOP *** [7d 2d 6d]
+Lorpugo: checks 
+R.Andrei AKs: checks 
+Wrathexz: bets $0.02
+Lorpugo: folds 
+R.Andrei AKs: calls $0.02
+*** TURN *** [7d 2d 6d] [2c]
+R.Andrei AKs: checks 
+Wrathexz: checks 
+*** RIVER *** [7d 2d 6d 2c] [Kc]
+R.Andrei AKs: checks 
+Wrathexz: checks 
+*** SHOW DOWN ***
+R.Andrei AKs: shows [Ad Th] (a pair of Deuces)
+Wrathexz: shows [Jc 6c] (two pair, Sixes and Deuces)
+Wrathexz collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7d 2d 6d 2c Kc]
+Seat 2: Wrathexz (button) showed [Jc 6c] and won ($0.23) with two pair, Sixes and Deuces
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: ruleagor (big blind) folded before Flop
+Seat 6: R.Andrei AKs showed [Ad Th] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #240916111054:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:39:09 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Wrathexz ($2.04 in chips) 
+Seat 3: Lorpugo ($2.54 in chips) 
+Seat 4: ruleagor ($3.15 in chips) 
+ruleagor: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 9d]
+R.Andrei AKs leaves the table
+Lorpugo: raises $0.04 to $0.06
+ruleagor: raises $0.18 to $0.24
+Wrathexz: folds 
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to ruleagor
+ruleagor collected $0.14 from pot
+ruleagor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 2: Wrathexz (big blind) folded before Flop
+Seat 3: Lorpugo (button) folded before Flop
+Seat 4: ruleagor (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #240916116973:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:39:23 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 2: Wrathexz ($2.02 in chips) 
+Seat 3: Lorpugo ($2.48 in chips) 
+Seat 4: ruleagor ($3.23 in chips) 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 7c]
+ruleagor: folds 
+Wrathexz: calls $0.01
+lalon22 joins the table at seat #6 
+Lorpugo: raises $0.12 to $0.14
+Wrathexz: calls $0.12
+*** FLOP *** [Js Qd Qc]
+Wrathexz: checks 
+Lorpugo: bets $0.02
+Wrathexz: calls $0.02
+*** TURN *** [Js Qd Qc] [Qh]
+Wrathexz: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Wrathexz
+Wrathexz collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Js Qd Qc Qh]
+Seat 2: Wrathexz (small blind) collected ($0.31)
+Seat 3: Lorpugo (big blind) folded on the Turn
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916137727:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:40:13 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Wrathexz ($2.17 in chips) 
+Seat 3: Lorpugo ($2.32 in chips) 
+Seat 4: ruleagor ($3.23 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7c]
+Wrathexz: calls $0.02
+Lorpugo: raises $0.20 to $0.22
+ruleagor: folds 
+Wrathexz: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 2: Wrathexz (button) folded before Flop
+Seat 3: Lorpugo (small blind) collected ($0.06)
+Seat 4: ruleagor (big blind) folded before Flop
+
+
+
+PokerStars Hand #240916149249:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:40:40 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Wrathexz ($2.15 in chips) 
+Seat 3: Lorpugo ($2.36 in chips) 
+Seat 4: ruleagor ($3.21 in chips) 
+Seat 6: lalon22 ($2 in chips) 
+ruleagor: posts small blind $0.01
+lalon22: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 4s]
+Wrathexz: folds 
+Lorpugo: raises $0.10 to $0.12
+ruleagor: calls $0.11
+lalon22: folds 
+*** FLOP *** [3d 2s 6h]
+ruleagor: checks 
+Lorpugo: bets $0.02
+ruleagor: calls $0.02
+*** TURN *** [3d 2s 6h] [2c]
+ruleagor: checks 
+Lorpugo: checks 
+*** RIVER *** [3d 2s 6h 2c] [Jd]
+ruleagor: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+ruleagor: shows [7h 8h] (a pair of Deuces)
+Lorpugo: shows [Kh 4s] (a pair of Deuces - King kicker)
+Lorpugo collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3d 2s 6h 2c Jd]
+Seat 2: Wrathexz folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) showed [Kh 4s] and won ($0.29) with a pair of Deuces
+Seat 4: ruleagor (small blind) showed [7h 8h] and lost with a pair of Deuces
+Seat 6: lalon22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240916168330:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:41:25 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 2: Wrathexz ($2.15 in chips) 
+Seat 3: Lorpugo ($2.51 in chips) 
+Seat 4: ruleagor ($3.07 in chips) 
+Seat 6: lalon22 ($2 in chips) 
+lalon22: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7s]
+Lorpugo: folds 
+ruleagor: folds 
+lalon22: folds 
+Uncalled bet ($0.01) returned to Wrathexz
+Wrathexz collected $0.02 from pot
+EL COSO LOCO leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Wrathexz (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 6: lalon22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240916175345:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:41:42 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Wrathexz ($2.16 in chips) 
+Seat 3: Lorpugo ($2.51 in chips) 
+Seat 4: ruleagor ($3.07 in chips) 
+Seat 6: lalon22 ($2 in chips) 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6h]
+ruleagor: folds 
+lalon22: raises $0.02 to $0.04
+Wrathexz: calls $0.03
+Lorpugo: raises $0.12 to $0.16
+lalon22: folds 
+Wrathexz: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: Wrathexz (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.12)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 6: lalon22 (button) folded before Flop
+
+
+
+PokerStars Hand #240916187324:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:42:10 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Wrathexz ($2.12 in chips) 
+Seat 3: Lorpugo ($2.59 in chips) 
+Seat 4: ruleagor ($3.07 in chips) 
+Seat 6: lalon22 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh As]
+lalon22: raises $0.04 to $0.06
+Wrathexz: folds 
+Lorpugo: raises $0.14 to $0.20
+ruleagor: raises $0.25 to $0.45
+lalon22: folds 
+Lorpugo: folds 
+Uncalled bet ($0.25) returned to ruleagor
+ruleagor collected $0.46 from pot
+ruleagor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0 
+Seat 2: Wrathexz (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: ruleagor (big blind) collected ($0.46)
+Seat 6: lalon22 folded before Flop
+
+
+
+PokerStars Hand #240916206786:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:42:56 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Wrathexz ($2.12 in chips) 
+Seat 3: Lorpugo ($2.39 in chips) 
+Seat 4: ruleagor ($3.33 in chips) 
+Seat 5: caziano ($2.36 in chips) 
+Seat 6: lalon22 ($2 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 3d]
+lalon22: folds 
+Wrathexz: calls $0.02
+Lorpugo: folds 
+ruleagor: folds 
+caziano: checks 
+*** FLOP *** [Kd 5h 6d]
+19dave72 joins the table at seat #1 
+caziano: checks 
+Wrathexz: bets $0.02
+caziano: folds 
+Uncalled bet ($0.02) returned to Wrathexz
+Wrathexz collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd 5h 6d]
+Seat 2: Wrathexz collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded on the Flop
+Seat 6: lalon22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916215737:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:43:18 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: 19dave72 ($2 in chips) 
+Seat 2: Wrathexz ($2.15 in chips) 
+Seat 3: Lorpugo ($2.39 in chips) 
+Seat 4: ruleagor ($3.32 in chips) 
+Seat 5: caziano ($2.34 in chips) 
+caziano: posts small blind $0.01
+19dave72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 9d]
+Wrathexz: calls $0.02
+Lorpugo: folds 
+ruleagor: raises $0.06 to $0.08
+caziano: folds 
+19dave72: folds 
+lalon22 leaves the table
+Wrathexz: folds 
+Uncalled bet ($0.06) returned to ruleagor
+ruleagor collected $0.07 from pot
+ruleagor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: 19dave72 (big blind) folded before Flop
+Seat 2: Wrathexz folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) collected ($0.07)
+Seat 5: caziano (small blind) folded before Flop
+
+
+
+PokerStars Hand #240916228146:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:43:47 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: 19dave72 ($2 in chips) 
+Seat 2: Wrathexz ($2.13 in chips) 
+Seat 3: Lorpugo ($2.39 in chips) 
+Seat 4: ruleagor ($3.37 in chips) 
+Seat 5: caziano ($2.33 in chips) 
+19dave72: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5d]
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+19dave72: raises $0.04 to $0.06
+Wrathexz: calls $0.04
+*** FLOP *** [3c 6d 6s]
+19dave72: bets $0.06
+Wrathexz: folds 
+Uncalled bet ($0.06) returned to 19dave72
+19dave72 collected $0.12 from pot
+19dave72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3c 6d 6s]
+Seat 1: 19dave72 (small blind) collected ($0.12)
+Seat 2: Wrathexz (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916241780:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:44:20 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: 19dave72 ($2.06 in chips) 
+Seat 2: Wrathexz ($2.07 in chips) 
+Seat 3: Lorpugo ($2.39 in chips) 
+Seat 4: ruleagor ($3.37 in chips) 
+Seat 5: caziano ($2.33 in chips) 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3c]
+ruleagor: raises $0.04 to $0.06
+caziano: folds 
+19dave72: folds 
+Wrathexz: folds 
+cherry145 joins the table at seat #6 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to ruleagor
+ruleagor collected $0.05 from pot
+ruleagor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 19dave72 (button) folded before Flop (didn't bet)
+Seat 2: Wrathexz (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: ruleagor collected ($0.05)
+Seat 5: caziano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916248341:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:44:36 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: 19dave72 ($2.06 in chips) 
+Seat 2: Wrathexz ($2.06 in chips) 
+Seat 3: Lorpugo ($2.37 in chips) 
+Seat 4: ruleagor ($3.40 in chips) 
+Seat 5: caziano ($2.33 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d As]
+caziano: folds 
+19dave72: folds 
+Wrathexz: calls $0.02
+Lorpugo: calls $0.01
+ruleagor: checks 
+*** FLOP *** [5c Qh Js]
+Lorpugo: checks 
+ruleagor: checks 
+Wrathexz: bets $0.06
+Lorpugo: folds 
+ruleagor: folds 
+Uncalled bet ($0.06) returned to Wrathexz
+Wrathexz collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5c Qh Js]
+Seat 1: 19dave72 folded before Flop (didn't bet)
+Seat 2: Wrathexz (button) collected ($0.06)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: ruleagor (big blind) folded on the Flop
+Seat 5: caziano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916261683:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:45:08 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: 19dave72 ($2.06 in chips) 
+Seat 2: Wrathexz ($2.10 in chips) 
+Seat 3: Lorpugo ($2.35 in chips) 
+Seat 4: ruleagor ($3.38 in chips) 
+Seat 5: caziano ($2.33 in chips) 
+Seat 6: cherry145 ($1.60 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+cherry145: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 2c]
+cherry145 has timed out
+cherry145: checks 
+19dave72: folds 
+Wrathexz: folds 
+Lorpugo: calls $0.02
+ruleagor: folds 
+caziano: checks 
+*** FLOP *** [Ac 8s Jd]
+caziano: checks 
+cherry145: checks 
+Lorpugo: checks 
+*** TURN *** [Ac 8s Jd] [9d]
+caziano: checks 
+cherry145: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac 8s Jd 9d] [4d]
+caziano: checks 
+cherry145: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+caziano: shows [6c 3h] (high card Ace)
+cherry145: shows [Ks 7s] (high card Ace - King kicker)
+Lorpugo: mucks hand 
+cherry145 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ac 8s Jd 9d 4d]
+Seat 1: 19dave72 folded before Flop (didn't bet)
+Seat 2: Wrathexz folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) mucked [Qc 2c]
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) showed [6c 3h] and lost with high card Ace
+Seat 6: cherry145 showed [Ks 7s] and won ($0.07) with high card Ace
+
+
+
+PokerStars Hand #240916306460:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:46:56 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: 19dave72 ($2.06 in chips) 
+Seat 2: Wrathexz ($2.10 in chips) 
+Seat 3: Lorpugo ($2.33 in chips) 
+Seat 4: ruleagor ($3.37 in chips) 
+Seat 5: caziano ($2.31 in chips) 
+Seat 6: cherry145 ($1.65 in chips) 
+caziano: posts small blind $0.01
+cherry145: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 3s]
+19dave72: folds 
+Wrathexz: calls $0.02
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+cherry145: checks 
+*** FLOP *** [Kc 7c Ks]
+cherry145: checks 
+Wrathexz: bets $0.02
+cherry145: calls $0.02
+*** TURN *** [Kc 7c Ks] [4h]
+cherry145: bets $0.02
+Wrathexz: raises $0.14 to $0.16
+cherry145: calls $0.14
+*** RIVER *** [Kc 7c Ks 4h] [8c]
+cherry145: checks 
+Wrathexz: checks 
+*** SHOW DOWN ***
+cherry145: shows [Ts 7s] (two pair, Kings and Sevens)
+Wrathexz: mucks hand 
+cherry145 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Kc 7c Ks 4h 8c]
+Seat 1: 19dave72 folded before Flop (didn't bet)
+Seat 2: Wrathexz mucked [7h 9d]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: cherry145 (big blind) showed [Ts 7s] and won ($0.40) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #240916322910:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:47:35 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 2: Wrathexz ($1.90 in chips) 
+Seat 3: Lorpugo ($2.33 in chips) 
+Seat 4: ruleagor ($3.37 in chips) 
+Seat 5: caziano ($2.30 in chips) 
+Seat 6: cherry145 ($1.85 in chips) 
+cherry145: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Js]
+Lorpugo: folds 
+ruleagor: folds 
+caziano: raises $0.03 to $0.05
+cherry145: folds 
+Wrathexz: raises $0.03 to $0.08
+caziano: calls $0.03
+*** FLOP *** [4s 5h 5c]
+19dave72 leaves the table
+Wrathexz: checks 
+caziano: checks 
+*** TURN *** [4s 5h 5c] [2h]
+Wrathexz: checks 
+caziano: checks 
+*** RIVER *** [4s 5h 5c 2h] [5d]
+Wrathexz: checks 
+caziano: checks 
+*** SHOW DOWN ***
+Wrathexz: shows [Ac Qh] (three of a kind, Fives)
+caziano: shows [8d 8c] (a full house, Fives full of Eights)
+caziano collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4s 5h 5c 2h 5d]
+Seat 2: Wrathexz (big blind) showed [Ac Qh] and lost with three of a kind, Fives
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) showed [8d 8c] and won ($0.16) with a full house, Fives full of Eights
+Seat 6: cherry145 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240916341121:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:48:20 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Wrathexz ($1.82 in chips) 
+Seat 3: Lorpugo ($2.33 in chips) 
+Seat 4: ruleagor ($3.37 in chips) 
+Seat 5: caziano ($2.38 in chips) 
+Seat 6: cherry145 ($1.84 in chips) 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Ac]
+ruleagor: folds 
+caziano: folds 
+cherry145: calls $0.02
+Wrathexz: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+salmonabel joins the table at seat #1 
+cherry145: folds 
+Wrathexz: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 2: Wrathexz (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.06)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 (button) folded before Flop
+
+
+
+PokerStars Hand #240916349880:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:48:41 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 2: Wrathexz ($1.80 in chips) 
+Seat 3: Lorpugo ($2.37 in chips) 
+Seat 4: ruleagor ($3.37 in chips) 
+Seat 5: caziano ($2.38 in chips) 
+Seat 6: cherry145 ($1.82 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Ah]
+caziano: folds 
+cherry145: raises $0.04 to $0.06
+Wrathexz: calls $0.06
+Lorpugo: calls $0.05
+ruleagor: calls $0.04
+*** FLOP *** [6s 3s 2h]
+Lorpugo: bets $0.02
+ruleagor: folds 
+cherry145: calls $0.02
+Wrathexz: calls $0.02
+*** TURN *** [6s 3s 2h] [7c]
+Lorpugo: checks 
+cherry145: checks 
+Wrathexz: checks 
+*** RIVER *** [6s 3s 2h 7c] [4s]
+Lorpugo: bets $0.20
+cherry145: folds 
+Wrathexz: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.29 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6s 3s 2h 7c 4s]
+Seat 2: Wrathexz (button) folded on the River
+Seat 3: Lorpugo (small blind) collected ($0.29)
+Seat 4: ruleagor (big blind) folded on the Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 folded on the River
+
+
+
+PokerStars Hand #240916367869:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:49:25 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 2: Wrathexz ($1.72 in chips) 
+Seat 3: Lorpugo ($2.58 in chips) 
+Seat 4: ruleagor ($3.31 in chips) 
+Seat 5: caziano ($2.38 in chips) 
+Seat 6: cherry145 ($1.74 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5s]
+cherry145: folds 
+Wrathexz: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+ruleagor: folds 
+caziano: folds 
+Wrathexz: calls $0.02
+*** FLOP *** [8d 5h Kc]
+Wrathexz: checks 
+Lorpugo: bets $0.07
+Wrathexz: calls $0.07
+*** TURN *** [8d 5h Kc] [Ad]
+Wrathexz: checks 
+Lorpugo: checks 
+*** RIVER *** [8d 5h Kc Ad] [Tc]
+Wrathexz: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Wrathexz
+Wrathexz collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d 5h Kc Ad Tc]
+Seat 2: Wrathexz collected ($0.24)
+Seat 3: Lorpugo (button) folded on the River
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: cherry145 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916385648:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:50:09 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 2: Wrathexz ($1.85 in chips) 
+Seat 3: Lorpugo ($2.47 in chips) 
+Seat 4: ruleagor ($3.30 in chips) 
+Seat 5: caziano ($2.36 in chips) 
+Seat 6: cherry145 ($1.74 in chips) 
+caziano: posts small blind $0.01
+cherry145: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qc]
+Wrathexz: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+ruleagor: folds 
+caziano: folds 
+cherry145: calls $0.04
+*** FLOP *** [3s 7d 4d]
+cherry145: checks 
+Wrathexz: bets $0.04
+Lorpugo: raises $0.12 to $0.16
+cherry145: calls $0.16
+Wrathexz: folds 
+*** TURN *** [3s 7d 4d] [9c]
+cherry145: bets $0.27
+Lorpugo: folds 
+Uncalled bet ($0.27) returned to cherry145
+cherry145 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3s 7d 4d 9c]
+Seat 2: Wrathexz folded on the Flop
+Seat 3: Lorpugo folded on the Turn
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: cherry145 (big blind) collected ($0.53)
+
+
+
+PokerStars Hand #240916410821:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:51:11 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: salmonabel ($2 in chips) 
+Seat 2: Wrathexz ($1.75 in chips) 
+Seat 3: Lorpugo ($2.25 in chips) 
+Seat 4: ruleagor ($3.30 in chips) 
+Seat 5: caziano ($2.35 in chips) 
+Seat 6: cherry145 ($2.05 in chips) 
+cherry145: posts small blind $0.01
+salmonabel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kc]
+Wrathexz: raises $0.02 to $0.04
+Lorpugo has timed out
+Lorpugo: folds 
+ruleagor: raises $0.08 to $0.12
+caziano: folds 
+cherry145: folds 
+salmonabel: folds 
+Wrathexz: calls $0.08
+*** FLOP *** [Ad 2s 5c]
+Wrathexz: checks 
+ruleagor: checks 
+*** TURN *** [Ad 2s 5c] [Qc]
+Wrathexz: checks 
+ruleagor: bets $0.13
+Wrathexz: calls $0.13
+*** RIVER *** [Ad 2s 5c Qc] [7c]
+Wrathexz: bets $0.12
+ruleagor: folds 
+Uncalled bet ($0.12) returned to Wrathexz
+Wrathexz collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ad 2s 5c Qc 7c]
+Seat 1: salmonabel (big blind) folded before Flop
+Seat 2: Wrathexz collected ($0.51)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded on the River
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: cherry145 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240916434652:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:52:11 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: salmonabel ($2 in chips) 
+Seat 2: Wrathexz ($2.01 in chips) 
+Seat 3: Lorpugo ($2.25 in chips) 
+Seat 4: ruleagor ($3.05 in chips) 
+Seat 5: caziano ($2.35 in chips) 
+Seat 6: cherry145 ($2.04 in chips) 
+salmonabel: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5c]
+Lorpugo: folds 
+ruleagor: raises $0.04 to $0.06
+caziano: folds 
+cherry145: folds 
+salmonabel: folds 
+Wrathexz: calls $0.04
+*** FLOP *** [9s Kc 7d]
+Wrathexz: checks 
+ruleagor: checks 
+*** TURN *** [9s Kc 7d] [9c]
+Wrathexz: checks 
+ruleagor: checks 
+*** RIVER *** [9s Kc 7d 9c] [Jh]
+Wrathexz: checks 
+ruleagor: bets $0.10
+Wrathexz: calls $0.10
+*** SHOW DOWN ***
+ruleagor: shows [Ts Qd] (a straight, Nine to King)
+Wrathexz: mucks hand 
+ruleagor collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [9s Kc 7d 9c Jh]
+Seat 1: salmonabel (small blind) folded before Flop
+Seat 2: Wrathexz (big blind) mucked [Ac 4c]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor showed [Ts Qd] and won ($0.32) with a straight, Nine to King
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916454547:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:53:01 ET
+Table 'Tabora III' 6-max Seat #1 is the button
+Seat 1: salmonabel ($2 in chips) 
+Seat 2: Wrathexz ($1.85 in chips) 
+Seat 3: Lorpugo ($2.25 in chips) 
+Seat 4: ruleagor ($3.21 in chips) 
+Seat 5: caziano ($2.35 in chips) 
+Seat 6: cherry145 ($2.04 in chips) 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4h]
+ruleagor: folds 
+caziano: folds 
+cherry145: folds 
+salmonabel: folds 
+Wrathexz: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [3s 8h 2s]
+Wrathexz: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+Wrathexz: calls $0.02
+*** TURN *** [3s 8h 2s] [Kc]
+Wrathexz: checks 
+Lorpugo: bets $0.08
+Wrathexz: calls $0.08
+*** RIVER *** [3s 8h 2s Kc] [Js]
+Wrathexz: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Wrathexz: shows [Ad 3h] (a pair of Threes)
+Lorpugo: mucks hand 
+Wrathexz collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [3s 8h 2s Kc Js]
+Seat 1: salmonabel (button) folded before Flop (didn't bet)
+Seat 2: Wrathexz (small blind) showed [Ad 3h] and won ($0.27) with a pair of Threes
+Seat 3: Lorpugo (big blind) mucked [3d 4h]
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916471520:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:53:44 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: salmonabel ($2 in chips) 
+Seat 2: Wrathexz ($1.98 in chips) 
+Seat 3: Lorpugo ($2.11 in chips) 
+Seat 4: ruleagor ($3.21 in chips) 
+Seat 5: caziano ($2.35 in chips) 
+Seat 6: cherry145 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Jd]
+caziano: folds 
+cherry145: folds 
+salmonabel: folds 
+Wrathexz: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+ruleagor: calls $0.10
+Wrathexz: folds 
+*** FLOP *** [8h 7d 4c]
+Lorpugo: bets $0.08
+ruleagor: calls $0.08
+*** TURN *** [8h 7d 4c] [9c]
+Lorpugo: bets $0.14
+ruleagor: calls $0.14
+*** RIVER *** [8h 7d 4c 9c] [5h]
+Lorpugo: bets $0.90
+ruleagor: folds 
+Uncalled bet ($0.90) returned to Lorpugo
+Lorpugo collected $0.68 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [8h 7d 4c 9c 5h]
+Seat 1: salmonabel folded before Flop (didn't bet)
+Seat 2: Wrathexz (button) folded before Flop
+Seat 3: Lorpugo (small blind) collected ($0.68)
+Seat 4: ruleagor (big blind) folded on the River
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240916492113:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:54:35 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: salmonabel ($2 in chips) 
+Seat 2: Wrathexz ($1.96 in chips) 
+Seat 3: Lorpugo ($2.45 in chips) 
+Seat 4: ruleagor ($2.87 in chips) 
+Seat 5: caziano ($2.35 in chips) 
+Seat 6: cherry145 ($2.04 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 5h]
+cherry145: raises $0.04 to $0.06
+salmonabel: folds 
+Wrathexz: calls $0.06
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+*** FLOP *** [3h 5d 9d]
+cherry145: bets $0.07
+Wrathexz: folds 
+Uncalled bet ($0.07) returned to cherry145
+cherry145 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h 5d 9d]
+Seat 1: salmonabel folded before Flop (didn't bet)
+Seat 2: Wrathexz folded on the Flop
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: cherry145 collected ($0.14)
+
+
+
+PokerStars Hand #240916503097:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:55:03 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: salmonabel ($2 in chips) 
+Seat 2: Wrathexz ($1.90 in chips) 
+Seat 3: Lorpugo ($2.45 in chips) 
+Seat 4: ruleagor ($2.86 in chips) 
+Seat 5: caziano ($2.33 in chips) 
+Seat 6: cherry145 ($2.12 in chips) 
+caziano: posts small blind $0.01
+cherry145: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 9h]
+salmonabel: raises $0.03 to $0.05
+Wrathexz: folds 
+Lorpugo: folds 
+ruleagor: folds 
+caziano: folds 
+cherry145: calls $0.03
+*** FLOP *** [7d 6s 6d]
+cherry145: checks 
+salmonabel: checks 
+*** TURN *** [7d 6s 6d] [3s]
+cherry145: checks 
+salmonabel: checks 
+*** RIVER *** [7d 6s 6d 3s] [3c]
+cherry145: checks 
+salmonabel: checks 
+*** SHOW DOWN ***
+cherry145: shows [Ac 5h] (two pair, Sixes and Threes)
+salmonabel: mucks hand 
+cherry145 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7d 6s 6d 3s 3c]
+Seat 1: salmonabel mucked [Kc Qs]
+Seat 2: Wrathexz folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor (button) folded before Flop (didn't bet)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: cherry145 (big blind) showed [Ac 5h] and won ($0.11) with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #240916524070:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:56:11 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 2: Wrathexz ($1.90 in chips) 
+Seat 3: Lorpugo ($2.45 in chips) 
+Seat 4: ruleagor ($2.86 in chips) 
+Seat 5: caziano ($2.32 in chips) 
+Seat 6: cherry145 ($2.18 in chips) 
+cherry145: posts small blind $0.01
+Wrathexz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 8h]
+Lorpugo: raises $0.02 to $0.04
+ruleagor: folds 
+caziano: folds 
+salmonabel leaves the table
+cherry145: folds 
+Wrathexz: calls $0.02
+*** FLOP *** [Js Qc Ts]
+Wrathexz: checks 
+Lorpugo: bets $0.02
+Wrathexz: calls $0.02
+*** TURN *** [Js Qc Ts] [2h]
+Wrathexz: checks 
+Lorpugo: bets $0.13
+Wrathexz: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Js Qc Ts 2h]
+Seat 2: Wrathexz (big blind) folded on the Turn
+Seat 3: Lorpugo collected ($0.13)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) folded before Flop (didn't bet)
+Seat 6: cherry145 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240916532083:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:56:37 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 2: Wrathexz ($1.84 in chips) 
+Seat 3: Lorpugo ($2.52 in chips) 
+Seat 4: ruleagor ($2.86 in chips) 
+Seat 5: caziano ($2.32 in chips) 
+Seat 6: cherry145 ($2.17 in chips) 
+kpokerlevels9 joins the table at seat #1 
+Wrathexz: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 8s]
+ruleagor: folds 
+caziano: folds 
+cherry145: calls $0.02
+Wrathexz: calls $0.01
+Lorpugo: raises $0.12 to $0.14
+cherry145: folds 
+Wrathexz: calls $0.12
+*** FLOP *** [6d 7h 6h]
+Wrathexz: bets $0.20
+Lorpugo: raises $0.30 to $0.50
+Wrathexz: folds 
+Uncalled bet ($0.30) returned to Lorpugo
+Lorpugo collected $0.68 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [6d 7h 6h]
+Seat 2: Wrathexz (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) collected ($0.68)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 (button) folded before Flop
+
+
+
+PokerStars Hand #240916545814:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:57:22 ET
+Table 'Tabora III' 6-max Seat #2 is the button
+Seat 1: kpokerlevels9 ($2 in chips) 
+Seat 2: Wrathexz ($1.50 in chips) 
+Seat 3: Lorpugo ($2.86 in chips) 
+Seat 4: ruleagor ($2.86 in chips) 
+Seat 5: caziano ($2.32 in chips) 
+Seat 6: cherry145 ($2.15 in chips) 
+Lorpugo: posts small blind $0.01
+ruleagor: posts big blind $0.02
+kpokerlevels9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 9c]
+caziano: folds 
+cherry145: raises $0.04 to $0.06
+kpokerlevels9: calls $0.04
+Wrathexz: calls $0.06
+Lorpugo: folds 
+ruleagor: calls $0.04
+*** FLOP *** [3s 2s 7d]
+ruleagor: checks 
+cherry145: bets $0.12
+kpokerlevels9: calls $0.12
+Wrathexz: calls $0.12
+ruleagor: folds 
+*** TURN *** [3s 2s 7d] [8d]
+cherry145: checks 
+kpokerlevels9: bets $0.30
+Wrathexz: calls $0.30
+cherry145: folds 
+*** RIVER *** [3s 2s 7d 8d] [9h]
+kpokerlevels9: checks 
+Wrathexz: bets $1.02 and is all-in
+kpokerlevels9: folds 
+Uncalled bet ($1.02) returned to Wrathexz
+Wrathexz collected $1.17 from pot
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [3s 2s 7d 8d 9h]
+Seat 1: kpokerlevels9 folded on the River
+Seat 2: Wrathexz (button) collected ($1.17)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: ruleagor (big blind) folded on the Flop
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 folded on the Turn
+
+
+
+PokerStars Hand #240916562270:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:58:16 ET
+Table 'Tabora III' 6-max Seat #3 is the button
+Seat 1: kpokerlevels9 ($1.52 in chips) 
+Seat 2: Wrathexz ($2.19 in chips) 
+Seat 3: Lorpugo ($2.85 in chips) 
+Seat 4: ruleagor ($2.80 in chips) 
+Seat 5: caziano ($2.32 in chips) 
+Seat 6: cherry145 ($1.97 in chips) 
+ruleagor: posts small blind $0.01
+caziano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 3c]
+cherry145: calls $0.02
+kpokerlevels9: calls $0.02
+Wrathexz: calls $0.02
+Lorpugo: raises $0.16 to $0.18
+ruleagor: folds 
+caziano: folds 
+cherry145: folds 
+kpokerlevels9: calls $0.16
+Wrathexz: calls $0.16
+*** FLOP *** [7c Jh 5h]
+kpokerlevels9: checks 
+Wrathexz: checks 
+Lorpugo: bets $0.38
+kpokerlevels9: calls $0.38
+Wrathexz: folds 
+*** TURN *** [7c Jh 5h] [Tc]
+kpokerlevels9 has timed out
+kpokerlevels9: checks 
+Lorpugo: bets $2.29 and is all-in
+kpokerlevels9: calls $0.96 and is all-in
+Uncalled bet ($1.33) returned to Lorpugo
+*** RIVER *** [7c Jh 5h Tc] [Qh]
+*** SHOW DOWN ***
+kpokerlevels9: shows [Jc 2c] (a pair of Jacks)
+Lorpugo: shows [3h 3c] (a pair of Threes)
+kpokerlevels9 collected $3.16 from pot
+*** SUMMARY ***
+Total pot $3.27 | Rake $0.11 
+Board [7c Jh 5h Tc Qh]
+Seat 1: kpokerlevels9 showed [Jc 2c] and won ($3.16) with a pair of Jacks
+Seat 2: Wrathexz folded on the Flop
+Seat 3: Lorpugo (button) showed [3h 3c] and lost with a pair of Threes
+Seat 4: ruleagor (small blind) folded before Flop
+Seat 5: caziano (big blind) folded before Flop
+Seat 6: cherry145 folded before Flop
+
+
+
+PokerStars Hand #240916588586:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 17:59:41 ET
+Table 'Tabora III' 6-max Seat #4 is the button
+Seat 1: kpokerlevels9 ($3.16 in chips) 
+Seat 2: Wrathexz ($2.01 in chips) 
+Seat 3: Lorpugo ($1.33 in chips) 
+Seat 4: ruleagor ($2.79 in chips) 
+Seat 5: caziano ($2.30 in chips) 
+Seat 6: cherry145 ($1.95 in chips) 
+caziano: posts small blind $0.01
+cherry145: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7h]
+kpokerlevels9: folds 
+Wrathexz: folds 
+Wrathexz leaves the table
+Lorpugo: raises $0.22 to $0.24
+ruleagor: calls $0.24
+caziano: folds 
+tianyu16 joins the table at seat #2 
+cherry145: folds 
+*** FLOP *** [Kd 4d Qs]
+Lorpugo: checks 
+ruleagor: checks 
+*** TURN *** [Kd 4d Qs] [Ks]
+Lorpugo: bets $0.18
+ruleagor: calls $0.18
+*** RIVER *** [Kd 4d Qs Ks] [8c]
+Lorpugo: checks 
+ruleagor: bets $0.42
+Lorpugo: folds 
+Uncalled bet ($0.42) returned to ruleagor
+ruleagor collected $0.84 from pot
+ruleagor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Kd 4d Qs Ks 8c]
+Seat 1: kpokerlevels9 folded before Flop (didn't bet)
+Seat 2: Wrathexz folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the River
+Seat 4: ruleagor (button) collected ($0.84)
+Seat 5: caziano (small blind) folded before Flop
+Seat 6: cherry145 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240916602958:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:00:27 ET
+Table 'Tabora III' 6-max Seat #5 is the button
+Seat 1: kpokerlevels9 ($3.16 in chips) 
+Seat 2: tianyu16 ($2 in chips) 
+Seat 3: Lorpugo ($0.91 in chips) 
+Seat 4: ruleagor ($3.21 in chips) 
+Seat 5: caziano ($2.29 in chips) 
+Seat 6: cherry145 ($1.93 in chips) 
+cherry145: posts small blind $0.01
+kpokerlevels9: posts big blind $0.02
+tianyu16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Jd]
+tianyu16: checks 
+Lorpugo: folds 
+ruleagor: folds 
+caziano: raises $0.08 to $0.10
+cherry145: calls $0.09
+kpokerlevels9: calls $0.08
+tianyu16: calls $0.08
+*** FLOP *** [Ts Tc Qd]
+cherry145: bets $0.10
+kpokerlevels9: folds 
+tianyu16: folds 
+caziano: folds 
+Uncalled bet ($0.10) returned to cherry145
+cherry145 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Ts Tc Qd]
+Seat 1: kpokerlevels9 (big blind) folded on the Flop
+Seat 2: tianyu16 folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano (button) folded on the Flop
+Seat 6: cherry145 (small blind) collected ($0.39)
+
+
+
+PokerStars Hand #240916615843:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 18:01:04 ET
+Table 'Tabora III' 6-max Seat #6 is the button
+Seat 1: kpokerlevels9 ($3.06 in chips) 
+Seat 2: tianyu16 ($1.90 in chips) 
+Seat 3: Lorpugo ($0.91 in chips) 
+Seat 4: ruleagor ($3.21 in chips) 
+Seat 5: caziano ($2.19 in chips) 
+Seat 6: cherry145 ($2.22 in chips) 
+kpokerlevels9: posts small blind $0.01
+tianyu16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 4h]
+Lorpugo: calls $0.02
+ruleagor: folds 
+caziano: folds 
+cherry145: raises $0.07 to $0.09
+kpokerlevels9: folds 
+tianyu16: folds 
+Lorpugo: raises $0.82 to $0.91 and is all-in
+cherry145: folds 
+Uncalled bet ($0.82) returned to Lorpugo
+Lorpugo collected $0.21 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: kpokerlevels9 (small blind) folded before Flop
+Seat 2: tianyu16 (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.21)
+Seat 4: ruleagor folded before Flop (didn't bet)
+Seat 5: caziano folded before Flop (didn't bet)
+Seat 6: cherry145 (button) folded before Flop
+
+
+

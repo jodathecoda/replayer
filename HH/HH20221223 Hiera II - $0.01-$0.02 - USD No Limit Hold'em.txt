@@ -1,0 +1,3959 @@
+﻿PokerStars Hand #240643531855:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:55:54 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.73 in chips) 
+Seat 3: toallin669 ($4.90 in chips) 
+Seat 4: Device L ($2.01 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Device L: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4c]
+aikabiiv: folds 
+toallin669: folds 
+chloedeb joins the table at seat #2 
+Device L: raises $0.03 to $0.05
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to Device L
+Device L collected $0.04 from pot
+Device L: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 3: toallin669 (button) folded before Flop (didn't bet)
+Seat 4: Device L (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240643538357:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:56:18 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.73 in chips) 
+Seat 2: chloedeb ($2 in chips) 
+Seat 3: toallin669 ($4.90 in chips) 
+Seat 4: Device L ($2.03 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+chloedeb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Th]
+chloedeb: checks 
+toallin669: folds 
+Device L: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+aikabiiv: folds 
+chloedeb: calls $0.03
+*** FLOP *** [3d 2d 2s]
+Lorpugo: checks 
+chloedeb: checks 
+Device L: checks 
+*** TURN *** [3d 2d 2s] [5h]
+Lorpugo: bets $0.20
+chloedeb: calls $0.20
+Device L: folds 
+*** RIVER *** [3d 2d 2s 5h] [6c]
+Lorpugo: bets $0.64
+chloedeb: folds [5c]
+Uncalled bet ($0.64) returned to Lorpugo
+Lorpugo collected $0.55 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [3d 2d 2s 5h 6c]
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 2: chloedeb folded on the River
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L (button) folded on the Turn
+Seat 6: Lorpugo (small blind) collected ($0.55)
+
+
+
+PokerStars Hand #240643557309:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:57:30 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.71 in chips) 
+Seat 2: chloedeb ($1.75 in chips) 
+Seat 3: toallin669 ($4.90 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+aikabiiv: posts small blind $0.01
+chloedeb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7d]
+toallin669: folds 
+Device L: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+Uncalled bet ($0.01) returned to chloedeb
+chloedeb collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: aikabiiv (small blind) folded before Flop
+Seat 2: chloedeb (big blind) collected ($0.02)
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643563652:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:57:54 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.70 in chips) 
+Seat 2: chloedeb ($1.76 in chips) 
+Seat 3: toallin669 ($4.90 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+chloedeb: posts small blind $0.01
+toallin669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 2d]
+Device L: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: calls $0.01
+toallin669: checks 
+*** FLOP *** [9s 7s Ts]
+chloedeb: bets $0.02
+toallin669: calls $0.02
+*** TURN *** [9s 7s Ts] [9c]
+chloedeb: checks 
+toallin669: checks 
+*** RIVER *** [9s 7s Ts 9c] [5h]
+chloedeb: bets $0.02
+toallin669: calls $0.02
+*** SHOW DOWN ***
+chloedeb: shows [5c 8d] (two pair, Nines and Fives)
+toallin669: shows [3d Th] (two pair, Tens and Nines)
+toallin669 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9s 7s Ts 9c 5h]
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 2: chloedeb (small blind) showed [5c 8d] and lost with two pair, Nines and Fives
+Seat 3: toallin669 (big blind) showed [3d Th] and won ($0.12) with two pair, Tens and Nines
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643570375:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:58:19 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.70 in chips) 
+Seat 2: chloedeb ($1.70 in chips) 
+Seat 3: toallin669 ($4.96 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+toallin669: posts small blind $0.01
+Device L: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5c]
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: raises $0.05 to $0.07
+toallin669: folds 
+Device L: folds 
+Uncalled bet ($0.05) returned to chloedeb
+chloedeb collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: chloedeb (button) collected ($0.05)
+Seat 3: toallin669 (small blind) folded before Flop
+Seat 4: Device L (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643577741:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:58:47 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.70 in chips) 
+Seat 2: chloedeb ($1.73 in chips) 
+Seat 3: toallin669 ($4.95 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 5: Andorrior ($1.65 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Device L: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Jd]
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: calls $0.02
+toallin669: folds 
+Device L: folds 
+Andorrior: checks 
+*** FLOP *** [Qs Ts Tc]
+Andorrior: checks 
+chloedeb: checks 
+*** TURN *** [Qs Ts Tc] [9c]
+Andorrior: checks 
+chloedeb: checks 
+*** RIVER *** [Qs Ts Tc 9c] [Qd]
+Andorrior: bets $0.02
+chloedeb: calls $0.02
+*** SHOW DOWN ***
+Andorrior: shows [Ac Kd] (two pair, Queens and Tens)
+chloedeb: shows [7c As] (two pair, Queens and Tens)
+Andorrior collected $0.05 from pot
+chloedeb collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs Ts Tc 9c Qd]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: chloedeb showed [7c As] and won ($0.04) with two pair, Queens and Tens
+Seat 3: toallin669 (button) folded before Flop (didn't bet)
+Seat 4: Device L (small blind) folded before Flop
+Seat 5: Andorrior (big blind) showed [Ac Kd] and won ($0.05) with two pair, Queens and Tens
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643589148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 12:59:30 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.70 in chips) 
+Seat 2: chloedeb ($1.73 in chips) 
+Seat 3: toallin669 ($4.95 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 5: Andorrior ($1.66 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 7c]
+aikabiiv: folds 
+chloedeb: calls $0.02
+toallin669: calls $0.02
+Device L: raises $0.08 to $0.10
+Andorrior: folds 
+Lorpugo: folds 
+chloedeb: calls $0.08
+toallin669: calls $0.08
+*** FLOP *** [2h 8s Jc]
+chloedeb: bets $0.16
+toallin669: folds 
+Device L: folds 
+Uncalled bet ($0.16) returned to chloedeb
+chloedeb collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2h 8s Jc]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: chloedeb collected ($0.32)
+Seat 3: toallin669 folded on the Flop
+Seat 4: Device L (button) folded on the Flop
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240643599572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:00:09 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.70 in chips) 
+Seat 2: chloedeb ($1.95 in chips) 
+Seat 3: toallin669 ($4.85 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 5: Andorrior ($1.65 in chips) 
+Seat 6: Lorpugo ($1.86 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 4c]
+chloedeb: folds 
+toallin669: folds 
+Device L: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 2: chloedeb folded before Flop (didn't bet)
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240643604545:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:00:28 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.68 in chips) 
+Seat 2: chloedeb ($1.95 in chips) 
+Seat 3: toallin669 ($4.85 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 5: Andorrior ($1.65 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+aikabiiv: posts small blind $0.01
+chloedeb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 2c]
+toallin669: folds 
+Device L: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+chloedeb: calls $0.04
+*** FLOP *** [9h Jc Kc]
+aikabiiv: checks 
+chloedeb: checks 
+*** TURN *** [9h Jc Kc] [3c]
+aikabiiv: checks 
+chloedeb: checks 
+*** RIVER *** [9h Jc Kc 3c] [9s]
+aikabiiv: checks 
+chloedeb: bets $0.06
+aikabiiv: folds 
+Uncalled bet ($0.06) returned to chloedeb
+chloedeb collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h Jc Kc 3c 9s]
+Seat 1: aikabiiv (small blind) folded on the River
+Seat 2: chloedeb (big blind) collected ($0.12)
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643613379:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:01:00 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.62 in chips) 
+Seat 2: chloedeb ($2.01 in chips) 
+Seat 3: toallin669 ($4.85 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 5: Andorrior ($1.65 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+chloedeb: posts small blind $0.01
+toallin669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5c]
+Device L: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: calls $0.01
+toallin669: checks 
+*** FLOP *** [3h Qh Jd]
+chloedeb: checks 
+toallin669: checks 
+*** TURN *** [3h Qh Jd] [Ts]
+chloedeb: checks 
+toallin669: bets $0.03
+chloedeb: folds 
+Uncalled bet ($0.03) returned to toallin669
+toallin669 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h Qh Jd Ts]
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 2: chloedeb (small blind) folded on the Turn
+Seat 3: toallin669 (big blind) collected ($0.04)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643619892:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:01:20 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.62 in chips) 
+Seat 2: chloedeb ($1.99 in chips) 
+Seat 3: toallin669 ($4.87 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 5: Andorrior ($1.65 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+toallin669: posts small blind $0.01
+Device L: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5d]
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: folds 
+toallin669: raises $0.03 to $0.05
+Device L: folds 
+Uncalled bet ($0.03) returned to toallin669
+toallin669 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: chloedeb (button) folded before Flop (didn't bet)
+Seat 3: toallin669 (small blind) collected ($0.04)
+Seat 4: Device L (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643626498:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:01:42 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.62 in chips) 
+Seat 2: chloedeb ($1.99 in chips) 
+Seat 3: toallin669 ($4.89 in chips) 
+Seat 4: Device L ($2 in chips) 
+Seat 5: Andorrior ($1.65 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Device L: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Th]
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: calls $0.02
+toallin669: calls $0.02
+Device L: raises $0.08 to $0.10
+Andorrior: folds 
+chloedeb: calls $0.08
+toallin669: folds 
+*** FLOP *** [8h Qd As]
+Device L: checks 
+chloedeb: checks 
+*** TURN *** [8h Qd As] [Jd]
+Device L: bets $0.12
+chloedeb: folds 
+Uncalled bet ($0.12) returned to Device L
+Device L collected $0.23 from pot
+Device L: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8h Qd As Jd]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: chloedeb folded on the Turn
+Seat 3: toallin669 (button) folded before Flop
+Seat 4: Device L (small blind) collected ($0.23)
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643641128:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:02:26 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.62 in chips) 
+Seat 2: chloedeb ($1.89 in chips) 
+Seat 3: toallin669 ($4.87 in chips) 
+Seat 4: Device L ($2.13 in chips) 
+Seat 5: Andorrior ($1.63 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5s]
+aikabiiv: raises $0.06 to $0.08
+chloedeb: folds 
+toallin669: raises $0.32 to $0.40
+Device L: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+Uncalled bet ($0.32) returned to toallin669
+toallin669 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: aikabiiv folded before Flop
+Seat 2: chloedeb folded before Flop (didn't bet)
+Seat 3: toallin669 collected ($0.19)
+Seat 4: Device L (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240643649842:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:02:54 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.54 in chips) 
+Seat 2: chloedeb ($1.89 in chips) 
+Seat 3: toallin669 ($4.98 in chips) 
+Seat 4: Device L ($2.13 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.86 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Jd]
+chloedeb: calls $0.02
+toallin669: folds 
+Device L: raises $0.03 to $0.05
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: calls $0.03
+*** FLOP *** [9s 2h 3s]
+chloedeb: checks 
+Device L: bets $0.04
+chloedeb: calls $0.04
+*** TURN *** [9s 2h 3s] [4h]
+chloedeb: checks 
+Device L: bets $0.10
+chloedeb: folds 
+Uncalled bet ($0.10) returned to Device L
+Device L collected $0.20 from pot
+Device L: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9s 2h 3s 4h]
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 2: chloedeb folded on the Turn
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L collected ($0.20)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240643662006:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:03:29 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.52 in chips) 
+Seat 2: chloedeb ($1.80 in chips) 
+Seat 3: toallin669 ($4.98 in chips) 
+Seat 4: Device L ($2.24 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+aikabiiv: posts small blind $0.01
+chloedeb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ks]
+toallin669: folds 
+Device L: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+chloedeb: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv (small blind) folded before Flop
+Seat 2: chloedeb (big blind) folded before Flop
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240643667031:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:03:44 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.51 in chips) 
+Seat 2: chloedeb ($1.78 in chips) 
+Seat 3: toallin669 ($4.98 in chips) 
+Seat 4: Device L ($2.24 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+chloedeb: posts small blind $0.01
+toallin669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qc]
+Device L: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: calls $0.01
+toallin669: checks 
+*** FLOP *** [5d Jc 5c]
+chloedeb: checks 
+toallin669: checks 
+*** TURN *** [5d Jc 5c] [6h]
+chloedeb: checks 
+toallin669: bets $0.03
+chloedeb: calls $0.03
+*** RIVER *** [5d Jc 5c 6h] [Js]
+chloedeb: checks 
+toallin669: bets $0.08
+chloedeb: folds 
+Uncalled bet ($0.08) returned to toallin669
+toallin669 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5d Jc 5c 6h Js]
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 2: chloedeb (small blind) folded on the River
+Seat 3: toallin669 (big blind) collected ($0.10)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643680466:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:04:24 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.51 in chips) 
+Seat 2: chloedeb ($1.73 in chips) 
+Seat 3: toallin669 ($5.03 in chips) 
+Seat 4: Device L ($2.24 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+toallin669: posts small blind $0.01
+Device L: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Jh]
+Andorrior has timed out
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+chloedeb: folds 
+chloedeb leaves the table
+toallin669: calls $0.01
+Device L: checks 
+*** FLOP *** [3c 7d Qs]
+toallin669: checks 
+Device L: checks 
+*** TURN *** [3c 7d Qs] [5s]
+toallin669: bets $0.03
+Device L: calls $0.03
+*** RIVER *** [3c 7d Qs 5s] [Ad]
+toallin669: bets $0.08
+Device L: calls $0.08
+*** SHOW DOWN ***
+toallin669: shows [Qc 5h] (two pair, Queens and Fives)
+Device L: mucks hand 
+toallin669 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [3c 7d Qs 5s Ad]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: chloedeb (button) folded before Flop (didn't bet)
+Seat 3: toallin669 (small blind) showed [Qc 5h] and won ($0.25) with two pair, Queens and Fives
+Seat 4: Device L (big blind) mucked [2c Qd]
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643692649:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:05:00 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.51 in chips) 
+Seat 3: toallin669 ($5.15 in chips) 
+Seat 4: Device L ($2.11 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Device L: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 2d]
+Lorpugo: folds 
+aikabiiv: folds 
+toallin669: folds 
+Device L: folds 
+Uncalled bet ($0.01) returned to Andorrior
+Andorrior collected $0.02 from pot
+Andorrior: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 3: toallin669 (button) folded before Flop (didn't bet)
+Seat 4: Device L (small blind) folded before Flop
+Seat 5: Andorrior (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643696109:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:05:10 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.51 in chips) 
+Seat 3: toallin669 ($5.15 in chips) 
+Seat 4: Device L ($2.10 in chips) 
+Seat 5: Andorrior ($1.63 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Kd]
+aikabiiv: folds 
+toallin669: folds 
+Device L: folds 
+Andorrior: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240643699249:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:05:19 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.51 in chips) 
+Seat 3: toallin669 ($5.15 in chips) 
+Seat 4: Device L ($2.10 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.89 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Td]
+toallin669: raises $0.02 to $0.04
+Device L: folds 
+Andorrior: folds 
+Lorpugo: calls $0.03
+fswest669 joins the table at seat #2 
+aikabiiv: calls $0.02
+*** FLOP *** [9d 4c 3s]
+Lorpugo: checks 
+aikabiiv: checks 
+toallin669: bets $0.02
+Lorpugo: raises $0.08 to $0.10
+aikabiiv: folds 
+toallin669: calls $0.08
+*** TURN *** [9d 4c 3s] [Ad]
+Lorpugo: bets $0.16
+toallin669: calls $0.16
+*** RIVER *** [9d 4c 3s Ad] [Qh]
+Lorpugo: checks 
+toallin669: bets $4.85 and is all-in
+Lorpugo: folds 
+Uncalled bet ($4.85) returned to toallin669
+toallin669 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [9d 4c 3s Ad Qh]
+Seat 1: aikabiiv (big blind) folded on the Flop
+Seat 3: toallin669 collected ($0.62)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240643718333:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:06:16 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.47 in chips) 
+Seat 2: fswest669 ($0.96 in chips) 
+Seat 3: toallin669 ($5.47 in chips) 
+Seat 4: Device L ($2.10 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+aikabiiv: posts small blind $0.01
+fswest669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 3s]
+toallin669: folds 
+Device L: raises $0.03 to $0.05
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: calls $0.04
+fswest669: calls $0.03
+*** FLOP *** [As Qd Qh]
+aikabiiv: checks 
+fswest669: checks 
+Device L: checks 
+*** TURN *** [As Qd Qh] [Qs]
+aikabiiv: checks 
+fswest669: bets $0.07
+Device L: calls $0.07
+aikabiiv: calls $0.07
+*** RIVER *** [As Qd Qh Qs] [8d]
+aikabiiv: checks 
+fswest669: checks 
+Device L: checks 
+*** SHOW DOWN ***
+aikabiiv: shows [4d 4c] (a full house, Queens full of Fours)
+fswest669: mucks hand 
+Device L: shows [5d 5s] (a full house, Queens full of Fives)
+Device L collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [As Qd Qh Qs 8d]
+Seat 1: aikabiiv (small blind) showed [4d 4c] and lost with a full house, Queens full of Fours
+Seat 2: fswest669 (big blind) mucked [Kc Jd]
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L showed [5d 5s] and won ($0.35) with a full house, Queens full of Fives
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643733584:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:07:00 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.35 in chips) 
+Seat 2: fswest669 ($0.84 in chips) 
+Seat 3: toallin669 ($5.47 in chips) 
+Seat 4: Device L ($2.33 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+fswest669: posts small blind $0.01
+toallin669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 7s]
+Device L: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+fswest669: folds 
+toallin669: folds 
+Uncalled bet ($0.04) returned to aikabiiv
+aikabiiv collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv (button) collected ($0.05)
+Seat 2: fswest669 (small blind) folded before Flop
+Seat 3: toallin669 (big blind) folded before Flop
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643740827:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:07:21 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.38 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 3: toallin669 ($5.45 in chips) 
+Seat 4: Device L ($2.33 in chips) 
+Seat 5: Andorrior ($1.62 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+toallin669: posts small blind $0.01
+Device L: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6d]
+Andorrior: calls $0.02
+Lorpugo: folds 
+aikabiiv: folds 
+fswest669: folds 
+toallin669: calls $0.01
+Device L: checks 
+*** FLOP *** [Jd 6s 2d]
+toallin669: checks 
+Device L: checks 
+Andorrior: checks 
+*** TURN *** [Jd 6s 2d] [8h]
+toallin669: checks 
+Device L: checks 
+Andorrior: checks 
+*** RIVER *** [Jd 6s 2d 8h] [3s]
+toallin669: checks 
+Device L: checks 
+Andorrior: checks 
+*** SHOW DOWN ***
+toallin669: shows [6c 7s] (a pair of Sixes)
+Device L: mucks hand 
+Andorrior: mucks hand 
+toallin669 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jd 6s 2d 8h 3s]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 (button) folded before Flop (didn't bet)
+Seat 3: toallin669 (small blind) showed [6c 7s] and won ($0.06) with a pair of Sixes
+Seat 4: Device L (big blind) mucked [Ah 3d]
+Seat 5: Andorrior mucked [4h 4d]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643760368:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:08:19 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.38 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 3: toallin669 ($5.49 in chips) 
+Seat 4: Device L ($2.31 in chips) 
+Seat 5: Andorrior ($1.60 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Device L: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 4h]
+Lorpugo: folds 
+aikabiiv: folds 
+fswest669: folds 
+toallin669: raises $0.02 to $0.04
+Device L: calls $0.03
+Andorrior: folds 
+*** FLOP *** [3h 3c 9c]
+Device L: checks 
+toallin669: checks 
+*** TURN *** [3h 3c 9c] [Jh]
+Device L: checks 
+toallin669: checks 
+*** RIVER *** [3h 3c 9c Jh] [7s]
+Device L: checks 
+toallin669: checks 
+*** SHOW DOWN ***
+Device L: shows [8d Ah] (a pair of Threes)
+toallin669: mucks hand 
+Device L collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3h 3c 9c Jh 7s]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: toallin669 (button) mucked [Th Qd]
+Seat 4: Device L (small blind) showed [8d Ah] and won ($0.10) with a pair of Threes
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643772263:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:08:53 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.38 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 3: toallin669 ($5.45 in chips) 
+Seat 4: Device L ($2.37 in chips) 
+Seat 5: Andorrior ($1.58 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Qh]
+aikabiiv: folds 
+fswest669 has timed out
+fswest669: folds 
+toallin669: calls $0.02
+Device L: folds 
+Andorrior: folds 
+Lorpugo: checks 
+*** FLOP *** [Qs 4h 2s]
+Lorpugo: checks 
+toallin669: bets $0.02
+Lorpugo: raises $0.06 to $0.08
+toallin669: calls $0.06
+*** TURN *** [Qs 4h 2s] [6c]
+Lorpugo: bets $0.13
+toallin669: calls $0.13
+*** RIVER *** [Qs 4h 2s 6c] [5s]
+Lorpugo: checks 
+toallin669: bets $5.22 and is all-in
+Lorpugo: folds 
+Uncalled bet ($5.22) returned to toallin669
+toallin669 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Qs 4h 2s 6c 5s]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: toallin669 collected ($0.45)
+Seat 4: Device L (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #240643812938:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:10:51 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.38 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 3: toallin669 ($5.67 in chips) 
+Seat 4: Device L ($2.37 in chips) 
+Seat 5: Andorrior ($1.57 in chips) 
+Seat 6: Lorpugo ($1.36 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Td]
+fswest669: folds 
+toallin669: folds 
+Device L: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240643816666:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:11:02 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.36 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 3: toallin669 ($5.67 in chips) 
+Seat 4: Device L ($2.37 in chips) 
+Seat 5: Andorrior ($1.57 in chips) 
+Seat 6: Lorpugo ($1.38 in chips) 
+aikabiiv: posts small blind $0.01
+fswest669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 4s]
+toallin669: folds 
+Device L: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+toallin669 leaves the table
+fswest669: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv (small blind) folded before Flop
+Seat 2: fswest669 (big blind) folded before Flop
+Seat 3: toallin669 folded before Flop (didn't bet)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240643825841:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:11:29 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.35 in chips) 
+Seat 2: fswest669 ($0.81 in chips) 
+Seat 4: Device L ($2.37 in chips) 
+Seat 5: Andorrior ($1.57 in chips) 
+Seat 6: Lorpugo ($1.41 in chips) 
+fswest669: posts small blind $0.01
+Device L: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 8s]
+Andorrior: folds 
+Lorpugo: raises $0.05 to $0.07
+aikabiiv: folds 
+fswest669: folds 
+Jan Carl92 joins the table at seat #3 
+Device L: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 2: fswest669 (small blind) folded before Flop
+Seat 4: Device L (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240643832029:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:11:46 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.35 in chips) 
+Seat 2: fswest669 ($0.80 in chips) 
+Seat 4: Device L ($2.35 in chips) 
+Seat 5: Andorrior ($1.57 in chips) 
+Seat 6: Lorpugo ($1.44 in chips) 
+Device L: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6c]
+Lorpugo: folds 
+aikabiiv: folds 
+fswest669: raises $0.03 to $0.05
+Device L: folds 
+Andorrior: folds 
+Uncalled bet ($0.03) returned to fswest669
+fswest669 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 (button) collected ($0.05)
+Seat 4: Device L (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643839656:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:12:09 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.35 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 4: Device L ($2.34 in chips) 
+Seat 5: Andorrior ($1.55 in chips) 
+Seat 6: Lorpugo ($1.44 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Js]
+aikabiiv: folds 
+fswest669: folds 
+Device L: folds 
+Andorrior: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 4: Device L (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240643843466:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:12:19 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.35 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 4: Device L ($2.34 in chips) 
+Seat 5: Andorrior ($1.54 in chips) 
+Seat 6: Lorpugo ($1.45 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ts]
+fswest669: folds 
+Device L: folds 
+Andorrior: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+aikabiiv: folds 
+Andorrior: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop
+Seat 6: Lorpugo (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #240643851867:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:12:44 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.33 in chips) 
+Seat 2: fswest669 ($0.83 in chips) 
+Seat 4: Device L ($2.34 in chips) 
+Seat 5: Andorrior ($1.52 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+aikabiiv: posts small blind $0.01
+fswest669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 3c]
+Device L: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+fswest669: raises $0.13 to $0.19
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to fswest669
+fswest669 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: aikabiiv (small blind) folded before Flop
+Seat 2: fswest669 (big blind) collected ($0.13)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #240643863777:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:13:18 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.32 in chips) 
+Seat 2: fswest669 ($0.90 in chips) 
+Seat 3: Jan Carl92 ($2 in chips) 
+Seat 4: Device L ($2.34 in chips) 
+Seat 5: Andorrior ($1.52 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+fswest669: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3s]
+Device L: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+fswest669: folds 
+Uncalled bet ($0.01) returned to Jan Carl92
+Jan Carl92 collected $0.02 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 2: fswest669 (small blind) folded before Flop
+Seat 3: Jan Carl92 (big blind) collected ($0.02)
+Seat 4: Device L folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643868041:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:13:31 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.32 in chips) 
+Seat 2: fswest669 ($0.89 in chips) 
+Seat 3: Jan Carl92 ($2.01 in chips) 
+Seat 5: Andorrior ($1.52 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+Jan Carl92: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8h]
+Device L leaves the table
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+fswest669: calls $0.06
+Jan Carl92: folds 
+Andorrior: folds 
+*** FLOP *** [2c 5h 4h]
+aikabiiv: checks 
+fswest669: bets $0.07
+aikabiiv: folds 
+Uncalled bet ($0.07) returned to fswest669
+fswest669 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 5h 4h]
+Seat 1: aikabiiv folded on the Flop
+Seat 2: fswest669 (button) collected ($0.14)
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643874756:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:13:50 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.26 in chips) 
+Seat 2: fswest669 ($0.97 in chips) 
+Seat 3: Jan Carl92 ($2 in chips) 
+Seat 5: Andorrior ($1.50 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 5s]
+aikabiiv: folds 
+fswest669: folds 
+iliya_nenkov joins the table at seat #4 
+Jan Carl92: raises $0.03 to $0.05
+Andorrior: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Ac 7d 2s]
+Lorpugo: checks 
+Jan Carl92: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [Ac 7d 2s] [3s]
+Lorpugo: checks 
+Jan Carl92: checks 
+*** RIVER *** [Ac 7d 2s 3s] [8h]
+Lorpugo: checks 
+Jan Carl92: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7s 5s] (a pair of Sevens)
+Jan Carl92: mucks hand 
+Lorpugo collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ac 7d 2s 3s 8h]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) mucked [Kh 4h]
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [7s 5s] and won ($0.18) with a pair of Sevens
+
+
+
+PokerStars Hand #240643885893:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:14:22 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.26 in chips) 
+Seat 2: fswest669 ($0.97 in chips) 
+Seat 3: Jan Carl92 ($1.91 in chips) 
+Seat 5: Andorrior ($1.49 in chips) 
+Seat 6: Lorpugo ($1.52 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Th]
+fswest669: folds 
+Jan Carl92: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240643889778:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:14:33 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.24 in chips) 
+Seat 2: fswest669 ($0.97 in chips) 
+Seat 3: Jan Carl92 ($1.91 in chips) 
+Seat 5: Andorrior ($1.49 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+aikabiiv: posts small blind $0.01
+fswest669: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9h]
+Jan Carl92: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+fswest669: folds 
+Uncalled bet ($0.04) returned to aikabiiv
+aikabiiv collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: aikabiiv (small blind) collected ($0.04)
+Seat 2: fswest669 (big blind) folded before Flop
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643896512:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:14:52 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.26 in chips) 
+Seat 2: fswest669 ($0.95 in chips) 
+Seat 3: Jan Carl92 ($1.91 in chips) 
+Seat 5: Andorrior ($1.49 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+fswest669: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jh]
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+fswest669: folds 
+Uncalled bet ($0.01) returned to Jan Carl92
+Jan Carl92 collected $0.02 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 2: fswest669 (small blind) folded before Flop
+Seat 3: Jan Carl92 (big blind) collected ($0.02)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643899356:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:15:01 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.26 in chips) 
+Seat 2: fswest669 ($0.94 in chips) 
+Seat 3: Jan Carl92 ($1.92 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.49 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 8d]
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+fswest669: folds 
+Jan Carl92: calls $0.05
+iliya_nenkov: folds 
+*** FLOP *** [Jd Ad 4h]
+Jan Carl92: checks 
+Lorpugo: checks 
+*** TURN *** [Jd Ad 4h] [5h]
+Jan Carl92: bets $0.05
+Lorpugo: raises $0.16 to $0.21
+Jan Carl92: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jd Ad 4h 5h]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 (button) folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (small blind) folded on the Turn
+Seat 4: iliya_nenkov (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.23)
+
+
+
+PokerStars Hand #240643911504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:15:36 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.26 in chips) 
+Seat 2: fswest669 ($0.94 in chips) 
+Seat 3: Jan Carl92 ($1.81 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.49 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+iliya_nenkov: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Kc]
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+fswest669: folds 
+Jan Carl92: folds 
+iliya_nenkov: calls $0.05
+Andorrior: folds 
+*** FLOP *** [Js 7c 4h]
+iliya_nenkov: checks 
+aikabiiv: bets $0.07
+iliya_nenkov: calls $0.07
+*** TURN *** [Js 7c 4h] [9d]
+iliya_nenkov: checks 
+aikabiiv: bets $0.18
+iliya_nenkov: folds 
+Uncalled bet ($0.18) returned to aikabiiv
+aikabiiv collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Js 7c 4h 9d]
+Seat 1: aikabiiv collected ($0.27)
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (small blind) folded on the Turn
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643923956:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:16:12 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.40 in chips) 
+Seat 2: fswest669 ($0.94 in chips) 
+Seat 3: Jan Carl92 ($1.81 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.47 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8c]
+aikabiiv: folds 
+fswest669: folds 
+Jan Carl92: raises $0.02 to $0.04
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [3d Th 5c]
+Lorpugo: checks 
+Jan Carl92: bets $0.03
+Lorpugo: raises $0.03 to $0.06
+Jan Carl92: calls $0.03
+*** TURN *** [3d Th 5c] [2d]
+Lorpugo: bets $0.07
+Jan Carl92: calls $0.07
+*** RIVER *** [3d Th 5c 2d] [Kc]
+Lorpugo: bets $0.11
+Jan Carl92: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.34 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [3d Th 5c 2d Kc]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded on the River
+Seat 4: iliya_nenkov (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.34)
+
+
+
+PokerStars Hand #240643937774:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:16:52 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.40 in chips) 
+Seat 2: fswest669 ($0.94 in chips) 
+Seat 3: Jan Carl92 ($1.64 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.46 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Js]
+fswest669 has timed out
+fswest669: folds 
+Jan Carl92: folds 
+iliya_nenkov: raises $0.03 to $0.05
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+Uncalled bet ($0.03) returned to iliya_nenkov
+iliya_nenkov collected $0.05 from pot
+iliya_nenkov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov collected ($0.05)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240643945067:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:17:13 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.38 in chips) 
+Seat 3: Jan Carl92 ($1.64 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.46 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+aikabiiv: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 8d]
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+Jan Carl92: raises $0.12 to $0.18
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to Jan Carl92
+Jan Carl92 collected $0.13 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: aikabiiv (small blind) folded before Flop
+Seat 3: Jan Carl92 (big blind) collected ($0.13)
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop
+
+
+
+PokerStars Hand #240643953558:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:17:37 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.37 in chips) 
+Seat 3: Jan Carl92 ($1.71 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.46 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6d]
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+Jan Carl92: folds 
+iliya_nenkov: calls $0.04
+*** FLOP *** [Qs 9h 4d]
+iliya_nenkov: checks 
+Lorpugo: checks 
+*** TURN *** [Qs 9h 4d] [3c]
+iliya_nenkov: checks 
+Lorpugo: bets $0.16
+iliya_nenkov: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qs 9h 4d 3c]
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 4: iliya_nenkov (big blind) folded on the Turn
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.13)
+
+
+
+PokerStars Hand #240643965148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:18:11 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.37 in chips) 
+Seat 2: fswest669 ($0.94 in chips) 
+Seat 3: Jan Carl92 ($1.70 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.46 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+iliya_nenkov: posts small blind $0.01
+Andorrior: posts big blind $0.02
+fswest669: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8d]
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+fswest669: calls $0.04
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+*** FLOP *** [Qc Jh 7h]
+aikabiiv: checks 
+fswest669: bets $0.02
+aikabiiv: calls $0.02
+*** TURN *** [Qc Jh 7h] [9d]
+aikabiiv: checks 
+fswest669: checks 
+*** RIVER *** [Qc Jh 7h 9d] [Kd]
+aikabiiv: bets $0.10
+fswest669: calls $0.10
+*** SHOW DOWN ***
+aikabiiv: shows [5c 5s] (a pair of Fives)
+fswest669: shows [7d As] (a pair of Sevens)
+fswest669 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Qc Jh 7h 9d Kd]
+Seat 1: aikabiiv showed [5c 5s] and lost with a pair of Fives
+Seat 2: fswest669 showed [7d As] and won ($0.39) with a pair of Sevens
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643976695:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:18:45 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($6.19 in chips) 
+Seat 2: fswest669 ($1.14 in chips) 
+Seat 3: Jan Carl92 ($1.70 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.44 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Qs]
+aikabiiv: folds 
+fswest669: folds 
+fswest669 leaves the table
+Jan Carl92: raises $0.02 to $0.04
+iliya_nenkov: raises $0.08 to $0.12
+Andorrior: folds 
+DaveGooner joins the table at seat #2 
+Lorpugo: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.08) returned to iliya_nenkov
+iliya_nenkov collected $0.11 from pot
+iliya_nenkov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: fswest669 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop
+Seat 4: iliya_nenkov (button) collected ($0.11)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240643984676:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:19:08 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($6.19 in chips) 
+Seat 3: Jan Carl92 ($1.66 in chips) 
+Seat 4: iliya_nenkov ($2.07 in chips) 
+Seat 5: Andorrior ($1.43 in chips) 
+Seat 6: Lorpugo ($1.81 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qd]
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: aikabiiv (big blind) folded before Flop
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240643992189:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:19:30 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($6.17 in chips) 
+Seat 2: DaveGooner ($2 in chips) 
+Seat 3: Jan Carl92 ($1.66 in chips) 
+Seat 4: iliya_nenkov ($2.07 in chips) 
+Seat 5: Andorrior ($1.43 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+aikabiiv: posts small blind $0.01
+DaveGooner: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5h]
+Jan Carl92: raises $0.04 to $0.06
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+DaveGooner: folds 
+Uncalled bet ($0.04) returned to Jan Carl92
+Jan Carl92 collected $0.05 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv (small blind) folded before Flop
+Seat 2: DaveGooner (big blind) folded before Flop
+Seat 3: Jan Carl92 collected ($0.05)
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240643997004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:19:44 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($6.16 in chips) 
+Seat 2: DaveGooner ($1.98 in chips) 
+Seat 3: Jan Carl92 ($1.69 in chips) 
+Seat 4: iliya_nenkov ($2.07 in chips) 
+Seat 5: Andorrior ($1.43 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+DaveGooner: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ts]
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+DaveGooner: calls $0.05
+Jan Carl92: folds 
+*** FLOP *** [9s 5h Ah]
+DaveGooner: checks 
+aikabiiv: checks 
+*** TURN *** [9s 5h Ah] [Th]
+DaveGooner: checks 
+aikabiiv: bets $0.08
+DaveGooner: calls $0.08
+*** RIVER *** [9s 5h Ah Th] [2s]
+DaveGooner: checks 
+aikabiiv: bets $0.15
+DaveGooner: folds [Ks]
+Uncalled bet ($0.15) returned to aikabiiv
+aikabiiv collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9s 5h Ah Th 2s]
+Seat 1: aikabiiv (button) collected ($0.29)
+Seat 2: DaveGooner (small blind) folded on the River
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644016495:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:20:40 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($6.31 in chips) 
+Seat 2: DaveGooner ($1.84 in chips) 
+Seat 3: Jan Carl92 ($1.67 in chips) 
+Seat 4: iliya_nenkov ($2.07 in chips) 
+Seat 5: Andorrior ($1.43 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6d]
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: raises $0.04 to $0.06
+DaveGooner: folds 
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Uncalled bet ($0.04) returned to aikabiiv
+aikabiiv collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: aikabiiv collected ($0.05)
+Seat 2: DaveGooner (button) folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 4: iliya_nenkov (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644024706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:21:04 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($6.34 in chips) 
+Seat 2: DaveGooner ($1.84 in chips) 
+Seat 3: Jan Carl92 ($1.66 in chips) 
+Seat 4: iliya_nenkov ($2.05 in chips) 
+Seat 5: Andorrior ($1.43 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+iliya_nenkov: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ad]
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: raises $0.12 to $0.18
+DaveGooner: folds 
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: calls $0.12
+*** FLOP *** [Ah Tc 6s]
+Lorpugo: checks 
+aikabiiv: bets $0.19
+Lorpugo: calls $0.19
+*** TURN *** [Ah Tc 6s] [Ks]
+Lorpugo: checks 
+aikabiiv: checks 
+*** RIVER *** [Ah Tc 6s Ks] [6h]
+Lorpugo: checks 
+aikabiiv: bets $0.22
+Lorpugo: raises $1.24 to $1.46 and is all-in
+aikabiiv: folds 
+Uncalled bet ($1.24) returned to Lorpugo
+Lorpugo collected $1.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [Ah Tc 6s Ks 6h]
+Seat 1: aikabiiv folded on the River
+Seat 2: DaveGooner folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo collected ($1.17)
+
+
+
+PokerStars Hand #240644041851:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:21:54 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($5.75 in chips) 
+Seat 2: DaveGooner ($1.84 in chips) 
+Seat 3: Jan Carl92 ($1.66 in chips) 
+Seat 4: iliya_nenkov ($2.04 in chips) 
+Seat 5: Andorrior ($1.41 in chips) 
+Seat 6: Lorpugo ($2.41 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s As]
+aikabiiv: folds 
+DaveGooner: calls $0.02
+Jan Carl92: folds 
+iliya_nenkov: raises $0.06 to $0.08
+Andorrior: folds 
+Lorpugo: calls $0.06
+DaveGooner: calls $0.06
+*** FLOP *** [3s 5h Ac]
+Lorpugo: checks 
+DaveGooner: checks 
+iliya_nenkov: checks 
+*** TURN *** [3s 5h Ac] [2h]
+Lorpugo: checks 
+DaveGooner: bets $0.02
+iliya_nenkov: raises $0.14 to $0.16
+Lorpugo: folds 
+DaveGooner: raises $0.14 to $0.30
+iliya_nenkov: calls $0.14
+*** RIVER *** [3s 5h Ac 2h] [6s]
+DaveGooner: bets $1.46 and is all-in
+iliya_nenkov: folds 
+Uncalled bet ($1.46) returned to DaveGooner
+DaveGooner collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [3s 5h Ac 2h 6s]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: DaveGooner collected ($0.82)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (button) folded on the River
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240644068024:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:23:10 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: aikabiiv ($5.75 in chips) 
+Seat 2: DaveGooner ($2.28 in chips) 
+Seat 3: Jan Carl92 ($1.66 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.40 in chips) 
+Seat 6: Lorpugo ($2.33 in chips) 
+Lorpugo: posts small blind $0.01
+aikabiiv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Kc]
+DaveGooner: calls $0.02
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: calls $0.01
+aikabiiv: checks 
+*** FLOP *** [2c 5c 7s]
+Lorpugo: bets $0.06
+aikabiiv: folds 
+DaveGooner: calls $0.06
+*** TURN *** [2c 5c 7s] [6c]
+Lorpugo: bets $0.11
+DaveGooner: calls $0.11
+*** RIVER *** [2c 5c 7s 6c] [8h]
+Lorpugo: checks 
+DaveGooner: bets $2.09 and is all-in
+Lorpugo: folds 
+Uncalled bet ($2.09) returned to DaveGooner
+DaveGooner collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [2c 5c 7s 6c 8h]
+Seat 1: aikabiiv (big blind) folded on the Flop
+Seat 2: DaveGooner collected ($0.39)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the River
+
+
+
+PokerStars Hand #240644087139:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:24:06 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: aikabiiv ($5.73 in chips) 
+Seat 2: DaveGooner ($2.48 in chips) 
+Seat 3: Jan Carl92 ($1.66 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.40 in chips) 
+Seat 6: Lorpugo ($2.14 in chips) 
+aikabiiv: posts small blind $0.01
+DaveGooner: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Kh]
+Jan Carl92: raises $0.04 to $0.06
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: calls $0.05
+DaveGooner: raises $0.04 to $0.10
+Jan Carl92: calls $0.04
+aikabiiv: calls $0.04
+*** FLOP *** [8c 8h Jc]
+aikabiiv: checks 
+DaveGooner: bets $0.18
+Jan Carl92: calls $0.18
+aikabiiv: folds 
+*** TURN *** [8c 8h Jc] [Qc]
+DaveGooner: bets $2.20 and is all-in
+Jan Carl92: calls $1.38 and is all-in
+Uncalled bet ($0.82) returned to DaveGooner
+*** RIVER *** [8c 8h Jc Qc] [Td]
+*** SHOW DOWN ***
+DaveGooner: shows [Ah Ac] (two pair, Aces and Eights)
+Jan Carl92: shows [Jh Kd] (two pair, Jacks and Eights)
+DaveGooner collected $3.30 from pot
+*** SUMMARY ***
+Total pot $3.42 | Rake $0.12 
+Board [8c 8h Jc Qc Td]
+Seat 1: aikabiiv (small blind) folded on the Flop
+Seat 2: DaveGooner (big blind) showed [Ah Ac] and won ($3.30) with two pair, Aces and Eights
+Seat 3: Jan Carl92 showed [Jh Kd] and lost with two pair, Jacks and Eights
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644107009:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:25:03 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: aikabiiv ($5.63 in chips) 
+Seat 2: DaveGooner ($4.12 in chips) 
+Seat 3: Jan Carl92 ($2 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.40 in chips) 
+Seat 6: Lorpugo ($2.14 in chips) 
+DaveGooner: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 6h]
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+DaveGooner: calls $0.05
+Jan Carl92: folds 
+*** FLOP *** [6s Js Tc]
+DaveGooner: checks 
+Lorpugo: bets $0.02
+DaveGooner: calls $0.02
+*** TURN *** [6s Js Tc] [2c]
+DaveGooner: checks 
+Lorpugo: bets $0.08
+DaveGooner: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6s Js Tc 2c]
+Seat 1: aikabiiv (button) folded before Flop (didn't bet)
+Seat 2: DaveGooner (small blind) folded on the Turn
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.17)
+
+
+
+PokerStars Hand #240644123987:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:25:52 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: aikabiiv ($5.63 in chips) 
+Seat 2: DaveGooner ($4.04 in chips) 
+Seat 3: Jan Carl92 ($1.98 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.40 in chips) 
+Seat 6: Lorpugo ($2.23 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 4d]
+Andorrior: folds 
+Lorpugo: folds 
+aikabiiv: folds 
+DaveGooner: calls $0.02
+Jan Carl92: folds 
+iliya_nenkov: raises $0.08 to $0.10
+DaveGooner: calls $0.08
+*** FLOP *** [8c 3s 7c]
+iliya_nenkov: bets $0.16
+DaveGooner: calls $0.16
+*** TURN *** [8c 3s 7c] [4h]
+iliya_nenkov: bets $0.41
+DaveGooner: folds 
+Uncalled bet ($0.41) returned to iliya_nenkov
+iliya_nenkov collected $0.51 from pot
+iliya_nenkov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [8c 3s 7c 4h]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: DaveGooner (button) folded on the Turn
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 4: iliya_nenkov (big blind) collected ($0.51)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644136785:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:26:29 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: aikabiiv ($5.63 in chips) 
+Seat 2: DaveGooner ($3.78 in chips) 
+Seat 3: Jan Carl92 ($1.97 in chips) 
+Seat 4: iliya_nenkov ($2.25 in chips) 
+Seat 5: Andorrior ($1.40 in chips) 
+Seat 6: Lorpugo ($2.23 in chips) 
+iliya_nenkov: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 2h]
+Lorpugo: raises $0.04 to $0.06
+aikabiiv: folds 
+DaveGooner: calls $0.06
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+*** FLOP *** [8s 7d 3c]
+Lorpugo: bets $0.05
+DaveGooner: raises $0.05 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to DaveGooner
+DaveGooner collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8s 7d 3c]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: DaveGooner collected ($0.24)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #240644148113:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:27:02 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: aikabiiv ($5.63 in chips) 
+Seat 2: DaveGooner ($3.91 in chips) 
+Seat 3: Jan Carl92 ($1.97 in chips) 
+Seat 4: iliya_nenkov ($2.24 in chips) 
+Seat 5: Andorrior ($1.38 in chips) 
+Seat 6: Lorpugo ($2.12 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jd]
+aikabiiv: folds 
+aikabiiv leaves the table
+DaveGooner: folds 
+DaveGooner leaves the table
+Jan Carl92: folds 
+Don Cesar 10 joins the table at seat #1 
+Postaff83 joins the table at seat #2 
+iliya_nenkov: raises $0.02 to $0.04
+Andorrior: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [5s 8s Jc]
+Lorpugo: bets $0.03
+iliya_nenkov: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5s 8s Jc]
+Seat 1: aikabiiv folded before Flop (didn't bet)
+Seat 2: DaveGooner folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (button) folded on the Flop
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #240644162518:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:27:44 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2 in chips) 
+Seat 3: Jan Carl92 ($1.97 in chips) 
+Seat 4: iliya_nenkov ($2.20 in chips) 
+Seat 5: Andorrior ($1.37 in chips) 
+Seat 6: Lorpugo ($2.17 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5h]
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Don Cesar 10 (big blind) folded before Flop
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240644167579:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:27:59 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($1.98 in chips) 
+Seat 2: Postaff83 ($2 in chips) 
+Seat 3: Jan Carl92 ($1.97 in chips) 
+Seat 4: iliya_nenkov ($2.20 in chips) 
+Seat 5: Andorrior ($1.37 in chips) 
+Seat 6: Lorpugo ($2.19 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 4h]
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: folds 
+Uncalled bet ($0.01) returned to Postaff83
+Postaff83 collected $0.02 from pot
+Postaff83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Don Cesar 10 (small blind) folded before Flop
+Seat 2: Postaff83 (big blind) collected ($0.02)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644171422:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:28:10 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($1.97 in chips) 
+Seat 2: Postaff83 ($2.01 in chips) 
+Seat 3: Jan Carl92 ($1.97 in chips) 
+Seat 4: iliya_nenkov ($2.20 in chips) 
+Seat 5: Andorrior ($1.37 in chips) 
+Seat 6: Lorpugo ($2.19 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Kd]
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: raises $0.14 to $0.20
+Jan Carl92: folds 
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to Postaff83
+Postaff83 collected $0.14 from pot
+Postaff83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) collected ($0.14)
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #240644180177:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:28:35 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($1.97 in chips) 
+Seat 2: Postaff83 ($2.09 in chips) 
+Seat 3: Jan Carl92 ($1.95 in chips) 
+Seat 4: iliya_nenkov ($2.20 in chips) 
+Seat 5: Andorrior ($1.37 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 3s]
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: raises $0.04 to $0.06
+Postaff83: calls $0.06
+Jan Carl92: calls $0.05
+iliya_nenkov: folds 
+*** FLOP *** [Kc 7c 8h]
+Jan Carl92: checks 
+Don Cesar 10: checks 
+Postaff83: checks 
+*** TURN *** [Kc 7c 8h] [2h]
+Jan Carl92: bets $0.04
+Don Cesar 10: calls $0.04
+Postaff83: calls $0.04
+*** RIVER *** [Kc 7c 8h 2h] [8d]
+Jan Carl92: checks 
+Don Cesar 10: checks 
+Postaff83: checks 
+*** SHOW DOWN ***
+Jan Carl92: shows [6s 9s] (a pair of Eights)
+Don Cesar 10: shows [Kd Ac] (two pair, Kings and Eights)
+Postaff83: mucks hand 
+Don Cesar 10 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Kc 7c 8h 2h 8d]
+Seat 1: Don Cesar 10 showed [Kd Ac] and won ($0.31) with two pair, Kings and Eights
+Seat 2: Postaff83 (button) mucked [9c As]
+Seat 3: Jan Carl92 (small blind) showed [6s 9s] and lost with a pair of Eights
+Seat 4: iliya_nenkov (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644206637:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:29:52 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.18 in chips) 
+Seat 2: Postaff83 ($1.99 in chips) 
+Seat 3: Jan Carl92 ($1.85 in chips) 
+Seat 4: iliya_nenkov ($2.18 in chips) 
+Seat 5: Andorrior ($1.37 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+iliya_nenkov: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 4h]
+Lorpugo: folds 
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+iliya_nenkov: raises $0.04 to $0.06
+Andorrior: folds 
+Uncalled bet ($0.04) returned to iliya_nenkov
+iliya_nenkov collected $0.04 from pot
+iliya_nenkov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (small blind) collected ($0.04)
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644211253:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:30:05 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: Don Cesar 10 ($2.18 in chips) 
+Seat 2: Postaff83 ($1.99 in chips) 
+Seat 3: Jan Carl92 ($1.85 in chips) 
+Seat 4: iliya_nenkov ($2.20 in chips) 
+Seat 5: Andorrior ($1.35 in chips) 
+Seat 6: Lorpugo ($2.13 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qc]
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: raises $0.03 to $0.05
+iliya_nenkov: raises $0.09 to $0.14
+Andorrior: folds 
+Lorpugo: calls $0.12
+Jan Carl92: folds 
+*** FLOP *** [9s Qs Td]
+Lorpugo: checks 
+iliya_nenkov: checks 
+*** TURN *** [9s Qs Td] [7h]
+Lorpugo: bets $0.48
+iliya_nenkov: folds 
+Uncalled bet ($0.48) returned to Lorpugo
+Lorpugo collected $0.33 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [9s Qs Td 7h]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop
+Seat 4: iliya_nenkov (button) folded on the Turn
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.33)
+
+
+
+PokerStars Hand #240644226910:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:30:48 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.18 in chips) 
+Seat 2: Postaff83 ($1.99 in chips) 
+Seat 3: Jan Carl92 ($1.80 in chips) 
+Seat 4: iliya_nenkov ($2.06 in chips) 
+Seat 5: Andorrior ($1.34 in chips) 
+Seat 6: Lorpugo ($2.32 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7d]
+Postaff83: calls $0.02
+Jan Carl92: raises $0.04 to $0.06
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: calls $0.04
+Postaff83: calls $0.04
+*** FLOP *** [6c Jd Qd]
+Don Cesar 10: checks 
+Postaff83: checks 
+Jan Carl92: checks 
+*** TURN *** [6c Jd Qd] [Td]
+Don Cesar 10: checks 
+Postaff83: checks 
+Jan Carl92: checks 
+*** RIVER *** [6c Jd Qd Td] [5h]
+Don Cesar 10: checks 
+Postaff83: checks 
+Jan Carl92: checks 
+*** SHOW DOWN ***
+Don Cesar 10: shows [8c 8s] (a pair of Eights)
+Postaff83: mucks hand 
+Jan Carl92: mucks hand 
+Don Cesar 10 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6c Jd Qd Td 5h]
+Seat 1: Don Cesar 10 (big blind) showed [8c 8s] and won ($0.18) with a pair of Eights
+Seat 2: Postaff83 mucked [4h Ac]
+Seat 3: Jan Carl92 mucked [7s 7h]
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644240899:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:31:28 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.30 in chips) 
+Seat 2: Postaff83 ($1.93 in chips) 
+Seat 3: Jan Carl92 ($1.74 in chips) 
+Seat 4: iliya_nenkov ($2.06 in chips) 
+Seat 5: Andorrior ($1.34 in chips) 
+Seat 6: Lorpugo ($2.31 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 8d]
+Jan Carl92: raises $0.04 to $0.06
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: calls $0.06
+Don Cesar 10: folds 
+Postaff83: folds 
+*** FLOP *** [6c Qd 9c]
+Jan Carl92: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [6c Qd 9c] [3s]
+Jan Carl92: bets $0.09
+Lorpugo: raises $0.22 to $0.31
+Jan Carl92: calls $0.22
+*** RIVER *** [6c Qd 9c 3s] [2d]
+Jan Carl92: checks 
+Lorpugo: bets $0.76
+Jan Carl92: calls $0.76
+*** SHOW DOWN ***
+Lorpugo: shows [7h 8d] (high card Queen)
+Jan Carl92: shows [Ad Qh] (a pair of Queens)
+Jan Carl92 collected $2.31 from pot
+*** SUMMARY ***
+Total pot $2.41 | Rake $0.10 
+Board [6c Qd 9c 3s 2d]
+Seat 1: Don Cesar 10 (small blind) folded before Flop
+Seat 2: Postaff83 (big blind) folded before Flop
+Seat 3: Jan Carl92 showed [Ad Qh] and won ($2.31) with a pair of Queens
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) showed [7h 8d] and lost with high card Queen
+
+
+
+PokerStars Hand #240644258699:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:32:17 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($2.29 in chips) 
+Seat 2: Postaff83 ($1.91 in chips) 
+Seat 3: Jan Carl92 ($2.86 in chips) 
+Seat 4: iliya_nenkov ($2.06 in chips) 
+Seat 5: Andorrior ($1.34 in chips) 
+Seat 6: Lorpugo ($1.12 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Kh]
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: calls $0.05
+Jan Carl92: folds 
+*** FLOP *** [Ks 4s Jc]
+Postaff83: checks 
+Lorpugo: bets $0.07
+Postaff83: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ks 4s Jc]
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) folded on the Flop
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.14)
+
+
+
+PokerStars Hand #240644268229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:32:44 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($2.29 in chips) 
+Seat 2: Postaff83 ($1.85 in chips) 
+Seat 3: Jan Carl92 ($2.84 in chips) 
+Seat 4: iliya_nenkov ($2.06 in chips) 
+Seat 5: Andorrior ($1.34 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 5h]
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: raises $0.04 to $0.06
+Postaff83: folds 
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Uncalled bet ($0.04) returned to Don Cesar 10
+Don Cesar 10 collected $0.05 from pot
+Don Cesar 10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 collected ($0.05)
+Seat 2: Postaff83 (button) folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 4: iliya_nenkov (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644277724:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:33:10 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.32 in chips) 
+Seat 2: Postaff83 ($1.85 in chips) 
+Seat 3: Jan Carl92 ($2.83 in chips) 
+Seat 4: iliya_nenkov ($2.04 in chips) 
+Seat 5: Andorrior ($1.34 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+iliya_nenkov: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2h]
+Lorpugo: folds 
+Don Cesar 10: folds 
+Postaff83: calls $0.02
+Jan Carl92: calls $0.02
+iliya_nenkov: folds 
+Andorrior: checks 
+*** FLOP *** [Qd 9s 8h]
+Andorrior: checks 
+Postaff83: checks 
+Jan Carl92: bets $0.04
+Andorrior: folds 
+Postaff83: calls $0.04
+*** TURN *** [Qd 9s 8h] [3c]
+Postaff83: checks 
+Jan Carl92: bets $0.05
+Postaff83: folds 
+Uncalled bet ($0.05) returned to Jan Carl92
+Jan Carl92 collected $0.14 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qd 9s 8h 3c]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded on the Turn
+Seat 3: Jan Carl92 (button) collected ($0.14)
+Seat 4: iliya_nenkov (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644293607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:33:55 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: Don Cesar 10 ($2.32 in chips) 
+Seat 2: Postaff83 ($1.79 in chips) 
+Seat 3: Jan Carl92 ($2.91 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.32 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 7s]
+Don Cesar 10: folds 
+Postaff83: calls $0.02
+Jan Carl92: folds 
+iliya_nenkov: raises $0.06 to $0.08
+Andorrior: folds 
+Lorpugo: folds 
+Postaff83: calls $0.06
+*** FLOP *** [Js Th 7h]
+Postaff83: bets $0.09
+iliya_nenkov: calls $0.09
+*** TURN *** [Js Th 7h] [4h]
+Postaff83: bets $0.20
+iliya_nenkov: folds 
+Uncalled bet ($0.20) returned to Postaff83
+Postaff83 collected $0.36 from pot
+Postaff83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Js Th 7h 4h]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 collected ($0.36)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (button) folded on the Turn
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644312660:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:34:48 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.32 in chips) 
+Seat 2: Postaff83 ($1.98 in chips) 
+Seat 3: Jan Carl92 ($2.91 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.31 in chips) 
+Seat 6: Lorpugo ($1.98 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 3s]
+Postaff83: raises $0.04 to $0.06
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: calls $0.04
+*** FLOP *** [8d 4c 5s]
+Don Cesar 10: checks 
+Postaff83: checks 
+*** TURN *** [8d 4c 5s] [9d]
+Don Cesar 10: checks 
+Postaff83: checks 
+*** RIVER *** [8d 4c 5s 9d] [4s]
+Don Cesar 10: checks 
+Postaff83: checks 
+*** SHOW DOWN ***
+Don Cesar 10: shows [9c Js] (two pair, Nines and Fours)
+Postaff83: mucks hand 
+Don Cesar 10 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d 4c 5s 9d 4s]
+Seat 1: Don Cesar 10 (big blind) showed [9c Js] and won ($0.13) with two pair, Nines and Fours
+Seat 2: Postaff83 mucked [Ac 3d]
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644323094:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:35:18 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.39 in chips) 
+Seat 2: Postaff83 ($1.92 in chips) 
+Seat 3: Jan Carl92 ($2.91 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.31 in chips) 
+Seat 6: Lorpugo ($1.97 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3s]
+Jan Carl92: folds 
+iliya_nenkov: raises $0.04 to $0.06
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: folds 
+Postaff83: folds 
+Uncalled bet ($0.04) returned to iliya_nenkov
+iliya_nenkov collected $0.05 from pot
+iliya_nenkov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 (small blind) folded before Flop
+Seat 2: Postaff83 (big blind) folded before Flop
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov collected ($0.05)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644331944:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:35:42 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($2.38 in chips) 
+Seat 2: Postaff83 ($1.90 in chips) 
+Seat 3: Jan Carl92 ($2.91 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.31 in chips) 
+Seat 6: Lorpugo ($1.97 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Qs]
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) folded before Flop
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240644342999:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:36:13 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($2.38 in chips) 
+Seat 2: Postaff83 ($1.89 in chips) 
+Seat 3: Jan Carl92 ($2.89 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.31 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4c]
+Andorrior has timed out
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: raises $0.04 to $0.06
+Postaff83: calls $0.06
+Jan Carl92: raises $0.14 to $0.20
+iliya_nenkov: folds 
+Don Cesar 10: folds 
+Postaff83: calls $0.14
+*** FLOP *** [6d 6c 8c]
+Jan Carl92: checks 
+Postaff83: bets $0.23
+Jan Carl92: raises $2.46 to $2.69 and is all-in
+Postaff83: calls $1.46 and is all-in
+Uncalled bet ($1) returned to Jan Carl92
+*** TURN *** [6d 6c 8c] [5c]
+*** RIVER *** [6d 6c 8c 5c] [9s]
+*** SHOW DOWN ***
+Jan Carl92: shows [Jc Jh] (two pair, Jacks and Sixes)
+Postaff83: shows [Qc 7c] (a flush, Queen high)
+Postaff83 collected $3.72 from pot
+*** SUMMARY ***
+Total pot $3.86 | Rake $0.14 
+Board [6d 6c 8c 5c 9s]
+Seat 1: Don Cesar 10 folded before Flop
+Seat 2: Postaff83 (button) showed [Qc 7c] and won ($3.72) with a flush, Queen high
+Seat 3: Jan Carl92 (small blind) showed [Jc Jh] and lost with two pair, Jacks and Sixes
+Seat 4: iliya_nenkov (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644368859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:37:24 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.32 in chips) 
+Seat 2: Postaff83 ($3.72 in chips) 
+Seat 3: Jan Carl92 ($2 in chips) 
+Seat 4: iliya_nenkov ($2.01 in chips) 
+Seat 5: Andorrior ($1.31 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+iliya_nenkov: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4c]
+Lorpugo: folds 
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+iliya_nenkov: raises $0.04 to $0.06
+Andorrior: folds 
+Uncalled bet ($0.04) returned to iliya_nenkov
+iliya_nenkov collected $0.04 from pot
+iliya_nenkov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (small blind) collected ($0.04)
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644379097:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:37:53 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: Don Cesar 10 ($2.32 in chips) 
+Seat 2: Postaff83 ($3.72 in chips) 
+Seat 3: Jan Carl92 ($2 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.29 in chips) 
+Seat 6: Lorpugo ($2 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6c]
+Don Cesar 10: folds 
+Postaff83: calls $0.02
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.08 to $0.10
+Postaff83: calls $0.08
+*** FLOP *** [7c 4c 4h]
+Lorpugo: bets $0.13
+Postaff83: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7c 4c 4h]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded on the Flop
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: iliya_nenkov (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #240644394619:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:38:36 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.32 in chips) 
+Seat 2: Postaff83 ($3.62 in chips) 
+Seat 3: Jan Carl92 ($2 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.28 in chips) 
+Seat 6: Lorpugo ($2.10 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jc]
+Postaff83: folds 
+Jan Carl92: raises $0.04 to $0.06
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.12 to $0.18
+Don Cesar 10: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Don Cesar 10 (big blind) folded before Flop
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #240644406132:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:39:08 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.30 in chips) 
+Seat 2: Postaff83 ($3.62 in chips) 
+Seat 3: Jan Carl92 ($1.94 in chips) 
+Seat 4: iliya_nenkov ($2.03 in chips) 
+Seat 5: Andorrior ($1.28 in chips) 
+Seat 6: Lorpugo ($2.18 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Qs]
+Jan Carl92: raises $0.02 to $0.04
+iliya_nenkov: raises $0.08 to $0.12
+Andorrior: folds 
+Lorpugo: calls $0.12
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: calls $0.08
+*** FLOP *** [4s 2d As]
+Jan Carl92: checks 
+iliya_nenkov: checks 
+Lorpugo: bets $0.25
+Jan Carl92: folds 
+iliya_nenkov: folds 
+Uncalled bet ($0.25) returned to Lorpugo
+Lorpugo collected $0.38 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [4s 2d As]
+Seat 1: Don Cesar 10 (small blind) folded before Flop
+Seat 2: Postaff83 (big blind) folded before Flop
+Seat 3: Jan Carl92 folded on the Flop
+Seat 4: iliya_nenkov folded on the Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.38)
+
+
+
+PokerStars Hand #240644417495:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:39:39 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($2.29 in chips) 
+Seat 2: Postaff83 ($3.60 in chips) 
+Seat 3: Jan Carl92 ($1.82 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.28 in chips) 
+Seat 6: Lorpugo ($2.44 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Tc]
+iliya_nenkov: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: raises $0.04 to $0.10
+Jan Carl92: calls $0.08
+Lorpugo: calls $0.04
+*** FLOP *** [2c 7h 9c]
+Postaff83: checks 
+Jan Carl92: checks 
+Lorpugo: checks 
+*** TURN *** [2c 7h 9c] [3c]
+Postaff83: checks 
+Jan Carl92: checks 
+Lorpugo: bets $0.19
+Postaff83: calls $0.19
+Jan Carl92: folds 
+*** RIVER *** [2c 7h 9c 3c] [5c]
+Postaff83: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Postaff83: shows [2d Ad] (a pair of Deuces)
+Lorpugo: shows [Kd Tc] (a flush, Ten high)
+Lorpugo collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [2c 7h 9c 3c 5c]
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) showed [2d Ad] and lost with a pair of Deuces
+Seat 3: Jan Carl92 (big blind) folded on the Turn
+Seat 4: iliya_nenkov folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [Kd Tc] and won ($0.66) with a flush, Ten high
+
+
+
+PokerStars Hand #240644443942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:40:53 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($2.29 in chips) 
+Seat 2: Postaff83 ($3.31 in chips) 
+Seat 3: Jan Carl92 ($1.72 in chips) 
+Seat 4: iliya_nenkov ($2 in chips) 
+Seat 5: Andorrior ($1.28 in chips) 
+Seat 6: Lorpugo ($2.81 in chips) 
+Jan Carl92: posts small blind $0.01
+iliya_nenkov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7c]
+Andorrior: calls $0.02
+Lorpugo: folds 
+Don Cesar 10: folds 
+Postaff83: calls $0.02
+Jan Carl92: raises $0.08 to $0.10
+iliya_nenkov: folds 
+Andorrior: calls $0.08
+Postaff83: calls $0.08
+*** FLOP *** [5d 9s Td]
+Jan Carl92: bets $0.16
+iliya_nenkov leaves the table
+Andorrior: folds 
+Postaff83: calls $0.16
+*** TURN *** [5d 9s Td] [As]
+Jan Carl92: checks 
+Postaff83: checks 
+*** RIVER *** [5d 9s Td As] [2h]
+Jan Carl92: checks 
+Postaff83: bets $0.31
+Jan Carl92: calls $0.31
+gulymatador92 joins the table at seat #4 
+*** SHOW DOWN ***
+Postaff83: shows [9c 4c] (a pair of Nines)
+Jan Carl92: shows [Kc Kh] (a pair of Kings)
+Jan Carl92 collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.05 
+Board [5d 9s Td As 2h]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 (button) showed [9c 4c] and lost with a pair of Nines
+Seat 3: Jan Carl92 (small blind) showed [Kc Kh] and won ($1.21) with a pair of Kings
+Seat 4: iliya_nenkov (big blind) folded before Flop
+Seat 5: Andorrior folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644474990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:42:19 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.29 in chips) 
+Seat 2: Postaff83 ($2.74 in chips) 
+Seat 3: Jan Carl92 ($2.36 in chips) 
+Seat 5: Andorrior ($1.98 in chips) 
+Seat 6: Lorpugo ($2.81 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5h]
+Don Cesar 10: raises $0.04 to $0.06
+Postaff83: calls $0.06
+Jan Carl92: folds 
+Andorrior: folds 
+Lorpugo: folds 
+*** FLOP *** [8s 4d 5s]
+Don Cesar 10: checks 
+Postaff83: bets $0.07
+Don Cesar 10: folds 
+Uncalled bet ($0.07) returned to Postaff83
+Postaff83 collected $0.14 from pot
+Postaff83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s 4d 5s]
+Seat 1: Don Cesar 10 folded on the Flop
+Seat 2: Postaff83 collected ($0.14)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240644486058:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:42:49 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.23 in chips) 
+Seat 2: Postaff83 ($2.82 in chips) 
+Seat 3: Jan Carl92 ($2.36 in chips) 
+Seat 5: Andorrior ($1.97 in chips) 
+Seat 6: Lorpugo ($2.79 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Tc]
+Postaff83: folds 
+Jan Carl92: folds 
+Andorrior: calls $0.02
+Lorpugo: calls $0.01
+Don Cesar 10: checks 
+*** FLOP *** [2c 8c 6s]
+Lorpugo: checks 
+Don Cesar 10: checks 
+Andorrior: checks 
+*** TURN *** [2c 8c 6s] [8s]
+Lorpugo: bets $0.02
+Don Cesar 10: folds 
+Andorrior: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2c 8c 6s 8s]
+Seat 1: Don Cesar 10 (big blind) folded on the Turn
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded on the Turn
+Seat 6: Lorpugo (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #240644501854:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:43:32 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.21 in chips) 
+Seat 2: Postaff83 ($2.82 in chips) 
+Seat 3: Jan Carl92 ($2.36 in chips) 
+Seat 5: Andorrior ($1.95 in chips) 
+Seat 6: Lorpugo ($2.83 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 7h]
+Jan Carl92: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 (small blind) folded before Flop
+Seat 2: Postaff83 (big blind) folded before Flop
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240644506538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:43:46 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($2.20 in chips) 
+Seat 2: Postaff83 ($2.80 in chips) 
+Seat 3: Jan Carl92 ($2.36 in chips) 
+Seat 5: Andorrior ($1.95 in chips) 
+Seat 6: Lorpugo ($2.86 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Jc]
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: calls $0.05
+Jan Carl92: calls $0.04
+*** FLOP *** [6d 9h 4s]
+Postaff83: checks 
+Jan Carl92: checks 
+Lorpugo: checks 
+*** TURN *** [6d 9h 4s] [9c]
+Postaff83: checks 
+Jan Carl92: checks 
+Lorpugo: bets $0.06
+Postaff83: calls $0.06
+Jan Carl92: calls $0.06
+*** RIVER *** [6d 9h 4s 9c] [Kh]
+Postaff83: checks 
+Jan Carl92: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Postaff83: shows [Ah 3s] (a pair of Nines)
+Jan Carl92: shows [5c 6h] (two pair, Nines and Sixes)
+Lorpugo: mucks hand 
+Jan Carl92 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6d 9h 4s 9c Kh]
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) showed [Ah 3s] and lost with a pair of Nines
+Seat 3: Jan Carl92 (big blind) showed [5c 6h] and won ($0.35) with two pair, Nines and Sixes
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo mucked [Ad Jc]
+
+
+
+PokerStars Hand #240644526811:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:44:42 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($2.20 in chips) 
+Seat 2: Postaff83 ($2.68 in chips) 
+Seat 3: Jan Carl92 ($2.59 in chips) 
+Seat 4: gulymatador92 ($2 in chips) 
+Seat 5: Andorrior ($1.95 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+Jan Carl92: posts small blind $0.01
+gulymatador92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h As]
+Andorrior has timed out
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+gulymatador92 has timed out
+gulymatador92: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 (button) folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 4: gulymatador92 (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240644545071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:45:33 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.20 in chips) 
+Seat 2: Postaff83 ($2.68 in chips) 
+Seat 3: Jan Carl92 ($2.58 in chips) 
+Seat 5: Andorrior ($1.95 in chips) 
+Seat 6: Lorpugo ($2.77 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 2h]
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+Andorrior: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240644549106:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:45:44 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.20 in chips) 
+Seat 2: Postaff83 ($2.68 in chips) 
+Seat 3: Jan Carl92 ($2.58 in chips) 
+Seat 5: Andorrior ($1.94 in chips) 
+Seat 6: Lorpugo ($2.78 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Kc]
+Postaff83: folds 
+Jan Carl92: raises $0.02 to $0.04
+Andorrior: folds 
+Lorpugo: calls $0.03
+Don Cesar 10: calls $0.02
+*** FLOP *** [4h 8c Ah]
+Lorpugo: checks 
+Don Cesar 10: checks 
+Jan Carl92: bets $0.04
+Lorpugo: folds 
+Don Cesar 10: calls $0.04
+*** TURN *** [4h 8c Ah] [9c]
+Don Cesar 10: checks 
+Jan Carl92: checks 
+*** RIVER *** [4h 8c Ah 9c] [Th]
+Don Cesar 10: bets $0.06
+Jan Carl92: calls $0.06
+*** SHOW DOWN ***
+Don Cesar 10: shows [5d Ac] (a pair of Aces)
+Jan Carl92: shows [Ad 6s] (a pair of Aces)
+Don Cesar 10 collected $0.16 from pot
+Jan Carl92 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [4h 8c Ah 9c Th]
+Seat 1: Don Cesar 10 (big blind) showed [5d Ac] and won ($0.16) with a pair of Aces
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 showed [Ad 6s] and won ($0.15) with a pair of Aces
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240644565719:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:46:30 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.22 in chips) 
+Seat 2: Postaff83 ($2.68 in chips) 
+Seat 3: Jan Carl92 ($2.59 in chips) 
+Seat 5: Andorrior ($1.94 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5d]
+Jan Carl92: raises $0.04 to $0.06
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: calls $0.05
+Postaff83: folds 
+*** FLOP *** [Kh Tc 2d]
+Don Cesar 10: checks 
+Jan Carl92: checks 
+*** TURN *** [Kh Tc 2d] [Ts]
+Don Cesar 10: checks 
+Jan Carl92: bets $0.05
+Don Cesar 10: raises $0.15 to $0.20
+Jan Carl92: folds 
+Uncalled bet ($0.15) returned to Don Cesar 10
+Don Cesar 10 collected $0.23 from pot
+Don Cesar 10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Kh Tc 2d Ts]
+Seat 1: Don Cesar 10 (small blind) collected ($0.23)
+Seat 2: Postaff83 (big blind) folded before Flop
+Seat 3: Jan Carl92 folded on the Turn
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644581402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:47:13 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($2.34 in chips) 
+Seat 2: Postaff83 ($2.66 in chips) 
+Seat 3: Jan Carl92 ($2.48 in chips) 
+Seat 5: Andorrior ($1.94 in chips) 
+Seat 6: Lorpugo ($2.74 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Td]
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: calls $0.05
+Jan Carl92: folds 
+*** FLOP *** [9c 8d Jc]
+Postaff83: bets $0.07
+Lorpugo: calls $0.07
+*** TURN *** [9c 8d Jc] [As]
+Postaff83: checks 
+Lorpugo: checks 
+*** RIVER *** [9c 8d Jc As] [8s]
+Postaff83: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Postaff83: shows [Qh Kh] (a pair of Eights)
+Lorpugo: mucks hand 
+Postaff83 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [9c 8d Jc As 8s]
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) showed [Qh Kh] and won ($0.27) with a pair of Eights
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo mucked [Kd Td]
+
+
+
+PokerStars Hand #240644599311:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:48:03 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($2.34 in chips) 
+Seat 2: Postaff83 ($2.80 in chips) 
+Seat 3: Jan Carl92 ($2.46 in chips) 
+Seat 5: Andorrior ($1.94 in chips) 
+Seat 6: Lorpugo ($2.61 in chips) 
+Jan Carl92: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ks]
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+Andorrior: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 (button) folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240644604307:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:48:16 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.34 in chips) 
+Seat 2: Postaff83 ($2.80 in chips) 
+Seat 3: Jan Carl92 ($2.45 in chips) 
+Seat 5: Andorrior ($1.92 in chips) 
+Seat 6: Lorpugo ($2.64 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7h]
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: raises $0.02 to $0.04
+Andorrior: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [Qh Jh Th]
+Lorpugo: checks 
+Jan Carl92: checks 
+*** TURN *** [Qh Jh Th] [Jc]
+Lorpugo: checks 
+Jan Carl92: checks 
+*** RIVER *** [Qh Jh Th Jc] [9c]
+Lorpugo: bets $0.02
+Jan Carl92: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [8c 7h] (a straight, Eight to Queen)
+Jan Carl92: mucks hand 
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh Jh Th Jc 9c]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) mucked [4d 4c]
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [8c 7h] and won ($0.13) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #240644632492:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:49:35 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.34 in chips) 
+Seat 2: Postaff83 ($2.80 in chips) 
+Seat 3: Jan Carl92 ($2.39 in chips) 
+Seat 5: Andorrior ($1.91 in chips) 
+Seat 6: Lorpugo ($2.71 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Td]
+Postaff83: folds 
+Jan Carl92: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Don Cesar 10 (big blind) folded before Flop
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240644639181:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:49:53 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.32 in chips) 
+Seat 2: Postaff83 ($2.80 in chips) 
+Seat 3: Jan Carl92 ($2.39 in chips) 
+Seat 5: Andorrior ($1.91 in chips) 
+Seat 6: Lorpugo ($2.73 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 4h]
+Jan Carl92: raises $0.02 to $0.04
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: folds 
+Postaff83: folds 
+Uncalled bet ($0.02) returned to Jan Carl92
+Jan Carl92 collected $0.05 from pot
+Jan Carl92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 (small blind) folded before Flop
+Seat 2: Postaff83 (big blind) folded before Flop
+Seat 3: Jan Carl92 collected ($0.05)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644643878:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:50:06 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($2.31 in chips) 
+Seat 2: Postaff83 ($2.78 in chips) 
+Seat 3: Jan Carl92 ($2.42 in chips) 
+Seat 5: Andorrior ($1.91 in chips) 
+Seat 6: Lorpugo ($2.73 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s As]
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: calls $0.05
+Jan Carl92: calls $0.04
+*** FLOP *** [3c 4d 5h]
+Postaff83: checks 
+Jan Carl92: checks 
+Lorpugo: bets $0.17
+Postaff83: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.17) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3c 4d 5h]
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) folded on the Flop
+Seat 3: Jan Carl92 (big blind) folded on the Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.17)
+
+
+
+PokerStars Hand #240644654109:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:50:35 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($2.31 in chips) 
+Seat 2: Postaff83 ($2.72 in chips) 
+Seat 3: Jan Carl92 ($2.36 in chips) 
+Seat 5: Andorrior ($1.91 in chips) 
+Seat 6: Lorpugo ($2.84 in chips) 
+Jan Carl92: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ks]
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: calls $0.06
+Postaff83: calls $0.06
+Jan Carl92: folds 
+Andorrior: folds 
+*** FLOP *** [2d 2h 9d]
+Lorpugo: checks 
+Don Cesar 10: checks 
+Postaff83: bets $0.10
+Lorpugo: raises $0.14 to $0.24
+Don Cesar 10: folds 
+Postaff83: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2d 2h 9d]
+Seat 1: Don Cesar 10 folded on the Flop
+Seat 2: Postaff83 (button) folded on the Flop
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.40)
+
+
+
+PokerStars Hand #240644670069:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:51:20 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.25 in chips) 
+Seat 2: Postaff83 ($2.56 in chips) 
+Seat 3: Jan Carl92 ($2.35 in chips) 
+Seat 5: Andorrior ($1.89 in chips) 
+Seat 6: Lorpugo ($3.08 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ah]
+Don Cesar 10: folds 
+Postaff83: calls $0.02
+Jan Carl92: folds 
+Andorrior: folds 
+Lorpugo: raises $0.08 to $0.10
+Postaff83: calls $0.08
+*** FLOP *** [8d 2c 5s]
+Lorpugo: checks 
+Postaff83: bets $0.10
+Lorpugo: calls $0.10
+*** TURN *** [8d 2c 5s] [8h]
+Lorpugo: bets $0.13
+Postaff83: calls $0.13
+*** RIVER *** [8d 2c 5s 8h] [5c]
+Lorpugo: checks 
+Postaff83: bets $0.33
+Lorpugo: calls $0.33
+*** SHOW DOWN ***
+Postaff83: shows [As 8s] (a full house, Eights full of Fives)
+Lorpugo: mucks hand 
+Postaff83 collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [8d 2c 5s 8h 5c]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 showed [As 8s] and won ($1.28) with a full house, Eights full of Fives
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) mucked [Ks Ah]
+
+
+
+PokerStars Hand #240644686995:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:52:07 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.25 in chips) 
+Seat 2: Postaff83 ($3.18 in chips) 
+Seat 3: Jan Carl92 ($2.35 in chips) 
+Seat 5: Andorrior ($1.88 in chips) 
+Seat 6: Lorpugo ($2.42 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Ks]
+Postaff83: calls $0.02
+Jan Carl92: calls $0.02
+Andorrior has timed out
+Andorrior: folds 
+Lorpugo: raises $0.08 to $0.10
+Don Cesar 10: raises $2.15 to $2.25 and is all-in
+Postaff83: folds 
+Jan Carl92: folds 
+Lorpugo: folds 
+Uncalled bet ($2.15) returned to Don Cesar 10
+Don Cesar 10 collected $0.24 from pot
+Don Cesar 10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0 
+Seat 1: Don Cesar 10 (big blind) collected ($0.24)
+Seat 2: Postaff83 folded before Flop
+Seat 3: Jan Carl92 folded before Flop
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240644699657:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:52:42 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.39 in chips) 
+Seat 2: Postaff83 ($3.16 in chips) 
+Seat 3: Jan Carl92 ($2.33 in chips) 
+Seat 5: Andorrior ($1.88 in chips) 
+Seat 6: Lorpugo ($2.32 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Qs]
+Jan Carl92: folds 
+Andorrior: calls $0.02
+Lorpugo: folds 
+Don Cesar 10: raises $0.08 to $0.10
+Postaff83: folds 
+Andorrior: folds 
+Uncalled bet ($0.08) returned to Don Cesar 10
+Don Cesar 10 collected $0.06 from pot
+Don Cesar 10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Don Cesar 10 (small blind) collected ($0.06)
+Seat 2: Postaff83 (big blind) folded before Flop
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644709373:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:53:09 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($2.43 in chips) 
+Seat 2: Postaff83 ($3.14 in chips) 
+Seat 3: Jan Carl92 ($2.33 in chips) 
+Seat 5: Andorrior ($1.86 in chips) 
+Seat 6: Lorpugo ($2.32 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qc]
+Andorrior has timed out
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Don Cesar 10 (button) folded before Flop (didn't bet)
+Seat 2: Postaff83 (small blind) folded before Flop
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240644717152:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:53:32 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($2.43 in chips) 
+Seat 2: Postaff83 ($3.13 in chips) 
+Seat 3: Jan Carl92 ($2.31 in chips) 
+Seat 5: Andorrior ($1.86 in chips) 
+Seat 6: Lorpugo ($2.35 in chips) 
+Jan Carl92: posts small blind $0.01
+Andorrior: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7h]
+Lorpugo: folds 
+Don Cesar 10: folds 
+Postaff83: raises $0.04 to $0.06
+Jan Carl92: calls $0.05
+Andorrior: folds 
+*** FLOP *** [5s 8h 9c]
+Jan Carl92: checks 
+Postaff83: bets $0.07
+Jan Carl92: calls $0.07
+*** TURN *** [5s 8h 9c] [Qd]
+Jan Carl92: checks 
+Postaff83: checks 
+*** RIVER *** [5s 8h 9c Qd] [Ah]
+Jan Carl92: checks 
+Postaff83: bets $0.27
+Jan Carl92: folds 
+Uncalled bet ($0.27) returned to Postaff83
+Postaff83 collected $0.27 from pot
+gulymatador92 leaves the table
+Postaff83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5s 8h 9c Qd Ah]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 (button) collected ($0.27)
+Seat 3: Jan Carl92 (small blind) folded on the River
+Seat 5: Andorrior (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644726857:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:53:59 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($2.43 in chips) 
+Seat 2: Postaff83 ($3.27 in chips) 
+Seat 3: Jan Carl92 ($2.18 in chips) 
+Seat 5: Andorrior ($1.84 in chips) 
+Seat 6: Lorpugo ($2.35 in chips) 
+Andorrior: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 7h]
+Don Cesar 10: folds 
+Postaff83: folds 
+Jan Carl92: folds 
+Andorrior: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 5: Andorrior (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240644730382:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:54:09 ET
+Table 'Hiera II' 6-max Seat #5 is the button
+Seat 1: Don Cesar 10 ($2.43 in chips) 
+Seat 2: Postaff83 ($3.27 in chips) 
+Seat 3: Jan Carl92 ($2.18 in chips) 
+Seat 5: Andorrior ($1.83 in chips) 
+Seat 6: Lorpugo ($2.36 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Kc]
+Postaff83: folds 
+Jan Carl92: raises $0.02 to $0.04
+Pác_Tivald_13 joins the table at seat #4 
+Andorrior has timed out
+Andorrior: folds 
+Lorpugo: calls $0.03
+Don Cesar 10: calls $0.02
+*** FLOP *** [9s Qs 7s]
+Lorpugo: checks 
+Don Cesar 10: checks 
+Jan Carl92: checks 
+*** TURN *** [9s Qs 7s] [3d]
+Lorpugo: bets $0.16
+Don Cesar 10: calls $0.16
+Jan Carl92: folds 
+*** RIVER *** [9s Qs 7s 3d] [4d]
+Lorpugo: bets $0.24
+Don Cesar 10: calls $0.24
+*** SHOW DOWN ***
+Lorpugo: shows [Js Kc] (high card King)
+Don Cesar 10: shows [9d Qc] (two pair, Queens and Nines)
+Don Cesar 10 collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [9s Qs 7s 3d 4d]
+Seat 1: Don Cesar 10 (big blind) showed [9d Qc] and won ($0.89) with two pair, Queens and Nines
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded on the Turn
+Seat 5: Andorrior (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) showed [Js Kc] and lost with high card King
+
+
+
+PokerStars Hand #240644751876:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:55:10 ET
+Table 'Hiera II' 6-max Seat #6 is the button
+Seat 1: Don Cesar 10 ($2.88 in chips) 
+Seat 2: Postaff83 ($3.27 in chips) 
+Seat 3: Jan Carl92 ($2.14 in chips) 
+Seat 4: Pác_Tivald_13 ($1.60 in chips) 
+Seat 5: Andorrior ($1.83 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+Don Cesar 10: posts small blind $0.01
+Postaff83: posts big blind $0.02
+Pác_Tivald_13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2h]
+Jan Carl92: calls $0.02
+Pác_Tivald_13: checks 
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: calls $0.01
+Postaff83: checks 
+*** FLOP *** [5d Ad 6s]
+Don Cesar 10: checks 
+Postaff83: checks 
+Jan Carl92: checks 
+Pác_Tivald_13: bets $0.06
+Don Cesar 10: raises $0.14 to $0.20
+Postaff83: folds 
+Jan Carl92: folds 
+Pác_Tivald_13: calls $0.14
+*** TURN *** [5d Ad 6s] [8d]
+Don Cesar 10: checks 
+Pác_Tivald_13: checks 
+*** RIVER *** [5d Ad 6s 8d] [3c]
+Don Cesar 10: bets $0.15
+Pác_Tivald_13: folds 
+Uncalled bet ($0.15) returned to Don Cesar 10
+Don Cesar 10 collected $0.46 from pot
+Don Cesar 10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [5d Ad 6s 8d 3c]
+Seat 1: Don Cesar 10 (small blind) collected ($0.46)
+Seat 2: Postaff83 (big blind) folded on the Flop
+Seat 3: Jan Carl92 folded on the Flop
+Seat 4: Pác_Tivald_13 folded on the River
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644770535:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:56:18 ET
+Table 'Hiera II' 6-max Seat #1 is the button
+Seat 1: Don Cesar 10 ($3.12 in chips) 
+Seat 2: Postaff83 ($3.25 in chips) 
+Seat 3: Jan Carl92 ($2.12 in chips) 
+Seat 4: Pác_Tivald_13 ($1.38 in chips) 
+Seat 5: Andorrior ($1.83 in chips) 
+Seat 6: Lorpugo ($1.92 in chips) 
+Postaff83: posts small blind $0.01
+Jan Carl92: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ad]
+Pác_Tivald_13: folds 
+Andorrior: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: calls $0.06
+Postaff83: calls $0.05
+Jan Carl92: folds 
+*** FLOP *** [As 3h Tc]
+Postaff83: checks 
+Lorpugo: bets $0.10
+Don Cesar 10: calls $0.10
+Postaff83: folds 
+*** TURN *** [As 3h Tc] [7d]
+Lorpugo: bets $0.26
+Don Cesar 10: calls $0.26
+*** RIVER *** [As 3h Tc 7d] [6c]
+Lorpugo: bets $1.18
+Don Cesar 10: calls $1.18
+*** SHOW DOWN ***
+Lorpugo: shows [3d Ad] (two pair, Aces and Threes)
+Don Cesar 10: shows [Ts Ac] (two pair, Aces and Tens)
+Don Cesar 10 collected $3.17 from pot
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.11 
+Board [As 3h Tc 7d 6c]
+Seat 1: Don Cesar 10 (button) showed [Ts Ac] and won ($3.17) with two pair, Aces and Tens
+Seat 2: Postaff83 (small blind) folded on the Flop
+Seat 3: Jan Carl92 (big blind) folded before Flop
+Seat 4: Pác_Tivald_13 folded before Flop (didn't bet)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [3d Ad] and lost with two pair, Aces and Threes
+
+
+
+PokerStars Hand #240644784339:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:57:10 ET
+Table 'Hiera II' 6-max Seat #2 is the button
+Seat 1: Don Cesar 10 ($4.69 in chips) 
+Seat 2: Postaff83 ($3.19 in chips) 
+Seat 3: Jan Carl92 ($2.10 in chips) 
+Seat 4: Pác_Tivald_13 ($1.38 in chips) 
+Seat 5: Andorrior ($1.83 in chips) 
+Seat 6: Lorpugo ($0.32 in chips) 
+Jan Carl92: posts small blind $0.01
+Pác_Tivald_13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2s]
+Andorrior has timed out
+Andorrior: folds 
+Lorpugo: folds 
+Don Cesar 10: raises $0.04 to $0.06
+Postaff83: folds 
+Jan Carl92: folds 
+Pác_Tivald_13: calls $0.04
+*** FLOP *** [Kd 4h Qh]
+Pác_Tivald_13: bets $0.10
+Don Cesar 10: folds 
+Uncalled bet ($0.10) returned to Pác_Tivald_13
+Pác_Tivald_13 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd 4h Qh]
+Seat 1: Don Cesar 10 folded on the Flop
+Seat 2: Postaff83 (button) folded before Flop (didn't bet)
+Seat 3: Jan Carl92 (small blind) folded before Flop
+Seat 4: Pác_Tivald_13 (big blind) collected ($0.13)
+Seat 5: Andorrior folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240644793384:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:57:43 ET
+Table 'Hiera II' 6-max Seat #3 is the button
+Seat 1: Don Cesar 10 ($4.63 in chips) 
+Seat 2: Postaff83 ($3.19 in chips) 
+Seat 3: Jan Carl92 ($2.09 in chips) 
+Seat 4: Pác_Tivald_13 ($1.45 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Pác_Tivald_13: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4c]
+Don Cesar 10: folds 
+Postaff83: calls $0.02
+Jan Carl92: folds 
+Pác_Tivald_13: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Qh 6d 8d]
+Pác_Tivald_13: checks 
+Lorpugo: checks 
+Postaff83: bets $0.03
+Pác_Tivald_13: calls $0.03
+Lorpugo: folds 
+*** TURN *** [Qh 6d 8d] [Ks]
+Pác_Tivald_13: checks 
+Postaff83: bets $0.06
+Pác_Tivald_13: folds 
+Uncalled bet ($0.06) returned to Postaff83
+Postaff83 collected $0.12 from pot
+Postaff83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qh 6d 8d Ks]
+Seat 1: Don Cesar 10 folded before Flop (didn't bet)
+Seat 2: Postaff83 collected ($0.12)
+Seat 3: Jan Carl92 (button) folded before Flop (didn't bet)
+Seat 4: Pác_Tivald_13 (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240644807293:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/23 13:58:35 ET
+Table 'Hiera II' 6-max Seat #4 is the button
+Seat 1: Don Cesar 10 ($4.63 in chips) 
+Seat 2: Postaff83 ($3.26 in chips) 
+Seat 3: Jan Carl92 ($2.09 in chips) 
+Seat 4: Pác_Tivald_13 ($1.40 in chips) 
+Seat 6: Lorpugo ($1.74 in chips) 
+Lorpugo: posts small blind $0.01
+Don Cesar 10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Qc]
+Postaff83: folds 
+Jan Carl92: folds 
+Pác_Tivald_13: folds 
+Lorpugo: raises $0.04 to $0.06
+Don Cesar 10: calls $0.04
+*** FLOP *** [Td Js Qh]
+Lorpugo: bets $0.12
+Don Cesar 10: calls $0.12
+*** TURN *** [Td Js Qh] [6h]
+Lorpugo: bets $0.35
+Don Cesar 10: raises $4.10 to $4.45 and is all-in
+Lorpugo: calls $1.21 and is all-in
+Uncalled bet ($2.89) returned to Don Cesar 10
+*** RIVER *** [Td Js Qh 6h] [8c]
+*** SHOW DOWN ***
+Lorpugo: shows [5h Qc] (a pair of Queens)
+Don Cesar 10: shows [9d 8h] (a straight, Eight to Queen)
+Don Cesar 10 collected $3.36 from pot
+*** SUMMARY ***
+Total pot $3.48 | Rake $0.12 
+Board [Td Js Qh 6h 8c]
+Seat 1: Don Cesar 10 (big blind) showed [9d 8h] and won ($3.36) with a straight, Eight to Queen
+Seat 2: Postaff83 folded before Flop (didn't bet)
+Seat 3: Jan Carl92 folded before Flop (didn't bet)
+Seat 4: Pác_Tivald_13 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) showed [5h Qc] and lost with a pair of Queens
+
+
+

@@ -1,0 +1,1801 @@
+﻿PokerStars Hand #240727874159:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:18:43 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($0.97 in chips) 
+Seat 2: Mihalovics911 ($0.64 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 5: devloper42 ($2.42 in chips) 
+Seat 6: maurice198099 ($1.88 in chips) 
+Mihalovics911: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5s]
+devloper42: raises $0.04 to $0.06
+maurice198099: folds 
+Andyman750: folds 
+Mihalovics911: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [4c 4h 9s]
+Mihalovics911: checks 
+devloper42: checks 
+*** TURN *** [4c 4h 9s] [7s]
+Mihalovics911: bets $0.06
+devloper42: folds 
+Uncalled bet ($0.06) returned to Mihalovics911
+Mihalovics911 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4c 4h 9s 7s]
+Seat 1: Andyman750 (button) folded before Flop (didn't bet)
+Seat 2: Mihalovics911 (small blind) collected ($0.14)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 5: devloper42 folded on the Turn
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240727882742:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:19:07 ET
+Table 'Haworth' 6-max Seat #2 is the button
+Seat 1: Andyman750 ($0.97 in chips) 
+Seat 2: Mihalovics911 ($0.72 in chips) 
+Seat 3: Lorpugo ($1.58 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.36 in chips) 
+Seat 6: maurice198099 ($1.88 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 4d]
+devloper42: folds 
+maurice198099: calls $0.02
+Andyman750: calls $0.02
+Mihalovics911: calls $0.02
+Lorpugo: calls $0.01
+DanteDenisAA: checks 
+*** FLOP *** [5c 9d 2s]
+Lorpugo: checks 
+DanteDenisAA: checks 
+maurice198099: bets $0.05
+Andyman750: folds 
+Mihalovics911: calls $0.05
+Lorpugo: calls $0.05
+DanteDenisAA: folds 
+*** TURN *** [5c 9d 2s] [As]
+Lorpugo: checks 
+maurice198099: checks 
+Mihalovics911: checks 
+*** RIVER *** [5c 9d 2s As] [Ac]
+Lorpugo: checks 
+maurice198099: checks 
+Mihalovics911: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6d 4d] (a pair of Aces)
+maurice198099: shows [8h 7h] (a pair of Aces - Nine+Eight kicker)
+Mihalovics911: shows [Jd 2d] (two pair, Aces and Deuces)
+Mihalovics911 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5c 9d 2s As Ac]
+Seat 1: Andyman750 folded on the Flop
+Seat 2: Mihalovics911 (button) showed [Jd 2d] and won ($0.24) with two pair, Aces and Deuces
+Seat 3: Lorpugo (small blind) showed [6d 4d] and lost with a pair of Aces
+Seat 4: DanteDenisAA (big blind) folded on the Flop
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 showed [8h 7h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #240727913275:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:20:33 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($0.95 in chips) 
+Seat 2: Mihalovics911 ($0.89 in chips) 
+Seat 3: Lorpugo ($1.51 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.36 in chips) 
+Seat 6: maurice198099 ($1.81 in chips) 
+DanteDenisAA: posts small blind $0.01
+devloper42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7h]
+maurice198099: folds 
+Andyman750: raises $0.02 to $0.04
+Mihalovics911: calls $0.04
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: raises $0.16 to $0.20
+Andyman750: calls $0.16
+Mihalovics911: calls $0.16
+*** FLOP *** [Jh 7s Jd]
+devloper42: bets $0.40
+Andyman750: folds 
+Mihalovics911: folds 
+Uncalled bet ($0.40) returned to devloper42
+devloper42 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Jh 7s Jd]
+Seat 1: Andyman750 folded on the Flop
+Seat 2: Mihalovics911 folded on the Flop
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (small blind) folded before Flop
+Seat 5: devloper42 (big blind) collected ($0.59)
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240727925357:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:21:08 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($0.75 in chips) 
+Seat 2: Mihalovics911 ($0.69 in chips) 
+Seat 3: Lorpugo ($1.51 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.75 in chips) 
+Seat 6: maurice198099 ($1.81 in chips) 
+devloper42: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 5h]
+Andyman750: calls $0.02
+Mihalovics911: raises $0.04 to $0.06
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: calls $0.04
+Andyman750: calls $0.04
+*** FLOP *** [Ac 3d Qd]
+maurice198099: checks 
+Andyman750: checks 
+Mihalovics911: checks 
+*** TURN *** [Ac 3d Qd] [3h]
+maurice198099: bets $0.18
+Andyman750: folds 
+Mihalovics911: calls $0.18
+*** RIVER *** [Ac 3d Qd 3h] [2d]
+maurice198099: checks 
+Mihalovics911: checks 
+*** SHOW DOWN ***
+maurice198099: shows [8c Td] (a pair of Threes)
+Mihalovics911: shows [Jc Qs] (two pair, Queens and Threes)
+Mihalovics911 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Ac 3d Qd 3h 2d]
+Seat 1: Andyman750 folded on the Turn
+Seat 2: Mihalovics911 showed [Jc Qs] and won ($0.53) with two pair, Queens and Threes
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 5: devloper42 (small blind) folded before Flop
+Seat 6: maurice198099 (big blind) showed [8c Td] and lost with a pair of Threes
+
+
+
+PokerStars Hand #240727942639:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:21:56 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($0.69 in chips) 
+Seat 2: Mihalovics911 ($0.98 in chips) 
+Seat 3: Lorpugo ($1.51 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.74 in chips) 
+Seat 6: maurice198099 ($1.57 in chips) 
+maurice198099: posts small blind $0.01
+Andyman750: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 5h]
+Mihalovics911: calls $0.02
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: raises $0.04 to $0.06
+Andyman750: calls $0.04
+Mihalovics911: calls $0.04
+*** FLOP *** [Kc 8s 3d]
+maurice198099: checks 
+Andyman750: checks 
+Mihalovics911: checks 
+*** TURN *** [Kc 8s 3d] [Td]
+maurice198099: bets $0.17
+Andyman750: calls $0.17
+Mihalovics911: calls $0.17
+*** RIVER *** [Kc 8s 3d Td] [8h]
+maurice198099: checks 
+Andyman750: checks 
+Mihalovics911: checks 
+*** SHOW DOWN ***
+maurice198099: shows [Jh Qc] (a pair of Eights)
+Andyman750: shows [Ts Js] (two pair, Tens and Eights)
+Mihalovics911: shows [Th Qh] (two pair, Tens and Eights)
+Andyman750 collected $0.34 from pot
+Mihalovics911 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [Kc 8s 3d Td 8h]
+Seat 1: Andyman750 (big blind) showed [Ts Js] and won ($0.34) with two pair, Tens and Eights
+Seat 2: Mihalovics911 showed [Th Qh] and won ($0.33) with two pair, Tens and Eights
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 (button) folded before Flop (didn't bet)
+Seat 6: maurice198099 (small blind) showed [Jh Qc] and lost with a pair of Eights
+
+
+
+PokerStars Hand #240727957410:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:22:38 ET
+Table 'Haworth' 6-max Seat #6 is the button
+Seat 1: Andyman750 ($0.80 in chips) 
+Seat 2: Mihalovics911 ($1.08 in chips) 
+Seat 3: Lorpugo ($1.51 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.74 in chips) 
+Seat 6: maurice198099 ($1.34 in chips) 
+Andyman750: posts small blind $0.01
+Mihalovics911: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 9d]
+Lorpugo: folds 
+DanteDenisAA: raises $0.03 to $0.05
+devloper42: folds 
+maurice198099: calls $0.05
+Andyman750: folds 
+Mihalovics911: calls $0.03
+*** FLOP *** [4c 4s Jh]
+Mihalovics911: checks 
+DanteDenisAA: checks 
+maurice198099: bets $0.15
+Mihalovics911: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.15) returned to maurice198099
+maurice198099 collected $0.15 from pot
+maurice198099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [4c 4s Jh]
+Seat 1: Andyman750 (small blind) folded before Flop
+Seat 2: Mihalovics911 (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded on the Flop
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 (button) collected ($0.15)
+
+
+
+PokerStars Hand #240727979564:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:23:41 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($0.79 in chips) 
+Seat 2: Mihalovics911 ($1.03 in chips) 
+Seat 3: Lorpugo ($1.51 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.74 in chips) 
+Seat 6: maurice198099 ($1.44 in chips) 
+Mihalovics911: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 7h]
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: raises $0.05 to $0.07
+Andyman750 has timed out
+Andyman750: folds 
+Mihalovics911: calls $0.06
+Lorpugo: calls $0.05
+*** FLOP *** [4c Js Tc]
+Mihalovics911: checks 
+Lorpugo: bets $0.07
+maurice198099: calls $0.07
+Mihalovics911: calls $0.07
+*** TURN *** [4c Js Tc] [Jd]
+Mihalovics911: checks 
+Lorpugo: checks 
+maurice198099: bets $0.41
+Mihalovics911: folds 
+Lorpugo: folds 
+Uncalled bet ($0.41) returned to maurice198099
+maurice198099 collected $0.41 from pot
+maurice198099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [4c Js Tc Jd]
+Seat 1: Andyman750 (button) folded before Flop (didn't bet)
+Seat 2: Mihalovics911 (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) folded on the Turn
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 collected ($0.41)
+
+
+
+PokerStars Hand #240728003600:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:24:50 ET
+Table 'Haworth' 6-max Seat #2 is the button
+Seat 1: Andyman750 ($0.79 in chips) 
+Seat 2: Mihalovics911 ($0.89 in chips) 
+Seat 3: Lorpugo ($1.37 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.74 in chips) 
+Seat 6: maurice198099 ($1.71 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7c]
+devloper42: folds 
+maurice198099: calls $0.02
+Andyman750 has timed out
+Andyman750: folds 
+Mihalovics911: raises $0.06 to $0.08
+Lorpugo: calls $0.07
+DanteDenisAA: folds 
+maurice198099: folds 
+*** FLOP *** [9c 7h 7s]
+Lorpugo: checks 
+Mihalovics911: checks 
+*** TURN *** [9c 7h 7s] [Th]
+Lorpugo: checks 
+Mihalovics911: checks 
+*** RIVER *** [9c 7h 7s Th] [Jd]
+Lorpugo: bets $0.26
+Mihalovics911: folds 
+Uncalled bet ($0.26) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9c 7h 7s Th Jd]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: Mihalovics911 (button) folded on the River
+Seat 3: Lorpugo (small blind) collected ($0.19)
+Seat 4: DanteDenisAA (big blind) folded before Flop
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 folded before Flop
+
+
+
+PokerStars Hand #240728031546:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:26:09 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($0.79 in chips) 
+Seat 2: Mihalovics911 ($0.81 in chips) 
+Seat 3: Lorpugo ($1.48 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.74 in chips) 
+Seat 6: maurice198099 ($1.69 in chips) 
+DanteDenisAA: posts small blind $0.01
+devloper42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 7s]
+maurice198099: folds 
+Andyman750: calls $0.02
+Mihalovics911 has timed out
+Mihalovics911: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: checks 
+*** FLOP *** [9c 9s 4d]
+devloper42: checks 
+Andyman750: checks 
+*** TURN *** [9c 9s 4d] [5s]
+devloper42: checks 
+Andyman750: bets $0.04
+devloper42: folds 
+Uncalled bet ($0.04) returned to Andyman750
+Andyman750 collected $0.05 from pot
+Andyman750: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c 9s 4d 5s]
+Seat 1: Andyman750 collected ($0.05)
+Seat 2: Mihalovics911 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (small blind) folded before Flop
+Seat 5: devloper42 (big blind) folded on the Turn
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728047086:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:26:53 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($0.82 in chips) 
+Seat 2: Mihalovics911 ($0.81 in chips) 
+Seat 3: Lorpugo ($1.48 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.72 in chips) 
+Seat 6: maurice198099 ($1.69 in chips) 
+devloper42: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Jd]
+Andyman750: raises $0.02 to $0.04
+Mihalovics911 has timed out
+Mihalovics911: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: calls $0.02
+*** FLOP *** [6h 4s Td]
+maurice198099: checks 
+Andyman750: checks 
+*** TURN *** [6h 4s Td] [Js]
+maurice198099: checks 
+Andyman750: checks 
+*** RIVER *** [6h 4s Td Js] [7h]
+maurice198099: bets $0.09
+Andyman750: folds 
+Uncalled bet ($0.09) returned to maurice198099
+maurice198099 collected $0.09 from pot
+maurice198099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h 4s Td Js 7h]
+Seat 1: Andyman750 folded on the River
+Seat 2: Mihalovics911 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 5: devloper42 (small blind) folded before Flop
+Seat 6: maurice198099 (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #240728062100:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:27:35 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($0.78 in chips) 
+Seat 3: Lorpugo ($1.48 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.71 in chips) 
+Seat 6: maurice198099 ($1.74 in chips) 
+maurice198099: posts small blind $0.01
+Andyman750: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 5s]
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: calls $0.01
+Andyman750: raises $0.04 to $0.06
+maurice198099: calls $0.04
+*** FLOP *** [3s 2h 7d]
+maurice198099: checks 
+Andyman750: bets $0.06
+maurice198099: calls $0.06
+*** TURN *** [3s 2h 7d] [9s]
+maurice198099: checks 
+Andyman750: bets $0.12
+maurice198099: folds 
+Uncalled bet ($0.12) returned to Andyman750
+Andyman750 collected $0.23 from pot
+Andyman750: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3s 2h 7d 9s]
+Seat 1: Andyman750 (big blind) collected ($0.23)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 (button) folded before Flop (didn't bet)
+Seat 6: maurice198099 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240728072440:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:28:04 ET
+Table 'Haworth' 6-max Seat #6 is the button
+Seat 1: Andyman750 ($0.89 in chips) 
+Seat 2: Mihalovics911 ($0.81 in chips) 
+Seat 3: Lorpugo ($1.48 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.71 in chips) 
+Seat 6: maurice198099 ($1.62 in chips) 
+Andyman750: posts small blind $0.01
+Mihalovics911: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 6d]
+Lorpugo: raises $0.02 to $0.04
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: folds 
+Andyman750: calls $0.03
+Mihalovics911: raises $0.04 to $0.08
+Lorpugo: folds 
+Andyman750: folds 
+Uncalled bet ($0.04) returned to Mihalovics911
+Mihalovics911 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Andyman750 (small blind) folded before Flop
+Seat 2: Mihalovics911 (big blind) collected ($0.12)
+Seat 3: Lorpugo folded before Flop
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728079406:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:28:24 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($0.85 in chips) 
+Seat 2: Mihalovics911 ($0.89 in chips) 
+Seat 3: Lorpugo ($1.44 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.71 in chips) 
+Seat 6: maurice198099 ($1.62 in chips) 
+Mihalovics911: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Th]
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: calls $0.02
+Andyman750: folds 
+Mihalovics911: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [2c Js 4s]
+Mihalovics911: checks 
+Lorpugo: checks 
+maurice198099: bets $0.06
+Mihalovics911: folds 
+Lorpugo: calls $0.06
+*** TURN *** [2c Js 4s] [4c]
+Lorpugo: checks 
+maurice198099: bets $0.09
+Lorpugo: calls $0.09
+*** RIVER *** [2c Js 4s 4c] [6c]
+Lorpugo: checks 
+maurice198099: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [2h Th] (two pair, Fours and Deuces)
+maurice198099: shows [8s Jh] (two pair, Jacks and Fours)
+maurice198099 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [2c Js 4s 4c 6c]
+Seat 1: Andyman750 (button) folded before Flop (didn't bet)
+Seat 2: Mihalovics911 (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) showed [2h Th] and lost with two pair, Fours and Deuces
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 showed [8s Jh] and won ($0.35) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #240728099185:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:29:20 ET
+Table 'Haworth' 6-max Seat #2 is the button
+Seat 1: Andyman750 ($0.85 in chips) 
+Seat 2: Mihalovics911 ($0.87 in chips) 
+Seat 3: Lorpugo ($1.27 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.71 in chips) 
+Seat 6: maurice198099 ($1.80 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Ad]
+devloper42: folds 
+maurice198099: raises $0.02 to $0.04
+Andyman750: folds 
+Mihalovics911: calls $0.04
+Lorpugo: raises $0.14 to $0.18
+DanteDenisAA: folds 
+maurice198099: folds 
+Mihalovics911: calls $0.14
+*** FLOP *** [Kc Jc Qd]
+Lorpugo: bets $1.09 and is all-in
+Mihalovics911: folds 
+Uncalled bet ($1.09) returned to Lorpugo
+Lorpugo collected $0.41 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Kc Jc Qd]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: Mihalovics911 (button) folded on the Flop
+Seat 3: Lorpugo (small blind) collected ($0.41)
+Seat 4: DanteDenisAA (big blind) folded before Flop
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 folded before Flop
+
+
+
+PokerStars Hand #240728109202:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:29:48 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($0.85 in chips) 
+Seat 2: Mihalovics911 ($0.69 in chips) 
+Seat 3: Lorpugo ($1.50 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.71 in chips) 
+Seat 6: maurice198099 ($1.76 in chips) 
+DanteDenisAA: posts small blind $0.01
+devloper42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ks]
+maurice198099: folds 
+Andyman750: calls $0.02
+Mihalovics911: folds 
+Lorpugo: raises $0.07 to $0.09
+DanteDenisAA: folds 
+devloper42: folds 
+Andyman750: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Andyman750 folded before Flop
+Seat 2: Mihalovics911 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.07)
+Seat 4: DanteDenisAA (small blind) folded before Flop
+Seat 5: devloper42 (big blind) folded before Flop
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728114626:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:30:03 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($0.83 in chips) 
+Seat 2: Mihalovics911 ($0.69 in chips) 
+Seat 3: Lorpugo ($1.55 in chips) 
+Seat 4: DanteDenisAA ($2 in chips) 
+Seat 5: devloper42 ($2.69 in chips) 
+Seat 6: maurice198099 ($1.76 in chips) 
+devloper42: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7d]
+Andyman750: folds 
+Mihalovics911: calls $0.02
+Lorpugo: folds 
+DanteDenisAA: raises $0.07 to $0.09
+devloper42: calls $0.08
+maurice198099: folds 
+Mihalovics911: calls $0.07
+*** FLOP *** [6c Tc 8d]
+devloper42: checks 
+Mihalovics911: checks 
+DanteDenisAA: bets $0.14
+devloper42: calls $0.14
+Mihalovics911: folds 
+*** TURN *** [6c Tc 8d] [9c]
+devloper42: bets $0.28
+DanteDenisAA: calls $0.28
+*** RIVER *** [6c Tc 8d 9c] [6d]
+devloper42: bets $0.58
+DanteDenisAA: calls $0.58
+*** SHOW DOWN ***
+devloper42: shows [Qc As] (a pair of Sixes)
+DanteDenisAA: shows [Ad Ac] (two pair, Aces and Sixes)
+DanteDenisAA collected $2.21 from pot
+*** SUMMARY ***
+Total pot $2.29 | Rake $0.08 
+Board [6c Tc 8d 9c 6d]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: Mihalovics911 folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (button) showed [Ad Ac] and won ($2.21) with two pair, Aces and Sixes
+Seat 5: devloper42 (small blind) showed [Qc As] and lost with a pair of Sixes
+Seat 6: maurice198099 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728141627:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:31:15 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($0.83 in chips) 
+Seat 2: Mihalovics911 ($0.60 in chips) 
+Seat 3: Lorpugo ($1.55 in chips) 
+Seat 4: DanteDenisAA ($3.12 in chips) 
+Seat 5: devloper42 ($1.60 in chips) 
+Seat 6: maurice198099 ($1.74 in chips) 
+maurice198099: posts small blind $0.01
+Andyman750: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 9h]
+Mihalovics911 has timed out
+Mihalovics911: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: raises $0.04 to $0.06
+Andyman750: calls $0.04
+*** FLOP *** [Th Ks Jh]
+maurice198099: bets $0.12
+Andyman750: calls $0.12
+*** TURN *** [Th Ks Jh] [As]
+maurice198099: bets $0.18
+Andyman750: raises $0.47 to $0.65 and is all-in
+maurice198099: folds 
+Uncalled bet ($0.47) returned to Andyman750
+Andyman750 collected $0.68 from pot
+Andyman750: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.04 
+Board [Th Ks Jh As]
+Seat 1: Andyman750 (big blind) collected ($0.68)
+Seat 2: Mihalovics911 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 (button) folded before Flop (didn't bet)
+Seat 6: maurice198099 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240728158330:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:32:00 ET
+Table 'Haworth' 6-max Seat #6 is the button
+Seat 1: Andyman750 ($1.15 in chips) 
+Seat 2: Mihalovics911 ($0.60 in chips) 
+Seat 3: Lorpugo ($1.55 in chips) 
+Seat 4: DanteDenisAA ($3.12 in chips) 
+Seat 5: devloper42 ($1.60 in chips) 
+Seat 6: maurice198099 ($1.38 in chips) 
+Andyman750: posts small blind $0.01
+Mihalovics911: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Td]
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: folds 
+Andyman750: folds 
+Uncalled bet ($0.01) returned to Mihalovics911
+Mihalovics911 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Andyman750 (small blind) folded before Flop
+Seat 2: Mihalovics911 (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728165333:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:32:18 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($1.14 in chips) 
+Seat 2: Mihalovics911 ($0.61 in chips) 
+Seat 3: Lorpugo ($1.55 in chips) 
+Seat 4: DanteDenisAA ($3.12 in chips) 
+Seat 5: devloper42 ($1.60 in chips) 
+Seat 6: maurice198099 ($1.38 in chips) 
+Mihalovics911: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 4s]
+DanteDenisAA: folds 
+devloper42: raises $0.04 to $0.06
+maurice198099: folds 
+Andyman750: calls $0.06
+Mihalovics911: raises $0.55 to $0.61 and is all-in
+Lorpugo: folds 
+devloper42: raises $0.99 to $1.60 and is all-in
+Andyman750: folds 
+Uncalled bet ($0.99) returned to devloper42
+*** FLOP *** [Kc 8c 3c]
+*** TURN *** [Kc 8c 3c] [Ad]
+*** RIVER *** [Kc 8c 3c Ad] [6h]
+*** SHOW DOWN ***
+Mihalovics911: shows [5c Ah] (a pair of Aces)
+devloper42: shows [Ac Kd] (two pair, Aces and Kings)
+devloper42 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [Kc 8c 3c Ad 6h]
+Seat 1: Andyman750 (button) folded before Flop
+Seat 2: Mihalovics911 (small blind) showed [5c Ah] and lost with a pair of Aces
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 showed [Ac Kd] and won ($1.25) with two pair, Aces and Kings
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728177780:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:32:51 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($1.08 in chips) 
+Seat 3: Lorpugo ($1.53 in chips) 
+Seat 4: DanteDenisAA ($3.12 in chips) 
+Seat 5: devloper42 ($2.24 in chips) 
+Seat 6: maurice198099 ($1.38 in chips) 
+DanteDenisAA: posts small blind $0.01
+devloper42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9s]
+maurice198099: calls $0.02
+Mihalovics911 leaves the table
+Andyman750: calls $0.02
+djulio94rike joins the table at seat #2 
+Lorpugo: folds 
+DanteDenisAA: raises $0.03 to $0.05
+devloper42: calls $0.03
+maurice198099: calls $0.03
+Andyman750: calls $0.03
+*** FLOP *** [Kh 4d 8h]
+DanteDenisAA: checks 
+devloper42: checks 
+maurice198099: checks 
+Andyman750: checks 
+*** TURN *** [Kh 4d 8h] [8d]
+DanteDenisAA: checks 
+devloper42: checks 
+maurice198099: bets $0.19
+Andyman750: calls $0.19
+DanteDenisAA: folds 
+devloper42: raises $0.39 to $0.58
+maurice198099: folds 
+Andyman750: calls $0.39
+*** RIVER *** [Kh 4d 8h 8d] [Tc]
+devloper42: checks 
+Andyman750: checks 
+*** SHOW DOWN ***
+devloper42: shows [7c 8c] (three of a kind, Eights)
+Andyman750: mucks hand 
+devloper42 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [Kh 4d 8h 8d Tc]
+Seat 1: Andyman750 mucked [9h Qh]
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (small blind) folded on the Turn
+Seat 5: devloper42 (big blind) showed [7c 8c] and won ($1.50) with three of a kind, Eights
+Seat 6: maurice198099 folded on the Turn
+
+
+
+PokerStars Hand #240728205301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:34:05 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($0.45 in chips) 
+Seat 3: Lorpugo ($1.53 in chips) 
+Seat 4: DanteDenisAA ($3.07 in chips) 
+Seat 5: devloper42 ($3.11 in chips) 
+Seat 6: maurice198099 ($1.14 in chips) 
+devloper42: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 3c]
+Andyman750: raises $0.02 to $0.04
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: calls $0.02
+*** FLOP *** [8h 9c As]
+maurice198099: checks 
+Andyman750: checks 
+*** TURN *** [8h 9c As] [Kh]
+maurice198099: bets $0.09
+Andyman750: calls $0.09
+*** RIVER *** [8h 9c As Kh] [4s]
+maurice198099: bets $0.13
+Andyman750: calls $0.13
+*** SHOW DOWN ***
+maurice198099: shows [2s 2c] (a pair of Deuces)
+Andyman750: shows [7s Ks] (a pair of Kings)
+Andyman750 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [8h 9c As Kh 4s]
+Seat 1: Andyman750 showed [7s Ks] and won ($0.51) with a pair of Kings
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 5: devloper42 (small blind) folded before Flop
+Seat 6: maurice198099 (big blind) showed [2s 2c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #240728219529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:34:43 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($0.70 in chips) 
+Seat 3: Lorpugo ($1.53 in chips) 
+Seat 4: DanteDenisAA ($3.07 in chips) 
+Seat 5: devloper42 ($3.10 in chips) 
+Seat 6: maurice198099 ($0.88 in chips) 
+maurice198099: posts small blind $0.01
+Andyman750: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 9c]
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: calls $0.05
+Andyman750: folds 
+*** FLOP *** [7c 6s Jc]
+maurice198099: checks 
+Lorpugo: checks 
+*** TURN *** [7c 6s Jc] [4s]
+maurice198099: checks 
+Lorpugo: checks 
+*** RIVER *** [7c 6s Jc 4s] [7h]
+maurice198099: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+maurice198099: shows [Kd Qd] (a pair of Sevens)
+Lorpugo: shows [Ad 9c] (a pair of Sevens - Ace kicker)
+Lorpugo collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c 6s Jc 4s 7h]
+Seat 1: Andyman750 (big blind) folded before Flop
+Seat 3: Lorpugo showed [Ad 9c] and won ($0.14) with a pair of Sevens
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 (button) folded before Flop (didn't bet)
+Seat 6: maurice198099 (small blind) showed [Kd Qd] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #240728236136:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:35:28 ET
+Table 'Haworth' 6-max Seat #6 is the button
+Seat 1: Andyman750 ($0.68 in chips) 
+Seat 2: djulio94rike ($2 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: DanteDenisAA ($3.07 in chips) 
+Seat 5: devloper42 ($3.10 in chips) 
+Seat 6: maurice198099 ($0.82 in chips) 
+Andyman750: posts small blind $0.01
+djulio94rike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qs]
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42: raises $0.04 to $0.06
+maurice198099: calls $0.06
+Andyman750: calls $0.05
+djulio94rike: calls $0.04
+*** FLOP *** [Qh As Jd]
+Andyman750: checks 
+djulio94rike: checks 
+devloper42: bets $0.08
+maurice198099: folds 
+Andyman750: calls $0.08
+djulio94rike: folds 
+*** TURN *** [Qh As Jd] [Jh]
+Andyman750: checks 
+devloper42: checks 
+*** RIVER *** [Qh As Jd Jh] [4h]
+Andyman750: checks 
+devloper42: checks 
+*** SHOW DOWN ***
+Andyman750: shows [Th Ts] (two pair, Jacks and Tens)
+devloper42: mucks hand 
+Andyman750 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Qh As Jd Jh 4h]
+Seat 1: Andyman750 (small blind) showed [Th Ts] and won ($0.39) with two pair, Jacks and Tens
+Seat 2: djulio94rike (big blind) folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 mucked [4s Ks]
+Seat 6: maurice198099 (button) folded on the Flop
+
+
+
+PokerStars Hand #240728255852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:36:20 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($0.93 in chips) 
+Seat 2: djulio94rike ($2 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: DanteDenisAA ($3.07 in chips) 
+Seat 5: devloper42 ($2.96 in chips) 
+djulio94rike: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Kc]
+DanteDenisAA: folds 
+devloper42: folds 
+Andyman750: folds 
+djulio94rike: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+djulio94rike: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Andyman750 (button) folded before Flop (didn't bet)
+Seat 2: djulio94rike (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.12)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728268599:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:36:54 ET
+Table 'Haworth' 6-max Seat #2 is the button
+Seat 1: Andyman750 ($0.93 in chips) 
+Seat 2: djulio94rike ($2 in chips) 
+Seat 3: Lorpugo ($1.67 in chips) 
+Seat 4: DanteDenisAA ($3.07 in chips) 
+Seat 5: devloper42 ($2.96 in chips) 
+Seat 6: maurice198099 ($0.76 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 9d]
+devloper42: folds 
+maurice198099: calls $0.02
+Andyman750: folds 
+djulio94rike: folds 
+Lorpugo: folds 
+DanteDenisAA: checks 
+*** FLOP *** [Td 3s 9c]
+DanteDenisAA: checks 
+maurice198099: bets $0.05
+DanteDenisAA: folds 
+Uncalled bet ($0.05) returned to maurice198099
+maurice198099 collected $0.05 from pot
+maurice198099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td 3s 9c]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: DanteDenisAA (big blind) folded on the Flop
+Seat 5: devloper42 folded before Flop (didn't bet)
+Seat 6: maurice198099 collected ($0.05)
+
+
+
+PokerStars Hand #240728279191:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:37:22 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($0.93 in chips) 
+Seat 2: djulio94rike ($2 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: DanteDenisAA ($3.05 in chips) 
+Seat 5: devloper42 ($2.96 in chips) 
+Seat 6: maurice198099 ($0.79 in chips) 
+DanteDenisAA: posts small blind $0.01
+devloper42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5s]
+maurice198099: folds 
+Andyman750: raises $0.02 to $0.04
+djulio94rike: folds 
+Lorpugo: calls $0.04
+DanteDenisAA: calls $0.03
+devloper42: raises $0.20 to $0.24
+Andyman750: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.20) returned to devloper42
+devloper42 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0 
+Seat 1: Andyman750 folded before Flop
+Seat 2: djulio94rike folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop
+Seat 4: DanteDenisAA (small blind) folded before Flop
+Seat 5: devloper42 (big blind) collected ($0.16)
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728288579:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:37:47 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($0.89 in chips) 
+Seat 2: djulio94rike ($2 in chips) 
+Seat 3: Lorpugo ($1.62 in chips) 
+Seat 4: DanteDenisAA ($3.01 in chips) 
+Seat 5: devloper42 ($3.08 in chips) 
+Seat 6: maurice198099 ($0.79 in chips) 
+devloper42: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 5h]
+Andyman750: folds 
+djulio94rike: raises $0.03 to $0.05
+Lorpugo: calls $0.05
+DanteDenisAA: folds 
+devloper42: folds 
+maurice198099: folds 
+*** FLOP *** [3s 7s 3h]
+djulio94rike: bets $0.10
+Lorpugo: calls $0.10
+*** TURN *** [3s 7s 3h] [9h]
+djulio94rike: bets $0.32
+Lorpugo: folds 
+Uncalled bet ($0.32) returned to djulio94rike
+djulio94rike collected $0.32 from pot
+djulio94rike: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [3s 7s 3h 9h]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike collected ($0.32)
+Seat 3: Lorpugo folded on the Turn
+Seat 4: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 5: devloper42 (small blind) folded before Flop
+Seat 6: maurice198099 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728302441:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:38:25 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($0.89 in chips) 
+Seat 2: djulio94rike ($2.17 in chips) 
+Seat 3: Lorpugo ($1.47 in chips) 
+Seat 4: DanteDenisAA ($3.01 in chips) 
+Seat 5: devloper42 ($3.07 in chips) 
+Seat 6: maurice198099 ($0.77 in chips) 
+maurice198099: posts small blind $0.01
+Andyman750: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Kd]
+djulio94rike: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+devloper42 has timed out
+devloper42: folds 
+maurice198099: calls $0.01
+Andyman750: checks 
+*** FLOP *** [4h Ah As]
+maurice198099: checks 
+Andyman750: checks 
+*** TURN *** [4h Ah As] [5c]
+devloper42 leaves the table
+goose418 joins the table at seat #5 
+maurice198099: bets $0.08
+Andyman750: folds 
+Uncalled bet ($0.08) returned to maurice198099
+maurice198099 collected $0.04 from pot
+maurice198099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4h Ah As 5c]
+Seat 1: Andyman750 (big blind) folded on the Turn
+Seat 2: djulio94rike folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: devloper42 (button) folded before Flop (didn't bet)
+Seat 6: maurice198099 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240728319903:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:39:12 ET
+Table 'Haworth' 6-max Seat #6 is the button
+Seat 1: Andyman750 ($0.87 in chips) 
+Seat 2: djulio94rike ($2.17 in chips) 
+Seat 3: Lorpugo ($1.47 in chips) 
+Seat 4: DanteDenisAA ($3.01 in chips) 
+Seat 6: maurice198099 ($0.79 in chips) 
+Andyman750: posts small blind $0.01
+djulio94rike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Th]
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: folds 
+maurice198099: folds 
+Andyman750: calls $0.05
+djulio94rike: folds 
+*** FLOP *** [4s Qd 6s]
+Andyman750: checks 
+Lorpugo: bets $0.06
+Andyman750: calls $0.06
+*** TURN *** [4s Qd 6s] [7d]
+Andyman750: checks 
+Lorpugo: checks 
+*** RIVER *** [4s Qd 6s 7d] [Kd]
+Andyman750: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Andyman750: shows [Ad 5s] (high card Ace)
+Lorpugo: mucks hand 
+Andyman750 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [4s Qd 6s 7d Kd]
+Seat 1: Andyman750 (small blind) showed [Ad 5s] and won ($0.25) with high card Ace
+Seat 2: djulio94rike (big blind) folded before Flop
+Seat 3: Lorpugo mucked [Jh Th]
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 6: maurice198099 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728333665:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:39:49 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($1 in chips) 
+Seat 2: djulio94rike ($2.15 in chips) 
+Seat 3: Lorpugo ($1.35 in chips) 
+Seat 4: DanteDenisAA ($3.01 in chips) 
+Seat 6: maurice198099 ($0.79 in chips) 
+djulio94rike: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 2d]
+DanteDenisAA: folds 
+maurice198099: calls $0.02
+Andyman750: folds 
+djulio94rike: raises $0.08 to $0.10
+Lorpugo: folds 
+maurice198099: folds 
+Uncalled bet ($0.08) returned to djulio94rike
+djulio94rike collected $0.06 from pot
+djulio94rike: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Andyman750 (button) folded before Flop (didn't bet)
+Seat 2: djulio94rike (small blind) collected ($0.06)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 6: maurice198099 folded before Flop
+
+
+
+PokerStars Hand #240728340390:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:40:07 ET
+Table 'Haworth' 6-max Seat #2 is the button
+Seat 1: Andyman750 ($1 in chips) 
+Seat 2: djulio94rike ($2.19 in chips) 
+Seat 3: Lorpugo ($1.33 in chips) 
+Seat 4: DanteDenisAA ($3.01 in chips) 
+Seat 6: maurice198099 ($0.77 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6d]
+maurice198099: raises $0.05 to $0.07
+Andyman750: folds 
+djulio94rike: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.05) returned to maurice198099
+maurice198099 collected $0.05 from pot
+maurice198099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: DanteDenisAA (big blind) folded before Flop
+Seat 6: maurice198099 collected ($0.05)
+
+
+
+PokerStars Hand #240728347519:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:40:27 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($1 in chips) 
+Seat 2: djulio94rike ($2.19 in chips) 
+Seat 3: Lorpugo ($1.32 in chips) 
+Seat 4: DanteDenisAA ($2.99 in chips) 
+Seat 5: goose418 ($2 in chips) 
+Seat 6: maurice198099 ($0.80 in chips) 
+DanteDenisAA: posts small blind $0.01
+goose418: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3c]
+maurice198099: calls $0.02
+Andyman750: folds 
+djulio94rike: raises $0.07 to $0.09
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: raises $0.13 to $0.22
+maurice198099: folds 
+djulio94rike: calls $0.13
+*** FLOP *** [9s 5s 2s]
+goose418: checks 
+djulio94rike: bets $0.15
+goose418: calls $0.15
+*** TURN *** [9s 5s 2s] [3h]
+goose418: checks 
+djulio94rike: bets $0.48
+goose418: calls $0.48
+*** RIVER *** [9s 5s 2s 3h] [2h]
+goose418: checks 
+djulio94rike: bets $1.34 and is all-in
+goose418: folds 
+Uncalled bet ($1.34) returned to djulio94rike
+djulio94rike collected $1.67 from pot
+djulio94rike: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.73 | Rake $0.06 
+Board [9s 5s 2s 3h 2h]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike collected ($1.67)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (small blind) folded before Flop
+Seat 5: goose418 (big blind) folded on the River
+Seat 6: maurice198099 folded before Flop
+
+
+
+PokerStars Hand #240728378913:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:41:51 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($1 in chips) 
+Seat 2: djulio94rike ($3.01 in chips) 
+Seat 3: Lorpugo ($1.32 in chips) 
+Seat 4: DanteDenisAA ($2.98 in chips) 
+Seat 5: goose418 ($2 in chips) 
+Seat 6: maurice198099 ($0.78 in chips) 
+goose418: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 4c]
+Andyman750: folds 
+djulio94rike: raises $0.03 to $0.05
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: calls $0.04
+maurice198099: folds 
+*** FLOP *** [2h 3s Js]
+goose418: bets $0.06
+djulio94rike: raises $0.19 to $0.25
+goose418: calls $0.19
+*** TURN *** [2h 3s Js] [5c]
+goose418: checks 
+djulio94rike: checks 
+*** RIVER *** [2h 3s Js 5c] [7h]
+goose418: bets $0.60
+djulio94rike: folds 
+Uncalled bet ($0.60) returned to goose418
+goose418 collected $0.60 from pot
+goose418: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [2h 3s Js 5c 7h]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike folded on the River
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 5: goose418 (small blind) collected ($0.60)
+Seat 6: maurice198099 (big blind) folded before Flop
+
+
+
+PokerStars Hand #240728397187:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:42:40 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($1 in chips) 
+Seat 2: djulio94rike ($2.71 in chips) 
+Seat 3: Lorpugo ($1.32 in chips) 
+Seat 4: DanteDenisAA ($2.98 in chips) 
+Seat 5: goose418 ($2.30 in chips) 
+Seat 6: maurice198099 ($0.76 in chips) 
+maurice198099: posts small blind $0.01
+Andyman750: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6s]
+djulio94rike: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: raises $0.04 to $0.06
+maurice198099: folds 
+Andyman750: folds 
+Uncalled bet ($0.04) returned to goose418
+goose418 collected $0.05 from pot
+goose418: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Andyman750 (big blind) folded before Flop
+Seat 2: djulio94rike folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: goose418 (button) collected ($0.05)
+Seat 6: maurice198099 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240728405524:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:43:03 ET
+Table 'Haworth' 6-max Seat #6 is the button
+Seat 1: Andyman750 ($0.98 in chips) 
+Seat 2: djulio94rike ($2.71 in chips) 
+Seat 3: Lorpugo ($1.32 in chips) 
+Seat 4: DanteDenisAA ($2.98 in chips) 
+Seat 5: goose418 ($2.33 in chips) 
+Seat 6: maurice198099 ($0.75 in chips) 
+Andyman750: posts small blind $0.01
+djulio94rike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 9c]
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: folds 
+goose418: raises $0.08 to $0.14
+maurice198099: folds 
+Andyman750: folds 
+djulio94rike: folds 
+Lorpugo: calls $0.08
+*** FLOP *** [6c Kh 2c]
+Lorpugo: checks 
+goose418: checks 
+*** TURN *** [6c Kh 2c] [Ts]
+Lorpugo: checks 
+goose418: bets $0.22
+Lorpugo: folds 
+Uncalled bet ($0.22) returned to goose418
+goose418 collected $0.30 from pot
+goose418: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [6c Kh 2c Ts]
+Seat 1: Andyman750 (small blind) folded before Flop
+Seat 2: djulio94rike (big blind) folded before Flop
+Seat 3: Lorpugo folded on the Turn
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: goose418 collected ($0.30)
+Seat 6: maurice198099 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728424973:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:43:56 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($0.97 in chips) 
+Seat 2: djulio94rike ($2.69 in chips) 
+Seat 3: Lorpugo ($1.18 in chips) 
+Seat 4: DanteDenisAA ($2.98 in chips) 
+Seat 5: goose418 ($2.49 in chips) 
+Seat 6: maurice198099 ($0.75 in chips) 
+djulio94rike: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 9c]
+DanteDenisAA: folds 
+goose418: folds 
+maurice198099: folds 
+Andyman750: folds 
+djulio94rike: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Andyman750 (button) folded before Flop (didn't bet)
+Seat 2: djulio94rike (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.02)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: goose418 folded before Flop (didn't bet)
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728431090:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:44:13 ET
+Table 'Haworth' 6-max Seat #2 is the button
+Seat 1: Andyman750 ($0.97 in chips) 
+Seat 2: djulio94rike ($2.68 in chips) 
+Seat 3: Lorpugo ($1.19 in chips) 
+Seat 4: DanteDenisAA ($2.98 in chips) 
+Seat 5: goose418 ($2.49 in chips) 
+Seat 6: maurice198099 ($0.75 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 2s]
+goose418: folds 
+maurice198099: folds 
+Andyman750: folds 
+djulio94rike: folds 
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: raises $0.12 to $0.18
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to DanteDenisAA
+DanteDenisAA collected $0.12 from pot
+DanteDenisAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: DanteDenisAA (big blind) collected ($0.12)
+Seat 5: goose418 folded before Flop (didn't bet)
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728444078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:44:48 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($0.97 in chips) 
+Seat 2: djulio94rike ($2.68 in chips) 
+Seat 3: Lorpugo ($1.13 in chips) 
+Seat 4: DanteDenisAA ($3.04 in chips) 
+Seat 5: goose418 ($2.49 in chips) 
+Seat 6: maurice198099 ($0.75 in chips) 
+DanteDenisAA: posts small blind $0.01
+goose418: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4d]
+maurice198099: raises $0.04 to $0.06
+Andyman750: folds 
+djulio94rike: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: calls $0.04
+*** FLOP *** [8s 5d 9s]
+goose418: checks 
+maurice198099: bets $0.13
+goose418: raises $0.17 to $0.30
+maurice198099: folds 
+Uncalled bet ($0.17) returned to goose418
+goose418 collected $0.38 from pot
+goose418: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [8s 5d 9s]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (small blind) folded before Flop
+Seat 5: goose418 (big blind) collected ($0.38)
+Seat 6: maurice198099 folded on the Flop
+
+
+
+PokerStars Hand #240728460979:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:45:33 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($0.97 in chips) 
+Seat 2: djulio94rike ($2.68 in chips) 
+Seat 3: Lorpugo ($1.13 in chips) 
+Seat 4: DanteDenisAA ($3.03 in chips) 
+Seat 5: goose418 ($2.68 in chips) 
+Seat 6: maurice198099 ($0.56 in chips) 
+goose418: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 2c]
+Andyman750: folds 
+djulio94rike: raises $0.03 to $0.05
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: folds 
+maurice198099: calls $0.03
+*** FLOP *** [2h Kc Tc]
+maurice198099: checks 
+djulio94rike: bets $0.07
+maurice198099: folds 
+Uncalled bet ($0.07) returned to djulio94rike
+djulio94rike collected $0.11 from pot
+djulio94rike: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2h Kc Tc]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike collected ($0.11)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 5: goose418 (small blind) folded before Flop
+Seat 6: maurice198099 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240728471636:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:46:01 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($0.97 in chips) 
+Seat 2: djulio94rike ($2.74 in chips) 
+Seat 3: Lorpugo ($1.13 in chips) 
+Seat 4: DanteDenisAA ($3.03 in chips) 
+Seat 5: goose418 ($2.67 in chips) 
+Seat 6: maurice198099 ($0.51 in chips) 
+maurice198099: posts small blind $0.01
+Andyman750: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Qs]
+djulio94rike: folds 
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: folds 
+maurice198099: calls $0.01
+Andyman750: checks 
+*** FLOP *** [5h 2s 9d]
+maurice198099: bets $0.04
+Andyman750: folds 
+Uncalled bet ($0.04) returned to maurice198099
+maurice198099 collected $0.04 from pot
+maurice198099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5h 2s 9d]
+Seat 1: Andyman750 (big blind) folded on the Flop
+Seat 2: djulio94rike folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: goose418 (button) folded before Flop (didn't bet)
+Seat 6: maurice198099 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #240728480974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:46:27 ET
+Table 'Haworth' 6-max Seat #6 is the button
+Seat 1: Andyman750 ($0.95 in chips) 
+Seat 2: djulio94rike ($2.74 in chips) 
+Seat 3: Lorpugo ($1.13 in chips) 
+Seat 4: DanteDenisAA ($3.03 in chips) 
+Seat 5: goose418 ($2.67 in chips) 
+Seat 6: maurice198099 ($0.53 in chips) 
+Andyman750: posts small blind $0.01
+djulio94rike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qs]
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: folds 
+goose418: folds 
+maurice198099: folds 
+Andyman750: folds 
+djulio94rike: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Andyman750 (small blind) folded before Flop
+Seat 2: djulio94rike (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: goose418 folded before Flop (didn't bet)
+Seat 6: maurice198099 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728487976:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:46:45 ET
+Table 'Haworth' 6-max Seat #1 is the button
+Seat 1: Andyman750 ($0.94 in chips) 
+Seat 2: djulio94rike ($2.72 in chips) 
+Seat 3: Lorpugo ($1.16 in chips) 
+Seat 4: DanteDenisAA ($3.03 in chips) 
+Seat 5: goose418 ($2.67 in chips) 
+Seat 6: maurice198099 ($0.53 in chips) 
+djulio94rike: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5h]
+DanteDenisAA: folds 
+goose418: folds 
+maurice198099: folds 
+Andyman750: raises $0.02 to $0.04
+djulio94rike: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [As 9d 5d]
+Lorpugo: checks 
+Andyman750: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [As 9d 5d] [7d]
+Lorpugo: checks 
+Andyman750: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Andyman750
+Andyman750 collected $0.13 from pot
+Andyman750: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [As 9d 5d 7d]
+Seat 1: Andyman750 (button) collected ($0.13)
+Seat 2: djulio94rike (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Turn
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: goose418 folded before Flop (didn't bet)
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728503274:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:47:26 ET
+Table 'Haworth' 6-max Seat #2 is the button
+Seat 1: Andyman750 ($1.01 in chips) 
+Seat 2: djulio94rike ($2.71 in chips) 
+Seat 3: Lorpugo ($1.10 in chips) 
+Seat 4: DanteDenisAA ($3.03 in chips) 
+Seat 5: goose418 ($2.67 in chips) 
+Seat 6: maurice198099 ($0.53 in chips) 
+Lorpugo: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 7h]
+goose418: folds 
+maurice198099: folds 
+Andyman750: folds 
+djulio94rike: folds 
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: DanteDenisAA (big blind) folded before Flop
+Seat 5: goose418 folded before Flop (didn't bet)
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728513378:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:47:53 ET
+Table 'Haworth' 6-max Seat #3 is the button
+Seat 1: Andyman750 ($1.01 in chips) 
+Seat 2: djulio94rike ($2.71 in chips) 
+Seat 3: Lorpugo ($1.12 in chips) 
+Seat 4: DanteDenisAA ($3.01 in chips) 
+Seat 5: goose418 ($2.67 in chips) 
+Seat 6: maurice198099 ($0.53 in chips) 
+DanteDenisAA: posts small blind $0.01
+goose418: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 5d]
+maurice198099: folds 
+Andyman750: folds 
+djulio94rike: raises $0.03 to $0.05
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: calls $0.03
+*** FLOP *** [7c Td 5c]
+goose418: checks 
+djulio94rike: checks 
+*** TURN *** [7c Td 5c] [5h]
+goose418: bets $0.06
+djulio94rike: calls $0.06
+*** RIVER *** [7c Td 5c 5h] [Th]
+goose418: checks 
+djulio94rike: checks 
+*** SHOW DOWN ***
+goose418: shows [8h 7d] (two pair, Tens and Sevens)
+djulio94rike: mucks hand 
+goose418 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [7c Td 5c 5h Th]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike mucked [Ac Jd]
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: DanteDenisAA (small blind) folded before Flop
+Seat 5: goose418 (big blind) showed [8h 7d] and won ($0.22) with two pair, Tens and Sevens
+Seat 6: maurice198099 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240728530684:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:48:39 ET
+Table 'Haworth' 6-max Seat #4 is the button
+Seat 1: Andyman750 ($1.01 in chips) 
+Seat 2: djulio94rike ($2.60 in chips) 
+Seat 3: Lorpugo ($1.12 in chips) 
+Seat 4: DanteDenisAA ($3 in chips) 
+Seat 5: goose418 ($2.78 in chips) 
+Seat 6: maurice198099 ($0.53 in chips) 
+goose418: posts small blind $0.01
+maurice198099: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh As]
+Andyman750: folds 
+djulio94rike: folds 
+Lorpugo: raises $0.04 to $0.06
+DanteDenisAA: folds 
+goose418: folds 
+maurice198099: calls $0.04
+*** FLOP *** [7c Jd 2h]
+maurice198099: checks 
+Lorpugo: bets $0.07
+maurice198099: calls $0.07
+*** TURN *** [7c Jd 2h] [Qs]
+maurice198099: checks 
+Lorpugo: bets $0.13
+maurice198099: calls $0.13
+*** RIVER *** [7c Jd 2h Qs] [Th]
+maurice198099: bets $0.26
+Lorpugo: raises $0.60 to $0.86 and is all-in
+maurice198099: calls $0.01 and is all-in
+Uncalled bet ($0.59) returned to Lorpugo
+*** SHOW DOWN ***
+Lorpugo: shows [Qh As] (a pair of Queens)
+maurice198099: shows [2d Kd] (a pair of Deuces)
+Lorpugo collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [7c Jd 2h Qs Th]
+Seat 1: Andyman750 folded before Flop (didn't bet)
+Seat 2: djulio94rike folded before Flop (didn't bet)
+Seat 3: Lorpugo showed [Qh As] and won ($1.03) with a pair of Queens
+Seat 4: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 5: goose418 (small blind) folded before Flop
+Seat 6: maurice198099 (big blind) showed [2d Kd] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #240728547982:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/27 11:49:25 ET
+Table 'Haworth' 6-max Seat #5 is the button
+Seat 1: Andyman750 ($1.01 in chips) 
+Seat 2: djulio94rike ($2.60 in chips) 
+Seat 3: Lorpugo ($1.62 in chips) 
+Seat 4: DanteDenisAA ($3 in chips) 
+Seat 5: goose418 ($2.77 in chips) 
+Andyman750: posts small blind $0.01
+djulio94rike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 7c]
+Lorpugo: folds 
+DanteDenisAA: folds 
+goose418: folds 
+Andyman750: folds 
+Uncalled bet ($0.01) returned to djulio94rike
+djulio94rike collected $0.02 from pot
+djulio94rike: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Andyman750 (small blind) folded before Flop
+Seat 2: djulio94rike (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: goose418 (button) folded before Flop (didn't bet)
+
+
+

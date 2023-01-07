@@ -1,0 +1,647 @@
+﻿PokerStars Hand #240818381548:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:01:40 ET
+Table 'Alrai II' 6-max Seat #5 is the button
+Seat 1: Michajunior01 ($1.61 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: mo Abdi110 ($1.37 in chips) 
+Seat 4: Johannes230 ($1.97 in chips) 
+Seat 5: ramon1985806 ($1.87 in chips) 
+Michajunior01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3h]
+mo Abdi110: calls $0.02
+Johannes230: calls $0.02
+ramon1985806: folds 
+Michajunior01: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [6d Td 3s]
+Michajunior01: checks 
+Lorpugo: checks 
+mo Abdi110: bets $0.04
+Johannes230: raises $0.04 to $0.08
+Michajunior01: folds 
+Lorpugo: folds 
+mo Abdi110: calls $0.04
+*** TURN *** [6d Td 3s] [7c]
+mo Abdi110: bets $0.02
+Johannes230: calls $0.02
+*** RIVER *** [6d Td 3s 7c] [6s]
+mo Abdi110: checks 
+Johannes230: checks 
+*** SHOW DOWN ***
+mo Abdi110: shows [Jd 7d] (two pair, Sevens and Sixes)
+Johannes230: shows [Th Ad] (two pair, Tens and Sixes)
+Johannes230 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6d Td 3s 7c 6s]
+Seat 1: Michajunior01 (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: mo Abdi110 showed [Jd 7d] and lost with two pair, Sevens and Sixes
+Seat 4: Johannes230 showed [Th Ad] and won ($0.27) with two pair, Tens and Sixes
+Seat 5: ramon1985806 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818392071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:02:20 ET
+Table 'Alrai II' 6-max Seat #1 is the button
+Seat 1: Michajunior01 ($1.59 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: mo Abdi110 ($1.25 in chips) 
+Seat 4: Johannes230 ($2.12 in chips) 
+Seat 5: ramon1985806 ($1.87 in chips) 
+Lorpugo: posts small blind $0.01
+mo Abdi110: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jc]
+Johannes230: folds 
+ramon1985806: raises $0.04 to $0.06
+Michajunior01: calls $0.06
+Lorpugo: folds 
+mo Abdi110: raises $0.04 to $0.10
+ramon1985806: calls $0.04
+Michajunior01: calls $0.04
+*** FLOP *** [Ts Tc 3d]
+mo Abdi110: bets $1.15 and is all-in
+ramon1985806: raises $0.62 to $1.77 and is all-in
+Michajunior01: folds 
+Uncalled bet ($0.62) returned to ramon1985806
+*** TURN *** [Ts Tc 3d] [7s]
+*** RIVER *** [Ts Tc 3d 7s] [Kh]
+*** SHOW DOWN ***
+mo Abdi110: shows [7c 9c] (two pair, Tens and Sevens)
+ramon1985806: shows [8s Th] (three of a kind, Tens)
+ramon1985806 collected $2.52 from pot
+mo Abdi110 cashed out the hand for $0.08
+*** SUMMARY ***
+Total pot $2.61 | Rake $0.09 
+Board [Ts Tc 3d 7s Kh]
+Seat 1: Michajunior01 (button) folded on the Flop
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: mo Abdi110 (big blind) showed [7c 9c] and lost with two pair, Tens and Sevens (cashed out).
+Seat 4: Johannes230 folded before Flop (didn't bet)
+Seat 5: ramon1985806 showed [8s Th] and won ($2.52) with three of a kind, Tens
+
+
+
+PokerStars Hand #240818406826:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:03:16 ET
+Table 'Alrai II' 6-max Seat #2 is the button
+Seat 1: Michajunior01 ($1.49 in chips) 
+Seat 2: Lorpugo ($1.57 in chips) 
+Seat 3: mo Abdi110 ($0.08 in chips) 
+Seat 4: Johannes230 ($2.12 in chips) 
+Seat 5: ramon1985806 ($3.14 in chips) 
+mo Abdi110: posts small blind $0.01
+Johannes230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jc]
+ramon1985806: folds 
+Michajunior01: folds 
+Lorpugo: raises $0.04 to $0.06
+mo Abdi110: raises $0.02 to $0.08 and is all-in
+Johannes230: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [5c 9s Ts]
+*** TURN *** [5c 9s Ts] [Ah]
+*** RIVER *** [5c 9s Ts Ah] [3h]
+*** SHOW DOWN ***
+mo Abdi110: shows [2s 8s] (high card Ace)
+Lorpugo: shows [7h Jc] (high card Ace - Jack kicker)
+Lorpugo collected $0.17 from pot
+mo Abdi110 cashed out the hand for $0.07
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5c 9s Ts Ah 3h]
+Seat 1: Michajunior01 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [7h Jc] and won ($0.17) with high card Ace
+Seat 3: mo Abdi110 (small blind) showed [2s 8s] and lost with high card Ace (cashed out).
+Seat 4: Johannes230 (big blind) folded before Flop
+Seat 5: ramon1985806 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818416027:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:03:51 ET
+Table 'Alrai II' 6-max Seat #3 is the button
+Seat 1: Michajunior01 ($1.49 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: mo Abdi110 ($0.07 in chips) 
+Seat 4: Johannes230 ($2.10 in chips) 
+Seat 5: ramon1985806 ($3.14 in chips) 
+Johannes230: posts small blind $0.01
+ramon1985806: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8c]
+Michajunior01: calls $0.02
+Lorpugo: folds 
+mo Abdi110: raises $0.05 to $0.07 and is all-in
+Johannes230: folds 
+ramon1985806: calls $0.05
+Michajunior01: calls $0.05
+*** FLOP *** [5h Ah 2h]
+ramon1985806: checks 
+Michajunior01: checks 
+*** TURN *** [5h Ah 2h] [4d]
+ramon1985806: checks 
+Michajunior01: checks 
+*** RIVER *** [5h Ah 2h 4d] [5d]
+ramon1985806: checks 
+Michajunior01: checks 
+*** SHOW DOWN ***
+ramon1985806: shows [8s 9d] (a pair of Fives)
+Michajunior01: shows [9c Kc] (a pair of Fives - Ace+King kicker)
+mo Abdi110: shows [6s 6h] (two pair, Sixes and Fives)
+mo Abdi110 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5h Ah 2h 4d 5d]
+Seat 1: Michajunior01 showed [9c Kc] and lost with a pair of Fives
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: mo Abdi110 (button) showed [6s 6h] and won ($0.21) with two pair, Sixes and Fives
+Seat 4: Johannes230 (small blind) folded before Flop
+Seat 5: ramon1985806 (big blind) showed [8s 9d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #240818424398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:04:22 ET
+Table 'Alrai II' 6-max Seat #4 is the button
+Seat 1: Michajunior01 ($1.42 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 3: mo Abdi110 ($0.21 in chips) 
+Seat 4: Johannes230 ($2.09 in chips) 
+Seat 5: ramon1985806 ($3.07 in chips) 
+ramon1985806: posts small blind $0.01
+Michajunior01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Tc]
+Lorpugo has timed out
+Lorpugo: folds 
+mo Abdi110: calls $0.02
+Johannes230: calls $0.02
+ramon1985806: folds 
+Michajunior01: checks 
+*** FLOP *** [8h Qs 5d]
+Michajunior01: checks 
+mo Abdi110: checks 
+Johannes230: checks 
+*** TURN *** [8h Qs 5d] [9c]
+Michajunior01: bets $0.07
+mo Abdi110: calls $0.07
+Johannes230: folds 
+*** RIVER *** [8h Qs 5d 9c] [2s]
+Michajunior01: bets $0.20
+mo Abdi110: calls $0.12 and is all-in
+Uncalled bet ($0.08) returned to Michajunior01
+*** SHOW DOWN ***
+Michajunior01: shows [7d 6s] (a straight, Five to Nine)
+mo Abdi110: shows [7c 8d] (a pair of Eights)
+Michajunior01 collected $0.43 from pot
+KingRyanSzabo leaves the table
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8h Qs 5d 9c 2s]
+Seat 1: Michajunior01 (big blind) showed [7d 6s] and won ($0.43) with a straight, Five to Nine
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: mo Abdi110 showed [7c 8d] and lost with a pair of Eights
+Seat 4: Johannes230 (button) folded on the Turn
+Seat 5: ramon1985806 (small blind) folded before Flop
+
+
+
+PokerStars Hand #240818436299:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:05:07 ET
+Table 'Alrai II' 6-max Seat #5 is the button
+Seat 1: Michajunior01 ($1.64 in chips) 
+Seat 2: Lorpugo ($1.66 in chips) 
+Seat 4: Johannes230 ($2.07 in chips) 
+Seat 5: ramon1985806 ($3.06 in chips) 
+Michajunior01: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2s]
+Johannes230: calls $0.02
+ramon1985806: raises $0.04 to $0.06
+Michajunior01: folds 
+chillyp28 joins the table at seat #6 
+Lorpugo: folds 
+Johannes230: calls $0.04
+*** FLOP *** [5h Js 4d]
+Johannes230: checks 
+ramon1985806: bets $0.08
+Johannes230: folds 
+Uncalled bet ($0.08) returned to ramon1985806
+ramon1985806 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5h Js 4d]
+Seat 1: Michajunior01 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: Johannes230 folded on the Flop
+Seat 5: ramon1985806 (button) collected ($0.14)
+
+
+
+PokerStars Hand #240818443919:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:05:35 ET
+Table 'Alrai II' 6-max Seat #1 is the button
+Seat 1: Michajunior01 ($1.63 in chips) 
+Seat 2: Lorpugo ($1.64 in chips) 
+Seat 3: mo Abdi110 ($2 in chips) 
+Seat 4: Johannes230 ($2.01 in chips) 
+Seat 5: ramon1985806 ($3.14 in chips) 
+Seat 6: chillyp28 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+mo Abdi110: posts big blind $0.02
+chillyp28: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qs]
+Johannes230: calls $0.02
+ramon1985806: raises $0.02 to $0.04
+chillyp28: folds 
+Michajunior01: folds 
+Lorpugo: calls $0.03
+mo Abdi110: calls $0.02
+Johannes230: calls $0.02
+*** FLOP *** [8d 5s 4d]
+Lorpugo: checks 
+mo Abdi110: checks 
+Johannes230: bets $0.06
+ramon1985806: folds 
+Lorpugo: folds 
+mo Abdi110: calls $0.06
+*** TURN *** [8d 5s 4d] [5h]
+mo Abdi110: checks 
+Johannes230: checks 
+*** RIVER *** [8d 5s 4d 5h] [9h]
+mo Abdi110: checks 
+Johannes230: checks 
+*** SHOW DOWN ***
+mo Abdi110: shows [7c 2h] (a pair of Fives)
+Johannes230: shows [Js 8h] (two pair, Eights and Fives)
+Johannes230 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8d 5s 4d 5h 9h]
+Seat 1: Michajunior01 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: mo Abdi110 (big blind) showed [7c 2h] and lost with a pair of Fives
+Seat 4: Johannes230 showed [Js 8h] and won ($0.29) with two pair, Eights and Fives
+Seat 5: ramon1985806 folded on the Flop
+Seat 6: chillyp28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818459310:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:06:33 ET
+Table 'Alrai II' 6-max Seat #2 is the button
+Seat 1: Michajunior01 ($1.63 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: mo Abdi110 ($1.90 in chips) 
+Seat 4: Johannes230 ($2.20 in chips) 
+Seat 5: ramon1985806 ($3.10 in chips) 
+Seat 6: chillyp28 ($1.98 in chips) 
+mo Abdi110: posts small blind $0.01
+Johannes230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 3s]
+ramon1985806: folds 
+chillyp28: calls $0.02
+Michajunior01: folds 
+Lorpugo: folds 
+mo Abdi110: calls $0.01
+Johannes230: raises $0.04 to $0.06
+chillyp28: calls $0.04
+mo Abdi110: calls $0.04
+*** FLOP *** [5h 5c 2c]
+mo Abdi110: checks 
+Johannes230: checks 
+chillyp28: checks 
+*** TURN *** [5h 5c 2c] [7s]
+mo Abdi110: checks 
+Johannes230: checks 
+chillyp28: checks 
+*** RIVER *** [5h 5c 2c 7s] [Ks]
+mo Abdi110: checks 
+Johannes230: bets $0.09
+chillyp28: raises $0.09 to $0.18
+mo Abdi110: folds 
+Johannes230: folds 
+Uncalled bet ($0.09) returned to chillyp28
+chillyp28 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5h 5c 2c 7s Ks]
+Seat 1: Michajunior01 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: mo Abdi110 (small blind) folded on the River
+Seat 4: Johannes230 (big blind) folded on the River
+Seat 5: ramon1985806 folded before Flop (didn't bet)
+Seat 6: chillyp28 collected ($0.35)
+
+
+
+PokerStars Hand #240818475004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:07:32 ET
+Table 'Alrai II' 6-max Seat #3 is the button
+Seat 1: Michajunior01 ($1.63 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: mo Abdi110 ($1.84 in chips) 
+Seat 4: Johannes230 ($2.05 in chips) 
+Seat 5: ramon1985806 ($3.10 in chips) 
+Seat 6: chillyp28 ($2.18 in chips) 
+Johannes230: posts small blind $0.01
+ramon1985806: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 3s]
+chillyp28: calls $0.02
+Michajunior01: folds 
+Lorpugo: folds 
+mo Abdi110: calls $0.02
+Johannes230: calls $0.01
+ramon1985806: checks 
+*** FLOP *** [6h 2h 4d]
+Johannes230: checks 
+ramon1985806: bets $0.06
+chillyp28: calls $0.06
+mo Abdi110: calls $0.06
+Johannes230: folds 
+*** TURN *** [6h 2h 4d] [2s]
+ramon1985806: checks 
+chillyp28: checks 
+mo Abdi110: checks 
+*** RIVER *** [6h 2h 4d 2s] [Qs]
+ramon1985806: checks 
+chillyp28: checks 
+mo Abdi110: checks 
+*** SHOW DOWN ***
+ramon1985806: shows [6s 5c] (two pair, Sixes and Deuces)
+chillyp28: mucks hand 
+mo Abdi110: mucks hand 
+ramon1985806 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6h 2h 4d 2s Qs]
+Seat 1: Michajunior01 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: mo Abdi110 (button) mucked [Ks 3h]
+Seat 4: Johannes230 (small blind) folded on the Flop
+Seat 5: ramon1985806 (big blind) showed [6s 5c] and won ($0.25) with two pair, Sixes and Deuces
+Seat 6: chillyp28 mucked [Ah 4h]
+
+
+
+PokerStars Hand #240818487752:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:08:19 ET
+Table 'Alrai II' 6-max Seat #4 is the button
+Seat 1: Michajunior01 ($1.63 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: mo Abdi110 ($1.76 in chips) 
+Seat 4: Johannes230 ($2.03 in chips) 
+Seat 5: ramon1985806 ($3.27 in chips) 
+Seat 6: chillyp28 ($2.10 in chips) 
+ramon1985806: posts small blind $0.01
+chillyp28: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Td]
+Michajunior01: calls $0.02
+Lorpugo: folds 
+mo Abdi110: raises $0.02 to $0.04
+Johannes230: folds 
+ramon1985806: folds 
+chillyp28: calls $0.02
+Michajunior01: calls $0.02
+*** FLOP *** [Js 9d Qh]
+chillyp28: checks 
+Michajunior01: checks 
+mo Abdi110: bets $0.88
+chillyp28: folds 
+Michajunior01: folds 
+Uncalled bet ($0.88) returned to mo Abdi110
+mo Abdi110 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Js 9d Qh]
+Seat 1: Michajunior01 folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: mo Abdi110 collected ($0.13)
+Seat 4: Johannes230 (button) folded before Flop (didn't bet)
+Seat 5: ramon1985806 (small blind) folded before Flop
+Seat 6: chillyp28 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240818494925:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:08:45 ET
+Table 'Alrai II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: mo Abdi110 ($1.85 in chips) 
+Seat 4: Johannes230 ($2.03 in chips) 
+Seat 5: ramon1985806 ($3.26 in chips) 
+Seat 6: chillyp28 ($2.06 in chips) 
+chillyp28: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ac]
+mo Abdi110: raises $0.02 to $0.04
+Johannes230: folds 
+Michajunior01 leaves the table
+ramon1985806: calls $0.04
+chillyp28: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [2h Jh Ad]
+chillyp28: checks 
+Diabloftj joins the table at seat #1 
+Lorpugo: checks 
+mo Abdi110: checks 
+ramon1985806: checks 
+*** TURN *** [2h Jh Ad] [4h]
+chillyp28: checks 
+Lorpugo: bets $0.08
+mo Abdi110: folds 
+ramon1985806: calls $0.08
+chillyp28: folds 
+*** RIVER *** [2h Jh Ad 4h] [Jc]
+Lorpugo: bets $1.48 and is all-in
+ramon1985806: folds 
+Uncalled bet ($1.48) returned to Lorpugo
+Lorpugo collected $0.31 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2h Jh Ad 4h Jc]
+Seat 2: Lorpugo (big blind) collected ($0.31)
+Seat 3: mo Abdi110 folded on the Turn
+Seat 4: Johannes230 folded before Flop (didn't bet)
+Seat 5: ramon1985806 (button) folded on the River
+Seat 6: chillyp28 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #240818506159:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:09:28 ET
+Table 'Alrai II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.79 in chips) 
+Seat 3: mo Abdi110 ($1.81 in chips) 
+Seat 4: Johannes230 ($2.03 in chips) 
+Seat 5: ramon1985806 ($3.14 in chips) 
+Seat 6: chillyp28 ($2.02 in chips) 
+Lorpugo: posts small blind $0.01
+mo Abdi110: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 5s]
+Johannes230: calls $0.02
+ramon1985806: raises $0.02 to $0.04
+chillyp28: calls $0.04
+Lorpugo: folds 
+mo Abdi110: raises $0.02 to $0.06
+Johannes230: calls $0.04
+ramon1985806: calls $0.02
+chillyp28: calls $0.02
+*** FLOP *** [Kc Td 2h]
+mo Abdi110: bets $0.02
+Johannes230: calls $0.02
+ramon1985806: calls $0.02
+chillyp28: folds 
+*** TURN *** [Kc Td 2h] [Th]
+mo Abdi110: checks 
+Johannes230: checks 
+ramon1985806: checks 
+*** RIVER *** [Kc Td 2h Th] [7h]
+mo Abdi110: checks 
+Johannes230: bets $1.95 and is all-in
+ramon1985806: folds 
+mo Abdi110: folds 
+Uncalled bet ($1.95) returned to Johannes230
+Johannes230 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Kc Td 2h Th 7h]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: mo Abdi110 (big blind) folded on the River
+Seat 4: Johannes230 collected ($0.30)
+Seat 5: ramon1985806 folded on the River
+Seat 6: chillyp28 (button) folded on the Flop
+
+
+
+PokerStars Hand #240818523599:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:10:31 ET
+Table 'Alrai II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.78 in chips) 
+Seat 3: mo Abdi110 ($1.73 in chips) 
+Seat 4: Johannes230 ($2.25 in chips) 
+Seat 5: ramon1985806 ($3.06 in chips) 
+Seat 6: chillyp28 ($1.96 in chips) 
+mo Abdi110: posts small blind $0.01
+Johannes230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Tc]
+ramon1985806: raises $0.04 to $0.06
+chillyp28: calls $0.06
+Lorpugo: folds 
+mo Abdi110: raises $0.04 to $0.10
+Johannes230: folds 
+ramon1985806: calls $0.04
+chillyp28: calls $0.04
+*** FLOP *** [7h 9h Jh]
+mo Abdi110: bets $0.02
+ramon1985806: calls $0.02
+chillyp28: calls $0.02
+*** TURN *** [7h 9h Jh] [Ts]
+mo Abdi110: bets $0.02
+ramon1985806: raises $0.06 to $0.08
+chillyp28: folds 
+mo Abdi110: calls $0.06
+*** RIVER *** [7h 9h Jh Ts] [3h]
+mo Abdi110: checks 
+ramon1985806: checks 
+*** SHOW DOWN ***
+mo Abdi110: shows [9c Kc] (a pair of Nines)
+ramon1985806: shows [6c 8s] (a straight, Seven to Jack)
+ramon1985806 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [7h 9h Jh Ts 3h]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: mo Abdi110 (small blind) showed [9c Kc] and lost with a pair of Nines
+Seat 4: Johannes230 (big blind) folded before Flop
+Seat 5: ramon1985806 showed [6c 8s] and won ($0.52) with a straight, Seven to Jack
+Seat 6: chillyp28 folded on the Turn
+
+
+
+PokerStars Hand #240818539613:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:11:30 ET
+Table 'Alrai II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.78 in chips) 
+Seat 3: mo Abdi110 ($1.53 in chips) 
+Seat 4: Johannes230 ($2.23 in chips) 
+Seat 5: ramon1985806 ($3.38 in chips) 
+Seat 6: chillyp28 ($1.84 in chips) 
+Johannes230: posts small blind $0.01
+ramon1985806: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 8d]
+chillyp28: folds 
+Lorpugo: raises $0.04 to $0.06
+mo Abdi110: calls $0.06
+Johannes230: calls $0.05
+ramon1985806: calls $0.04
+*** FLOP *** [4c 6c Th]
+chillyp28 leaves the table
+Johannes230: checks 
+ramon1985806: checks 
+Lorpugo: bets $0.15
+mo Abdi110: raises $0.15 to $0.30
+Johannes230: folds 
+ramon1985806: folds 
+Lorpugo: calls $0.15
+*** TURN *** [4c 6c Th] [3d]
+Lorpugo: checks 
+mo Abdi110: bets $0.60
+Lorpugo: folds 
+Uncalled bet ($0.60) returned to mo Abdi110
+mo Abdi110 collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.04 
+Board [4c 6c Th 3d]
+Seat 2: Lorpugo folded on the Turn
+Seat 3: mo Abdi110 (button) collected ($0.80)
+Seat 4: Johannes230 (small blind) folded on the Flop
+Seat 5: ramon1985806 (big blind) folded on the Flop
+Seat 6: chillyp28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240818552144:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/31 10:12:16 ET
+Table 'Alrai II' 6-max Seat #4 is the button
+Seat 1: Diabloftj ($2 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: mo Abdi110 ($1.97 in chips) 
+Seat 4: Johannes230 ($2.17 in chips) 
+Seat 5: ramon1985806 ($3.32 in chips) 
+ramon1985806: posts small blind $0.01
+Diabloftj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ts]
+Lorpugo: folds 
+mo Abdi110: calls $0.02
+Johannes230: folds 
+ramon1985806: raises $0.04 to $0.06
+Diabloftj: folds 
+mo Abdi110: calls $0.04
+*** FLOP *** [8s Th Jc]
+ramon1985806: checks 
+mo Abdi110: checks 
+*** TURN *** [8s Th Jc] [4s]
+ramon1985806: checks 
+josedf7509 joins the table at seat #6 
+mo Abdi110: checks 
+*** RIVER *** [8s Th Jc 4s] [Tc]
+ramon1985806: checks 
+mo Abdi110: checks 
+*** SHOW DOWN ***
+ramon1985806: shows [5d 7h] (a pair of Tens)
+mo Abdi110: shows [2s 2d] (two pair, Tens and Deuces)
+mo Abdi110 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8s Th Jc 4s Tc]
+Seat 1: Diabloftj (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: mo Abdi110 showed [2s 2d] and won ($0.14) with two pair, Tens and Deuces
+Seat 4: Johannes230 (button) folded before Flop (didn't bet)
+Seat 5: ramon1985806 (small blind) showed [5d 7h] and lost with a pair of Tens
+
+
+

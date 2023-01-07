@@ -1,0 +1,4421 @@
+﻿PokerStars Hand #239301983469:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:21:33 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 2: IceLayram ($2.45 in chips) 
+Seat 3: rsxcd479 ($2.77 in chips) 
+Seat 4: Lorpugo ($1.60 in chips) 
+Seat 5: rmann24 ($3.72 in chips) 
+Seat 6: KKonroy ($2.03 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+altazorchile: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 7h]
+rmann24: folds 
+KKonroy: folds 
+IceLayram: raises $0.03 to $0.05
+rsxcd479: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [9c 5s 5h]
+Lorpugo: checks 
+IceLayram: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [9c 5s 5h] [Ah]
+Lorpugo: bets $0.22
+IceLayram: raises $2.16 to $2.38 and is all-in
+Lorpugo: folds 
+Uncalled bet ($2.16) returned to IceLayram
+IceLayram collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [9c 5s 5h Ah]
+Seat 2: IceLayram (button) collected ($0.57)
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Turn
+Seat 5: rmann24 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239301996350:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:22:39 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.60 in chips) 
+Seat 2: IceLayram ($2.73 in chips) 
+Seat 3: rsxcd479 ($2.76 in chips) 
+Seat 4: Lorpugo ($1.31 in chips) 
+Seat 5: rmann24 ($3.72 in chips) 
+Seat 6: KKonroy ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+rmann24: posts big blind $0.02
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Qh]
+KKonroy: folds 
+altazorchile: checks 
+IceLayram: folds 
+rsxcd479: folds 
+Lorpugo: raises $0.08 to $0.10
+rmann24: folds 
+altazorchile: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: IceLayram folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.06)
+Seat 5: rmann24 (big blind) folded before Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302000642:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:23:01 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.58 in chips) 
+Seat 2: IceLayram ($2.73 in chips) 
+Seat 3: rsxcd479 ($2.76 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 5: rmann24 ($3.70 in chips) 
+Seat 6: KKonroy ($2.03 in chips) 
+rmann24: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5c]
+altazorchile: folds 
+IceLayram: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+rmann24: folds 
+Uncalled bet ($0.01) returned to KKonroy
+KKonroy collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: IceLayram folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: rmann24 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239302004786:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:23:22 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.58 in chips) 
+Seat 2: IceLayram ($2.73 in chips) 
+Seat 3: rsxcd479 ($2.76 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 5: rmann24 ($3.69 in chips) 
+Seat 6: KKonroy ($2.04 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 3s]
+IceLayram: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+rmann24: folds 
+KKonroy: raises $0.03 to $0.05
+altazorchile: folds 
+Uncalled bet ($0.03) returned to KKonroy
+KKonroy collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: IceLayram folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: rmann24 (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239302012043:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:23:59 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.56 in chips) 
+Seat 2: IceLayram ($2.73 in chips) 
+Seat 3: rsxcd479 ($2.76 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 5: rmann24 ($3.69 in chips) 
+Seat 6: KKonroy ($2.06 in chips) 
+altazorchile: posts small blind $0.01
+IceLayram: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2h]
+rsxcd479: folds 
+Lorpugo: folds 
+rmann24: folds 
+KKonroy: raises $0.03 to $0.05
+altazorchile: calls $0.04
+IceLayram: raises $0.10 to $0.15
+KKonroy: calls $0.10
+altazorchile: calls $0.10
+*** FLOP *** [3c 8h Kd]
+altazorchile: checks 
+IceLayram: bets $0.14
+KKonroy: folds 
+altazorchile: folds 
+Uncalled bet ($0.14) returned to IceLayram
+IceLayram collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [3c 8h Kd]
+Seat 1: altazorchile (small blind) folded on the Flop
+Seat 2: IceLayram (big blind) collected ($0.43)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: rmann24 folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded on the Flop
+
+
+
+PokerStars Hand #239302023810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:25:00 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.41 in chips) 
+Seat 2: IceLayram ($3.01 in chips) 
+Seat 3: rsxcd479 ($2.76 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 5: rmann24 ($3.69 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+IceLayram: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 7c]
+Lorpugo: folds 
+rmann24: raises $0.04 to $0.06
+KKonroy: folds 
+altazorchile: folds 
+IceLayram: folds 
+rsxcd479: folds 
+Uncalled bet ($0.04) returned to rmann24
+rmann24 collected $0.05 from pot
+rmann24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: IceLayram (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: rmann24 collected ($0.05)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302029030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:25:26 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.41 in chips) 
+Seat 2: IceLayram ($3 in chips) 
+Seat 3: rsxcd479 ($2.74 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 5: rmann24 ($3.72 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Jd]
+rmann24: raises $0.04 to $0.06
+KKonroy: folds 
+altazorchile: calls $0.06
+IceLayram: folds 
+IceLayram leaves the table
+pushermayn joins the table at seat #2 
+rsxcd479: folds 
+Lorpugo: folds 
+*** FLOP *** [4d 7d 9c]
+rmann24: checks 
+altazorchile: checks 
+*** TURN *** [4d 7d 9c] [6s]
+rmann24: checks 
+altazorchile: bets $0.14
+rmann24: folds 
+Uncalled bet ($0.14) returned to altazorchile
+altazorchile collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d 7d 9c 6s]
+Seat 1: altazorchile collected ($0.14)
+Seat 2: IceLayram (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: rmann24 folded on the Turn
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302036357:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:26:03 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.49 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.73 in chips) 
+Seat 4: Lorpugo ($1.33 in chips) 
+Seat 5: rmann24 ($3.66 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+Lorpugo: posts small blind $0.01
+rmann24: posts big blind $0.02
+pushermayn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 8s]
+KKonroy: raises $0.04 to $0.06
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+rmann24: folds 
+Uncalled bet ($0.04) returned to KKonroy
+KKonroy collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: rmann24 (big blind) folded before Flop
+Seat 6: KKonroy collected ($0.07)
+
+
+
+PokerStars Hand #239302038790:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:26:16 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.49 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.73 in chips) 
+Seat 4: Lorpugo ($1.32 in chips) 
+Seat 5: rmann24 ($3.64 in chips) 
+Seat 6: KKonroy ($2.05 in chips) 
+rmann24: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Qd]
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: folds 
+rmann24: folds 
+KKonroy: folds 
+Uncalled bet ($0.04) returned to rsxcd479
+rsxcd479 collected $0.05 from pot
+rsxcd479: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 collected ($0.05)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: rmann24 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302042098:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:26:32 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.49 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.76 in chips) 
+Seat 4: Lorpugo ($1.32 in chips) 
+Seat 6: KKonroy ($2.03 in chips) 
+altazorchile: posts small blind $0.01
+pushermayn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3d]
+rsxcd479: folds 
+Lorpugo: folds 
+KKonroy: folds 
+altazorchile: folds 
+Uncalled bet ($0.01) returned to pushermayn
+pushermayn collected $0.02 from pot
+pushermayn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: pushermayn (big blind) collected ($0.02)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302046486:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:26:54 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.48 in chips) 
+Seat 2: pushermayn ($2.01 in chips) 
+Seat 3: rsxcd479 ($2.76 in chips) 
+Seat 4: Lorpugo ($1.32 in chips) 
+Seat 6: KKonroy ($2.03 in chips) 
+pushermayn: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Kd]
+Lorpugo: raises $0.04 to $0.06
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: pushermayn (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302050607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:27:16 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.48 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.74 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 6: KKonroy ($2.03 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Qh]
+KKonroy: folds 
+altazorchile: calls $0.02
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: checks 
+*** FLOP *** [2h Kd 3s]
+Lorpugo: bets $0.03
+altazorchile: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2h Kd 3s]
+Seat 1: altazorchile folded on the Flop
+Seat 2: pushermayn (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.05)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302057527:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:27:51 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.46 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.73 in chips) 
+Seat 4: Lorpugo ($1.38 in chips) 
+Seat 6: KKonroy ($2.03 in chips) 
+Lorpugo: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Qh]
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: raises $0.04 to $0.06
+rmann24 leaves the table
+KKonroy: raises $0.14 to $0.20
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to KKonroy
+KKonroy collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: KKonroy (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #239302063420:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:28:20 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.46 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.73 in chips) 
+Seat 4: Lorpugo ($1.32 in chips) 
+Seat 6: KKonroy ($2.09 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Qh]
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: raises $0.04 to $0.06
+KKonroy: folds 
+ki6ata joins the table at seat #5 
+altazorchile: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302068296:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:28:45 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.44 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.73 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 6: KKonroy ($2.08 in chips) 
+altazorchile: posts small blind $0.01
+pushermayn: posts big blind $0.02
+ki6ata: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Td]
+rsxcd479: folds 
+Lorpugo: raises $0.04 to $0.06
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: pushermayn (big blind) folded before Flop
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302071997:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:29:03 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.43 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.73 in chips) 
+Seat 4: Lorpugo ($1.38 in chips) 
+Seat 6: KKonroy ($2.08 in chips) 
+pushermayn: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+ki6ata: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3d]
+Lorpugo: folds 
+KKonroy: folds 
+altazorchile: raises $0.05 to $0.07
+pushermayn: folds 
+rsxcd479: calls $0.05
+*** FLOP *** [4h 6c Jc]
+rsxcd479: checks 
+ki6ata leaves the table
+altazorchile: bets $0.07
+Zeimen17 joins the table at seat #5 
+rsxcd479: calls $0.07
+*** TURN *** [4h 6c Jc] [2h]
+rsxcd479: checks 
+altazorchile: bets $0.28
+rsxcd479: calls $0.28
+*** RIVER *** [4h 6c Jc 2h] [7s]
+rsxcd479: checks 
+altazorchile: bets $0.82
+rsxcd479: folds 
+Uncalled bet ($0.82) returned to altazorchile
+altazorchile collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [4h 6c Jc 2h 7s]
+Seat 1: altazorchile (button) collected ($0.82)
+Seat 2: pushermayn (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302086401:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:30:15 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.83 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.31 in chips) 
+Seat 4: Lorpugo ($1.38 in chips) 
+Seat 5: Zeimen17 ($1 in chips) 
+Seat 6: KKonroy ($2.08 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Zeimen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 8d]
+Zeimen17: checks 
+KKonroy: raises $0.07 to $0.09
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: calls $0.07
+*** FLOP *** [5d 3h As]
+Zeimen17: checks 
+KKonroy: bets $0.13
+Zeimen17: folds 
+Uncalled bet ($0.13) returned to KKonroy
+KKonroy collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5d 3h As]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: Zeimen17 folded on the Flop
+Seat 6: KKonroy collected ($0.20)
+
+
+
+PokerStars Hand #239302092681:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:30:46 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.83 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.30 in chips) 
+Seat 4: Lorpugo ($1.36 in chips) 
+Seat 5: Zeimen17 ($0.91 in chips) 
+Seat 6: KKonroy ($2.19 in chips) 
+Lorpugo: posts small blind $0.01
+Zeimen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 3h]
+KKonroy: raises $0.04 to $0.06
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: raises $0.04 to $0.10
+KKonroy: calls $0.04
+*** FLOP *** [3c 6s 5d]
+Zeimen17: bets $0.22
+KKonroy: folds 
+Uncalled bet ($0.22) returned to Zeimen17
+Zeimen17 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3c 6s 5d]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Zeimen17 (big blind) collected ($0.20)
+Seat 6: KKonroy folded on the Flop
+
+
+
+PokerStars Hand #239302098313:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:31:15 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.83 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.30 in chips) 
+Seat 4: Lorpugo ($1.35 in chips) 
+Seat 5: Zeimen17 ($1.01 in chips) 
+Seat 6: KKonroy ($2.09 in chips) 
+Zeimen17: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Ah]
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: raises $0.04 to $0.06
+Zeimen17: calls $0.05
+KKonroy: raises $0.18 to $0.24
+Lorpugo: raises $0.54 to $0.78
+Zeimen17: folds 
+KKonroy: folds 
+Uncalled bet ($0.54) returned to Lorpugo
+Lorpugo collected $0.54 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.54)
+Seat 5: Zeimen17 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302106064:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:31:53 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.83 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.30 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 5: Zeimen17 ($0.95 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Ah]
+pushermayn: folds 
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: folds 
+Zeimen17: folds 
+KKonroy: folds 
+altazorchile: calls $0.04
+*** FLOP *** [5c Qc 4s]
+altazorchile: bets $0.13
+rsxcd479: folds 
+Uncalled bet ($0.13) returned to altazorchile
+altazorchile collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5c Qc 4s]
+Seat 1: altazorchile (big blind) collected ($0.13)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302112386:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:32:25 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.90 in chips) 
+Seat 2: pushermayn ($2 in chips) 
+Seat 3: rsxcd479 ($2.24 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 5: Zeimen17 ($0.95 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+altazorchile: posts small blind $0.01
+pushermayn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Qd]
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: calls $0.02
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: checks 
+*** FLOP *** [Tc 6d Jc]
+pushermayn: checks 
+Zeimen17: checks 
+*** TURN *** [Tc 6d Jc] [8c]
+pushermayn: bets $0.03
+Zeimen17: calls $0.03
+*** RIVER *** [Tc 6d Jc 8c] [4h]
+pushermayn: checks 
+Zeimen17: bets $0.06
+pushermayn: calls $0.06
+*** SHOW DOWN ***
+Zeimen17: shows [Qh Kd] (high card King)
+pushermayn: shows [7s 7c] (a pair of Sevens)
+pushermayn collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Tc 6d Jc 8c 4h]
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: pushermayn (big blind) showed [7s 7c] and won ($0.22) with a pair of Sevens
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 showed [Qh Kd] and lost with high card King
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302119362:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:33:00 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.89 in chips) 
+Seat 2: pushermayn ($2.11 in chips) 
+Seat 3: rsxcd479 ($2.24 in chips) 
+Seat 4: Lorpugo ($1.65 in chips) 
+Seat 5: Zeimen17 ($0.84 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+pushermayn: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 8h]
+Lorpugo: raises $0.04 to $0.06
+Zeimen17: calls $0.06
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+*** FLOP *** [Kc 7s 5s]
+Lorpugo: checks 
+Zeimen17: checks 
+*** TURN *** [Kc 7s 5s] [7h]
+Lorpugo: bets $0.09
+Zeimen17: calls $0.09
+*** RIVER *** [Kc 7s 5s 7h] [Ad]
+Lorpugo: bets $0.48
+Zeimen17: folds 
+Uncalled bet ($0.48) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Kc 7s 5s 7h Ad]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: pushermayn (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.32)
+Seat 5: Zeimen17 folded on the River
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302127972:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:33:43 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.89 in chips) 
+Seat 2: pushermayn ($2.10 in chips) 
+Seat 3: rsxcd479 ($2.22 in chips) 
+Seat 4: Lorpugo ($1.82 in chips) 
+Seat 5: Zeimen17 ($0.69 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 5d]
+Zeimen17: calls $0.02
+KKonroy: folds 
+altazorchile: raises $0.04 to $0.06
+pushermayn: folds 
+rsxcd479: raises $0.16 to $0.22
+Lorpugo: folds 
+Zeimen17: calls $0.20
+altazorchile: folds 
+*** FLOP *** [6s 8c Tc]
+rsxcd479: checks 
+Zeimen17: checks 
+*** TURN *** [6s 8c Tc] [5s]
+rsxcd479: checks 
+Zeimen17: bets $0.04
+rsxcd479: calls $0.04
+*** RIVER *** [6s 8c Tc 5s] [Jd]
+rsxcd479: checks 
+Zeimen17: bets $0.16
+rsxcd479: folds 
+Uncalled bet ($0.16) returned to Zeimen17
+Zeimen17 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [6s 8c Tc 5s Jd]
+Seat 1: altazorchile folded before Flop
+Seat 2: pushermayn (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) folded on the River
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: Zeimen17 collected ($0.58)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302137981:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:34:33 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.83 in chips) 
+Seat 2: pushermayn ($2.10 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($1.80 in chips) 
+Seat 5: Zeimen17 ($1.01 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Zeimen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Jc]
+KKonroy: folds 
+altazorchile: raises $0.04 to $0.06
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: calls $0.04
+*** FLOP *** [7d 6s 5d]
+Zeimen17: checks 
+altazorchile: checks 
+*** TURN *** [7d 6s 5d] [3s]
+Zeimen17: checks 
+altazorchile: checks 
+*** RIVER *** [7d 6s 5d 3s] [Kc]
+Zeimen17: bets $0.04
+altazorchile: folds 
+Uncalled bet ($0.04) returned to Zeimen17
+Zeimen17 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7d 6s 5d 3s Kc]
+Seat 1: altazorchile folded on the River
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: Zeimen17 (big blind) collected ($0.13)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302145732:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:35:10 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.77 in chips) 
+Seat 2: pushermayn ($2.10 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($1.79 in chips) 
+Seat 5: Zeimen17 ($1.08 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+Zeimen17: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Jc]
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Zeimen17: folds 
+KKonroy: folds 
+*** FLOP *** [Qs Th Qc]
+rsxcd479: checks 
+Lorpugo: bets $0.07
+rsxcd479: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qs Th Qc]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded on the Flop
+Seat 4: Lorpugo (button) collected ($0.14)
+Seat 5: Zeimen17 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302151898:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:35:41 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.77 in chips) 
+Seat 2: pushermayn ($2.10 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($1.87 in chips) 
+Seat 5: Zeimen17 ($1.07 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4c]
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: calls $0.02
+KKonroy: raises $0.10 to $0.12
+altazorchile: folds 
+Zeimen17: folds 
+Uncalled bet ($0.10) returned to KKonroy
+KKonroy collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 (button) folded before Flop
+Seat 6: KKonroy (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #239302158163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:36:11 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.75 in chips) 
+Seat 2: pushermayn ($2.10 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($1.87 in chips) 
+Seat 5: Zeimen17 ($1.05 in chips) 
+Seat 6: KKonroy ($2.04 in chips) 
+altazorchile: posts small blind $0.01
+pushermayn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 8h]
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: folds 
+KKonroy: raises $0.03 to $0.05
+altazorchile: calls $0.04
+pushermayn: calls $0.03
+*** FLOP *** [5c 3h 4s]
+altazorchile: bets $0.07
+pushermayn: calls $0.07
+KKonroy: folds 
+*** TURN *** [5c 3h 4s] [As]
+altazorchile: checks 
+pushermayn: checks 
+*** RIVER *** [5c 3h 4s As] [4h]
+altazorchile: checks 
+pushermayn: checks 
+*** SHOW DOWN ***
+altazorchile: shows [6s 6d] (two pair, Sixes and Fours)
+pushermayn: shows [9d 9c] (two pair, Nines and Fours)
+pushermayn collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [5c 3h 4s As 4h]
+Seat 1: altazorchile (small blind) showed [6s 6d] and lost with two pair, Sixes and Fours
+Seat 2: pushermayn (big blind) showed [9d 9c] and won ($0.28) with two pair, Nines and Fours
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded on the Flop
+
+
+
+PokerStars Hand #239302169767:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:37:08 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.63 in chips) 
+Seat 2: pushermayn ($2.26 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($1.87 in chips) 
+Seat 5: Zeimen17 ($1.05 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+pushermayn: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 8d]
+Lorpugo: folds 
+Zeimen17: folds 
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+Uncalled bet ($0.01) returned to rsxcd479
+rsxcd479 collected $0.02 from pot
+rsxcd479: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: pushermayn (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302171715:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:37:18 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.63 in chips) 
+Seat 2: pushermayn ($2.25 in chips) 
+Seat 3: rsxcd479 ($2.01 in chips) 
+Seat 4: Lorpugo ($1.87 in chips) 
+Seat 5: Zeimen17 ($1.05 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 7c]
+Zeimen17: calls $0.02
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: checks 
+*** FLOP *** [5s 5d 4c]
+Lorpugo: bets $0.03
+Zeimen17: calls $0.03
+*** TURN *** [5s 5d 4c] [As]
+Lorpugo: bets $0.12
+Zeimen17: calls $0.12
+*** RIVER *** [5s 5d 4c As] [Ts]
+Lorpugo: checks 
+Zeimen17: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6h 7c] (a pair of Fives)
+Zeimen17: shows [3c Ad] (two pair, Aces and Fives)
+Zeimen17 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [5s 5d 4c As Ts]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [6h 7c] and lost with a pair of Fives
+Seat 5: Zeimen17 showed [3c Ad] and won ($0.34) with two pair, Aces and Fives
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302179196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:37:54 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.63 in chips) 
+Seat 2: pushermayn ($2.25 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($1.70 in chips) 
+Seat 5: Zeimen17 ($1.22 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Zeimen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Qs]
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+Zeimen17: folds 
+rsxcd479: calls $0.14
+*** FLOP *** [Jd As 6d]
+Lorpugo: checks 
+rsxcd479: bets $0.26
+Lorpugo: calls $0.26
+*** TURN *** [Jd As 6d] [Jh]
+Lorpugo: checks 
+rsxcd479: bets $0.57
+Lorpugo: calls $0.57
+*** RIVER *** [Jd As 6d Jh] [8s]
+Lorpugo: bets $0.67 and is all-in
+rsxcd479: calls $0.67
+*** SHOW DOWN ***
+Lorpugo: shows [Js Qs] (three of a kind, Jacks)
+rsxcd479: shows [Ah Kc] (two pair, Aces and Jacks)
+Lorpugo collected $3.30 from pot
+*** SUMMARY ***
+Total pot $3.42 | Rake $0.12 
+Board [Jd As 6d Jh 8s]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) showed [Ah Kc] and lost with two pair, Aces and Jacks
+Seat 4: Lorpugo (small blind) showed [Js Qs] and won ($3.30) with three of a kind, Jacks
+Seat 5: Zeimen17 (big blind) folded before Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302193034:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:39:01 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.63 in chips) 
+Seat 2: pushermayn ($2.25 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($3.30 in chips) 
+Seat 5: Zeimen17 ($1.20 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+Zeimen17: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9c]
+altazorchile: calls $0.02
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: folds 
+KKonroy: checks 
+*** FLOP *** [5h Jc Td]
+KKonroy: checks 
+altazorchile: bets $0.05
+KKonroy: calls $0.05
+*** TURN *** [5h Jc Td] [7s]
+KKonroy: checks 
+altazorchile: bets $0.07
+KKonroy: calls $0.07
+*** RIVER *** [5h Jc Td 7s] [Ac]
+KKonroy: checks 
+altazorchile: bets $0.14
+KKonroy: calls $0.14
+*** SHOW DOWN ***
+altazorchile: shows [Jd As] (two pair, Aces and Jacks)
+KKonroy: mucks hand 
+altazorchile collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [5h Jc Td 7s Ac]
+Seat 1: altazorchile showed [Jd As] and won ($0.55) with two pair, Aces and Jacks
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Zeimen17 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) mucked [Jh 3c]
+
+
+
+PokerStars Hand #239302200966:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:39:40 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.90 in chips) 
+Seat 2: pushermayn ($2.25 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($3.30 in chips) 
+Seat 5: Zeimen17 ($1.19 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Td]
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: raises $0.04 to $0.06
+Zeimen17: folds 
+KKonroy: folds 
+altazorchile: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: Zeimen17 (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302205774:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:40:03 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.88 in chips) 
+Seat 2: pushermayn ($2.25 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($3.33 in chips) 
+Seat 5: Zeimen17 ($1.19 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+altazorchile: posts small blind $0.01
+pushermayn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 3s]
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: folds 
+Zeimen17: calls $0.06
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+*** FLOP *** [9s 5c 6s]
+rsxcd479: bets $0.16
+Zeimen17: folds 
+Uncalled bet ($0.16) returned to rsxcd479
+rsxcd479 collected $0.14 from pot
+rsxcd479: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9s 5c 6s]
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: pushermayn (big blind) folded before Flop
+Seat 3: rsxcd479 collected ($0.14)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 folded on the Flop
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302214987:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:40:48 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.87 in chips) 
+Seat 2: pushermayn ($2.23 in chips) 
+Seat 3: rsxcd479 ($2.08 in chips) 
+Seat 4: Lorpugo ($3.33 in chips) 
+Seat 5: Zeimen17 ($1.13 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+pushermayn: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ac]
+Lorpugo: folds 
+Zeimen17: raises $0.04 to $0.06
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Uncalled bet ($0.04) returned to Zeimen17
+Zeimen17 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: pushermayn (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 collected ($0.05)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302218407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:41:05 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.87 in chips) 
+Seat 2: pushermayn ($2.22 in chips) 
+Seat 3: rsxcd479 ($2.06 in chips) 
+Seat 4: Lorpugo ($3.33 in chips) 
+Seat 5: Zeimen17 ($1.16 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qs]
+Zeimen17: folds 
+KKonroy: folds 
+altazorchile: calls $0.02
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: checks 
+*** FLOP *** [Ah 8s Td]
+Lorpugo: checks 
+altazorchile: checks 
+*** TURN *** [Ah 8s Td] [9h]
+Lorpugo: checks 
+altazorchile: checks 
+*** RIVER *** [Ah 8s Td 9h] [Qd]
+Lorpugo: bets $0.02
+altazorchile: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah 8s Td 9h Qd]
+Seat 1: altazorchile folded on the River
+Seat 2: pushermayn (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.05)
+Seat 5: Zeimen17 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302230355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:42:02 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.85 in chips) 
+Seat 2: pushermayn ($2.22 in chips) 
+Seat 3: rsxcd479 ($2.05 in chips) 
+Seat 4: Lorpugo ($3.36 in chips) 
+Seat 5: Zeimen17 ($1.16 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Zeimen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 4d]
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: raises $0.04 to $0.06
+rsxcd479: folds 
+Lorpugo: calls $0.05
+Zeimen17: calls $0.04
+*** FLOP *** [Kc 6c Qc]
+Lorpugo: checks 
+Zeimen17: checks 
+pushermayn: checks 
+*** TURN *** [Kc 6c Qc] [Kh]
+Lorpugo: checks 
+Zeimen17: checks 
+pushermayn: checks 
+*** RIVER *** [Kc 6c Qc Kh] [Kd]
+Lorpugo: bets $0.02
+Zeimen17: folds 
+pushermayn: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [As 4d] (three of a kind, Kings)
+pushermayn: shows [3c 3s] (a full house, Kings full of Threes)
+pushermayn collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Kc 6c Qc Kh Kd]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn showed [3c 3s] and won ($0.21) with a full house, Kings full of Threes
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) showed [As 4d] and lost with three of a kind, Kings
+Seat 5: Zeimen17 (big blind) folded on the River
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302238810:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:42:43 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.85 in chips) 
+Seat 2: pushermayn ($2.35 in chips) 
+Seat 3: rsxcd479 ($2.05 in chips) 
+Seat 4: Lorpugo ($3.28 in chips) 
+Seat 5: Zeimen17 ($1.10 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+Zeimen17: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3c]
+altazorchile: raises $0.08 to $0.10
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: folds 
+KKonroy: folds 
+Uncalled bet ($0.08) returned to altazorchile
+altazorchile collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile collected ($0.05)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Zeimen17 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302243642:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:43:06 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.88 in chips) 
+Seat 2: pushermayn ($2.35 in chips) 
+Seat 3: rsxcd479 ($2.05 in chips) 
+Seat 4: Lorpugo ($3.28 in chips) 
+Seat 5: Zeimen17 ($1.09 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Td]
+pushermayn: raises $0.03 to $0.05
+rsxcd479: calls $0.05
+Lorpugo: folds 
+Zeimen17: folds 
+KKonroy: folds 
+altazorchile: folds 
+*** FLOP *** [Ts 3c Ks]
+pushermayn: bets $0.07
+rsxcd479: calls $0.07
+*** TURN *** [Ts 3c Ks] [7h]
+pushermayn: bets $0.13
+rsxcd479: calls $0.13
+*** RIVER *** [Ts 3c Ks 7h] [Qs]
+pushermayn: checks 
+rsxcd479: bets $0.38
+pushermayn: folds 
+Uncalled bet ($0.38) returned to rsxcd479
+rsxcd479 collected $0.51 from pot
+rsxcd479: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ts 3c Ks 7h Qs]
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: pushermayn folded on the River
+Seat 3: rsxcd479 collected ($0.51)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302258774:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:44:19 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.86 in chips) 
+Seat 2: pushermayn ($2.10 in chips) 
+Seat 3: rsxcd479 ($2.31 in chips) 
+Seat 4: Lorpugo ($3.28 in chips) 
+Seat 5: Zeimen17 ($1.09 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+altazorchile: posts small blind $0.01
+pushermayn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ts]
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: folds 
+Zeimen17: raises $0.06 to $0.12
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: calls $0.06
+*** FLOP *** [Ac 7d 4d]
+rsxcd479: checks 
+Zeimen17: bets $0.10
+rsxcd479: folds 
+Uncalled bet ($0.10) returned to Zeimen17
+Zeimen17 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ac 7d 4d]
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: pushermayn (big blind) folded before Flop
+Seat 3: rsxcd479 folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 collected ($0.26)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302267519:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:45:00 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.85 in chips) 
+Seat 2: pushermayn ($2.08 in chips) 
+Seat 3: rsxcd479 ($2.19 in chips) 
+Seat 4: Lorpugo ($3.28 in chips) 
+Seat 5: Zeimen17 ($1.23 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+pushermayn: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 9h]
+Lorpugo: folds 
+Zeimen17: folds 
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: raises $0.04 to $0.06
+rsxcd479: raises $0.12 to $0.18
+pushermayn: folds 
+Uncalled bet ($0.12) returned to rsxcd479
+rsxcd479 collected $0.12 from pot
+rsxcd479: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: pushermayn (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) collected ($0.12)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302272731:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:45:26 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.85 in chips) 
+Seat 2: pushermayn ($2.02 in chips) 
+Seat 3: rsxcd479 ($2.25 in chips) 
+Seat 4: Lorpugo ($3.28 in chips) 
+Seat 5: Zeimen17 ($1.23 in chips) 
+Seat 6: KKonroy ($2 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8s]
+Zeimen17: calls $0.02
+KKonroy: raises $0.07 to $0.09
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: folds 
+Uncalled bet ($0.07) returned to KKonroy
+KKonroy collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: Zeimen17 folded before Flop
+Seat 6: KKonroy collected ($0.07)
+
+
+
+PokerStars Hand #239302278622:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:45:54 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.85 in chips) 
+Seat 2: pushermayn ($2.02 in chips) 
+Seat 3: rsxcd479 ($2.24 in chips) 
+Seat 4: Lorpugo ($3.26 in chips) 
+Seat 5: Zeimen17 ($1.21 in chips) 
+Seat 6: KKonroy ($2.05 in chips) 
+Lorpugo: posts small blind $0.01
+Zeimen17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8s]
+KKonroy: folds 
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: folds 
+Lorpugo: raises $0.04 to $0.06
+Zeimen17: calls $0.04
+*** FLOP *** [9h 3h 4s]
+Lorpugo: bets $0.08
+Zeimen17: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h 3h 4s]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.12)
+Seat 5: Zeimen17 (big blind) folded on the Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302284381:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:46:22 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.85 in chips) 
+Seat 2: pushermayn ($2.02 in chips) 
+Seat 3: rsxcd479 ($2.24 in chips) 
+Seat 4: Lorpugo ($3.32 in chips) 
+Seat 5: Zeimen17 ($1.15 in chips) 
+Seat 6: KKonroy ($2.05 in chips) 
+Zeimen17: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2h]
+altazorchile: folds 
+pushermayn: folds 
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: folds 
+Zeimen17: calls $0.05
+KKonroy: raises $0.22 to $0.28
+pushermayn leaves the table
+rsxcd479: raises $0.32 to $0.60
+Zeimen17: folds 
+KKonroy: calls $0.32
+*** FLOP *** [Kh 9d 9h]
+KKonroy: checks 
+rsxcd479: bets $1.63
+KKonroy: calls $1.45 and is all-in
+Uncalled bet ($0.18) returned to rsxcd479
+*** TURN *** [Kh 9d 9h] [7d]
+*** RIVER *** [Kh 9d 9h 7d] [Qs]
+*** SHOW DOWN ***
+KKonroy: shows [Qc Ks] (two pair, Kings and Queens)
+rsxcd479: shows [Qh Tc] (two pair, Queens and Nines)
+KKonroy collected $4.01 from pot
+*** SUMMARY ***
+Total pot $4.16 | Rake $0.15 
+Board [Kh 9d 9h 7d Qs]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: pushermayn folded before Flop (didn't bet)
+Seat 3: rsxcd479 showed [Qh Tc] and lost with two pair, Queens and Nines
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: Zeimen17 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) showed [Qc Ks] and won ($4.01) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #239302296175:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:47:18 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.85 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($3.32 in chips) 
+Seat 5: Zeimen17 ($1.09 in chips) 
+Seat 6: KKonroy ($4.01 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 5d]
+rsxcd479: folds 
+Lorpugo: folds 
+Zeimen17: calls $0.02
+KKonroy: folds 
+altazorchile: checks 
+*** FLOP *** [Jh Qs 2s]
+RuraBita joins the table at seat #2 
+altazorchile: checks 
+Zeimen17: checks 
+*** TURN *** [Jh Qs 2s] [Kh]
+altazorchile: checks 
+Zeimen17: checks 
+*** RIVER *** [Jh Qs 2s Kh] [Ts]
+altazorchile: checks 
+Zeimen17: checks 
+*** SHOW DOWN ***
+altazorchile: shows [6s 5h] (high card King)
+Zeimen17: shows [8d 7s] (high card King - Queen+Jack+Ten+Eight kicker)
+Zeimen17 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh Qs 2s Kh Ts]
+Seat 1: altazorchile (big blind) showed [6s 5h] and lost with high card King
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 (button) showed [8d 7s] and won ($0.05) with high card King
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302304321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:47:57 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.83 in chips) 
+Seat 2: RuraBita ($1.60 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($3.32 in chips) 
+Seat 5: Zeimen17 ($1.12 in chips) 
+Seat 6: KKonroy ($4 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Th]
+rsxcd479: folds 
+Lorpugo: raises $0.04 to $0.06
+Zeimen17: folds 
+KKonroy: folds 
+altazorchile: folds 
+RuraBita: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: RuraBita (big blind) folded before Flop
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: Zeimen17 folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302310751:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:48:28 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.82 in chips) 
+Seat 2: RuraBita ($1.58 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($3.35 in chips) 
+Seat 5: Zeimen17 ($1.12 in chips) 
+Seat 6: KKonroy ($4 in chips) 
+RuraBita: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 6h]
+Lorpugo: folds 
+Zeimen17: calls $0.02
+KKonroy: folds 
+altazorchile: folds 
+RuraBita: calls $0.01
+rsxcd479: checks 
+*** FLOP *** [8c 5d 8h]
+RuraBita: checks 
+rsxcd479: checks 
+Zeimen17: checks 
+*** TURN *** [8c 5d 8h] [2d]
+RuraBita: checks 
+rsxcd479: checks 
+Zeimen17: checks 
+*** RIVER *** [8c 5d 8h 2d] [2s]
+RuraBita: bets $0.04
+rsxcd479: folds 
+Zeimen17: raises $0.08 to $0.12
+RuraBita: folds 
+Uncalled bet ($0.08) returned to Zeimen17
+Zeimen17 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 5d 8h 2d 2s]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: RuraBita (small blind) folded on the River
+Seat 3: rsxcd479 (big blind) folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: Zeimen17 collected ($0.14)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302322133:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:49:22 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.82 in chips) 
+Seat 2: RuraBita ($1.52 in chips) 
+Seat 3: rsxcd479 ($2 in chips) 
+Seat 4: Lorpugo ($3.35 in chips) 
+Seat 5: Zeimen17 ($1.20 in chips) 
+Seat 6: KKonroy ($4 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 4h]
+Zeimen17: folds 
+KKonroy: folds 
+Zeimen17 leaves the table
+altazorchile: raises $0.04 to $0.06
+RuraBita: folds 
+rsxcd479: raises $0.14 to $0.20
+Lorpugo: folds 
+altazorchile: folds 
+Uncalled bet ($0.14) returned to rsxcd479
+rsxcd479 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: altazorchile folded before Flop
+Seat 2: RuraBita (button) folded before Flop (didn't bet)
+Seat 3: rsxcd479 (small blind) collected ($0.14)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: Zeimen17 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302328364:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:49:52 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.76 in chips) 
+Seat 2: RuraBita ($1.52 in chips) 
+Seat 3: rsxcd479 ($2.08 in chips) 
+Seat 4: Lorpugo ($3.33 in chips) 
+Seat 6: KKonroy ($4 in chips) 
+Lorpugo: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Jd]
+altazorchile: calls $0.02
+RuraBita: raises $0.02 to $0.04
+rsxcd479: folds 
+Lorpugo: calls $0.03
+KKonroy: calls $0.02
+altazorchile: calls $0.02
+*** FLOP *** [5c 5h 2d]
+Lorpugo: checks 
+KKonroy: bets $0.10
+altazorchile: folds 
+RuraBita: folds 
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to KKonroy
+KKonroy collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [5c 5h 2d]
+Seat 1: altazorchile folded on the Flop
+Seat 2: RuraBita folded on the Flop
+Seat 3: rsxcd479 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded on the Flop
+Seat 6: KKonroy (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #239302338632:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:50:42 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.72 in chips) 
+Seat 2: RuraBita ($1.48 in chips) 
+Seat 3: rsxcd479 ($2.08 in chips) 
+Seat 4: Lorpugo ($3.29 in chips) 
+Seat 6: KKonroy ($4.11 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Td]
+RuraBita: folds 
+rsxcd479: folds 
+777vivas777 joins the table at seat #5 
+Lorpugo: raises $0.04 to $0.06
+KKonroy: folds 
+altazorchile: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.05)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302342500:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:51:01 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.70 in chips) 
+Seat 2: RuraBita ($1.48 in chips) 
+Seat 3: rsxcd479 ($2.08 in chips) 
+Seat 4: Lorpugo ($3.32 in chips) 
+Seat 6: KKonroy ($4.10 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+777vivas777: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Th]
+rsxcd479: folds 
+Lorpugo: folds 
+KKonroy: raises $0.03 to $0.05
+altazorchile: folds 
+RuraBita: folds 
+Uncalled bet ($0.03) returned to KKonroy
+KKonroy collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: RuraBita (big blind) folded before Flop
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: KKonroy (button) collected ($0.05)
+
+
+
+PokerStars Hand #239302345953:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:51:17 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.69 in chips) 
+Seat 2: RuraBita ($1.46 in chips) 
+Seat 3: rsxcd479 ($2.08 in chips) 
+Seat 4: Lorpugo ($3.32 in chips) 
+Seat 6: KKonroy ($4.13 in chips) 
+RuraBita: posts small blind $0.01
+rsxcd479: posts big blind $0.02
+777vivas777: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Kc]
+Lorpugo: folds 
+KKonroy: folds 
+altazorchile: raises $0.04 to $0.06
+RuraBita: folds 
+rsxcd479: folds 
+Uncalled bet ($0.04) returned to altazorchile
+altazorchile collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (button) collected ($0.05)
+Seat 2: RuraBita (small blind) folded before Flop
+Seat 3: rsxcd479 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302349539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:51:35 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.72 in chips) 
+Seat 2: RuraBita ($1.45 in chips) 
+Seat 3: rsxcd479 ($2.06 in chips) 
+Seat 4: Lorpugo ($3.32 in chips) 
+Seat 6: KKonroy ($4.13 in chips) 
+rsxcd479: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+777vivas777: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ah]
+KKonroy: raises $0.04 to $0.06
+altazorchile: folds 
+RuraBita: calls $0.06
+rsxcd479: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [4h Qc 6s]
+Lorpugo: checks 
+KKonroy: bets $0.12
+RuraBita: folds 
+Lorpugo: folds 
+Uncalled bet ($0.12) returned to KKonroy
+KKonroy collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4h Qc 6s]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita (button) folded on the Flop
+Seat 3: rsxcd479 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 6: KKonroy collected ($0.18)
+
+
+
+PokerStars Hand #239302358507:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:52:18 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.72 in chips) 
+Seat 2: RuraBita ($1.39 in chips) 
+Seat 3: rsxcd479 ($2.05 in chips) 
+Seat 4: Lorpugo ($3.26 in chips) 
+Seat 5: 777vivas777 ($1.27 in chips) 
+Seat 6: KKonroy ($4.25 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 6s]
+KKonroy: folds 
+altazorchile: folds 
+RuraBita: folds 
+rsxcd479: raises $0.04 to $0.06
+Lorpugo: folds 
+777vivas777: calls $0.04
+*** FLOP *** [9h 2c 5d]
+777vivas777: checks 
+rsxcd479: bets $0.08
+777vivas777: calls $0.08
+*** TURN *** [9h 2c 5d] [Ks]
+777vivas777: checks 
+rsxcd479: bets $0.18
+777vivas777: folds 
+Uncalled bet ($0.18) returned to rsxcd479
+rsxcd479 collected $0.28 from pot
+rsxcd479: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9h 2c 5d Ks]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: rsxcd479 (button) collected ($0.28)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 777vivas777 (big blind) folded on the Turn
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302368682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:53:08 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.72 in chips) 
+Seat 2: RuraBita ($1.39 in chips) 
+Seat 3: rsxcd479 ($2.19 in chips) 
+Seat 4: Lorpugo ($3.25 in chips) 
+Seat 5: 777vivas777 ($1.13 in chips) 
+Seat 6: KKonroy ($4.25 in chips) 
+777vivas777: posts small blind $0.01
+KKonroy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2d]
+altazorchile: folds 
+RuraBita: calls $0.02
+rsxcd479: folds 
+Lorpugo: folds 
+777vivas777: raises $0.02 to $0.04
+KKonroy: raises $0.14 to $0.18
+RuraBita: raises $1.21 to $1.39 and is all-in
+777vivas777: folds 
+KKonroy: folds 
+Uncalled bet ($1.21) returned to RuraBita
+RuraBita collected $0.40 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita collected ($0.40)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: 777vivas777 (small blind) folded before Flop
+Seat 6: KKonroy (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302376608:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:53:46 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.72 in chips) 
+Seat 2: RuraBita ($1.61 in chips) 
+Seat 3: rsxcd479 ($2.19 in chips) 
+Seat 4: Lorpugo ($3.25 in chips) 
+Seat 5: 777vivas777 ($1.09 in chips) 
+Seat 6: KKonroy ($4.07 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 6d]
+RuraBita: raises $0.02 to $0.04
+rsxcd479: folds 
+rsxcd479 leaves the table
+Lorpugo: folds 
+777vivas777: folds 
+KKonroy: folds 
+altazorchile: calls $0.02
+*** FLOP *** [5d 3s Jc]
+altazorchile: checks 
+RuraBita: bets $0.04
+altazorchile: folds 
+Uncalled bet ($0.04) returned to RuraBita
+RuraBita collected $0.09 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5d 3s Jc]
+Seat 1: altazorchile (big blind) folded on the Flop
+Seat 2: RuraBita collected ($0.09)
+Seat 3: rsxcd479 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302386505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:54:34 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.68 in chips) 
+Seat 2: RuraBita ($1.66 in chips) 
+Seat 4: Lorpugo ($3.25 in chips) 
+Seat 5: 777vivas777 ($1.09 in chips) 
+Seat 6: KKonroy ($4.06 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 7h]
+Lorpugo: folds 
+777vivas777: folds 
+KKonroy: folds 
+altazorchile: calls $0.01
+RuraBita: checks 
+*** FLOP *** [3h 2c As]
+altazorchile: checks 
+RuraBita: checks 
+*** TURN *** [3h 2c As] [5h]
+altazorchile: checks 
+RuraBita: checks 
+*** RIVER *** [3h 2c As 5h] [Ah]
+altazorchile: checks 
+RuraBita: bets $0.06
+altazorchile: folds 
+Uncalled bet ($0.06) returned to RuraBita
+RuraBita collected $0.04 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h 2c As 5h Ah]
+Seat 1: altazorchile (small blind) folded on the River
+Seat 2: RuraBita (big blind) collected ($0.04)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302394180:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:55:11 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.66 in chips) 
+Seat 2: RuraBita ($1.68 in chips) 
+Seat 4: Lorpugo ($3.25 in chips) 
+Seat 5: 777vivas777 ($1.09 in chips) 
+Seat 6: KKonroy ($4.06 in chips) 
+RuraBita: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 9s]
+777vivas777: folds 
+KKonroy: raises $0.03 to $0.05
+altazorchile: calls $0.05
+RuraBita: folds 
+Lorpugo: folds 
+*** FLOP *** [Ah Js 5d]
+KKonroy: bets $0.08
+altazorchile: calls $0.08
+*** TURN *** [Ah Js 5d] [Qs]
+VDF19 joins the table at seat #3 
+KKonroy: bets $0.24
+altazorchile: folds 
+Uncalled bet ($0.24) returned to KKonroy
+KKonroy collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ah Js 5d Qs]
+Seat 1: altazorchile (button) folded on the Turn
+Seat 2: RuraBita (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: KKonroy collected ($0.28)
+
+
+
+PokerStars Hand #239302399207:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:55:39 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.53 in chips) 
+Seat 2: RuraBita ($1.67 in chips) 
+Seat 4: Lorpugo ($3.23 in chips) 
+Seat 5: 777vivas777 ($1.09 in chips) 
+Seat 6: KKonroy ($4.21 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Jh]
+KKonroy: folds 
+altazorchile: calls $0.02
+RuraBita: raises $0.02 to $0.04
+Lorpugo: folds 
+777vivas777: calls $0.02
+altazorchile: calls $0.02
+*** FLOP *** [2d Qc 9d]
+777vivas777: checks 
+altazorchile: bets $0.06
+RuraBita: folds 
+777vivas777: folds 
+Uncalled bet ($0.06) returned to altazorchile
+altazorchile collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d Qc 9d]
+Seat 1: altazorchile collected ($0.13)
+Seat 2: RuraBita (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 777vivas777 (big blind) folded on the Flop
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302405413:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:56:14 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.62 in chips) 
+Seat 2: RuraBita ($1.63 in chips) 
+Seat 4: Lorpugo ($3.22 in chips) 
+Seat 5: 777vivas777 ($1.05 in chips) 
+Seat 6: KKonroy ($4.21 in chips) 
+777vivas777: posts small blind $0.01
+KKonroy: posts big blind $0.02
+VDF19: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9s]
+altazorchile: folds 
+RuraBita: folds 
+Lorpugo: raises $0.04 to $0.06
+777vivas777: calls $0.05
+KKonroy: calls $0.04
+*** FLOP *** [4s 2c 5c]
+777vivas777: checks 
+KKonroy: bets $0.11
+Lorpugo: folds 
+777vivas777: raises $0.88 to $0.99 and is all-in
+KKonroy: calls $0.88
+*** TURN *** [4s 2c 5c] [2d]
+*** RIVER *** [4s 2c 5c 2d] [2s]
+*** SHOW DOWN ***
+777vivas777: shows [7d 7s] (a full house, Deuces full of Sevens)
+KKonroy: shows [5h 8h] (a full house, Deuces full of Fives)
+777vivas777 cashed out the hand for $1.64 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.08 
+Board [4s 2c 5c 2d 2s]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded on the Flop
+Seat 5: 777vivas777 (small blind) showed [7d 7s] and won ($2.08) with a full house, Deuces full of Sevens (pot not awarded as player cashed out)
+Seat 6: KKonroy (big blind) showed [5h 8h] and lost with a full house, Deuces full of Fives
+
+
+
+PokerStars Hand #239302415383:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:57:11 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.62 in chips) 
+Seat 2: RuraBita ($1.63 in chips) 
+Seat 4: Lorpugo ($3.16 in chips) 
+Seat 5: 777vivas777 ($1.64 in chips) 
+Seat 6: KKonroy ($3.16 in chips) 
+KKonroy: posts small blind $0.01
+altazorchile: posts big blind $0.02
+VDF19: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 3d]
+RuraBita: folds 
+Lorpugo: folds 
+777vivas777: folds 
+KKonroy: raises $0.03 to $0.05
+altazorchile: calls $0.03
+*** FLOP *** [Kc Ad 3h]
+KKonroy: bets $0.06
+altazorchile: calls $0.06
+*** TURN *** [Kc Ad 3h] [Ks]
+KKonroy: checks 
+altazorchile: bets $0.10
+KKonroy: folds 
+Uncalled bet ($0.10) returned to altazorchile
+altazorchile collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Kc Ad 3h Ks]
+Seat 1: altazorchile (big blind) collected ($0.21)
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: KKonroy (small blind) folded on the Turn
+
+
+
+PokerStars Hand #239302422634:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:57:51 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.72 in chips) 
+Seat 2: RuraBita ($1.63 in chips) 
+Seat 4: Lorpugo ($3.16 in chips) 
+Seat 5: 777vivas777 ($1.64 in chips) 
+Seat 6: KKonroy ($3.05 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+VDF19: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 9d]
+Lorpugo: folds 
+777vivas777: raises $0.02 to $0.04
+KKonroy: folds 
+altazorchile: calls $0.03
+RuraBita: calls $0.02
+*** FLOP *** [Ts 4h 9c]
+altazorchile: checks 
+RuraBita: checks 
+777vivas777: checks 
+*** TURN *** [Ts 4h 9c] [Ac]
+altazorchile: bets $0.12
+RuraBita: raises $0.12 to $0.24
+777vivas777: folds 
+altazorchile: calls $0.12
+*** RIVER *** [Ts 4h 9c Ac] [Tc]
+altazorchile: checks 
+RuraBita: bets $0.58
+altazorchile: calls $0.58
+*** SHOW DOWN ***
+RuraBita: shows [Kd As] (two pair, Aces and Tens)
+altazorchile: mucks hand 
+RuraBita collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.06 
+Board [Ts 4h 9c Ac Tc]
+Seat 1: altazorchile (small blind) mucked [9s Ah]
+Seat 2: RuraBita (big blind) showed [Kd As] and won ($1.70) with two pair, Aces and Tens
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded on the Turn
+Seat 6: KKonroy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302434948:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:59:01 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($0.86 in chips) 
+Seat 2: RuraBita ($2.47 in chips) 
+Seat 3: VDF19 ($1.60 in chips) 
+Seat 4: Lorpugo ($3.16 in chips) 
+Seat 5: 777vivas777 ($1.60 in chips) 
+Seat 6: KKonroy ($3.05 in chips) 
+RuraBita: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 6s]
+Lorpugo: folds 
+777vivas777: folds 
+KKonroy: raises $0.03 to $0.05
+altazorchile: folds 
+RuraBita: calls $0.04
+VDF19: raises $0.03 to $0.08
+KKonroy: calls $0.03
+RuraBita: calls $0.03
+*** FLOP *** [3s 6c 2s]
+RuraBita: checks 
+VDF19: checks 
+KKonroy: checks 
+*** TURN *** [3s 6c 2s] [4s]
+RuraBita: bets $0.10
+VDF19: folds 
+KKonroy: calls $0.10
+*** RIVER *** [3s 6c 2s 4s] [Qs]
+RuraBita: checks 
+KKonroy: bets $0.27
+RuraBita: folds 
+Uncalled bet ($0.27) returned to KKonroy
+KKonroy collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [3s 6c 2s 4s Qs]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: RuraBita (small blind) folded on the River
+Seat 3: VDF19 (big blind) folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: KKonroy collected ($0.42)
+
+
+
+PokerStars Hand #239302445118:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 8:59:59 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($0.86 in chips) 
+Seat 2: RuraBita ($2.29 in chips) 
+Seat 3: VDF19 ($1.52 in chips) 
+Seat 4: Lorpugo ($3.16 in chips) 
+Seat 5: 777vivas777 ($1.60 in chips) 
+Seat 6: KKonroy ($3.29 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4d]
+777vivas777: folds 
+KKonroy: folds 
+altazorchile: folds 
+RuraBita: calls $0.02
+VDF19: raises $0.04 to $0.06
+Lorpugo: folds 
+RuraBita: calls $0.04
+*** FLOP *** [7c Ts Jd]
+VDF19: bets $0.06
+RuraBita: folds 
+Uncalled bet ($0.06) returned to VDF19
+VDF19 collected $0.14 from pot
+VDF19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c Ts Jd]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita (button) folded on the Flop
+Seat 3: VDF19 (small blind) collected ($0.14)
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: KKonroy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302450963:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:00:32 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($0.86 in chips) 
+Seat 2: RuraBita ($2.23 in chips) 
+Seat 3: VDF19 ($1.60 in chips) 
+Seat 4: Lorpugo ($3.14 in chips) 
+Seat 5: 777vivas777 ($1.60 in chips) 
+Seat 6: KKonroy ($3.29 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 6c]
+KKonroy: raises $0.03 to $0.05
+altazorchile: folds 
+RuraBita: folds 
+VDF19: calls $0.05
+Lorpugo: calls $0.04
+777vivas777: folds 
+*** FLOP *** [5s Ad 2d]
+Lorpugo: checks 
+KKonroy: bets $0.10
+VDF19: folds 
+Lorpugo: calls $0.10
+*** TURN *** [5s Ad 2d] [Qd]
+Lorpugo: checks 
+KKonroy: bets $0.18
+Lorpugo: calls $0.18
+*** RIVER *** [5s Ad 2d Qd] [8c]
+Lorpugo: checks 
+KKonroy: bets $0.61
+Lorpugo: folds 
+Uncalled bet ($0.61) returned to KKonroy
+KKonroy collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [5s Ad 2d Qd 8c]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: VDF19 (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded on the River
+Seat 5: 777vivas777 (big blind) folded before Flop
+Seat 6: KKonroy collected ($0.70)
+
+
+
+PokerStars Hand #239302464260:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:01:39 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($0.86 in chips) 
+Seat 2: RuraBita ($2.23 in chips) 
+Seat 3: VDF19 ($1.55 in chips) 
+Seat 4: Lorpugo ($2.81 in chips) 
+Seat 5: 777vivas777 ($1.58 in chips) 
+777vivas777: posts small blind $0.01
+KKonroy: is sitting out 
+KKonroy leaves the table
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Jd]
+RuraBita: folds 
+VDF19: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+777vivas777: folds 
+drive107 joins the table at seat #6 
+altazorchile: folds 
+VDF19: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: VDF19 folded before Flop
+Seat 4: Lorpugo (button) collected ($0.07)
+Seat 5: 777vivas777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302469101:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:02:03 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($0.84 in chips) 
+Seat 2: RuraBita ($2.23 in chips) 
+Seat 3: VDF19 ($1.53 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: 777vivas777 ($1.57 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Qd]
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+altazorchile: folds 
+Uncalled bet ($0.01) returned to RuraBita
+RuraBita collected $0.02 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: RuraBita (big blind) collected ($0.02)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302471883:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:02:17 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($0.83 in chips) 
+Seat 2: RuraBita ($2.24 in chips) 
+Seat 3: VDF19 ($1.53 in chips) 
+Seat 4: Lorpugo ($2.86 in chips) 
+Seat 5: 777vivas777 ($1.57 in chips) 
+RuraBita: posts small blind $0.01
+VDF19: posts big blind $0.02
+drive107: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 9h]
+Lorpugo: raises $0.04 to $0.06
+777vivas777: folds 
+altazorchile: folds 
+RuraBita: calls $0.05
+VDF19: calls $0.04
+*** FLOP *** [7h 7d 5c]
+RuraBita: checks 
+VDF19: checks 
+Lorpugo: bets $0.11
+RuraBita: calls $0.11
+VDF19: folds 
+*** TURN *** [7h 7d 5c] [Qs]
+RuraBita: checks 
+Lorpugo: bets $0.10
+RuraBita: calls $0.10
+*** RIVER *** [7h 7d 5c Qs] [4d]
+RuraBita: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+RuraBita: shows [Js Jh] (two pair, Jacks and Sevens)
+Lorpugo: mucks hand 
+RuraBita collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7h 7d 5c Qs 4d]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: RuraBita (small blind) showed [Js Jh] and won ($0.58) with two pair, Jacks and Sevens
+Seat 3: VDF19 (big blind) folded on the Flop
+Seat 4: Lorpugo mucked [9c 9h]
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302486592:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:03:28 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($0.83 in chips) 
+Seat 2: RuraBita ($2.55 in chips) 
+Seat 3: VDF19 ($1.47 in chips) 
+Seat 4: Lorpugo ($2.59 in chips) 
+Seat 5: 777vivas777 ($1.57 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+drive107: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2c]
+777vivas777: folds 
+altazorchile: raises $0.04 to $0.06
+RuraBita: calls $0.06
+VDF19: folds 
+Lorpugo: folds 
+*** FLOP *** [5c 4c Ks]
+altazorchile: checks 
+RuraBita: checks 
+*** TURN *** [5c 4c Ks] [Kc]
+altazorchile: checks 
+RuraBita: checks 
+*** RIVER *** [5c 4c Ks Kc] [Ac]
+altazorchile: checks 
+RuraBita: bets $0.10
+altazorchile: folds 
+Uncalled bet ($0.10) returned to RuraBita
+RuraBita collected $0.14 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5c 4c Ks Kc Ac]
+Seat 1: altazorchile folded on the River
+Seat 2: RuraBita (button) collected ($0.14)
+Seat 3: VDF19 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302499620:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:04:30 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($0.77 in chips) 
+Seat 2: RuraBita ($2.63 in chips) 
+Seat 3: VDF19 ($1.46 in chips) 
+Seat 4: Lorpugo ($2.57 in chips) 
+Seat 5: 777vivas777 ($1.57 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+drive107: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Qc]
+altazorchile: folds 
+RuraBita: folds 
+VDF19: raises $0.04 to $0.06
+Lorpugo: raises $0.14 to $0.20
+777vivas777: folds 
+VDF19: calls $0.14
+*** FLOP *** [8c 4c 8s]
+Lorpugo: bets $0.27
+VDF19: raises $0.99 to $1.26 and is all-in
+Lorpugo: calls $0.99
+*** TURN *** [8c 4c 8s] [Ks]
+*** RIVER *** [8c 4c 8s Ks] [Ad]
+*** SHOW DOWN ***
+Lorpugo: shows [Ac Qc] (two pair, Aces and Eights)
+VDF19: shows [Jh Js] (two pair, Jacks and Eights)
+Lorpugo collected $2.84 from pot
+*** SUMMARY ***
+Total pot $2.94 | Rake $0.10 
+Board [8c 4c 8s Ks Ad]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: VDF19 (button) showed [Jh Js] and lost with two pair, Jacks and Eights
+Seat 4: Lorpugo (small blind) showed [Ac Qc] and won ($2.84) with two pair, Aces and Eights
+Seat 5: 777vivas777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302509110:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:05:16 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($0.77 in chips) 
+Seat 2: RuraBita ($2.63 in chips) 
+Seat 4: Lorpugo ($3.95 in chips) 
+Seat 5: 777vivas777 ($1.55 in chips) 
+Seat 6: drive107 ($2 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Tc]
+altazorchile: folds 
+RuraBita: calls $0.02
+Lorpugo: calls $0.02
+777vivas777: folds 
+drive107: checks 
+*** FLOP *** [Ac 4c 2d]
+drive107: checks 
+RuraBita: checks 
+Lorpugo: checks 
+*** TURN *** [Ac 4c 2d] [7h]
+drive107: bets $0.07
+RuraBita: raises $0.07 to $0.14
+Lorpugo: folds 
+drive107: calls $0.07
+*** RIVER *** [Ac 4c 2d 7h] [8d]
+drive107: checks 
+RuraBita: bets $0.34
+drive107: folds 
+Uncalled bet ($0.34) returned to RuraBita
+RuraBita collected $0.34 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Ac 4c 2d 7h 8d]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita collected ($0.34)
+Seat 4: Lorpugo (button) folded on the Turn
+Seat 5: 777vivas777 (small blind) folded before Flop
+Seat 6: drive107 (big blind) folded on the River
+
+
+
+PokerStars Hand #239302519491:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:06:05 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($0.77 in chips) 
+Seat 2: RuraBita ($2.81 in chips) 
+Seat 3: VDF19 ($2 in chips) 
+Seat 4: Lorpugo ($3.93 in chips) 
+Seat 5: 777vivas777 ($1.54 in chips) 
+Seat 6: drive107 ($1.84 in chips) 
+drive107: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ah]
+RuraBita: folds 
+VDF19: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+777vivas777: folds 
+drive107: folds 
+altazorchile: folds 
+*** FLOP *** [8s Qh 5d]
+VDF19: checks 
+Lorpugo: checks 
+*** TURN *** [8s Qh 5d] [6d]
+VDF19: checks 
+Lorpugo: bets $0.07
+VDF19: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s Qh 5d 6d]
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: VDF19 folded on the Turn
+Seat 4: Lorpugo collected ($0.14)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302528243:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:06:46 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($0.75 in chips) 
+Seat 2: RuraBita ($2.81 in chips) 
+Seat 3: VDF19 ($1.94 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: 777vivas777 ($1.54 in chips) 
+Seat 6: drive107 ($1.83 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Qh]
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+drive107: raises $0.04 to $0.06
+altazorchile: folds 
+RuraBita: folds 
+Uncalled bet ($0.04) returned to drive107
+drive107 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: RuraBita (big blind) folded before Flop
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 (button) collected ($0.05)
+
+
+
+PokerStars Hand #239302532823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:07:08 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($0.74 in chips) 
+Seat 2: RuraBita ($2.79 in chips) 
+Seat 3: VDF19 ($1.94 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: 777vivas777 ($1.54 in chips) 
+Seat 6: drive107 ($1.86 in chips) 
+RuraBita: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 3d]
+Lorpugo: folds 
+777vivas777: folds 
+drive107: raises $0.04 to $0.06
+altazorchile: folds 
+RuraBita: folds 
+VDF19: calls $0.04
+*** FLOP *** [7c 4d 8h]
+VDF19: bets $0.04
+drive107: raises $0.11 to $0.15
+VDF19: raises $0.11 to $0.26
+drive107: raises $1.54 to $1.80 and is all-in
+VDF19: folds 
+Uncalled bet ($1.54) returned to drive107
+drive107 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [7c 4d 8h]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: RuraBita (small blind) folded before Flop
+Seat 3: VDF19 (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 collected ($0.63)
+
+
+
+PokerStars Hand #239302543529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:07:58 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($0.74 in chips) 
+Seat 2: RuraBita ($2.78 in chips) 
+Seat 3: VDF19 ($1.62 in chips) 
+Seat 4: Lorpugo ($4.01 in chips) 
+Seat 5: 777vivas777 ($1.54 in chips) 
+Seat 6: drive107 ($2.17 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qc]
+777vivas777: folds 
+drive107: folds 
+altazorchile: folds 
+RuraBita: calls $0.02
+VDF19: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+RuraBita: folds 
+VDF19: calls $0.12
+*** FLOP *** [2h 9h 7h]
+VDF19: checks 
+Lorpugo: checks 
+*** TURN *** [2h 9h 7h] [Ks]
+VDF19: bets $0.14
+Lorpugo: calls $0.14
+*** RIVER *** [2h 9h 7h Ks] [6s]
+VDF19: bets $0.32
+Lorpugo: calls $0.32
+*** SHOW DOWN ***
+VDF19: shows [Qd Jc] (high card King)
+Lorpugo: shows [Kd Qc] (a pair of Kings)
+Lorpugo collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [2h 9h 7h Ks 6s]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita (button) folded before Flop
+Seat 3: VDF19 (small blind) showed [Qd Jc] and lost with high card King
+Seat 4: Lorpugo (big blind) showed [Kd Qc] and won ($1.25) with a pair of Kings
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302553863:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:08:46 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($0.74 in chips) 
+Seat 2: RuraBita ($2.76 in chips) 
+Seat 3: VDF19 ($0.98 in chips) 
+Seat 4: Lorpugo ($4.62 in chips) 
+Seat 6: drive107 ($2.17 in chips) 
+Lorpugo: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 3d]
+altazorchile: raises $0.04 to $0.06
+RuraBita: calls $0.06
+VDF19: raises $0.92 to $0.98 and is all-in
+Lorpugo: folds 
+drive107: folds 
+altazorchile: folds 
+RuraBita: folds 
+Uncalled bet ($0.92) returned to VDF19
+VDF19 collected $0.21 from pot
+VDF19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: altazorchile folded before Flop
+Seat 2: RuraBita folded before Flop
+Seat 3: VDF19 (button) collected ($0.21)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 6: drive107 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302560190:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:09:16 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($0.68 in chips) 
+Seat 2: RuraBita ($2.70 in chips) 
+Seat 3: VDF19 ($1.13 in chips) 
+Seat 4: Lorpugo ($4.61 in chips) 
+Seat 6: drive107 ($2.15 in chips) 
+drive107: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 8d]
+RuraBita: raises $0.02 to $0.04
+VDF19: calls $0.04
+Lorpugo: raises $0.15 to $0.19
+drive107: folds 
+altazorchile: folds 
+RuraBita: calls $0.15
+VDF19: calls $0.15
+*** FLOP *** [7d Qs Ac]
+RuraBita: checks 
+VDF19: checks 
+Lorpugo: checks 
+*** TURN *** [7d Qs Ac] [2s]
+RuraBita: bets $0.10
+VDF19: calls $0.10
+Lorpugo: folds 
+*** RIVER *** [7d Qs Ac 2s] [Ks]
+RuraBita: checks 
+VDF19: bets $0.38
+RuraBita: calls $0.38
+*** SHOW DOWN ***
+VDF19: shows [7s 8s] (a flush, King high)
+RuraBita: mucks hand 
+VDF19 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05 
+Board [7d Qs Ac 2s Ks]
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: RuraBita mucked [Jh Qc]
+Seat 3: VDF19 showed [7s 8s] and won ($1.51) with a flush, King high
+Seat 4: Lorpugo (button) folded on the Turn
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302575263:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:10:27 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($0.66 in chips) 
+Seat 2: RuraBita ($2.03 in chips) 
+Seat 3: VDF19 ($1.97 in chips) 
+Seat 4: Lorpugo ($4.42 in chips) 
+Seat 5: 777vivas777 ($1.54 in chips) 
+Seat 6: drive107 ($2.14 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+777vivas777: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 5s]
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: checks 
+drive107: folds 
+altazorchile: calls $0.01
+RuraBita: checks 
+*** FLOP *** [Jh 6h 7s]
+altazorchile: checks 
+RuraBita: checks 
+777vivas777: checks 
+*** TURN *** [Jh 6h 7s] [As]
+altazorchile: checks 
+RuraBita: bets $0.07
+777vivas777: folds 
+altazorchile: folds 
+Uncalled bet ($0.07) returned to RuraBita
+RuraBita collected $0.07 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Jh 6h 7s As]
+Seat 1: altazorchile (small blind) folded on the Turn
+Seat 2: RuraBita (big blind) collected ($0.07)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded on the Turn (didn't bet)
+Seat 6: drive107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302585892:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:11:17 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($0.64 in chips) 
+Seat 2: RuraBita ($2.08 in chips) 
+Seat 3: VDF19 ($1.97 in chips) 
+Seat 4: Lorpugo ($4.42 in chips) 
+Seat 5: 777vivas777 ($1.51 in chips) 
+Seat 6: drive107 ($2.14 in chips) 
+RuraBita: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2s]
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+altazorchile: folds 
+RuraBita: calls $0.01
+VDF19: checks 
+*** FLOP *** [8c 8d Qs]
+RuraBita: checks 
+VDF19: bets $0.04
+RuraBita: calls $0.04
+*** TURN *** [8c 8d Qs] [Jd]
+RuraBita: checks 
+VDF19: bets $0.06
+RuraBita: calls $0.06
+*** RIVER *** [8c 8d Qs Jd] [Ks]
+RuraBita: checks 
+VDF19: bets $0.14
+RuraBita: folds 
+Uncalled bet ($0.14) returned to VDF19
+VDF19 collected $0.23 from pot
+VDF19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8c 8d Qs Jd Ks]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: RuraBita (small blind) folded on the River
+Seat 3: VDF19 (big blind) collected ($0.23)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302600208:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:12:24 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($0.64 in chips) 
+Seat 2: RuraBita ($1.96 in chips) 
+Seat 3: VDF19 ($2.08 in chips) 
+Seat 4: Lorpugo ($4.42 in chips) 
+Seat 5: 777vivas777 ($1.51 in chips) 
+Seat 6: drive107 ($2.14 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 8s]
+777vivas777: folds 
+drive107: folds 
+altazorchile: raises $0.04 to $0.06
+RuraBita: folds 
+VDF19: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [6c 8h 2d]
+VDF19: bets $0.08
+altazorchile: calls $0.08
+*** TURN *** [6c 8h 2d] [Tc]
+VDF19: bets $0.14
+altazorchile: raises $0.36 to $0.50 and is all-in
+VDF19: calls $0.36
+*** RIVER *** [6c 8h 2d Tc] [Qh]
+*** SHOW DOWN ***
+VDF19: shows [7s 9d] (a straight, Six to Ten)
+altazorchile: shows [9s 9c] (a pair of Nines)
+VDF19 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [6c 8h 2d Tc Qh]
+Seat 1: altazorchile showed [9s 9c] and lost with a pair of Nines
+Seat 2: RuraBita (button) folded before Flop (didn't bet)
+Seat 3: VDF19 (small blind) showed [7s 9d] and won ($1.25) with a straight, Six to Ten
+Seat 4: Lorpugo (big blind) folded before Flop
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302610368:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:13:12 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 2: RuraBita ($1.96 in chips) 
+Seat 3: VDF19 ($2.69 in chips) 
+Seat 4: Lorpugo ($4.40 in chips) 
+Seat 5: 777vivas777 ($1.51 in chips) 
+Seat 6: drive107 ($2.14 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qs]
+drive107: raises $0.05 to $0.07
+RuraBita: folds 
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+Uncalled bet ($0.05) returned to drive107
+drive107 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: VDF19 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 777vivas777 (big blind) folded before Flop
+Seat 6: drive107 collected ($0.05)
+
+
+
+PokerStars Hand #239302612921:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:13:24 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.60 in chips) 
+Seat 2: RuraBita ($1.96 in chips) 
+Seat 3: VDF19 ($2.69 in chips) 
+Seat 4: Lorpugo ($4.39 in chips) 
+Seat 5: 777vivas777 ($1.49 in chips) 
+Seat 6: drive107 ($2.17 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 2d]
+altazorchile: folds 
+RuraBita: calls $0.02
+VDF19: raises $0.04 to $0.06
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+RuraBita: calls $0.04
+*** FLOP *** [Tc 7h 8s]
+RuraBita: checks 
+VDF19: bets $0.10
+RuraBita: folds 
+Uncalled bet ($0.10) returned to VDF19
+VDF19 collected $0.14 from pot
+VDF19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Tc 7h 8s]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita folded on the Flop
+Seat 3: VDF19 collected ($0.14)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: 777vivas777 (small blind) folded before Flop
+Seat 6: drive107 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302619520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:13:55 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.60 in chips) 
+Seat 2: RuraBita ($1.90 in chips) 
+Seat 3: VDF19 ($2.77 in chips) 
+Seat 4: Lorpugo ($4.39 in chips) 
+Seat 5: 777vivas777 ($1.48 in chips) 
+Seat 6: drive107 ($2.15 in chips) 
+drive107: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6s]
+RuraBita: folds 
+VDF19: raises $0.04 to $0.06
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+altazorchile: raises $0.13 to $0.19
+VDF19: calls $0.13
+*** FLOP *** [6d Qd 4c]
+altazorchile: bets $0.02
+VDF19: calls $0.02
+*** TURN *** [6d Qd 4c] [3c]
+altazorchile: bets $0.20
+VDF19: calls $0.20
+*** RIVER *** [6d Qd 4c 3c] [2s]
+altazorchile: bets $0.40
+VDF19: folds 
+Uncalled bet ($0.40) returned to altazorchile
+altazorchile collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [6d Qd 4c 3c 2s]
+Seat 1: altazorchile (big blind) collected ($0.80)
+Seat 2: RuraBita folded before Flop (didn't bet)
+Seat 3: VDF19 folded on the River
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302628651:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:14:37 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.99 in chips) 
+Seat 2: RuraBita ($1.90 in chips) 
+Seat 3: VDF19 ($2.36 in chips) 
+Seat 4: Lorpugo ($4.39 in chips) 
+Seat 5: 777vivas777 ($1.48 in chips) 
+Seat 6: drive107 ($2.14 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2s]
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: raises $0.02 to $0.04
+drive107: folds 
+altazorchile: folds 
+RuraBita: folds 
+Uncalled bet ($0.02) returned to 777vivas777
+777vivas777 collected $0.05 from pot
+777vivas777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: RuraBita (big blind) folded before Flop
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 collected ($0.05)
+Seat 6: drive107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302635576:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:15:09 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($1.98 in chips) 
+Seat 2: RuraBita ($1.88 in chips) 
+Seat 3: VDF19 ($2.36 in chips) 
+Seat 4: Lorpugo ($4.39 in chips) 
+Seat 5: 777vivas777 ($1.51 in chips) 
+Seat 6: drive107 ($2.14 in chips) 
+RuraBita: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4c]
+Lorpugo: raises $0.04 to $0.06
+777vivas777: folds 
+drive107: calls $0.06
+altazorchile: folds 
+RuraBita: calls $0.05
+VDF19: raises $0.08 to $0.14
+Lorpugo: calls $0.08
+drive107: calls $0.08
+RuraBita: calls $0.08
+*** FLOP *** [Qd 6d 2c]
+RuraBita: checks 
+VDF19: bets $0.12
+Lorpugo: raises $0.18 to $0.30
+drive107: folds 
+RuraBita: folds 
+VDF19: calls $0.18
+*** TURN *** [Qd 6d 2c] [9h]
+VDF19: checks 
+Lorpugo: bets $0.56
+VDF19: folds 
+Uncalled bet ($0.56) returned to Lorpugo
+Lorpugo collected $1.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.04 
+Board [Qd 6d 2c 9h]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: RuraBita (small blind) folded on the Flop
+Seat 3: VDF19 (big blind) folded on the Turn
+Seat 4: Lorpugo collected ($1.12)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded on the Flop
+
+
+
+PokerStars Hand #239302647605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:16:04 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($1.98 in chips) 
+Seat 2: RuraBita ($1.74 in chips) 
+Seat 3: VDF19 ($1.92 in chips) 
+Seat 4: Lorpugo ($5.07 in chips) 
+Seat 5: 777vivas777 ($1.87 in chips) 
+Seat 6: drive107 ($2 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 3c]
+777vivas777: folds 
+drive107: folds 
+altazorchile: folds 
+RuraBita: calls $0.02
+VDF19: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [9s 7h 4s]
+VDF19: checks 
+Lorpugo: checks 
+RuraBita: checks 
+*** TURN *** [9s 7h 4s] [6h]
+VDF19: checks 
+Lorpugo: bets $0.04
+RuraBita: calls $0.04
+VDF19: folds 
+*** RIVER *** [9s 7h 4s 6h] [5h]
+Lorpugo: checks 
+RuraBita: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to RuraBita
+RuraBita collected $0.14 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s 7h 4s 6h 5h]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita (button) collected ($0.14)
+Seat 3: VDF19 (small blind) folded on the Turn
+Seat 4: Lorpugo (big blind) folded on the River
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302660468:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:17:03 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($1.98 in chips) 
+Seat 2: RuraBita ($1.82 in chips) 
+Seat 3: VDF19 ($1.90 in chips) 
+Seat 4: Lorpugo ($5.01 in chips) 
+Seat 5: 777vivas777 ($1.87 in chips) 
+Seat 6: drive107 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 4h]
+drive107: folds 
+altazorchile: raises $0.14 to $0.16
+RuraBita: calls $0.16
+VDF19: calls $0.16
+Lorpugo: folds 
+777vivas777: folds 
+*** FLOP *** [2d 3s 5c]
+altazorchile: bets $0.24
+RuraBita: raises $0.46 to $0.70
+VDF19: folds 
+altazorchile: folds 
+Uncalled bet ($0.46) returned to RuraBita
+RuraBita collected $0.96 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [2d 3s 5c]
+Seat 1: altazorchile folded on the Flop
+Seat 2: RuraBita collected ($0.96)
+Seat 3: VDF19 (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 777vivas777 (big blind) folded before Flop
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302669966:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:17:47 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($1.58 in chips) 
+Seat 2: RuraBita ($2.38 in chips) 
+Seat 3: VDF19 ($1.74 in chips) 
+Seat 4: Lorpugo ($5 in chips) 
+Seat 5: 777vivas777 ($1.85 in chips) 
+Seat 6: drive107 ($2 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Jc]
+altazorchile: folds 
+RuraBita: raises $0.06 to $0.08
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+Uncalled bet ($0.06) returned to RuraBita
+RuraBita collected $0.05 from pot
+RuraBita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: RuraBita collected ($0.05)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: 777vivas777 (small blind) folded before Flop
+Seat 6: drive107 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302674342:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:18:08 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($1.58 in chips) 
+Seat 2: RuraBita ($2.41 in chips) 
+Seat 3: VDF19 ($1.74 in chips) 
+Seat 4: Lorpugo ($5 in chips) 
+Seat 5: 777vivas777 ($1.84 in chips) 
+Seat 6: drive107 ($1.98 in chips) 
+drive107: posts small blind $0.01
+altazorchile: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5c]
+RuraBita: raises $0.08 to $0.10
+VDF19: calls $0.10
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+altazorchile: folds 
+*** FLOP *** [Js Kc 9h]
+RuraBita: bets $0.11
+VDF19: calls $0.11
+*** TURN *** [Js Kc 9h] [Tc]
+RuraBita: bets $0.21
+VDF19: raises $0.43 to $0.64
+RuraBita: raises $1.56 to $2.20 and is all-in
+VDF19: calls $0.89 and is all-in
+Uncalled bet ($0.67) returned to RuraBita
+*** RIVER *** [Js Kc 9h Tc] [Jc]
+*** SHOW DOWN ***
+RuraBita: shows [Qc Kd] (a straight, Nine to King)
+VDF19: shows [Th Jd] (a full house, Jacks full of Tens)
+VDF19 collected $3.39 from pot
+*** SUMMARY ***
+Total pot $3.51 | Rake $0.12 
+Board [Js Kc 9h Tc Jc]
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 2: RuraBita showed [Qc Kd] and lost with a straight, Nine to King
+Seat 3: VDF19 showed [Th Jd] and won ($3.39) with a full house, Jacks full of Tens
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302684864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:18:56 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($1.56 in chips) 
+Seat 2: RuraBita ($0.67 in chips) 
+Seat 3: VDF19 ($3.39 in chips) 
+Seat 4: Lorpugo ($5 in chips) 
+Seat 5: 777vivas777 ($1.84 in chips) 
+Seat 6: drive107 ($1.97 in chips) 
+altazorchile: posts small blind $0.01
+RuraBita: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 9d]
+VDF19: raises $0.04 to $0.06
+Lorpugo: folds 
+777vivas777: calls $0.06
+drive107: folds 
+altazorchile: calls $0.05
+RuraBita: raises $0.61 to $0.67 and is all-in
+VDF19: calls $0.61
+777vivas777: folds 
+altazorchile: calls $0.61
+*** FLOP *** [Td 8s 4h]
+altazorchile: checks 
+VDF19: checks 
+*** TURN *** [Td 8s 4h] [Tc]
+altazorchile: bets $0.89 and is all-in
+VDF19: folds 
+Uncalled bet ($0.89) returned to altazorchile
+*** RIVER *** [Td 8s 4h Tc] [9h]
+*** SHOW DOWN ***
+altazorchile: shows [9c 9s] (a full house, Nines full of Tens)
+RuraBita: shows [7s 4s] (two pair, Tens and Fours)
+altazorchile collected $2 from pot
+*** SUMMARY ***
+Total pot $2.07 | Rake $0.07 
+Board [Td 8s 4h Tc 9h]
+Seat 1: altazorchile (small blind) showed [9c 9s] and won ($2) with a full house, Nines full of Tens
+Seat 2: RuraBita (big blind) showed [7s 4s] and lost with two pair, Tens and Fours
+Seat 3: VDF19 folded on the Turn
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop
+Seat 6: drive107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302699919:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:20:07 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($2.89 in chips) 
+Seat 3: VDF19 ($2.72 in chips) 
+Seat 4: Lorpugo ($5 in chips) 
+Seat 5: 777vivas777 ($1.78 in chips) 
+Seat 6: drive107 ($1.97 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jc]
+777vivas777: folds 
+RuraBita leaves the table
+drive107: raises $0.04 to $0.06
+altazorchile: folds 
+VDF19: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [6s Ad 8h]
+Lorpugo: checks 
+drive107: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to drive107
+drive107 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s Ad 8h]
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 3: VDF19 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 collected ($0.13)
+
+
+
+PokerStars Hand #239302706522:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:20:38 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: altazorchile ($2.89 in chips) 
+Seat 3: VDF19 ($2.71 in chips) 
+Seat 4: Lorpugo ($4.94 in chips) 
+Seat 5: 777vivas777 ($1.78 in chips) 
+Seat 6: drive107 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 9h]
+drive107: folds 
+altazorchile: folds 
+VDF19: folds 
+Lorpugo: raises $0.04 to $0.06
+777vivas777: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 3: VDF19 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: 777vivas777 (big blind) folded before Flop
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302711518:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:21:01 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: altazorchile ($2.89 in chips) 
+Seat 3: VDF19 ($2.71 in chips) 
+Seat 4: Lorpugo ($4.96 in chips) 
+Seat 5: 777vivas777 ($1.76 in chips) 
+Seat 6: drive107 ($2.04 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Kc]
+altazorchile: folds 
+VDF19: folds 
+Lorpugo: raises $0.04 to $0.06
+777vivas777: folds 
+johnny.b.goode1 joins the table at seat #2 
+drive107: calls $0.04
+*** FLOP *** [Ks 5d 6d]
+drive107: checks 
+Lorpugo: checks 
+*** TURN *** [Ks 5d 6d] [7c]
+drive107: bets $0.13
+Lorpugo: raises $0.20 to $0.33
+drive107: calls $0.20
+*** RIVER *** [Ks 5d 6d 7c] [9s]
+drive107: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+drive107: shows [Kd Ah] (a pair of Kings)
+Lorpugo: mucks hand 
+drive107 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.04 
+Board [Ks 5d 6d 7c 9s]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) mucked [4d Kc]
+Seat 5: 777vivas777 (small blind) folded before Flop
+Seat 6: drive107 (big blind) showed [Kd Ah] and won ($0.75) with a pair of Kings
+
+
+
+PokerStars Hand #239302721663:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:21:48 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: altazorchile ($2.89 in chips) 
+Seat 3: VDF19 ($2.71 in chips) 
+Seat 4: Lorpugo ($4.57 in chips) 
+Seat 5: 777vivas777 ($1.75 in chips) 
+Seat 6: drive107 ($2.40 in chips) 
+drive107: posts small blind $0.01
+altazorchile: posts big blind $0.02
+johnny.b.goode1: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5s]
+VDF19 has timed out
+VDF19: folds 
+Lorpugo: raises $0.04 to $0.06
+777vivas777: folds 
+drive107: folds 
+altazorchile: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (big blind) folded before Flop
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302726669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:22:11 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: altazorchile ($2.87 in chips) 
+Seat 2: johnny.b.goode1 ($1 in chips) 
+Seat 4: Lorpugo ($4.60 in chips) 
+Seat 5: 777vivas777 ($1.75 in chips) 
+Seat 6: drive107 ($2.39 in chips) 
+altazorchile: posts small blind $0.01
+johnny.b.goode1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5h]
+Lorpugo: folds 
+777vivas777: folds 
+drive107: raises $0.04 to $0.06
+altazorchile: folds 
+johnny.b.goode1: calls $0.04
+*** FLOP *** [Jd 3c 7d]
+johnny.b.goode1: checks 
+drive107: checks 
+*** TURN *** [Jd 3c 7d] [6c]
+johnny.b.goode1: checks 
+drive107: checks 
+*** RIVER *** [Jd 3c 7d 6c] [Kd]
+johnny.b.goode1: checks 
+drive107: bets $0.06
+johnny.b.goode1: calls $0.06
+*** SHOW DOWN ***
+drive107: shows [Th Qc] (high card King)
+johnny.b.goode1: shows [Kc 9d] (a pair of Kings)
+johnny.b.goode1 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jd 3c 7d 6c Kd]
+Seat 1: altazorchile (small blind) folded before Flop
+Seat 2: johnny.b.goode1 (big blind) showed [Kc 9d] and won ($0.24) with a pair of Kings
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 (button) showed [Th Qc] and lost with high card King
+
+
+
+PokerStars Hand #239302735421:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:22:51 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: altazorchile ($2.86 in chips) 
+Seat 2: johnny.b.goode1 ($1.12 in chips) 
+Seat 3: VDF19 ($2.71 in chips) 
+Seat 4: Lorpugo ($4.60 in chips) 
+Seat 5: 777vivas777 ($1.75 in chips) 
+Seat 6: drive107 ($2.27 in chips) 
+johnny.b.goode1: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 7c]
+Lorpugo: raises $0.04 to $0.06
+777vivas777: folds 
+drive107: folds 
+altazorchile: folds 
+johnny.b.goode1: folds 
+VDF19: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: altazorchile (button) folded before Flop (didn't bet)
+Seat 2: johnny.b.goode1 (small blind) folded before Flop
+Seat 3: VDF19 (big blind) folded before Flop
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302739111:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:23:08 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: altazorchile ($2.86 in chips) 
+Seat 2: johnny.b.goode1 ($1.11 in chips) 
+Seat 3: VDF19 ($2.69 in chips) 
+Seat 4: Lorpugo ($4.63 in chips) 
+Seat 5: 777vivas777 ($1.75 in chips) 
+Seat 6: drive107 ($2.27 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Tc]
+777vivas777: folds 
+drive107: raises $0.05 to $0.07
+altazorchile: folds 
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: calls $0.05
+*** FLOP *** [Qd Js Kc]
+Lorpugo: checks 
+drive107: checks 
+*** TURN *** [Qd Js Kc] [9h]
+Lorpugo: bets $0.09
+drive107: calls $0.09
+*** RIVER *** [Qd Js Kc 9h] [9c]
+altazorchile leaves the table
+Lorpugo: bets $0.16
+drive107: calls $0.16
+*** SHOW DOWN ***
+Lorpugo: shows [8d Tc] (a straight, Nine to King)
+drive107: shows [Jh Th] (a straight, Nine to King)
+Lorpugo collected $0.32 from pot
+drive107 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Qd Js Kc 9h 9c]
+Seat 1: altazorchile folded before Flop (didn't bet)
+Seat 2: johnny.b.goode1 (button) folded before Flop (didn't bet)
+Seat 3: VDF19 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) showed [8d Tc] and won ($0.32) with a straight, Nine to King
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 showed [Jh Th] and won ($0.31) with a straight, Nine to King
+
+
+
+PokerStars Hand #239302750343:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:23:59 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 2: johnny.b.goode1 ($1.11 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.63 in chips) 
+Seat 5: 777vivas777 ($1.75 in chips) 
+Seat 6: drive107 ($2.26 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Js]
+drive107: folds 
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: raises $0.04 to $0.06
+morningstar79 joins the table at seat #1 
+777vivas777: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) collected ($0.04)
+Seat 5: 777vivas777 (big blind) folded before Flop
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302754760:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:24:20 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 2: johnny.b.goode1 ($1.11 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.65 in chips) 
+Seat 5: 777vivas777 ($1.73 in chips) 
+Seat 6: drive107 ($2.26 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+morningstar79: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 3c]
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+Uncalled bet ($0.01) returned to drive107
+drive107 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: 777vivas777 (small blind) folded before Flop
+Seat 6: drive107 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239302756843:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:24:30 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: morningstar79 ($2 in chips) 
+Seat 2: johnny.b.goode1 ($1.11 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.65 in chips) 
+Seat 5: 777vivas777 ($1.72 in chips) 
+Seat 6: drive107 ($2.27 in chips) 
+drive107: posts small blind $0.01
+morningstar79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2d]
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: raises $0.02 to $0.04
+drive107: folds 
+morningstar79: calls $0.02
+*** FLOP *** [6h Qs 9c]
+morningstar79: bets $0.04
+777vivas777: calls $0.04
+*** TURN *** [6h Qs 9c] [Kc]
+morningstar79: bets $0.08
+777vivas777: folds 
+Uncalled bet ($0.08) returned to morningstar79
+morningstar79 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6h Qs 9c Kc]
+Seat 1: morningstar79 (big blind) collected ($0.16)
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 (button) folded on the Turn
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302770063:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:25:31 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: morningstar79 ($2.08 in chips) 
+Seat 2: johnny.b.goode1 ($1.11 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.65 in chips) 
+Seat 5: 777vivas777 ($1.64 in chips) 
+Seat 6: drive107 ($2.26 in chips) 
+morningstar79: posts small blind $0.01
+johnny.b.goode1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 5s]
+VDF19: folds 
+Lorpugo: raises $0.04 to $0.06
+777vivas777: folds 
+drive107: folds 
+morningstar79: folds 
+johnny.b.goode1: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: morningstar79 (small blind) folded before Flop
+Seat 2: johnny.b.goode1 (big blind) folded before Flop
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.05)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302774013:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:25:49 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: morningstar79 ($2.07 in chips) 
+Seat 2: johnny.b.goode1 ($1.09 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.68 in chips) 
+Seat 5: 777vivas777 ($1.64 in chips) 
+Seat 6: drive107 ($2.26 in chips) 
+johnny.b.goode1: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5h]
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+morningstar79: folds 
+johnny.b.goode1: folds 
+Uncalled bet ($0.01) returned to VDF19
+VDF19 collected $0.02 from pot
+VDF19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: morningstar79 (button) folded before Flop (didn't bet)
+Seat 2: johnny.b.goode1 (small blind) folded before Flop
+Seat 3: VDF19 (big blind) collected ($0.02)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302776144:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:25:59 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: morningstar79 ($2.07 in chips) 
+Seat 2: johnny.b.goode1 ($1.08 in chips) 
+Seat 3: VDF19 ($2.69 in chips) 
+Seat 4: Lorpugo ($4.68 in chips) 
+Seat 5: 777vivas777 ($1.64 in chips) 
+Seat 6: drive107 ($2.26 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 4h]
+777vivas777: folds 
+drive107: folds 
+morningstar79: folds 
+johnny.b.goode1: raises $0.03 to $0.05
+VDF19: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [9s 8d Td]
+Lorpugo: checks 
+johnny.b.goode1: checks 
+*** TURN *** [9s 8d Td] [Ts]
+Lorpugo: bets $0.05
+johnny.b.goode1: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9s 8d Td Ts]
+Seat 1: morningstar79 folded before Flop (didn't bet)
+Seat 2: johnny.b.goode1 (button) folded on the Turn
+Seat 3: VDF19 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) collected ($0.11)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302785107:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:26:40 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: morningstar79 ($2.07 in chips) 
+Seat 2: johnny.b.goode1 ($1.03 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.74 in chips) 
+Seat 5: 777vivas777 ($1.64 in chips) 
+Seat 6: drive107 ($2.26 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 3h]
+drive107: raises $0.05 to $0.07
+morningstar79: calls $0.07
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+*** FLOP *** [5c Js 4s]
+drive107: bets $0.16
+morningstar79: calls $0.16
+*** TURN *** [5c Js 4s] [5s]
+drive107: checks 
+morningstar79: bets $0.20
+drive107: folds 
+Uncalled bet ($0.20) returned to morningstar79
+morningstar79 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [5c Js 4s 5s]
+Seat 1: morningstar79 collected ($0.47)
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 777vivas777 (big blind) folded before Flop
+Seat 6: drive107 folded on the Turn
+
+
+
+PokerStars Hand #239302800660:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:27:51 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: morningstar79 ($2.31 in chips) 
+Seat 2: johnny.b.goode1 ($1.03 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.73 in chips) 
+Seat 5: 777vivas777 ($1.62 in chips) 
+Seat 6: drive107 ($2.03 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Ks]
+morningstar79: folds 
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: raises $0.02 to $0.04
+drive107: folds 
+Uncalled bet ($0.02) returned to 777vivas777
+777vivas777 collected $0.04 from pot
+777vivas777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: morningstar79 folded before Flop (didn't bet)
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: 777vivas777 (small blind) collected ($0.04)
+Seat 6: drive107 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302804024:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:28:06 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: morningstar79 ($2.31 in chips) 
+Seat 2: johnny.b.goode1 ($1.03 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.73 in chips) 
+Seat 5: 777vivas777 ($1.64 in chips) 
+Seat 6: drive107 ($2.01 in chips) 
+drive107: posts small blind $0.01
+morningstar79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Qd]
+johnny.b.goode1: raises $0.04 to $0.06
+VDF19: folds 
+Lorpugo: calls $0.06
+777vivas777: calls $0.06
+drive107: folds 
+morningstar79: raises $0.04 to $0.10
+johnny.b.goode1: raises $0.93 to $1.03 and is all-in
+Lorpugo: folds 
+777vivas777: folds 
+morningstar79: calls $0.93
+*** FLOP *** [5s 4s 5h]
+*** TURN *** [5s 4s 5h] [Ts]
+*** RIVER *** [5s 4s 5h Ts] [Tc]
+*** SHOW DOWN ***
+morningstar79: shows [8c 8d] (two pair, Tens and Eights)
+johnny.b.goode1: shows [As Ad] (two pair, Aces and Tens)
+morningstar79 cashed out the hand for $0.42
+johnny.b.goode1 cashed out the hand for $1.67 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.19 | Rake $0.08 
+Board [5s 4s 5h Ts Tc]
+Seat 1: morningstar79 (big blind) showed [8c 8d] and lost with two pair, Tens and Eights (cashed out).
+Seat 2: johnny.b.goode1 showed [As Ad] and won ($2.11) with two pair, Aces and Tens (pot not awarded as player cashed out)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop
+Seat 5: 777vivas777 (button) folded before Flop
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302820480:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:29:23 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: morningstar79 ($1.70 in chips) 
+Seat 2: johnny.b.goode1 ($1.67 in chips) 
+Seat 3: VDF19 ($2.68 in chips) 
+Seat 4: Lorpugo ($4.67 in chips) 
+Seat 5: 777vivas777 ($1.58 in chips) 
+Seat 6: drive107 ($2 in chips) 
+morningstar79: posts small blind $0.01
+johnny.b.goode1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 7s]
+VDF19: calls $0.02
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+morningstar79: raises $0.04 to $0.06
+johnny.b.goode1: folds 
+VDF19: calls $0.04
+*** FLOP *** [3s 7h Jc]
+morningstar79: bets $0.04
+VDF19: folds 
+Uncalled bet ($0.04) returned to morningstar79
+morningstar79 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3s 7h Jc]
+Seat 1: morningstar79 (small blind) collected ($0.14)
+Seat 2: johnny.b.goode1 (big blind) folded before Flop
+Seat 3: VDF19 folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302829494:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:30:04 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: morningstar79 ($1.78 in chips) 
+Seat 2: johnny.b.goode1 ($1.65 in chips) 
+Seat 3: VDF19 ($2.62 in chips) 
+Seat 4: Lorpugo ($4.67 in chips) 
+Seat 5: 777vivas777 ($1.58 in chips) 
+Seat 6: drive107 ($2 in chips) 
+johnny.b.goode1: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5s]
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+morningstar79: folds 
+johnny.b.goode1: raises $0.04 to $0.06
+VDF19: calls $0.04
+*** FLOP *** [9s 6h 9c]
+johnny.b.goode1: bets $0.07
+VDF19: folds 
+Uncalled bet ($0.07) returned to johnny.b.goode1
+johnny.b.goode1 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9s 6h 9c]
+Seat 1: morningstar79 (button) folded before Flop (didn't bet)
+Seat 2: johnny.b.goode1 (small blind) collected ($0.12)
+Seat 3: VDF19 (big blind) folded on the Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302836684:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:30:37 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: morningstar79 ($1.78 in chips) 
+Seat 2: johnny.b.goode1 ($1.71 in chips) 
+Seat 3: VDF19 ($2.56 in chips) 
+Seat 4: Lorpugo ($4.67 in chips) 
+Seat 5: 777vivas777 ($1.58 in chips) 
+Seat 6: drive107 ($2 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2h]
+777vivas777: folds 
+drive107: folds 
+morningstar79: calls $0.02
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: checks 
+*** FLOP *** [8h 6s As]
+Lorpugo: checks 
+morningstar79: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to morningstar79
+morningstar79 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h 6s As]
+Seat 1: morningstar79 collected ($0.05)
+Seat 2: johnny.b.goode1 (button) folded before Flop (didn't bet)
+Seat 3: VDF19 (small blind) folded before Flop
+Seat 4: Lorpugo (big blind) folded on the Flop
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302842125:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:31:02 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: morningstar79 ($1.81 in chips) 
+Seat 2: johnny.b.goode1 ($1.71 in chips) 
+Seat 3: VDF19 ($2.55 in chips) 
+Seat 4: Lorpugo ($4.65 in chips) 
+Seat 5: 777vivas777 ($1.58 in chips) 
+Seat 6: drive107 ($2 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 3s]
+drive107: folds 
+morningstar79: calls $0.02
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: calls $0.01
+777vivas777: checks 
+*** FLOP *** [2h 6c 2s]
+Lorpugo: bets $0.03
+777vivas777: folds 
+morningstar79: calls $0.03
+*** TURN *** [2h 6c 2s] [6s]
+Lorpugo: bets $0.10
+morningstar79: calls $0.10
+*** RIVER *** [2h 6c 2s 6s] [Ah]
+Lorpugo: checks 
+morningstar79: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [As 3s] (two pair, Aces and Sixes)
+morningstar79: mucks hand 
+Lorpugo collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2h 6c 2s 6s Ah]
+Seat 1: morningstar79 mucked [4d Qd]
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 (button) folded before Flop (didn't bet)
+Seat 4: Lorpugo (small blind) showed [As 3s] and won ($0.31) with two pair, Aces and Sixes
+Seat 5: 777vivas777 (big blind) folded on the Flop
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302855802:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:32:04 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: morningstar79 ($1.66 in chips) 
+Seat 2: johnny.b.goode1 ($1.71 in chips) 
+Seat 3: VDF19 ($2.55 in chips) 
+Seat 4: Lorpugo ($4.81 in chips) 
+Seat 5: 777vivas777 ($1.56 in chips) 
+Seat 6: drive107 ($2 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Kd]
+morningstar79: folds 
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: raises $0.04 to $0.06
+777vivas777: calls $0.05
+drive107: folds 
+*** FLOP *** [8c 7s Qc]
+777vivas777: checks 
+Lorpugo: checks 
+*** TURN *** [8c 7s Qc] [3h]
+777vivas777: checks 
+Lorpugo: bets $0.24
+777vivas777: folds 
+Uncalled bet ($0.24) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8c 7s Qc 3h]
+Seat 1: morningstar79 folded before Flop (didn't bet)
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) collected ($0.14)
+Seat 5: 777vivas777 (small blind) folded on the Turn
+Seat 6: drive107 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302863218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:32:38 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: morningstar79 ($1.66 in chips) 
+Seat 2: johnny.b.goode1 ($1.71 in chips) 
+Seat 3: VDF19 ($2.55 in chips) 
+Seat 4: Lorpugo ($4.89 in chips) 
+Seat 5: 777vivas777 ($1.50 in chips) 
+Seat 6: drive107 ($1.98 in chips) 
+drive107: posts small blind $0.01
+morningstar79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8d]
+johnny.b.goode1: raises $0.04 to $0.06
+VDF19: folds 
+Lorpugo: calls $0.06
+777vivas777: folds 
+drive107: folds 
+morningstar79: folds 
+*** FLOP *** [2c 9s 9d]
+johnny.b.goode1: checks 
+Lorpugo: bets $0.09
+johnny.b.goode1: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 9s 9d]
+Seat 1: morningstar79 (big blind) folded before Flop
+Seat 2: johnny.b.goode1 folded on the Flop
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo collected ($0.14)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302869324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:33:06 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: morningstar79 ($1.64 in chips) 
+Seat 2: johnny.b.goode1 ($1.65 in chips) 
+Seat 3: VDF19 ($2.55 in chips) 
+Seat 4: Lorpugo ($4.97 in chips) 
+Seat 5: 777vivas777 ($1.50 in chips) 
+Seat 6: drive107 ($1.97 in chips) 
+morningstar79: posts small blind $0.01
+johnny.b.goode1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 7s]
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: raises $1.48 to $1.50 and is all-in
+drive107: folds 
+morningstar79: folds 
+johnny.b.goode1: folds 
+Uncalled bet ($1.48) returned to 777vivas777
+777vivas777 collected $0.05 from pot
+777vivas777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: morningstar79 (small blind) folded before Flop
+Seat 2: johnny.b.goode1 (big blind) folded before Flop
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 collected ($0.05)
+Seat 6: drive107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302874599:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:33:30 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: morningstar79 ($1.63 in chips) 
+Seat 2: johnny.b.goode1 ($1.63 in chips) 
+Seat 3: VDF19 ($2.55 in chips) 
+Seat 4: Lorpugo ($4.97 in chips) 
+Seat 5: 777vivas777 ($1.53 in chips) 
+Seat 6: drive107 ($1.97 in chips) 
+johnny.b.goode1: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Qs]
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+morningstar79: calls $0.02
+johnny.b.goode1: folds 
+VDF19: checks 
+*** FLOP *** [5h Ah 8h]
+VDF19: bets $0.18
+morningstar79: calls $0.18
+*** TURN *** [5h Ah 8h] [Ac]
+VDF19: bets $0.12
+morningstar79: calls $0.12
+*** RIVER *** [5h Ah 8h Ac] [2c]
+VDF19: bets $0.24
+morningstar79: raises $0.24 to $0.48
+VDF19: calls $0.24
+*** SHOW DOWN ***
+morningstar79: shows [Kh 2h] (a flush, Ace high)
+VDF19: mucks hand 
+morningstar79 collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.08 
+Board [5h Ah 8h Ac 2c]
+Seat 1: morningstar79 (button) showed [Kh 2h] and won ($1.53) with a flush, Ace high
+Seat 2: johnny.b.goode1 (small blind) folded before Flop
+Seat 3: VDF19 (big blind) mucked [2d 8s]
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302883985:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:34:13 ET
+Table 'Eumaios II' 6-max Seat #2 is the button
+Seat 1: morningstar79 ($2.36 in chips) 
+Seat 2: johnny.b.goode1 ($1.62 in chips) 
+Seat 3: VDF19 ($1.75 in chips) 
+Seat 4: Lorpugo ($4.97 in chips) 
+Seat 5: 777vivas777 ($1.53 in chips) 
+Seat 6: drive107 ($1.97 in chips) 
+VDF19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Ks]
+777vivas777: raises $0.02 to $0.04
+drive107: folds 
+morningstar79: calls $0.04
+johnny.b.goode1: folds 
+VDF19: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [2s 3s Kc]
+VDF19: checks 
+Lorpugo: checks 
+777vivas777: checks 
+morningstar79: checks 
+*** TURN *** [2s 3s Kc] [9d]
+VDF19: checks 
+Lorpugo: bets $0.10
+777vivas777: folds 
+morningstar79: calls $0.10
+VDF19: folds 
+*** RIVER *** [2s 3s Kc 9d] [7h]
+Lorpugo: bets $0.23
+morningstar79: folds 
+Uncalled bet ($0.23) returned to Lorpugo
+Lorpugo collected $0.35 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [2s 3s Kc 9d 7h]
+Seat 1: morningstar79 folded on the River
+Seat 2: johnny.b.goode1 (button) folded before Flop (didn't bet)
+Seat 3: VDF19 (small blind) folded on the Turn
+Seat 4: Lorpugo (big blind) collected ($0.35)
+Seat 5: 777vivas777 folded on the Turn
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302899957:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:35:25 ET
+Table 'Eumaios II' 6-max Seat #3 is the button
+Seat 1: morningstar79 ($2.22 in chips) 
+Seat 2: johnny.b.goode1 ($1.62 in chips) 
+Seat 3: VDF19 ($1.71 in chips) 
+Seat 4: Lorpugo ($5.18 in chips) 
+Seat 5: 777vivas777 ($1.49 in chips) 
+Seat 6: drive107 ($1.97 in chips) 
+Lorpugo: posts small blind $0.01
+777vivas777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Js]
+drive107: folds 
+morningstar79: raises $0.04 to $0.06
+johnny.b.goode1: folds 
+VDF19: raises $0.04 to $0.10
+Lorpugo: folds 
+777vivas777: folds 
+morningstar79: calls $0.04
+*** FLOP *** [Kh Th Ah]
+morningstar79: bets $0.22
+VDF19: folds 
+Uncalled bet ($0.22) returned to morningstar79
+morningstar79 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Kh Th Ah]
+Seat 1: morningstar79 collected ($0.22)
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 (button) folded on the Flop
+Seat 4: Lorpugo (small blind) folded before Flop
+Seat 5: 777vivas777 (big blind) folded before Flop
+Seat 6: drive107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302907716:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:36:00 ET
+Table 'Eumaios II' 6-max Seat #4 is the button
+Seat 1: morningstar79 ($2.34 in chips) 
+Seat 2: johnny.b.goode1 ($1.62 in chips) 
+Seat 3: VDF19 ($1.61 in chips) 
+Seat 4: Lorpugo ($5.17 in chips) 
+Seat 5: 777vivas777 ($1.47 in chips) 
+Seat 6: drive107 ($1.97 in chips) 
+777vivas777: posts small blind $0.01
+drive107: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7d]
+morningstar79: raises $0.04 to $0.06
+johnny.b.goode1: folds 
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+Uncalled bet ($0.04) returned to morningstar79
+morningstar79 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: morningstar79 collected ($0.05)
+Seat 2: johnny.b.goode1 folded before Flop (didn't bet)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo (button) folded before Flop (didn't bet)
+Seat 5: 777vivas777 (small blind) folded before Flop
+Seat 6: drive107 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239302911014:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:36:16 ET
+Table 'Eumaios II' 6-max Seat #5 is the button
+Seat 1: morningstar79 ($2.37 in chips) 
+Seat 2: johnny.b.goode1 ($1.62 in chips) 
+Seat 3: VDF19 ($1.61 in chips) 
+Seat 4: Lorpugo ($5.17 in chips) 
+Seat 5: 777vivas777 ($1.46 in chips) 
+Seat 6: drive107 ($1.95 in chips) 
+drive107: posts small blind $0.01
+morningstar79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 9d]
+johnny.b.goode1: raises $0.04 to $0.06
+VDF19: folds 
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+morningstar79: folds 
+Uncalled bet ($0.04) returned to johnny.b.goode1
+johnny.b.goode1 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: morningstar79 (big blind) folded before Flop
+Seat 2: johnny.b.goode1 collected ($0.05)
+Seat 3: VDF19 folded before Flop (didn't bet)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 (button) folded before Flop (didn't bet)
+Seat 6: drive107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #239302916102:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:36:38 ET
+Table 'Eumaios II' 6-max Seat #6 is the button
+Seat 1: morningstar79 ($2.35 in chips) 
+Seat 2: johnny.b.goode1 ($1.65 in chips) 
+Seat 3: VDF19 ($1.61 in chips) 
+Seat 4: Lorpugo ($5.17 in chips) 
+Seat 5: 777vivas777 ($1.46 in chips) 
+Seat 6: drive107 ($1.94 in chips) 
+morningstar79: posts small blind $0.01
+johnny.b.goode1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3c]
+VDF19: raises $0.04 to $0.06
+Lorpugo: folds 
+777vivas777: folds 
+drive107: folds 
+morningstar79: folds 
+johnny.b.goode1: folds 
+Uncalled bet ($0.04) returned to VDF19
+VDF19 collected $0.05 from pot
+VDF19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: morningstar79 (small blind) folded before Flop
+Seat 2: johnny.b.goode1 (big blind) folded before Flop
+Seat 3: VDF19 collected ($0.05)
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded before Flop (didn't bet)
+Seat 6: drive107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239302921569:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/18 9:37:03 ET
+Table 'Eumaios II' 6-max Seat #1 is the button
+Seat 1: morningstar79 ($2.34 in chips) 
+Seat 2: johnny.b.goode1 ($1.63 in chips) 
+Seat 3: VDF19 ($1.64 in chips) 
+Seat 4: Lorpugo ($5.17 in chips) 
+Seat 5: 777vivas777 ($1.46 in chips) 
+Seat 6: drive107 ($1.94 in chips) 
+johnny.b.goode1: posts small blind $0.01
+VDF19: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2h]
+Lorpugo: folds 
+777vivas777: raises $0.02 to $0.04
+drive107: calls $0.04
+morningstar79: calls $0.04
+johnny.b.goode1: folds 
+VDF19: folds 
+*** FLOP *** [Ah Jc 8h]
+777vivas777: checks 
+drive107: bets $0.08
+morningstar79: folds 
+777vivas777: folds 
+Uncalled bet ($0.08) returned to drive107
+drive107 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ah Jc 8h]
+Seat 1: morningstar79 (button) folded on the Flop
+Seat 2: johnny.b.goode1 (small blind) folded before Flop
+Seat 3: VDF19 (big blind) folded before Flop
+Seat 4: Lorpugo folded before Flop (didn't bet)
+Seat 5: 777vivas777 folded on the Flop
+Seat 6: drive107 collected ($0.14)
+
+
+

@@ -1,0 +1,51 @@
+﻿PokerStars Hand #240963601965: Tournament #3527393045, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/06 18:43:46 ET
+Table '3527393045 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: penguin (500 in chips) 
+Seat 3: kevinange773 (500 in chips) 
+penguin: posts small blind 10
+kevinange773: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9s]
+Lorpugo: folds 
+penguin: folds 
+Uncalled bet (10) returned to kevinange773
+kevinange773 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: penguin (small blind) folded before Flop
+Seat 3: kevinange773 (big blind) collected (20)
+
+
+
+PokerStars Hand #240963604259: Tournament #3527393045, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/06 18:43:52 ET
+Table '3527393045 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: penguin (490 in chips) 
+Seat 3: kevinange773 (510 in chips) 
+kevinange773: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2c]
+penguin: folds 
+kevinange773: raises 20 to 40
+Lorpugo: raises 460 to 500 and is all-in
+kevinange773: calls 460
+*** FLOP *** [6d 6c 8c]
+*** TURN *** [6d 6c 8c] [Ks]
+*** RIVER *** [6d 6c 8c Ks] [5s]
+*** SHOW DOWN ***
+kevinange773: shows [Jd As] (a pair of Sixes)
+Lorpugo: shows [Ad 2c] (a pair of Sixes - lower kicker)
+kevinange773 collected 1000 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [6d 6c 8c Ks 5s]
+Seat 1: Lorpugo (big blind) showed [Ad 2c] and lost with a pair of Sixes
+Seat 2: penguin (button) folded before Flop (didn't bet)
+Seat 3: kevinange773 (small blind) showed [Jd As] and won (1000) with a pair of Sixes
+
+
+

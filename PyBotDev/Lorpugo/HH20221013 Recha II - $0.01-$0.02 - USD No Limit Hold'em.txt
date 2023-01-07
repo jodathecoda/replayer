@@ -1,0 +1,3310 @@
+﻿PokerStars Hand #239210131354:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:31:39 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: penggguin ($2 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: piller11 ($3.79 in chips) 
+Seat 4: temppaq ($2.30 in chips) 
+Seat 5: DIMKARL ($4.46 in chips) 
+Seat 6: philken ($1.74 in chips) 
+penggguin: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ts]
+piller11: raises $0.02 to $0.04
+temppaq: folds 
+DIMKARL: calls $0.04
+philken: calls $0.04
+penggguin: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [8s 4d Tc]
+penggguin: checks 
+Lorpugo: bets $0.10
+piller11: folds 
+DIMKARL: calls $0.10
+philken: folds 
+penggguin: folds 
+*** TURN *** [8s 4d Tc] [7h]
+Lorpugo: checks 
+DIMKARL: checks 
+*** RIVER *** [8s 4d Tc 7h] [4s]
+Lorpugo: checks 
+DIMKARL: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Kd Ts] (two pair, Tens and Fours)
+DIMKARL: mucks hand 
+Lorpugo collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [8s 4d Tc 7h 4s]
+Seat 1: penggguin (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) showed [Kd Ts] and won ($0.39) with two pair, Tens and Fours
+Seat 3: piller11 folded on the Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL mucked [7s 6s]
+Seat 6: philken (button) folded on the Flop
+
+
+
+PokerStars Hand #239210165274:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:33:04 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: penggguin ($2 in chips) 
+Seat 2: Lorpugo ($1.85 in chips) 
+Seat 3: piller11 ($3.75 in chips) 
+Seat 4: temppaq ($2.30 in chips) 
+Seat 5: DIMKARL ($4.32 in chips) 
+Seat 6: philken ($1.70 in chips) 
+Lorpugo: posts small blind $0.01
+piller11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 9h]
+temppaq: folds 
+DIMKARL: folds 
+philken: folds 
+penggguin: folds 
+Lorpugo: raises $0.04 to $0.06
+piller11: calls $0.04
+*** FLOP *** [Jd 3s 7d]
+Lorpugo: bets $0.04
+piller11: calls $0.04
+*** TURN *** [Jd 3s 7d] [9s]
+Lorpugo: bets $0.14
+piller11: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jd 3s 7d 9s]
+Seat 1: penggguin (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.19)
+Seat 3: piller11 (big blind) folded on the Turn
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210177011:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:33:34 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: penggguin ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: piller11 ($3.65 in chips) 
+Seat 4: temppaq ($2.30 in chips) 
+Seat 5: DIMKARL ($4.32 in chips) 
+Seat 6: philken ($1.70 in chips) 
+piller11: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Td]
+DIMKARL: folds 
+philken: raises $0.04 to $0.06
+penggguin: folds 
+Lorpugo: calls $0.06
+piller11: calls $0.05
+temppaq: calls $0.04
+*** FLOP *** [Js 5s 3c]
+piller11: checks 
+temppaq: checks 
+philken: checks 
+Lorpugo: checks 
+*** TURN *** [Js 5s 3c] [2h]
+piller11: checks 
+temppaq: bets $0.17
+philken: folds 
+Lorpugo: folds 
+piller11: folds 
+Uncalled bet ($0.17) returned to temppaq
+temppaq collected $0.23 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Js 5s 3c 2h]
+Seat 1: penggguin folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded on the Turn
+Seat 3: piller11 (small blind) folded on the Turn
+Seat 4: temppaq (big blind) collected ($0.23)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken folded on the Turn
+
+
+
+PokerStars Hand #239210194507:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:34:18 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: penggguin ($2 in chips) 
+Seat 2: Lorpugo ($1.88 in chips) 
+Seat 3: piller11 ($3.59 in chips) 
+Seat 4: temppaq ($2.47 in chips) 
+Seat 5: DIMKARL ($4.32 in chips) 
+Seat 6: philken ($1.64 in chips) 
+temppaq: posts small blind $0.01
+DIMKARL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jh]
+philken: calls $0.02
+penggguin: folds 
+Lorpugo: folds 
+piller11: folds 
+temppaq: folds 
+DIMKARL: checks 
+*** FLOP *** [9h 5d 2c]
+DIMKARL: checks 
+philken: checks 
+*** TURN *** [9h 5d 2c] [4h]
+DIMKARL: checks 
+philken: checks 
+*** RIVER *** [9h 5d 2c 4h] [Qd]
+DIMKARL: checks 
+philken: checks 
+*** SHOW DOWN ***
+DIMKARL: shows [3s 8s] (high card Queen)
+philken: shows [Th Ah] (high card Ace)
+philken collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 5d 2c 4h Qd]
+Seat 1: penggguin folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: DIMKARL (big blind) showed [3s 8s] and lost with high card Queen
+Seat 6: philken showed [Th Ah] and won ($0.05) with high card Ace
+
+
+
+PokerStars Hand #239210209474:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:34:57 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: penggguin ($2 in chips) 
+Seat 2: Lorpugo ($1.88 in chips) 
+Seat 3: piller11 ($3.59 in chips) 
+Seat 4: temppaq ($2.46 in chips) 
+Seat 5: DIMKARL ($4.30 in chips) 
+Seat 6: philken ($1.67 in chips) 
+DIMKARL: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 9c]
+penggguin: folds 
+Lorpugo: folds 
+piller11: folds 
+temppaq: folds 
+DIMKARL: folds 
+Uncalled bet ($0.01) returned to philken
+philken collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: penggguin folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: DIMKARL (small blind) folded before Flop
+Seat 6: philken (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #239210213333:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:35:07 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 2: Lorpugo ($1.88 in chips) 
+Seat 3: piller11 ($3.59 in chips) 
+Seat 4: temppaq ($2.46 in chips) 
+Seat 5: DIMKARL ($4.29 in chips) 
+Seat 6: philken ($1.68 in chips) 
+philken: posts small blind $0.01
+penggguin: is sitting out 
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3h]
+penggguin leaves the table
+piller11: folds 
+temppaq: folds 
+DIMKARL: folds 
+philken: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [9c Ts 8d]
+philken: checks 
+Lorpugo: checks 
+*** TURN *** [9c Ts 8d] [Qh]
+philken: checks 
+Lorpugo: checks 
+*** RIVER *** [9c Ts 8d Qh] [Td]
+philken: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+philken: shows [5s 6s] (a pair of Tens)
+Lorpugo: shows [8h 3h] (two pair, Tens and Eights)
+Lorpugo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9c Ts 8d Qh Td]
+Seat 2: Lorpugo (big blind) showed [8h 3h] and won ($0.04) with two pair, Tens and Eights
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) showed [5s 6s] and lost with a pair of Tens
+
+
+
+PokerStars Hand #239210227874:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:35:44 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 2: Lorpugo ($1.90 in chips) 
+Seat 3: piller11 ($3.59 in chips) 
+Seat 4: temppaq ($2.46 in chips) 
+Seat 5: DIMKARL ($4.29 in chips) 
+Seat 6: philken ($1.66 in chips) 
+Lorpugo: posts small blind $0.01
+piller11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 2h]
+temppaq: folds 
+DIMKARL: folds 
+philken: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to piller11
+piller11 collected $0.02 from pot
+piller11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: piller11 (big blind) collected ($0.02)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210233334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:35:58 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($1.89 in chips) 
+Seat 3: piller11 ($3.60 in chips) 
+Seat 4: temppaq ($2.46 in chips) 
+Seat 5: DIMKARL ($4.29 in chips) 
+Seat 6: philken ($1.66 in chips) 
+piller11: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 2d]
+DIMKARL: raises $0.03 to $0.05
+philken: folds 
+Lorpugo: folds 
+piller11: folds 
+temppaq: calls $0.03
+*** FLOP *** [Ac Js 8s]
+temppaq: checks 
+DIMKARL: bets $0.08
+HECTOR1500 joins the table at seat #1 
+temppaq: calls $0.08
+*** TURN *** [Ac Js 8s] [2s]
+temppaq: checks 
+DIMKARL: checks 
+*** RIVER *** [Ac Js 8s 2s] [5c]
+temppaq: bets $0.20
+DIMKARL: folds 
+Uncalled bet ($0.20) returned to temppaq
+temppaq collected $0.26 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ac Js 8s 2s 5c]
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: piller11 (small blind) folded before Flop
+Seat 4: temppaq (big blind) collected ($0.26)
+Seat 5: DIMKARL folded on the River
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210250550:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:36:42 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($1.89 in chips) 
+Seat 3: piller11 ($3.59 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 5: DIMKARL ($4.16 in chips) 
+Seat 6: philken ($1.66 in chips) 
+temppaq: posts small blind $0.01
+DIMKARL: posts big blind $0.02
+HECTOR1500: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Jc]
+philken: folds 
+Lorpugo: raises $0.04 to $0.06
+piller11: calls $0.06
+temppaq: folds 
+DIMKARL: folds 
+*** FLOP *** [7c 5s 7d]
+Lorpugo: bets $0.05
+piller11: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7c 5s 7d]
+Seat 2: Lorpugo collected ($0.14)
+Seat 3: piller11 (button) folded on the Flop
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: DIMKARL (big blind) folded before Flop
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210260014:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:37:07 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($1.97 in chips) 
+Seat 3: piller11 ($3.53 in chips) 
+Seat 4: temppaq ($2.58 in chips) 
+Seat 5: DIMKARL ($4.14 in chips) 
+Seat 6: philken ($1.66 in chips) 
+DIMKARL: posts small blind $0.01
+philken: posts big blind $0.02
+HECTOR1500: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9s]
+Lorpugo: folds 
+piller11: raises $0.02 to $0.04
+temppaq: folds 
+DIMKARL: folds 
+philken: calls $0.02
+*** FLOP *** [Td 4h Js]
+philken: checks 
+piller11: bets $0.08
+philken: folds 
+Uncalled bet ($0.08) returned to piller11
+piller11 collected $0.09 from pot
+piller11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Td 4h Js]
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 collected ($0.09)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: DIMKARL (small blind) folded before Flop
+Seat 6: philken (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239210273260:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:37:41 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.97 in chips) 
+Seat 3: piller11 ($3.58 in chips) 
+Seat 4: temppaq ($2.58 in chips) 
+Seat 5: DIMKARL ($4.13 in chips) 
+Seat 6: philken ($1.62 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 6d]
+Lorpugo: folds 
+piller11: calls $0.02
+temppaq: folds 
+DIMKARL: folds 
+philken: calls $0.01
+HECTOR1500: checks 
+*** FLOP *** [3d 5c 8s]
+philken: checks 
+HECTOR1500: checks 
+piller11: checks 
+*** TURN *** [3d 5c 8s] [5d]
+philken: checks 
+HECTOR1500: bets $0.05
+piller11: folds 
+philken: calls $0.05
+*** RIVER *** [3d 5c 8s 5d] [3h]
+philken: checks 
+HECTOR1500: bets $0.11
+philken: folds 
+Uncalled bet ($0.11) returned to HECTOR1500
+HECTOR1500 collected $0.15 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [3d 5c 8s 5d 3h]
+Seat 1: HECTOR1500 (big blind) collected ($0.15)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 folded on the Turn
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) folded on the River
+
+
+
+PokerStars Hand #239210298104:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:38:45 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.08 in chips) 
+Seat 2: Lorpugo ($1.97 in chips) 
+Seat 3: piller11 ($3.56 in chips) 
+Seat 4: temppaq ($2.58 in chips) 
+Seat 5: DIMKARL ($4.13 in chips) 
+Seat 6: philken ($1.55 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Qc]
+piller11: calls $0.02
+temppaq: raises $0.06 to $0.08
+DIMKARL: folds 
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+piller11: folds 
+Uncalled bet ($0.06) returned to temppaq
+temppaq collected $0.07 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: piller11 folded before Flop
+Seat 4: temppaq collected ($0.07)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210309413:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:39:15 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.07 in chips) 
+Seat 2: Lorpugo ($1.95 in chips) 
+Seat 3: piller11 ($3.54 in chips) 
+Seat 4: temppaq ($2.63 in chips) 
+Seat 5: DIMKARL ($4.13 in chips) 
+Seat 6: philken ($1.55 in chips) 
+Lorpugo: posts small blind $0.01
+piller11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 6d]
+temppaq: folds 
+DIMKARL: folds 
+philken: calls $0.02
+HECTOR1500: raises $0.08 to $0.10
+Lorpugo: folds 
+piller11: calls $0.08
+philken: calls $0.08
+*** FLOP *** [8d 6s 5h]
+piller11: bets $0.06
+philken: calls $0.06
+HECTOR1500: folds 
+*** TURN *** [8d 6s 5h] [7s]
+piller11: bets $0.04
+philken: calls $0.04
+*** RIVER *** [8d 6s 5h 7s] [4h]
+piller11: checks 
+philken: bets $0.49
+piller11: folds 
+Uncalled bet ($0.49) returned to philken
+philken collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [8d 6s 5h 7s 4h]
+Seat 1: HECTOR1500 (button) folded on the Flop
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: piller11 (big blind) folded on the River
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken collected ($0.49)
+
+
+
+PokerStars Hand #239210334173:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:40:19 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: piller11 ($3.34 in chips) 
+Seat 4: temppaq ($2.63 in chips) 
+Seat 5: DIMKARL ($4.13 in chips) 
+Seat 6: philken ($1.84 in chips) 
+piller11: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5c]
+DIMKARL: folds 
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+piller11: calls $0.05
+temppaq: raises $0.24 to $0.30
+Lorpugo: folds 
+piller11: folds 
+Uncalled bet ($0.24) returned to temppaq
+temppaq collected $0.18 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop
+Seat 3: piller11 (small blind) folded before Flop
+Seat 4: temppaq (big blind) collected ($0.18)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210350928:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:41:03 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.88 in chips) 
+Seat 3: piller11 ($3.28 in chips) 
+Seat 4: temppaq ($2.75 in chips) 
+Seat 5: DIMKARL ($4.13 in chips) 
+Seat 6: philken ($1.84 in chips) 
+temppaq: posts small blind $0.01
+DIMKARL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ad]
+philken: calls $0.02
+HECTOR1500: folds 
+Lorpugo: calls $0.02
+piller11: folds 
+temppaq: folds 
+DIMKARL: checks 
+*** FLOP *** [3s Td 7s]
+DIMKARL: checks 
+philken: checks 
+Lorpugo: checks 
+*** TURN *** [3s Td 7s] [9d]
+DIMKARL: checks 
+philken: bets $0.02
+Lorpugo: raises $0.06 to $0.08
+DIMKARL: folds 
+philken: calls $0.06
+*** RIVER *** [3s Td 7s 9d] [Jd]
+philken: checks 
+Lorpugo: bets $0.40
+philken: folds 
+Uncalled bet ($0.40) returned to Lorpugo
+Lorpugo collected $0.22 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3s Td 7s 9d Jd]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.22)
+Seat 3: piller11 (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: DIMKARL (big blind) folded on the Turn
+Seat 6: philken folded on the River
+
+
+
+PokerStars Hand #239210376942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:42:12 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: piller11 ($3.28 in chips) 
+Seat 4: temppaq ($2.74 in chips) 
+Seat 5: DIMKARL ($4.11 in chips) 
+Seat 6: philken ($1.74 in chips) 
+DIMKARL: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jc]
+HECTOR1500: folds 
+Lorpugo: folds 
+piller11: folds 
+temppaq: folds 
+DIMKARL: raises $0.03 to $0.05
+philken: raises $0.10 to $0.15
+DIMKARL: calls $0.10
+*** FLOP *** [9s Ts Th]
+DIMKARL: checks 
+philken: checks 
+*** TURN *** [9s Ts Th] [Qd]
+DIMKARL: bets $0.16
+philken: calls $0.16
+*** RIVER *** [9s Ts Th Qd] [5c]
+DIMKARL: bets $0.33
+philken: folds 
+Uncalled bet ($0.33) returned to DIMKARL
+DIMKARL collected $0.60 from pot
+DIMKARL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [9s Ts Th Qd 5c]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: DIMKARL (small blind) collected ($0.60)
+Seat 6: philken (big blind) folded on the River
+
+
+
+PokerStars Hand #239210393333:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:42:55 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: piller11 ($3.28 in chips) 
+Seat 4: temppaq ($2.74 in chips) 
+Seat 5: DIMKARL ($4.40 in chips) 
+Seat 6: philken ($1.43 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Qc]
+Lorpugo: folds 
+piller11: raises $0.02 to $0.04
+temppaq: folds 
+DIMKARL: folds 
+philken: calls $0.03
+HECTOR1500: folds 
+*** FLOP *** [7s Ad Ts]
+philken: checks 
+piller11: bets $0.04
+philken: calls $0.04
+*** TURN *** [7s Ad Ts] [5d]
+philken: bets $0.17
+piller11: calls $0.17
+*** RIVER *** [7s Ad Ts 5d] [8s]
+philken: bets $0.25
+piller11: folds 
+Uncalled bet ($0.25) returned to philken
+philken collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [7s Ad Ts 5d 8s]
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 folded on the River
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #239210409852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:43:38 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: piller11 ($3.03 in chips) 
+Seat 4: temppaq ($2.74 in chips) 
+Seat 5: DIMKARL ($4.40 in chips) 
+Seat 6: philken ($1.68 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Tc]
+piller11: folds 
+temppaq: folds 
+DIMKARL: folds 
+philken: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210416385:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:43:55 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($2.01 in chips) 
+Seat 3: piller11 ($3.03 in chips) 
+Seat 4: temppaq ($2.74 in chips) 
+Seat 5: DIMKARL ($4.40 in chips) 
+Seat 6: philken ($1.68 in chips) 
+Lorpugo: posts small blind $0.01
+piller11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 6h]
+temppaq: folds 
+DIMKARL: raises $0.03 to $0.05
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+piller11: folds 
+Uncalled bet ($0.03) returned to DIMKARL
+DIMKARL collected $0.05 from pot
+DIMKARL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: piller11 (big blind) folded before Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL collected ($0.05)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210422881:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:44:13 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: piller11 ($3.01 in chips) 
+Seat 4: temppaq ($2.74 in chips) 
+Seat 5: DIMKARL ($4.43 in chips) 
+Seat 6: philken ($1.68 in chips) 
+piller11: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 4s]
+DIMKARL: folds 
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+piller11: folds 
+temppaq: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: piller11 (small blind) folded before Flop
+Seat 4: temppaq (big blind) folded before Flop
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210429909:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:44:31 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: piller11 ($3 in chips) 
+Seat 4: temppaq ($2.72 in chips) 
+Seat 5: DIMKARL ($4.43 in chips) 
+Seat 6: philken ($1.68 in chips) 
+temppaq: posts small blind $0.01
+DIMKARL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 5s]
+philken: folds 
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: folds 
+piller11: folds 
+temppaq: folds 
+DIMKARL: folds 
+Uncalled bet ($0.04) returned to HECTOR1500
+HECTOR1500 collected $0.05 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: DIMKARL (big blind) folded before Flop
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210437033:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:44:50 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.03 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: piller11 ($3 in chips) 
+Seat 4: temppaq ($2.71 in chips) 
+Seat 5: DIMKARL ($4.41 in chips) 
+Seat 6: philken ($1.68 in chips) 
+DIMKARL: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Jh]
+HECTOR1500: folds 
+Lorpugo: raises $0.02 to $0.04
+piller11: folds 
+temppaq: folds 
+DIMKARL: folds 
+philken: calls $0.02
+*** FLOP *** [5h 7s 5c]
+philken: checks 
+Lorpugo: bets $0.04
+philken: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5h 7s 5c]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.09)
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: DIMKARL (small blind) folded before Flop
+Seat 6: philken (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239210446968:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:45:16 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2.03 in chips) 
+Seat 2: Lorpugo ($2.08 in chips) 
+Seat 3: piller11 ($3 in chips) 
+Seat 4: temppaq ($2.71 in chips) 
+Seat 5: DIMKARL ($4.40 in chips) 
+Seat 6: philken ($1.64 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Ac]
+Lorpugo: raises $0.02 to $0.04
+piller11: calls $0.04
+temppaq: folds 
+DIMKARL: folds 
+philken: folds 
+HECTOR1500: folds 
+*** FLOP *** [5c 4h 8s]
+Lorpugo: checks 
+piller11: checks 
+*** TURN *** [5c 4h 8s] [9d]
+Lorpugo: bets $0.04
+piller11: calls $0.04
+*** RIVER *** [5c 4h 8s 9d] [7h]
+Lorpugo: checks 
+piller11: bets $0.18
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to piller11
+piller11 collected $0.18 from pot
+piller11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5c 4h 8s 9d 7h]
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded on the River
+Seat 3: piller11 collected ($0.18)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210462152:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:45:56 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.01 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: piller11 ($3.10 in chips) 
+Seat 4: temppaq ($2.71 in chips) 
+Seat 5: DIMKARL ($4.40 in chips) 
+Seat 6: philken ($1.63 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Qc]
+piller11: folds 
+temppaq: folds 
+DIMKARL: raises $0.03 to $0.05
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [6d Ks Qd]
+Lorpugo: checks 
+DIMKARL: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [6d Ks Qd] [4h]
+Lorpugo: checks 
+DIMKARL: bets $0.12
+Lorpugo: calls $0.12
+*** RIVER *** [6d Ks Qd 4h] [2h]
+Lorpugo: checks 
+DIMKARL: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [9h Qc] (a pair of Queens)
+DIMKARL: shows [Ac Qs] (a pair of Queens - Ace kicker)
+DIMKARL collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [6d Ks Qd 4h 2h]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [9h Qc] and lost with a pair of Queens
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL showed [Ac Qs] and won ($0.45) with a pair of Queens
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210483376:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:46:52 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.77 in chips) 
+Seat 3: piller11 ($3.10 in chips) 
+Seat 4: temppaq ($2.71 in chips) 
+Seat 5: DIMKARL ($4.62 in chips) 
+Seat 6: philken ($1.63 in chips) 
+Lorpugo: posts small blind $0.01
+piller11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3d]
+temppaq: folds 
+DIMKARL: folds 
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+piller11: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: piller11 (big blind) folded before Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210490580:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:47:11 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.79 in chips) 
+Seat 3: piller11 ($3.08 in chips) 
+Seat 4: temppaq ($2.71 in chips) 
+Seat 5: DIMKARL ($4.62 in chips) 
+Seat 6: philken ($1.63 in chips) 
+piller11: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ad]
+DIMKARL: folds 
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+piller11: folds 
+temppaq: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: piller11 (small blind) folded before Flop
+Seat 4: temppaq (big blind) folded before Flop
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210496702:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:47:27 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 3: piller11 ($3.07 in chips) 
+Seat 4: temppaq ($2.69 in chips) 
+Seat 5: DIMKARL ($4.62 in chips) 
+Seat 6: philken ($1.63 in chips) 
+temppaq: posts small blind $0.01
+DIMKARL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Jd]
+philken: calls $0.02
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+piller11: folds 
+temppaq: folds 
+DIMKARL: calls $0.04
+philken: calls $0.04
+*** FLOP *** [5d 4d 8d]
+DIMKARL: checks 
+philken: checks 
+Lorpugo: bets $0.09
+DIMKARL: folds 
+philken: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5d 4d 8d]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.18)
+Seat 3: piller11 (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: DIMKARL (big blind) folded on the Flop
+Seat 6: philken folded on the Flop
+
+
+
+PokerStars Hand #239210525378:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:48:43 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: piller11 ($3.07 in chips) 
+Seat 4: temppaq ($2.68 in chips) 
+Seat 5: DIMKARL ($4.56 in chips) 
+Seat 6: philken ($1.57 in chips) 
+DIMKARL: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 9s]
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: folds 
+piller11: folds 
+temppaq: folds 
+DIMKARL: calls $0.05
+philken: folds 
+*** FLOP *** [Jc 3h Qs]
+DIMKARL: checks 
+HECTOR1500: bets $0.04
+DIMKARL: calls $0.04
+*** TURN *** [Jc 3h Qs] [Tc]
+DIMKARL: bets $0.12
+HECTOR1500: folds 
+Uncalled bet ($0.12) returned to DIMKARL
+DIMKARL collected $0.21 from pot
+DIMKARL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Jc 3h Qs Tc]
+Seat 1: HECTOR1500 folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: DIMKARL (small blind) collected ($0.21)
+Seat 6: philken (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210554924:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:50:02 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: piller11 ($3.07 in chips) 
+Seat 4: temppaq ($2.68 in chips) 
+Seat 5: DIMKARL ($4.67 in chips) 
+Seat 6: philken ($1.55 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ks]
+Lorpugo: folds 
+piller11: folds 
+temppaq: folds 
+DIMKARL: raises $0.03 to $0.05
+philken: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.03) returned to DIMKARL
+DIMKARL collected $0.05 from pot
+DIMKARL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL (button) collected ($0.05)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210562706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:50:23 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: piller11 ($3.07 in chips) 
+Seat 4: temppaq ($2.68 in chips) 
+Seat 5: DIMKARL ($4.70 in chips) 
+Seat 6: philken ($1.54 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ad]
+piller11: folds 
+temppaq: folds 
+DIMKARL: raises $0.03 to $0.05
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [7d Ts 6c]
+Lorpugo: checks 
+DIMKARL: bets $0.08
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to DIMKARL
+DIMKARL collected $0.11 from pot
+DIMKARL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7d Ts 6c]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL collected ($0.11)
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210577306:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:51:02 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2 in chips) 
+Seat 2: Lorpugo ($1.89 in chips) 
+Seat 3: piller11 ($3.07 in chips) 
+Seat 4: temppaq ($2.68 in chips) 
+Seat 5: DIMKARL ($4.76 in chips) 
+Seat 6: philken ($1.54 in chips) 
+Lorpugo: posts small blind $0.01
+piller11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 3d]
+temppaq: folds 
+DIMKARL: raises $0.03 to $0.05
+philken: folds 
+HECTOR1500: raises $0.13 to $0.18
+Lorpugo: folds 
+piller11: folds 
+DIMKARL: calls $0.13
+*** FLOP *** [Qh 2d 2h]
+DIMKARL: checks 
+HECTOR1500: bets $0.19
+DIMKARL: calls $0.19
+*** TURN *** [Qh 2d 2h] [Jc]
+DIMKARL: checks 
+HECTOR1500: checks 
+*** RIVER *** [Qh 2d 2h Jc] [3s]
+DIMKARL: checks 
+HECTOR1500: checks 
+*** SHOW DOWN ***
+DIMKARL: shows [Ah 9h] (a pair of Deuces)
+HECTOR1500: shows [Ts Qs] (two pair, Queens and Deuces)
+HECTOR1500 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Qh 2d 2h Jc 3s]
+Seat 1: HECTOR1500 (button) showed [Ts Qs] and won ($0.74) with two pair, Queens and Deuces
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: piller11 (big blind) folded before Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: DIMKARL showed [Ah 9h] and lost with a pair of Deuces
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210600553:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:52:04 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($1.88 in chips) 
+Seat 3: piller11 ($3.05 in chips) 
+Seat 4: temppaq ($2.68 in chips) 
+Seat 5: DIMKARL ($4.39 in chips) 
+Seat 6: philken ($1.54 in chips) 
+piller11: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 3d]
+DIMKARL: folds 
+philken: raises $0.02 to $0.04
+HECTOR1500: folds 
+Lorpugo: calls $0.04
+piller11: folds 
+temppaq: calls $0.02
+*** FLOP *** [9c 7d 2s]
+temppaq: checks 
+philken: checks 
+Lorpugo: checks 
+*** TURN *** [9c 7d 2s] [8h]
+temppaq: checks 
+philken: checks 
+Lorpugo: checks 
+*** RIVER *** [9c 7d 2s 8h] [6s]
+temppaq: checks 
+philken: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+temppaq: shows [Ad 4d] (high card Ace)
+philken: mucks hand 
+Lorpugo: shows [3h 3d] (a pair of Threes)
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9c 7d 2s 8h 6s]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) showed [3h 3d] and won ($0.13) with a pair of Threes
+Seat 3: piller11 (small blind) folded before Flop
+Seat 4: temppaq (big blind) showed [Ad 4d] and lost with high card Ace
+Seat 5: DIMKARL folded before Flop (didn't bet)
+Seat 6: philken mucked [Jd Kd]
+
+
+
+PokerStars Hand #239210620462:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:52:57 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($1.97 in chips) 
+Seat 3: piller11 ($3.04 in chips) 
+Seat 4: temppaq ($2.64 in chips) 
+Seat 6: philken ($1.50 in chips) 
+temppaq: posts small blind $0.01
+DIMKARL: is sitting out 
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 3d]
+HECTOR1500: folds 
+DIMKARL leaves the table
+Lorpugo: raises $0.04 to $0.06
+piller11: calls $0.06
+temppaq: folds 
+philken: calls $0.04
+*** FLOP *** [7s Qh 4d]
+philken: checks 
+Lorpugo: bets $0.06
+piller11: folds 
+philken: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7s Qh 4d]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo collected ($0.18)
+Seat 3: piller11 (button) folded on the Flop
+Seat 4: temppaq (small blind) folded before Flop
+Seat 6: philken (big blind) folded on the Flop
+
+
+
+PokerStars Hand #239210630213:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:53:23 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($2.09 in chips) 
+Seat 3: piller11 ($2.98 in chips) 
+Seat 4: temppaq ($2.63 in chips) 
+Seat 6: philken ($1.44 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 5s]
+Lorpugo: folds 
+piller11: folds 
+temppaq: folds 
+philken: folds 
+Uncalled bet ($0.01) returned to HECTOR1500
+HECTOR1500 collected $0.02 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210634924:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:53:35 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.38 in chips) 
+Seat 2: Lorpugo ($2.09 in chips) 
+Seat 3: piller11 ($2.98 in chips) 
+Seat 4: temppaq ($2.63 in chips) 
+Seat 6: philken ($1.43 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7s]
+piller11: folds 
+piller11 leaves the table
+temppaq: folds 
+philken: calls $0.02
+HECTOR1500: folds 
+Lorpugo: checks 
+*** FLOP *** [Td 6c Jh]
+Lorpugo: checks 
+philken: checks 
+*** TURN *** [Td 6c Jh] [5h]
+Lorpugo: checks 
+philken: checks 
+*** RIVER *** [Td 6c Jh 5h] [8s]
+Lorpugo: checks 
+philken: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5c 7s] (a pair of Fives)
+philken: mucks hand 
+Lorpugo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td 6c Jh 5h 8s]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [5c 7s] and won ($0.05) with a pair of Fives
+Seat 3: piller11 folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 6: philken (button) mucked [As 3s]
+
+
+
+PokerStars Hand #239210648692:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:54:12 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($2.12 in chips) 
+Seat 4: temppaq ($2.63 in chips) 
+Seat 6: philken ($1.41 in chips) 
+Lorpugo: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3d]
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+temppaq: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 4: temppaq (big blind) folded before Flop
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210654591:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:54:28 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($2.14 in chips) 
+Seat 4: temppaq ($2.61 in chips) 
+Seat 6: philken ($1.41 in chips) 
+temppaq: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 7h]
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: folds 
+temppaq: folds 
+philken: folds 
+Uncalled bet ($0.04) returned to HECTOR1500
+HECTOR1500 collected $0.05 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 6: philken (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210658957:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:54:40 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.40 in chips) 
+Seat 2: Lorpugo ($2.14 in chips) 
+Seat 4: temppaq ($2.60 in chips) 
+Seat 6: philken ($1.39 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+Lorpugo: folds 
+temppaq: raises $0.03 to $0.05
+philken: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.03) returned to temppaq
+temppaq collected $0.05 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: temppaq (button) collected ($0.05)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210664073:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:54:53 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.38 in chips) 
+Seat 2: Lorpugo ($2.14 in chips) 
+Seat 4: temppaq ($2.63 in chips) 
+Seat 6: philken ($1.38 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 7s]
+temppaq: raises $0.03 to $0.05
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Kd Qs Qc]
+Lorpugo: checks 
+temppaq: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [Kd Qs Qc] [9h]
+Lorpugo: checks 
+temppaq: checks 
+*** RIVER *** [Kd Qs Qc 9h] [4h]
+Lorpugo: checks 
+temppaq: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ks 7s] (two pair, Kings and Queens)
+temppaq: mucks hand 
+Lorpugo collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kd Qs Qc 9h 4h]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Ks 7s] and won ($0.18) with two pair, Kings and Queens
+Seat 4: temppaq mucked [Ts Td]
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210676520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:55:35 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($2.23 in chips) 
+Seat 4: temppaq ($2.54 in chips) 
+Seat 6: philken ($1.38 in chips) 
+Lorpugo: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 8d]
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to temppaq
+temppaq collected $0.02 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 4: temppaq (big blind) collected ($0.02)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210679817:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:55:46 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($2.22 in chips) 
+Seat 4: temppaq ($2.55 in chips) 
+Seat 6: philken ($1.38 in chips) 
+temppaq: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6h]
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+temppaq: folds 
+philken: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 6: philken (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210684371:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:56:02 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.37 in chips) 
+Seat 2: Lorpugo ($2.25 in chips) 
+Seat 4: temppaq ($2.54 in chips) 
+Seat 6: philken ($1.36 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Kd]
+Lorpugo: folds 
+temppaq: folds 
+philken: folds 
+Uncalled bet ($0.01) returned to HECTOR1500
+HECTOR1500 collected $0.02 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210687056:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:56:12 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.38 in chips) 
+Seat 2: Lorpugo ($2.25 in chips) 
+Seat 4: temppaq ($2.54 in chips) 
+Seat 6: philken ($1.35 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8d]
+temppaq: folds 
+philken: calls $0.02
+HECTOR1500: raises $0.08 to $0.10
+Lorpugo: folds 
+philken: calls $0.08
+*** FLOP *** [As 8h Ac]
+HECTOR1500: bets $0.06
+philken: calls $0.06
+*** TURN *** [As 8h Ac] [2s]
+HECTOR1500: checks 
+philken: checks 
+*** RIVER *** [As 8h Ac 2s] [8s]
+HECTOR1500: checks 
+philken: checks 
+*** SHOW DOWN ***
+HECTOR1500: shows [Tc Ts] (two pair, Aces and Tens)
+philken: mucks hand 
+HECTOR1500 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [As 8h Ac 2s 8s]
+Seat 1: HECTOR1500 (small blind) showed [Tc Ts] and won ($0.33) with two pair, Aces and Tens
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 6: philken (button) mucked [5s 5c]
+
+
+
+PokerStars Hand #239210698480:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:56:52 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.55 in chips) 
+Seat 2: Lorpugo ($2.23 in chips) 
+Seat 4: temppaq ($2.54 in chips) 
+Seat 6: philken ($1.19 in chips) 
+Lorpugo: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4d]
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+temppaq: raises $0.18 to $0.24
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to temppaq
+temppaq collected $0.12 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 4: temppaq (big blind) collected ($0.12)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210706991:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:57:22 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.55 in chips) 
+Seat 2: Lorpugo ($2.17 in chips) 
+Seat 4: temppaq ($2.60 in chips) 
+Seat 6: philken ($1.19 in chips) 
+temppaq: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2h]
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: folds 
+temppaq: folds 
+philken: raises $0.04 to $0.10
+Mista Jeckyll joins the table at seat #5 
+HECTOR1500: calls $0.04
+*** FLOP *** [Th 6c Kd]
+HachiBee joins the table at seat #3 
+philken: bets $0.20
+HECTOR1500: folds 
+Uncalled bet ($0.20) returned to philken
+philken collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Th 6c Kd]
+Seat 1: HECTOR1500 folded on the Flop
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 6: philken (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #239210717706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:57:59 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.45 in chips) 
+Seat 2: Lorpugo ($2.17 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 6: philken ($1.29 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+HachiBee: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2s]
+Lorpugo: folds 
+temppaq: folds 
+philken: folds 
+Uncalled bet ($0.01) returned to HECTOR1500
+HECTOR1500 collected $0.02 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210720312:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:58:08 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.46 in chips) 
+Seat 2: Lorpugo ($2.17 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 6: philken ($1.28 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+HachiBee: sits out 
+Mista Jeckyll: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 5d]
+temppaq: folds 
+philken: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210722821:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:58:17 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.45 in chips) 
+Seat 2: Lorpugo ($2.18 in chips) 
+Seat 3: HachiBee ($2 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 6: philken ($1.28 in chips) 
+Lorpugo: posts small blind $0.01
+HachiBee: posts big blind $0.02
+Mista Jeckyll: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2s]
+temppaq: folds 
+philken: calls $0.02
+HECTOR1500: folds 
+Lorpugo: folds 
+HachiBee: checks 
+*** FLOP *** [Ac 4d Qd]
+HachiBee: checks 
+philken: checks 
+*** TURN *** [Ac 4d Qd] [4c]
+HachiBee: checks 
+philken: checks 
+*** RIVER *** [Ac 4d Qd 4c] [3d]
+HachiBee: checks 
+philken: checks 
+*** SHOW DOWN ***
+HachiBee: shows [8s Th] (a pair of Fours)
+philken: shows [Js Ks] (a pair of Fours - Ace+King kicker)
+philken collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 4d Qd 4c 3d]
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: HachiBee (big blind) showed [8s Th] and lost with a pair of Fours
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 6: philken showed [Js Ks] and won ($0.05) with a pair of Fours
+
+
+
+PokerStars Hand #239210731840:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:58:49 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.45 in chips) 
+Seat 2: Lorpugo ($2.17 in chips) 
+Seat 3: HachiBee ($1.98 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 6: philken ($1.31 in chips) 
+HachiBee: posts small blind $0.01
+temppaq: posts big blind $0.02
+Mista Jeckyll: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jd]
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+HachiBee: folds 
+Uncalled bet ($0.01) returned to temppaq
+temppaq collected $0.02 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: HachiBee (small blind) folded before Flop
+Seat 4: temppaq (big blind) collected ($0.02)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210734863:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:59:00 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.45 in chips) 
+Seat 2: Lorpugo ($2.17 in chips) 
+Seat 3: HachiBee ($1.99 in chips) 
+Seat 4: temppaq ($2.60 in chips) 
+Seat 5: Mista Jeckyll ($1.60 in chips) 
+Seat 6: philken ($1.31 in chips) 
+temppaq: posts small blind $0.01
+Mista Jeckyll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7h]
+philken: folds 
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: folds 
+HachiBee: folds 
+temppaq: folds 
+Mista Jeckyll: folds 
+Uncalled bet ($0.04) returned to HECTOR1500
+HECTOR1500 collected $0.05 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: HachiBee (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: Mista Jeckyll (big blind) folded before Flop
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210738807:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:59:13 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.48 in chips) 
+Seat 2: Lorpugo ($2.17 in chips) 
+Seat 3: HachiBee ($1.99 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 5: Mista Jeckyll ($1.58 in chips) 
+Seat 6: philken ($1.31 in chips) 
+Mista Jeckyll: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ad]
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+HachiBee: folds 
+temppaq: folds 
+Mista Jeckyll: folds 
+philken: folds 
+*** FLOP *** [7s 5s 6d]
+HECTOR1500: checks 
+Lorpugo: checks 
+*** TURN *** [7s 5s 6d] [Kd]
+HECTOR1500: checks 
+Lorpugo: checks 
+*** RIVER *** [7s 5s 6d Kd] [Jh]
+HECTOR1500: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+HECTOR1500: shows [As Ah] (a pair of Aces)
+Lorpugo: mucks hand 
+HECTOR1500 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 5s 6d Kd Jh]
+Seat 1: HECTOR1500 showed [As Ah] and won ($0.14) with a pair of Aces
+Seat 2: Lorpugo mucked [Qs Ad]
+Seat 3: HachiBee folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (small blind) folded before Flop
+Seat 6: philken (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210747581:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:59:44 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2.56 in chips) 
+Seat 2: Lorpugo ($2.11 in chips) 
+Seat 3: HachiBee ($1.99 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 5: Mista Jeckyll ($1.57 in chips) 
+Seat 6: philken ($1.29 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ks]
+Lorpugo: folds 
+HachiBee: folds 
+temppaq: folds 
+Mista Jeckyll: folds 
+philken: raises $0.04 to $0.06
+HECTOR1500: folds 
+Uncalled bet ($0.04) returned to philken
+philken collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: HachiBee folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #239210752056:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 16:59:59 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.54 in chips) 
+Seat 2: Lorpugo ($2.11 in chips) 
+Seat 3: HachiBee ($1.99 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 5: Mista Jeckyll ($1.57 in chips) 
+Seat 6: philken ($1.31 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Th]
+HachiBee: raises $0.03 to $0.05
+temppaq: folds 
+Mista Jeckyll: folds 
+philken: folds 
+HECTOR1500: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [8s 5s Qc]
+HECTOR1500: checks 
+HachiBee: bets $0.08
+HECTOR1500: raises $0.28 to $0.36
+HachiBee: folds 
+Uncalled bet ($0.28) returned to HECTOR1500
+HECTOR1500 collected $0.27 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [8s 5s Qc]
+Seat 1: HECTOR1500 (small blind) collected ($0.27)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: HachiBee folded on the Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll folded before Flop (didn't bet)
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210765792:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:00:44 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.68 in chips) 
+Seat 2: Lorpugo ($2.09 in chips) 
+Seat 4: temppaq ($2.59 in chips) 
+Seat 5: Mista Jeckyll ($1.57 in chips) 
+Seat 6: philken ($1.31 in chips) 
+Lorpugo: posts small blind $0.01
+HachiBee: is sitting out 
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ac]
+Mista Jeckyll: folds 
+HachiBee leaves the table
+philken: calls $0.02
+HECTOR1500: folds 
+Lorpugo: raises $0.08 to $0.10
+temppaq: folds 
+philken: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.06)
+Seat 4: temppaq (big blind) folded before Flop
+Seat 5: Mista Jeckyll folded before Flop (didn't bet)
+Seat 6: philken folded before Flop
+
+
+
+PokerStars Hand #239210772100:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:01:02 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.68 in chips) 
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 4: temppaq ($2.57 in chips) 
+Seat 5: Mista Jeckyll ($1.57 in chips) 
+Seat 6: philken ($1.29 in chips) 
+temppaq: posts small blind $0.01
+Mista Jeckyll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 6c]
+Aryzer joins the table at seat #3 
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+temppaq: raises $0.04 to $0.06
+Mista Jeckyll: calls $0.04
+*** FLOP *** [7h Js Ad]
+temppaq: bets $0.06
+Mista Jeckyll: calls $0.06
+*** TURN *** [7h Js Ad] [4h]
+temppaq: checks 
+Mista Jeckyll: bets $0.11
+temppaq: folds 
+Uncalled bet ($0.11) returned to Mista Jeckyll
+Mista Jeckyll collected $0.23 from pot
+Mista Jeckyll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7h Js Ad 4h]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: temppaq (small blind) folded on the Turn
+Seat 5: Mista Jeckyll (big blind) collected ($0.23)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210783596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:01:35 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.68 in chips) 
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 4: temppaq ($2.45 in chips) 
+Seat 5: Mista Jeckyll ($1.68 in chips) 
+Seat 6: philken ($1.29 in chips) 
+Mista Jeckyll: posts small blind $0.01
+philken: posts big blind $0.02
+Aryzer: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Jc]
+HECTOR1500: folds 
+Lorpugo has timed out
+Lorpugo: folds 
+temppaq: folds 
+Mista Jeckyll: raises $0.04 to $0.06
+philken: folds 
+Uncalled bet ($0.04) returned to Mista Jeckyll
+Mista Jeckyll collected $0.04 from pot
+Mista Jeckyll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (small blind) collected ($0.04)
+Seat 6: philken (big blind) folded before Flop
+
+
+
+PokerStars Hand #239210791962:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:01:57 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2.68 in chips) 
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 4: temppaq ($2.45 in chips) 
+Seat 5: Mista Jeckyll ($1.70 in chips) 
+Seat 6: philken ($1.27 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+Aryzer: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 3h]
+Lorpugo: folds 
+temppaq: folds 
+Mista Jeckyll: folds 
+philken: folds 
+Uncalled bet ($0.01) returned to HECTOR1500
+HECTOR1500 collected $0.02 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210798714:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:02:14 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.69 in chips) 
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 4: temppaq ($2.45 in chips) 
+Seat 5: Mista Jeckyll ($1.70 in chips) 
+Seat 6: philken ($1.26 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Aryzer: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2h]
+temppaq: folds 
+Mista Jeckyll: calls $0.02
+philken: folds 
+HECTOR1500: raises $0.08 to $0.10
+Lorpugo: folds 
+Mista Jeckyll: folds 
+Uncalled bet ($0.08) returned to HECTOR1500
+HECTOR1500 collected $0.06 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: HECTOR1500 (small blind) collected ($0.06)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll folded before Flop
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210810651:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:02:47 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.73 in chips) 
+Seat 2: Lorpugo ($2.11 in chips) 
+Seat 3: Aryzer ($0.80 in chips) 
+Seat 4: temppaq ($2.45 in chips) 
+Seat 5: Mista Jeckyll ($1.68 in chips) 
+Seat 6: philken ($1.26 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qc]
+temppaq: raises $0.03 to $0.05
+Mista Jeckyll: folds 
+philken: calls $0.05
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: folds 
+*** FLOP *** [Jh 3d Kh]
+temppaq: checks 
+philken: checks 
+*** TURN *** [Jh 3d Kh] [Qd]
+temppaq: bets $0.04
+philken: calls $0.04
+*** RIVER *** [Jh 3d Kh Qd] [Ah]
+temppaq: checks 
+philken: checks 
+*** SHOW DOWN ***
+temppaq: shows [Ks 6s] (a pair of Kings)
+philken: shows [Ad 8s] (a pair of Aces)
+philken collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jh 3d Kh Qd Ah]
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Aryzer (big blind) folded before Flop
+Seat 4: temppaq showed [Ks 6s] and lost with a pair of Kings
+Seat 5: Mista Jeckyll folded before Flop (didn't bet)
+Seat 6: philken showed [Ad 8s] and won ($0.20) with a pair of Aces
+
+
+
+PokerStars Hand #239210825163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:03:25 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.73 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: Aryzer ($0.78 in chips) 
+Seat 4: temppaq ($2.36 in chips) 
+Seat 5: Mista Jeckyll ($1.68 in chips) 
+Seat 6: philken ($1.37 in chips) 
+Aryzer: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Ts]
+Mista Jeckyll: raises $0.04 to $0.06
+philken: calls $0.06
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: calls $0.05
+temppaq: folds 
+*** FLOP *** [9c 6s 9h]
+Aryzer: checks 
+Mista Jeckyll: checks 
+philken: checks 
+*** TURN *** [9c 6s 9h] [2s]
+Aryzer: checks 
+Mista Jeckyll: checks 
+philken: checks 
+*** RIVER *** [9c 6s 9h 2s] [5h]
+Aryzer: checks 
+Mista Jeckyll: checks 
+philken: checks 
+*** SHOW DOWN ***
+Aryzer: shows [Ks Qd] (a pair of Nines)
+Mista Jeckyll: shows [Qh Kd] (a pair of Nines)
+philken: shows [7s 5s] (two pair, Nines and Fives)
+philken collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9c 6s 9h 2s 5h]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Aryzer (small blind) showed [Ks Qd] and lost with a pair of Nines
+Seat 4: temppaq (big blind) folded before Flop
+Seat 5: Mista Jeckyll showed [Qh Kd] and lost with a pair of Nines
+Seat 6: philken showed [7s 5s] and won ($0.19) with two pair, Nines and Fives
+
+
+
+PokerStars Hand #239210864314:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:05:09 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.73 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: Aryzer ($0.72 in chips) 
+Seat 4: temppaq ($2.34 in chips) 
+Seat 5: Mista Jeckyll ($1.62 in chips) 
+Seat 6: philken ($1.50 in chips) 
+temppaq: posts small blind $0.01
+Mista Jeckyll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2c]
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: raises $0.04 to $0.06
+temppaq: folds 
+Mista Jeckyll: calls $0.04
+*** FLOP *** [5c Js Td]
+Mista Jeckyll: checks 
+Aryzer: bets $0.04
+Mista Jeckyll: calls $0.04
+*** TURN *** [5c Js Td] [2s]
+Mista Jeckyll: checks 
+Aryzer: bets $0.11
+Mista Jeckyll: calls $0.11
+*** RIVER *** [5c Js Td 2s] [5s]
+Mista Jeckyll: bets $0.14
+Aryzer: calls $0.14
+*** SHOW DOWN ***
+Mista Jeckyll: shows [Qd Th] (two pair, Tens and Fives)
+Aryzer: shows [Jh 9h] (two pair, Jacks and Fives)
+Aryzer collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [5c Js Td 2s 5s]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Aryzer (button) showed [Jh 9h] and won ($0.69) with two pair, Jacks and Fives
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: Mista Jeckyll (big blind) showed [Qd Th] and lost with two pair, Tens and Fives
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210889320:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:06:15 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.73 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: Aryzer ($1.06 in chips) 
+Seat 4: temppaq ($2.33 in chips) 
+Seat 5: Mista Jeckyll ($1.27 in chips) 
+Seat 6: philken ($1.50 in chips) 
+Mista Jeckyll: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 4c]
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer has timed out
+Aryzer: folds 
+temppaq: folds 
+Mista Jeckyll: raises $0.04 to $0.06
+philken: calls $0.04
+*** FLOP *** [6h Kc Js]
+Mista Jeckyll: bets $0.06
+philken: calls $0.06
+*** TURN *** [6h Kc Js] [Ts]
+Mista Jeckyll: bets $0.11
+philken: raises $0.11 to $0.22
+Mista Jeckyll: calls $0.11
+*** RIVER *** [6h Kc Js Ts] [7h]
+Mista Jeckyll: checks 
+philken: bets $0.33
+Mista Jeckyll: calls $0.33
+*** SHOW DOWN ***
+philken: shows [6d 6s] (three of a kind, Sixes)
+Mista Jeckyll: mucks hand 
+philken collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.05 
+Board [6h Kc Js Ts 7h]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Aryzer folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (small blind) mucked [Kd 9s]
+Seat 6: philken (big blind) showed [6d 6s] and won ($1.29) with three of a kind, Sixes
+
+
+
+PokerStars Hand #239210907379:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:07:02 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2.73 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: Aryzer ($1.06 in chips) 
+Seat 4: temppaq ($2.33 in chips) 
+Seat 5: Mista Jeckyll ($0.60 in chips) 
+Seat 6: philken ($2.12 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6c]
+Lorpugo: folds 
+Aryzer: folds 
+temppaq: raises $0.03 to $0.05
+Mista Jeckyll: folds 
+philken: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.03) returned to temppaq
+temppaq collected $0.05 from pot
+temppaq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Aryzer folded before Flop (didn't bet)
+Seat 4: temppaq collected ($0.05)
+Seat 5: Mista Jeckyll (button) folded before Flop (didn't bet)
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239210917550:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:07:29 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.71 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: Aryzer ($1.06 in chips) 
+Seat 4: temppaq ($2.36 in chips) 
+Seat 5: Mista Jeckyll ($0.60 in chips) 
+Seat 6: philken ($2.11 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5d]
+Aryzer: raises $0.02 to $0.04
+temppaq: raises $0.10 to $0.14
+Mista Jeckyll: calls $0.14
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: calls $0.10
+*** FLOP *** [2h Qd 8c]
+Aryzer: checks 
+temppaq: bets $0.14
+Mista Jeckyll: calls $0.14
+Aryzer: calls $0.14
+*** TURN *** [2h Qd 8c] [9d]
+Aryzer: bets $0.45
+temppaq: calls $0.45
+Mista Jeckyll: folds 
+*** RIVER *** [2h Qd 8c 9d] [Tc]
+Aryzer: bets $0.32
+temppaq: folds 
+Uncalled bet ($0.32) returned to Aryzer
+Aryzer collected $1.71 from pot
+*** SUMMARY ***
+Total pot $1.77 | Rake $0.06 
+Board [2h Qd 8c 9d Tc]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Aryzer collected ($1.71)
+Seat 4: temppaq folded on the River
+Seat 5: Mista Jeckyll folded on the Turn
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210943795:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:08:38 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.70 in chips) 
+Seat 2: Lorpugo ($2.08 in chips) 
+Seat 3: Aryzer ($2.04 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.32 in chips) 
+Seat 6: philken ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8s]
+temppaq: raises $0.03 to $0.05
+Mista Jeckyll: folds 
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: calls $0.03
+*** FLOP *** [9c Ac 3s]
+Aryzer: checks 
+temppaq: bets $0.04
+Aryzer: calls $0.04
+*** TURN *** [9c Ac 3s] [8c]
+Aryzer: checks 
+temppaq: checks 
+*** RIVER *** [9c Ac 3s 8c] [3c]
+Aryzer: bets $0.18
+temppaq: folds 
+Uncalled bet ($0.18) returned to Aryzer
+Aryzer collected $0.18 from pot
+Aryzer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9c Ac 3s 8c 3c]
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Aryzer (big blind) collected ($0.18)
+Seat 4: temppaq folded on the River
+Seat 5: Mista Jeckyll folded before Flop (didn't bet)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210961829:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:09:25 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.70 in chips) 
+Seat 2: Lorpugo ($2.07 in chips) 
+Seat 3: Aryzer ($2.13 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.32 in chips) 
+Seat 6: philken ($2.11 in chips) 
+Aryzer: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ah]
+Mista Jeckyll: raises $0.30 to $0.32 and is all-in
+philken: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: folds 
+temppaq: folds 
+Uncalled bet ($0.30) returned to Mista Jeckyll
+Mista Jeckyll collected $0.05 from pot
+Mista Jeckyll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Aryzer (small blind) folded before Flop
+Seat 4: temppaq (big blind) folded before Flop
+Seat 5: Mista Jeckyll collected ($0.05)
+Seat 6: philken folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239210971437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:09:51 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.70 in chips) 
+Seat 2: Lorpugo ($2.07 in chips) 
+Seat 3: Aryzer ($2.12 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.35 in chips) 
+Seat 6: philken ($2.11 in chips) 
+temppaq: posts small blind $0.01
+Mista Jeckyll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9c]
+philken: calls $0.02
+HECTOR1500: folds 
+Lorpugo: raises $0.07 to $0.09
+Aryzer: calls $0.09
+temppaq: folds 
+Mista Jeckyll: folds 
+philken: calls $0.07
+*** FLOP *** [7c Qh 6h]
+philken: checks 
+Lorpugo: checks 
+Aryzer: checks 
+*** TURN *** [7c Qh 6h] [Tc]
+philken: bets $0.29
+Lorpugo: folds 
+Aryzer: folds 
+Uncalled bet ($0.29) returned to philken
+philken collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7c Qh 6h Tc]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded on the Turn
+Seat 3: Aryzer (button) folded on the Turn
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: Mista Jeckyll (big blind) folded before Flop
+Seat 6: philken collected ($0.29)
+
+
+
+PokerStars Hand #239210992473:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:10:46 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.70 in chips) 
+Seat 2: Lorpugo ($1.98 in chips) 
+Seat 3: Aryzer ($2.03 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.33 in chips) 
+Seat 6: philken ($2.31 in chips) 
+Mista Jeckyll: posts small blind $0.01
+philken: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 4d]
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: folds 
+Aryzer: folds 
+temppaq: folds 
+Mista Jeckyll: folds 
+philken: calls $0.04
+*** FLOP *** [8c 4s 2h]
+philken: checks 
+HECTOR1500: bets $0.04
+philken: calls $0.04
+*** TURN *** [8c 4s 2h] [2s]
+philken: checks 
+HECTOR1500: checks 
+*** RIVER *** [8c 4s 2h 2s] [7c]
+philken: checks 
+HECTOR1500: bets $0.06
+philken: folds 
+Uncalled bet ($0.06) returned to HECTOR1500
+HECTOR1500 collected $0.20 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8c 4s 2h 2s 7c]
+Seat 1: HECTOR1500 collected ($0.20)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Aryzer folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (small blind) folded before Flop
+Seat 6: philken (big blind) folded on the River
+
+
+
+PokerStars Hand #239211008314:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:11:28 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2.80 in chips) 
+Seat 2: Lorpugo ($1.98 in chips) 
+Seat 3: Aryzer ($2.03 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.32 in chips) 
+Seat 6: philken ($2.21 in chips) 
+philken: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qh]
+Lorpugo: folds 
+Aryzer: raises $0.02 to $0.04
+temppaq: folds 
+Mista Jeckyll: raises $0.28 to $0.32 and is all-in
+philken: folds 
+HECTOR1500: folds 
+Aryzer: calls $0.28
+*** FLOP *** [6s 7h Jd]
+*** TURN *** [6s 7h Jd] [2h]
+*** RIVER *** [6s 7h Jd 2h] [9c]
+*** SHOW DOWN ***
+Aryzer: shows [8d Ad] (high card Ace)
+Mista Jeckyll: shows [Ah 8c] (high card Ace)
+Aryzer collected $0.33 from pot
+Mista Jeckyll collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [6s 7h Jd 2h 9c]
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Aryzer showed [8d Ad] and won ($0.33) with high card Ace
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (button) showed [Ah 8c] and won ($0.32) with high card Ace
+Seat 6: philken (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211024162:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:12:10 ET
+Table 'Recha II' 6-max Seat #6 is the button
+Seat 1: HECTOR1500 ($2.78 in chips) 
+Seat 2: Lorpugo ($1.98 in chips) 
+Seat 3: Aryzer ($2.04 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.32 in chips) 
+Seat 6: philken ($2.20 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d As]
+Aryzer has timed out
+Aryzer: folds 
+temppaq: folds 
+Mista Jeckyll: folds 
+philken is disconnected 
+philken has timed out while disconnected
+philken: folds 
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+HECTOR1500: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.12)
+Seat 3: Aryzer folded before Flop (didn't bet)
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll folded before Flop (didn't bet)
+Seat 6: philken (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211040505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:12:53 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.72 in chips) 
+Seat 2: Lorpugo ($2.04 in chips) 
+Seat 3: Aryzer ($2.04 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.32 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jd]
+temppaq: folds 
+Mista Jeckyll: raises $0.30 to $0.32 and is all-in
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: folds 
+Uncalled bet ($0.30) returned to Mista Jeckyll
+Mista Jeckyll collected $0.05 from pot
+Mista Jeckyll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Aryzer (big blind) folded before Flop
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll collected ($0.05)
+
+
+
+PokerStars Hand #239211048389:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:13:14 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.72 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: Aryzer ($2.02 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.35 in chips) 
+Aryzer: posts small blind $0.01
+temppaq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9d]
+Mista Jeckyll: folds 
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: raises $0.04 to $0.06
+temppaq: folds 
+Uncalled bet ($0.04) returned to Aryzer
+Aryzer collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Aryzer (small blind) collected ($0.04)
+Seat 4: temppaq (big blind) folded before Flop
+Seat 5: Mista Jeckyll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211055108:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:13:32 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.72 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: Aryzer ($2.04 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.35 in chips) 
+temppaq: posts small blind $0.01
+Mista Jeckyll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qd]
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: raises $0.02 to $0.04
+temppaq: folds 
+Mista Jeckyll: folds 
+Uncalled bet ($0.02) returned to Aryzer
+Aryzer collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Aryzer (button) collected ($0.05)
+Seat 4: temppaq (small blind) folded before Flop
+Seat 5: Mista Jeckyll (big blind) folded before Flop
+
+
+
+PokerStars Hand #239211062859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:13:52 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.72 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: Aryzer ($2.07 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.33 in chips) 
+Mista Jeckyll: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Th]
+Lorpugo: folds 
+Aryzer: folds 
+temppaq: raises $0.03 to $0.05
+Mista Jeckyll: raises $0.28 to $0.33 and is all-in
+HECTOR1500: folds 
+temppaq: folds 
+Uncalled bet ($0.28) returned to Mista Jeckyll
+Mista Jeckyll collected $0.12 from pot
+Mista Jeckyll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: Aryzer folded before Flop (didn't bet)
+Seat 4: temppaq (button) folded before Flop
+Seat 5: Mista Jeckyll (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #239211071388:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:14:16 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2.70 in chips) 
+Seat 2: Lorpugo ($2.03 in chips) 
+Seat 3: Aryzer ($2.07 in chips) 
+Seat 4: temppaq ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.40 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3s]
+Aryzer: raises $0.02 to $0.04
+temppaq: folds 
+Mista Jeckyll: folds 
+HECTOR1500: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [Th 4h 3c]
+Lorpugo: checks 
+Aryzer: bets $0.05
+Lorpugo: calls $0.05
+*** TURN *** [Th 4h 3c] [5h]
+Lorpugo: checks 
+temppaq leaves the table
+Aryzer: checks 
+*** RIVER *** [Th 4h 3c 5h] [Ks]
+Lorpugo: checks 
+Aryzer: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ah 3s] (a pair of Threes)
+Aryzer: shows [Qc Tc] (a pair of Tens)
+Aryzer collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Th 4h 3c 5h Ks]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Ah 3s] and lost with a pair of Threes
+Seat 3: Aryzer showed [Qc Tc] and won ($0.18) with a pair of Tens
+Seat 4: temppaq folded before Flop (didn't bet)
+Seat 5: Mista Jeckyll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211084629:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:14:51 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.69 in chips) 
+Seat 2: Lorpugo ($1.94 in chips) 
+Seat 3: Aryzer ($2.16 in chips) 
+Seat 5: Mista Jeckyll ($0.40 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 7c]
+Mista Jeckyll: folds 
+HECTOR1500: folds 
+HachiBee joins the table at seat #4 
+HachiBee leaves the table
+Lorpugo: raises $0.04 to $0.06
+Aryzer: calls $0.04
+*** FLOP *** [Tc Kc Ac]
+Lorpugo: bets $0.04
+Aryzer: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc Kc Ac]
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.12)
+Seat 3: Aryzer (big blind) folded on the Flop
+Seat 5: Mista Jeckyll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211099271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:15:30 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.69 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: Aryzer ($2.10 in chips) 
+Aryzer: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ac]
+Lorpugo: raises $0.04 to $0.06
+Aryzer: calls $0.05
+HECTOR1500: folds 
+*** FLOP *** [5c Qc 3s]
+Aryzer: checks 
+Lorpugo: bets $0.05
+Aryzer: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5c Qc 3s]
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo (button) collected ($0.14)
+Seat 3: Aryzer (small blind) folded on the Flop
+
+
+
+PokerStars Hand #239211109843:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:15:58 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.67 in chips) 
+Seat 2: Lorpugo ($2.08 in chips) 
+Seat 3: Aryzer ($2.04 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3c]
+Aryzer: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: Aryzer (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211112794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:16:06 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.66 in chips) 
+Seat 2: Lorpugo ($2.09 in chips) 
+Seat 3: Aryzer ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9h]
+HECTOR1500: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+Aryzer: calls $0.03
+*** FLOP *** [8h Td 4s]
+Lorpugo: checks 
+Aryzer: checks 
+HECTOR1500: checks 
+*** TURN *** [8h Td 4s] [Kd]
+Lorpugo: bets $0.04
+Aryzer: folds 
+HECTOR1500: calls $0.04
+*** RIVER *** [8h Td 4s Kd] [3d]
+Lorpugo: checks 
+HECTOR1500: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Tc 9h] (a pair of Tens)
+HECTOR1500: shows [Kc Qc] (a pair of Kings)
+HECTOR1500 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [8h Td 4s Kd 3d]
+Seat 1: HECTOR1500 (button) showed [Kc Qc] and won ($0.22) with a pair of Kings
+Seat 2: Lorpugo (small blind) showed [Tc 9h] and lost with a pair of Tens
+Seat 3: Aryzer (big blind) folded on the Turn
+
+
+
+PokerStars Hand #239211128218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:16:48 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.79 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: Aryzer ($1.99 in chips) 
+Aryzer: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Kc]
+Lorpugo: raises $0.04 to $0.06
+Aryzer: calls $0.05
+HECTOR1500: folds 
+*** FLOP *** [5s 8h Ks]
+Aryzer: checks 
+HachiBee joins the table at seat #4 
+HachiBee leaves the table
+Lorpugo: bets $0.05
+Aryzer: calls $0.05
+*** TURN *** [5s 8h Ks] [8d]
+Aryzer: checks 
+Lorpugo: bets $0.08
+Aryzer: calls $0.08
+*** RIVER *** [5s 8h Ks 8d] [3h]
+Aryzer: checks 
+Lorpugo: bets $0.22
+Aryzer: folds 
+Uncalled bet ($0.22) returned to Lorpugo
+Lorpugo collected $0.39 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [5s 8h Ks 8d 3h]
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo (button) collected ($0.39)
+Seat 3: Aryzer (small blind) folded on the River
+
+
+
+PokerStars Hand #239211151587:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:17:51 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.77 in chips) 
+Seat 2: Lorpugo ($2.20 in chips) 
+Seat 3: Aryzer ($1.80 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs As]
+Aryzer: raises $0.04 to $0.06
+HECTOR1500: folds 
+Lorpugo: raises $0.13 to $0.19
+Aryzer: calls $0.13
+*** FLOP *** [8s 9d 5d]
+Lorpugo: checks 
+Aryzer: checks 
+*** TURN *** [8s 9d 5d] [Qc]
+Lorpugo: bets $0.38
+Aryzer: folds 
+Uncalled bet ($0.38) returned to Lorpugo
+Lorpugo collected $0.38 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [8s 9d 5d Qc]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.38)
+Seat 3: Aryzer (button) folded on the Turn
+
+
+
+PokerStars Hand #239211163613:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:18:23 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.76 in chips) 
+Seat 2: Lorpugo ($2.39 in chips) 
+Seat 3: Aryzer ($1.61 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8d]
+HachiBee joins the table at seat #4 
+HECTOR1500: folds 
+HachiBee leaves the table
+Lorpugo: raises $0.04 to $0.06
+Aryzer: calls $0.04
+*** FLOP *** [4s Th 3s]
+Lorpugo: checks 
+Aryzer: checks 
+*** TURN *** [4s Th 3s] [9s]
+Lorpugo: bets $0.08
+Aryzer: calls $0.08
+*** RIVER *** [4s Th 3s 9s] [Qs]
+Lorpugo: checks 
+Aryzer: bets $0.21
+Lorpugo: folds 
+Uncalled bet ($0.21) returned to Aryzer
+Aryzer collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4s Th 3s 9s Qs]
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the River
+Seat 3: Aryzer (big blind) collected ($0.27)
+
+
+
+PokerStars Hand #239211179962:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:19:07 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.76 in chips) 
+Seat 2: Lorpugo ($2.25 in chips) 
+Seat 3: Aryzer ($1.74 in chips) 
+Aryzer: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 9d]
+Lorpugo: raises $0.04 to $0.06
+Aryzer: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: Aryzer (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211185124:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:19:21 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.74 in chips) 
+Seat 2: Lorpugo ($2.28 in chips) 
+Seat 3: Aryzer ($1.73 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Js]
+Aryzer: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: Aryzer (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211187530:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:19:27 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.73 in chips) 
+Seat 2: Lorpugo ($2.29 in chips) 
+Seat 3: Aryzer ($1.73 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ah]
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+Aryzer: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: HECTOR1500 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: Aryzer (big blind) folded before Flop
+
+
+
+PokerStars Hand #239211192927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:19:42 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.73 in chips) 
+Seat 2: Lorpugo ($2.31 in chips) 
+Seat 3: Aryzer ($1.71 in chips) 
+Aryzer: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7h]
+Lorpugo: raises $0.04 to $0.06
+Aryzer: folds 
+HECTOR1500: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 (big blind) folded before Flop
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: Aryzer (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211196859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:19:52 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.71 in chips) 
+Seat 2: Lorpugo ($2.34 in chips) 
+Seat 3: Aryzer ($1.70 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2c]
+Aryzer: raises $0.02 to $0.04
+HECTOR1500: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [6c 4s Kd]
+Lorpugo: checks 
+Aryzer: checks 
+*** TURN *** [6c 4s Kd] [5d]
+Lorpugo: checks 
+Aryzer: checks 
+*** RIVER *** [6c 4s Kd 5d] [2s]
+zoot62 joins the table at seat #4 
+Lorpugo: checks 
+Aryzer: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to Aryzer
+Aryzer collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6c 4s Kd 5d 2s]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the River
+Seat 3: Aryzer (button) collected ($0.09)
+
+
+
+PokerStars Hand #239211222351:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:21:02 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.70 in chips) 
+Seat 2: Lorpugo ($2.30 in chips) 
+Seat 3: Aryzer ($1.75 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+zoot62: sits out 
+Mista Jeckyll: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5c]
+HECTOR1500: raises $0.03 to $0.05
+Lorpugo: folds 
+Aryzer: calls $0.03
+*** FLOP *** [Td As Jc]
+Aryzer: checks 
+HECTOR1500: bets $0.03
+Aryzer: calls $0.03
+*** TURN *** [Td As Jc] [Qc]
+Aryzer: checks 
+HECTOR1500: checks 
+*** RIVER *** [Td As Jc Qc] [5h]
+Aryzer: checks 
+HECTOR1500: checks 
+*** SHOW DOWN ***
+Aryzer: shows [2s Ah] (a pair of Aces)
+HECTOR1500: mucks hand 
+Aryzer collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Td As Jc Qc 5h]
+Seat 1: HECTOR1500 (button) mucked [7h 7c]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Aryzer (big blind) showed [2s Ah] and won ($0.16) with a pair of Aces
+
+
+
+PokerStars Hand #239211239090:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:21:47 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.62 in chips) 
+Seat 2: Lorpugo ($2.29 in chips) 
+Seat 3: Aryzer ($1.83 in chips) 
+Seat 4: zoot62 ($2 in chips) 
+Aryzer: posts small blind $0.01
+zoot62: posts big blind $0.02
+Mista Jeckyll: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Jh]
+HECTOR1500: folds 
+Lorpugo: raises $0.04 to $0.06
+Aryzer: folds 
+zoot62: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 3: Aryzer (small blind) folded before Flop
+Seat 4: zoot62 (big blind) folded before Flop
+
+
+
+PokerStars Hand #239211248427:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:22:12 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 1: HECTOR1500 ($2.62 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 3: Aryzer ($1.82 in chips) 
+Seat 4: zoot62 ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.40 in chips) 
+zoot62: posts small blind $0.01
+Mista Jeckyll: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6s]
+HECTOR1500: folds 
+Lorpugo: raises $0.02 to $0.04
+Aryzer: calls $0.04
+zoot62: folds 
+Mista Jeckyll: raises $0.36 to $0.40 and is all-in
+philken leaves the table
+Lorpugo: folds 
+Aryzer: calls $0.36
+*** FLOP *** [4d 8h 4s]
+*** TURN *** [4d 8h 4s] [Kc]
+*** RIVER *** [4d 8h 4s Kc] [8c]
+*** SHOW DOWN ***
+Mista Jeckyll: shows [Ah Kd] (two pair, Kings and Eights)
+Aryzer: shows [Th Qd] (two pair, Eights and Fours)
+Mista Jeckyll collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [4d 8h 4s Kc 8c]
+Seat 1: HECTOR1500 folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop
+Seat 3: Aryzer (button) showed [Th Qd] and lost with two pair, Eights and Fours
+Seat 4: zoot62 (small blind) folded before Flop
+Seat 5: Mista Jeckyll (big blind) showed [Ah Kd] and won ($0.82) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #239211263378:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:22:52 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 1: HECTOR1500 ($2.62 in chips) 
+Seat 2: Lorpugo ($2.28 in chips) 
+Seat 3: Aryzer ($1.42 in chips) 
+Seat 4: zoot62 ($2 in chips) 
+Seat 5: Mista Jeckyll ($0.82 in chips) 
+Mista Jeckyll: posts small blind $0.01
+HECTOR1500: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 9h]
+Lorpugo: raises $0.04 to $0.06
+Aryzer: folds 
+zoot62: calls $0.06
+Mista Jeckyll: folds 
+HECTOR1500: calls $0.04
+*** FLOP *** [3d Td Kh]
+HECTOR1500: checks 
+Lorpugo: checks 
+zoot62: bets $0.09
+HECTOR1500: folds 
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to zoot62
+zoot62 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3d Td Kh]
+Seat 1: HECTOR1500 (big blind) folded on the Flop
+Seat 2: Lorpugo folded on the Flop
+Seat 3: Aryzer folded before Flop (didn't bet)
+Seat 4: zoot62 (button) collected ($0.18)
+Seat 5: Mista Jeckyll (small blind) folded before Flop
+
+
+
+PokerStars Hand #239211278938:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:23:35 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 1: HECTOR1500 ($2.56 in chips) 
+Seat 2: Lorpugo ($2.22 in chips) 
+Seat 3: Aryzer ($1.42 in chips) 
+Seat 4: zoot62 ($2.12 in chips) 
+Seat 5: Mista Jeckyll ($0.81 in chips) 
+HECTOR1500: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Jc]
+Aryzer: raises $0.02 to $0.04
+zoot62: calls $0.04
+Mista Jeckyll: raises $0.06 to $0.10
+HECTOR1500: folds 
+Lorpugo: folds 
+Aryzer: calls $0.06
+zoot62: folds 
+*** FLOP *** [2s 5d 6h]
+Aryzer: checks 
+Mista Jeckyll: bets $0.13
+dsolmos joins the table at seat #6 
+Aryzer: raises $0.37 to $0.50
+Mista Jeckyll: calls $0.37
+*** TURN *** [2s 5d 6h] [6c]
+Aryzer: checks 
+Mista Jeckyll: bets $0.21 and is all-in
+Aryzer: calls $0.21
+Mista Jeckyll has timed out
+*** RIVER *** [2s 5d 6h 6c] [Jh]
+*** SHOW DOWN ***
+Aryzer: shows [Kd 6d] (three of a kind, Sixes)
+Mista Jeckyll: shows [Td Tc] (two pair, Tens and Sixes)
+Aryzer collected $1.63 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.06 
+Board [2s 5d 6h 6c Jh]
+Seat 1: HECTOR1500 (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Aryzer showed [Kd 6d] and won ($1.63) with three of a kind, Sixes
+Seat 4: zoot62 folded before Flop
+Seat 5: Mista Jeckyll (button) showed [Td Tc] and lost with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #239211307741:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:24:54 ET
+Table 'Recha II' 6-max Seat #1 is the button
+Seat 1: HECTOR1500 ($2.55 in chips) 
+Seat 2: Lorpugo ($2.20 in chips) 
+Seat 3: Aryzer ($2.24 in chips) 
+Seat 4: zoot62 ($2.08 in chips) 
+Seat 6: dsolmos ($2 in chips) 
+Lorpugo: posts small blind $0.01
+Aryzer: posts big blind $0.02
+dsolmos: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 2c]
+Mista Jeckyll leaves the table
+zoot62: folds 
+dsolmos: checks 
+HECTOR1500: raises $0.08 to $0.10
+Lorpugo: folds 
+rocolito32 joins the table at seat #5 
+Aryzer: calls $0.08
+dsolmos: folds 
+*** FLOP *** [6s Kd 7d]
+Aryzer: checks 
+HECTOR1500: bets $0.07
+Aryzer: folds 
+Uncalled bet ($0.07) returned to HECTOR1500
+HECTOR1500 collected $0.22 from pot
+HECTOR1500: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6s Kd 7d]
+Seat 1: HECTOR1500 (button) collected ($0.22)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Aryzer (big blind) folded on the Flop
+Seat 4: zoot62 folded before Flop (didn't bet)
+Seat 6: dsolmos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239211322376:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/10/13 17:25:34 ET
+Table 'Recha II' 6-max Seat #2 is the button
+Seat 1: HECTOR1500 ($2.67 in chips) 
+Seat 2: Lorpugo ($2.19 in chips) 
+Seat 3: Aryzer ($2.14 in chips) 
+Seat 4: zoot62 ($2.08 in chips) 
+Seat 6: dsolmos ($2 in chips) 
+Aryzer: posts small blind $0.01
+zoot62: posts big blind $0.02
+rocolito32: sits out 
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5s]
+dsolmos: folds 
+HECTOR1500: raises $0.04 to $0.06
+Lorpugo: folds 
+Aryzer: calls $0.05
+zoot62: folds 
+*** FLOP *** [Qc 3s 9h]
+Aryzer: checks 
+HECTOR1500: bets $0.04
+Aryzer: calls $0.04
+*** TURN *** [Qc 3s 9h] [4c]
+Aryzer: checks 
+HECTOR1500: checks 
+*** RIVER *** [Qc 3s 9h 4c] [7h]
+Aryzer: checks 
+HECTOR1500: checks 
+*** SHOW DOWN ***
+Aryzer: shows [Ah 9d] (a pair of Nines)
+HECTOR1500: shows [Ts Tc] (a pair of Tens)
+HECTOR1500 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Qc 3s 9h 4c 7h]
+Seat 1: HECTOR1500 showed [Ts Tc] and won ($0.21) with a pair of Tens
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Aryzer (small blind) showed [Ah 9d] and lost with a pair of Nines
+Seat 4: zoot62 (big blind) folded before Flop
+Seat 6: dsolmos folded before Flop (didn't bet)
+
+
+

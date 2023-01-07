@@ -1,0 +1,77 @@
+﻿PokerStars Hand #239692382802:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/11/06 13:28:47 ET
+Table 'Simona IV' 6-max Seat #1 is the button
+Seat 1: lll1112 ($5 in chips) 
+Seat 2: Montana52736 ($8.82 in chips) 
+Seat 3: Lorpugo ($4 in chips) 
+Seat 4: TimAbr ($5.47 in chips) 
+Seat 5: SkifAU ($6.65 in chips) 
+Seat 6: mark604804 ($5.55 in chips) 
+Montana52736: posts small blind $0.02
+Lorpugo: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Ac]
+TimAbr: folds 
+SkifAU: folds 
+mark604804: folds 
+lll1112: raises $0.10 to $0.15
+Montana52736: folds 
+Lorpugo: raises $0.32 to $0.47
+lll1112: folds 
+Uncalled bet ($0.32) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0 
+Seat 1: lll1112 (button) folded before Flop
+Seat 2: Montana52736 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.32)
+Seat 4: TimAbr folded before Flop (didn't bet)
+Seat 5: SkifAU folded before Flop (didn't bet)
+Seat 6: mark604804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239692395301:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/11/06 13:29:13 ET
+Table 'Simona IV' 6-max Seat #2 is the button
+Seat 1: lll1112 ($5 in chips) 
+Seat 2: Montana52736 ($8.80 in chips) 
+Seat 3: Lorpugo ($4.17 in chips) 
+Seat 4: TimAbr ($5.47 in chips) 
+Seat 5: SkifAU ($6.65 in chips) 
+Seat 6: mark604804 ($5.55 in chips) 
+Lorpugo: posts small blind $0.02
+TimAbr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 7s]
+SkifAU: folds 
+mark604804: folds 
+lll1112: folds 
+Montana52736: raises $0.12 to $0.17
+Lorpugo: calls $0.15
+TimAbr: folds 
+*** FLOP *** [Js Ks Jh]
+Lorpugo: checks 
+Montana52736: bets $0.19
+Lorpugo: calls $0.19
+*** TURN *** [Js Ks Jh] [Kc]
+Lorpugo: checks 
+Montana52736: checks 
+*** RIVER *** [Js Ks Jh Kc] [Jc]
+Lorpugo: bets $3.81 and is all-in
+Montana52736: calls $3.81
+*** SHOW DOWN ***
+Lorpugo: shows [7c 7s] (a full house, Jacks full of Kings)
+Montana52736: shows [Qs Kh] (a full house, Kings full of Jacks)
+Montana52736 collected $8.04 from pot
+*** SUMMARY ***
+Total pot $8.39 | Rake $0.35 
+Board [Js Ks Jh Kc Jc]
+Seat 1: lll1112 folded before Flop (didn't bet)
+Seat 2: Montana52736 (button) showed [Qs Kh] and won ($8.04) with a full house, Kings full of Jacks
+Seat 3: Lorpugo (small blind) showed [7c 7s] and lost with a full house, Jacks full of Kings
+Seat 4: TimAbr (big blind) folded before Flop
+Seat 5: SkifAU folded before Flop (didn't bet)
+Seat 6: mark604804 folded before Flop (didn't bet)
+
+
+

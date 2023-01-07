@@ -1,0 +1,3056 @@
+﻿PokerStars Hand #240908909218:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:05:19 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 1: tobyj64 ($0.39 in chips) 
+Seat 2: splitter100br ($1.87 in chips) 
+Seat 3: Gor4477 ($2.64 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.50 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Jd]
+tobyj64: folds 
+splitter100br has timed out
+splitter100br: folds 
+Gor4477: raises $0.03 to $0.05
+hilarjo: folds 
+TaysonRosa: folds 
+Lorpugo: raises $0.11 to $0.16
+Gor4477: calls $0.11
+*** FLOP *** [4s 7h As]
+Lorpugo: bets $0.14
+Gor4477: calls $0.14
+*** TURN *** [4s 7h As] [8h]
+Lorpugo: checks 
+Gor4477: bets $0.18
+Lorpugo: calls $0.18
+*** RIVER *** [4s 7h As 8h] [Qs]
+Lorpugo: bets $0.14
+Gor4477: calls $0.14
+*** SHOW DOWN ***
+Lorpugo: shows [Jh Jd] (a pair of Jacks)
+Gor4477: shows [Ah Qc] (two pair, Aces and Queens)
+Gor4477 collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.04 
+Board [4s 7h As 8h Qs]
+Seat 1: tobyj64 folded before Flop (didn't bet)
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 showed [Ah Qc] and won ($1.21) with two pair, Aces and Queens
+Seat 4: hilarjo (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [Jh Jd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #240908953525:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:07:06 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: tobyj64 ($2 in chips) 
+Seat 2: splitter100br ($1.87 in chips) 
+Seat 3: Gor4477 ($3.23 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.49 in chips) 
+Seat 6: Lorpugo ($0.98 in chips) 
+Lorpugo: posts small blind $0.01
+tobyj64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5s]
+splitter100br: folds 
+Gor4477: raises $0.03 to $0.05
+hilarjo: folds 
+TaysonRosa: calls $0.05
+Lorpugo: folds 
+tobyj64: folds 
+*** FLOP *** [Ah Kh 4h]
+Gor4477: checks 
+TaysonRosa: bets $0.02
+Gor4477: folds 
+Uncalled bet ($0.02) returned to TaysonRosa
+TaysonRosa collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ah Kh 4h]
+Seat 1: tobyj64 (big blind) folded before Flop
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 folded on the Flop
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa (button) collected ($0.13)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240908964932:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:07:33 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: tobyj64 ($1.98 in chips) 
+Seat 2: splitter100br ($1.87 in chips) 
+Seat 3: Gor4477 ($3.18 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.57 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+tobyj64: posts small blind $0.01
+splitter100br: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2c]
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: calls $0.02
+Lorpugo: folds 
+tobyj64: calls $0.01
+splitter100br: raises $0.07 to $0.09
+TaysonRosa: calls $0.07
+tobyj64: folds 
+*** FLOP *** [Qs Jd 4d]
+splitter100br: bets $0.06
+TaysonRosa: calls $0.06
+*** TURN *** [Qs Jd 4d] [Jh]
+splitter100br: bets $0.23
+TaysonRosa: calls $0.23
+*** RIVER *** [Qs Jd 4d Jh] [5s]
+splitter100br: bets $0.90
+TaysonRosa: folds 
+Uncalled bet ($0.90) returned to splitter100br
+splitter100br collected $0.75 from pot
+splitter100br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [Qs Jd 4d Jh 5s]
+Seat 1: tobyj64 (small blind) folded before Flop
+Seat 2: splitter100br (big blind) collected ($0.75)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa folded on the River
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240908994553:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:08:44 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: tobyj64 ($1.96 in chips) 
+Seat 2: splitter100br ($2.24 in chips) 
+Seat 3: Gor4477 ($3.18 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.19 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+splitter100br: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 9s]
+hilarjo: folds 
+TaysonRosa: raises $0.04 to $0.06
+Lorpugo: folds 
+tobyj64: folds 
+splitter100br: folds 
+Gor4477: folds 
+Uncalled bet ($0.04) returned to TaysonRosa
+TaysonRosa collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: tobyj64 (button) folded before Flop (didn't bet)
+Seat 2: splitter100br (small blind) folded before Flop
+Seat 3: Gor4477 (big blind) folded before Flop
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909004372:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:09:07 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: tobyj64 ($1.96 in chips) 
+Seat 2: splitter100br ($2.23 in chips) 
+Seat 3: Gor4477 ($3.16 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.22 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+Gor4477: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ad]
+TaysonRosa: raises $0.04 to $0.06
+Lorpugo: raises $0.15 to $0.21
+tobyj64: raises $1.75 to $1.96 and is all-in
+splitter100br: folds 
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: folds 
+Lorpugo: calls $1.56 and is all-in
+Uncalled bet ($0.19) returned to tobyj64
+*** FLOP *** [8s Qc 8c]
+*** TURN *** [8s Qc 8c] [6s]
+*** RIVER *** [8s Qc 8c 6s] [8h]
+*** SHOW DOWN ***
+Lorpugo: shows [Ks Ad] (three of a kind, Eights)
+tobyj64: shows [5h 5s] (a full house, Eights full of Fives)
+tobyj64 collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.63 | Rake $0.13 
+Board [8s Qc 8c 6s 8h]
+Seat 1: tobyj64 showed [5h 5s] and won ($3.50) with a full house, Eights full of Fives
+Seat 2: splitter100br (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 4: hilarjo (big blind) folded before Flop
+Seat 5: TaysonRosa folded before Flop
+Seat 6: Lorpugo showed [Ks Ad] and lost with three of a kind, Eights
+
+
+
+PokerStars Hand #240909057324:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:11:14 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 1: tobyj64 ($3.69 in chips) 
+Seat 2: splitter100br ($2 in chips) 
+Seat 3: Gor4477 ($3.15 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.38 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Kh]
+tobyj64: folds 
+splitter100br has timed out
+splitter100br: folds 
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ks 5s 7h]
+TaysonRosa: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+TaysonRosa: calls $0.02
+*** TURN *** [Ks 5s 7h] [Kc]
+TaysonRosa: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+TaysonRosa: calls $0.02
+*** RIVER *** [Ks 5s 7h Kc] [Js]
+TaysonRosa: checks 
+Lorpugo: bets $0.04
+TaysonRosa: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ks 5s 7h Kc Js]
+Seat 1: tobyj64 folded before Flop (didn't bet)
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) folded on the River
+Seat 6: Lorpugo (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #240909083040:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:12:15 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: tobyj64 ($3.69 in chips) 
+Seat 2: splitter100br ($2 in chips) 
+Seat 3: Gor4477 ($3.15 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.28 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+Lorpugo: posts small blind $0.01
+tobyj64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jh]
+splitter100br: folds 
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: folds 
+Lorpugo: raises $0.04 to $0.06
+tobyj64: calls $0.04
+*** FLOP *** [Td Ts 4c]
+Lorpugo: checks 
+tobyj64: bets $3.63 and is all-in
+Lorpugo: folds 
+Uncalled bet ($3.63) returned to tobyj64
+tobyj64 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Td Ts 4c]
+Seat 1: tobyj64 (big blind) collected ($0.12)
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #240909096488:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:12:47 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: tobyj64 ($3.75 in chips) 
+Seat 2: splitter100br ($2 in chips) 
+Seat 3: Gor4477 ($3.15 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.28 in chips) 
+Seat 6: Lorpugo ($1.63 in chips) 
+tobyj64: posts small blind $0.01
+splitter100br: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ac]
+Gor4477: raises $0.03 to $0.05
+hilarjo: folds 
+TaysonRosa: calls $0.05
+Lorpugo: raises $0.18 to $0.23
+tobyj64: folds 
+splitter100br: calls $0.21
+Gor4477: calls $0.18
+TaysonRosa: calls $0.18
+*** FLOP *** [Tc Qh Td]
+splitter100br: checks 
+Gor4477: checks 
+TaysonRosa: bets $2.05 and is all-in
+Lorpugo: folds 
+splitter100br: folds 
+Gor4477: folds 
+Uncalled bet ($2.05) returned to TaysonRosa
+TaysonRosa collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [Tc Qh Td]
+Seat 1: tobyj64 (small blind) folded before Flop
+Seat 2: splitter100br (big blind) folded on the Flop
+Seat 3: Gor4477 folded on the Flop
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa collected ($0.90)
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #240909130345:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:14:08 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: tobyj64 ($3.74 in chips) 
+Seat 2: splitter100br ($1.77 in chips) 
+Seat 3: Gor4477 ($2.92 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.95 in chips) 
+Seat 6: Lorpugo ($1.40 in chips) 
+splitter100br: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Jc]
+hilarjo: raises $0.03 to $0.05
+TaysonRosa: folds 
+Lorpugo: calls $0.05
+tobyj64: folds 
+splitter100br: folds 
+TaysonRosa is disconnected 
+Gor4477: raises $0.20 to $0.25
+hilarjo: folds 
+Lorpugo: calls $0.20
+*** FLOP *** [Jh Jd 8d]
+Gor4477: checks 
+Lorpugo: bets $0.24
+Gor4477: raises $2.43 to $2.67 and is all-in
+Lorpugo: calls $0.91 and is all-in
+Uncalled bet ($1.52) returned to Gor4477
+*** TURN *** [Jh Jd 8d] [5c]
+*** RIVER *** [Jh Jd 8d 5c] [Kc]
+*** SHOW DOWN ***
+Gor4477: shows [As Ac] (two pair, Aces and Jacks)
+Lorpugo: shows [Tc Jc] (three of a kind, Jacks)
+Lorpugo collected $2.76 from pot
+*** SUMMARY ***
+Total pot $2.86 | Rake $0.10 
+Board [Jh Jd 8d 5c Kc]
+Seat 1: tobyj64 (button) folded before Flop (didn't bet)
+Seat 2: splitter100br (small blind) folded before Flop
+Seat 3: Gor4477 (big blind) showed [As Ac] and lost with two pair, Aces and Jacks
+Seat 4: hilarjo folded before Flop
+Seat 5: TaysonRosa folded before Flop (didn't bet)
+Seat 6: Lorpugo showed [Tc Jc] and won ($2.76) with three of a kind, Jacks
+
+
+
+PokerStars Hand #240909160435:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:15:18 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: tobyj64 ($3.74 in chips) 
+Seat 2: splitter100br ($1.76 in chips) 
+Seat 3: Gor4477 ($2 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.95 in chips) 
+Seat 6: Lorpugo ($2.76 in chips) 
+Gor4477: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Kc]
+TaysonRosa: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+tobyj64: folds 
+splitter100br: folds 
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: calls $0.02
+*** FLOP *** [Qc 3d 7c]
+TaysonRosa: checks 
+Lorpugo: bets $0.08
+TaysonRosa: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qc 3d 7c]
+Seat 1: tobyj64 folded before Flop (didn't bet)
+Seat 2: splitter100br (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 4: hilarjo (big blind) folded before Flop
+Seat 5: TaysonRosa folded on the Flop
+Seat 6: Lorpugo collected ($0.11)
+
+
+
+PokerStars Hand #240909192298:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:16:34 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: tobyj64 ($3.74 in chips) 
+Seat 2: splitter100br ($1.76 in chips) 
+Seat 3: Gor4477 ($1.99 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.91 in chips) 
+Seat 6: Lorpugo ($2.83 in chips) 
+hilarjo: posts small blind $0.01
+TaysonRosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6d]
+Lorpugo: folds 
+tobyj64: folds 
+splitter100br: folds 
+Gor4477: folds 
+hilarjo: raises $0.04 to $0.06
+TaysonRosa: raises $0.04 to $0.10
+hilarjo: calls $0.04
+*** FLOP *** [Ad 7c 5h]
+hilarjo: checks 
+TaysonRosa: bets $0.10
+hilarjo: folds 
+Uncalled bet ($0.10) returned to TaysonRosa
+TaysonRosa collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ad 7c 5h]
+Seat 1: tobyj64 folded before Flop (didn't bet)
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 4: hilarjo (small blind) folded on the Flop
+Seat 5: TaysonRosa (big blind) collected ($0.19)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909213309:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:17:24 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 1: tobyj64 ($3.74 in chips) 
+Seat 2: splitter100br ($1.76 in chips) 
+Seat 3: Gor4477 ($1.99 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($3 in chips) 
+Seat 6: Lorpugo ($2.83 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 3c]
+tobyj64: folds 
+splitter100br: folds 
+Gor4477: raises $0.04 to $0.06
+hilarjo: folds 
+TaysonRosa: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [Qd Ah 5h]
+TaysonRosa: checks 
+Gor4477: bets $0.11
+TaysonRosa: folds 
+Uncalled bet ($0.11) returned to Gor4477
+Gor4477 collected $0.14 from pot
+Gor4477: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qd Ah 5h]
+Seat 1: tobyj64 folded before Flop (didn't bet)
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 collected ($0.14)
+Seat 4: hilarjo (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240909227350:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:17:57 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: tobyj64 ($3.74 in chips) 
+Seat 2: splitter100br ($1.76 in chips) 
+Seat 3: Gor4477 ($2.07 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.94 in chips) 
+Seat 6: Lorpugo ($2.81 in chips) 
+Lorpugo: posts small blind $0.01
+tobyj64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Jc]
+splitter100br: folds 
+Gor4477: raises $0.04 to $0.06
+hilarjo: folds 
+TaysonRosa: raises $0.06 to $0.12
+Lorpugo: folds 
+tobyj64: folds 
+Gor4477: raises $0.15 to $0.27
+TaysonRosa: calls $0.15
+*** FLOP *** [7s Ts Qd]
+Gor4477: bets $1.80 and is all-in
+TaysonRosa: calls $1.80
+*** TURN *** [7s Ts Qd] [9c]
+*** RIVER *** [7s Ts Qd 9c] [4h]
+*** SHOW DOWN ***
+Gor4477: shows [Kc Kh] (a pair of Kings)
+TaysonRosa: shows [As Kd] (high card Ace)
+Gor4477 collected $4.02 from pot
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.15 
+Board [7s Ts Qd 9c 4h]
+Seat 1: tobyj64 (big blind) folded before Flop
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 showed [Kc Kh] and won ($4.02) with a pair of Kings
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa (button) showed [As Kd] and lost with high card Ace
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240909246830:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:18:43 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: tobyj64 ($3.72 in chips) 
+Seat 2: splitter100br ($1.76 in chips) 
+Seat 3: Gor4477 ($4.02 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($0.87 in chips) 
+Seat 6: Lorpugo ($2.80 in chips) 
+tobyj64: posts small blind $0.01
+splitter100br: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Kd]
+Gor4477: folds 
+hilarjo: raises $0.03 to $0.05
+TaysonRosa: raises $0.03 to $0.08
+Lorpugo: calls $0.08
+tobyj64: folds 
+splitter100br: folds 
+hilarjo: calls $0.03
+*** FLOP *** [5d 3d 3h]
+hilarjo: checks 
+TaysonRosa: bets $0.79 and is all-in
+Lorpugo: folds 
+hilarjo: folds 
+Uncalled bet ($0.79) returned to TaysonRosa
+TaysonRosa collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5d 3d 3h]
+Seat 1: tobyj64 (small blind) folded before Flop
+Seat 2: splitter100br (big blind) folded before Flop
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo folded on the Flop
+Seat 5: TaysonRosa collected ($0.26)
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #240909271417:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:19:42 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: tobyj64 ($3.71 in chips) 
+Seat 2: splitter100br ($1.74 in chips) 
+Seat 3: Gor4477 ($4.02 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($1.05 in chips) 
+Seat 6: Lorpugo ($2.72 in chips) 
+splitter100br: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ac]
+hilarjo: folds 
+TaysonRosa: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+tobyj64: folds 
+splitter100br: folds 
+Gor4477: folds 
+*** FLOP *** [7h Tc Ts]
+TaysonRosa: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+TaysonRosa: calls $0.02
+*** TURN *** [7h Tc Ts] [8h]
+TaysonRosa: checks 
+Lorpugo: bets $0.30
+TaysonRosa: calls $0.30
+*** RIVER *** [7h Tc Ts 8h] [2c]
+TaysonRosa: checks 
+Lorpugo: bets $0.53
+TaysonRosa: calls $0.53
+*** SHOW DOWN ***
+Lorpugo: shows [9s Ac] (a pair of Tens)
+TaysonRosa: shows [7s As] (two pair, Tens and Sevens)
+TaysonRosa collected $1.82 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.07 
+Board [7h Tc Ts 8h 2c]
+Seat 1: tobyj64 (button) folded before Flop (didn't bet)
+Seat 2: splitter100br (small blind) folded before Flop
+Seat 3: Gor4477 (big blind) folded before Flop
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa showed [7s As] and won ($1.82) with two pair, Tens and Sevens
+Seat 6: Lorpugo showed [9s Ac] and lost with a pair of Tens
+
+
+
+PokerStars Hand #240909302561:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:20:55 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: tobyj64 ($3.71 in chips) 
+Seat 2: splitter100br ($1.73 in chips) 
+Seat 3: Gor4477 ($4 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($1.94 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+Gor4477: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Jc]
+TaysonRosa: folds 
+Lorpugo: raises $0.04 to $0.06
+tobyj64: folds 
+splitter100br: folds 
+Gor4477: folds 
+hilarjo: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: tobyj64 folded before Flop (didn't bet)
+Seat 2: splitter100br (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 4: hilarjo (big blind) folded before Flop
+Seat 5: TaysonRosa folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240909312787:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:21:20 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: tobyj64 ($3.71 in chips) 
+Seat 2: splitter100br ($1.73 in chips) 
+Seat 3: Gor4477 ($3.99 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($1.94 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+hilarjo: posts small blind $0.01
+TaysonRosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5s]
+Lorpugo: folds 
+tobyj64: folds 
+splitter100br has timed out
+splitter100br: folds 
+Gor4477: raises $0.03 to $0.05
+hilarjo: raises $0.14 to $0.19
+TaysonRosa: calls $0.17
+tobyj64 leaves the table
+Gor4477: folds 
+*** FLOP *** [9c 2c 2s]
+hilarjo: bets $0.21
+TaysonRosa: folds 
+Uncalled bet ($0.21) returned to hilarjo
+hilarjo collected $0.41 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [9c 2c 2s]
+Seat 1: tobyj64 folded before Flop (didn't bet)
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) folded before Flop
+Seat 4: hilarjo (small blind) collected ($0.41)
+Seat 5: TaysonRosa (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909333356:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:22:08 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 2: splitter100br ($1.73 in chips) 
+Seat 3: Gor4477 ($3.94 in chips) 
+Seat 4: hilarjo ($2.22 in chips) 
+Seat 5: TaysonRosa ($1.75 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7d]
+splitter100br: raises $0.03 to $0.05
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [8c Jd Kc]
+TaysonRosa: bets $0.02
+splitter100br: raises $0.06 to $0.08
+TaysonRosa: calls $0.06
+*** TURN *** [8c Jd Kc] [Td]
+TaysonRosa: checks 
+splitter100br: bets $0.20
+TaysonRosa: calls $0.20
+*** RIVER *** [8c Jd Kc Td] [9c]
+Alekoukos1993 joins the table at seat #1 
+TaysonRosa: checks 
+splitter100br: checks 
+*** SHOW DOWN ***
+TaysonRosa: shows [Ac 6h] (high card Ace)
+splitter100br: shows [Ah Kd] (a pair of Kings)
+splitter100br collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [8c Jd Kc Td 9c]
+Seat 2: splitter100br showed [Ah Kd] and won ($0.66) with a pair of Kings
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) showed [Ac 6h] and lost with high card Ace
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240909360119:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:23:11 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: Alekoukos1993 ($2 in chips) 
+Seat 2: splitter100br ($2.06 in chips) 
+Seat 3: Gor4477 ($3.94 in chips) 
+Seat 4: hilarjo ($2.22 in chips) 
+Seat 5: TaysonRosa ($1.42 in chips) 
+Seat 6: Lorpugo ($1.80 in chips) 
+Lorpugo: posts small blind $0.01
+Alekoukos1993: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9h]
+splitter100br: folds 
+Gor4477: raises $0.03 to $0.05
+hilarjo: folds 
+TaysonRosa: calls $0.05
+Lorpugo: folds 
+Alekoukos1993: calls $0.03
+*** FLOP *** [7s Qd 2c]
+Alekoukos1993: checks 
+Gor4477: checks 
+TaysonRosa: checks 
+*** TURN *** [7s Qd 2c] [5d]
+Alekoukos1993: checks 
+Gor4477: bets $0.05
+TaysonRosa: folds 
+Alekoukos1993: raises $0.15 to $0.20
+Gor4477: folds 
+Uncalled bet ($0.15) returned to Alekoukos1993
+Alekoukos1993 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7s Qd 2c 5d]
+Seat 1: Alekoukos1993 (big blind) collected ($0.25)
+Seat 2: splitter100br folded before Flop (didn't bet)
+Seat 3: Gor4477 folded on the Turn
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa (button) folded on the Turn
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240909389002:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:24:19 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: Alekoukos1993 ($2.15 in chips) 
+Seat 2: splitter100br ($2.06 in chips) 
+Seat 3: Gor4477 ($3.84 in chips) 
+Seat 4: hilarjo ($2.22 in chips) 
+Seat 5: TaysonRosa ($1.37 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+Alekoukos1993: posts small blind $0.01
+splitter100br: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Kc]
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: folds 
+Lorpugo: raises $0.04 to $0.06
+Alekoukos1993: folds 
+splitter100br: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Alekoukos1993 (small blind) folded before Flop
+Seat 2: splitter100br (big blind) folded before Flop
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240909401478:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:24:49 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: Alekoukos1993 ($2.14 in chips) 
+Seat 2: splitter100br ($2.04 in chips) 
+Seat 3: Gor4477 ($3.84 in chips) 
+Seat 4: hilarjo ($2.22 in chips) 
+Seat 5: TaysonRosa ($1.37 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+splitter100br: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Ad]
+hilarjo: raises $0.03 to $0.05
+TaysonRosa: folds 
+Lorpugo: calls $0.05
+Alekoukos1993: folds 
+Alekoukos1993 leaves the table
+KRandall12 joins the table at seat #1 
+splitter100br: raises $0.15 to $0.20
+Gor4477: calls $0.18
+hilarjo: folds 
+Lorpugo: folds 
+*** FLOP *** [Qd 6h 6c]
+splitter100br: bets $0.16
+Gor4477: calls $0.16
+*** TURN *** [Qd 6h 6c] [3h]
+splitter100br: checks 
+Gor4477: bets $0.18
+splitter100br: calls $0.18
+*** RIVER *** [Qd 6h 6c 3h] [Ts]
+splitter100br: checks 
+Gor4477: checks 
+*** SHOW DOWN ***
+splitter100br: shows [As 5s] (a pair of Sixes)
+Gor4477: shows [Ks Qs] (two pair, Queens and Sixes)
+Gor4477 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [Qd 6h 6c 3h Ts]
+Seat 1: Alekoukos1993 (button) folded before Flop (didn't bet)
+Seat 2: splitter100br (small blind) showed [As 5s] and lost with a pair of Sixes
+Seat 3: Gor4477 (big blind) showed [Ks Qs] and won ($1.14) with two pair, Queens and Sixes
+Seat 4: hilarjo folded before Flop
+Seat 5: TaysonRosa folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #240909428189:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:25:53 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 2: splitter100br ($1.50 in chips) 
+Seat 3: Gor4477 ($4.44 in chips) 
+Seat 4: hilarjo ($2.17 in chips) 
+Seat 5: TaysonRosa ($1.37 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+Gor4477: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Jh]
+TaysonRosa: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+splitter100br: folds 
+Gor4477: calls $0.03
+hilarjo: calls $0.02
+TaysonRosa: calls $0.02
+*** FLOP *** [7d Qs Js]
+Gor4477: checks 
+hilarjo: checks 
+TaysonRosa: checks 
+Lorpugo: checks 
+*** TURN *** [7d Qs Js] [Kd]
+Gor4477: checks 
+hilarjo: checks 
+TaysonRosa: bets $0.06
+Lorpugo: folds 
+Gor4477: folds 
+hilarjo: folds 
+Uncalled bet ($0.06) returned to TaysonRosa
+TaysonRosa collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7d Qs Js Kd]
+Seat 2: splitter100br (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded on the Turn
+Seat 4: hilarjo (big blind) folded on the Turn
+Seat 5: TaysonRosa collected ($0.15)
+Seat 6: Lorpugo folded on the Turn
+
+
+
+PokerStars Hand #240909451629:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:26:48 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 2: splitter100br ($1.50 in chips) 
+Seat 3: Gor4477 ($4.40 in chips) 
+Seat 4: hilarjo ($2.13 in chips) 
+Seat 5: TaysonRosa ($1.48 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+hilarjo: posts small blind $0.01
+TaysonRosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 8h]
+Lorpugo: raises $0.02 to $0.04
+splitter100br: raises $0.11 to $0.15
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: raises $0.31 to $0.46
+Lorpugo: folds 
+splitter100br: raises $1.04 to $1.50 and is all-in
+TaysonRosa: calls $1.02 and is all-in
+Uncalled bet ($0.02) returned to splitter100br
+*** FLOP *** [2c 9d 4h]
+*** TURN *** [2c 9d 4h] [Tc]
+*** RIVER *** [2c 9d 4h Tc] [7d]
+*** SHOW DOWN ***
+TaysonRosa: shows [Kc Kd] (a pair of Kings)
+splitter100br: shows [Ac Ks] (high card Ace)
+TaysonRosa collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3.01 | Rake $0.11 
+Board [2c 9d 4h Tc 7d]
+Seat 2: splitter100br showed [Ac Ks] and lost with high card Ace
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 4: hilarjo (small blind) folded before Flop
+Seat 5: TaysonRosa (big blind) showed [Kc Kd] and won ($2.90) with a pair of Kings
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #240909470088:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:27:32 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 2: splitter100br ($0.02 in chips) 
+Seat 3: Gor4477 ($4.40 in chips) 
+Seat 4: hilarjo ($2.12 in chips) 
+Seat 5: TaysonRosa ($2.90 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Kc]
+splitter100br: calls $0.02 and is all-in
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [3d Ad 3s]
+TaysonRosa: checks 
+Lorpugo: bets $0.02
+TaysonRosa: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+*** TURN *** [3d Ad 3s] [8c]
+*** RIVER *** [3d Ad 3s 8c] [4c]
+*** SHOW DOWN ***
+Lorpugo: shows [2d Kc] (a pair of Threes)
+splitter100br: shows [Js 9h] (a pair of Threes - lower kicker)
+Lorpugo collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3d Ad 3s 8c 4c]
+Seat 2: splitter100br showed [Js 9h] and lost with a pair of Threes
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) showed [2d Kc] and won ($0.06) with a pair of Threes
+
+
+
+PokerStars Hand #240909486778:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:28:11 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 3: Gor4477 ($4.40 in chips) 
+Seat 4: hilarjo ($2.12 in chips) 
+Seat 5: TaysonRosa ($2.88 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5d]
+Gor4477: folds 
+splitter100br leaves the table
+hilarjo: folds 
+TaysonRosa: calls $0.02
+Lorpugo: folds 
+KRandall12: checks 
+*** FLOP *** [Tc Js Td]
+KRandall12: checks 
+MrDonRich joins the table at seat #2 
+TaysonRosa: bets $0.02
+KRandall12: calls $0.02
+*** TURN *** [Tc Js Td] [Ah]
+KRandall12: checks 
+TaysonRosa: bets $0.02
+KRandall12: calls $0.02
+*** RIVER *** [Tc Js Td Ah] [7h]
+KRandall12: checks 
+TaysonRosa: checks 
+*** SHOW DOWN ***
+KRandall12: shows [8h Qc] (a pair of Tens)
+TaysonRosa: mucks hand 
+KRandall12 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Tc Js Td Ah 7h]
+Seat 1: KRandall12 (big blind) showed [8h Qc] and won ($0.13) with a pair of Tens
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa (button) mucked [4c 9c]
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240909510185:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:29:07 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.87 in chips) 
+Seat 2: MrDonRich ($2 in chips) 
+Seat 3: Gor4477 ($4.40 in chips) 
+Seat 4: hilarjo ($2.12 in chips) 
+Seat 5: TaysonRosa ($2.82 in chips) 
+Seat 6: Lorpugo ($1.72 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 6h]
+Gor4477: folds 
+hilarjo: raises $0.03 to $0.05
+TaysonRosa: folds 
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: calls $0.03
+*** FLOP *** [6c 6s 7s]
+MrDonRich: checks 
+hilarjo: bets $0.06
+MrDonRich: calls $0.06
+*** TURN *** [6c 6s 7s] [Qd]
+MrDonRich: checks 
+hilarjo: checks 
+*** RIVER *** [6c 6s 7s Qd] [Js]
+MrDonRich: checks 
+hilarjo: checks 
+*** SHOW DOWN ***
+MrDonRich: shows [Ts Qs] (a flush, Queen high)
+hilarjo: mucks hand 
+MrDonRich collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6c 6s 7s Qd Js]
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) showed [Ts Qs] and won ($0.22) with a flush, Queen high
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo mucked [Jc Kd]
+Seat 5: TaysonRosa folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909534247:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:30:04 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 2: MrDonRich ($2.11 in chips) 
+Seat 3: Gor4477 ($4.40 in chips) 
+Seat 4: hilarjo ($2.01 in chips) 
+Seat 5: TaysonRosa ($2.82 in chips) 
+Seat 6: Lorpugo ($1.72 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 4d]
+hilarjo: raises $0.03 to $0.05
+TaysonRosa: folds 
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: calls $0.04
+Gor4477: folds 
+*** FLOP *** [2c 2d 6c]
+MrDonRich: checks 
+hilarjo: bets $0.06
+MrDonRich: calls $0.06
+*** TURN *** [2c 2d 6c] [Qs]
+MrDonRich: checks 
+hilarjo: checks 
+*** RIVER *** [2c 2d 6c Qs] [8h]
+MrDonRich: bets $0.23
+hilarjo: folds 
+Uncalled bet ($0.23) returned to MrDonRich
+MrDonRich collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2c 2d 6c Qs 8h]
+Seat 1: KRandall12 (button) folded before Flop (didn't bet)
+Seat 2: MrDonRich (small blind) collected ($0.23)
+Seat 3: Gor4477 (big blind) folded before Flop
+Seat 4: hilarjo folded on the River
+Seat 5: TaysonRosa folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909557237:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:30:56 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 2: MrDonRich ($2.23 in chips) 
+Seat 3: Gor4477 ($4.38 in chips) 
+Seat 4: hilarjo ($2 in chips) 
+Seat 5: TaysonRosa ($2.82 in chips) 
+Seat 6: Lorpugo ($1.72 in chips) 
+Gor4477: posts small blind $0.01
+hilarjo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Tc]
+TaysonRosa: calls $0.02
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: folds 
+Gor4477: folds 
+hilarjo: checks 
+*** FLOP *** [Js Jc 6c]
+hilarjo: checks 
+TaysonRosa: checks 
+*** TURN *** [Js Jc 6c] [2h]
+hilarjo: checks 
+TaysonRosa: checks 
+*** RIVER *** [Js Jc 6c 2h] [7h]
+hilarjo: checks 
+TaysonRosa: checks 
+*** SHOW DOWN ***
+hilarjo: shows [Th 2c] (two pair, Jacks and Deuces)
+TaysonRosa: mucks hand 
+hilarjo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js Jc 6c 2h 7h]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 4: hilarjo (big blind) showed [Th 2c] and won ($0.05) with two pair, Jacks and Deuces
+Seat 5: TaysonRosa mucked [Td 8d]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909589696:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:32:12 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 2: MrDonRich ($2.23 in chips) 
+Seat 3: Gor4477 ($4.37 in chips) 
+Seat 4: hilarjo ($2.03 in chips) 
+Seat 5: TaysonRosa ($2.80 in chips) 
+Seat 6: Lorpugo ($1.72 in chips) 
+hilarjo: posts small blind $0.01
+TaysonRosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7d]
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: raises $0.04 to $0.06
+Gor4477: folds 
+hilarjo: raises $0.14 to $0.20
+TaysonRosa: folds 
+MrDonRich: folds 
+Uncalled bet ($0.14) returned to hilarjo
+hilarjo collected $0.14 from pot
+hilarjo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich folded before Flop
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 4: hilarjo (small blind) collected ($0.14)
+Seat 5: TaysonRosa (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909598724:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:32:33 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 2: MrDonRich ($2.17 in chips) 
+Seat 3: Gor4477 ($4.37 in chips) 
+Seat 4: hilarjo ($2.11 in chips) 
+Seat 5: TaysonRosa ($2.78 in chips) 
+Seat 6: Lorpugo ($1.72 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 5h]
+KRandall12: folds 
+MrDonRich: folds 
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ad 2h Kh]
+TaysonRosa: checks 
+Lorpugo: bets $0.02
+TaysonRosa: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ad 2h Kh]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #240909619170:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:33:20 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 2: MrDonRich ($2.17 in chips) 
+Seat 3: Gor4477 ($4.37 in chips) 
+Seat 4: hilarjo ($2.11 in chips) 
+Seat 5: TaysonRosa ($2.76 in chips) 
+Seat 6: Lorpugo ($1.74 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5d]
+MrDonRich: calls $0.02
+Gor4477: raises $0.03 to $0.05
+hilarjo: folds 
+TaysonRosa: folds 
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: calls $0.03
+*** FLOP *** [5h 2h 7c]
+MrDonRich: checks 
+Gor4477: checks 
+*** TURN *** [5h 2h 7c] [Td]
+MrDonRich: bets $0.09
+Gor4477: folds 
+Uncalled bet ($0.09) returned to MrDonRich
+MrDonRich collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5h 2h 7c Td]
+Seat 1: KRandall12 (big blind) folded before Flop
+Seat 2: MrDonRich collected ($0.13)
+Seat 3: Gor4477 folded on the Turn
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240909633330:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:33:53 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.84 in chips) 
+Seat 2: MrDonRich ($2.25 in chips) 
+Seat 3: Gor4477 ($4.32 in chips) 
+Seat 4: hilarjo ($2.11 in chips) 
+Seat 5: TaysonRosa ($2.76 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2c]
+Gor4477: folds 
+hilarjo: folds 
+TaysonRosa: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+KRandall12: folds 
+MrDonRich: folds 
+TaysonRosa: calls $0.02
+*** FLOP *** [5h 2h 3s]
+TaysonRosa: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+TaysonRosa: calls $0.02
+*** TURN *** [5h 2h 3s] [Ks]
+TaysonRosa: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+TaysonRosa: calls $0.02
+*** RIVER *** [5h 2h 3s Ks] [8d]
+TaysonRosa: checks 
+Lorpugo: bets $0.02
+TaysonRosa: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [Ad 2c] (a pair of Deuces)
+TaysonRosa: shows [3h Ac] (a pair of Threes)
+TaysonRosa collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [5h 2h 3s Ks 8d]
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) folded before Flop
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa showed [3h Ac] and won ($0.30) with a pair of Threes
+Seat 6: Lorpugo (button) showed [Ad 2c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #240909652280:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:34:37 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.83 in chips) 
+Seat 2: MrDonRich ($2.23 in chips) 
+Seat 3: Gor4477 ($4.32 in chips) 
+Seat 4: hilarjo ($2.11 in chips) 
+Seat 5: TaysonRosa ($2.92 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7s]
+hilarjo: folds 
+TaysonRosa: calls $0.02
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: folds 
+Gor4477: checks 
+*** FLOP *** [3h Kc 2d]
+Gor4477: checks 
+TaysonRosa: checks 
+*** TURN *** [3h Kc 2d] [8c]
+Gor4477: bets $0.03
+TaysonRosa: calls $0.03
+*** RIVER *** [3h Kc 2d 8c] [Qd]
+Gor4477: checks 
+TaysonRosa: checks 
+*** SHOW DOWN ***
+Gor4477: shows [Qh 9d] (a pair of Queens)
+TaysonRosa: mucks hand 
+Gor4477 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3h Kc 2d 8c Qd]
+Seat 1: KRandall12 (button) folded before Flop (didn't bet)
+Seat 2: MrDonRich (small blind) folded before Flop
+Seat 3: Gor4477 (big blind) showed [Qh 9d] and won ($0.11) with a pair of Queens
+Seat 4: hilarjo folded before Flop (didn't bet)
+Seat 5: TaysonRosa mucked [As 9h]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909670072:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:35:19 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.83 in chips) 
+Seat 2: MrDonRich ($2.22 in chips) 
+Seat 3: Gor4477 ($4.38 in chips) 
+Seat 5: TaysonRosa ($2.87 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Gor4477: posts small blind $0.01
+TaysonRosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Kd]
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: folds 
+Gor4477: raises $0.03 to $0.05
+TaysonRosa: calls $0.03
+*** FLOP *** [Th 2c 6c]
+Gor4477: checks 
+TaysonRosa: bets $0.06
+Gor4477: calls $0.06
+*** TURN *** [Th 2c 6c] [Kc]
+Gor4477: checks 
+TaysonRosa: checks 
+*** RIVER *** [Th 2c 6c Kc] [3d]
+Gor4477: checks 
+TaysonRosa: bets $0.04
+Gor4477: folds 
+Uncalled bet ($0.04) returned to TaysonRosa
+TaysonRosa collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Th 2c 6c Kc 3d]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded on the River
+Seat 5: TaysonRosa (big blind) collected ($0.21)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909682977:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:35:49 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: KRandall12 ($0.83 in chips) 
+Seat 2: MrDonRich ($2.22 in chips) 
+Seat 3: Gor4477 ($4.27 in chips) 
+Seat 5: TaysonRosa ($2.97 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3h]
+KRandall12: folds 
+MrDonRich: folds 
+Gor4477: folds 
+hilarjo leaves the table
+TaysonRosa: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ah 7d Kh]
+TaysonRosa: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to TaysonRosa
+TaysonRosa collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ah 7d Kh]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240909693051:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:36:12 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.83 in chips) 
+Seat 2: MrDonRich ($2.22 in chips) 
+Seat 3: Gor4477 ($4.27 in chips) 
+Seat 5: TaysonRosa ($2.99 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Th]
+MrDonRich: folds 
+Gor4477: folds 
+TaysonRosa: folds 
+Lorpugo: raises $0.04 to $0.06
+jaramillo.vl joins the table at seat #4 
+KRandall12: raises $0.12 to $0.18
+Lorpugo: calls $0.12
+*** FLOP *** [Kd 3h 6s]
+Lorpugo: checks 
+KRandall12: bets $0.12
+Lorpugo: raises $0.30 to $0.42
+KRandall12: folds 
+Uncalled bet ($0.30) returned to Lorpugo
+Lorpugo collected $0.58 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Kd 3h 6s]
+Seat 1: KRandall12 (big blind) folded on the Flop
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: TaysonRosa (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.58)
+
+
+
+PokerStars Hand #240909715372:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:37:04 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.22 in chips) 
+Seat 3: Gor4477 ($4.27 in chips) 
+Seat 4: jaramillo.vl ($1 in chips) 
+Seat 5: TaysonRosa ($2.99 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+jaramillo.vl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Tc]
+Gor4477: folds 
+jaramillo.vl: checks 
+TaysonRosa: raises $0.02 to $0.04
+Lorpugo: folds 
+KRandall12: calls $0.03
+MrDonRich: calls $0.02
+jaramillo.vl: calls $0.02
+*** FLOP *** [3c Jh 5c]
+KRandall12: checks 
+MrDonRich: checks 
+jaramillo.vl: checks 
+TaysonRosa: bets $0.06
+KRandall12: folds 
+MrDonRich: calls $0.06
+jaramillo.vl: calls $0.06
+*** TURN *** [3c Jh 5c] [5d]
+MrDonRich: checks 
+jaramillo.vl: checks 
+TaysonRosa: bets $0.06
+MrDonRich: calls $0.06
+jaramillo.vl: calls $0.06
+*** RIVER *** [3c Jh 5c 5d] [2c]
+MrDonRich: checks 
+jaramillo.vl: checks 
+TaysonRosa: bets $0.26
+MrDonRich: calls $0.26
+jaramillo.vl: folds 
+*** SHOW DOWN ***
+TaysonRosa: shows [Qc 9c] (a flush, Queen high)
+MrDonRich: mucks hand 
+TaysonRosa collected $1 from pot
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.04 
+Board [3c Jh 5c 5d 2c]
+Seat 1: KRandall12 (small blind) folded on the Flop
+Seat 2: MrDonRich (big blind) mucked [Jc 7c]
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: jaramillo.vl folded on the River
+Seat 5: TaysonRosa showed [Qc 9c] and won ($1) with a flush, Queen high
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909751734:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:38:28 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($1.80 in chips) 
+Seat 3: Gor4477 ($4.27 in chips) 
+Seat 4: jaramillo.vl ($0.84 in chips) 
+Seat 5: TaysonRosa ($3.57 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9c]
+jaramillo.vl: folds 
+TaysonRosa: calls $0.02
+Lorpugo: calls $0.02
+KRandall12: folds 
+MrDonRich: calls $0.01
+Gor4477: checks 
+*** FLOP *** [Qs Ac 2h]
+MrDonRich: checks 
+Gor4477: checks 
+TaysonRosa: bets $0.04
+Lorpugo: folds 
+MrDonRich: calls $0.04
+Gor4477: folds 
+*** TURN *** [Qs Ac 2h] [9s]
+MrDonRich: checks 
+TaysonRosa: checks 
+*** RIVER *** [Qs Ac 2h 9s] [Tc]
+MrDonRich: checks 
+TaysonRosa: bets $0.06
+MrDonRich: folds 
+Uncalled bet ($0.06) returned to TaysonRosa
+TaysonRosa collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Qs Ac 2h 9s Tc]
+Seat 1: KRandall12 (button) folded before Flop (didn't bet)
+Seat 2: MrDonRich (small blind) folded on the River
+Seat 3: Gor4477 (big blind) folded on the Flop
+Seat 4: jaramillo.vl folded before Flop (didn't bet)
+Seat 5: TaysonRosa collected ($0.15)
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #240909786201:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:39:48 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2 in chips) 
+Seat 3: Gor4477 ($4.25 in chips) 
+Seat 4: jaramillo.vl ($0.84 in chips) 
+Seat 5: TaysonRosa ($3.66 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+Gor4477: posts small blind $0.01
+jaramillo.vl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Td]
+TaysonRosa: raises $0.02 to $0.04
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: calls $0.04
+Gor4477: raises $0.14 to $0.18
+jaramillo.vl: folds 
+TaysonRosa: folds 
+MrDonRich: folds 
+Uncalled bet ($0.14) returned to Gor4477
+Gor4477 collected $0.14 from pot
+Gor4477: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich (button) folded before Flop
+Seat 3: Gor4477 (small blind) collected ($0.14)
+Seat 4: jaramillo.vl (big blind) folded before Flop
+Seat 5: TaysonRosa folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909799138:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:40:18 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($1.96 in chips) 
+Seat 3: Gor4477 ($4.35 in chips) 
+Seat 4: jaramillo.vl ($0.82 in chips) 
+Seat 5: TaysonRosa ($3.62 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+jaramillo.vl: posts small blind $0.01
+TaysonRosa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2c]
+Lorpugo: raises $0.02 to $0.04
+KRandall12: folds 
+MrDonRich: raises $0.02 to $0.06
+Gor4477: folds 
+jaramillo.vl: folds 
+TaysonRosa: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [7d Jc Ks]
+Lorpugo: checks 
+MrDonRich: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to MrDonRich
+MrDonRich collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7d Jc Ks]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich collected ($0.14)
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 4: jaramillo.vl (small blind) folded before Flop
+Seat 5: TaysonRosa (big blind) folded before Flop
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #240909811201:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:40:46 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.04 in chips) 
+Seat 3: Gor4477 ($4.35 in chips) 
+Seat 4: jaramillo.vl ($0.81 in chips) 
+Seat 5: TaysonRosa ($3.60 in chips) 
+Seat 6: Lorpugo ($1.77 in chips) 
+TaysonRosa: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5h]
+KRandall12: folds 
+MrDonRich: folds 
+Gor4477: folds 
+jaramillo.vl: folds 
+TaysonRosa: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [9h 6h Qc]
+TaysonRosa: checks 
+Lorpugo: bets $0.02
+TaysonRosa: calls $0.02
+*** TURN *** [9h 6h Qc] [4h]
+TaysonRosa: checks 
+Lorpugo: bets $0.02
+TaysonRosa: calls $0.02
+*** RIVER *** [9h 6h Qc 4h] [7d]
+TaysonRosa: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+TaysonRosa: shows [Kd 2s] (high card King)
+Lorpugo: shows [6s 5h] (a pair of Sixes)
+Lorpugo collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h 6h Qc 4h 7d]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: jaramillo.vl (button) folded before Flop (didn't bet)
+Seat 5: TaysonRosa (small blind) showed [Kd 2s] and lost with high card King
+Seat 6: Lorpugo (big blind) showed [6s 5h] and won ($0.12) with a pair of Sixes
+
+
+
+PokerStars Hand #240909832623:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:41:35 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.04 in chips) 
+Seat 3: Gor4477 ($4.35 in chips) 
+Seat 4: jaramillo.vl ($0.81 in chips) 
+Seat 5: TaysonRosa ($3.54 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ks]
+MrDonRich: folds 
+Gor4477: folds 
+jaramillo.vl: calls $0.02
+TaysonRosa: folds 
+TaysonRosa leaves the table
+Lorpugo: calls $0.01
+KRandall12: checks 
+*** FLOP *** [5h 9c Th]
+Lorpugo: checks 
+KRandall12: checks 
+jaramillo.vl: checks 
+*** TURN *** [5h 9c Th] [3h]
+Lorpugo: checks 
+KRandall12: checks 
+lemmywings joins the table at seat #5 
+jaramillo.vl: checks 
+*** RIVER *** [5h 9c Th 3h] [Kc]
+Lorpugo: bets $0.06
+KRandall12: folds 
+jaramillo.vl: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5h 9c Th 3h Kc]
+Seat 1: KRandall12 (big blind) folded on the River
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: jaramillo.vl folded on the River
+Seat 5: TaysonRosa (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #240909852153:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:42:20 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.04 in chips) 
+Seat 3: Gor4477 ($4.35 in chips) 
+Seat 4: jaramillo.vl ($0.79 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Js]
+Gor4477: folds 
+jaramillo.vl: calls $0.02
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: checks 
+*** FLOP *** [6h 4c 2s]
+MrDonRich: bets $0.02
+jaramillo.vl: calls $0.02
+*** TURN *** [6h 4c 2s] [7c]
+MrDonRich: bets $0.02
+jaramillo.vl: calls $0.02
+*** RIVER *** [6h 4c 2s 7c] [As]
+MrDonRich: bets $0.02
+jaramillo.vl: calls $0.02
+*** SHOW DOWN ***
+MrDonRich: shows [Qs 6d] (a pair of Sixes)
+jaramillo.vl: mucks hand 
+MrDonRich collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6h 4c 2s 7c As]
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) showed [Qs 6d] and won ($0.16) with a pair of Sixes
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: jaramillo.vl mucked [Qc 2d]
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909870691:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:43:03 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.12 in chips) 
+Seat 4: jaramillo.vl ($0.71 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+MrDonRich: posts small blind $0.01
+jaramillo.vl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qs]
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: calls $0.01
+jaramillo.vl: checks 
+*** FLOP *** [Qh 2h 6h]
+MrDonRich: checks 
+jaramillo.vl: checks 
+*** TURN *** [Qh 2h 6h] [4s]
+MrDonRich: checks 
+jaramillo.vl: checks 
+*** RIVER *** [Qh 2h 6h 4s] [Ah]
+MrDonRich: checks 
+jaramillo.vl: checks 
+*** SHOW DOWN ***
+MrDonRich: shows [Jc 8s] (high card Ace)
+jaramillo.vl: shows [Th 5c] (a flush, Ace high)
+jaramillo.vl collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qh 2h 6h 4s Ah]
+Seat 1: KRandall12 (button) folded before Flop (didn't bet)
+Seat 2: MrDonRich (small blind) showed [Jc 8s] and lost with high card Ace
+Seat 4: jaramillo.vl (big blind) showed [Th 5c] and won ($0.04) with a flush, Ace high
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909887510:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:43:42 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.10 in chips) 
+Seat 4: jaramillo.vl ($0.73 in chips) 
+Seat 5: lemmywings ($2 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+jaramillo.vl: posts small blind $0.01
+lemmywings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Js]
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: folds 
+jaramillo.vl: folds 
+Uncalled bet ($0.01) returned to lemmywings
+lemmywings collected $0.02 from pot
+lemmywings: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich (button) folded before Flop (didn't bet)
+Seat 4: jaramillo.vl (small blind) folded before Flop
+Seat 5: lemmywings (big blind) collected ($0.02)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909892573:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:43:53 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.10 in chips) 
+Seat 4: jaramillo.vl ($0.72 in chips) 
+Seat 5: lemmywings ($2.01 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2s]
+KRandall12: folds 
+MrDonRich: folds 
+jaramillo.vl: folds 
+lemmywings: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 4: jaramillo.vl (button) folded before Flop (didn't bet)
+Seat 5: lemmywings (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240909898143:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:44:06 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.10 in chips) 
+Seat 4: jaramillo.vl ($0.72 in chips) 
+Seat 5: lemmywings ($2 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6d]
+MrDonRich: folds 
+jaramillo.vl: calls $0.02
+lemmywings: raises $0.08 to $0.10
+Lorpugo: folds 
+KRandall12: folds 
+jaramillo.vl: calls $0.08
+*** FLOP *** [3d 7d 9h]
+jaramillo.vl: checks 
+lemmywings: checks 
+*** TURN *** [3d 7d 9h] [5c]
+jaramillo.vl: checks 
+lemmywings: checks 
+*** RIVER *** [3d 7d 9h 5c] [4h]
+jaramillo.vl: bets $0.04
+lemmywings: folds 
+Uncalled bet ($0.04) returned to jaramillo.vl
+jaramillo.vl collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3d 7d 9h 5c 4h]
+Seat 1: KRandall12 (big blind) folded before Flop
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 4: jaramillo.vl collected ($0.22)
+Seat 5: lemmywings (button) folded on the River
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240909925446:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:45:08 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.10 in chips) 
+Seat 4: jaramillo.vl ($0.84 in chips) 
+Seat 5: lemmywings ($2 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 7d]
+jaramillo.vl: calls $0.02
+lemmywings: folds 
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: checks 
+*** FLOP *** [As Ad 9c]
+MrDonRich: checks 
+jaramillo.vl: bets $0.04
+MrDonRich: folds 
+Uncalled bet ($0.04) returned to jaramillo.vl
+jaramillo.vl collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As Ad 9c]
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) folded on the Flop
+Seat 4: jaramillo.vl collected ($0.05)
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909938527:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:45:38 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.08 in chips) 
+Seat 4: jaramillo.vl ($0.87 in chips) 
+Seat 5: lemmywings ($2 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+MrDonRich: posts small blind $0.01
+jaramillo.vl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 3c]
+lemmywings: raises $0.04 to $0.06
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: folds 
+jaramillo.vl: folds 
+Uncalled bet ($0.04) returned to lemmywings
+jaramillo.vl leaves the table
+lemmywings collected $0.05 from pot
+lemmywings: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: KRandall12 (button) folded before Flop (didn't bet)
+Seat 2: MrDonRich (small blind) folded before Flop
+Seat 4: jaramillo.vl (big blind) folded before Flop
+Seat 5: lemmywings collected ($0.05)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909944151:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:45:51 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.07 in chips) 
+Seat 5: lemmywings ($2.03 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 9s]
+KRandall12: folds 
+MrDonRich: folds 
+lemmywings: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+lemmywings: calls $0.12
+*** FLOP *** [5d 4d 6d]
+lemmywings: checks 
+Lorpugo: checks 
+*** TURN *** [5d 4d 6d] [7h]
+lemmywings: bets $0.28
+Lorpugo: folds 
+Uncalled bet ($0.28) returned to lemmywings
+lemmywings collected $0.35 from pot
+lemmywings: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5d 4d 6d 7h]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich (button) folded before Flop (didn't bet)
+Seat 5: lemmywings (small blind) collected ($0.35)
+Seat 6: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #240909960063:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:46:28 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.07 in chips) 
+Seat 5: lemmywings ($2.20 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6h]
+MrDonRich: raises $0.04 to $0.06
+lemmywings: folds 
+Lorpugo: folds 
+KRandall12: folds 
+Uncalled bet ($0.04) returned to MrDonRich
+MrDonRich collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: KRandall12 (big blind) folded before Flop
+Seat 2: MrDonRich collected ($0.05)
+Seat 5: lemmywings (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240909965319:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:46:40 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.10 in chips) 
+Seat 5: lemmywings ($2.20 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 7d]
+lemmywings: folds 
+Lorpugo: raises $0.04 to $0.06
+KRandall12: folds 
+MrDonRich: calls $0.04
+*** FLOP *** [2c 8s 7s]
+MrDonRich: checks 
+Lorpugo: bets $0.09
+MrDonRich: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2c 8s 7s]
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) folded on the Flop
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.13)
+
+
+
+PokerStars Hand #240909978625:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:47:11 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.04 in chips) 
+Seat 3: Gor4477 ($4.35 in chips) 
+Seat 5: lemmywings ($2.20 in chips) 
+Seat 6: Lorpugo ($1.75 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8h]
+lemmywings: folds 
+Lorpugo: folds 
+RATZ0915 joins the table at seat #4 
+KRandall12: folds 
+MrDonRich: calls $0.01
+Gor4477: checks 
+*** FLOP *** [2d 2c 6c]
+MrDonRich: checks 
+RATZ0915 leaves the table
+Gor4477: bets $0.05
+MrDonRich: folds 
+Uncalled bet ($0.05) returned to Gor4477
+Gor4477 collected $0.04 from pot
+Gor4477: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2d 2c 6c]
+Seat 1: KRandall12 (button) folded before Flop (didn't bet)
+Seat 2: MrDonRich (small blind) folded on the Flop
+Seat 3: Gor4477 (big blind) collected ($0.04)
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240909991652:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:47:41 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.02 in chips) 
+Seat 3: Gor4477 ($4.37 in chips) 
+Seat 5: lemmywings ($2.20 in chips) 
+Seat 6: Lorpugo ($1.75 in chips) 
+Gor4477: posts small blind $0.01
+lemmywings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6s]
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: calls $0.02
+Gor4477: folds 
+lemmywings: checks 
+*** FLOP *** [Ts 4h 2c]
+lemmywings: checks 
+MrDonRich: bets $0.03
+Dansken107 joins the table at seat #4 
+lemmywings: calls $0.03
+*** TURN *** [Ts 4h 2c] [3d]
+Dansken107 leaves the table
+lemmywings: checks 
+MrDonRich: bets $0.07
+lemmywings: folds 
+Uncalled bet ($0.07) returned to MrDonRich
+MrDonRich collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ts 4h 2c 3d]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich (button) collected ($0.11)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 5: lemmywings (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240910007261:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:48:17 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.08 in chips) 
+Seat 3: Gor4477 ($4.36 in chips) 
+Seat 5: lemmywings ($2.15 in chips) 
+Seat 6: Lorpugo ($1.75 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2s]
+KRandall12: folds 
+MrDonRich: calls $0.02
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: checks 
+*** FLOP *** [5c Jh Js]
+Lorpugo: checks 
+MrDonRich: checks 
+*** TURN *** [5c Jh Js] [2h]
+Lorpugo: bets $0.04
+MrDonRich: calls $0.04
+*** RIVER *** [5c Jh Js 2h] [4h]
+Lorpugo: checks 
+MrDonRich: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ad 2s] (two pair, Jacks and Deuces)
+MrDonRich: shows [5d 3d] (two pair, Jacks and Fives)
+MrDonRich collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5c Jh Js 2h 4h]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich showed [5d 3d] and won ($0.13) with two pair, Jacks and Fives
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 5: lemmywings (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [Ad 2s] and lost with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #240910022111:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:48:51 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.15 in chips) 
+Seat 3: Gor4477 ($4.36 in chips) 
+Seat 5: lemmywings ($2.14 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4d]
+MrDonRich: folds 
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to KRandall12
+KRandall12 collected $0.02 from pot
+KRandall12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: KRandall12 (big blind) collected ($0.02)
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: lemmywings (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240910027722:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:49:04 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.81 in chips) 
+Seat 2: MrDonRich ($2.15 in chips) 
+Seat 3: Gor4477 ($4.36 in chips) 
+Seat 5: lemmywings ($2.14 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Ah]
+Gor4477: folds 
+lemmywings: folds 
+Dansken107 joins the table at seat #4 
+Lorpugo: raises $0.04 to $0.06
+KRandall12: folds 
+Dansken107 leaves the table
+MrDonRich: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) folded before Flop
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240910034170:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:49:19 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.13 in chips) 
+Seat 3: Gor4477 ($4.36 in chips) 
+Seat 5: lemmywings ($2.14 in chips) 
+Seat 6: Lorpugo ($1.71 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Qs]
+lemmywings: folds 
+Lorpugo: folds 
+KRandall12: raises $0.03 to $0.05
+MrDonRich: calls $0.04
+Gor4477: calls $0.03
+*** FLOP *** [Jc 4h 8d]
+MrDonRich: bets $0.02
+Gor4477: folds 
+KRandall12: folds 
+Uncalled bet ($0.02) returned to MrDonRich
+MrDonRich collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jc 4h 8d]
+Seat 1: KRandall12 (button) folded on the Flop
+Seat 2: MrDonRich (small blind) collected ($0.14)
+Seat 3: Gor4477 (big blind) folded on the Flop
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240910045364:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:49:45 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.22 in chips) 
+Seat 3: Gor4477 ($4.31 in chips) 
+Seat 5: lemmywings ($2.14 in chips) 
+Seat 6: Lorpugo ($1.71 in chips) 
+Gor4477: posts small blind $0.01
+lemmywings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 4h]
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: raises $0.04 to $0.06
+Gor4477: calls $0.05
+lemmywings: folds 
+*** FLOP *** [Ad 7s 8c]
+Gor4477: checks 
+MrDonRich: bets $0.09
+Gor4477: calls $0.09
+*** TURN *** [Ad 7s 8c] [8s]
+Gor4477: checks 
+MrDonRich: checks 
+*** RIVER *** [Ad 7s 8c 8s] [3d]
+Gor4477: checks 
+MrDonRich: bets $0.16
+Gor4477: folds 
+Uncalled bet ($0.16) returned to MrDonRich
+MrDonRich collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ad 7s 8c 8s 3d]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich (button) collected ($0.31)
+Seat 3: Gor4477 (small blind) folded on the River
+Seat 5: lemmywings (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240910058903:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:50:16 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($2.38 in chips) 
+Seat 3: Gor4477 ($4.16 in chips) 
+Seat 5: lemmywings ($2.12 in chips) 
+Seat 6: Lorpugo ($1.71 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5h]
+KRandall12: raises $0.04 to $0.06
+MrDonRich: folds 
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to KRandall12
+KRandall12 collected $0.05 from pot
+KRandall12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: KRandall12 collected ($0.05)
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 5: lemmywings (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240910065434:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:50:31 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.83 in chips) 
+Seat 2: MrDonRich ($2.38 in chips) 
+Seat 3: Gor4477 ($4.16 in chips) 
+Seat 5: lemmywings ($2.11 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 5d]
+MrDonRich: calls $0.02
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: calls $0.01
+KRandall12: checks 
+*** FLOP *** [Th 8c Ac]
+Lorpugo: checks 
+KRandall12: checks 
+Bob Dylan 1000 joins the table at seat #4 
+MrDonRich: checks 
+*** TURN *** [Th 8c Ac] [Qs]
+Lorpugo: checks 
+KRandall12: checks 
+MrDonRich: checks 
+*** RIVER *** [Th 8c Ac Qs] [5c]
+Lorpugo: checks 
+KRandall12: checks 
+MrDonRich: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6d 5d] (a pair of Fives)
+KRandall12: shows [4c Jc] (a flush, Ace high)
+MrDonRich: mucks hand 
+KRandall12 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Th 8c Ac Qs 5c]
+Seat 1: KRandall12 (big blind) showed [4c Jc] and won ($0.06) with a flush, Ace high
+Seat 2: MrDonRich mucked [3h Jh]
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: lemmywings (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) showed [6d 5d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #240910091510:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:51:31 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.87 in chips) 
+Seat 2: MrDonRich ($2.36 in chips) 
+Seat 3: Gor4477 ($4.16 in chips) 
+Seat 5: lemmywings ($2.11 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Js]
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: raises $0.04 to $0.06
+KRandall12 has timed out
+KRandall12: folds 
+MrDonRich: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) folded before Flop
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #240910119722:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:52:36 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 2: MrDonRich ($2.34 in chips) 
+Seat 3: Gor4477 ($4.16 in chips) 
+Seat 4: Bob Dylan 1000 ($1.60 in chips) 
+Seat 5: lemmywings ($2.11 in chips) 
+Seat 6: Lorpugo ($1.70 in chips) 
+Gor4477: posts small blind $0.01
+Bob Dylan 1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 5h]
+lemmywings: raises $0.06 to $0.08
+Lorpugo: folds 
+MrDonRich: folds 
+Gor4477: raises $0.13 to $0.21
+Bob Dylan 1000 has timed out
+Bob Dylan 1000: folds 
+lemmywings: calls $0.13
+*** FLOP *** [4s Jd 3c]
+Gor4477: bets $0.21
+lemmywings: calls $0.21
+*** TURN *** [4s Jd 3c] [7c]
+Gor4477: bets $0.42
+lemmywings: calls $0.42
+*** RIVER *** [4s Jd 3c 7c] [4h]
+Gor4477: bets $0.37
+lemmywings: calls $0.37
+*** SHOW DOWN ***
+Gor4477: shows [Ah As] (two pair, Aces and Fours)
+lemmywings: mucks hand 
+Gor4477 collected $2.35 from pot
+*** SUMMARY ***
+Total pot $2.44 | Rake $0.09 
+Board [4s Jd 3c 7c 4h]
+Seat 2: MrDonRich (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) showed [Ah As] and won ($2.35) with two pair, Aces and Fours
+Seat 4: Bob Dylan 1000 (big blind) folded before Flop
+Seat 5: lemmywings mucked [Js Ks]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240910149977:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:53:46 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 2: MrDonRich ($2.34 in chips) 
+Seat 3: Gor4477 ($5.30 in chips) 
+Seat 5: lemmywings ($2 in chips) 
+Seat 6: Lorpugo ($1.70 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5c]
+MrDonRich: folds 
+Gor4477: folds 
+lemmywings: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to lemmywings
+lemmywings collected $0.04 from pot
+lemmywings: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 5: lemmywings (small blind) collected ($0.04)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240910154640:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:53:57 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 2: MrDonRich ($2.34 in chips) 
+Seat 3: Gor4477 ($5.30 in chips) 
+Seat 5: lemmywings ($2.02 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+Lorpugo: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 4d]
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to MrDonRich
+MrDonRich collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MrDonRich (big blind) collected ($0.02)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: lemmywings (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240910158680:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:54:06 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 2: MrDonRich ($2.35 in chips) 
+Seat 3: Gor4477 ($5.30 in chips) 
+Seat 5: lemmywings ($2.02 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4h]
+lemmywings: folds 
+Lorpugo: raises $0.02 to $0.04
+MrDonRich: calls $0.03
+Gor4477: folds 
+*** FLOP *** [2d Kd Qh]
+MrDonRich: checks 
+Lorpugo: checks 
+*** TURN *** [2d Kd Qh] [Js]
+MrDonRich: checks 
+Lorpugo: checks 
+*** RIVER *** [2d Kd Qh Js] [Kh]
+MrDonRich: checks 
+Lorpugo: bets $0.02
+MrDonRich: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [Ah 4h] (a pair of Kings)
+MrDonRich: shows [8s As] (a pair of Kings)
+MrDonRich collected $0.07 from pot
+Lorpugo collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2d Kd Qh Js Kh]
+Seat 2: MrDonRich (small blind) showed [8s As] and won ($0.07) with a pair of Kings
+Seat 3: Gor4477 (big blind) folded before Flop
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) showed [Ah 4h] and won ($0.07) with a pair of Kings
+
+
+
+PokerStars Hand #240910179666:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:54:55 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 2: MrDonRich ($2.36 in chips) 
+Seat 3: Gor4477 ($5.28 in chips) 
+Seat 4: Bob Dylan 1000 ($1.58 in chips) 
+Seat 5: lemmywings ($2.02 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+Gor4477: posts small blind $0.01
+Bob Dylan 1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 5d]
+lemmywings: raises $0.04 to $0.06
+Lorpugo: folds 
+MrDonRich: raises $0.15 to $0.21
+Gor4477: folds 
+Bob Dylan 1000: folds 
+lemmywings: folds 
+Uncalled bet ($0.15) returned to MrDonRich
+MrDonRich collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 2: MrDonRich (button) collected ($0.15)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 4: Bob Dylan 1000 (big blind) folded before Flop
+Seat 5: lemmywings folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240910187323:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:55:16 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 2: MrDonRich ($2.45 in chips) 
+Seat 3: Gor4477 ($5.27 in chips) 
+Seat 4: Bob Dylan 1000 ($1.56 in chips) 
+Seat 5: lemmywings ($2 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+Bob Dylan 1000: posts small blind $0.01
+lemmywings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 9c]
+Lorpugo: raises $0.02 to $0.04
+MrDonRich: calls $0.04
+Gor4477: folds 
+Bob Dylan 1000: folds 
+lemmywings: calls $0.02
+*** FLOP *** [Ad Jd Kh]
+lemmywings: checks 
+Lorpugo: bets $0.02
+MrDonRich: calls $0.02
+lemmywings: calls $0.02
+*** TURN *** [Ad Jd Kh] [5s]
+lemmywings: checks 
+Lorpugo: checks 
+MrDonRich: checks 
+*** RIVER *** [Ad Jd Kh 5s] [8d]
+lemmywings: checks 
+Lorpugo: checks 
+MrDonRich: checks 
+*** SHOW DOWN ***
+lemmywings: shows [9d Ac] (a pair of Aces)
+Lorpugo: mucks hand 
+MrDonRich: mucks hand 
+lemmywings collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ad Jd Kh 5s 8d]
+Seat 2: MrDonRich mucked [Qc Kc]
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 4: Bob Dylan 1000 (small blind) folded before Flop
+Seat 5: lemmywings (big blind) showed [9d Ac] and won ($0.18) with a pair of Aces
+Seat 6: Lorpugo mucked [Jc 9c]
+
+
+
+PokerStars Hand #240910201205:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:56:05 ET
+Table 'Laura II' 6-max Seat #4 is the button
+Seat 2: MrDonRich ($2.39 in chips) 
+Seat 3: Gor4477 ($5.27 in chips) 
+Seat 4: Bob Dylan 1000 ($1.55 in chips) 
+Seat 5: lemmywings ($2.12 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5h]
+MrDonRich: folds 
+Gor4477: folds 
+Bob Dylan 1000: folds 
+lemmywings: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: Bob Dylan 1000 (button) folded before Flop (didn't bet)
+Seat 5: lemmywings (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240910204641:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:56:18 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 2: MrDonRich ($2.39 in chips) 
+Seat 3: Gor4477 ($5.27 in chips) 
+Seat 4: Bob Dylan 1000 ($1.55 in chips) 
+Seat 5: lemmywings ($2.11 in chips) 
+Seat 6: Lorpugo ($1.63 in chips) 
+Lorpugo: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8d]
+Gor4477: folds 
+Bob Dylan 1000: calls $0.02
+lemmywings: raises $0.08 to $0.10
+Lorpugo: folds 
+MrDonRich: calls $0.08
+Bob Dylan 1000: calls $0.08
+*** FLOP *** [7c 8s 3s]
+MrDonRich: bets $0.20
+Bob Dylan 1000: calls $0.20
+lemmywings: calls $0.20
+*** TURN *** [7c 8s 3s] [3c]
+MrDonRich: bets $0.59
+Bob Dylan 1000: calls $0.59
+lemmywings: calls $0.59
+*** RIVER *** [7c 8s 3s 3c] [Qh]
+MrDonRich: bets $0.02
+Bob Dylan 1000: raises $0.64 to $0.66 and is all-in
+lemmywings: calls $0.66
+MrDonRich: folds 
+*** SHOW DOWN ***
+Bob Dylan 1000: shows [Ac Ah] (two pair, Aces and Threes)
+lemmywings: shows [Ks Qs] (two pair, Queens and Threes)
+Bob Dylan 1000 collected $3.88 from pot
+*** SUMMARY ***
+Total pot $4.02 | Rake $0.14 
+Board [7c 8s 3s 3c Qh]
+Seat 2: MrDonRich (big blind) folded on the River
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: Bob Dylan 1000 showed [Ac Ah] and won ($3.88) with two pair, Aces and Threes
+Seat 5: lemmywings (button) showed [Ks Qs] and lost with two pair, Queens and Threes
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240910225957:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:57:33 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 2: MrDonRich ($2 in chips) 
+Seat 3: Gor4477 ($5.27 in chips) 
+Seat 4: Bob Dylan 1000 ($3.88 in chips) 
+Seat 5: lemmywings ($2 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7s]
+Bob Dylan 1000: calls $0.02
+lemmywings: raises $0.08 to $0.10
+Lorpugo: folds 
+MrDonRich: folds 
+Gor4477: folds 
+Bob Dylan 1000: folds 
+Uncalled bet ($0.08) returned to lemmywings
+lemmywings collected $0.07 from pot
+lemmywings: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: MrDonRich (small blind) folded before Flop
+Seat 3: Gor4477 (big blind) folded before Flop
+Seat 4: Bob Dylan 1000 folded before Flop
+Seat 5: lemmywings collected ($0.07)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240910233267:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:57:58 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 2: MrDonRich ($1.99 in chips) 
+Seat 3: Gor4477 ($5.25 in chips) 
+Seat 5: lemmywings ($2.05 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+Gor4477: posts small blind $0.01
+lemmywings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 3c]
+Lorpugo: folds 
+MrDonRich: raises $0.04 to $0.06
+Gor4477: folds 
+Bob Dylan 1000 leaves the table
+lemmywings: folds 
+Uncalled bet ($0.04) returned to MrDonRich
+MrDonRich collected $0.05 from pot
+Attu_Boss joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MrDonRich (button) collected ($0.05)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 5: lemmywings (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240910238481:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:58:17 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 2: MrDonRich ($2.02 in chips) 
+Seat 3: Gor4477 ($5.24 in chips) 
+Seat 5: lemmywings ($2.03 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 2d]
+MrDonRich: folds 
+Gor4477: raises $0.03 to $0.05
+lemmywings: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to Gor4477
+Gor4477 collected $0.05 from pot
+Gor4477: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) collected ($0.05)
+Seat 5: lemmywings (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #240910241682:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:58:28 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 2: MrDonRich ($2.02 in chips) 
+Seat 3: Gor4477 ($5.27 in chips) 
+Seat 4: Attu_Boss ($0.80 in chips) 
+Seat 5: lemmywings ($2.02 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+Attu_Boss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2c]
+Gor4477: folds 
+Attu_Boss: checks 
+lemmywings: folds 
+Lorpugo: folds 
+MrDonRich: checks 
+*** FLOP *** [4d 7c 5d]
+MrDonRich: checks 
+Attu_Boss: bets $0.06
+MrDonRich: folds 
+Uncalled bet ($0.06) returned to Attu_Boss
+Attu_Boss collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d 7c 5d]
+Seat 2: MrDonRich (big blind) folded on the Flop
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 4: Attu_Boss collected ($0.05)
+Seat 5: lemmywings (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240910247594:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:58:48 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 2: MrDonRich ($2 in chips) 
+Seat 3: Gor4477 ($5.27 in chips) 
+Seat 4: Attu_Boss ($0.83 in chips) 
+Seat 5: lemmywings ($2.02 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Ad]
+Attu_Boss: calls $0.02
+lemmywings: folds 
+Lorpugo: raises $0.06 to $0.08
+MrDonRich: folds 
+Gor4477: folds 
+Attu_Boss: calls $0.06
+*** FLOP *** [6h Ac 7c]
+Attu_Boss: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [6h Ac 7c] [Qh]
+Attu_Boss: bets $0.06
+Lorpugo: raises $0.16 to $0.22
+Attu_Boss: raises $0.16 to $0.38
+Lorpugo: calls $0.16
+*** RIVER *** [6h Ac 7c Qh] [6d]
+Attu_Boss: bets $0.02
+Lorpugo: calls $0.02
+*** SHOW DOWN ***
+Attu_Boss: shows [9d As] (two pair, Aces and Sixes)
+Lorpugo: shows [9c Ad] (two pair, Aces and Sixes)
+Attu_Boss collected $0.53 from pot
+Lorpugo collected $0.53 from pot
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05 
+Board [6h Ac 7c Qh 6d]
+Seat 2: MrDonRich (small blind) folded before Flop
+Seat 3: Gor4477 (big blind) folded before Flop
+Seat 4: Attu_Boss showed [9d As] and won ($0.53) with two pair, Aces and Sixes
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) showed [9c Ad] and won ($0.53) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #240910262842:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:59:42 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 2: MrDonRich ($1.99 in chips) 
+Seat 3: Gor4477 ($5.25 in chips) 
+Seat 4: Attu_Boss ($0.82 in chips) 
+Seat 5: lemmywings ($2.02 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Gor4477: posts small blind $0.01
+Attu_Boss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Js]
+lemmywings: folds 
+Lorpugo: raises $0.02 to $0.04
+MrDonRich: folds 
+Gor4477: folds 
+Attu_Boss: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+Attu_Boss leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: MrDonRich (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 4: Attu_Boss (big blind) folded before Flop
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.05)
+
+
+
+PokerStars Hand #240910265514:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 13:59:52 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 2: MrDonRich ($1.99 in chips) 
+Seat 3: Gor4477 ($5.24 in chips) 
+Seat 5: lemmywings ($2.02 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+lemmywings: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2h]
+MrDonRich has timed out
+MrDonRich: folds 
+zakarewic420 joins the table at seat #4 
+Gor4477: folds 
+lemmywings: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 5: lemmywings (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #240910271235:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 14:00:11 ET
+Table 'Laura II' 6-max Seat #5 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 3: Gor4477 ($5.24 in chips) 
+Seat 5: lemmywings ($2.01 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+Lorpugo: posts small blind $0.01
+KRandall12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Tc]
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to KRandall12
+KRandall12 collected $0.02 from pot
+KRandall12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: KRandall12 (big blind) collected ($0.02)
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: lemmywings (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #240910274442:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 14:00:21 ET
+Table 'Laura II' 6-max Seat #6 is the button
+Seat 1: KRandall12 ($0.87 in chips) 
+Seat 2: MrDonRich ($1.99 in chips) 
+Seat 3: Gor4477 ($5.24 in chips) 
+Seat 5: lemmywings ($2.01 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+KRandall12: posts small blind $0.01
+MrDonRich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Td]
+Gor4477: folds 
+lemmywings: folds 
+Lorpugo: raises $0.04 to $0.06
+KRandall12: folds 
+MrDonRich: calls $0.04
+*** FLOP *** [3d Ts Jc]
+MrDonRich: checks 
+Lorpugo: checks 
+*** TURN *** [3d Ts Jc] [Qh]
+MrDonRich: checks 
+Lorpugo: bets $0.07
+MrDonRich: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d Ts Jc Qh]
+Seat 1: KRandall12 (small blind) folded before Flop
+Seat 2: MrDonRich (big blind) folded on the Turn
+Seat 3: Gor4477 folded before Flop (didn't bet)
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.13)
+
+
+
+PokerStars Hand #240910291397:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 14:01:14 ET
+Table 'Laura II' 6-max Seat #1 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 2: MrDonRich ($1.93 in chips) 
+Seat 3: Gor4477 ($5.24 in chips) 
+Seat 5: lemmywings ($2.01 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+MrDonRich: posts small blind $0.01
+Gor4477: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9s]
+lemmywings: folds 
+Lorpugo: raises $0.02 to $0.04
+KRandall12: folds 
+MrDonRich: calls $0.03
+Gor4477: folds 
+*** FLOP *** [4h 4c 8c]
+MrDonRich: checks 
+Lorpugo: checks 
+*** TURN *** [4h 4c 8c] [Jc]
+MrDonRich: checks 
+Lorpugo: bets $0.04
+MrDonRich: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4h 4c 8c Jc]
+Seat 1: KRandall12 (button) folded before Flop (didn't bet)
+Seat 2: MrDonRich (small blind) folded on the Turn
+Seat 3: Gor4477 (big blind) folded before Flop
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.10)
+
+
+
+PokerStars Hand #240910307635:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 14:01:59 ET
+Table 'Laura II' 6-max Seat #2 is the button
+Seat 1: KRandall12 ($0.86 in chips) 
+Seat 2: MrDonRich ($1.89 in chips) 
+Seat 3: Gor4477 ($5.22 in chips) 
+Seat 4: zakarewic420 ($1.60 in chips) 
+Seat 5: lemmywings ($2.01 in chips) 
+Seat 6: Lorpugo ($1.74 in chips) 
+Gor4477: posts small blind $0.01
+zakarewic420: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 7s]
+lemmywings: folds 
+Lorpugo: raises $0.02 to $0.04
+KRandall12: raises $0.08 to $0.12
+MrDonRich: folds 
+Gor4477: folds 
+zakarewic420: calls $0.10
+Lorpugo: calls $0.08
+*** FLOP *** [7c 2c 6d]
+zakarewic420: checks 
+Lorpugo: bets $0.18
+KRandall12: folds 
+zakarewic420: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.36 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [7c 2c 6d]
+Seat 1: KRandall12 folded on the Flop
+Seat 2: MrDonRich (button) folded before Flop (didn't bet)
+Seat 3: Gor4477 (small blind) folded before Flop
+Seat 4: zakarewic420 (big blind) folded on the Flop
+Seat 5: lemmywings folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.36)
+
+
+
+PokerStars Hand #240910325815:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/04 14:02:43 ET
+Table 'Laura II' 6-max Seat #3 is the button
+Seat 1: KRandall12 ($0.80 in chips) 
+Seat 2: MrDonRich ($1.89 in chips) 
+Seat 3: Gor4477 ($5.21 in chips) 
+Seat 4: zakarewic420 ($1.48 in chips) 
+Seat 5: lemmywings ($2.01 in chips) 
+Seat 6: Lorpugo ($1.98 in chips) 
+zakarewic420: posts small blind $0.01
+lemmywings: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 9c]
+Lorpugo: folds 
+KRandall12: folds 
+MrDonRich: folds 
+Gor4477: folds 
+zakarewic420: calls $0.01
+lemmywings: checks 
+*** FLOP *** [Jh As 4c]
+zakarewic420: checks 
+lemmywings: checks 
+*** TURN *** [Jh As 4c] [Kc]
+zakarewic420: checks 
+lemmywings: checks 
+*** RIVER *** [Jh As 4c Kc] [Qc]
+zakarewic420: checks 
+lemmywings: checks 
+*** SHOW DOWN ***
+zakarewic420: shows [5s 9d] (high card Ace)
+lemmywings: shows [4h 2d] (a pair of Fours)
+lemmywings collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jh As 4c Kc Qc]
+Seat 1: KRandall12 folded before Flop (didn't bet)
+Seat 2: MrDonRich folded before Flop (didn't bet)
+Seat 3: Gor4477 (button) folded before Flop (didn't bet)
+Seat 4: zakarewic420 (small blind) showed [5s 9d] and lost with high card Ace
+Seat 5: lemmywings (big blind) showed [4h 2d] and won ($0.04) with a pair of Fours
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+

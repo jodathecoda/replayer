@@ -1,0 +1,150 @@
+﻿PokerStars Hand #240777766967:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/29 13:25:35 ET
+Table 'Lyyli' 6-max Seat #4 is the button
+Seat 1: Tasos6811 ($1.86 in chips) 
+Seat 2: nikosbike ($2.63 in chips) 
+Seat 3: chonibg30 ($5.56 in chips) 
+Seat 4: Marola93 ($2.95 in chips) 
+Seat 5: FotisPrm ($4.46 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+FotisPrm: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 2h]
+Tasos6811: raises $0.02 to $0.04
+nikosbike: folds 
+chonibg30: folds 
+Marola93: folds 
+FotisPrm: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [Qs 6s 8s]
+Lorpugo: checks 
+Tasos6811: checks 
+*** TURN *** [Qs 6s 8s] [5c]
+Lorpugo: checks 
+Tasos6811: checks 
+*** RIVER *** [Qs 6s 8s 5c] [Qh]
+Lorpugo: checks 
+Tasos6811: checks 
+FotisPrm leaves the table
+*** SHOW DOWN ***
+Lorpugo: shows [Kh 2h] (a pair of Queens)
+Tasos6811: shows [Ad 2d] (a pair of Queens - Ace kicker)
+Tasos6811 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs 6s 8s 5c Qh]
+Seat 1: Tasos6811 showed [Ad 2d] and won ($0.09) with a pair of Queens
+Seat 2: nikosbike folded before Flop (didn't bet)
+Seat 3: chonibg30 folded before Flop (didn't bet)
+Seat 4: Marola93 (button) folded before Flop (didn't bet)
+Seat 5: FotisPrm (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [Kh 2h] and lost with a pair of Queens
+
+
+
+PokerStars Hand #240777780111:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/29 13:26:11 ET
+Table 'Lyyli' 6-max Seat #6 is the button
+Seat 1: Tasos6811 ($1.91 in chips) 
+Seat 2: nikosbike ($2.63 in chips) 
+Seat 3: chonibg30 ($5.56 in chips) 
+Seat 4: Marola93 ($2.95 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+Tasos6811: posts small blind $0.01
+nikosbike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9h]
+chonibg30: folds 
+Marola93: folds 
+Lorpugo: raises $0.04 to $0.06
+Tasos6811: folds 
+nikosbike: calls $0.04
+*** FLOP *** [3s 8h 9d]
+nikosbike: checks 
+Lorpugo: bets $0.09
+nikosbike: folds 
+Uncalled bet ($0.09) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s 8h 9d]
+Seat 1: Tasos6811 (small blind) folded before Flop
+Seat 2: nikosbike (big blind) folded on the Flop
+Seat 3: chonibg30 folded before Flop (didn't bet)
+Seat 4: Marola93 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) collected ($0.13)
+
+
+
+PokerStars Hand #240777795882:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/29 13:26:52 ET
+Table 'Lyyli' 6-max Seat #1 is the button
+Seat 1: Tasos6811 ($1.90 in chips) 
+Seat 2: nikosbike ($2.57 in chips) 
+Seat 3: chonibg30 ($5.56 in chips) 
+Seat 4: Marola93 ($2.95 in chips) 
+Seat 6: Lorpugo ($1.63 in chips) 
+nikosbike: posts small blind $0.01
+chonibg30: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jc]
+Marola93: folds 
+Lorpugo: raises $0.04 to $0.06
+Tasos6811: folds 
+nikosbike: calls $0.05
+chonibg30: folds 
+*** FLOP *** [2s 7c Ad]
+nikosbike: checks 
+Lorpugo: bets $0.07
+tzughj joins the table at seat #5 
+nikosbike: calls $0.07
+*** TURN *** [2s 7c Ad] [5d]
+nikosbike: checks 
+Lorpugo: bets $0.09
+nikosbike: raises $0.09 to $0.18
+Lorpugo: calls $0.09
+*** RIVER *** [2s 7c Ad 5d] [9c]
+nikosbike: bets $0.31
+Lorpugo: folds 
+Uncalled bet ($0.31) returned to nikosbike
+nikosbike collected $0.62 from pot
+nikosbike: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [2s 7c Ad 5d 9c]
+Seat 1: Tasos6811 (button) folded before Flop (didn't bet)
+Seat 2: nikosbike (small blind) collected ($0.62)
+Seat 3: chonibg30 (big blind) folded before Flop
+Seat 4: Marola93 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the River
+
+
+
+PokerStars Hand #240777821313:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/29 13:27:58 ET
+Table 'Lyyli' 6-max Seat #2 is the button
+Seat 1: Tasos6811 ($1.90 in chips) 
+Seat 2: nikosbike ($2.88 in chips) 
+Seat 3: chonibg30 ($5.54 in chips) 
+Seat 4: Marola93 ($2.95 in chips) 
+Seat 6: Lorpugo ($1.32 in chips) 
+chonibg30: posts small blind $0.01
+Marola93: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qc]
+Lorpugo: raises $0.04 to $0.06
+Tasos6811: folds 
+nikosbike: folds 
+chonibg30: folds 
+Marola93: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Tasos6811 folded before Flop (didn't bet)
+Seat 2: nikosbike (button) folded before Flop (didn't bet)
+Seat 3: chonibg30 (small blind) folded before Flop
+Seat 4: Marola93 (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.05)
+
+
+

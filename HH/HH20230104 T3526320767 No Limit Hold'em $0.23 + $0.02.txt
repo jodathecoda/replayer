@@ -1,0 +1,30 @@
+﻿PokerStars Hand #240917769193: Tournament #3526320767, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/04 18:52:51 ET
+Table '3526320767 1' 3-max Seat #1 is the button
+Seat 1: maciusko (500 in chips) 
+Seat 2: MikeJot (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+MikeJot: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kd]
+maciusko: folds 
+MikeJot: calls 10
+Lorpugo: raises 480 to 500 and is all-in
+MikeJot: calls 480 and is all-in
+*** FLOP *** [7c 3h 6s]
+*** TURN *** [7c 3h 6s] [Jc]
+*** RIVER *** [7c 3h 6s Jc] [Qh]
+*** SHOW DOWN ***
+MikeJot: shows [Td Jh] (a pair of Jacks)
+Lorpugo: shows [2s Kd] (high card King)
+MikeJot collected 1000 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7c 3h 6s Jc Qh]
+Seat 1: maciusko (button) folded before Flop (didn't bet)
+Seat 2: MikeJot (small blind) showed [Td Jh] and won (1000) with a pair of Jacks
+Seat 3: Lorpugo (big blind) showed [2s Kd] and lost with high card King
+
+
+

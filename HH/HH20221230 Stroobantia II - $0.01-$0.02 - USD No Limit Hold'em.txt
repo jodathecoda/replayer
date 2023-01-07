@@ -1,0 +1,592 @@
+﻿PokerStars Hand #240795429158:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:53:42 ET
+Table 'Stroobantia II' 6-max Seat #6 is the button
+Seat 2: GB_Salt ($2.51 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: EnjoyWeb ($0.18 in chips) 
+Seat 6: Stuntman_Meik ($2.14 in chips) 
+GB_Salt: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ad]
+Rizental: folds 
+EnjoyWeb: calls $0.02
+Stuntman_Meik: folds 
+GB_Salt: folds 
+Lorpugo: raises $1.58 to $1.60 and is all-in
+EnjoyWeb: calls $0.16 and is all-in
+Uncalled bet ($1.42) returned to Lorpugo
+*** FLOP *** [Kd 4s 9c]
+*** TURN *** [Kd 4s 9c] [Ah]
+*** RIVER *** [Kd 4s 9c Ah] [6s]
+*** SHOW DOWN ***
+Lorpugo: shows [9h Ad] (two pair, Aces and Nines)
+EnjoyWeb: shows [9d Tc] (a pair of Nines)
+Lorpugo collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Kd 4s 9c Ah 6s]
+Seat 2: GB_Salt (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) showed [9h Ad] and won ($0.36) with two pair, Aces and Nines
+Seat 4: Rizental folded before Flop (didn't bet)
+Seat 5: EnjoyWeb showed [9d Tc] and lost with a pair of Nines
+Seat 6: Stuntman_Meik (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795437107:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:54:11 ET
+Table 'Stroobantia II' 6-max Seat #2 is the button
+Seat 2: GB_Salt ($2.50 in chips) 
+Seat 3: Lorpugo ($1.78 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 6: Stuntman_Meik ($2.14 in chips) 
+Lorpugo: posts small blind $0.01
+Rizental: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Js]
+EnjoyWeb leaves the table
+Stuntman_Meik: folds 
+cruzlucas_25 joins the table at seat #1 
+GB_Salt: raises $0.02 to $0.04
+Lorpugo: folds 
+Rizental: folds 
+Uncalled bet ($0.02) returned to GB_Salt
+GB_Salt collected $0.05 from pot
+GB_Salt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: GB_Salt (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Rizental (big blind) folded before Flop
+Seat 6: Stuntman_Meik folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795440500:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:54:24 ET
+Table 'Stroobantia II' 6-max Seat #3 is the button
+Seat 2: GB_Salt ($2.53 in chips) 
+Seat 3: Lorpugo ($1.77 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 6: Stuntman_Meik ($2.14 in chips) 
+Rizental: posts small blind $0.01
+Stuntman_Meik: posts big blind $0.02
+cruzlucas_25 is connected 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2d]
+GB_Salt: folds 
+Lorpugo: raises $0.04 to $0.06
+Rizental: folds 
+Stuntman_Meik: calls $0.04
+*** FLOP *** [Js 5c 7d]
+ROBERT0531 joins the table at seat #5 
+Stuntman_Meik: checks 
+Lorpugo: bets $0.04
+Stuntman_Meik: calls $0.04
+*** TURN *** [Js 5c 7d] [6d]
+Stuntman_Meik: checks 
+Lorpugo: bets $0.26
+Stuntman_Meik: calls $0.26
+*** RIVER *** [Js 5c 7d 6d] [8s]
+Stuntman_Meik: checks 
+Lorpugo: bets $1.41 and is all-in
+Stuntman_Meik: calls $1.41
+*** SHOW DOWN ***
+Lorpugo: shows [Ad 2d] (high card Ace)
+Stuntman_Meik: shows [9c 7c] (a straight, Five to Nine)
+Stuntman_Meik collected $3.40 from pot
+*** SUMMARY ***
+Total pot $3.55 | Rake $0.15 
+Board [Js 5c 7d 6d 8s]
+Seat 2: GB_Salt folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) showed [Ad 2d] and lost with high card Ace
+Seat 4: Rizental (small blind) folded before Flop
+Seat 6: Stuntman_Meik (big blind) showed [9c 7c] and won ($3.40) with a straight, Five to Nine
+
+
+
+PokerStars Hand #240795460033:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:55:43 ET
+Table 'Stroobantia II' 6-max Seat #6 is the button
+Seat 1: cruzlucas_25 ($0.98 in chips) 
+Seat 2: GB_Salt ($2.53 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($2 in chips) 
+Seat 6: Stuntman_Meik ($3.79 in chips) 
+cruzlucas_25: posts small blind $0.01
+GB_Salt: posts big blind $0.02
+ROBERT0531: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Jc]
+Lorpugo: raises $0.04 to $0.06
+Rizental: folds 
+ROBERT0531: folds 
+Stuntman_Meik: folds 
+cruzlucas_25: folds 
+GB_Salt: calls $0.04
+*** FLOP *** [Qh 6c 7c]
+GB_Salt: checks 
+Lorpugo: bets $0.07
+GB_Salt: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh 6c 7c]
+Seat 1: cruzlucas_25 (small blind) folded before Flop
+Seat 2: GB_Salt (big blind) folded on the Flop
+Seat 3: Lorpugo collected ($0.14)
+Seat 4: Rizental folded before Flop (didn't bet)
+Seat 5: ROBERT0531 folded before Flop (didn't bet)
+Seat 6: Stuntman_Meik (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795468307:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:56:20 ET
+Table 'Stroobantia II' 6-max Seat #1 is the button
+Seat 1: cruzlucas_25 ($0.97 in chips) 
+Seat 2: GB_Salt ($2.47 in chips) 
+Seat 3: Lorpugo ($1.68 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($1.98 in chips) 
+Seat 6: Stuntman_Meik ($3.79 in chips) 
+GB_Salt: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9s]
+Rizental: folds 
+ROBERT0531: folds 
+Stuntman_Meik: folds 
+cruzlucas_25: folds 
+GB_Salt: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [Qs 8s 9c]
+GB_Salt: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [Qs 8s 9c] [Qh]
+GB_Salt: bets $0.14
+Lorpugo: calls $0.14
+*** RIVER *** [Qs 8s 9c Qh] [7d]
+GB_Salt: bets $2.23 and is all-in
+Lorpugo: calls $1.44 and is all-in
+Uncalled bet ($0.79) returned to GB_Salt
+*** SHOW DOWN ***
+GB_Salt: shows [Qc 7s] (a full house, Queens full of Sevens)
+Lorpugo: shows [7c 9s] (two pair, Queens and Nines)
+GB_Salt collected $3.24 from pot
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.12 
+Board [Qs 8s 9c Qh 7d]
+Seat 1: cruzlucas_25 (button) folded before Flop (didn't bet)
+Seat 2: GB_Salt (small blind) showed [Qc 7s] and won ($3.24) with a full house, Queens full of Sevens
+Seat 3: Lorpugo (big blind) showed [7c 9s] and lost with two pair, Queens and Nines
+Seat 4: Rizental folded before Flop (didn't bet)
+Seat 5: ROBERT0531 folded before Flop (didn't bet)
+Seat 6: Stuntman_Meik folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795485816:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:57:38 ET
+Table 'Stroobantia II' 6-max Seat #4 is the button
+Seat 1: cruzlucas_25 ($1 in chips) 
+Seat 2: GB_Salt ($4.03 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($1.96 in chips) 
+Seat 6: Stuntman_Meik ($3.79 in chips) 
+ROBERT0531: posts small blind $0.01
+Stuntman_Meik: posts big blind $0.02
+Lorpugo: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9s]
+cruzlucas_25: folds 
+GB_Salt: folds 
+Lorpugo: raises $0.04 to $0.06
+Rizental: folds 
+ROBERT0531: folds 
+Stuntman_Meik: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: cruzlucas_25 folded before Flop (didn't bet)
+Seat 2: GB_Salt folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.06)
+Seat 4: Rizental (button) folded before Flop (didn't bet)
+Seat 5: ROBERT0531 (small blind) folded before Flop
+Seat 6: Stuntman_Meik (big blind) folded before Flop
+
+
+
+PokerStars Hand #240795490597:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:57:59 ET
+Table 'Stroobantia II' 6-max Seat #5 is the button
+Seat 1: cruzlucas_25 ($1 in chips) 
+Seat 2: GB_Salt ($4.03 in chips) 
+Seat 3: Lorpugo ($1.63 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($1.95 in chips) 
+Seat 6: Stuntman_Meik ($3.77 in chips) 
+Stuntman_Meik: posts small blind $0.01
+cruzlucas_25: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Kd]
+GB_Salt: folds 
+Lorpugo: raises $0.04 to $0.06
+Rizental: folds 
+ROBERT0531: folds 
+Stuntman_Meik: folds 
+cruzlucas_25: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cruzlucas_25 (big blind) folded before Flop
+Seat 2: GB_Salt folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: Rizental folded before Flop (didn't bet)
+Seat 5: ROBERT0531 (button) folded before Flop (didn't bet)
+Seat 6: Stuntman_Meik (small blind) folded before Flop
+
+
+
+PokerStars Hand #240795494162:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:58:14 ET
+Table 'Stroobantia II' 6-max Seat #6 is the button
+Seat 1: cruzlucas_25 ($0.98 in chips) 
+Seat 2: GB_Salt ($4.03 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($1.95 in chips) 
+Seat 6: Stuntman_Meik ($3.76 in chips) 
+cruzlucas_25: posts small blind $0.01
+GB_Salt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4s]
+Lorpugo: folds 
+Rizental: folds 
+ROBERT0531: calls $0.02
+Stuntman_Meik: folds 
+cruzlucas_25: folds 
+GB_Salt: raises $0.08 to $0.10
+ROBERT0531: folds 
+Uncalled bet ($0.08) returned to GB_Salt
+GB_Salt collected $0.05 from pot
+GB_Salt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cruzlucas_25 (small blind) folded before Flop
+Seat 2: GB_Salt (big blind) collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Rizental folded before Flop (didn't bet)
+Seat 5: ROBERT0531 folded before Flop
+Seat 6: Stuntman_Meik (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795499331:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 9:58:38 ET
+Table 'Stroobantia II' 6-max Seat #1 is the button
+Seat 1: cruzlucas_25 ($0.97 in chips) 
+Seat 2: GB_Salt ($4.06 in chips) 
+Seat 3: Lorpugo ($1.66 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($1.93 in chips) 
+Seat 6: Stuntman_Meik ($3.76 in chips) 
+GB_Salt: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 4d]
+Rizental: folds 
+ROBERT0531: folds 
+Stuntman_Meik: raises $0.06 to $0.08
+cruzlucas_25: calls $0.08
+GB_Salt has timed out
+GB_Salt: folds 
+Lorpugo: folds 
+*** FLOP *** [9h 4h Qd]
+Stuntman_Meik: bets $0.18
+cruzlucas_25: calls $0.18
+*** TURN *** [9h 4h Qd] [Kc]
+Stuntman_Meik: checks 
+cruzlucas_25: checks 
+*** RIVER *** [9h 4h Qd Kc] [Kh]
+Stuntman_Meik: checks 
+cruzlucas_25: checks 
+*** SHOW DOWN ***
+Stuntman_Meik: shows [Js Jh] (two pair, Kings and Jacks)
+cruzlucas_25: shows [3c Qc] (two pair, Kings and Queens)
+cruzlucas_25 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9h 4h Qd Kc Kh]
+Seat 1: cruzlucas_25 (button) showed [3c Qc] and won ($0.53) with two pair, Kings and Queens
+Seat 2: GB_Salt (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Rizental folded before Flop (didn't bet)
+Seat 5: ROBERT0531 folded before Flop (didn't bet)
+Seat 6: Stuntman_Meik showed [Js Jh] and lost with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #240795518044:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:00:01 ET
+Table 'Stroobantia II' 6-max Seat #3 is the button
+Seat 1: cruzlucas_25 ($1.24 in chips) 
+Seat 3: Lorpugo ($1.64 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($1.93 in chips) 
+Seat 6: Stuntman_Meik ($3.50 in chips) 
+Rizental: posts small blind $0.01
+ROBERT0531: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2c]
+Stuntman_Meik: folds 
+cruzlucas_25: folds 
+Lorpugo: folds 
+Rizental: folds 
+Uncalled bet ($0.01) returned to ROBERT0531
+ROBERT0531 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: cruzlucas_25 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Rizental (small blind) folded before Flop
+Seat 5: ROBERT0531 (big blind) collected ($0.02)
+Seat 6: Stuntman_Meik folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795521628:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:00:17 ET
+Table 'Stroobantia II' 6-max Seat #4 is the button
+Seat 1: cruzlucas_25 ($1.24 in chips) 
+Seat 3: Lorpugo ($1.64 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 5: ROBERT0531 ($1.94 in chips) 
+Seat 6: Stuntman_Meik ($3.50 in chips) 
+ROBERT0531: posts small blind $0.01
+Stuntman_Meik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kc]
+cruzlucas_25: calls $0.02
+Lorpugo: folds 
+Rizental: folds 
+ROBERT0531 has timed out
+ROBERT0531: folds 
+Stuntman_Meik: raises $0.04 to $0.06
+cruzlucas_25: calls $0.04
+*** FLOP *** [Jh Qh Qd]
+Stuntman_Meik: bets $0.07
+cruzlucas_25: raises $0.07 to $0.14
+Stuntman_Meik: calls $0.07
+*** TURN *** [Jh Qh Qd] [2d]
+Stuntman_Meik: checks 
+cruzlucas_25: checks 
+*** RIVER *** [Jh Qh Qd 2d] [8s]
+Stuntman_Meik: checks 
+cruzlucas_25: checks 
+*** SHOW DOWN ***
+Stuntman_Meik: shows [4d 4s] (two pair, Queens and Fours)
+cruzlucas_25: mucks hand 
+Stuntman_Meik collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Jh Qh Qd 2d 8s]
+Seat 1: cruzlucas_25 mucked [Th 4h]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Rizental (button) folded before Flop (didn't bet)
+Seat 5: ROBERT0531 (small blind) folded before Flop
+Seat 6: Stuntman_Meik (big blind) showed [4d 4s] and won ($0.40) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #240795548766:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:02:05 ET
+Table 'Stroobantia II' 6-max Seat #6 is the button
+Seat 1: cruzlucas_25 ($1.04 in chips) 
+Seat 2: GB_Salt ($4.05 in chips) 
+Seat 3: Lorpugo ($1.64 in chips) 
+Seat 4: Rizental ($2 in chips) 
+Seat 6: Stuntman_Meik ($3.70 in chips) 
+cruzlucas_25: posts small blind $0.01
+GB_Salt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 4d]
+Lorpugo: folds 
+Rizental: raises $0.04 to $0.06
+Stuntman_Meik: folds 
+cruzlucas_25: folds 
+GB_Salt: calls $0.04
+*** FLOP *** [5s Th Kh]
+GB_Salt: checks 
+Rizental: bets $0.06
+GB_Salt: calls $0.06
+*** TURN *** [5s Th Kh] [6c]
+GB_Salt: checks 
+Rizental: bets $0.12
+GB_Salt: calls $0.12
+*** RIVER *** [5s Th Kh 6c] [Ac]
+GB_Salt: checks 
+Rizental: checks 
+*** SHOW DOWN ***
+GB_Salt: shows [Ts 9h] (a pair of Tens)
+Rizental: shows [Kd Qc] (a pair of Kings)
+Rizental collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [5s Th Kh 6c Ac]
+Seat 1: cruzlucas_25 (small blind) folded before Flop
+Seat 2: GB_Salt (big blind) showed [Ts 9h] and lost with a pair of Tens
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Rizental showed [Kd Qc] and won ($0.47) with a pair of Kings
+Seat 6: Stuntman_Meik (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795562449:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:02:57 ET
+Table 'Stroobantia II' 6-max Seat #1 is the button
+Seat 1: cruzlucas_25 ($1.03 in chips) 
+Seat 2: GB_Salt ($3.81 in chips) 
+Seat 3: Lorpugo ($1.64 in chips) 
+Seat 4: Rizental ($2.23 in chips) 
+Seat 5: ROBERT0531 ($1.93 in chips) 
+Seat 6: Stuntman_Meik ($3.70 in chips) 
+GB_Salt: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jh]
+Rizental: folds 
+ROBERT0531: folds 
+Stuntman_Meik: raises $0.04 to $0.06
+cruzlucas_25: folds 
+GB_Salt: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Stuntman_Meik
+Stuntman_Meik collected $0.05 from pot
+Stuntman_Meik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cruzlucas_25 (button) folded before Flop (didn't bet)
+Seat 2: GB_Salt (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Rizental folded before Flop (didn't bet)
+Seat 5: ROBERT0531 folded before Flop (didn't bet)
+Seat 6: Stuntman_Meik collected ($0.05)
+
+
+
+PokerStars Hand #240795568221:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:03:19 ET
+Table 'Stroobantia II' 6-max Seat #2 is the button
+Seat 1: cruzlucas_25 ($1.03 in chips) 
+Seat 2: GB_Salt ($3.80 in chips) 
+Seat 3: Lorpugo ($1.62 in chips) 
+Seat 4: Rizental ($2.23 in chips) 
+Seat 5: ROBERT0531 ($1.93 in chips) 
+Seat 6: Stuntman_Meik ($3.73 in chips) 
+Lorpugo: posts small blind $0.01
+Rizental: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9h]
+ROBERT0531: folds 
+Stuntman_Meik: folds 
+cruzlucas_25: calls $0.02
+GB_Salt: raises $0.06 to $0.08
+Lorpugo: folds 
+Rizental: folds 
+cruzlucas_25: calls $0.06
+*** FLOP *** [Ks 3s 5h]
+cruzlucas_25: checks 
+GB_Salt: bets $0.12
+cruzlucas_25: folds 
+Uncalled bet ($0.12) returned to GB_Salt
+GB_Salt collected $0.18 from pot
+GB_Salt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ks 3s 5h]
+Seat 1: cruzlucas_25 folded on the Flop
+Seat 2: GB_Salt (button) collected ($0.18)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Rizental (big blind) folded before Flop
+Seat 5: ROBERT0531 folded before Flop (didn't bet)
+Seat 6: Stuntman_Meik folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795575525:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:03:45 ET
+Table 'Stroobantia II' 6-max Seat #3 is the button
+Seat 1: cruzlucas_25 ($0.95 in chips) 
+Seat 2: GB_Salt ($3.90 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: Rizental ($2.21 in chips) 
+Seat 5: ROBERT0531 ($1.93 in chips) 
+Seat 6: Stuntman_Meik ($3.73 in chips) 
+Rizental: posts small blind $0.01
+ROBERT0531: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Kh]
+Stuntman_Meik has timed out
+Stuntman_Meik: folds 
+cruzlucas_25: folds 
+GB_Salt: folds 
+Lorpugo: raises $0.04 to $0.06
+Rizental: folds 
+ROBERT0531 has timed out
+ROBERT0531: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: cruzlucas_25 folded before Flop (didn't bet)
+Seat 2: GB_Salt folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 4: Rizental (small blind) folded before Flop
+Seat 5: ROBERT0531 (big blind) folded before Flop
+Seat 6: Stuntman_Meik folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240795588179:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/30 10:04:32 ET
+Table 'Stroobantia II' 6-max Seat #4 is the button
+Seat 1: cruzlucas_25 ($0.95 in chips) 
+Seat 2: GB_Salt ($3.90 in chips) 
+Seat 3: Lorpugo ($1.64 in chips) 
+Seat 4: Rizental ($2.20 in chips) 
+Seat 6: Stuntman_Meik ($3.73 in chips) 
+Stuntman_Meik: posts small blind $0.01
+cruzlucas_25: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Jh]
+GB_Salt: folds 
+Lorpugo: folds 
+Rizental: raises $0.02 to $0.04
+Stuntman_Meik: calls $0.03
+cruzlucas_25: calls $0.02
+*** FLOP *** [Ks Kc 7s]
+Stuntman_Meik: checks 
+cruzlucas_25: checks 
+Rizental: bets $0.08
+Stuntman_Meik: calls $0.08
+cruzlucas_25: calls $0.08
+*** TURN *** [Ks Kc 7s] [8h]
+Stuntman_Meik: checks 
+cruzlucas_25: checks 
+Rizental: bets $0.24
+Stuntman_Meik: folds 
+cruzlucas_25: calls $0.24
+*** RIVER *** [Ks Kc 7s 8h] [Ah]
+cruzlucas_25: checks 
+Rizental: checks 
+*** SHOW DOWN ***
+cruzlucas_25: shows [2s 6s] (a pair of Kings)
+Rizental: shows [Jc Kh] (three of a kind, Kings)
+Rizental collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [Ks Kc 7s 8h Ah]
+Seat 1: cruzlucas_25 (big blind) showed [2s 6s] and lost with a pair of Kings
+Seat 2: GB_Salt folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Rizental (button) showed [Jc Kh] and won ($0.81) with three of a kind, Kings
+Seat 6: Stuntman_Meik (small blind) folded on the Turn
+
+
+

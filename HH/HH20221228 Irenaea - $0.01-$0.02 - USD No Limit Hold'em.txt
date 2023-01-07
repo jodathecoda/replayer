@@ -1,0 +1,896 @@
+﻿PokerStars Hand #240746880920:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:19:02 ET
+Table 'Irenaea' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($0.68 in chips) 
+Seat 4: skazino ($2.15 in chips) 
+Seat 5: uixca ($2.84 in chips) 
+Seat 6: Valen_DLC ($1.78 in chips) 
+Valen_DLC: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 9h]
+kahzura: folds 
+yamanasty: folds 
+skazino: raises $0.04 to $0.06
+uixca: calls $0.06
+Valen_DLC: folds 
+Lorpugo: folds 
+*** FLOP *** [3s Tc 6d]
+skazino: checks 
+uixca: checks 
+*** TURN *** [3s Tc 6d] [5d]
+skazino: checks 
+uixca: checks 
+*** RIVER *** [3s Tc 6d 5d] [9c]
+skazino: checks 
+uixca: checks 
+*** SHOW DOWN ***
+skazino: shows [Kc Ah] (high card Ace)
+uixca: mucks hand 
+skazino collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3s Tc 6d 5d 9c]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: kahzura folded before Flop (didn't bet)
+Seat 3: yamanasty folded before Flop (didn't bet)
+Seat 4: skazino showed [Kc Ah] and won ($0.14) with high card Ace
+Seat 5: uixca (button) mucked [4h Qd]
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #240746887141:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:19:36 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.58 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($0.68 in chips) 
+Seat 4: skazino ($2.23 in chips) 
+Seat 5: uixca ($2.78 in chips) 
+Seat 6: Valen_DLC ($1.99 in chips) 
+Lorpugo: posts small blind $0.01
+kahzura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3s]
+yamanasty: folds 
+skazino: folds 
+uixca: folds 
+Valen_DLC: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to kahzura
+kahzura collected $0.02 from pot
+kahzura: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: kahzura (big blind) collected ($0.02)
+Seat 3: yamanasty folded before Flop (didn't bet)
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 5: uixca folded before Flop (didn't bet)
+Seat 6: Valen_DLC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746889152:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:19:48 ET
+Table 'Irenaea' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: kahzura ($2.01 in chips) 
+Seat 3: yamanasty ($0.68 in chips) 
+Seat 4: skazino ($2.23 in chips) 
+Seat 5: uixca ($2.78 in chips) 
+Seat 6: Valen_DLC ($1.99 in chips) 
+kahzura: posts small blind $0.01
+yamanasty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 6c]
+skazino: folds 
+uixca: calls $0.02
+Valen_DLC: folds 
+Lorpugo: folds 
+kahzura: folds 
+yamanasty: checks 
+*** FLOP *** [As Kd Jc]
+yamanasty: checks 
+uixca: checks 
+*** TURN *** [As Kd Jc] [3c]
+yamanasty: bets $0.03
+uixca: calls $0.03
+*** RIVER *** [As Kd Jc 3c] [8c]
+yamanasty: bets $0.21
+uixca: raises $0.21 to $0.42
+yamanasty: raises $0.21 to $0.63 and is all-in
+uixca: calls $0.21
+*** SHOW DOWN ***
+yamanasty: shows [7c Kc] (a flush, King high)
+uixca: shows [7d 8s] (a pair of Eights)
+yamanasty collected $1.32 from pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.05 
+Board [As Kd Jc 3c 8c]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: kahzura (small blind) folded before Flop
+Seat 3: yamanasty (big blind) showed [7c Kc] and won ($1.32) with a flush, King high
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 5: uixca showed [7d 8s] and lost with a pair of Eights
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746897771:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:20:35 ET
+Table 'Irenaea' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($1.32 in chips) 
+Seat 4: skazino ($2.23 in chips) 
+Seat 5: uixca ($2.10 in chips) 
+Seat 6: Valen_DLC ($1.99 in chips) 
+yamanasty: posts small blind $0.01
+skazino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Kc]
+uixca: calls $0.02
+Valen_DLC: raises $0.08 to $0.10
+Lorpugo: folds 
+kahzura: folds 
+yamanasty: folds 
+skazino: folds 
+uixca: folds 
+Uncalled bet ($0.08) returned to Valen_DLC
+Valen_DLC collected $0.07 from pot
+Valen_DLC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kahzura (button) folded before Flop (didn't bet)
+Seat 3: yamanasty (small blind) folded before Flop
+Seat 4: skazino (big blind) folded before Flop
+Seat 5: uixca folded before Flop
+Seat 6: Valen_DLC collected ($0.07)
+
+
+
+PokerStars Hand #240746900825:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:20:51 ET
+Table 'Irenaea' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($1.31 in chips) 
+Seat 4: skazino ($2.21 in chips) 
+Seat 5: uixca ($2.08 in chips) 
+Seat 6: Valen_DLC ($2.04 in chips) 
+skazino: posts small blind $0.01
+uixca: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kh]
+Valen_DLC: folds 
+Lorpugo: folds 
+kahzura: folds 
+yamanasty: raises $0.04 to $0.06
+skazino: folds 
+uixca: folds 
+Uncalled bet ($0.04) returned to yamanasty
+yamanasty collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kahzura folded before Flop (didn't bet)
+Seat 3: yamanasty (button) collected ($0.05)
+Seat 4: skazino (small blind) folded before Flop
+Seat 5: uixca (big blind) folded before Flop
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746905485:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:21:17 ET
+Table 'Irenaea' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($1.34 in chips) 
+Seat 4: skazino ($2.20 in chips) 
+Seat 5: uixca ($2.06 in chips) 
+Seat 6: Valen_DLC ($2.04 in chips) 
+uixca: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 7d]
+Lorpugo has timed out
+Lorpugo: folds 
+kahzura: folds 
+yamanasty: calls $0.02
+skazino: folds 
+uixca: calls $0.01
+Valen_DLC: raises $0.08 to $0.10
+yamanasty: calls $0.08
+uixca: calls $0.08
+*** FLOP *** [6c 3c 3d]
+uixca: checks 
+Valen_DLC: checks 
+yamanasty: bets $0.21
+uixca: folds 
+Valen_DLC: folds 
+Uncalled bet ($0.21) returned to yamanasty
+yamanasty collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6c 3c 3d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kahzura folded before Flop (didn't bet)
+Seat 3: yamanasty collected ($0.29)
+Seat 4: skazino (button) folded before Flop (didn't bet)
+Seat 5: uixca (small blind) folded on the Flop
+Seat 6: Valen_DLC (big blind) folded on the Flop
+
+
+
+PokerStars Hand #240746913794:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:22:03 ET
+Table 'Irenaea' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($1.53 in chips) 
+Seat 4: skazino ($2.20 in chips) 
+Seat 5: uixca ($1.96 in chips) 
+Seat 6: Valen_DLC ($1.94 in chips) 
+Valen_DLC: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3c]
+kahzura: calls $0.02
+yamanasty: folds 
+skazino: folds 
+uixca: calls $0.02
+Valen_DLC: folds 
+Lorpugo: checks 
+*** FLOP *** [3d 5h 5d]
+Lorpugo: checks 
+kahzura: checks 
+uixca: checks 
+*** TURN *** [3d 5h 5d] [2s]
+Lorpugo: bets $0.07
+kahzura: folds 
+uixca: calls $0.07
+*** RIVER *** [3d 5h 5d 2s] [Kh]
+Lorpugo: checks 
+uixca: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ts 3c] (two pair, Fives and Threes)
+uixca: mucks hand 
+Lorpugo collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3d 5h 5d 2s Kh]
+Seat 1: Lorpugo (big blind) showed [Ts 3c] and won ($0.20) with two pair, Fives and Threes
+Seat 2: kahzura folded on the Turn
+Seat 3: yamanasty folded before Flop (didn't bet)
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 5: uixca (button) mucked [Jh 2c]
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #240746920938:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:22:42 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.68 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($1.53 in chips) 
+Seat 4: skazino ($2.20 in chips) 
+Seat 6: Valen_DLC ($1.99 in chips) 
+Lorpugo: posts small blind $0.01
+kahzura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Ah]
+yamanasty: folds 
+skazino: folds 
+Valen_DLC: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+kahzura: folds 
+*** FLOP *** [3h 2c Ac]
+Lorpugo: checks 
+Valen_DLC: checks 
+*** TURN *** [3h 2c Ac] [Jc]
+Lorpugo: checks 
+uixca leaves the table
+Valen_DLC: bets $0.04
+Lorpugo: raises $0.13 to $0.17
+VINICIOBR123 joins the table at seat #5 
+Valen_DLC: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3h 2c Ac Jc]
+Seat 1: Lorpugo (small blind) collected ($0.19)
+Seat 2: kahzura (big blind) folded before Flop
+Seat 3: yamanasty folded before Flop (didn't bet)
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 6: Valen_DLC (button) folded on the Turn
+
+
+
+PokerStars Hand #240746926314:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:23:11 ET
+Table 'Irenaea' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($1.53 in chips) 
+Seat 4: skazino ($2.20 in chips) 
+Seat 6: Valen_DLC ($1.90 in chips) 
+kahzura: posts small blind $0.01
+yamanasty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ad]
+skazino: folds 
+Valen_DLC: folds 
+Lorpugo: raises $0.04 to $0.06
+kahzura: folds 
+yamanasty: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: kahzura (small blind) folded before Flop
+Seat 3: yamanasty (big blind) folded before Flop
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746928905:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:23:26 ET
+Table 'Irenaea' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.81 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: yamanasty ($1.51 in chips) 
+Seat 4: skazino ($2.20 in chips) 
+Seat 6: Valen_DLC ($1.90 in chips) 
+yamanasty: posts small blind $0.01
+skazino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 5h]
+Valen_DLC: folds 
+Lorpugo: folds 
+kahzura: folds 
+yamanasty: raises $0.04 to $0.06
+skazino: raises $0.15 to $0.21
+yamanasty: calls $0.15
+*** FLOP *** [3d 9h 5s]
+yamanasty: checks 
+skazino: checks 
+*** TURN *** [3d 9h 5s] [4d]
+yamanasty: bets $0.25
+skazino: calls $0.25
+*** RIVER *** [3d 9h 5s 4d] [5c]
+yamanasty: bets $1.05 and is all-in
+skazino: calls $1.05
+*** SHOW DOWN ***
+yamanasty: shows [Jc Qd] (a pair of Fives)
+skazino: shows [Qc As] (a pair of Fives - Ace kicker)
+skazino collected $2.91 from pot
+*** SUMMARY ***
+Total pot $3.02 | Rake $0.11 
+Board [3d 9h 5s 4d 5c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kahzura (button) folded before Flop (didn't bet)
+Seat 3: yamanasty (small blind) showed [Jc Qd] and lost with a pair of Fives
+Seat 4: skazino (big blind) showed [Qc As] and won ($2.91) with a pair of Fives
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746937958:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:24:15 ET
+Table 'Irenaea' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.81 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 4: skazino ($3.60 in chips) 
+Seat 6: Valen_DLC ($2 in chips) 
+Valen_DLC: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 7c]
+yamanasty leaves the table
+kahzura: raises $0.03 to $0.05
+skazino: folds 
+Valen_DLC: folds 
+mariodelore joins the table at seat #3 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to kahzura
+kahzura collected $0.05 from pot
+kahzura: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: kahzura collected ($0.05)
+Seat 4: skazino (button) folded before Flop (didn't bet)
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #240746940402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:24:29 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.79 in chips) 
+Seat 2: kahzura ($2.03 in chips) 
+Seat 4: skazino ($3.60 in chips) 
+Seat 6: Valen_DLC ($1.99 in chips) 
+Lorpugo: posts small blind $0.01
+kahzura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 6d]
+skazino: folds 
+Valen_DLC: raises $0.03 to $0.05
+Lorpugo: folds 
+kahzura: folds 
+Uncalled bet ($0.03) returned to Valen_DLC
+Valen_DLC collected $0.05 from pot
+Valen_DLC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: kahzura (big blind) folded before Flop
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 6: Valen_DLC (button) collected ($0.05)
+
+
+
+PokerStars Hand #240746942937:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:24:42 ET
+Table 'Irenaea' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 2: kahzura ($2.01 in chips) 
+Seat 3: mariodelore ($2 in chips) 
+Seat 4: skazino ($3.60 in chips) 
+Seat 6: Valen_DLC ($2.02 in chips) 
+kahzura: posts small blind $0.01
+mariodelore: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 6h]
+skazino: folds 
+Valen_DLC: folds 
+Lorpugo: folds 
+kahzura: folds 
+Uncalled bet ($0.01) returned to mariodelore
+mariodelore collected $0.02 from pot
+mariodelore: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: kahzura (small blind) folded before Flop
+Seat 3: mariodelore (big blind) collected ($0.02)
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746944753:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:24:52 ET
+Table 'Irenaea' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: mariodelore ($2.01 in chips) 
+Seat 4: skazino ($3.60 in chips) 
+Seat 6: Valen_DLC ($2.02 in chips) 
+mariodelore: posts small blind $0.01
+skazino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9s]
+Valen_DLC: folds 
+Lorpugo: folds 
+kahzura: folds 
+mariodelore: folds 
+Uncalled bet ($0.01) returned to skazino
+skazino collected $0.02 from pot
+skazino: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kahzura (button) folded before Flop (didn't bet)
+Seat 3: mariodelore (small blind) folded before Flop
+Seat 4: skazino (big blind) collected ($0.02)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746947019:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:25:04 ET
+Table 'Irenaea' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: mariodelore ($2 in chips) 
+Seat 4: skazino ($3.61 in chips) 
+Seat 5: VINICIOBR123 ($2 in chips) 
+Seat 6: Valen_DLC ($2.02 in chips) 
+skazino: posts small blind $0.01
+VINICIOBR123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 2c]
+Valen_DLC: folds 
+Lorpugo: folds 
+kahzura: folds 
+mariodelore: folds 
+skazino: folds 
+Uncalled bet ($0.01) returned to VINICIOBR123
+VINICIOBR123 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kahzura folded before Flop (didn't bet)
+Seat 3: mariodelore (button) folded before Flop (didn't bet)
+Seat 4: skazino (small blind) folded before Flop
+Seat 5: VINICIOBR123 (big blind) collected ($0.02)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746949525:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:25:18 ET
+Table 'Irenaea' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: mariodelore ($2 in chips) 
+Seat 4: skazino ($3.60 in chips) 
+Seat 5: VINICIOBR123 ($2.01 in chips) 
+Seat 6: Valen_DLC ($2.02 in chips) 
+VINICIOBR123: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 9s]
+Lorpugo: folds 
+kahzura: folds 
+mariodelore: raises $0.04 to $0.06
+skazino: calls $0.06
+VINICIOBR123: calls $0.05
+Valen_DLC: folds 
+*** FLOP *** [8c Tc 5d]
+VINICIOBR123: checks 
+mariodelore: bets $0.13
+skazino: calls $0.13
+VINICIOBR123: folds 
+*** TURN *** [8c Tc 5d] [2s]
+mariodelore: checks 
+skazino: bets $0.29
+mariodelore: folds 
+Uncalled bet ($0.29) returned to skazino
+skazino collected $0.44 from pot
+skazino: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [8c Tc 5d 2s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: kahzura folded before Flop (didn't bet)
+Seat 3: mariodelore folded on the Turn
+Seat 4: skazino (button) collected ($0.44)
+Seat 5: VINICIOBR123 (small blind) folded on the Flop
+Seat 6: Valen_DLC (big blind) folded before Flop
+
+
+
+PokerStars Hand #240746959711:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:26:14 ET
+Table 'Irenaea' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.78 in chips) 
+Seat 2: kahzura ($2 in chips) 
+Seat 3: mariodelore ($1.81 in chips) 
+Seat 4: skazino ($3.85 in chips) 
+Seat 5: VINICIOBR123 ($1.95 in chips) 
+Seat 6: Valen_DLC ($2 in chips) 
+Valen_DLC: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 2c]
+kahzura: folds 
+mariodelore: folds 
+skazino: folds 
+VINICIOBR123: folds 
+Valen_DLC: raises $0.03 to $0.05
+Lorpugo: calls $0.03
+*** FLOP *** [6c 5h 7d]
+Valen_DLC: checks 
+Lorpugo: checks 
+*** TURN *** [6c 5h 7d] [Jh]
+Valen_DLC: checks 
+Lorpugo: checks 
+*** RIVER *** [6c 5h 7d Jh] [Ac]
+Valen_DLC: checks 
+Lorpugo: bets $0.07
+Valen_DLC: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6c 5h 7d Jh Ac]
+Seat 1: Lorpugo (big blind) collected ($0.10)
+Seat 2: kahzura folded before Flop (didn't bet)
+Seat 3: mariodelore folded before Flop (didn't bet)
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 5: VINICIOBR123 (button) folded before Flop (didn't bet)
+Seat 6: Valen_DLC (small blind) folded on the River
+
+
+
+PokerStars Hand #240746969890:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:27:09 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.83 in chips) 
+Seat 3: mariodelore ($1.81 in chips) 
+Seat 4: skazino ($3.85 in chips) 
+Seat 5: VINICIOBR123 ($1.95 in chips) 
+Seat 6: Valen_DLC ($1.95 in chips) 
+Lorpugo: posts small blind $0.01
+mariodelore: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Td]
+skazino: raises $0.04 to $0.06
+VINICIOBR123: folds 
+Valen_DLC: folds 
+Lorpugo: calls $0.05
+mariodelore: folds 
+*** FLOP *** [9c 9h 3s]
+Lorpugo: bets $0.05
+skazino: calls $0.05
+*** TURN *** [9c 9h 3s] [Ah]
+Lorpugo: bets $0.15
+skazino: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9c 9h 3s Ah]
+Seat 1: Lorpugo (small blind) collected ($0.23)
+Seat 3: mariodelore (big blind) folded before Flop
+Seat 4: skazino folded on the Turn
+Seat 5: VINICIOBR123 folded before Flop (didn't bet)
+Seat 6: Valen_DLC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746979634:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:28:01 ET
+Table 'Irenaea' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 3: mariodelore ($1.79 in chips) 
+Seat 4: skazino ($3.74 in chips) 
+Seat 5: VINICIOBR123 ($1.95 in chips) 
+Seat 6: Valen_DLC ($1.95 in chips) 
+mariodelore: posts small blind $0.01
+skazino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 6c]
+VINICIOBR123: calls $0.02
+Valen_DLC: folds 
+Lorpugo: folds 
+mariodelore: raises $0.06 to $0.08
+skazino: calls $0.06
+VINICIOBR123: folds 
+*** FLOP *** [3d 3h 7c]
+mariodelore: checks 
+skazino: checks 
+*** TURN *** [3d 3h 7c] [Ks]
+mariodelore: bets $0.11
+skazino: folds 
+Uncalled bet ($0.11) returned to mariodelore
+mariodelore collected $0.17 from pot
+mariodelore: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3d 3h 7c Ks]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: mariodelore (small blind) collected ($0.17)
+Seat 4: skazino (big blind) folded on the Turn
+Seat 5: VINICIOBR123 folded before Flop
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746986793:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:28:39 ET
+Table 'Irenaea' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 3: mariodelore ($1.88 in chips) 
+Seat 4: skazino ($3.66 in chips) 
+Seat 5: VINICIOBR123 ($1.93 in chips) 
+Seat 6: Valen_DLC ($1.95 in chips) 
+skazino: posts small blind $0.01
+VINICIOBR123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 3s]
+Valen_DLC: folds 
+Lorpugo: folds 
+mariodelore: folds 
+skazino: folds 
+Uncalled bet ($0.01) returned to VINICIOBR123
+VINICIOBR123 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: mariodelore (button) folded before Flop (didn't bet)
+Seat 4: skazino (small blind) folded before Flop
+Seat 5: VINICIOBR123 (big blind) collected ($0.02)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240746989083:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:28:51 ET
+Table 'Irenaea' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 3: mariodelore ($1.88 in chips) 
+Seat 4: skazino ($3.65 in chips) 
+Seat 5: VINICIOBR123 ($1.94 in chips) 
+Seat 6: Valen_DLC ($1.95 in chips) 
+VINICIOBR123: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6c]
+Lorpugo: folds 
+mariodelore: folds 
+skazino: folds 
+VINICIOBR123: calls $0.01
+Valen_DLC: checks 
+*** FLOP *** [2d 9d Qc]
+VINICIOBR123: checks 
+Valen_DLC: checks 
+*** TURN *** [2d 9d Qc] [2c]
+VINICIOBR123: checks 
+Valen_DLC: checks 
+*** RIVER *** [2d 9d Qc 2c] [3h]
+VINICIOBR123: checks 
+Valen_DLC: checks 
+*** SHOW DOWN ***
+VINICIOBR123: shows [Jc 4c] (a pair of Deuces)
+Valen_DLC: shows [Kc 3d] (two pair, Threes and Deuces)
+Valen_DLC collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2d 9d Qc 2c 3h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: mariodelore folded before Flop (didn't bet)
+Seat 4: skazino (button) folded before Flop (didn't bet)
+Seat 5: VINICIOBR123 (small blind) showed [Jc 4c] and lost with a pair of Deuces
+Seat 6: Valen_DLC (big blind) showed [Kc 3d] and won ($0.04) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #240746995403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:29:25 ET
+Table 'Irenaea' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.95 in chips) 
+Seat 3: mariodelore ($1.88 in chips) 
+Seat 4: skazino ($3.65 in chips) 
+Seat 5: VINICIOBR123 ($1.92 in chips) 
+Seat 6: Valen_DLC ($1.97 in chips) 
+Valen_DLC: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 8d]
+mariodelore: folds 
+skazino: folds 
+VINICIOBR123: calls $0.02
+Valen_DLC: folds 
+Lorpugo: checks 
+*** FLOP *** [Jc Jd 3d]
+Lorpugo: bets $0.03
+VINICIOBR123: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc Jd 3d]
+Seat 1: Lorpugo (big blind) collected ($0.05)
+Seat 3: mariodelore folded before Flop (didn't bet)
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 5: VINICIOBR123 (button) folded on the Flop
+Seat 6: Valen_DLC (small blind) folded before Flop
+
+
+
+PokerStars Hand #240747002151:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:30:02 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.98 in chips) 
+Seat 3: mariodelore ($1.88 in chips) 
+Seat 4: skazino ($3.65 in chips) 
+Seat 5: VINICIOBR123 ($1.90 in chips) 
+Seat 6: Valen_DLC ($1.96 in chips) 
+Lorpugo: posts small blind $0.01
+mariodelore: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ah]
+skazino: folds 
+VINICIOBR123: folds 
+Valen_DLC: folds 
+Lorpugo: raises $0.04 to $0.06
+mariodelore: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.04)
+Seat 3: mariodelore (big blind) folded before Flop
+Seat 4: skazino folded before Flop (didn't bet)
+Seat 5: VINICIOBR123 folded before Flop (didn't bet)
+Seat 6: Valen_DLC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240747005605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:30:21 ET
+Table 'Irenaea' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 3: mariodelore ($1.86 in chips) 
+Seat 4: skazino ($3.65 in chips) 
+Seat 5: VINICIOBR123 ($1.90 in chips) 
+Seat 6: Valen_DLC ($1.96 in chips) 
+mariodelore: posts small blind $0.01
+skazino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Qc]
+VINICIOBR123: folds 
+Valen_DLC: folds 
+Lorpugo: folds 
+mariodelore: folds 
+Uncalled bet ($0.01) returned to skazino
+skazino collected $0.02 from pot
+skazino: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: mariodelore (small blind) folded before Flop
+Seat 4: skazino (big blind) collected ($0.02)
+Seat 5: VINICIOBR123 folded before Flop (didn't bet)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240747008486:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:30:36 ET
+Table 'Irenaea' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 3: mariodelore ($1.85 in chips) 
+Seat 4: skazino ($3.66 in chips) 
+Seat 5: VINICIOBR123 ($1.90 in chips) 
+Seat 6: Valen_DLC ($1.96 in chips) 
+skazino: posts small blind $0.01
+VINICIOBR123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9d]
+Valen_DLC: folds 
+Lorpugo: folds 
+mariodelore: folds 
+skazino: raises $0.04 to $0.06
+VINICIOBR123: calls $0.04
+*** FLOP *** [5s 4d Jd]
+skazino: checks 
+VINICIOBR123: bets $0.10
+skazino: folds 
+Uncalled bet ($0.10) returned to VINICIOBR123
+VINICIOBR123 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5s 4d Jd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: mariodelore (button) folded before Flop (didn't bet)
+Seat 4: skazino (small blind) folded on the Flop
+Seat 5: VINICIOBR123 (big blind) collected ($0.12)
+Seat 6: Valen_DLC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #240747015808:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/12/28 6:31:15 ET
+Table 'Irenaea' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2 in chips) 
+Seat 3: mariodelore ($1.85 in chips) 
+Seat 4: skazino ($3.60 in chips) 
+Seat 5: VINICIOBR123 ($1.96 in chips) 
+Seat 6: Valen_DLC ($1.96 in chips) 
+VINICIOBR123: posts small blind $0.01
+Valen_DLC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Kh]
+Lorpugo: raises $0.04 to $0.06
+mariodelore: folds 
+skazino: folds 
+VINICIOBR123: folds 
+Valen_DLC: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 3: mariodelore folded before Flop (didn't bet)
+Seat 4: skazino (button) folded before Flop (didn't bet)
+Seat 5: VINICIOBR123 (small blind) folded before Flop
+Seat 6: Valen_DLC (big blind) folded before Flop
+
+
+
