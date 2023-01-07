@@ -2,6 +2,9 @@ from tkinter import *
 from tkinter import filedialog as fd
 import re
 
+global hide
+hide = 999 #to hide unused images, add this var to x and y
+
 global bFileIsOpen
 bFileIsOpen = False
 
@@ -30,15 +33,26 @@ ws.geometry('965x545')
 ws.config(bg='black')
 
 class Player:
-    def __init__(self, name, bet, stack, seat, card1, card2, action, button):
+    def __init__(self, name, namex, namey, bet, betx, bety, stack, stackx, stacky,  seat, card1, card1x, card1y, card2, card2x, card2y, button, buttonx, buttony):
         self.name = name
+        self.namex = namex
+        self.namey = namey
         self.bet = bet
+        self.betx = betx
+        self.bety = bety
         self.stack = stack
+        self.stackx = stackx
+        self.stacky = stacky
         self.seat = seat
         self.card1 = card1
+        self.card1x = card1x
+        self.card1y = card1y
         self.card2 = card2
-        self.action = action
+        self.card2x = card2x
+        self.card2y = card2y
         self.button = button
+        self.buttonx = buttonx
+        self.buttony = buttony
 
 global player1
 global player2
@@ -49,14 +63,16 @@ global player6
 global player7
 global player8
 
-player1 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
-player2 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
-player3 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
-player4 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
-player5 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
-player6 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
-player7 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
-player8 = Player("Empty", 0.0, 0.0, 0, "", "", "", False)
+#name, namex, namey, bet, betx, bety, stack, stackx, stacky,  seat, card1, card1x, card1y card2, card2x, card2y button, buttonx, buttony):
+
+player1 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player2 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player3 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player4 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player5 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player6 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player7 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player8 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
 
 #player1 = Player("Alice",21.2, 100.0, 4, "As", "Kh", "raise")
 
@@ -584,11 +600,14 @@ text = Text(
     width=53
 )
 
-label_player1 = Label(height=1, width=6, text="Player1", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player1.place(x=430, y=450)
+#label_player1 = Label(height=1, width=6, text="Player1", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
+#label_player1.place(x=430, y=450)
+
+label_player1 = Label(height=1, width=6, text=player1.name, bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
+label_player1.place(x=player1.namex, y=player1.namey)
 
 label_player1_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player1_stack.place(x=500, y=450)
+label_player1_stack.place(x=player1.stackx, y=player1.stacky)
 
 button_p1_db = Button(image = img_db, bg='cornflowerblue')
 button_p1_db.place(x=415, y=375)
