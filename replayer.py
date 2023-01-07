@@ -257,7 +257,7 @@ def extract_info(line):
         elif '6' in db:
             player6.button = True
         else:
-            print("error finding the Button>>>")
+            print("error finding the Button!")
 
 
     # Check if the line starts with "Seat"
@@ -610,16 +610,16 @@ label_player1_stack = Label(height=1, width=6, text="100", bg='black', fg='light
 label_player1_stack.place(x=player1.stackx, y=player1.stacky)
 
 button_p1_db = Button(image = img_db, bg='cornflowerblue')
-button_p1_db.place(x=415, y=375)
+button_p1_db.place(x=player1.buttonx, y=player1.buttony)
 
 button_p1c1 = Button(image = img_card_As)
-button_p1c1.place(x=435, y=340)
+button_p1c1.place(x=player1.card1x, y=player1.card1y)
 
 button_p1c2 = Button(image = img_card_Kh)
-button_p1c2.place(x=470, y=340)
+button_p1c2.place(x=player1.card2x, y=player1.card2y)
 
 button_bet1 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New Roman', 15, 'bold'))
-button_bet1.place(x=500, y=340)
+button_bet1.place(x=player1.betx, y=player1.bety)
 
 label_player2 = Label(height=1, width=6, text="Player2", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player2.place(x=110, y=450)
