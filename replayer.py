@@ -28,6 +28,7 @@ ws.title('ReplayeR')
 ws.geometry('965x545')
 #ws.geometry('965x495')
 ws.config(bg='black')
+ws.iconbitmap("assets\\icons\\replayer_icon_small.ico")
 
 class Table:
     def __init__(self, title, pot, potx, poty, flop1, flop1x, flop1y, flop2, flop2x, flop2y, flop3, flop3x, flop3y, turn1, turn1x, turn1y, river1, river1x, river1y):
