@@ -62,17 +62,16 @@ global player5
 global player6
 global player7
 global player8
-
-#name, namex, namey, bet, betx, bety, stack, stackx, stacky,  seat, card1, card1x, card1y card2, card2x, card2y button, buttonx, buttony):
+#namex, namey, bet, betx, bety, stack, stackx, stacky,  seat, card1,   card1x,card1y card2, card2x, card2y button, buttonx, buttony):
 
 player1 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
 player2 = Player("Empty", 110, 450, 0.0, 330, 340, 0.0, 100, 410, 0, "", 260, 340, "", 295, 340, False, 240, 345)
 player3 = Player("Empty", 70, 260, 0.0, 255, 240, 0.0, 70, 290, 0, "", 190, 240, "", 225, 240, False, 205, 287)
-player4 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
-player5 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
-player6 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
-player7 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
-player8 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player4 = Player("Empty", 110, 70, 0.0, 330, 160, 0.0, 100, 110, 0, "", 260, 160, "", 295, 160, False, 240, 175) #4
+player5 = Player("Empty", 420, 70, 0.0, 500, 160, 0.0, 500, 70, 0, "", 435, 160, "", 470, 160, False, 415, 170) #5
+player6 = Player("Empty", 780, 70, 0.0, 610, 200, 0.0, 790, 110, 0, "", 635, 160, "", 670, 160, False, 700, 170) #6
+player7 = Player("Empty", 820, 260, 0.0, 610, 250, 0.0, 820, 290, 0, "", 700, 240, "", 730, 240, False, 740, 280) #7
+player8 = Player("Empty", 780, 450, 0.0, 610, 300, 0.0, 780, 410, 0, "", 640, 340, "", 675, 340, False, 715, 340) #8
 
 #player1 = Player("Alice",21.2, 100.0, 4, "As", "Kh", "raise")
 
@@ -658,22 +657,22 @@ button_bet3 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New 
 button_bet3.place(x=player3.betx, y=player3.bety)
 
 label_player4 = Label(height=1, width=6, text="Player4", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player4.place(x=110, y=70)
+label_player4.place(x=player4.namex, y=player4.namey)
 
 label_player4_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player4_stack.place(x=100, y=110)
+label_player4_stack.place(x=player4.stackx, y=player4.stacky)
 
 button_bet4 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New Roman', 15, 'bold'))
-button_bet4.place(x=330, y=160)
+button_bet4.place(x=player4.betx, y=player4.bety)
 
 button_p4_db = Button(image = img_db, bg='cornflowerblue')
-button_p4_db.place(x=240, y=175)
+button_p4_db.place(x=player4.buttonx, y=player4.buttony)
 
 button_p4c1 = Button(image = img_card_Jh)
-button_p4c1.place(x=260, y=160)
+button_p4c1.place(x=player4.card1x, y=player4.card1y)
 
 button_p4c2 = Button(image = img_card_Jd)
-button_p4c2.place(x=295, y=160)
+button_p4c2.place(x=player4.card2x, y=player4.card2y)
 
 label_player5 = Label(height=1, width=6, text="Player5", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player5.place(x=420, y=70)
