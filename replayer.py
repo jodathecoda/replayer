@@ -675,76 +675,76 @@ button_p4c2 = Button(image = img_card_Jd)
 button_p4c2.place(x=player4.card2x, y=player4.card2y)
 
 label_player5 = Label(height=1, width=6, text="Player5", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player5.place(x=420, y=70)
+label_player5.place(x=player5.namex, y=player5.namey)
 
 button_bet5 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New Roman', 15, 'bold'))
-button_bet5.place(x=500, y=160)
+button_bet5.place(x=player5.betx, y=player5.bety)
 
 label_player5_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player5_stack.place(x=500, y=70)
+label_player5_stack.place(x=player5.stackx, y=player5.stacky)
 
 button_p5_db = Button(image = img_db, bg='cornflowerblue')
-button_p5_db.place(x=415, y=170)
+button_p5_db.place(x=player5.buttonx, y=player5.buttony)
 
 button_p5c1 = Button(image = img_card_back_fo)
-button_p5c1.place(x=435, y=160)
+button_p5c1.place(x=player5.card1x, y=player5.card1y)
 
 button_p5c2 = Button(image = img_card_back_ld)
-button_p5c2.place(x=470, y=160)
+button_p5c2.place(x=player5.card2x, y=player5.card2y)
 
 label_player6 = Label(height=1, width=6, text="Player6", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player6.place(x=780, y=70)
+label_player6.place(x=player6.namex, y=player6.namey)
 
 label_player6_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player6_stack.place(x=790, y=110)
+label_player6_stack.place(x=player6.stackx, y=player6.stacky)
 
 button_p6c1 = Button(image = img_card_back)
-button_p6c1.place(x=635, y=160)
+button_p6c1.place(x=player6.card1x, y=player6.card1y)
 
 button_p6_db = Button(image = img_db, bg='cornflowerblue')
-button_p6_db.place(x=700, y=170)
+button_p6_db.place(x=player6.buttonx, y=player6.buttony)
 
 button_p6c2 = Button(image = img_card_back)
-button_p6c2.place(x=670, y=160)
+button_p6c2.place(x=player6.card2x, y=player6.card2y)
 
 button_bet6 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New Roman', 15, 'bold'))
-button_bet6.place(x=610, y=200)
+button_bet6.place(x=player6.betx, y=player6.bety)
 
 label_player7 = Label(height=1, width=6, text="Player7", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player7.place(x=820, y=260)
+label_player7.place(x=player7.namex, y=player7.namey)
 
 label_player7_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player7_stack.place(x=820, y=290)
+label_player7_stack.place(x=player7.stackx, y=player7.stacky)
 
 button_p7_db = Button(image = img_db, bg='cornflowerblue')
-button_p7_db.place(x=740, y=280)
+button_p7_db.place(x=player7.buttonx, y=player7.buttony)
 
 button_p7c1 = Button(image = img_card_nocard, bg='cornflowerblue')
-button_p7c1.place(x=700, y=240)
+button_p7c1.place(x=player7.card1x, y=player7.card1y)
 
 button_p7c2 = Button(image = img_card_nocard, bg='cornflowerblue')
-button_p7c2.place(x=730, y=240)
+button_p7c2.place(x=player7.card2x, y=player7.card2y)
 
 button_bet7 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New Roman', 15, 'bold'))
-button_bet7.place(x=610, y=250)
+button_bet7.place(x=player7.betx, y=player7.bety)
 
 label_player8 = Label(height=1, width=6, text="Player8", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-label_player8.place(x=780, y=450)
+label_player8.place(x=player8.namex, y=player8.namey)
 
 label_player8_stack = Label(height=1, width=6, text="100", bg='black', fg='lightgreen',font=('Times New Roman', 15, 'bold'))
-label_player8_stack.place(x=780, y=410)
+label_player8_stack.place(x=player8.stackx, y=player8.stacky)
 
 button_p8_db = Button(image = img_db, bg='cornflowerblue')
-button_p8_db.place(x=715, y=340)
+button_p8_db.place(x=player8.buttonx, y=player8.buttony)
 
 button_p8c1 = Button(image = img_card_nocard, bg='cornflowerblue')
-button_p8c1.place(x=640, y=340)
+button_p8c1.place(x=player8.card1x, y=player8.card1y)
 
 button_p8c2 = Button(image = img_card_nocard, bg='cornflowerblue')
-button_p8c2.place(x=675, y=340)
+button_p8c2.place(x=player8.card2x, y=player8.card2y)
 
 button_bet8 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New Roman', 15, 'bold'))
-button_bet8.place(x=610, y=300)
+button_bet8.place(x=player8.betx, y=player8.bety)
 
 # Board Cards
 button_f1 = Button(image = img_card_4h)
