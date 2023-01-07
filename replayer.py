@@ -337,6 +337,9 @@ def back():
     global player8
     global Pot
 
+    if not bFileIsOpen:
+        open_f()
+
     print("back")
     button_play.config(image = img_play)
     button_pause.config(image = img_pause)
@@ -357,6 +360,9 @@ def play():
     global player7
     global player8
     global Pot
+
+    if not bFileIsOpen:
+        open_f()
 
     print("play")
     button_play.config(image = img_play_green)
@@ -379,6 +385,9 @@ def pause():
     global player8
     global Pot
 
+    if not bFileIsOpen:
+        open_f()
+
     print("pause")
     button_pause.config(image = img_pause_red)
     button_play.config(image = img_play)
@@ -400,6 +409,9 @@ def forward():
     global player8
     global Pot
 
+    if not bFileIsOpen:
+        open_f()
+
     print("forward")
     button_play.config(image = img_play)
     button_pause.config(image = img_pause)
@@ -420,6 +432,9 @@ def next():
     global player7
     global player8
     global Pot
+
+    if not bFileIsOpen:
+        open_f()
 
     step_pointer = 0
     Pot = 0.0
@@ -466,6 +481,9 @@ def previous():
     global player7
     global player8
     global Pot
+
+    if not bFileIsOpen:
+        open_f()
 
     step_pointer = 0
     Pot = 0.0
