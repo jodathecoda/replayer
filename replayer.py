@@ -23,6 +23,8 @@ number_of_hands = 0
 global step_pointer # current step in current hand
 step_pointer = 0
 
+global label_title
+
 ws = Tk()
 ws.title('ReplayeR')
 ws.geometry('965x545')
@@ -230,6 +232,13 @@ def extract_info(line):
     global player7
     global player8
     global thetable
+    global label_title
+
+    if line.startswith("PokerStars"):
+        # If it is, set the flag to False
+        inside_summary = False
+        thetable.title = line
+        label_title.config(text=thetable.title)
 
     if line.startswith("Dealt to"):
         cards = extract_cards(line)
@@ -471,6 +480,7 @@ def next():
     global player7
     global player8
     global thetable
+    global label_title
 
     if not bFileIsOpen:
         open_f()
@@ -482,6 +492,7 @@ def next():
     button_pause.config(image = img_pause)
     if bFileIsOpen and not bFileFinished and hand_pointer < number_of_hands:
         for l in storage[hand_pointer]:
+            #print(l)
             inside_summary = False
            #print(l)
            # Check if the l is "*** SUMMARY ***"
@@ -492,6 +503,9 @@ def next():
             elif "PokerStars" in l:
                 # If it is, set the flag to False
                 inside_summary = False
+                thetable.title = l
+                label_title.config(text=thetable.title)
+                extract_info(l)
             # If the flag is False, print the l
             elif not inside_summary:
                 #print(l)
@@ -520,6 +534,7 @@ def previous():
     global player7
     global player8
     global thetable
+    global label_title
 
     if not bFileIsOpen:
         open_f()
@@ -543,9 +558,11 @@ def previous():
             elif "PokerStars" in l:
                 # If it is, set the flag to False
                 inside_summary = False
+                thetable.title = l
+                label_title.config(text=thetable.title)
+                extract_info(l)
             # If the flag is False, print the l
             elif not inside_summary:
-                #print(l)
                 extract_info(l)
         print_players_starting_info()
         hand_pointer -= 1
@@ -582,8 +599,9 @@ def open_f():
         for line in f:
             if 'PokerStars' in line:
                 storage.append([])
-                thetable.title = line
-                label_title.config(text=thetable.title)
+                #thetable.title = line
+                #label_title.config(text=thetable.title)
+                storage[-1].append(line)
             # Otherwise, add the line to the latest list
             else:
                 storage[-1].append(line)
