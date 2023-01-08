@@ -222,7 +222,8 @@ def display():
 
 
     label_player1.config(text=player1.name)
-    label_player1_stack.config(text=str(player1.stack))
+    ps1 = round(player1.stack,2)
+    label_player1_stack.config(text=str(ps1))
     if player1.button:
         button_p1_db.place(x=player1.buttonx, y=player1.buttony)
     else:
@@ -232,7 +233,8 @@ def display():
     button_p1c2.config(image = dealer(player1.card2))
 
     label_player2.config(text=player2.name)
-    label_player2_stack.config(text=str(player2.stack))
+    ps2 = round(player2.stack,2)
+    label_player2_stack.config(text=str(ps2))
     if player2.button:
         button_p2_db.place(x=player2.buttonx, y=player2.buttony)
     else:
@@ -242,7 +244,8 @@ def display():
     button_p2c2.config(image = dealer(player2.card2))
 
     label_player3.config(text=player3.name)
-    label_player3_stack.config(text=str(player3.stack))
+    ps3 = round(player3.stack,2)
+    label_player3_stack.config(text=str(ps3))
     if player3.button:
         button_p3_db.place(x=player3.buttonx, y=player3.buttony)
     else:
@@ -252,7 +255,8 @@ def display():
     button_p3c2.config(image = dealer(player3.card2))
 
     label_player4.config(text=player4.name)
-    label_player4_stack.config(text=str(player4.stack))
+    ps4 = round(player4.stack,2)
+    label_player4_stack.config(text=str(ps4))
     if player4.button:
         button_p4_db.place(x=player4.buttonx, y=player4.buttony)
     else:
@@ -262,7 +266,8 @@ def display():
     button_p4c2.config(image = dealer(player4.card2))
 
     label_player5.config(text=player5.name)
-    label_player5_stack.config(text=str(player5.stack))
+    ps5 = round(player5.stack,2)
+    label_player5_stack.config(text=str(ps5))
     if player5.button:
         button_p5_db.place(x=player5.buttonx, y=player5.buttony)
     else:
@@ -272,7 +277,8 @@ def display():
     button_p5c2.config(image = dealer(player5.card2))
 
     label_player6.config(text=player6.name)
-    label_player6_stack.config(text=str(player6.stack))
+    ps6 = round(player6.stack,2)
+    label_player6_stack.config(text=str(ps6))
     if player6.button:
         button_p6_db.place(x=player6.buttonx, y=player6.buttony)
     else:
@@ -282,7 +288,8 @@ def display():
     button_p6c2.config(image = dealer(player6.card2))
 
     label_player7.config(text=player7.name)
-    label_player7_stack.config(text=str(player7.stack))
+    ps7 = round(player7.stack,2)
+    label_player7_stack.config(text=str(ps7))
     if player7.button:
         button_p7_db.place(x=player7.buttonx, y=player7.buttony)
     else:
@@ -292,7 +299,8 @@ def display():
     button_p7c2.config(image = dealer(player7.card2))
 
     label_player8.config(text=player8.name)
-    label_player8_stack.config(text=str(player8.stack))
+    ps8 = round(player8.stack,2)
+    label_player8_stack.config(text=str(ps8))
     if player8.button:
         button_p8_db.place(x=player8.buttonx, y=player8.buttony)
     else:
@@ -450,6 +458,14 @@ def extract_cards(line):
     # If the line does not start with "Dealt" or no match is found, return None
     return None
 
+def extract_cards_gather(line):
+    card_regex = r"\b([A-Z0-9][a-z])\b"
+
+    # Find all the matches in the line
+    matches = re.findall(card_regex, line)
+    print(matches)
+    return matches
+
 def clear_seats():
     global player1
     global player2
@@ -461,6 +477,14 @@ def clear_seats():
     global player8
     global thetable
     global label_title
+
+    thetable.flop1 = ""
+    thetable.flop2 = ""
+    thetable.flop3 = ""
+    thetable.turn1 = ""
+    thetable.river1 = ""
+
+
     player1.bet = 0.0
     player1.card1 = ""
     player1.card2 = ""
@@ -589,29 +613,35 @@ def extract_info(line):
             if floats:
                 # If any floats are found, return the first integer, name, and last float
                 if int(match.group(1)) == 1:
-                    player1.name = match.group(2)
-                    player1.stack = round(float(floats[-1]),2)
+                    player1.name = match.group(2)  
                     player1.seat = int(match.group(1))
+                    ps1 = float(floats[-1])
+                    player1.stack = round(ps1,2) 
                 elif int(match.group(1)) == 2:
-                    player2.name = match.group(2)
-                    player2.stack = round(float(floats[-1]),2)
+                    player2.name = match.group(2)  
                     player2.seat = int(match.group(1))
+                    ps2 = float(floats[-1])
+                    player2.stack = round(ps2,2)
                 elif int(match.group(1)) == 3:
-                    player3.name = match.group(2)
-                    player3.stack = round(float(floats[-1]),2)
-                    player3.seat = int(match.group(1)) 
+                    player3.name = match.group(2)  
+                    player3.seat = int(match.group(1))
+                    ps3 = float(floats[-1])
+                    player3.stack = round(ps3,2)
                 elif int(match.group(1)) == 4:
-                    player4.name = match.group(2)
-                    player4.stack = round(float(floats[-1]),2)
-                    player4.seat = int(match.group(1)) 
+                    player4.name = match.group(2)  
+                    player4.seat = int(match.group(1))
+                    ps4 = float(floats[-1])
+                    player4.stack = round(ps4,2)
                 elif int(match.group(1)) == 5:
-                    player5.name = match.group(2)
-                    player5.stack = round(float(floats[-1]),2)
-                    player5.seat = int(match.group(1)) 
+                    player5.name = match.group(2)  
+                    player5.seat = int(match.group(1))
+                    ps5 = float(floats[-1])
+                    player5.stack = round(ps5,2)
                 elif int(match.group(1)) == 6:
-                    player6.name = match.group(2)
-                    player6.stack = round(float(floats[-1]),2)
-                    player6.seat = int(match.group(1)) 
+                    player6.name = match.group(2)  
+                    player6.seat = int(match.group(1))
+                    ps6 = float(floats[-1])
+                    player6.stack = round(ps6,2)
                 else:
                     pass
     if "posts" in line:
@@ -622,35 +652,51 @@ def extract_info(line):
             if floats:
                 if player1.name in line:
                     player1.bet = round(float(floats[-1]),2)
-                    player1.stack -= round(float(floats[-1]),2)
+                    ps1 = player1.stack
+                    ps1 -= float(floats[-1])
+                    player1.stack = round(ps1,2)
                     thetable.pot += round(float(floats[-1]),2)
                 if player2.name in line:
                     player2.bet = round(float(floats[-1]),2)
-                    player2.stack -= round(float(floats[-1]),2)
+                    ps2 = player2.stack
+                    ps2 -= float(floats[-1])
+                    player2.stack = round(ps2,2)
                     thetable.pot += round(float(floats[-1]),2)
                 if player3.name in line:
                     player3.bet = round(float(floats[-1]),2)
-                    player3.stack -= round(float(floats[-1]),2)
+                    ps3 = player3.stack
+                    ps3 -= float(floats[-1])
+                    player3.stack = round(ps3,2)
                     thetable.pot += round(float(floats[-1]),2)
                 if player4.name in line:
                     player4.bet = round(float(floats[-1]),2)
-                    player4.stack -= round(float(floats[-1]),2)
+                    ps4 = player4.stack
+                    ps4 -= float(floats[-1])
+                    player4.stack = round(ps4,2)
                     thetable.pot += round(float(floats[-1]),2)
                 if player5.name in line:
                     player5.bet = round(float(floats[-1]),2)
-                    player5.stack -= round(float(floats[-1]),2)
+                    ps5 = player5.stack
+                    ps5 -= float(floats[-1])
+                    player5.stack = round(ps5,2)
                     thetable.pot += round(float(floats[-1]),2)
                 if player6.name in line:
                     player6.bet = round(float(floats[-1]),2)
-                    player6.stack -= round(float(floats[-1]),2)
+                    ps6 = player6.stack
+                    ps6 -= float(floats[-1])
+                    player6.stack = round(ps6,2)
                     thetable.pot += round(float(floats[-1]),2)
                 if player7.name in line:
                     player7.bet = round(float(floats[-1]),2)
-                    player7.stack -= round(float(floats[-1]),2)
+                    ps7 = player7.stack
+                    ps7 -= float(floats[-1])
+                    player7.stack = round(ps7,2)
                     thetable.pot += round(float(floats[-1]),2)
                 if player8.name in line:
                     player8.bet = round(float(floats[-1]),2)
-                    player8.stack -= round(float(floats[-1]),2)
+                    ps8 = player8.stack
+                    ps8 -= float(floats[-1])
+                    player8.stack = round(ps8,2)
                     thetable.pot += round(float(floats[-1]),2)
 
 
@@ -794,7 +840,6 @@ def gather_info_from_action():
         #go to next hand
         next()
 
-    print("wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww")
     print(infoto)
     if 'bets' in infoto or 'raises' in infoto or 'calls' in infoto:
         for p in pool:
@@ -803,6 +848,10 @@ def gather_info_from_action():
                 if floats:
                     p.bet = float(floats[-1])
                     p.stack -= p.bet
+
+    raw_pot  = player1.bet + player2.bet + player3.bet + player4.bet + player5.bet + player6.bet + player7.bet + player8.bet
+    thetable.pot = round(raw_pot,2)
+
     if 'folds' in infoto:
         if player1.name in infoto:
             player1.card1 = "fo"
@@ -829,13 +878,55 @@ def gather_info_from_action():
         if player8.name in infoto:
             player8.card1 = "fo"
             player8.card2 = "ld"
-
     
-    print("len: " + str(len(actions)) + "////////////////////////////" + str(action_pointer))
-    print(infoto)
-    print("////////////////////////////")
-
-
+    if 'shows' in infoto:
+        print("==========================")
+        print(infoto)
+        print("==========================")
+        cards = extract_cards_gather(infoto)
+        if player1.name in infoto:
+            player1.card1 = cards[0]
+            player1.card2 = cards[1]
+        elif player2.name in infoto:
+            player2.card1 = cards[0]
+            player2.card2 = cards[1]
+        elif player3.name in infoto:
+            player3.card1 = cards[0]
+            player3.card2 = cards[1]
+        elif player4.name in infoto:
+            player4.card1 = cards[0]
+            player4.card2 = cards[1]
+        elif player5.name in infoto:
+            player5.card1 = cards[0]
+            player5.card2 = cards[1]
+        elif player6.name in infoto:
+            player6.card1 = cards[0]
+            player6.card2 = cards[1]
+        elif player7.name in infoto:
+            player7.card1 = cards[0]
+            player7.card2 = cards[1]
+        elif player8.name in infoto:
+            player8.card1 = cards[0]
+            player8.card2 = cards[1]
+    
+    if "*** FLOP ***" in infoto:
+        cards = extract_cards_gather(infoto)
+        thetable.flop1 = cards[0]
+        thetable.flop2 = cards[1]
+        thetable.flop3 = cards[2]
+    if "*** TURN ***" in infoto:
+        cards = extract_cards_gather(infoto)
+        thetable.flop1 = cards[0]
+        thetable.flop2 = cards[1]
+        thetable.flop3 = cards[2]
+        thetable.turn1 = cards[3]
+    if "*** RIVER ***" in infoto:
+        cards = extract_cards_gather(infoto)
+        thetable.flop1 = cards[0]
+        thetable.flop2 = cards[1]
+        thetable.flop3 = cards[2]
+        thetable.turn1 = cards[3]
+        thetable.river1 = cards[4]
 
 def next():
     global bFileIsOpen
