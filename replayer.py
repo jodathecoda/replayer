@@ -928,6 +928,8 @@ def gather_info_from_action():
         thetable.turn1 = cards[3]
         thetable.river1 = cards[4]
 
+    label_subs.config(text=infoto)
+
 def next():
     global bFileIsOpen
     global bFileFinished
@@ -960,6 +962,8 @@ def next():
         for l in storage[hand_pointer]:
             #print(l)
             inside_summary = False
+            if 'checks' in l:
+                actions.append(l)
             if 'raises' in l:
                 actions.append(l)
             if 'bets' in l:
@@ -970,8 +974,8 @@ def next():
                 actions.append(l)
             if 'shows' in l:
                 actions.append(l)
-            if "*** SUMMARY ***" in l:
-                actions.append(l)
+            #if "*** SUMMARY ***" in l:
+            #    actions.append(l)
             if "*** FLOP ***" in l:
                 actions.append(l)
             if "*** TURN ***" in l:
@@ -1036,6 +1040,8 @@ def previous():
     if bFileIsOpen and not bFileFinished and hand_pointer > 0:
         for l in storage[hand_pointer]:
             inside_summary = False
+            if 'checks' in l:
+                actions.append(l)
             if 'raises' in l:
                 actions.append(l)
             if 'bets' in l:
@@ -1045,8 +1051,6 @@ def previous():
             if 'folds' in l:
                 actions.append(l)
             if 'shows' in l:
-                actions.append(l)
-            if "*** SUMMARY ***" in l:
                 actions.append(l)
             if "*** FLOP ***" in l:
                 actions.append(l)
@@ -1341,5 +1345,8 @@ button_open.place(x=60, y=10)
 button_settings = Button(image = img_settings, command = settings)
 button_settings.place(x=10, y=10)
 #button_settings.place(x=510, y=10)
+
+label_subs = Label(text="", bg='black', fg='goldenrod',font=('Times New Roman', 13, 'bold'))
+label_subs.place(x=10,y= 490)
 
 ws.mainloop()
