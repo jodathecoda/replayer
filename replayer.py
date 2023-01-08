@@ -697,8 +697,15 @@ def forward():
 def gather_info_from_action():
     global actions
     global action_pointer
+    if action_pointer < 0:
+        #go to previous hand
+        previous()
+    if (action_pointer +1 == len(actions)):
+        #go to next hand
+        next()
+
     infoto = actions[action_pointer]
-    print("////////////////////////////" + str(action_pointer))
+    print("len: " + str(len(actions)) + "////////////////////////////" + str(action_pointer))
     print(infoto)
     print("////////////////////////////")
 
