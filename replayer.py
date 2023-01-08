@@ -97,14 +97,14 @@ global player7
 global player8
 #namex, namey, bet, betx, bety, stack, stackx, stacky,  seat, card1,   card1x,card1y card2, card2x, card2y button, buttonx, buttony):
 
-player1 = Player("Sit Out", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
-player2 = Player("Sit Out", 110, 450, 0.0, 330, 340, 0.0, 100, 410, 0, "", 260, 340, "", 295, 340, False, 240, 345)
-player3 = Player("Sit Out", 70, 260, 0.0, 255, 240, 0.0, 70, 290, 0, "", 190, 240, "", 225, 240, False, 205, 287)
-player4 = Player("Sit Out", 110, 70, 0.0, 330, 160, 0.0, 100, 110, 0, "", 260, 160, "", 295, 160, False, 240, 175) #4
-player5 = Player("Sit Out", 420, 70, 0.0, 500, 160, 0.0, 500, 70, 0, "", 435, 160, "", 470, 160, False, 415, 170) #5
-player6 = Player("Sit Out", 780, 70, 0.0, 610, 200, 0.0, 790, 110, 0, "", 635, 160, "", 670, 160, False, 700, 170) #6
-player7 = Player("Sit Out", 820, 260, 0.0, 610, 250, 0.0, 820, 290, 0, "", 700, 240, "", 730, 240, False, 740, 280) #7
-player8 = Player("Sit Out", 780, 450, 0.0, 610, 300, 0.0, 780, 410, 0, "", 640, 340, "", 675, 340, False, 715, 340) #8
+player1 = Player("SitOut", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player2 = Player("SitOut", 110, 450, 0.0, 330, 340, 0.0, 100, 410, 0, "", 260, 340, "", 295, 340, False, 240, 345)
+player3 = Player("SitOut", 70, 260, 0.0, 255, 240, 0.0, 70, 290, 0, "", 190, 240, "", 225, 240, False, 205, 287)
+player4 = Player("SitOut", 110, 70, 0.0, 330, 160, 0.0, 100, 110, 0, "", 260, 160, "", 295, 160, False, 240, 175) #4
+player5 = Player("SitOut", 420, 70, 0.0, 500, 160, 0.0, 500, 70, 0, "", 435, 160, "", 470, 160, False, 415, 170) #5
+player6 = Player("SitOut", 780, 70, 0.0, 610, 200, 0.0, 790, 110, 0, "", 635, 160, "", 670, 160, False, 700, 170) #6
+player7 = Player("SitOut", 820, 260, 0.0, 610, 250, 0.0, 820, 290, 0, "", 700, 240, "", 730, 240, False, 740, 280) #7
+player8 = Player("SitOut", 780, 450, 0.0, 610, 300, 0.0, 780, 410, 0, "", 640, 340, "", 675, 340, False, 715, 340) #8
 
 pool = []
 pool.append(player1)
@@ -414,7 +414,7 @@ def dealer(carta):
     if carta == "ld":
         return img_card_back_ld
     
-    return img_card_nocard
+    return img_card_back
     
 
 def print_players_starting_info():
@@ -450,6 +450,64 @@ def extract_cards(line):
     # If the line does not start with "Dealt" or no match is found, return None
     return None
 
+def clear_seats():
+    global player1
+    global player2
+    global player3
+    global player4
+    global player5
+    global player6
+    global player7
+    global player8
+    global thetable
+    global label_title
+    player1.bet = 0.0
+    player1.card1 = ""
+    player1.card2 = ""
+    player1.card1 = img_back
+    player1.card2 = img_back
+
+    player2.bet = 0.0
+    player2.card1 = ""
+    player2.card2 = ""
+    player2.card1 = img_back
+    player2.card2 = img_back
+
+    player3.bet = 0.0
+    player3.card1 = ""
+    player3.card2 = ""
+    player3.card1 = img_back
+    player3.card2 = img_back
+
+    player4.bet = 0.0
+    player4.card1 = ""
+    player4.card2 = ""
+    player4.card1 = img_back
+    player4.card2 = img_back
+
+    player5.bet = 0.0
+    player5.card1 = ""
+    player5.card2 = ""
+    player5.card1 = img_back
+    player5.card2 = img_back
+
+    player6.bet = 0.0
+    player6.card1 = ""
+    player6.card2 = ""
+    player6.card1 = img_back
+    player6.card2 = img_back
+
+    player7.bet = 0.0
+    player7.card1 = ""
+    player7.card2 = ""
+    player7.card1 = img_back
+    player7.card2 = img_back
+
+    player8.bet = 0.0
+    player8.card1 = ""
+    player8.card2 = ""
+    player8.card1 = img_back
+    player8.card2 = img_back
 
 def extract_info(line):
     global player1
@@ -462,8 +520,6 @@ def extract_info(line):
     global player8
     global thetable
     global label_title
-
-    print(line)
 
     if line.startswith("PokerStars"):
         # If it is, set the flag to False
@@ -841,10 +897,11 @@ def next():
                 inside_summary = False
                 thetable.title = l
                 label_title.config(text=thetable.title)
+                clear_seats()
                 extract_info(l)
             # If the flag is False, print the l
             elif not inside_summary:
-                #print(l)
+                clear_seats
                 extract_info(l)
         #print_players_starting_info()
 
@@ -916,9 +973,11 @@ def previous():
                 inside_summary = False
                 thetable.title = l
                 label_title.config(text=thetable.title)
+                clear_seats()
                 extract_info(l)
             # If the flag is False, print the l
             elif not inside_summary:
+                clear_seats()
                 extract_info(l)
         #print_players_starting_info()
         hand_pointer -= 1
