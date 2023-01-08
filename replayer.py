@@ -31,6 +31,8 @@ actions = []
 global action_pointer
 action_pointer = -1
 
+global pool
+
 ws = Tk()
 ws.title('ReplayeR')
 ws.geometry('965x545')
@@ -202,6 +204,15 @@ img_card_back_ld = PhotoImage(file='assets\cards\\back_ld.png')
 img_card_nocard = PhotoImage(file='assets\cards\\nocard.png')
 
 def display():
+    global player1
+    global player2
+    global player3
+    global player4
+    global player5
+    global player6
+    global player7
+    global player8
+
     button_f1.config(image = dealer(thetable.flop1))
     button_f2.config(image = dealer(thetable.flop2))
     button_f3.config(image = dealer(thetable.flop3))
@@ -398,6 +409,10 @@ def dealer(carta):
         return img_card_3c
     if carta == "2c":
         return img_card_2c
+    if carta == "fo":
+        return img_card_back_fo
+    if carta == "ld":
+        return img_card_back_ld
     
     return img_card_nocard
     
@@ -608,9 +623,10 @@ def back():
     print("back")
     button_play.config(image = img_play)
     button_pause.config(image = img_pause)
-    action_pointer -= 1
+    if action_pointer:
+        action_pointer -= 1
     gather_info_from_action()
-    
+    #print_players_starting_info()
     display()
 
 def play():
@@ -692,11 +708,29 @@ def forward():
     button_pause.config(image = img_pause)
     action_pointer += 1
     gather_info_from_action()
+    #print_players_starting_info()
     display()
 
 def gather_info_from_action():
+    global bFileIsOpen
+    global bFileFinished
+    global storage
+    global hand_pointer
+    global number_of_hands
+    global step_pointer
+    global player1
+    global player2
+    global player3
+    global player4
+    global player5
+    global player6
+    global player7
+    global player8
+    global thetable
+    global label_title
     global actions
-    global action_pointer
+
+    infoto = actions[action_pointer]
     if action_pointer < 0:
         #go to previous hand
         previous()
@@ -704,7 +738,43 @@ def gather_info_from_action():
         #go to next hand
         next()
 
-    infoto = actions[action_pointer]
+    print("wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww")
+    print(infoto)
+    if 'bets' in infoto or 'raises' in infoto or 'calls' in infoto:
+        for p in pool:
+            if p.name in infoto:
+                floats = re.findall(r'[-+]?\d*\.\d+|\d+', infoto)
+                if floats:
+                    p.bet = float(floats[-1])
+                    p.stack -= p.bet
+    if 'folds' in infoto:
+        if player1.name in infoto:
+            player1.card1 = "fo"
+            player1.card2 = "ld"
+            #print_players_starting_info()
+        if player2.name in infoto:
+            player2.card1 = "fo"
+            player2.card2 = "ld"
+        if player3.name in infoto:
+            player3.card1 = "fo"
+            player3.card2 = "ld"
+        if player4.name in infoto:
+            player4.card1 = "fo"
+            player4.card2 = "ld"
+        if player5.name in infoto:
+            player5.card1 = "fo"
+            player5.card2 = "ld"
+        if player6.name in infoto:
+            player6.card1 = "fo"
+            player6.card2 = "ld"
+        if player7.name in infoto:
+            player7.card1 = "fo"
+            player7.card2 = "ld"
+        if player8.name in infoto:
+            player8.card1 = "fo"
+            player8.card2 = "ld"
+
+    
     print("len: " + str(len(actions)) + "////////////////////////////" + str(action_pointer))
     print(infoto)
     print("////////////////////////////")
@@ -776,12 +846,13 @@ def next():
             elif not inside_summary:
                 #print(l)
                 extract_info(l)
-        print_players_starting_info()
+        #print_players_starting_info()
 
         hand_pointer += 1    
     if hand_pointer == number_of_hands:
         bFileFinished = True
         print("Last Hand")
+    #print_players_starting_info()
     display()
     
 
@@ -849,11 +920,12 @@ def previous():
             # If the flag is False, print the l
             elif not inside_summary:
                 extract_info(l)
-        print_players_starting_info()
+        #print_players_starting_info()
         hand_pointer -= 1
     if hand_pointer == 0:
         #bFileFinished = True
         print("First Hand")
+    #print_players_starting_info()
     display()
 
 def open_f():
