@@ -442,9 +442,10 @@ def extract_info(line):
     global thetable
     global label_title
 
+    print(line)
+
     if line.startswith("PokerStars"):
         # If it is, set the flag to False
-        inside_summary = False
         thetable.title = line
         label_title.config(text=thetable.title)
 
