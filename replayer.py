@@ -25,6 +25,12 @@ step_pointer = 0
 
 global label_title
 
+global actions
+actions = []
+
+global action_pointer
+action_pointer = -1
+
 ws = Tk()
 ws.title('ReplayeR')
 ws.geometry('965x545')
@@ -593,6 +599,8 @@ def back():
     global player7
     global player8
     global thetable
+    global actions
+    global action_pointer
 
     if not bFileIsOpen:
         open_f()
@@ -600,6 +608,10 @@ def back():
     print("back")
     button_play.config(image = img_play)
     button_pause.config(image = img_pause)
+    action_pointer -= 1
+    gather_info_from_action()
+    
+    display()
 
 def play():
     global bFileIsOpen
@@ -617,6 +629,8 @@ def play():
     global player7
     global player8
     global thetable
+    global actions
+    global action_pointer
 
     if not bFileIsOpen:
         open_f()
@@ -641,6 +655,8 @@ def pause():
     global player7
     global player8
     global thetable
+    global actions
+    global action_pointer
 
     if not bFileIsOpen:
         open_f()
@@ -665,13 +681,28 @@ def forward():
     global player7
     global player8
     global thetable
+    global actions
+    global action_pointer
 
     if not bFileIsOpen:
         open_f()
-
+    
     print("forward")
     button_play.config(image = img_play)
     button_pause.config(image = img_pause)
+    action_pointer += 1
+    gather_info_from_action()
+    display()
+
+def gather_info_from_action():
+    global actions
+    global action_pointer
+    infoto = actions[action_pointer]
+    print("////////////////////////////" + str(action_pointer))
+    print(infoto)
+    print("////////////////////////////")
+
+
 
 def next():
     global bFileIsOpen
@@ -690,6 +721,8 @@ def next():
     global player8
     global thetable
     global label_title
+    global actions
+    global action_pointer
 
     if not bFileIsOpen:
         open_f()
@@ -703,7 +736,24 @@ def next():
         for l in storage[hand_pointer]:
             #print(l)
             inside_summary = False
-           #print(l)
+            if 'raises' in l:
+                actions.append(l)
+            if 'bets' in l:
+                actions.append(l)
+            if 'calls' in l:
+                actions.append(l)
+            if 'folds' in l:
+                actions.append(l)
+            if 'shows' in l:
+                actions.append(l)
+            if "*** SUMMARY ***" in l:
+                actions.append(l)
+            if "*** FLOP ***" in l:
+                actions.append(l)
+            if "*** TURN ***" in l:
+                actions.append(l)
+            if "*** RIVER ***" in l:
+                actions.append(l)
            # Check if the l is "*** SUMMARY ***"
             if "*** SUMMARY ***" in l:
                 # If it is, set the flag to True
@@ -745,6 +795,7 @@ def previous():
     global player8
     global thetable
     global label_title
+    global actions
 
     if not bFileIsOpen:
         open_f()
@@ -759,7 +810,24 @@ def previous():
     if bFileIsOpen and not bFileFinished and hand_pointer > 0:
         for l in storage[hand_pointer]:
             inside_summary = False
-           #print(l)
+            if 'raises' in l:
+                actions.append(l)
+            if 'bets' in l:
+                actions.append(l)
+            if 'calls' in l:
+                actions.append(l)
+            if 'folds' in l:
+                actions.append(l)
+            if 'shows' in l:
+                actions.append(l)
+            if "*** SUMMARY ***" in l:
+                actions.append(l)
+            if "*** FLOP ***" in l:
+                actions.append(l)
+            if "*** TURN ***" in l:
+                actions.append(l)
+            if "*** RIVER ***" in l:
+                actions.append(l)
            # Check if the l is "*** SUMMARY ***"
             if "*** SUMMARY ***" in l:
                 # If it is, set the flag to True
