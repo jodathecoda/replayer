@@ -89,19 +89,26 @@ global player7
 global player8
 #namex, namey, bet, betx, bety, stack, stackx, stacky,  seat, card1,   card1x,card1y card2, card2x, card2y button, buttonx, buttony):
 
-player1 = Player("Empty", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
-player2 = Player("Empty", 110, 450, 0.0, 330, 340, 0.0, 100, 410, 0, "", 260, 340, "", 295, 340, False, 240, 345)
-player3 = Player("Empty", 70, 260, 0.0, 255, 240, 0.0, 70, 290, 0, "", 190, 240, "", 225, 240, False, 205, 287)
-player4 = Player("Empty", 110, 70, 0.0, 330, 160, 0.0, 100, 110, 0, "", 260, 160, "", 295, 160, False, 240, 175) #4
-player5 = Player("Empty", 420, 70, 0.0, 500, 160, 0.0, 500, 70, 0, "", 435, 160, "", 470, 160, False, 415, 170) #5
-player6 = Player("Empty", 780, 70, 0.0, 610, 200, 0.0, 790, 110, 0, "", 635, 160, "", 670, 160, False, 700, 170) #6
-player7 = Player("Empty", 820, 260, 0.0, 610, 250, 0.0, 820, 290, 0, "", 700, 240, "", 730, 240, False, 740, 280) #7
-player8 = Player("Empty", 780, 450, 0.0, 610, 300, 0.0, 780, 410, 0, "", 640, 340, "", 675, 340, False, 715, 340) #8
+player1 = Player("Sit Out", 430, 450, 0.0, 500, 340, 0.0, 500, 450, 0, "", 435, 340, "", 470, 340, False, 415, 375)
+player2 = Player("Sit Out", 110, 450, 0.0, 330, 340, 0.0, 100, 410, 0, "", 260, 340, "", 295, 340, False, 240, 345)
+player3 = Player("Sit Out", 70, 260, 0.0, 255, 240, 0.0, 70, 290, 0, "", 190, 240, "", 225, 240, False, 205, 287)
+player4 = Player("Sit Out", 110, 70, 0.0, 330, 160, 0.0, 100, 110, 0, "", 260, 160, "", 295, 160, False, 240, 175) #4
+player5 = Player("Sit Out", 420, 70, 0.0, 500, 160, 0.0, 500, 70, 0, "", 435, 160, "", 470, 160, False, 415, 170) #5
+player6 = Player("Sit Out", 780, 70, 0.0, 610, 200, 0.0, 790, 110, 0, "", 635, 160, "", 670, 160, False, 700, 170) #6
+player7 = Player("Sit Out", 820, 260, 0.0, 610, 250, 0.0, 820, 290, 0, "", 700, 240, "", 730, 240, False, 740, 280) #7
+player8 = Player("Sit Out", 780, 450, 0.0, 610, 300, 0.0, 780, 410, 0, "", 640, 340, "", 675, 340, False, 715, 340) #8
 
-#player1 = Player("Alice",21.2, 100.0, 4, "As", "Kh", "raise")
+pool = []
+pool.append(player1)
+pool.append(player2)
+pool.append(player3)
+pool.append(player4)
+pool.append(player5)
+pool.append(player6)
+pool.append(player7)
+pool.append(player8)
 
 img = PhotoImage(file='assets\\table\\table5.png')
-#img = PhotoImage(file='images\\visteon.png')
 
 img_back = PhotoImage(file='assets\\buttons\\back_step.png')
 img_play = PhotoImage(file='assets\\buttons\\play.png')
@@ -188,6 +195,207 @@ img_card_back_fo = PhotoImage(file='assets\cards\\back_fo.png')
 img_card_back_ld = PhotoImage(file='assets\cards\\back_ld.png')
 img_card_nocard = PhotoImage(file='assets\cards\\nocard.png')
 
+def display():
+    button_f1.config(image = dealer(thetable.flop1))
+    button_f2.config(image = dealer(thetable.flop2))
+    button_f3.config(image = dealer(thetable.flop3))
+    button_t1.config(image = dealer(thetable.turn1))
+    button_r1.config(image = dealer(thetable.river1))
+    button_pot.config(text = str(thetable.pot))
+
+
+    label_player1.config(text=player1.name)
+    label_player1_stack.config(text=str(player1.stack))
+    if player1.button:
+        button_p1_db.place(x=player1.buttonx, y=player1.buttony)
+    else:
+        button_p1_db.place(x=9999, y=9999)
+    button_bet1.config(text = str(player1.bet))
+    button_p1c1.config(image = dealer(player1.card1))
+    button_p1c2.config(image = dealer(player1.card2))
+
+    label_player2.config(text=player2.name)
+    label_player2_stack.config(text=str(player2.stack))
+    if player2.button:
+        button_p2_db.place(x=player2.buttonx, y=player2.buttony)
+    else:
+        button_p2_db.place(x=9999, y=9999)
+    button_bet2.config(text = str(player2.bet))
+    button_p2c1.config(image = dealer(player2.card1))
+    button_p2c2.config(image = dealer(player2.card2))
+
+    label_player3.config(text=player3.name)
+    label_player3_stack.config(text=str(player3.stack))
+    if player3.button:
+        button_p3_db.place(x=player3.buttonx, y=player3.buttony)
+    else:
+        button_p3_db.place(x=9999, y=9999)
+    button_bet3.config(text = str(player3.bet))
+    button_p3c1.config(image = dealer(player3.card1))
+    button_p3c2.config(image = dealer(player3.card2))
+
+    label_player4.config(text=player4.name)
+    label_player4_stack.config(text=str(player4.stack))
+    if player4.button:
+        button_p4_db.place(x=player4.buttonx, y=player4.buttony)
+    else:
+        button_p4_db.place(x=9999, y=9999)
+    button_bet4.config(text = str(player4.bet))
+    button_p4c1.config(image = dealer(player4.card1))
+    button_p4c2.config(image = dealer(player4.card2))
+
+    label_player5.config(text=player5.name)
+    label_player5_stack.config(text=str(player5.stack))
+    if player5.button:
+        button_p5_db.place(x=player5.buttonx, y=player5.buttony)
+    else:
+        button_p5_db.place(x=9999, y=9999)
+    button_bet5.config(text = str(player5.bet))
+    button_p5c1.config(image = dealer(player5.card1))
+    button_p5c2.config(image = dealer(player5.card2))
+
+    label_player6.config(text=player6.name)
+    label_player6_stack.config(text=str(player6.stack))
+    if player6.button:
+        button_p6_db.place(x=player6.buttonx, y=player6.buttony)
+    else:
+        button_p6_db.place(x=9999, y=9999)
+    button_bet6.config(text = str(player6.bet))
+    button_p6c1.config(image = dealer(player6.card1))
+    button_p6c2.config(image = dealer(player6.card2))
+
+    label_player7.config(text=player7.name)
+    label_player7_stack.config(text=str(player7.stack))
+    if player7.button:
+        button_p7_db.place(x=player7.buttonx, y=player7.buttony)
+    else:
+        button_p7_db.place(x=9999, y=9999)
+    button_bet7.config(text = str(player7.bet))
+    button_p7c1.config(image = dealer(player7.card1))
+    button_p7c2.config(image = dealer(player7.card2))
+
+    label_player8.config(text=player8.name)
+    label_player8_stack.config(text=str(player8.stack))
+    if player8.button:
+        button_p8_db.place(x=player8.buttonx, y=player8.buttony)
+    else:
+        button_p8_db.place(x=9999, y=9999)
+    button_bet8.config(text = str(player8.bet))
+    button_p8c1.config(image = dealer(player8.card1))
+    button_p8c2.config(image = dealer(player8.card2))
+
+def dealer(carta):
+    if carta == "As":
+        return img_card_As
+    if carta == "Ks":
+        return img_card_Ks
+    if carta == "Qs":
+        return img_card_Qs
+    if carta == "Js":
+        return img_card_Js
+    if carta == "Ts":
+        return img_card_Ts
+    if carta == "9s":
+        return img_card_9s
+    if carta == "8s":
+        return img_card_8s
+    if carta == "7s":
+        return img_card_7s
+    if carta == "6s":
+        return img_card_6s
+    if carta == "5s":
+        return img_card_5s
+    if carta == "4s":
+        return img_card_4s
+    if carta == "3s":
+        return img_card_3s
+    if carta == "2s":
+        return img_card_2s
+
+    if carta == "Ah":
+        return img_card_Ah
+    if carta == "Kh":
+        return img_card_Kh
+    if carta == "Qh":
+        return img_card_Qh
+    if carta == "Jh":
+        return img_card_Jh
+    if carta == "Th":
+        return img_card_Th
+    if carta == "9h":
+        return img_card_9h
+    if carta == "8h":
+        return img_card_8h
+    if carta == "7h":
+        return img_card_7h
+    if carta == "6h":
+        return img_card_6h
+    if carta == "5h":
+        return img_card_5h
+    if carta == "4h":
+        return img_card_4h
+    if carta == "3h":
+        return img_card_3h
+    if carta == "2h":
+        return img_card_2h
+    
+    if carta == "Ad":
+        return img_card_Ad
+    if carta == "Kd":
+        return img_card_Kd
+    if carta == "Qd":
+        return img_card_Qd
+    if carta == "Jd":
+        return img_card_Jd
+    if carta == "Td":
+        return img_card_Td
+    if carta == "9d":
+        return img_card_9d
+    if carta == "8d":
+        return img_card_8d
+    if carta == "7d":
+        return img_card_7d
+    if carta == "6d":
+        return img_card_6d
+    if carta == "5d":
+        return img_card_5d
+    if carta == "4d":
+        return img_card_4d
+    if carta == "3d":
+        return img_card_3d
+    if carta == "2d":
+        return img_card_2d
+
+    if carta == "Ac":
+        return img_card_Ac
+    if carta == "Kc":
+        return img_card_Kc
+    if carta == "Qc":
+        return img_card_Qc
+    if carta == "Jc":
+        return img_card_Jc
+    if carta == "Tc":
+        return img_card_Tc
+    if carta == "9c":
+        return img_card_9c
+    if carta == "8c":
+        return img_card_8c
+    if carta == "7c":
+        return img_card_7c
+    if carta == "6c":
+        return img_card_6c
+    if carta == "5c":
+        return img_card_5c
+    if carta == "4c":
+        return img_card_4c
+    if carta == "3c":
+        return img_card_3c
+    if carta == "2c":
+        return img_card_2c
+    
+    return img_card_nocard
+    
+
 def print_players_starting_info():
     global player1
     global player2
@@ -210,7 +418,7 @@ def print_players_starting_info():
     print(str(player8.seat) + " " + player8.name + " " + str(player8.stack) + " " + player8.card1 + " " + player8.card2 + " " + str(player8.bet) + " " + str(player8.button))
 
 def extract_cards(line):
-    print(line)
+    #print(line)
     # Check if the line starts with "Dealt"
     if line.startswith("Dealt to"):
         # Use a regular expression to find the cards
@@ -485,8 +693,8 @@ def next():
     if not bFileIsOpen:
         open_f()
 
+    thetable.pot = 0.0
     step_pointer = 0
-    Pot = 0.0
     print("next")
     button_play.config(image = img_play)
     button_pause.config(image = img_pause)
@@ -516,6 +724,7 @@ def next():
     if hand_pointer == number_of_hands:
         bFileFinished = True
         print("Last Hand")
+    display()
     
 
 def previous():
@@ -540,7 +749,7 @@ def previous():
         open_f()
 
     step_pointer = 0
-    Pot = 0.0
+    thetable.pot = 0.0
 
     print("previous")
     button_play.config(image = img_play)
@@ -569,6 +778,7 @@ def previous():
     if hand_pointer == 0:
         #bFileFinished = True
         print("First Hand")
+    display()
 
 def open_f():
     global bFileIsOpen
@@ -640,8 +850,6 @@ text = Text(
     width=53
 )
 
-#label_player1 = Label(height=1, width=6, text="Player1", bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
-#label_player1.place(x=430, y=450)
 
 label_player1 = Label(height=1, width=6, text=player1.name, bg='black', fg='lightblue',font=('Times New Roman', 15, 'bold'))
 label_player1.place(x=player1.namex, y=player1.namey)
