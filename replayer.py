@@ -223,6 +223,18 @@ def display():
 
     label_player1.config(text=player1.name)
     ps1 = round(player1.stack,2)
+    if player1.name == "SitOut":
+        label_player1.place(x=9999, y=9999)
+        label_player1_stack.place(x=9999, y=9999)
+        button_bet1.place(x=9999, y=9999)
+        button_p1c1.place(x=9999, y=9999)
+        button_p1c2.place(x=9999, y=9999)
+    else:
+        label_player1.place(x=player1.namex, y=player1.namey)
+        label_player1_stack.place(x=player1.stackx, y=player1.stacky)
+        button_bet1.place(x=player1.betx, y=player1.bety)
+        button_p1c1.place(x=player1.card1x, y=player1.card1y)
+        button_p1c2.place(x=player1.card2x, y=player1.card2y)
     label_player1_stack.config(text=str(ps1))
     if player1.button:
         button_p1_db.place(x=player1.buttonx, y=player1.buttony)
@@ -234,6 +246,18 @@ def display():
 
     label_player2.config(text=player2.name)
     ps2 = round(player2.stack,2)
+    if player2.name == "SitOut":
+        label_player2.place(x=9999, y=9999)
+        label_player2_stack.place(x=9999, y=9999)
+        button_bet2.place(x=9999, y=9999)
+        button_p1c2.place(x=9999, y=9999)
+        button_p2c2.place(x=9999, y=9999)
+    else:
+        label_player2.place(x=player2.namex, y=player2.namey)
+        label_player2_stack.place(x=player2.stackx, y=player2.stacky)
+        button_bet2.place(x=player2.betx, y=player2.bety)
+        button_p2c1.place(x=player2.card1x, y=player2.card1y)
+        button_p2c2.place(x=player2.card2x, y=player2.card2y)
     label_player2_stack.config(text=str(ps2))
     if player2.button:
         button_p2_db.place(x=player2.buttonx, y=player2.buttony)
@@ -245,6 +269,18 @@ def display():
 
     label_player3.config(text=player3.name)
     ps3 = round(player3.stack,2)
+    if player3.name == "SitOut":
+        label_player3.place(x=9999, y=9999)
+        label_player3_stack.place(x=9999, y=9999)
+        button_bet3.place(x=9999, y=9999)
+        button_p3c1.place(x=9999, y=9999)
+        button_p3c2.place(x=9999, y=9999)
+    else:
+        label_player3.place(x=player3.namex, y=player3.namey)
+        label_player3_stack.place(x=player3.stackx, y=player3.stacky)
+        button_bet3.place(x=player3.betx, y=player3.bety)
+        button_p3c1.place(x=player3.card1x, y=player3.card1y)
+        button_p3c2.place(x=player3.card2x, y=player3.card2y)
     label_player3_stack.config(text=str(ps3))
     if player3.button:
         button_p3_db.place(x=player3.buttonx, y=player3.buttony)
@@ -256,6 +292,18 @@ def display():
 
     label_player4.config(text=player4.name)
     ps4 = round(player4.stack,2)
+    if player4.name == "SitOut":
+        label_player4.place(x=9999, y=9999)
+        label_player4_stack.place(x=9999, y=9999)
+        button_bet4.place(x=9999, y=9999)
+        button_p4c1.place(x=9999, y=9999)
+        button_p4c2.place(x=9999, y=9999)
+    else:
+        label_player4.place(x=player4.namex, y=player4.namey)
+        label_player4_stack.place(x=player4.stackx, y=player4.stacky)
+        button_bet4.place(x=player4.betx, y=player4.bety)
+        button_p4c1.place(x=player4.card1x, y=player4.card1y)
+        button_p4c2.place(x=player4.card2x, y=player4.card2y)
     label_player4_stack.config(text=str(ps4))
     if player4.button:
         button_p4_db.place(x=player4.buttonx, y=player4.buttony)
@@ -267,6 +315,18 @@ def display():
 
     label_player5.config(text=player5.name)
     ps5 = round(player5.stack,2)
+    if player5.name == "SitOut":
+        label_player5.place(x=9999, y=9999)
+        label_player5_stack.place(x=9999, y=9999)
+        button_bet5.place(x=9999, y=9999)
+        button_p5c1.place(x=9999, y=9999)
+        button_p5c2.place(x=9999, y=9999)
+    else:
+        label_player5.place(x=player5.namex, y=player5.namey)
+        label_player5_stack.place(x=player5.stackx, y=player5.stacky)
+        button_bet5.place(x=player5.betx, y=player5.bety)
+        button_p5c1.place(x=player5.card1x, y=player5.card1y)
+        button_p5c2.place(x=player5.card2x, y=player5.card2y)
     label_player5_stack.config(text=str(ps5))
     if player5.button:
         button_p5_db.place(x=player5.buttonx, y=player5.buttony)
@@ -278,6 +338,18 @@ def display():
 
     label_player6.config(text=player6.name)
     ps6 = round(player6.stack,2)
+    if player6.name == "SitOut":
+        label_player6.place(x=9999, y=9999)
+        label_player6_stack.place(x=9999, y=9999)
+        button_bet6.place(x=9999, y=9999)
+        button_p6c1.place(x=9999, y=9999)
+        button_p6c2.place(x=9999, y=9999)
+    else:
+        label_player6.place(x=player6.namex, y=player6.namey)
+        label_player6_stack.place(x=player6.stackx, y=player6.stacky)
+        button_bet6.place(x=player6.betx, y=player6.bety)
+        button_p6c1.place(x=player6.card1x, y=player6.card1y)
+        button_p6c2.place(x=player6.card2x, y=player6.card2y)
     label_player6_stack.config(text=str(ps6))
     if player6.button:
         button_p6_db.place(x=player6.buttonx, y=player6.buttony)
@@ -289,6 +361,18 @@ def display():
 
     label_player7.config(text=player7.name)
     ps7 = round(player7.stack,2)
+    if player7.name == "SitOut":
+        label_player7.place(x=9999, y=9999)
+        label_player7_stack.place(x=9999, y=9999)
+        button_bet7.place(x=9999, y=9999)
+        button_p7c1.place(x=9999, y=9999)
+        button_p7c2.place(x=9999, y=9999)
+    else:
+        label_player7.place(x=player7.namex, y=player7.namey)
+        label_player7_stack.place(x=player7.stackx, y=player7.stacky)
+        button_bet7.place(x=player7.betx, y=player7.bety)
+        button_p7c1.place(x=player7.card1x, y=player7.card1y)
+        button_p7c2.place(x=player7.card2x, y=player7.card2y)
     label_player7_stack.config(text=str(ps7))
     if player7.button:
         button_p7_db.place(x=player7.buttonx, y=player7.buttony)
@@ -300,6 +384,18 @@ def display():
 
     label_player8.config(text=player8.name)
     ps8 = round(player8.stack,2)
+    if player8.name == "SitOut":
+        label_player8.place(x=9999, y=9999)
+        label_player8_stack.place(x=9999, y=9999)
+        button_bet8.place(x=9999, y=9999)
+        button_p8c1.place(x=9999, y=9999)
+        button_p8c2.place(x=9999, y=9999)
+    else:
+        label_player8.place(x=player8.namex, y=player8.namey)
+        label_player8_stack.place(x=player8.stackx, y=player8.stacky)
+        button_bet8.place(x=player8.betx, y=player8.bety)
+        button_p8c1.place(x=player8.card1x, y=player8.card1y)
+        button_p8c2.place(x=player8.card2x, y=player8.card2y)
     label_player8_stack.config(text=str(ps8))
     if player8.button:
         button_p8_db.place(x=player8.buttonx, y=player8.buttony)
@@ -841,13 +937,21 @@ def gather_info_from_action():
         next()
 
     print(infoto)
-    if 'bets' in infoto or 'raises' in infoto or 'calls' in infoto:
+    if 'bets' in infoto or 'raises' in infoto:
         for p in pool:
             if p.name in infoto:
                 floats = re.findall(r'[-+]?\d*\.\d+|\d+', infoto)
                 if floats:
-                    p.bet = float(floats[-1])
-                    p.stack -= p.bet
+                    p.bet += float(floats[-1])
+                    p.stack -= float(floats[-1])
+
+    if 'calls' in infoto:
+        for p in pool:
+            if p.name in infoto:
+                floats = re.findall(r'[-+]?\d*\.\d+|\d+', infoto)
+                if floats:
+                    p.bet += float(floats[-1])
+                    p.stack -= float(floats[-1])
 
     raw_pot  = player1.bet + player2.bet + player3.bet + player4.bet + player5.bet + player6.bet + player7.bet + player8.bet
     thetable.pot = round(raw_pot,2)
