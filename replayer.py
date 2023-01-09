@@ -1264,6 +1264,7 @@ def open_f():
             else:
                 storage[-1].append(line)
         number_of_hands = len(storage)
+    next()
         
 def settings():
     global bFileIsOpen
@@ -1468,30 +1469,36 @@ label_title = Label(text=thetable.title, bg='black', fg='red',font=('Times New R
 label_title.place(x=125,y= 10)
 
 button_previous = Button(image = img_previous, command = previous)
-button_previous.place(x=340, y=500)
+#button_previous.place(x=340, y=500)
+button_previous.place(x=9999, y=9999)
 
 button_back = Button(image = img_back, command = back)
-button_back.place(x=390, y=500)
+#button_back.place(x=390, y=500)
+button_back.place(x=9999, y=9999)
 
 button_play = Button(image = img_play, command = play)
-button_play.place(x=440, y=500)
+#button_play.place(x=440, y=500)
+button_play.place(x=9999, y=9999)
 
 button_pause = Button(image = img_pause, command = pause)
-button_pause.place(x=490, y=500)
+#button_pause.place(x=490, y=500)
+button_pause.place(x=9999, y=9999)
 
 button_forward = Button(image = img_forward, command = forward)
-button_forward.place(x=540, y=500)
+button_forward.place(x=490, y=500)
+#button_forward.place(x=540, y=500)
 
 button_next = Button(image = img_next, command = next)
-button_next.place(x=590, y=500)
+#button_next.place(x=590, y=500)
+button_next.place(x=9999, y=9999)
 
 button_open = Button(image = img_open, command = open_f)
-button_open.place(x=60, y=10)
+button_open.place(x=450, y=500)
 #button_open.place(x=560, y=10)
 
 button_settings = Button(image = img_settings, command = settings)
-button_settings.place(x=10, y=10)
-#button_settings.place(x=510, y=10)
+#button_settings.place(x=10, y=10)
+button_settings.place(x=9999, y=9999)
 
 label_subs = Label(text="", bg='black', fg='goldenrod',font=('Times New Roman', 13, 'bold'))
 label_subs.place(x=10,y= 490)
