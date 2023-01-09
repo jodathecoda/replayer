@@ -1012,6 +1012,24 @@ def gather_info_from_action():
         elif player8.name in infoto:
             player8.card1 = cards[0]
             player8.card2 = cards[1]
+    if "*** SUMMARY ***" in infoto:
+        #clear cards
+        player1.card1 = ""
+        player1.card2 = ""
+        player2.card1 = ""
+        player2.card2 = ""
+        player3.card1 = ""
+        player3.card2 = ""
+        player4.card1 = ""
+        player4.card2 = ""
+        player5.card1 = ""
+        player5.card2 = ""
+        player6.card1 = ""
+        player6.card2 = ""
+        player7.card1 = ""
+        player7.card2 = ""
+        player8.card1 = ""
+        player8.card2 = ""
     
     if "*** FLOP ***" in infoto:
         cards = extract_cards_gather(infoto)
@@ -1078,8 +1096,8 @@ def next():
                 actions.append(l)
             if 'shows' in l:
                 actions.append(l)
-            #if "*** SUMMARY ***" in l:
-            #    actions.append(l)
+            if "*** SUMMARY ***" in l:
+                actions.append(l)
             if "*** FLOP ***" in l:
                 actions.append(l)
             if "*** TURN ***" in l:
