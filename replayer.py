@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import filedialog as fd
 import re
+import time
 
 global hide
 hide = 999 #to hide unused images, add this var to x and y
@@ -938,7 +939,19 @@ def gather_info_from_action():
         next()
 
     print(infoto)
-    if 'bets' in infoto or 'raises' in infoto:
+    if 'raises' in infoto:
+        for p in pool:
+            if p.name in infoto:
+                floats = re.findall(r'[-+]?\d*\.\d+|\d+', infoto)
+                if floats:
+                    p.bet = float(floats[-1])
+                    p.stack -= float(floats[-1])
+                    bet = round(p.bet,2)
+                    stack = round(p.stack,2)
+                    p.bet = bet
+                    p.stack = stack
+
+    if 'bets' in infoto:
         for p in pool:
             if p.name in infoto:
                 floats = re.findall(r'[-+]?\d*\.\d+|\d+', infoto)
@@ -994,9 +1007,6 @@ def gather_info_from_action():
             player8.card2 = "ld"
     
     if 'shows' in infoto:
-        print("==========================")
-        print(infoto)
-        print("==========================")
         cards = extract_cards_gather(infoto)
         if player1.name in infoto:
             player1.card1 = cards[0]
@@ -1111,6 +1121,7 @@ def next():
                 actions.append(l)
             if "*** SUMMARY ***" in l:
                 actions.append(l)
+                pass
             if "*** FLOP ***" in l:
                 actions.append(l)
             if "*** TURN ***" in l:
@@ -1449,7 +1460,7 @@ button_t1.place(x=thetable.turn1x, y=thetable.turn1y)
 button_r1 = Button(image = img_card_back)
 button_r1.place(x=thetable.river1x, y=thetable.river1y)
 
-button_pot = Button(text="$$$", bg='green', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_pot = Button(text="POT", bg='green', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_pot.place(x=thetable.potx, y=thetable.poty)
 
 
