@@ -1,0 +1,4969 @@
+Game Hand #369594695 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:01:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+Game Hand #369595884 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:02:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1420.00)
+Seat 2: Villain (1580.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 9d]
+Hero raises 40.00 to 50.00
+Villain raises 70.00 to 90.00
+Hero calls 40.00
+*** FLOP *** [Kh Qc 2h]
+Main pot 180.00
+Villain checks
+Hero checks
+*** TURN *** [Kh Qc 2h] [Qd]
+Main pot 180.00
+Villain checks
+Hero bets 110.00
+Villain raises 220.00 to 220.00
+Hero folds
+Uncalled bet (110.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [Kh Qc 2h Qd]
+Seat 1: Hero (button) folded on the Turn
+Seat 2: Villain did not show and won 400.00
+
+Game Hand #369597261 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:03:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1220.00)
+Seat 2: Villain (1780.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5h As]
+Villain raises 30.00 to 40.00
+Hero raises 100.00 to 120.00
+Villain calls 80.00
+*** FLOP *** [4s 9c Jd]
+Main pot 240.00
+Hero bets 100.00
+Villain raises 1660.00 to 1660.00 and is all-in
+Hero folds
+Uncalled bet (1560.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 440.00
+Board [4s 9c Jd]
+Seat 1: Hero (big blind) folded on the Flop
+Seat 2: Villain did not show and won 440.00
+
+Game Hand #369598158 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:03:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1000.00)
+Seat 2: Villain (2000.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5s 3d]
+Hero raises 30.00 to 40.00
+Villain calls 20.00
+*** FLOP *** [2s Qc 2c]
+Main pot 80.00
+Villain checks
+Hero bets 40.00
+Villain folds
+Uncalled bet (40.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2s Qc 2c]
+Seat 1: Hero did not show and won 80.00
+Seat 2: Villain (big blind) folded on the Flop
+
+Game Hand #369598751 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:04:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1040.00)
+Seat 2: Villain (1960.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [4c Qs]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [Ah 5d Ks]
+Main pot 40.00
+Hero checks
+Villain bets 30.00
+Hero raises 90.00 to 90.00
+Villain calls 60.00
+*** TURN *** [Ah 5d Ks] [3d]
+Main pot 220.00
+Hero bets 110.00
+Villain calls 110.00
+*** RIVER *** [Ah 5d Ks 3d] [6h]
+Main pot 440.00
+Hero bets 330.00
+Villain calls 330.00
+*** SHOW DOWN ***
+Main pot 1100.00
+Hero shows [4c Qs] (a high card, Ace high [Ah Ks Qs 6h 5d])
+Villain shows [Kh 4s] (a pair of Kings [Ks Kh Ah 6h 5d])
+Villain collected 1100.00 from main pot
+*** SUMMARY ***
+Total pot 1100.00
+Board [Ah 5d Ks 3d 6h]
+Seat 1: Hero (big blind) showed [4c Qs] and lost with a high card, Ace high [Ah Ks Qs 6h 5d]
+Seat 2: Villain (button) showed [Kh 4s] and won 1100.00 with a pair of Kings [Ks Kh Ah 6h 5d]
+
+Game Hand #369600198 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (490.00)
+Seat 2: Villain (2510.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 5d]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [Qc Jc 5s]
+Main pot 100.00
+Villain bets 60.00
+Hero folds
+Uncalled bet (60.00) returned to Villain
+Villain shows [Kd 8d] (a high card, King high [Kd Qc Jc 8d 5s])
+*** SUMMARY ***
+Total pot 100.00
+Board [Qc Jc 5s]
+Seat 1: Hero (button) folded on the Flop
+Seat 2: Villain (big blind) showed [Kd 8d] and won 100.00 with a high card, King high [Kd Qc Jc 8d 5s]
+
+Game Hand #369600774 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (440.00)
+Seat 2: Villain (2560.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc 8d]
+Villain raises 2550.00 to 2560.00 and is all-in
+Hero folds
+Uncalled bet (2540.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 40.00
+
+Game Hand #369601015 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (420.00)
+Seat 2: Villain (2580.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6h Td]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #369601330 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (410.00)
+Seat 2: Villain (2590.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Js 9s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #369601549 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (420.00)
+Seat 2: Villain (2580.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3c Ah]
+Hero raises 30.00 to 40.00
+Villain folds
+Uncalled bet (20.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero did not show and won 40.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #369603186 - Tournament #20748573 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/23 23:06:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (440.00)
+Seat 2: Villain (2560.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [4c 5s]
+Villain raises 2545.00 to 2560.00 and is all-in
+Hero folds
+Uncalled bet (2530.00) returned to Villain
+Villain shows [7d 3c]
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain (button) showed [7d 3c] and won 60.00
+
+Game Hand #369603466 - Tournament #20748573 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/23 23:07:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (410.00)
+Seat 2: Villain (2590.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 9h]
+Hero calls 15.00
+Villain raises 2560.00 to 2590.00 and is all-in
+Hero calls 380.00 and is all-in
+Uncalled bet (2180.00) returned to Villain
+*** FLOP *** [4d 2h Qc]
+Main pot 820.00
+*** TURN *** [4d 2h Qc] [Ks]
+Main pot 820.00
+*** RIVER *** [4d 2h Qc Ks] [5h]
+Main pot 820.00
+*** SHOW DOWN ***
+Main pot 820.00
+Hero shows [8s 9h] (a high card, King high [Ks Qc 9h 8s 5h])
+Villain shows [7c Ah] (a high card, Ace high [Ah Ks Qc 7c 5h])
+Villain collected 820.00 from main pot
+*** SUMMARY ***
+Total pot 820.00
+Board [4d 2h Qc Ks 5h]
+Seat 1: Hero (button) showed [8s 9h] and lost with a high card, King high [Ks Qc 9h 8s 5h]
+Seat 2: Villain (big blind) showed [7c Ah] and won 820.00 with a high card, Ace high [Ah Ks Qc 7c 5h]
+Game Hand #369615767 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:14:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1500.00)
+Seat 2: Hero (1500.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 5d]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [2h Jh 2d]
+Main pot 40.00
+Hero bets 20.00
+Villain calls 20.00
+*** TURN *** [2h Jh 2d] [3h]
+Main pot 80.00
+Hero checks
+Villain bets 50.00
+Hero folds
+Uncalled bet (50.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2h Jh 2d 3h]
+Seat 1: Villain did not show and won 80.00
+Seat 2: Hero (big blind) folded on the Turn
+
+Game Hand #369617473 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:15:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1540.00)
+Seat 2: Hero (1460.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Ad]
+Hero raises 50.00 to 60.00
+Villain calls 40.00
+*** FLOP *** [Ks Qh Qd]
+Main pot 120.00
+Villain checks
+Hero bets 40.00
+Villain folds
+Uncalled bet (40.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Ks Qh Qd]
+Seat 1: Villain (big blind) folded on the Flop
+Seat 2: Hero did not show and won 120.00
+
+Game Hand #369618409 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:15:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1480.00)
+Seat 2: Hero (1520.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 4h]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [Ac Ks 6c]
+Main pot 40.00
+Hero bets 20.00
+Villain folds
+Uncalled bet (20.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Ac Ks 6c]
+Seat 1: Villain (button) folded on the Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #369619432 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:16:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1460.00)
+Seat 2: Hero (1540.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9d 4d]
+Hero calls 10.00
+Villain checks
+*** FLOP *** [9c Jd Ts]
+Main pot 40.00
+Villain bets 30.00
+Hero folds
+Uncalled bet (30.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [9c Jd Ts]
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (button) folded on the Flop
+
+Game Hand #369620514 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:17:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1480.00)
+Seat 2: Hero (1520.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 4d]
+Villain raises 50.00 to 60.00
+Hero folds
+Uncalled bet (40.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #369621757 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:17:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1500.00) is sitting out
+Seat 2: Hero (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Ks]
+Hero raises 30.00 to 40.00
+Villain folds
+Uncalled bet (20.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #369622006 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:18:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1480.00)
+Seat 2: Hero (1520.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 4c]
+Villain raises 50.00 to 60.00
+Hero folds
+Uncalled bet (40.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+Game Hand #369604972 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:08:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 4s]
+Villain raises 30.00 to 40.00
+Hero raises 100.00 to 120.00
+Villain calls 80.00
+*** FLOP *** [Kd 2s 4c]
+Main pot 240.00
+Hero bets 120.00
+Villain folds
+Uncalled bet (120.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Kd 2s 4c]
+Seat 1: Hero did not show and won 240.00
+Seat 2: Villain (button) folded on the Flop
+
+Game Hand #369606434 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:08:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1620.00)
+Seat 2: Villain (1380.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8c Kc]
+Hero raises 50.00 to 60.00
+Villain calls 40.00
+*** FLOP *** [Jc Jh 9s]
+Main pot 120.00
+Villain bets 40.00
+Hero calls 40.00
+*** TURN *** [Jc Jh 9s] [3h]
+Main pot 200.00
+Villain checks
+Hero checks
+*** RIVER *** [Jc Jh 9s 3h] [Th]
+Main pot 200.00
+Villain bets 50.00
+Hero calls 50.00
+*** SHOW DOWN ***
+Main pot 300.00
+Villain shows [3s Td] (two pair, Jacks and Tens [Jh Jc Th Td 9s])
+Hero mucks hand
+Villain collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [Jc Jh 9s 3h Th]
+Seat 1: Hero (button) mucked [8c Kc]
+Seat 2: Villain (big blind) showed [3s Td] and won 300.00 with two pair, Jacks and Tens [Jh Jc Th Td 9s]
+
+Game Hand #369607780 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:09:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1470.00)
+Seat 2: Villain (1530.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2s 9d]
+Villain raises 30.00 to 40.00
+Hero folds
+Uncalled bet (20.00) returned to Villain
+Villain shows [3s Td]
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain (button) showed [3s Td] and won 40.00
+
+Game Hand #369608144 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:09:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1450.00)
+Seat 2: Villain (1550.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 3s]
+Hero raises 30.00 to 40.00
+Villain raises 80.00 to 100.00
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 140.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 140.00
+
+Game Hand #369608502 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:10:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1410.00)
+Seat 2: Villain (1590.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 7d]
+Villain raises 40.00 to 50.00
+Hero calls 30.00
+*** FLOP *** [8c 2s As]
+Main pot 100.00
+Hero checks
+Villain checks
+*** TURN *** [8c 2s As] [Js]
+Main pot 100.00
+Hero bets 75.00
+Villain raises 190.00 to 190.00
+Hero raises 1285.00 to 1360.00 and is all-in
+Villain calls 1170.00
+*** RIVER *** [8c 2s As Js] [8h]
+Main pot 2820.00
+*** SHOW DOWN ***
+Main pot 2820.00
+Hero shows [Ac 7d] (two pair, Aces and Eights [As Ac 8h 8c Js])
+Villain shows [8s 8d] (four of a kind, Four Eights [8s 8h 8d 8c As])
+Villain collected 2820.00 from main pot
+*** SUMMARY ***
+Total pot 2820.00
+Board [8c 2s As Js 8h]
+Seat 1: Hero (big blind) showed [Ac 7d] and lost with two pair, Aces and Eights [As Ac 8h 8c Js]
+Seat 2: Villain (button) showed [8s 8d] and won 2820.00 with four of a kind, Four Eights [8s 8h 8d 8c As]
+
+Game Hand #370681982 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:03:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2s 2c]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [8h Jc Qd]
+Main pot 40.00
+Hero checks
+Villain bets 40.00
+Hero folds
+Uncalled bet (40.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [8h Jc Qd]
+Seat 1: Hero (big blind) folded on the Flop
+Seat 2: Villain did not show and won 40.00
+
+Game Hand #370682577 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:03:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1480.00)
+Seat 2: Villain (1520.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 6h]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [9h 9d 8c]
+Main pot 100.00
+Villain checks
+Hero checks
+*** TURN *** [9h 9d 8c] [Tc]
+Main pot 100.00
+Villain bets 100.00
+Hero folds
+Uncalled bet (100.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [9h 9d 8c Tc]
+Seat 1: Hero (button) folded on the Turn
+Seat 2: Villain did not show and won 100.00
+
+Game Hand #370683387 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:04:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1430.00)
+Seat 2: Villain (1570.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5d Qh]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #370683857 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:04:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1440.00)
+Seat 2: Villain (1560.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc 8s]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero did not show and won 40.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #370684535 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:04:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1460.00)
+Seat 2: Villain (1540.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 2s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #370685085 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:05:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1470.00)
+Seat 2: Villain (1530.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Td]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero did not show and won 40.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #370685701 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:05:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1490.00)
+Seat 2: Villain (1510.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 7h]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #370685841 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:05:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc Qs]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [5s 9d 7c]
+Main pot 100.00
+Villain bets 50.00
+Hero raises 150.00 to 150.00
+Villain calls 100.00
+*** TURN *** [5s 9d 7c] [Th]
+Main pot 400.00
+Villain checks
+Hero bets 300.00
+Villain calls 300.00
+*** RIVER *** [5s 9d 7c Th] [3h]
+Main pot 1000.00
+Villain bets 1000.00 and is all-in
+Hero calls 1000.00 and is all-in
+*** SHOW DOWN ***
+Main pot 3000.00
+Hero shows [Qc Qs] (a pair of Queens [Qs Qc Th 9d 7c])
+Villain shows [8d 4d] (a high card, Ten high [Th 9d 8d 7c 5s])
+Hero collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [5s 9d 7c Th 3h]
+Seat 1: Hero (button) showed [Qc Qs] and won 3000.00 with a pair of Queens [Qs Qc Th 9d 7c]
+Seat 2: Villain (big blind) showed [8d 4d] and lost with a high card, Ten high [Th 9d 8d 7c 5s]
+
+Game Hand #370692733 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:10:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1500.00)
+Seat 2: Hero (1500.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6c 7d]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [8h 4c Ac]
+Main pot 40.00
+Hero checks
+Villain checks
+*** TURN *** [8h 4c Ac] [Ts]
+Main pot 40.00
+Hero bets 20.00
+Villain folds
+Uncalled bet (20.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [8h 4c Ac Ts]
+Seat 1: Villain (button) folded on the Turn
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370693577 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:10:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1480.00)
+Seat 2: Hero (1520.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 6s]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370693893 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:10:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1460.00)
+Seat 2: Hero (1540.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Js 8s]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [Jd Tc Th]
+Main pot 40.00
+Hero checks
+Villain bets 1440.00 and is all-in
+Hero folds
+Uncalled bet (1440.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Jd Tc Th]
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (big blind) folded on the Flop
+
+Game Hand #370694707 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:11:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1480.00)
+Seat 2: Hero (1520.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Th Js]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370694998 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:11:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1460.00)
+Seat 2: Hero (1540.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6s Ks]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370695181 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:11:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1450.00)
+Seat 2: Hero (1550.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [As 8h]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370695453 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:11:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1430.00)
+Seat 2: Hero (1570.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 8s]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [Tc 6s Kh]
+Main pot 40.00
+Hero checks
+Villain checks
+*** TURN *** [Tc 6s Kh] [8h]
+Main pot 40.00
+Hero bets 30.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Tc 6s Kh 8h]
+Seat 1: Villain (button) folded on the Turn
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370696199 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:12:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1410.00)
+Seat 2: Hero (1590.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 9d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain did not show and won 30.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #370696453 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:12:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1420.00)
+Seat 2: Hero (1580.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Th]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370696606 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:12:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1410.00)
+Seat 2: Hero (1590.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs Ad]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370696911 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:12:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1390.00)
+Seat 2: Hero (1610.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3s Jc]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370697076 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:12:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1380.00)
+Seat 2: Hero (1620.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 9h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain did not show and won 30.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #370697330 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:12:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1390.00)
+Seat 2: Hero (1610.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3h 3c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370697515 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:12:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1380.00)
+Seat 2: Hero (1620.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd Ts]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370697911 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:13:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1360.00)
+Seat 2: Hero (1640.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9h Ah]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370698073 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:13:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1350.00)
+Seat 2: Hero (1650.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 9d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain did not show and won 30.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #370698275 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:13:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1360.00)
+Seat 2: Hero (1640.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2c Qd]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370698429 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:13:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1350.00)
+Seat 2: Hero (1650.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Kd]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [9h Qs Kc]
+Main pot 100.00
+Villain checks
+Hero bets 75.00
+Villain calls 75.00
+*** TURN *** [9h Qs Kc] [5d]
+Main pot 250.00
+Villain checks
+Hero bets 188.00
+Villain folds
+Uncalled bet (188.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [9h Qs Kc 5d]
+Seat 1: Villain (big blind) folded on the Turn
+Seat 2: Hero did not show and won 250.00
+
+Game Hand #370699439 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:14:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1225.00)
+Seat 2: Hero (1775.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9s Ac]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370699647 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:14:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1215.00)
+Seat 2: Hero (1785.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 4c]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370699949 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:14:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1195.00)
+Seat 2: Hero (1805.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 3d]
+Villain raises 1185.00 to 1195.00 and is all-in
+Hero folds
+Uncalled bet (1175.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #370700207 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:14:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1215.00)
+Seat 2: Hero (1785.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Jc]
+Hero raises 40.00 to 50.00
+Villain raises 1195.00 to 1215.00 and is all-in
+Hero folds
+Uncalled bet (1165.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain did not show and won 100.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #370700678 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:14:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1265.00)
+Seat 2: Hero (1735.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc 8c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370700858 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:14:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1255.00)
+Seat 2: Hero (1745.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Jd]
+Hero raises 30.00 to 40.00
+Villain folds
+Uncalled bet (20.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #370701101 - Tournament #20757975 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:15:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1235.00)
+Seat 2: Hero (1765.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6h Kh]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #370701274 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:15:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1225.00)
+Seat 2: Hero (1775.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 7h]
+Hero raises 45.00 to 60.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 60.00
+
+Game Hand #370701503 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:15:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1195.00)
+Seat 2: Hero (1805.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [5d 4c]
+Villain calls 15.00
+Hero checks
+*** FLOP *** [Ac 9c As]
+Main pot 60.00
+Hero checks
+Villain checks
+*** TURN *** [Ac 9c As] [Kd]
+Main pot 60.00
+Hero bets 45.00
+Villain folds
+Uncalled bet (45.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Ac 9c As Kd]
+Seat 1: Villain (button) folded on the Turn
+Seat 2: Hero did not show and won 60.00
+
+Game Hand #370702270 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:15:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1165.00)
+Seat 2: Hero (1835.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Ac]
+Hero raises 60.00 to 75.00
+Villain folds
+Uncalled bet (45.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 60.00
+
+Game Hand #370702584 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:15:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1135.00)
+Seat 2: Hero (1865.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 2s]
+Villain raises 1120.00 to 1135.00 and is all-in
+Hero folds
+Uncalled bet (1105.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain did not show and won 60.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #370702833 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:16:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1165.00)
+Seat 2: Hero (1835.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [4h Ks]
+Hero raises 45.00 to 60.00
+Villain calls 30.00
+*** FLOP *** [8c 9d Td]
+Main pot 120.00
+Villain checks
+Hero checks
+*** TURN *** [8c 9d Td] [Ac]
+Main pot 120.00
+Villain checks
+Hero checks
+*** RIVER *** [8c 9d Td Ac] [Js]
+Main pot 120.00
+Villain checks
+Hero checks
+*** SHOW DOWN ***
+Main pot 120.00
+Villain shows [6h 5s] (a high card, Ace high [Ac Js Td 9d 8c])
+Hero shows [4h Ks] (a high card, Ace high [Ac Ks Js Td 9d])
+Hero collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [8c 9d Td Ac Js]
+Seat 1: Villain (big blind) showed [6h 5s] and lost with a high card, Ace high [Ac Js Td 9d 8c]
+Seat 2: Hero (button) showed [4h Ks] and won 120.00 with a high card, Ace high [Ac Ks Js Td 9d] with the kicker King
+
+Game Hand #370703794 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:16:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1105.00)
+Seat 2: Hero (1895.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd 8h]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 45.00
+
+Game Hand #370703983 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:16:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1090.00)
+Seat 2: Hero (1910.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Td]
+Hero raises 45.00 to 60.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 60.00
+
+Game Hand #370704232 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:16:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1060.00)
+Seat 2: Hero (1940.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah Tc]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 45.00
+
+Game Hand #370704404 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:16:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1045.00)
+Seat 2: Hero (1955.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [4h 5c]
+Hero raises 45.00 to 60.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 60.00
+
+Game Hand #370704622 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:17:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1015.00)
+Seat 2: Hero (1985.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [7c 4c]
+Villain raises 1000.00 to 1015.00 and is all-in
+Hero folds
+Uncalled bet (985.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain did not show and won 60.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #370704890 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:17:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1045.00)
+Seat 2: Hero (1955.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Ks]
+Hero raises 45.00 to 60.00
+Villain calls 30.00
+*** FLOP *** [6c Ad 2c]
+Main pot 120.00
+Villain bets 985.00 and is all-in
+Hero folds
+Uncalled bet (985.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [6c Ad 2c]
+Seat 1: Villain did not show and won 120.00
+Seat 2: Hero (button) folded on the Flop
+
+Game Hand #370705408 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:17:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1105.00)
+Seat 2: Hero (1895.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [5s 5d]
+Villain calls 15.00
+Hero checks
+*** FLOP *** [Ks Jd Th]
+Main pot 60.00
+Hero checks
+Villain bets 1075.00 and is all-in
+Hero folds
+Uncalled bet (1075.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Ks Jd Th]
+Seat 1: Villain did not show and won 60.00
+Seat 2: Hero (big blind) folded on the Flop
+
+Game Hand #370706037 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:17:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1135.00)
+Seat 2: Hero (1865.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 5s]
+Hero raises 45.00 to 60.00
+Villain calls 30.00
+*** FLOP *** [4c 9s 3s]
+Main pot 120.00
+Villain checks
+Hero bets 60.00
+Villain folds
+Uncalled bet (60.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [4c 9s 3s]
+Seat 1: Villain (big blind) folded on the Flop
+Seat 2: Hero did not show and won 120.00
+
+Game Hand #370706666 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:18:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1075.00)
+Seat 2: Hero (1925.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [7s 8c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 45.00
+
+Game Hand #370706829 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:18:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1060.00)
+Seat 2: Hero (1940.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Jh 3c]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Villain did not show and won 45.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #370707053 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:18:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1075.00)
+Seat 2: Hero (1925.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad Th]
+Villain calls 15.00
+Hero raises 60.00 to 90.00
+Villain calls 60.00
+*** FLOP *** [Jd 2c 6d]
+Main pot 180.00
+Hero bets 90.00
+Villain raises 985.00 to 985.00 and is all-in
+Hero folds
+Uncalled bet (895.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [Jd 2c 6d]
+Seat 1: Villain did not show and won 360.00
+Seat 2: Hero (big blind) folded on the Flop
+
+Game Hand #370708074 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:19:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1255.00)
+Seat 2: Hero (1745.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 9s]
+Hero raises 45.00 to 60.00
+Villain calls 30.00
+*** FLOP *** [Kc 5s 3h]
+Main pot 120.00
+Villain bets 1195.00 and is all-in
+Hero folds
+Uncalled bet (1195.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Kc 5s 3h]
+Seat 1: Villain did not show and won 120.00
+Seat 2: Hero (button) folded on the Flop
+
+Game Hand #370708748 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:19:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1315.00)
+Seat 2: Hero (1685.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Th 2d]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 45.00
+
+Game Hand #370708944 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:19:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1300.00)
+Seat 2: Hero (1700.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 5s]
+Hero raises 45.00 to 60.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 60.00
+
+Game Hand #370709211 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:19:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1270.00)
+Seat 2: Hero (1730.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [9s Jh]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 45.00
+
+Game Hand #370709384 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:19:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1255.00)
+Seat 2: Hero (1745.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Kc]
+Hero raises 45.00 to 60.00
+Villain raises 1225.00 to 1255.00 and is all-in
+Hero folds
+Uncalled bet (1195.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: Villain did not show and won 120.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #370709749 - Tournament #20757975 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/24 18:20:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1315.00)
+Seat 2: Hero (1685.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [5h Td]
+Villain calls 15.00
+Hero checks
+*** FLOP *** [2d Jd 6s]
+Main pot 60.00
+Hero checks
+Villain checks
+*** TURN *** [2d Jd 6s] [Jc]
+Main pot 60.00
+Hero checks
+Villain checks
+*** RIVER *** [2d Jd 6s Jc] [8h]
+Main pot 60.00
+Hero bets 30.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [2d Jd 6s Jc 8h]
+Seat 1: Villain (button) folded on the River
+Seat 2: Hero did not show and won 60.00
+
+Game Hand #370710699 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:20:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1285.00)
+Seat 2: Hero (1715.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [As 4h]
+Hero raises 75.00 to 100.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 100.00
+
+Game Hand #370710995 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:20:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1235.00)
+Seat 2: Hero (1765.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Th]
+Villain raises 1210.00 to 1235.00 and is all-in
+Hero folds
+Uncalled bet (1185.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain did not show and won 100.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #370711347 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:20:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1285.00)
+Seat 2: Hero (1715.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Kh]
+Hero raises 75.00 to 100.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 100.00
+
+Game Hand #370711631 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:21:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1235.00)
+Seat 2: Hero (1765.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [6c Th]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 75.00
+
+Game Hand #370711803 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:21:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1210.00)
+Seat 2: Hero (1790.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Qs]
+Hero raises 75.00 to 100.00
+Villain calls 50.00
+*** FLOP *** [5d 8d 7s]
+Main pot 200.00
+Villain checks
+Hero checks
+*** TURN *** [5d 8d 7s] [Js]
+Main pot 200.00
+Villain checks
+Hero checks
+*** RIVER *** [5d 8d 7s Js] [6s]
+Main pot 200.00
+Villain bets 1110.00 and is all-in
+Hero folds
+Uncalled bet (1110.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [5d 8d 7s Js 6s]
+Seat 1: Villain did not show and won 200.00
+Seat 2: Hero (button) folded on the River
+
+Game Hand #370712886 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:21:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1310.00)
+Seat 2: Hero (1690.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9h 6h]
+Villain calls 25.00
+Hero checks
+*** FLOP *** [Qh 6d Qc]
+Main pot 100.00
+Hero bets 50.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Qh 6d Qc]
+Seat 1: Villain (button) folded on the Flop
+Seat 2: Hero did not show and won 100.00
+
+Game Hand #370713412 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:22:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1260.00)
+Seat 2: Hero (1740.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Ks]
+Hero raises 75.00 to 100.00
+Villain calls 50.00
+*** FLOP *** [9s 3h Qc]
+Main pot 200.00
+Villain checks
+Hero bets 100.00
+Villain folds
+Uncalled bet (100.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [9s 3h Qc]
+Seat 1: Villain (big blind) folded on the Flop
+Seat 2: Hero did not show and won 200.00
+
+Game Hand #370714071 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:22:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1160.00)
+Seat 2: Hero (1840.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Jc]
+Villain calls 25.00
+Hero raises 100.00 to 150.00
+Villain calls 100.00
+*** FLOP *** [As 2h 3c]
+Main pot 300.00
+Hero bets 150.00
+Villain calls 150.00
+*** TURN *** [As 2h 3c] [6c]
+Main pot 600.00
+Hero checks
+Villain checks
+*** RIVER *** [As 2h 3c 6c] [Ah]
+Main pot 600.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 600.00
+Hero shows [Kc Jc] (a pair of Aces [As Ah Kc Jc 6c])
+Villain mucks hand
+Hero collected 600.00 from main pot
+*** SUMMARY ***
+Total pot 600.00
+Board [As 2h 3c 6c Ah]
+Seat 1: Villain (button) mucked [Jh 4h]
+Seat 2: Hero (big blind) showed [Kc Jc] and won 600.00 with a pair of Aces [As Ah Kc Jc 6c] with the kicker King
+
+Game Hand #370715253 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:23:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (860.00)
+Seat 2: Hero (2140.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9h 7d]
+Hero raises 75.00 to 100.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 100.00
+
+Game Hand #370715541 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:23:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (810.00)
+Seat 2: Hero (2190.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [2c 9s]
+Villain raises 785.00 to 810.00 and is all-in
+Hero folds
+Uncalled bet (760.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain did not show and won 100.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #370715867 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:23:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (860.00)
+Seat 2: Hero (2140.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [7h 4d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Villain did not show and won 75.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #370716089 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:23:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (885.00)
+Seat 2: Hero (2115.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [4s Kh]
+Villain raises 860.00 to 885.00 and is all-in
+Hero folds
+Uncalled bet (835.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain did not show and won 100.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #370716362 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:23:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (935.00)
+Seat 2: Hero (2065.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [5d 7d]
+Hero raises 75.00 to 100.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 100.00
+
+Game Hand #370716681 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:23:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (885.00)
+Seat 2: Hero (2115.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kd]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 75.00
+
+Game Hand #370716852 - Tournament #20757975 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/24 18:24:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (860.00)
+Seat 2: Hero (2140.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8h]
+Hero raises 75.00 to 100.00
+Villain raises 810.00 to 860.00 and is all-in
+Hero calls 760.00
+*** FLOP *** [Th 8s 3d]
+Main pot 1720.00
+*** TURN *** [Th 8s 3d] [Tc]
+Main pot 1720.00
+*** RIVER *** [Th 8s 3d Tc] [Jh]
+Main pot 1720.00
+*** SHOW DOWN ***
+Main pot 1720.00
+Villain shows [Qd 4h] (a pair of Tens [Th Tc Qd Jh 8s])
+Hero shows [Ac 8h] (two pair, Tens and Eights [Th Tc 8s 8h Ac])
+Hero collected 1720.00 from main pot
+*** SUMMARY ***
+Total pot 1720.00
+Board [Th 8s 3d Tc Jh]
+Seat 1: Villain (big blind) showed [Qd 4h] and lost with a pair of Tens [Th Tc Qd Jh 8s]
+Seat 2: Hero (button) showed [Ac 8h] and won 1720.00 with two pair, Tens and Eights [Th Tc 8s 8h Ac]
+
+Game Hand #372161581 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:49:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1500.00)
+Seat 2: Hero (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9d As]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [2d 3d 7h]
+Main pot 100.00
+Villain checks
+Hero bets 75.00
+Villain raises 263.00 to 263.00
+Hero folds
+Uncalled bet (188.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [2d 3d 7h]
+Seat 1: Villain did not show and won 250.00
+Seat 2: Hero (button) folded on the Flop
+
+Game Hand #372161778 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:50:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1625.00)
+Seat 2: Hero (1375.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [4d 6h]
+Villain raises 50.00 to 60.00
+Hero folds
+Uncalled bet (40.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #372161860 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:50:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1645.00)
+Seat 2: Hero (1355.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [4s 3d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain did not show and won 30.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #372161916 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:50:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1655.00)
+Seat 2: Hero (1345.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 9c]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [Ks 9s 6d]
+Main pot 80.00
+Hero bets 40.00
+Villain calls 40.00
+*** TURN *** [Ks 9s 6d] [Jd]
+Main pot 160.00
+Hero checks
+Villain checks
+*** RIVER *** [Ks 9s 6d Jd] [2d]
+Main pot 160.00
+Hero bets 80.00
+Villain calls 80.00
+*** SHOW DOWN ***
+Main pot 320.00
+Hero shows [Kh 9c] (two pair, Kings and Nines [Ks Kh 9s 9c Jd])
+Villain mucks hand
+Hero collected 320.00 from main pot
+*** SUMMARY ***
+Total pot 320.00
+Board [Ks 9s 6d Jd 2d]
+Seat 1: Villain (button) mucked [7h 9h]
+Seat 2: Hero (big blind) showed [Kh 9c] and won 320.00 with two pair, Kings and Nines [Ks Kh 9s 9c Jd]
+
+Game Hand #372162205 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:51:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1495.00)
+Seat 2: Hero (1505.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc 2h]
+Hero raises 30.00 to 40.00
+Villain calls 20.00
+*** FLOP *** [9c 5c Js]
+Main pot 80.00
+Villain bets 20.00
+Hero calls 20.00
+*** TURN *** [9c 5c Js] [Qd]
+Main pot 120.00
+Villain bets 20.00
+Hero folds
+Uncalled bet (20.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [9c 5c Js Qd]
+Seat 1: Villain did not show and won 120.00
+Seat 2: Hero (button) folded on the Turn
+
+Game Hand #372162516 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:52:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1555.00)
+Seat 2: Hero (1445.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Ad]
+Villain raises 40.00 to 50.00
+Hero calls 30.00
+*** FLOP *** [4h Qd 4c]
+Main pot 100.00
+Hero checks
+Villain checks
+*** TURN *** [4h Qd 4c] [Qs]
+Main pot 100.00
+Hero checks
+Villain bets 50.00
+Hero calls 50.00
+*** RIVER *** [4h Qd 4c Qs] [9c]
+Main pot 200.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 200.00
+Hero shows [8s Ad] (two pair, Queens and Fours [Qs Qd 4h 4c Ad])
+Villain shows [Ac Th] (two pair, Queens and Fours [Qs Qd 4h 4c Ac])
+Villain collected 100.00 from main pot
+Hero collected 100.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [4h Qd 4c Qs 9c]
+Seat 1: Villain (button) showed [Ac Th] and won 100.00 with two pair, Queens and Fours [Qs Qd 4h 4c Ac]
+Seat 2: Hero (big blind) showed [8s Ad] and won 100.00 with two pair, Queens and Fours [Qs Qd 4h 4c Ad]
+
+Game Hand #372162830 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:53:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1555.00)
+Seat 2: Hero (1445.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [4s Ts]
+Hero raises 30.00 to 40.00
+Villain calls 20.00
+*** FLOP *** [9c Ks 3d]
+Main pot 80.00
+Villain checks
+Hero bets 40.00
+Villain folds
+Uncalled bet (40.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9c Ks 3d]
+Seat 1: Villain (big blind) folded on the Flop
+Seat 2: Hero did not show and won 80.00
+
+Game Hand #372162987 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:53:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1515.00)
+Seat 2: Hero (1485.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 6s]
+Villain raises 40.00 to 50.00
+Hero calls 30.00
+*** FLOP *** [2d 6h 4h]
+Main pot 100.00
+Hero checks
+Villain checks
+*** TURN *** [2d 6h 4h] [5h]
+Main pot 100.00
+Hero bets 50.00
+Villain calls 50.00
+*** RIVER *** [2d 6h 4h 5h] [Ah]
+Main pot 200.00
+Hero checks
+Villain bets 200.00
+Hero folds
+Uncalled bet (200.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [2d 6h 4h 5h Ah]
+Seat 1: Villain did not show and won 200.00
+Seat 2: Hero (big blind) folded on the River
+
+Game Hand #372163279 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:54:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1615.00)
+Seat 2: Hero (1385.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2s Qc]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain did not show and won 30.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #372163334 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:54:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1625.00)
+Seat 2: Hero (1375.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8d Qc]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 30.00
+
+Game Hand #372163399 - Tournament #20767871 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 10:54:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1615.00)
+Seat 2: Hero (1385.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5d 5h]
+Hero raises 30.00 to 40.00
+Villain calls 20.00
+*** FLOP *** [3s 5c Qh]
+Main pot 80.00
+Villain checks
+Hero bets 40.00
+Villain folds
+Uncalled bet (40.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [3s 5c Qh]
+Seat 1: Villain (big blind) folded on the Flop
+Seat 2: Hero did not show and won 80.00
+
+Game Hand #372163533 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:55:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1575.00)
+Seat 2: Hero (1425.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 6d]
+Villain raises 45.00 to 60.00
+Hero calls 30.00
+*** FLOP *** [Tc Jh Kd]
+Main pot 120.00
+Hero checks
+Villain bets 45.00
+Hero folds
+Uncalled bet (45.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Tc Jh Kd]
+Seat 1: Villain did not show and won 120.00
+Seat 2: Hero (big blind) folded on the Flop
+
+Game Hand #372163643 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:55:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1635.00)
+Seat 2: Hero (1365.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 7h]
+Hero raises 60.00 to 75.00
+Villain calls 45.00
+*** FLOP *** [Qc Qd Ac]
+Main pot 150.00
+Villain checks
+Hero checks
+*** TURN *** [Qc Qd Ac] [3d]
+Main pot 150.00
+Villain bets 75.00
+Hero raises 195.00 to 195.00
+Villain raises 1485.00 to 1560.00 and is all-in
+Hero folds
+Uncalled bet (1365.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 540.00
+Board [Qc Qd Ac 3d]
+Seat 1: Villain did not show and won 540.00
+Seat 2: Hero (button) folded on the Turn
+
+Game Hand #372163882 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:56:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1905.00)
+Seat 2: Hero (1095.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad 6d]
+Villain raises 45.00 to 60.00
+Hero calls 30.00
+*** FLOP *** [8c 4s Jc]
+Main pot 120.00
+Hero checks
+Villain bets 60.00
+Hero folds
+Uncalled bet (60.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [8c 4s Jc]
+Seat 1: Villain did not show and won 120.00
+Seat 2: Hero (big blind) folded on the Flop
+
+Game Hand #372163988 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:57:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1965.00)
+Seat 2: Hero (1035.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 2h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Villain did not show and won 45.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #372164027 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:57:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1980.00)
+Seat 2: Hero (1020.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Kc]
+Villain raises 45.00 to 60.00
+Hero calls 30.00
+*** FLOP *** [5c 8c 7s]
+Main pot 120.00
+Hero bets 90.00
+Villain folds
+Uncalled bet (90.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [5c 8c 7s]
+Seat 1: Villain (button) folded on the Flop
+Seat 2: Hero did not show and won 120.00
+
+Game Hand #372164101 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:57:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1920.00)
+Seat 2: Hero (1080.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [9h Td]
+Hero raises 60.00 to 75.00
+Villain calls 45.00
+*** FLOP *** [4h 5h 4c]
+Main pot 150.00
+Villain checks
+Hero checks
+*** TURN *** [4h 5h 4c] [Kc]
+Main pot 150.00
+Villain checks
+Hero bets 75.00
+Villain calls 75.00
+*** RIVER *** [4h 5h 4c Kc] [8s]
+Main pot 300.00
+Villain checks
+Hero checks
+*** SHOW DOWN ***
+Main pot 300.00
+Villain shows [Ts Kh] (two pair, Kings and Fours [Kh Kc 4h 4c Ts])
+Hero mucks hand
+Villain collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [4h 5h 4c Kc 8s]
+Seat 1: Villain (big blind) showed [Ts Kh] and won 300.00 with two pair, Kings and Fours [Kh Kc 4h 4c Ts]
+Seat 2: Hero (button) mucked [9h Td]
+
+Game Hand #372164272 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:58:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (2070.00)
+Seat 2: Hero (930.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [6s 4c]
+Villain calls 15.00
+Hero checks
+*** FLOP *** [6d 8h 4s]
+Main pot 60.00
+Hero bets 45.00
+Villain calls 45.00
+*** TURN *** [6d 8h 4s] [3d]
+Main pot 150.00
+Hero bets 150.00
+Villain calls 150.00
+*** RIVER *** [6d 8h 4s 3d] [As]
+Main pot 450.00
+Hero bets 450.00
+Villain folds
+Uncalled bet (450.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [6d 8h 4s 3d As]
+Seat 1: Villain (button) folded on the River
+Seat 2: Hero did not show and won 450.00
+
+Game Hand #372164452 - Tournament #20767871 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 10:59:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1845.00)
+Seat 2: Hero (1155.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc Jd]
+Hero raises 60.00 to 75.00
+Villain calls 45.00
+*** FLOP *** [Qs 6c Td]
+Main pot 150.00
+Villain checks
+Hero checks
+*** TURN *** [Qs 6c Td] [7d]
+Main pot 150.00
+Villain checks
+Hero bets 75.00
+Villain calls 75.00
+*** RIVER *** [Qs 6c Td 7d] [7h]
+Main pot 300.00
+Villain checks
+Hero bets 105.00
+Villain calls 105.00
+*** SHOW DOWN ***
+Main pot 510.00
+Hero shows [Jc Jd] (two pair, Jacks and Sevens [Jd Jc 7h 7d Qs])
+Villain mucks hand
+Hero collected 510.00 from main pot
+*** SUMMARY ***
+Total pot 510.00
+Board [Qs 6c Td 7d 7h]
+Seat 1: Villain (big blind) mucked [3s Ah]
+Seat 2: Hero (button) showed [Jc Jd] and won 510.00 with two pair, Jacks and Sevens [Jd Jc 7h 7d Qs]
+
+Game Hand #372164659 - Tournament #20767871 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 11:00:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1590.00)
+Seat 2: Hero (1410.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Jh 8h]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 75.00
+
+Game Hand #372164736 - Tournament #20767871 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 11:00:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1565.00)
+Seat 2: Hero (1435.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 5h]
+Hero raises 75.00 to 100.00
+Villain calls 50.00
+*** FLOP *** [2c 5c 6d]
+Main pot 200.00
+Villain bets 50.00
+Hero calls 50.00
+*** TURN *** [2c 5c 6d] [Jh]
+Main pot 300.00
+Villain checks
+Hero bets 150.00
+Villain folds
+Uncalled bet (150.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [2c 5c 6d Jh]
+Seat 1: Villain (big blind) folded on the Turn
+Seat 2: Hero did not show and won 300.00
+
+Game Hand #372164980 - Tournament #20767871 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 11:01:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1415.00)
+Seat 2: Hero (1585.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [5d Td]
+Villain raises 75.00 to 100.00
+Hero calls 50.00
+*** FLOP *** [9h 3s 2d]
+Main pot 200.00
+Hero checks
+Villain checks
+*** TURN *** [9h 3s 2d] [9c]
+Main pot 200.00
+Hero checks
+Villain checks
+*** RIVER *** [9h 3s 2d 9c] [4d]
+Main pot 200.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 200.00
+Hero shows [5d Td] (a pair of Nines [9h 9c Td 5d 4d])
+Villain shows [8h Qd] (a pair of Nines [9h 9c Qd 8h 4d])
+Villain collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [9h 3s 2d 9c 4d]
+Seat 1: Villain (button) showed [8h Qd] and won 200.00 with a pair of Nines [9h 9c Qd 8h 4d] with the kicker Queen
+Seat 2: Hero (big blind) showed [5d Td] and lost with a pair of Nines [9h 9c Td 5d 4d]
+
+Game Hand #372165211 - Tournament #20767871 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 11:02:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1515.00)
+Seat 2: Hero (1485.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Jh]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Villain did not show and won 75.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #372165257 - Tournament #20767871 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 11:02:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1540.00)
+Seat 2: Hero (1460.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 2s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Villain (button) folded on the Pre-Flop
+Seat 2: Hero did not show and won 75.00
+
+Game Hand #372165286 - Tournament #20767871 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 11:02:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1515.00)
+Seat 2: Hero (1485.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 9c]
+Hero raises 75.00 to 100.00
+Villain calls 50.00
+*** FLOP *** [8s 4s 9d]
+Main pot 200.00
+Villain checks
+Hero checks
+*** TURN *** [8s 4s 9d] [3h]
+Main pot 200.00
+Villain bets 100.00
+Hero calls 100.00
+*** RIVER *** [8s 4s 9d 3h] [As]
+Main pot 400.00
+Villain checks
+Hero bets 200.00
+Villain raises 1315.00 to 1315.00 and is all-in
+Hero calls 1085.00 and is all-in
+Uncalled bet (30.00) returned to Villain
+*** SHOW DOWN ***
+Main pot 2970.00
+Villain shows [Ks 5d] (a high card, Ace high [As Ks 9d 8s 5d])
+Hero shows [9s 9c] (three of a kind, Set of Nines [9s 9d 9c As 8s])
+Hero collected 2970.00 from main pot
+*** SUMMARY ***
+Total pot 2970.00
+Board [8s 4s 9d 3h As]
+Seat 1: Villain (big blind) showed [Ks 5d] and lost with a high card, Ace high [As Ks 9d 8s 5d]
+Seat 2: Hero (button) showed [9s 9c] and won 2970.00 with three of a kind, Set of Nines [9s 9d 9c As 8s]
+
+Game Hand #372165679 - Tournament #20767871 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 11:03:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (30.00)
+Seat 2: Hero (2970.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [7c Ac]
+Villain calls 5.00 and is all-in
+Uncalled bet (20.00) returned to Hero
+*** FLOP *** [9d 9c Jh]
+Main pot 60.00
+*** TURN *** [9d 9c Jh] [7h]
+Main pot 60.00
+*** RIVER *** [9d 9c Jh 7h] [7s]
+Main pot 60.00
+*** SHOW DOWN ***
+Main pot 60.00
+Villain shows [5c 2d] (two pair, Nines and Sevens [9d 9c 7s 7h Jh])
+Hero shows [7c Ac] (a full house, Sevens full of Nines [7s 7h 7c 9d 9c])
+Hero collected 60.00 from main pot
+*** SUMMARY ***
+Total pot 60.00
+Board [9d 9c Jh 7h 7s]
+Seat 1: Villain (button) showed [5c 2d] and lost with two pair, Nines and Sevens [9d 9c 7s 7h Jh]
+Seat 2: Hero (big blind) showed [7c Ac] and won 60.00 with a full house, Sevens full of Nines [7s 7h 7c 9d 9c]
+
+Game Hand #372275005 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:48:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [7h 2s]
+Villain raises 30.00 to 40.00
+Hero folds
+Uncalled bet (20.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 40.00
+
+Game Hand #372275145 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:49:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1480.00)
+Seat 2: Villain (1520.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6s 2s]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #372275244 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:49:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1470.00)
+Seat 2: Villain (1530.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9c 3c]
+Villain raises 30.00 to 40.00
+Hero folds
+Uncalled bet (20.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 40.00
+
+Game Hand #372275346 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:49:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1450.00)
+Seat 2: Villain (1550.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3c Ad]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [6d 5h Jc]
+Main pot 100.00
+Villain checks
+Hero bets 50.00
+Villain calls 50.00
+*** TURN *** [6d 5h Jc] [Kd]
+Main pot 200.00
+Villain checks
+Hero bets 100.00
+Villain calls 100.00
+*** RIVER *** [6d 5h Jc Kd] [Kc]
+Main pot 400.00
+Villain checks
+Hero checks
+*** SHOW DOWN ***
+Main pot 400.00
+Villain shows [8d 7h] (a pair of Kings [Kd Kc Jc 8d 7h])
+Hero shows [3c Ad] (a pair of Kings [Kd Kc Ad Jc 6d])
+Hero collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [6d 5h Jc Kd Kc]
+Seat 1: Hero (button) showed [3c Ad] and won 400.00 with a pair of Kings [Kd Kc Ad Jc 6d] with the kicker Ace
+Seat 2: Villain (big blind) showed [8d 7h] and lost with a pair of Kings [Kd Kc Jc 8d 7h]
+
+Game Hand #372275876 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:50:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1650.00)
+Seat 2: Villain (1350.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh 5s]
+Villain raises 30.00 to 40.00
+Hero folds
+Uncalled bet (20.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 40.00
+
+Game Hand #372276024 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:50:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1630.00)
+Seat 2: Villain (1370.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 7d]
+Hero raises 30.00 to 40.00
+Villain calls 20.00
+*** FLOP *** [Td As Jd]
+Main pot 80.00
+Villain checks
+Hero checks
+*** TURN *** [Td As Jd] [9c]
+Main pot 80.00
+Villain checks
+Hero checks
+*** RIVER *** [Td As Jd 9c] [5c]
+Main pot 80.00
+Villain checks
+Hero bets 30.00
+Villain calls 30.00
+*** SHOW DOWN ***
+Main pot 140.00
+Hero shows [9s 7d] (a pair of Nines [9s 9c As Jd Td])
+Villain mucks hand
+Hero collected 140.00 from main pot
+*** SUMMARY ***
+Total pot 140.00
+Board [Td As Jd 9c 5c]
+Seat 1: Hero (button) showed [9s 7d] and won 140.00 with a pair of Nines [9s 9c As Jd Td]
+Seat 2: Villain (big blind) mucked [5d 7s]
+
+Game Hand #372276516 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1700.00)
+Seat 2: Villain (1300.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs Ah]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372276592 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1710.00)
+Seat 2: Villain (1290.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 6s]
+Hero raises 30.00 to 40.00
+Villain folds
+Uncalled bet (20.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero did not show and won 40.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372276732 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1730.00)
+Seat 2: Villain (1270.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc 9d]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [2d 4c 3h]
+Main pot 80.00
+Hero checks
+Villain bets 80.00
+Hero folds
+Uncalled bet (80.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2d 4c 3h]
+Seat 1: Hero (big blind) folded on the Flop
+Seat 2: Villain did not show and won 80.00
+
+Game Hand #372277067 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1690.00)
+Seat 2: Villain (1310.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 6h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #372277191 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1680.00)
+Seat 2: Villain (1320.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Qh]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [9h 3d Jh]
+Main pot 80.00
+Hero checks
+Villain bets 20.00
+Hero calls 20.00
+*** TURN *** [9h 3d Jh] [2s]
+Main pot 120.00
+Hero checks
+Villain bets 20.00
+Hero calls 20.00
+*** RIVER *** [9h 3d Jh 2s] [3c]
+Main pot 160.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 160.00
+Hero shows [8s Qh] (a pair of Threes [3d 3c Qh Jh 9h])
+Villain shows [Ah 4h] (a pair of Threes [3d 3c Ah Jh 9h])
+Villain collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [9h 3d Jh 2s 3c]
+Seat 1: Hero (big blind) showed [8s Qh] and lost with a pair of Threes [3d 3c Qh Jh 9h]
+Seat 2: Villain (button) showed [Ah 4h] and won 160.00 with a pair of Threes [3d 3c Ah Jh 9h] with the kicker Ace
+
+Game Hand #372277787 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:52:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1600.00)
+Seat 2: Villain (1400.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 5c]
+Hero raises 30.00 to 40.00
+Villain calls 20.00
+*** FLOP *** [9s Ah 9h]
+Main pot 80.00
+Villain bets 20.00
+Hero folds
+Uncalled bet (20.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9s Ah 9h]
+Seat 1: Hero (button) folded on the Flop
+Seat 2: Villain did not show and won 80.00
+
+Game Hand #372278081 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:53:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1560.00)
+Seat 2: Villain (1440.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 3s]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [7h 7c Kc]
+Main pot 80.00
+Hero checks
+Villain bets 20.00
+Hero calls 20.00
+*** TURN *** [7h 7c Kc] [6d]
+Main pot 120.00
+Hero bets 60.00
+Villain calls 60.00
+*** RIVER *** [7h 7c Kc 6d] [9d]
+Main pot 240.00
+Hero bets 100.00
+Villain folds
+Uncalled bet (100.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [7h 7c Kc 6d 9d]
+Seat 1: Hero did not show and won 240.00
+Seat 2: Villain (button) folded on the River
+
+Game Hand #372278664 - Tournament #20768729 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 14:54:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1680.00)
+Seat 2: Villain (1320.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Ah]
+Hero raises 60.00 to 75.00
+Villain raises 1290.00 to 1320.00 and is all-in
+Hero calls 1245.00
+*** FLOP *** [Qc Ad Kd]
+Main pot 2640.00
+*** TURN *** [Qc Ad Kd] [5d]
+Main pot 2640.00
+*** RIVER *** [Qc Ad Kd 5d] [Jc]
+Main pot 2640.00
+*** SHOW DOWN ***
+Main pot 2640.00
+Hero shows [Kh Ah] (two pair, Aces and Kings [Ah Ad Kh Kd Qc])
+Villain shows [7c 7d] (a pair of Sevens [7d 7c Ad Kd Qc])
+Hero collected 2640.00 from main pot
+*** SUMMARY ***
+Total pot 2640.00
+Board [Qc Ad Kd 5d Jc]
+Seat 1: Hero (button) showed [Kh Ah] and won 2640.00 with two pair, Aces and Kings [Ah Ad Kh Kd Qc]
+Seat 2: Villain (big blind) showed [7c 7d] and lost with a pair of Sevens [7d 7c Ad Kd Qc]
+
+Game Hand #372297143 - Tournament #20769130 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:21:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1500.00)
+Seat 2: Hero (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qh As]
+Hero raises 30.00 to 40.00
+Villain folds
+Uncalled bet (20.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain (big blind) folded on the Pre-Flop
+Seat 2: Hero did not show and won 40.00
+
+Game Hand #372297233 - Tournament #20769130 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:21:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1480.00)
+Seat 2: Hero (1520.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd 7c]
+Villain raises 1470.00 to 1480.00 and is all-in
+Hero folds
+Uncalled bet (1460.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #372297366 - Tournament #20769130 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:22:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1500.00)
+Seat 2: Hero (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [As 6d]
+Hero raises 30.00 to 40.00
+Villain raises 1480.00 to 1500.00 and is all-in
+Hero calls 1460.00 and is all-in
+*** FLOP *** [Qc 6c 8c]
+Main pot 3000.00
+*** TURN *** [Qc 6c 8c] [Jc]
+Main pot 3000.00
+*** RIVER *** [Qc 6c 8c Jc] [7h]
+Main pot 3000.00
+*** SHOW DOWN ***
+Main pot 3000.00
+Villain shows [8s Ad] (a pair of Eights [8s 8c Ad Qc Jc])
+Hero shows [As 6d] (a pair of Sixs [6d 6c As Qc Jc])
+Villain collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [Qc 6c 8c Jc 7h]
+Seat 1: Villain (big blind) showed [8s Ad] and won 3000.00 with a pair of Eights [8s 8c Ad Qc Jc]
+Seat 2: Hero (button) showed [As 6d] and lost with a pair of Sixs [6d 6c As Qc Jc]
+
+Game Hand #372299868 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:25:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [7d As]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372299948 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:25:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1510.00)
+Seat 2: Villain (1490.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 5d]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [4h 3h 9c]
+Main pot 100.00
+Villain checks
+Hero bets 50.00
+Villain calls 50.00
+*** TURN *** [4h 3h 9c] [Ad]
+Main pot 200.00
+Villain checks
+Hero bets 100.00
+Villain calls 100.00
+*** RIVER *** [4h 3h 9c Ad] [Kc]
+Main pot 400.00
+Villain checks
+Hero bets 200.00
+Villain raises 1290.00 to 1290.00 and is all-in
+Hero folds
+Uncalled bet (1090.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 800.00
+Board [4h 3h 9c Ad Kc]
+Seat 1: Hero (button) folded on the River
+Seat 2: Villain did not show and won 800.00
+
+Game Hand #372300473 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:26:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1110.00)
+Seat 2: Villain (1890.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2s As]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [Ah Js Td]
+Main pot 80.00
+Hero checks
+Villain checks
+*** TURN *** [Ah Js Td] [8h]
+Main pot 80.00
+Hero bets 60.00
+Villain calls 60.00
+*** RIVER *** [Ah Js Td 8h] [Kd]
+Main pot 200.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 200.00
+Hero shows [2s As] (a pair of Aces [As Ah Kd Js Td])
+Villain shows [8c Jh] (two pair, Jacks and Eights [Js Jh 8h 8c Ah])
+Villain collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [Ah Js Td 8h Kd]
+Seat 1: Hero (big blind) showed [2s As] and lost with a pair of Aces [As Ah Kd Js Td]
+Seat 2: Villain (button) showed [8c Jh] and won 200.00 with two pair, Jacks and Eights [Js Jh 8h 8c Ah]
+
+Game Hand #372300935 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:27:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1010.00)
+Seat 2: Villain (1990.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 3h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #372301026 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:27:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1000.00)
+Seat 2: Villain (2000.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks Js]
+Villain raises 30.00 to 40.00
+Hero raises 100.00 to 120.00
+Villain calls 80.00
+*** FLOP *** [8d Th Jc]
+Main pot 240.00
+Hero bets 190.00
+Villain folds
+Uncalled bet (190.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [8d Th Jc]
+Seat 1: Hero did not show and won 240.00
+Seat 2: Villain (button) folded on the Flop
+
+Game Hand #372301364 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:27:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1120.00)
+Seat 2: Villain (1880.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 5h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #372301500 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:28:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1110.00)
+Seat 2: Villain (1890.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Qh]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [Jh 6d 9c]
+Main pot 80.00
+Hero checks
+Villain bets 40.00
+Hero folds
+Uncalled bet (40.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Jh 6d 9c]
+Seat 1: Hero (big blind) folded on the Flop
+Seat 2: Villain did not show and won 80.00
+
+Game Hand #372301807 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:28:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1070.00)
+Seat 2: Villain (1930.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh 9s]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [3s Ad 8c]
+Main pot 100.00
+Villain checks
+Hero bets 40.00
+Villain calls 40.00
+*** TURN *** [3s Ad 8c] [Kc]
+Main pot 180.00
+Villain checks
+Hero checks
+*** RIVER *** [3s Ad 8c Kc] [2h]
+Main pot 180.00
+Villain bets 1840.00 and is all-in
+Hero folds
+Uncalled bet (1840.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [3s Ad 8c Kc 2h]
+Seat 1: Hero (button) folded on the River
+Seat 2: Villain did not show and won 180.00
+
+Game Hand #372302373 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:29:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (980.00)
+Seat 2: Villain (2020.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Kd]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [Ts 8s 9c]
+Main pot 80.00
+Hero checks
+Villain checks
+*** TURN *** [Ts 8s 9c] [Ks]
+Main pot 80.00
+Hero checks
+Villain checks
+*** RIVER *** [Ts 8s 9c Ks] [Jc]
+Main pot 80.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 80.00
+Hero shows [2d Kd] (a pair of Kings [Ks Kd Jc Ts 9c])
+Villain shows [7d Qh] (a straight, King high [Ks Qh Jc Ts 9c])
+Villain collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 80.00
+Board [Ts 8s 9c Ks Jc]
+Seat 1: Hero (big blind) showed [2d Kd] and lost with a pair of Kings [Ks Kd Jc Ts 9c]
+Seat 2: Villain (button) showed [7d Qh] and won 80.00 with a straight, King high [Ks Qh Jc Ts 9c]
+
+Game Hand #372302940 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:30:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (940.00)
+Seat 2: Villain (2060.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Ks]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [4d 9s 5s]
+Main pot 100.00
+Villain checks
+Hero bets 50.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [4d 9s 5s]
+Seat 1: Hero did not show and won 100.00
+Seat 2: Villain (big blind) folded on the Flop
+
+Game Hand #372303270 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:30:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (990.00)
+Seat 2: Villain (2010.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 2s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372303351 - Tournament #20769170 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 15:30:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1000.00)
+Seat 2: Villain (2000.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5d 2c]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #372303464 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:30:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (990.00)
+Seat 2: Villain (2010.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [7h Js]
+Villain raises 45.00 to 60.00
+Hero calls 30.00
+*** FLOP *** [7s Ac 9d]
+Main pot 120.00
+Hero checks
+Villain bets 60.00
+Hero calls 60.00
+*** TURN *** [7s Ac 9d] [Th]
+Main pot 240.00
+Hero checks
+Villain checks
+*** RIVER *** [7s Ac 9d Th] [9c]
+Main pot 240.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 240.00
+Hero shows [7h Js] (two pair, Nines and Sevens [9d 9c 7s 7h Ac])
+Villain mucks hand
+Hero collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [7s Ac 9d Th 9c]
+Seat 1: Hero (big blind) showed [7h Js] and won 240.00 with two pair, Nines and Sevens [9d 9c 7s 7h Ac]
+Seat 2: Villain (button) mucked [4d Kc]
+
+Game Hand #372304044 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:31:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1110.00)
+Seat 2: Villain (1890.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Th Qh]
+Hero raises 60.00 to 75.00
+Villain folds
+Uncalled bet (45.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372304200 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:31:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1140.00)
+Seat 2: Villain (1860.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [5c Qc]
+Villain raises 45.00 to 60.00
+Hero calls 30.00
+*** FLOP *** [7d Tc 4s]
+Main pot 120.00
+Hero checks
+Villain bets 60.00
+Hero calls 60.00
+*** TURN *** [7d Tc 4s] [Qh]
+Main pot 240.00
+Hero checks
+Villain checks
+*** RIVER *** [7d Tc 4s Qh] [4d]
+Main pot 240.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 240.00
+Hero shows [5c Qc] (two pair, Queens and Fours [Qh Qc 4s 4d Tc])
+Villain mucks hand
+Hero collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [7d Tc 4s Qh 4d]
+Seat 1: Hero (big blind) showed [5c Qc] and won 240.00 with two pair, Queens and Fours [Qh Qc 4s 4d Tc]
+Seat 2: Villain (button) mucked [6d 7c]
+
+Game Hand #372304839 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:32:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1260.00)
+Seat 2: Villain (1740.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc 9h]
+Hero raises 45.00 to 60.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372304992 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:32:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1290.00)
+Seat 2: Villain (1710.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [4s As]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372305089 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:33:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1305.00)
+Seat 2: Villain (1695.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Qc]
+Hero raises 60.00 to 75.00
+Villain folds
+Uncalled bet (45.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372305240 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:33:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1335.00)
+Seat 2: Villain (1665.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 7d]
+Villain raises 45.00 to 60.00
+Hero folds
+Uncalled bet (30.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 60.00
+
+Game Hand #372305381 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:33:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1305.00)
+Seat 2: Villain (1695.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Jh]
+Hero raises 60.00 to 75.00
+Villain calls 45.00
+*** FLOP *** [3d 6d 7c]
+Main pot 150.00
+Villain checks
+Hero checks
+*** TURN *** [3d 6d 7c] [3s]
+Main pot 150.00
+Villain bets 30.00
+Hero calls 30.00
+*** RIVER *** [3d 6d 7c 3s] [Js]
+Main pot 210.00
+Villain bets 30.00
+Hero raises 90.00 to 90.00
+Villain calls 60.00
+*** SHOW DOWN ***
+Main pot 390.00
+Hero shows [Kh Jh] (two pair, Jacks and Threes [Js Jh 3s 3d Kh])
+Villain mucks hand
+Hero collected 390.00 from main pot
+*** SUMMARY ***
+Total pot 390.00
+Board [3d 6d 7c 3s Js]
+Seat 1: Hero (button) showed [Kh Jh] and won 390.00 with two pair, Jacks and Threes [Js Jh 3s 3d Kh]
+Seat 2: Villain (big blind) mucked [Qc 6c]
+
+Game Hand #372305933 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:34:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad Qc]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372306034 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:34:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1515.00)
+Seat 2: Villain (1485.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Js 3h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 45.00
+
+Game Hand #372306137 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:34:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [As 3c]
+Villain raises 45.00 to 60.00
+Hero calls 30.00
+*** FLOP *** [8d 5c 5s]
+Main pot 120.00
+Hero checks
+Villain bets 30.00
+Hero calls 30.00
+*** TURN *** [8d 5c 5s] [4d]
+Main pot 180.00
+Hero checks
+Villain checks
+*** RIVER *** [8d 5c 5s 4d] [3s]
+Main pot 180.00
+Hero bets 60.00
+Villain folds
+Uncalled bet (60.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [8d 5c 5s 4d 3s]
+Seat 1: Hero did not show and won 180.00
+Seat 2: Villain (button) folded on the River
+
+Game Hand #372306677 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:35:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1590.00)
+Seat 2: Villain (1410.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 9d]
+Hero raises 45.00 to 60.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372306821 - Tournament #20769170 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 15:35:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1620.00)
+Seat 2: Villain (1380.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Js Ts]
+Villain raises 45.00 to 60.00
+Hero calls 30.00
+*** FLOP *** [7s 9s Th]
+Main pot 120.00
+Hero bets 60.00
+Villain calls 60.00
+*** TURN *** [7s 9s Th] [Kd]
+Main pot 240.00
+Hero checks
+Villain checks
+*** RIVER *** [7s 9s Th Kd] [Kc]
+Main pot 240.00
+Hero bets 60.00
+Villain folds
+Uncalled bet (60.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [7s 9s Th Kd Kc]
+Seat 1: Hero did not show and won 240.00
+Seat 2: Villain (button) folded on the River
+
+Game Hand #372307437 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:36:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1740.00)
+Seat 2: Villain (1260.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 2d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 75.00
+
+Game Hand #372307562 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:36:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1715.00)
+Seat 2: Villain (1285.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 2c]
+Villain raises 75.00 to 100.00
+Hero folds
+Uncalled bet (50.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 100.00
+
+Game Hand #372307705 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:36:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1665.00)
+Seat 2: Villain (1335.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 5d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 75.00
+
+Game Hand #372307833 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:36:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1640.00)
+Seat 2: Villain (1360.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Js]
+Villain raises 75.00 to 100.00
+Hero calls 50.00
+*** FLOP *** [5c 6h Td]
+Main pot 200.00
+Hero checks
+Villain bets 100.00
+Hero raises 350.00 to 350.00
+Villain folds
+Uncalled bet (250.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [5c 6h Td]
+Seat 1: Hero did not show and won 400.00
+Seat 2: Villain (button) folded on the Flop
+
+Game Hand #372308318 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:37:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1840.00)
+Seat 2: Villain (1160.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [3c 7d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 75.00
+
+Game Hand #372308451 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:37:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1815.00)
+Seat 2: Villain (1185.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9s 5c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero did not show and won 75.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372308542 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:37:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1840.00)
+Seat 2: Villain (1160.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd Td]
+Hero raises 75.00 to 100.00
+Villain calls 50.00
+*** FLOP *** [7c Kh 9h]
+Main pot 200.00
+Villain checks
+Hero checks
+*** TURN *** [7c Kh 9h] [9d]
+Main pot 200.00
+Villain checks
+Hero checks
+*** RIVER *** [7c Kh 9h 9d] [8s]
+Main pot 200.00
+Villain checks
+Hero bets 100.00
+Villain calls 100.00
+*** SHOW DOWN ***
+Main pot 400.00
+Hero shows [Jd Td] (a straight, Jack high [Jd Td 9h 8s 7c])
+Villain mucks hand
+Hero collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [7c Kh 9h 9d 8s]
+Seat 1: Hero (button) showed [Jd Td] and won 400.00 with a straight, Jack high [Jd Td 9h 8s 7c]
+Seat 2: Villain (big blind) mucked [Kc 5d]
+
+Game Hand #372309138 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:38:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (2040.00)
+Seat 2: Villain (960.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [2c Js]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero did not show and won 75.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372309240 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:38:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (2065.00)
+Seat 2: Villain (935.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [3h Qd]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 75.00
+
+Game Hand #372309409 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:38:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (2040.00)
+Seat 2: Villain (960.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [As 9c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero did not show and won 75.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372309502 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:38:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (2065.00)
+Seat 2: Villain (935.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9h 4d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 75.00
+
+Game Hand #372309681 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:39:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (2040.00)
+Seat 2: Villain (960.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Td 3s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero did not show and won 75.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372309787 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:39:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (2065.00)
+Seat 2: Villain (935.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [7s Ts]
+Hero raises 75.00 to 100.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero did not show and won 100.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372309910 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:39:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (2115.00)
+Seat 2: Villain (885.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 6s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero did not show and won 75.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #372310001 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:39:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (2140.00)
+Seat 2: Villain (860.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 9c]
+Hero raises 75.00 to 100.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero did not show and won 100.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372310211 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:39:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (2190.00)
+Seat 2: Villain (810.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 2c]
+Villain raises 785.00 to 810.00 and is all-in
+Hero folds
+Uncalled bet (760.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 100.00
+
+Game Hand #372310348 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:39:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (2140.00)
+Seat 2: Villain (860.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [4c Tc]
+Hero raises 75.00 to 100.00
+Villain folds
+Uncalled bet (50.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero did not show and won 100.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #372310503 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:40:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (2190.00)
+Seat 2: Villain (810.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [9d 8c]
+Villain raises 785.00 to 810.00 and is all-in
+Hero folds
+Uncalled bet (760.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 100.00
+
+Game Hand #372310638 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:40:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (2140.00)
+Seat 2: Villain (860.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [6c Ah]
+Hero raises 75.00 to 100.00
+Villain raises 810.00 to 860.00 and is all-in
+Hero calls 760.00
+*** FLOP *** [4d 5c 8c]
+Main pot 1720.00
+*** TURN *** [4d 5c 8c] [Kh]
+Main pot 1720.00
+*** RIVER *** [4d 5c 8c Kh] [Jh]
+Main pot 1720.00
+*** SHOW DOWN ***
+Main pot 1720.00
+Hero shows [6c Ah] (a high card, Ace high [Ah Kh Jh 8c 6c])
+Villain shows [Js Kd] (two pair, Kings and Jacks [Kh Kd Js Jh 8c])
+Villain collected 1720.00 from main pot
+*** SUMMARY ***
+Total pot 1720.00
+Board [4d 5c 8c Kh Jh]
+Seat 1: Hero (button) showed [6c Ah] and lost with a high card, Ace high [Ah Kh Jh 8c 6c]
+Seat 2: Villain (big blind) showed [Js Kd] and won 1720.00 with two pair, Kings and Jacks [Kh Kd Js Jh 8c]
+
+Game Hand #372310916 - Tournament #20769170 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/25 15:40:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1280.00)
+Seat 2: Villain (1720.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8d]
+Villain raises 1695.00 to 1720.00 and is all-in
+Hero calls 1230.00 and is all-in
+Uncalled bet (440.00) returned to Villain
+*** FLOP *** [5c 4d Qd]
+Main pot 2560.00
+*** TURN *** [5c 4d Qd] [Jc]
+Main pot 2560.00
+*** RIVER *** [5c 4d Qd Jc] [2s]
+Main pot 2560.00
+*** SHOW DOWN ***
+Main pot 2560.00
+Hero shows [Ac 8d] (a high card, Ace high [Ac Qd Jc 8d 5c])
+Villain shows [5d Ah] (a pair of Fives [5d 5c Ah Qd Jc])
+Villain collected 2560.00 from main pot
+*** SUMMARY ***
+Total pot 2560.00
+Board [5c 4d Qd Jc 2s]
+Seat 1: Hero (big blind) showed [Ac 8d] and lost with a high card, Ace high [Ac Qd Jc 8d 5c]
+Seat 2: Villain (button) showed [5d Ah] and won 2560.00 with a pair of Fives [5d 5c Ah Qd Jc]
+
+Game Hand #375175776 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:40:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1500.00)
+Seat 2: Hero (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Kd]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [Jc Qc 2s]
+Main pot 100.00
+Villain checks
+Hero bets 20.00
+Villain calls 20.00
+*** TURN *** [Jc Qc 2s] [5s]
+Main pot 140.00
+Villain checks
+Hero checks
+*** RIVER *** [Jc Qc 2s 5s] [Js]
+Main pot 140.00
+Villain checks
+Hero bets 20.00
+Villain calls 20.00
+*** SHOW DOWN ***
+Main pot 180.00
+Hero shows [2d Kd] (two pair, Jacks and Deuces [Js Jc 2s 2d Kd])
+Villain shows [Kc 5d] (two pair, Jacks and Fives [Js Jc 5s 5d Kc])
+Villain collected 180.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [Jc Qc 2s 5s Js]
+Seat 1: Villain (big blind) showed [Kc 5d] and won 180.00 with two pair, Jacks and Fives [Js Jc 5s 5d Kc]
+Seat 2: Hero (button) showed [2d Kd] and lost with two pair, Jacks and Deuces [Js Jc 2s 2d Kd]
+
+Game Hand #375176518 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:41:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1590.00)
+Seat 2: Hero (1410.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6d Qd]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [5d 9h 6c]
+Main pot 40.00
+Hero checks
+Villain checks
+*** TURN *** [5d 9h 6c] [8d]
+Main pot 40.00
+Hero checks
+Villain checks
+*** RIVER *** [5d 9h 6c 8d] [9s]
+Main pot 40.00
+Hero checks
+Villain checks
+*** SHOW DOWN ***
+Main pot 40.00
+Hero shows [6d Qd] (two pair, Nines and Sixs [9s 9h 6d 6c Qd])
+Villain mucks hand
+Hero collected 40.00 from main pot
+*** SUMMARY ***
+Total pot 40.00
+Board [5d 9h 6c 8d 9s]
+Seat 1: Villain (button) mucked [4d 3d]
+Seat 2: Hero (big blind) showed [6d Qd] and won 40.00 with two pair, Nines and Sixs [9s 9h 6d 6c Qd]
+
+Game Hand #375177218 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:41:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1570.00)
+Seat 2: Hero (1430.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8s Tc]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [5h 8h 7h]
+Main pot 100.00
+Villain checks
+Hero checks
+*** TURN *** [5h 8h 7h] [2s]
+Main pot 100.00
+Villain checks
+Hero bets 75.00
+Villain calls 75.00
+*** RIVER *** [5h 8h 7h 2s] [2d]
+Main pot 250.00
+Villain checks
+Hero bets 40.00
+Villain calls 40.00
+*** SHOW DOWN ***
+Main pot 330.00
+Hero shows [8s Tc] (two pair, Eights and Deuces [8s 8h 2s 2d Tc])
+Villain mucks hand
+Hero collected 330.00 from main pot
+*** SUMMARY ***
+Total pot 330.00
+Board [5h 8h 7h 2s 2d]
+Seat 1: Villain (big blind) mucked [Ts As]
+Seat 2: Hero (button) showed [8s Tc] and won 330.00 with two pair, Eights and Deuces [8s 8h 2s 2d Tc]
+
+Game Hand #375177905 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:42:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1405.00)
+Seat 2: Hero (1595.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2h Ts]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [9s 7d 6c]
+Main pot 40.00
+Hero checks
+Villain bets 40.00
+Hero folds
+Uncalled bet (40.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [9s 7d 6c]
+Seat 1: Villain did not show and won 40.00
+Seat 2: Hero (big blind) folded on the Flop
+
+Game Hand #375178439 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:43:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1425.00)
+Seat 2: Hero (1575.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 3c]
+Hero raises 30.00 to 40.00
+Villain calls 20.00
+*** FLOP *** [2c 5c 3s]
+Main pot 80.00
+Villain checks
+Hero bets 40.00
+Villain calls 40.00
+*** TURN *** [2c 5c 3s] [4s]
+Main pot 160.00
+Villain checks
+Hero checks
+*** RIVER *** [2c 5c 3s 4s] [9h]
+Main pot 160.00
+Villain checks
+Hero checks
+*** SHOW DOWN ***
+Main pot 160.00
+Villain shows [3d Kd] (a pair of Threes [3s 3d Kd 9h 5c])
+Hero shows [Ks 3c] (a pair of Threes [3s 3c Ks 9h 5c])
+Villain collected 80.00 from main pot
+Hero collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [2c 5c 3s 4s 9h]
+Seat 1: Villain (big blind) showed [3d Kd] and won 80.00 with a pair of Threes [3s 3d Kd 9h 5c]
+Seat 2: Hero (button) showed [Ks 3c] and won 80.00 with a pair of Threes [3s 3c Ks 9h 5c]
+
+Game Hand #375179195 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:43:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1425.00)
+Seat 2: Hero (1575.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8c Qs]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [9s Kd 6c]
+Main pot 40.00
+Hero checks
+Villain bets 40.00
+Hero calls 40.00
+*** TURN *** [9s Kd 6c] [3h]
+Main pot 120.00
+Hero checks
+Villain checks
+*** RIVER *** [9s Kd 6c 3h] [As]
+Main pot 120.00
+Hero bets 60.00
+Villain folds
+Uncalled bet (60.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [9s Kd 6c 3h As]
+Seat 1: Villain (button) folded on the River
+Seat 2: Hero did not show and won 120.00
+
+Game Hand #375180133 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:44:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1365.00)
+Seat 2: Hero (1635.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [8d 6d]
+Hero raises 30.00 to 40.00
+Villain raises 100.00 to 120.00
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Villain did not show and won 160.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #375180458 - Tournament #20793213 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/27 16:45:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1405.00)
+Seat 2: Hero (1595.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 3h]
+Villain calls 10.00
+Hero raises 40.00 to 60.00
+Villain calls 40.00
+*** FLOP *** [Kh Qs 2c]
+Main pot 120.00
+Hero bets 40.00
+Villain folds
+Uncalled bet (40.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Kh Qs 2c]
+Seat 1: Villain (button) folded on the Flop
+Seat 2: Hero did not show and won 120.00
+
+Game Hand #375181092 - Tournament #20793213 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/27 16:45:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1345.00)
+Seat 2: Hero (1655.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [7c Jc]
+Hero raises 60.00 to 75.00
+Villain raises 165.00 to 195.00
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 270.00
+Seat 1: Villain did not show and won 270.00
+Seat 2: Hero (button) folded on the Pre-Flop
+
+Game Hand #375181427 - Tournament #20793213 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/27 16:46:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Villain (1420.00)
+Seat 2: Hero (1580.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [4s Qc]
+Villain raises 75.00 to 90.00
+Hero folds
+Uncalled bet (60.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Villain did not show and won 60.00
+Seat 2: Hero (big blind) folded on the Pre-Flop
+
+Game Hand #375181655 - Tournament #20793213 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/27 16:46:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Villain (1450.00)
+Seat 2: Hero (1550.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [6d Qd]
+Hero raises 60.00 to 75.00
+Villain raises 135.00 to 165.00
+Hero calls 90.00
+*** FLOP *** [8s 5d 2d]
+Main pot 330.00
+Villain bets 165.00
+Hero raises 420.00 to 420.00
+Villain calls 255.00
+*** TURN *** [8s 5d 2d] [Qc]
+Main pot 1170.00
+Villain checks
+Hero bets 555.00
+Villain raises 865.00 to 865.00 and is all-in
+Hero calls 310.00
+*** RIVER *** [8s 5d 2d Qc] [8c]
+Main pot 2900.00
+*** SHOW DOWN ***
+Main pot 2900.00
+Villain shows [Ks 3s] (a pair of Eights [8s 8c Ks Qc 5d])
+Hero shows [6d Qd] (two pair, Queens and Eights [Qd Qc 8s 8c 6d])
+Hero collected 2900.00 from main pot
+*** SUMMARY ***
+Total pot 2900.00
+Board [8s 5d 2d Qc 8c]
+Seat 1: Villain (big blind) showed [Ks 3s] and lost with a pair of Eights [8s 8c Ks Qc 5d]
+Seat 2: Hero (button) showed [6d Qd] and won 2900.00 with two pair, Queens and Eights [Qd Qc 8s 8c 6d]
+Game Hand #381308707 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:36:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Kh]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [Jc 3d 6h]
+Main pot 100.00
+Villain checks
+Hero bets 50.00
+Villain calls 50.00
+*** TURN *** [Jc 3d 6h] [5s]
+Main pot 200.00
+Villain checks
+Hero checks
+*** RIVER *** [Jc 3d 6h 5s] [8c]
+Main pot 200.00
+Villain bets 70.00
+Hero folds
+Uncalled bet (70.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Jc 3d 6h 5s 8c]
+Seat 1: Hero (button) folded on the River
+Seat 2: Villain did not show and won 200.00
+
+Game Hand #381310332 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:37:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1400.00)
+Seat 2: Villain (1600.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks Th]
+Villain raises 40.00 to 50.00
+Hero calls 30.00
+*** FLOP *** [6d 7h 4c]
+Main pot 100.00
+Hero checks
+Villain checks
+*** TURN *** [6d 7h 4c] [3d]
+Main pot 100.00
+Hero checks
+Villain bets 40.00
+Hero raises 160.00 to 160.00
+Villain folds
+Uncalled bet (120.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [6d 7h 4c 3d]
+Seat 1: Hero did not show and won 180.00
+Seat 2: Villain (button) folded on the Turn
+
+Game Hand #381311941 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:37:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1490.00)
+Seat 2: Villain (1510.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Js]
+Hero raises 40.00 to 50.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero did not show and won 40.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #381312353 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:37:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1510.00)
+Seat 2: Villain (1490.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [6d 3h]
+Villain raises 40.00 to 50.00
+Hero folds
+Uncalled bet (30.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 40.00
+
+Game Hand #381312761 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:38:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1490.00)
+Seat 2: Villain (1510.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Kd]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [8d Ks 3c]
+Main pot 100.00
+Villain checks
+Hero bets 50.00
+Villain calls 50.00
+*** TURN *** [8d Ks 3c] [5d]
+Main pot 200.00
+Villain checks
+Hero bets 100.00
+Villain calls 100.00
+*** RIVER *** [8d Ks 3c 5d] [Ac]
+Main pot 400.00
+Villain checks
+Hero checks
+*** SHOW DOWN ***
+Main pot 400.00
+Villain shows [3d Ad] (two pair, Aces and Threes [Ad Ac 3d 3c Ks])
+Hero mucks hand
+Villain collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [8d Ks 3c 5d Ac]
+Seat 1: Hero (button) mucked [2d Kd]
+Seat 2: Villain (big blind) showed [3d Ad] and won 400.00 with two pair, Aces and Threes [Ad Ac 3d 3c Ks]
+
+Game Hand #381314337 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:38:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1290.00)
+Seat 2: Villain (1710.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 5h]
+Villain calls 10.00
+Hero checks
+*** FLOP *** [Js Qh Kc]
+Main pot 40.00
+Hero checks
+Villain checks
+*** TURN *** [Js Qh Kc] [2d]
+Main pot 40.00
+Hero bets 20.00
+Villain calls 20.00
+*** RIVER *** [Js Qh Kc 2d] [9c]
+Main pot 80.00
+Hero checks
+Villain bets 50.00
+Hero folds
+Uncalled bet (50.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Js Qh Kc 2d 9c]
+Seat 1: Hero (big blind) folded on the River
+Seat 2: Villain did not show and won 80.00
+
+Game Hand #381316224 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:39:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1250.00)
+Seat 2: Villain (1750.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Qs]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [Ah 4d 6s]
+Main pot 100.00
+Villain checks
+Hero bets 50.00
+Villain calls 50.00
+*** TURN *** [Ah 4d 6s] [Jd]
+Main pot 200.00
+Villain checks
+Hero checks
+*** RIVER *** [Ah 4d 6s Jd] [As]
+Main pot 200.00
+Villain bets 80.00
+Hero folds
+Uncalled bet (80.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Ah 4d 6s Jd As]
+Seat 1: Hero (button) folded on the River
+Seat 2: Villain did not show and won 200.00
+
+Game Hand #381318226 - Tournament #20848761 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:40:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1150.00)
+Seat 2: Villain (1850.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9d Jh]
+Villain raises 40.00 to 50.00
+Hero calls 30.00
+*** FLOP *** [Ts Td 8s]
+Main pot 100.00
+Hero checks
+Villain checks
+*** TURN *** [Ts Td 8s] [7c]
+Main pot 100.00
+Hero bets 50.00
+Villain raises 140.00 to 140.00
+Hero raises 300.00 to 350.00
+Villain calls 210.00
+*** RIVER *** [Ts Td 8s 7c] [Jd]
+Main pot 800.00
+Hero bets 750.00 and is all-in
+Villain folds
+Uncalled bet (750.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 800.00
+Board [Ts Td 8s 7c Jd]
+Seat 1: Hero did not show and won 800.00
+Seat 2: Villain (button) folded on the River
+
+Game Hand #381320855 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:41:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1550.00)
+Seat 2: Villain (1450.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks 3c]
+Hero raises 60.00 to 75.00
+Villain folds
+Uncalled bet (45.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #381321487 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:42:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1580.00)
+Seat 2: Villain (1420.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Qc Kh]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381321699 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:42:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1595.00)
+Seat 2: Villain (1405.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah Qh]
+Hero raises 60.00 to 75.00
+Villain folds
+Uncalled bet (45.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #381322087 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:42:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1625.00)
+Seat 2: Villain (1375.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Qs 4c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381322331 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:42:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1640.00)
+Seat 2: Villain (1360.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [5s Ks]
+Hero raises 60.00 to 75.00
+Villain folds
+Uncalled bet (45.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #381322712 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:42:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1670.00)
+Seat 2: Villain (1330.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Js As]
+Villain calls 15.00
+Hero raises 60.00 to 90.00
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: Hero did not show and won 120.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381323358 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:42:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1700.00)
+Seat 2: Villain (1300.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Kh Ad]
+Hero raises 60.00 to 75.00
+Villain raises 195.00 to 225.00
+Hero raises 1625.00 to 1700.00 and is all-in
+Villain calls 1075.00 and is all-in
+Uncalled bet (400.00) returned to Hero
+*** FLOP *** [Kd 4d Qc]
+Main pot 2600.00
+*** TURN *** [Kd 4d Qc] [8h]
+Main pot 2600.00
+*** RIVER *** [Kd 4d Qc 8h] [Js]
+Main pot 2600.00
+*** SHOW DOWN ***
+Main pot 2600.00
+Hero shows [Kh Ad] (a pair of Kings [Kh Kd Ad Qc Js])
+Villain shows [Ah Ts] (a straight, Ace high [Ah Kd Qc Js Ts])
+Villain collected 2600.00 from main pot
+*** SUMMARY ***
+Total pot 2600.00
+Board [Kd 4d Qc 8h Js]
+Seat 1: Hero (button) showed [Kh Ad] and lost with a pair of Kings [Kh Kd Ad Qc Js]
+Seat 2: Villain (big blind) showed [Ah Ts] and won 2600.00 with a straight, Ace high [Ah Kd Qc Js Ts]
+
+Game Hand #381324682 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:43:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (400.00)
+Seat 2: Villain (2600.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [2h 3s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381324901 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:43:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (415.00)
+Seat 2: Villain (2585.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [2d 7d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 45.00
+
+Game Hand #381325394 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:43:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (400.00)
+Seat 2: Villain (2600.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 9c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381325570 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:43:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (415.00)
+Seat 2: Villain (2585.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts 3h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 45.00
+
+Game Hand #381325884 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:44:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (400.00)
+Seat 2: Villain (2600.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [5h 2d]
+Villain raises 60.00 to 75.00
+Hero folds
+Uncalled bet (45.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 60.00
+
+Game Hand #381326565 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:44:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (370.00)
+Seat 2: Villain (2630.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd 5s]
+Hero calls 15.00
+Villain checks
+*** FLOP *** [5c 8d 6c]
+Main pot 60.00
+Villain bets 30.00
+Hero calls 30.00
+*** TURN *** [5c 8d 6c] [4d]
+Main pot 120.00
+Villain checks
+Hero bets 60.00
+Villain folds
+Uncalled bet (60.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [5c 8d 6c 4d]
+Seat 1: Hero did not show and won 120.00
+Seat 2: Villain (big blind) folded on the Turn
+
+Game Hand #381327748 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:44:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (430.00)
+Seat 2: Villain (2570.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [9c Qs]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381327948 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:44:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (445.00)
+Seat 2: Villain (2555.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [8h 8s]
+Hero raises 45.00 to 60.00
+Villain calls 30.00
+*** FLOP *** [7c 9h 4c]
+Main pot 120.00
+Villain bets 30.00
+Hero raises 385.00 to 385.00 and is all-in
+Villain folds
+Uncalled bet (355.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [7c 9h 4c]
+Seat 1: Hero did not show and won 180.00
+Seat 2: Villain (big blind) folded on the Flop
+
+Game Hand #381328931 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:45:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (535.00)
+Seat 2: Villain (2465.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [As Js]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero did not show and won 45.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381329093 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:45:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (550.00)
+Seat 2: Villain (2450.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [Kd 3d]
+Hero raises 535.00 to 550.00 and is all-in
+Villain folds
+Uncalled bet (520.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #381329549 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:45:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (580.00)
+Seat 2: Villain (2420.00)
+Villain posts the small blind 15.00
+Hero posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [2h 6h]
+Villain calls 15.00
+Hero checks
+*** FLOP *** [Ac 8c 3h]
+Main pot 60.00
+Hero checks
+Villain checks
+*** TURN *** [Ac 8c 3h] [Th]
+Main pot 60.00
+Hero bets 30.00
+Villain folds
+Uncalled bet (30.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Ac 8c 3h Th]
+Seat 1: Hero did not show and won 60.00
+Seat 2: Villain (button) folded on the Turn
+
+Game Hand #381330608 - Tournament #20848761 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 21:46:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (610.00)
+Seat 2: Villain (2390.00)
+Hero posts the small blind 15.00
+Villain posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Hero [3s 4d]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 45.00
+
+Game Hand #381330910 - Tournament #20848761 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 21:46:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (595.00)
+Seat 2: Villain (2405.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [7c 4c]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Hero did not show and won 75.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381331170 - Tournament #20848761 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 21:46:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (620.00)
+Seat 2: Villain (2380.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [5c 4c]
+Hero raises 595.00 to 620.00 and is all-in
+Villain folds
+Uncalled bet (570.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero did not show and won 100.00
+Seat 2: Villain (big blind) folded on the Pre-Flop
+
+Game Hand #381331840 - Tournament #20848761 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 21:46:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (670.00)
+Seat 2: Villain (2330.00)
+Villain posts the small blind 25.00
+Hero posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [3h 5s]
+Villain raises 75.00 to 100.00
+Hero folds
+Uncalled bet (50.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Hero (big blind) folded on the Pre-Flop
+Seat 2: Villain did not show and won 100.00
+
+Game Hand #381332128 - Tournament #20848761 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 21:46:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (620.00)
+Seat 2: Villain (2380.00)
+Hero posts the small blind 25.00
+Villain posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Qc]
+Hero raises 75.00 to 100.00
+Villain calls 50.00
+*** FLOP *** [Ah 5h 5c]
+Main pot 200.00
+Villain checks
+Hero bets 100.00
+Villain calls 100.00
+*** TURN *** [Ah 5h 5c] [6c]
+Main pot 400.00
+Villain checks
+Hero bets 420.00 and is all-in
+Villain calls 420.00
+*** RIVER *** [Ah 5h 5c 6c] [As]
+Main pot 1240.00
+*** SHOW DOWN ***
+Main pot 1240.00
+Hero shows [Kc Qc] (two pair, Aces and Fives [As Ah 5h 5c Kc])
+Villain shows [3d Ad] (a full house, Aces full of Fives [As Ah Ad 5h 5c])
+Villain collected 1240.00 from main pot
+*** SUMMARY ***
+Total pot 1240.00
+Board [Ah 5h 5c 6c As]
+Seat 1: Hero (button) showed [Kc Qc] and lost with two pair, Aces and Fives [As Ah 5h 5c Kc]
+Seat 2: Villain (big blind) showed [3d Ad] and won 1240.00 with a full house, Aces full of Fives [As Ah Ad 5h 5c]
+
+Game Hand #381334770 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:48:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1500.00)
+Seat 2: Villain (1500.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [3d 5c]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #381335051 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:48:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1490.00)
+Seat 2: Villain (1510.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5h Ad]
+Villain raises 30.00 to 40.00
+Hero calls 20.00
+*** FLOP *** [7d 8s Kc]
+Main pot 80.00
+Hero checks
+Villain checks
+*** TURN *** [7d 8s Kc] [4h]
+Main pot 80.00
+Hero bets 40.00
+Villain folds
+Uncalled bet (40.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [7d 8s Kc 4h]
+Seat 1: Hero did not show and won 80.00
+Seat 2: Villain (button) folded on the Turn
+
+Game Hand #381336175 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:48:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1530.00)
+Seat 2: Villain (1470.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [2d Td]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [Qd 9h 4h]
+Main pot 100.00
+Villain checks
+Hero checks
+*** TURN *** [Qd 9h 4h] [7h]
+Main pot 100.00
+Villain bets 30.00
+Hero folds
+Uncalled bet (30.00) returned to Villain
+Villain does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Qd 9h 4h 7h]
+Seat 1: Hero (button) folded on the Turn
+Seat 2: Villain did not show and won 100.00
+
+Game Hand #381337455 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:49:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1480.00)
+Seat 2: Villain (1520.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac 2s]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381337668 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:49:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1490.00)
+Seat 2: Villain (1510.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Ts Ac]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [Qc 9c 4h]
+Main pot 100.00
+Villain checks
+Hero checks
+*** TURN *** [Qc 9c 4h] [4c]
+Main pot 100.00
+Villain bets 40.00
+Hero raises 120.00 to 120.00
+Villain calls 80.00
+*** RIVER *** [Qc 9c 4h 4c] [2s]
+Main pot 340.00
+Villain checks
+Hero checks
+*** SHOW DOWN ***
+Main pot 340.00
+Villain shows [Kc Jc] (a flush, King high [Kc Qc Jc 9c 4c])
+Hero mucks hand
+Villain collected 340.00 from main pot
+*** SUMMARY ***
+Total pot 340.00
+Board [Qc 9c 4h 4c 2s]
+Seat 1: Hero (button) mucked [Ts Ac]
+Seat 2: Villain (big blind) showed [Kc Jc] and won 340.00 with a flush, King high [Kc Qc Jc 9c 4c]
+
+Game Hand #381339802 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:50:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1320.00)
+Seat 2: Villain (1680.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5h Jh]
+Villain raises 40.00 to 50.00
+Hero calls 30.00
+*** FLOP *** [6h 3d Kh]
+Main pot 100.00
+Hero checks
+Villain bets 50.00
+Hero calls 50.00
+*** TURN *** [6h 3d Kh] [Qd]
+Main pot 200.00
+Hero checks
+Villain checks
+*** RIVER *** [6h 3d Kh Qd] [7h]
+Main pot 200.00
+Hero bets 100.00
+Villain calls 100.00
+*** SHOW DOWN ***
+Main pot 400.00
+Hero shows [5h Jh] (a flush, King high [Kh Jh 7h 6h 5h])
+Villain mucks hand
+Hero collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [6h 3d Kh Qd 7h]
+Seat 1: Hero (big blind) showed [5h Jh] and won 400.00 with a flush, King high [Kh Jh 7h 6h 5h]
+Seat 2: Villain (button) mucked [Ts Qc]
+
+Game Hand #381341913 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:51:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1520.00)
+Seat 2: Villain (1480.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [9d 8h]
+Hero raises 40.00 to 50.00
+Villain calls 30.00
+*** FLOP *** [8s 6d Jc]
+Main pot 100.00
+Villain checks
+Hero bets 50.00
+Villain calls 50.00
+*** TURN *** [8s 6d Jc] [9h]
+Main pot 200.00
+Villain checks
+Hero bets 140.00
+Villain folds
+Uncalled bet (140.00) returned to Hero
+Hero does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [8s 6d Jc 9h]
+Seat 1: Hero did not show and won 200.00
+Seat 2: Villain (big blind) folded on the Turn
+
+Game Hand #381343549 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:52:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1620.00)
+Seat 2: Villain (1380.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Kh]
+Villain raises 40.00 to 50.00
+Hero raises 130.00 to 150.00
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Hero did not show and won 200.00
+Seat 2: Villain (button) folded on the Pre-Flop
+
+Game Hand #381344163 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:52:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hero (1670.00)
+Seat 2: Villain (1330.00)
+Hero posts the small blind 10.00
+Villain posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [Jc 4h]
+Hero folds
+Villain does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero (button) folded on the Pre-Flop
+Seat 2: Villain did not show and won 30.00
+
+Game Hand #381344489 - Tournament #20848987 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 21:52:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hero (1660.00)
+Seat 2: Villain (1340.00)
+Villain posts the small blind 10.00
+Hero posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Hero [5h Js]
+Villain folds
+Hero does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hero did not show and won 30.00
+Seat 2: Villain (button) folded on the Pre-Flop
