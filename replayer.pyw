@@ -968,7 +968,6 @@ def gather_info_from_action():
             if p.name in infoto:
                 floats = re.findall(r'[-+]?\d*\.\d+|\d+', infoto)
                 if floats:
-
                     p.bet += float(floats[-1])
                     p.stack -= float(floats[-1])
                     bet = round(p.bet,2)
