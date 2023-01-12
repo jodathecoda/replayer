@@ -1466,7 +1466,7 @@ button_pot.place(x=thetable.potx, y=thetable.poty)
 
 
 label_title = Label(text=thetable.title, bg='black', fg='red',font=('Times New Roman', 13, 'bold'))
-label_title.place(x=125,y= 10)
+label_title.place(x=55,y= 10)
 
 button_previous = Button(image = img_previous, command = previous)
 #button_previous.place(x=340, y=500)
