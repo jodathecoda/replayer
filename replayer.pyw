@@ -39,7 +39,7 @@ ws.title('ReplayeR')
 ws.geometry('965x545')
 #ws.geometry('965x495')
 ws.config(bg='black')
-ws.iconbitmap("assets\\icons\\replayer_icon_small.ico")
+ws.iconbitmap("assets\\icons\\AA_small.ico")
 
 class Table:
     def __init__(self, title, pot, potx, poty, flop1, flop1x, flop1y, flop2, flop2x, flop2y, flop3, flop3x, flop3y, turn1, turn1x, turn1y, river1, river1x, river1y):
@@ -1446,22 +1446,22 @@ button_bet8 = Button(text="", bg='cornflowerblue', fg='yellow',font=('Times New 
 button_bet8.place(x=9999, y=9999)
 
 # Board Cards
-button_f1 = Button(image = img_card_As)
+button_f1 = Button(image = img_card_Jh)
 button_f1.place(x=thetable.flop1x, y=thetable.flop1y)
 
-button_f2 = Button(image = img_card_Ah)
+button_f2 = Button(image = img_card_As)
 button_f2.place(x=thetable.flop2x, y=thetable.flop2y)
 
-button_f3 = Button(image = img_card_Ac)
+button_f3 = Button(image = img_card_back)
 button_f3.place(x=thetable.flop3x, y=thetable.flop3y)
 
-button_t1 = Button(image = img_card_Ad)
+button_t1 = Button(image = img_card_back)
 button_t1.place(x=thetable.turn1x, y=thetable.turn1y)
 
 button_r1 = Button(image = img_card_back)
 button_r1.place(x=thetable.river1x, y=thetable.river1y)
 
-button_pot = Button(text="POT", bg='green', fg='yellow',font=('Times New Roman', 15, 'bold'))
+button_pot = Button(text="ReplayeR", bg='green', fg='yellow',font=('Times New Roman', 15, 'bold'))
 button_pot.place(x=thetable.potx, y=thetable.poty)
 
 
