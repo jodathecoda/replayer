@@ -1,0 +1,1248 @@
+﻿PokerStars Hand #241143000908:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:25:20 ET
+Table 'Colchis' 6-max Seat #4 is the button
+Seat 1: baikiro ($3.57 in chips) 
+Seat 2: DonDPMS ($1.55 in chips) 
+Seat 3: nicolas1690 ($1.72 in chips) 
+Seat 4: chrisrsilver ($3.13 in chips) 
+Seat 5: Arsenalfan19 ($1.41 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Arsenalfan19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+baikiro: posts the ante $0.01
+DonDPMS: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7c]
+baikiro: raises $0.04 to $0.06
+DonDPMS: raises $0.04 to $0.10
+nicolas1690: folds 
+chrisrsilver: folds 
+Arsenalfan19: calls $0.09
+Lorpugo: folds 
+baikiro: calls $0.04
+*** FLOP *** [Th 7h Td]
+Arsenalfan19: checks 
+baikiro: checks 
+DonDPMS: checks 
+*** TURN *** [Th 7h Td] [9c]
+Arsenalfan19: checks 
+baikiro: checks 
+DonDPMS: checks 
+*** RIVER *** [Th 7h Td 9c] [Tc]
+Arsenalfan19: checks 
+baikiro: bets $0.19
+DonDPMS: calls $0.19
+Arsenalfan19: folds 
+*** SHOW DOWN ***
+baikiro: shows [9s Ah] (a full house, Tens full of Nines)
+DonDPMS: mucks hand 
+baikiro collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [Th 7h Td 9c Tc]
+Seat 1: baikiro showed [9s Ah] and won ($0.73) with a full house, Tens full of Nines
+Seat 2: DonDPMS mucked [As Qd]
+Seat 3: nicolas1690 folded before Flop (didn't bet)
+Seat 4: chrisrsilver (button) folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (small blind) folded on the River
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241143022736:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:26:08 ET
+Table 'Colchis' 6-max Seat #5 is the button
+Seat 1: baikiro ($4 in chips) 
+Seat 2: DonDPMS ($1.25 in chips) 
+Seat 3: nicolas1690 ($1.71 in chips) 
+Seat 4: chrisrsilver ($3.12 in chips) 
+Seat 5: Arsenalfan19 ($1.30 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+Lorpugo: posts small blind $0.01
+baikiro: posts big blind $0.02
+baikiro: posts the ante $0.01
+DonDPMS: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 8h]
+DonDPMS: raises $0.02 to $0.04
+nicolas1690: folds 
+chrisrsilver: calls $0.04
+Arsenalfan19: calls $0.04
+Lorpugo: folds 
+baikiro: calls $0.02
+*** FLOP *** [8c 4s Kc]
+baikiro: checks 
+DonDPMS: checks 
+chrisrsilver: checks 
+Arsenalfan19: checks 
+*** TURN *** [8c 4s Kc] [Ac]
+baikiro: checks 
+DonDPMS: bets $0.11
+chrisrsilver: folds 
+Arsenalfan19: folds 
+baikiro: calls $0.11
+*** RIVER *** [8c 4s Kc Ac] [6s]
+baikiro: checks 
+DonDPMS: bets $0.22
+baikiro: calls $0.22
+*** SHOW DOWN ***
+DonDPMS: shows [5h Ad] (a pair of Aces)
+baikiro: shows [Ah 8d] (two pair, Aces and Eights)
+baikiro collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [8c 4s Kc Ac 6s]
+Seat 1: baikiro (big blind) showed [Ah 8d] and won ($0.86) with two pair, Aces and Eights
+Seat 2: DonDPMS showed [5h Ad] and lost with a pair of Aces
+Seat 3: nicolas1690 folded before Flop (didn't bet)
+Seat 4: chrisrsilver folded on the Turn
+Seat 5: Arsenalfan19 (button) folded on the Turn
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241143046761:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:27:01 ET
+Table 'Colchis' 6-max Seat #6 is the button
+Seat 1: baikiro ($4.48 in chips) 
+Seat 2: DonDPMS ($0.87 in chips) 
+Seat 3: nicolas1690 ($1.70 in chips) 
+Seat 4: chrisrsilver ($3.07 in chips) 
+Seat 5: Arsenalfan19 ($1.25 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+baikiro: posts small blind $0.01
+DonDPMS: posts big blind $0.02
+baikiro: posts the ante $0.01
+DonDPMS: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7h]
+nicolas1690: folds 
+chrisrsilver: folds 
+Arsenalfan19: calls $0.02
+Lorpugo: calls $0.02
+baikiro: raises $0.06 to $0.08
+DonDPMS: calls $0.06
+Arsenalfan19: folds 
+Lorpugo: calls $0.06
+*** FLOP *** [9s 2s 8s]
+baikiro: checks 
+DonDPMS: bets $0.16
+Lorpugo: folds 
+baikiro: calls $0.16
+*** TURN *** [9s 2s 8s] [4h]
+baikiro: checks 
+DonDPMS: bets $0.31
+baikiro: folds 
+Uncalled bet ($0.31) returned to DonDPMS
+DonDPMS collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [9s 2s 8s 4h]
+Seat 1: baikiro (small blind) folded on the Turn
+Seat 2: DonDPMS (big blind) collected ($0.62)
+Seat 3: nicolas1690 folded before Flop (didn't bet)
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 folded before Flop
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #241143067329:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:27:46 ET
+Table 'Colchis' 6-max Seat #1 is the button
+Seat 1: baikiro ($4.23 in chips) 
+Seat 2: DonDPMS ($1.24 in chips) 
+Seat 3: nicolas1690 ($1.69 in chips) 
+Seat 4: chrisrsilver ($3.06 in chips) 
+Seat 5: Arsenalfan19 ($1.22 in chips) 
+Seat 6: Lorpugo ($1.46 in chips) 
+DonDPMS: posts small blind $0.01
+nicolas1690: posts big blind $0.02
+baikiro: posts the ante $0.01
+DonDPMS: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Qd]
+chrisrsilver: folds 
+Arsenalfan19: calls $0.02
+Lorpugo: folds 
+baikiro: folds 
+DonDPMS: calls $0.01
+nicolas1690: checks 
+*** FLOP *** [Ts 4c 7c]
+DonDPMS: checks 
+nicolas1690: checks 
+Arsenalfan19: checks 
+*** TURN *** [Ts 4c 7c] [9c]
+DonDPMS: checks 
+nicolas1690: checks 
+Arsenalfan19: bets $0.04
+DonDPMS: folds 
+nicolas1690: folds 
+Uncalled bet ($0.04) returned to Arsenalfan19
+Arsenalfan19 collected $0.12 from pot
+Arsenalfan19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts 4c 7c 9c]
+Seat 1: baikiro (button) folded before Flop (didn't bet)
+Seat 2: DonDPMS (small blind) folded on the Turn
+Seat 3: nicolas1690 (big blind) folded on the Turn
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 collected ($0.12)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143083017:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:28:20 ET
+Table 'Colchis' 6-max Seat #2 is the button
+Seat 1: baikiro ($4.22 in chips) 
+Seat 2: DonDPMS ($1.21 in chips) 
+Seat 3: nicolas1690 ($1.97 in chips) 
+Seat 4: chrisrsilver ($3.05 in chips) 
+Seat 5: Arsenalfan19 ($1.31 in chips) 
+Seat 6: Lorpugo ($1.45 in chips) 
+nicolas1690: posts small blind $0.01
+chrisrsilver: posts big blind $0.02
+baikiro: posts the ante $0.01
+DonDPMS: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9c]
+Arsenalfan19: folds 
+Lorpugo: raises $0.03 to $0.05
+baikiro: folds 
+DonDPMS: folds 
+nicolas1690: folds 
+chrisrsilver: calls $0.03
+*** FLOP *** [Ah Ks 3s]
+chrisrsilver: checks 
+Lorpugo: bets $0.08
+chrisrsilver: calls $0.08
+*** TURN *** [Ah Ks 3s] [9d]
+chrisrsilver: bets $0.08
+Lorpugo: raises $0.32 to $0.40
+chrisrsilver: folds 
+Uncalled bet ($0.32) returned to Lorpugo
+Lorpugo collected $0.47 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Ah Ks 3s 9d]
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 2: DonDPMS (button) folded before Flop (didn't bet)
+Seat 3: nicolas1690 (small blind) folded before Flop
+Seat 4: chrisrsilver (big blind) folded on the Turn
+Seat 5: Arsenalfan19 folded before Flop (didn't bet)
+Seat 6: Lorpugo collected ($0.47)
+
+
+
+PokerStars Hand #241143099150:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:28:56 ET
+Table 'Colchis' 6-max Seat #3 is the button
+Seat 1: baikiro ($4.21 in chips) 
+Seat 2: DonDPMS ($1.20 in chips) 
+Seat 3: nicolas1690 ($1.95 in chips) 
+Seat 4: chrisrsilver ($2.83 in chips) 
+Seat 5: Arsenalfan19 ($1.30 in chips) 
+Seat 6: Lorpugo ($1.70 in chips) 
+chrisrsilver: posts small blind $0.01
+Arsenalfan19: posts big blind $0.02
+baikiro: posts the ante $0.01
+DonDPMS: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5h]
+Lorpugo: folds 
+baikiro: raises $0.04 to $0.06
+DonDPMS: folds 
+nicolas1690: folds 
+chrisrsilver: calls $0.05
+Arsenalfan19: calls $0.04
+*** FLOP *** [3h 6s Qh]
+chrisrsilver: checks 
+Arsenalfan19: checks 
+baikiro: bets $0.12
+chrisrsilver: calls $0.12
+Arsenalfan19: folds 
+*** TURN *** [3h 6s Qh] [3d]
+chrisrsilver: checks 
+baikiro: checks 
+*** RIVER *** [3h 6s Qh 3d] [7s]
+DonDPMS leaves the table
+chrisrsilver: bets $0.23
+baikiro: folds 
+Uncalled bet ($0.23) returned to chrisrsilver
+chrisrsilver collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [3h 6s Qh 3d 7s]
+Seat 1: baikiro folded on the River
+Seat 2: DonDPMS folded before Flop (didn't bet)
+Seat 3: nicolas1690 (button) folded before Flop (didn't bet)
+Seat 4: chrisrsilver (small blind) collected ($0.46)
+Seat 5: Arsenalfan19 (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143115319:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:29:31 ET
+Table 'Colchis' 6-max Seat #4 is the button
+Seat 1: baikiro ($4.02 in chips) 
+Seat 3: nicolas1690 ($1.94 in chips) 
+Seat 4: chrisrsilver ($3.10 in chips) 
+Seat 5: Arsenalfan19 ($1.23 in chips) 
+Seat 6: Lorpugo ($1.69 in chips) 
+Arsenalfan19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+baikiro: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Js]
+baikiro: folds 
+nicolas1690: folds 
+chrisrsilver: folds 
+Arsenalfan19: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ts Ad Td]
+Arsenalfan19: bets $0.04
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Arsenalfan19
+Arsenalfan19 collected $0.09 from pot
+Arsenalfan19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ts Ad Td]
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 3: nicolas1690 folded before Flop (didn't bet)
+Seat 4: chrisrsilver (button) folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (small blind) collected ($0.09)
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241143126170:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:29:55 ET
+Table 'Colchis' 6-max Seat #5 is the button
+Seat 1: baikiro ($4.01 in chips) 
+Seat 3: nicolas1690 ($1.93 in chips) 
+Seat 4: chrisrsilver ($3.09 in chips) 
+Seat 5: Arsenalfan19 ($1.29 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+Lorpugo: posts small blind $0.01
+baikiro: posts big blind $0.02
+baikiro: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Tc]
+nicolas1690: folds 
+chrisrsilver: folds 
+Arsenalfan19: folds 
+Lorpugo: raises $0.03 to $0.05
+baikiro: calls $0.03
+*** FLOP *** [8h 2h 2s]
+Lorpugo: bets $0.07
+baikiro: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8h 2h 2s]
+Seat 1: baikiro (big blind) folded on the Flop
+Seat 3: nicolas1690 folded before Flop (didn't bet)
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #241143136621:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:30:18 ET
+Table 'Colchis' 6-max Seat #6 is the button
+Seat 1: baikiro ($3.95 in chips) 
+Seat 3: nicolas1690 ($1.92 in chips) 
+Seat 4: chrisrsilver ($3.08 in chips) 
+Seat 5: Arsenalfan19 ($1.28 in chips) 
+Seat 6: Lorpugo ($1.74 in chips) 
+baikiro: posts small blind $0.01
+nicolas1690: posts big blind $0.02
+baikiro: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8c]
+chrisrsilver: raises $0.04 to $0.06
+Arsenalfan19: folds 
+henriqueesil joins the table at seat #2 
+Lorpugo: folds 
+baikiro: folds 
+nicolas1690: folds 
+Uncalled bet ($0.04) returned to chrisrsilver
+chrisrsilver collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: baikiro (small blind) folded before Flop
+Seat 3: nicolas1690 (big blind) folded before Flop
+Seat 4: chrisrsilver collected ($0.10)
+Seat 5: Arsenalfan19 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143142159:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:30:30 ET
+Table 'Colchis' 6-max Seat #1 is the button
+Seat 1: baikiro ($3.93 in chips) 
+Seat 4: chrisrsilver ($3.15 in chips) 
+Seat 5: Arsenalfan19 ($1.27 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+chrisrsilver: posts small blind $0.01
+Arsenalfan19: posts big blind $0.02
+baikiro: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 6s]
+Lorpugo: raises $0.03 to $0.05
+baikiro: folds 
+chrisrsilver: calls $0.04
+Arsenalfan19: calls $0.03
+*** FLOP *** [Ah 8d 5d]
+chrisrsilver: checks 
+Arsenalfan19: checks 
+Lorpugo: checks 
+*** TURN *** [Ah 8d 5d] [2d]
+chrisrsilver: bets $0.09
+Arsenalfan19: folds 
+Lorpugo: calls $0.09
+*** RIVER *** [Ah 8d 5d 2d] [Qh]
+chrisrsilver: bets $0.18
+Lorpugo: calls $0.18
+*** SHOW DOWN ***
+chrisrsilver: shows [Jc Ad] (a pair of Aces)
+Lorpugo: mucks hand 
+chrisrsilver collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Ah 8d 5d 2d Qh]
+Seat 1: baikiro (button) folded before Flop (didn't bet)
+Seat 4: chrisrsilver (small blind) showed [Jc Ad] and won ($0.70) with a pair of Aces
+Seat 5: Arsenalfan19 (big blind) folded on the Turn
+Seat 6: Lorpugo mucked [As 6s]
+
+
+
+PokerStars Hand #241143159072:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:31:08 ET
+Table 'Colchis' 6-max Seat #4 is the button
+Seat 1: baikiro ($3.92 in chips) 
+Seat 2: henriqueesil ($2 in chips) 
+Seat 4: chrisrsilver ($3.52 in chips) 
+Seat 5: Arsenalfan19 ($1.21 in chips) 
+Seat 6: Lorpugo ($1.40 in chips) 
+Arsenalfan19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+henriqueesil: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 5s]
+baikiro: folds 
+henriqueesil: raises $0.04 to $0.06
+chrisrsilver: folds 
+Arsenalfan19: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [Ac Jd Kh]
+Arsenalfan19: bets $0.04
+henriqueesil: calls $0.04
+*** TURN *** [Ac Jd Kh] [3c]
+Arsenalfan19: bets $0.04
+henriqueesil: calls $0.04
+*** RIVER *** [Ac Jd Kh 3c] [Qc]
+Arsenalfan19: bets $0.04
+henriqueesil: raises $0.22 to $0.26
+Arsenalfan19: calls $0.22
+*** SHOW DOWN ***
+henriqueesil: shows [As Td] (a straight, Ten to Ace)
+Arsenalfan19: mucks hand 
+henriqueesil collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Ac Jd Kh 3c Qc]
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 2: henriqueesil showed [As Td] and won ($0.84) with a straight, Ten to Ace
+Seat 4: chrisrsilver (button) folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (small blind) mucked [Ad 3d]
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241143181237:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:31:56 ET
+Table 'Colchis' 6-max Seat #5 is the button
+Seat 1: baikiro ($3.91 in chips) 
+Seat 2: henriqueesil ($2.43 in chips) 
+Seat 4: chrisrsilver ($3.51 in chips) 
+Seat 5: Arsenalfan19 ($0.80 in chips) 
+Seat 6: Lorpugo ($1.37 in chips) 
+Lorpugo: posts small blind $0.01
+baikiro: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 4c]
+henriqueesil: folds 
+chrisrsilver: folds 
+Arsenalfan19: folds 
+Lorpugo: raises $0.03 to $0.05
+baikiro: calls $0.03
+*** FLOP *** [Jd Th 3h]
+Lorpugo: bets $0.05
+baikiro: calls $0.05
+*** TURN *** [Jd Th 3h] [4d]
+Lorpugo: bets $0.28
+baikiro: raises $0.40 to $0.68
+Lorpugo: raises $0.58 to $1.26 and is all-in
+baikiro: calls $0.58
+*** RIVER *** [Jd Th 3h 4d] [Jh]
+*** SHOW DOWN ***
+Lorpugo: shows [Tc 4c] (two pair, Jacks and Tens)
+baikiro: shows [Jc 3c] (a full house, Jacks full of Threes)
+baikiro collected $2.67 from pot
+*** SUMMARY ***
+Total pot $2.77 | Rake $0.10 
+Board [Jd Th 3h 4d Jh]
+Seat 1: baikiro (big blind) showed [Jc 3c] and won ($2.67) with a full house, Jacks full of Threes
+Seat 2: henriqueesil folded before Flop (didn't bet)
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) showed [Tc 4c] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #241143281206:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:35:36 ET
+Table 'Colchis' 6-max Seat #2 is the button
+Seat 1: baikiro ($5.20 in chips) 
+Seat 2: henriqueesil ($2.33 in chips) 
+Seat 5: Arsenalfan19 ($0.91 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+Arsenalfan19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3d]
+baikiro: folds 
+henriqueesil: folds 
+Arsenalfan19: raises $0.02 to $0.04
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Arsenalfan19
+Arsenalfan19 collected $0.08 from pot
+Arsenalfan19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 2: henriqueesil (button) folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (small blind) collected ($0.08)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241143288121:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:35:51 ET
+Table 'Colchis' 6-max Seat #5 is the button
+Seat 1: baikiro ($5.19 in chips) 
+Seat 2: henriqueesil ($2.32 in chips) 
+Seat 5: Arsenalfan19 ($0.96 in chips) 
+Seat 6: Lorpugo ($1.79 in chips) 
+Lorpugo: posts small blind $0.01
+baikiro: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd As]
+henriqueesil: folds 
+Arsenalfan19: raises $0.04 to $0.06
+Lorpugo: raises $0.12 to $0.18
+baikiro: folds 
+Arsenalfan19: raises $0.12 to $0.30
+Lorpugo: raises $1.48 to $1.78 and is all-in
+Arsenalfan19: calls $0.65 and is all-in
+Uncalled bet ($0.83) returned to Lorpugo
+*** FLOP *** [4s 9c Qh]
+*** TURN *** [4s 9c Qh] [6s]
+*** RIVER *** [4s 9c Qh 6s] [5h]
+*** SHOW DOWN ***
+Lorpugo: shows [Kd As] (high card Ace)
+Arsenalfan19: shows [7h 7c] (a pair of Sevens)
+Arsenalfan19 collected $1.89 from pot
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.07 
+Board [4s 9c Qh 6s 5h]
+Seat 1: baikiro (big blind) folded before Flop
+Seat 2: henriqueesil folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (button) showed [7h 7c] and won ($1.89) with a pair of Sevens
+Seat 6: Lorpugo (small blind) showed [Kd As] and lost with high card Ace
+
+
+
+PokerStars Hand #241143310865:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:36:41 ET
+Table 'Colchis' 6-max Seat #6 is the button
+Seat 1: baikiro ($5.16 in chips) 
+Seat 2: henriqueesil ($2.31 in chips) 
+Seat 4: chrisrsilver ($3.47 in chips) 
+Seat 5: Arsenalfan19 ($1.89 in chips) 
+Seat 6: Lorpugo ($0.83 in chips) 
+baikiro: posts small blind $0.01
+henriqueesil: posts big blind $0.02
+chrisrsilver: posts small blind $0.01
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 2h]
+chrisrsilver: raises $0.04 to $0.06
+Arsenalfan19: calls $0.06
+Lorpugo: folds 
+baikiro: folds 
+henriqueesil: calls $0.04
+*** FLOP *** [5c 8c Jh]
+henriqueesil: checks 
+chrisrsilver: checks 
+Arsenalfan19: bets $0.08
+henriqueesil: calls $0.08
+chrisrsilver: folds 
+*** TURN *** [5c 8c Jh] [Tc]
+henriqueesil: checks 
+Arsenalfan19: bets $0.28
+henriqueesil: folds 
+Uncalled bet ($0.28) returned to Arsenalfan19
+Arsenalfan19 collected $0.40 from pot
+Arsenalfan19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [5c 8c Jh Tc]
+Seat 1: baikiro (small blind) folded before Flop
+Seat 2: henriqueesil (big blind) folded on the Turn
+Seat 4: chrisrsilver folded on the Flop
+Seat 5: Arsenalfan19 collected ($0.40)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143339389:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:37:43 ET
+Table 'Colchis' 6-max Seat #1 is the button
+Seat 1: baikiro ($5.14 in chips) 
+Seat 2: henriqueesil ($2.16 in chips) 
+Seat 3: nicolas1690 ($1.89 in chips) 
+Seat 4: chrisrsilver ($3.39 in chips) 
+Seat 5: Arsenalfan19 ($2.14 in chips) 
+Seat 6: Lorpugo ($0.82 in chips) 
+henriqueesil: posts small blind $0.01
+nicolas1690: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Th]
+chrisrsilver: folds 
+Arsenalfan19: calls $0.02
+Lorpugo: folds 
+baikiro: folds 
+henriqueesil: raises $0.06 to $0.08
+nicolas1690: folds 
+Arsenalfan19: calls $0.06
+*** FLOP *** [Td 2d Qh]
+henriqueesil: bets $0.06
+Arsenalfan19: folds 
+Uncalled bet ($0.06) returned to henriqueesil
+henriqueesil collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Td 2d Qh]
+Seat 1: baikiro (button) folded before Flop (didn't bet)
+Seat 2: henriqueesil (small blind) collected ($0.23)
+Seat 3: nicolas1690 (big blind) folded before Flop
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143358640:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:38:26 ET
+Table 'Colchis' 6-max Seat #2 is the button
+Seat 1: baikiro ($5.13 in chips) 
+Seat 2: henriqueesil ($2.30 in chips) 
+Seat 3: nicolas1690 ($1.86 in chips) 
+Seat 4: chrisrsilver ($3.38 in chips) 
+Seat 5: Arsenalfan19 ($2.05 in chips) 
+Seat 6: Lorpugo ($0.81 in chips) 
+nicolas1690: posts small blind $0.01
+chrisrsilver: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 3s]
+Arsenalfan19: raises $0.04 to $0.06
+Lorpugo: folds 
+baikiro: folds 
+henriqueesil: folds 
+nicolas1690: folds 
+chrisrsilver: folds 
+Uncalled bet ($0.04) returned to Arsenalfan19
+Arsenalfan19 collected $0.11 from pot
+Arsenalfan19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 2: henriqueesil (button) folded before Flop (didn't bet)
+Seat 3: nicolas1690 (small blind) folded before Flop
+Seat 4: chrisrsilver (big blind) folded before Flop
+Seat 5: Arsenalfan19 collected ($0.11)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143364044:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:38:38 ET
+Table 'Colchis' 6-max Seat #3 is the button
+Seat 1: baikiro ($5.12 in chips) 
+Seat 2: henriqueesil ($2.29 in chips) 
+Seat 3: nicolas1690 ($1.84 in chips) 
+Seat 4: chrisrsilver ($3.35 in chips) 
+Seat 5: Arsenalfan19 ($2.13 in chips) 
+Seat 6: Lorpugo ($0.80 in chips) 
+chrisrsilver: posts small blind $0.01
+Arsenalfan19: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6c]
+Lorpugo: raises $0.03 to $0.05
+baikiro: calls $0.05
+henriqueesil: folds 
+nicolas1690: folds 
+chrisrsilver: folds 
+Arsenalfan19: calls $0.03
+*** FLOP *** [Js As Jc]
+Arsenalfan19: checks 
+Lorpugo: bets $0.07
+baikiro: folds 
+Arsenalfan19: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.21 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Js As Jc]
+Seat 1: baikiro folded on the Flop
+Seat 2: henriqueesil folded before Flop (didn't bet)
+Seat 3: nicolas1690 (button) folded before Flop (didn't bet)
+Seat 4: chrisrsilver (small blind) folded before Flop
+Seat 5: Arsenalfan19 (big blind) folded on the Flop
+Seat 6: Lorpugo collected ($0.21)
+
+
+
+PokerStars Hand #241143386349:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:39:27 ET
+Table 'Colchis' 6-max Seat #4 is the button
+Seat 1: baikiro ($5.06 in chips) 
+Seat 2: henriqueesil ($2.28 in chips) 
+Seat 3: nicolas1690 ($1.83 in chips) 
+Seat 4: chrisrsilver ($3.33 in chips) 
+Seat 5: Arsenalfan19 ($2.07 in chips) 
+Seat 6: Lorpugo ($0.95 in chips) 
+Arsenalfan19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 4h]
+baikiro: folds 
+henriqueesil: folds 
+nicolas1690: folds 
+chrisrsilver: raises $0.04 to $0.06
+Arsenalfan19: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [6c 7d Qd]
+Arsenalfan19: checks 
+Lorpugo: checks 
+chrisrsilver: checks 
+*** TURN *** [6c 7d Qd] [6h]
+Arsenalfan19: checks 
+Lorpugo: bets $0.15
+chrisrsilver: folds 
+Arsenalfan19: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [6c 7d Qd 6h]
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 2: henriqueesil folded before Flop (didn't bet)
+Seat 3: nicolas1690 folded before Flop (didn't bet)
+Seat 4: chrisrsilver (button) folded on the Turn
+Seat 5: Arsenalfan19 (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) collected ($0.23)
+
+
+
+PokerStars Hand #241143406082:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:40:11 ET
+Table 'Colchis' 6-max Seat #5 is the button
+Seat 1: baikiro ($5.05 in chips) 
+Seat 2: henriqueesil ($2.27 in chips) 
+Seat 3: nicolas1690 ($1.82 in chips) 
+Seat 4: chrisrsilver ($3.26 in chips) 
+Seat 5: Arsenalfan19 ($2 in chips) 
+Seat 6: Lorpugo ($1.11 in chips) 
+Lorpugo: posts small blind $0.01
+baikiro: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Td]
+henriqueesil: raises $0.02 to $0.04
+nicolas1690: folds 
+chrisrsilver: calls $0.04
+Arsenalfan19: calls $0.04
+Lorpugo: folds 
+baikiro: folds 
+*** FLOP *** [9d 5c 6h]
+henriqueesil: checks 
+chrisrsilver: bets $0.10
+Arsenalfan19: folds 
+henriqueesil: folds 
+Uncalled bet ($0.10) returned to chrisrsilver
+chrisrsilver collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9d 5c 6h]
+Seat 1: baikiro (big blind) folded before Flop
+Seat 2: henriqueesil folded on the Flop
+Seat 3: nicolas1690 folded before Flop (didn't bet)
+Seat 4: chrisrsilver collected ($0.20)
+Seat 5: Arsenalfan19 (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241143427461:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:40:59 ET
+Table 'Colchis' 6-max Seat #6 is the button
+Seat 1: baikiro ($5.02 in chips) 
+Seat 2: henriqueesil ($2.22 in chips) 
+Seat 4: chrisrsilver ($3.41 in chips) 
+Seat 5: Arsenalfan19 ($1.95 in chips) 
+Seat 6: Lorpugo ($1.09 in chips) 
+baikiro: posts small blind $0.01
+henriqueesil: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 2c]
+chrisrsilver: folds 
+Arsenalfan19: folds 
+Lorpugo: folds 
+baikiro: folds 
+Uncalled bet ($0.01) returned to henriqueesil
+henriqueesil collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: baikiro (small blind) folded before Flop
+Seat 2: henriqueesil (big blind) collected ($0.07)
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143431776:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:41:08 ET
+Table 'Colchis' 6-max Seat #1 is the button
+Seat 1: baikiro ($5 in chips) 
+Seat 2: henriqueesil ($2.27 in chips) 
+Seat 4: chrisrsilver ($3.40 in chips) 
+Seat 5: Arsenalfan19 ($1.94 in chips) 
+Seat 6: Lorpugo ($1.08 in chips) 
+henriqueesil: posts small blind $0.01
+chrisrsilver: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Jc]
+Arsenalfan19: raises $0.02 to $0.04
+Lorpugo: folds 
+baikiro: folds 
+henriqueesil: raises $0.02 to $0.06
+chrisrsilver: folds 
+Arsenalfan19: calls $0.02
+*** FLOP *** [9s Tc 7s]
+henriqueesil: bets $0.04
+Arsenalfan19: calls $0.04
+*** TURN *** [9s Tc 7s] [6s]
+henriqueesil: checks 
+Arsenalfan19: checks 
+*** RIVER *** [9s Tc 7s 6s] [7h]
+henriqueesil: bets $0.02
+Arsenalfan19: calls $0.02
+*** SHOW DOWN ***
+henriqueesil: shows [Ac 3c] (a pair of Sevens)
+Arsenalfan19: mucks hand 
+henriqueesil collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9s Tc 7s 6s 7h]
+Seat 1: baikiro (button) folded before Flop (didn't bet)
+Seat 2: henriqueesil (small blind) showed [Ac 3c] and won ($0.30) with a pair of Sevens
+Seat 4: chrisrsilver (big blind) folded before Flop
+Seat 5: Arsenalfan19 mucked [Kc Jd]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143447181:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:41:43 ET
+Table 'Colchis' 6-max Seat #2 is the button
+Seat 1: baikiro ($4.99 in chips) 
+Seat 2: henriqueesil ($2.44 in chips) 
+Seat 4: chrisrsilver ($3.37 in chips) 
+Seat 5: Arsenalfan19 ($1.81 in chips) 
+Seat 6: Lorpugo ($1.07 in chips) 
+chrisrsilver: posts small blind $0.01
+Arsenalfan19: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Qd]
+Lorpugo: raises $0.03 to $0.05
+baikiro: calls $0.05
+henriqueesil: folds 
+chrisrsilver: folds 
+Arsenalfan19: calls $0.03
+*** FLOP *** [Ac 6c 3d]
+Arsenalfan19: checks 
+Lorpugo: bets $0.07
+baikiro: folds 
+Arsenalfan19: calls $0.07
+*** TURN *** [Ac 6c 3d] [6s]
+Arsenalfan19: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac 6c 3d 6s] [6h]
+Arsenalfan19: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Arsenalfan19: shows [5c Qc] (three of a kind, Sixes)
+Lorpugo: shows [Kc Qd] (three of a kind, Sixes - Ace+King kicker)
+Lorpugo collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Ac 6c 3d 6s 6h]
+Seat 1: baikiro folded on the Flop
+Seat 2: henriqueesil (button) folded before Flop (didn't bet)
+Seat 4: chrisrsilver (small blind) folded before Flop
+Seat 5: Arsenalfan19 (big blind) showed [5c Qc] and lost with three of a kind, Sixes
+Seat 6: Lorpugo showed [Kc Qd] and won ($0.34) with three of a kind, Sixes
+
+
+
+PokerStars Hand #241143465953:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:42:24 ET
+Table 'Colchis' 6-max Seat #4 is the button
+Seat 1: baikiro ($4.93 in chips) 
+Seat 2: henriqueesil ($2.43 in chips) 
+Seat 4: chrisrsilver ($3.35 in chips) 
+Seat 5: Arsenalfan19 ($1.68 in chips) 
+Seat 6: Lorpugo ($1.28 in chips) 
+Arsenalfan19: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Jc]
+baikiro: folds 
+henriqueesil has timed out
+henriqueesil: folds 
+chrisrsilver: folds 
+Arsenalfan19: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+Arsenalfan19: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.09 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 2: henriqueesil folded before Flop (didn't bet)
+Seat 4: chrisrsilver (button) folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #241143481475:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:42:58 ET
+Table 'Colchis' 6-max Seat #5 is the button
+Seat 1: baikiro ($4.92 in chips) 
+Seat 2: henriqueesil ($2.42 in chips) 
+Seat 4: chrisrsilver ($3.34 in chips) 
+Seat 5: Arsenalfan19 ($1.65 in chips) 
+Seat 6: Lorpugo ($1.34 in chips) 
+Lorpugo: posts small blind $0.01
+baikiro: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 3c]
+henriqueesil: raises $0.04 to $0.06
+chrisrsilver: calls $0.06
+Arsenalfan19: folds 
+Lorpugo: folds 
+baikiro: folds 
+*** FLOP *** [4c Jh 4h]
+henriqueesil: bets $0.06
+chrisrsilver: raises $0.14 to $0.20
+henriqueesil: calls $0.14
+*** TURN *** [4c Jh 4h] [2h]
+henriqueesil: checks 
+chrisrsilver: checks 
+*** RIVER *** [4c Jh 4h 2h] [Kd]
+henriqueesil: checks 
+chrisrsilver: bets $0.29
+henriqueesil: folds 
+Uncalled bet ($0.29) returned to chrisrsilver
+chrisrsilver collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [4c Jh 4h 2h Kd]
+Seat 1: baikiro (big blind) folded before Flop
+Seat 2: henriqueesil folded on the River
+Seat 4: chrisrsilver collected ($0.58)
+Seat 5: Arsenalfan19 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241143500818:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:43:41 ET
+Table 'Colchis' 6-max Seat #6 is the button
+Seat 1: baikiro ($4.89 in chips) 
+Seat 2: henriqueesil ($2.15 in chips) 
+Seat 3: nicolas1690 ($1.81 in chips) 
+Seat 4: chrisrsilver ($3.65 in chips) 
+Seat 5: Arsenalfan19 ($1.64 in chips) 
+Seat 6: Lorpugo ($1.32 in chips) 
+baikiro: posts small blind $0.01
+henriqueesil: posts big blind $0.02
+nicolas1690: posts small & big blinds $0.03
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Tc]
+nicolas1690: checks 
+chrisrsilver: folds 
+Arsenalfan19: calls $0.02
+Lorpugo: calls $0.02
+baikiro: calls $0.01
+henriqueesil: raises $0.04 to $0.06
+nicolas1690: calls $0.04
+Arsenalfan19: calls $0.04
+Lorpugo: calls $0.04
+baikiro: calls $0.04
+*** FLOP *** [6h 3d 6s]
+baikiro: checks 
+henriqueesil: checks 
+nicolas1690: checks 
+Arsenalfan19: bets $0.04
+Lorpugo: folds 
+baikiro: calls $0.04
+henriqueesil: calls $0.04
+nicolas1690: folds 
+*** TURN *** [6h 3d 6s] [3h]
+baikiro: checks 
+henriqueesil: checks 
+Arsenalfan19: bets $0.04
+baikiro: calls $0.04
+henriqueesil: raises $0.44 to $0.48
+Arsenalfan19: raises $0.44 to $0.92
+baikiro: folds 
+henriqueesil: raises $1.12 to $2.04 and is all-in
+Arsenalfan19: calls $0.61 and is all-in
+Uncalled bet ($0.51) returned to henriqueesil
+*** RIVER *** [6h 3d 6s 3h] [8h]
+*** SHOW DOWN ***
+henriqueesil: shows [Ah 6c] (a full house, Sixes full of Threes)
+Arsenalfan19: shows [Ac 6d] (a full house, Sixes full of Threes)
+henriqueesil collected $1.73 from pot
+Arsenalfan19 collected $1.73 from pot
+*** SUMMARY ***
+Total pot $3.59 | Rake $0.13 
+Board [6h 3d 6s 3h 8h]
+Seat 1: baikiro (small blind) folded on the Turn
+Seat 2: henriqueesil (big blind) showed [Ah 6c] and won ($1.73) with a full house, Sixes full of Threes
+Seat 3: nicolas1690 folded on the Flop
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 showed [Ac 6d] and won ($1.73) with a full house, Sixes full of Threes
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #241143550536:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:45:30 ET
+Table 'Colchis' 6-max Seat #1 is the button
+Seat 1: baikiro ($4.74 in chips) 
+Seat 2: henriqueesil ($2.24 in chips) 
+Seat 3: nicolas1690 ($1.73 in chips) 
+Seat 4: chrisrsilver ($3.64 in chips) 
+Seat 5: Arsenalfan19 ($1.73 in chips) 
+Seat 6: Lorpugo ($1.25 in chips) 
+henriqueesil: posts small blind $0.01
+nicolas1690: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6c]
+chrisrsilver: folds 
+Arsenalfan19: calls $0.02
+Lorpugo: folds 
+baikiro: raises $0.06 to $0.08
+henriqueesil: folds 
+nicolas1690: calls $0.06
+Arsenalfan19: calls $0.06
+*** FLOP *** [Qs 4d 7c]
+nicolas1690: checks 
+Arsenalfan19: checks 
+baikiro: bets $0.16
+nicolas1690: raises $0.16 to $0.32
+Arsenalfan19: folds 
+baikiro: calls $0.16
+*** TURN *** [Qs 4d 7c] [9h]
+nicolas1690: bets $0.20
+baikiro: calls $0.20
+*** RIVER *** [Qs 4d 7c 9h] [9s]
+nicolas1690: bets $0.20
+baikiro: raises $0.85 to $1.05
+nicolas1690: folds 
+Uncalled bet ($0.85) returned to baikiro
+baikiro collected $1.69 from pot
+baikiro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.06 
+Board [Qs 4d 7c 9h 9s]
+Seat 1: baikiro (button) collected ($1.69)
+Seat 2: henriqueesil (small blind) folded before Flop
+Seat 3: nicolas1690 (big blind) folded on the River
+Seat 4: chrisrsilver folded before Flop (didn't bet)
+Seat 5: Arsenalfan19 folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241143588439:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:46:55 ET
+Table 'Colchis' 6-max Seat #2 is the button
+Seat 1: baikiro ($5.62 in chips) 
+Seat 2: henriqueesil ($2.22 in chips) 
+Seat 3: nicolas1690 ($0.92 in chips) 
+Seat 4: chrisrsilver ($3.63 in chips) 
+Seat 5: Arsenalfan19 ($1.64 in chips) 
+Seat 6: Lorpugo ($1.24 in chips) 
+nicolas1690: posts small blind $0.01
+chrisrsilver: posts big blind $0.02
+baikiro: posts the ante $0.01
+henriqueesil: posts the ante $0.01
+nicolas1690: posts the ante $0.01
+chrisrsilver: posts the ante $0.01
+Arsenalfan19: posts the ante $0.01
+Lorpugo: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 5d]
+Arsenalfan19: raises $0.02 to $0.04
+Lorpugo: folds 
+baikiro: folds 
+henriqueesil: folds 
+nicolas1690: folds 
+chrisrsilver: calls $0.02
+*** FLOP *** [2d 9d 6c]
+chrisrsilver: bets $0.07
+Arsenalfan19: folds 
+Uncalled bet ($0.07) returned to chrisrsilver
+chrisrsilver collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2d 9d 6c]
+Seat 1: baikiro folded before Flop (didn't bet)
+Seat 2: henriqueesil (button) folded before Flop (didn't bet)
+Seat 3: nicolas1690 (small blind) folded before Flop
+Seat 4: chrisrsilver (big blind) collected ($0.14)
+Seat 5: Arsenalfan19 folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+

@@ -364,6 +364,7 @@ def display():
     label_player7.config(text=player7.name)
     ps7 = round(player7.stack,2)
     if player7.name == "SitOut":
+    #if False:
         label_player7.place(x=9999, y=9999)
         label_player7_stack.place(x=9999, y=9999)
         button_bet7.place(x=9999, y=9999)
@@ -387,6 +388,7 @@ def display():
     label_player8.config(text=player8.name)
     ps8 = round(player8.stack,2)
     if player8.name == "SitOut":
+    #if False:
         label_player8.place(x=9999, y=9999)
         label_player8_stack.place(x=9999, y=9999)
         button_bet8.place(x=9999, y=9999)
@@ -740,6 +742,16 @@ def extract_info(line):
                     player6.seat = int(match.group(1))
                     ps6 = float(floats[-1])
                     player6.stack = round(ps6,2)
+                elif int(match.group(1)) == 7:
+                    player7.name = match.group(2)  
+                    player7.seat = int(match.group(1))
+                    ps7 = float(floats[-1])
+                    player7.stack = round(ps7,2)
+                elif int(match.group(1)) == 8:
+                    player8.name = match.group(2)  
+                    player8.seat = int(match.group(1))
+                    ps8 = float(floats[-1])
+                    player8.stack = round(ps8,2)
                 else:
                     pass
     if "posts" in line:

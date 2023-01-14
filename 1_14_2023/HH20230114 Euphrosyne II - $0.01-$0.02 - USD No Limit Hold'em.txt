@@ -1,0 +1,2783 @@
+﻿PokerStars Hand #241139270405:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 12:57:02 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 2: DanteDenisAA ($2.02 in chips) 
+Seat 4: MinelliJr ($1.35 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: molecule1100 ($2.39 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Th]
+molecule1100: raises $0.04 to $0.06
+DanteDenisAA: folds 
+gameman74 is disconnected 
+MinelliJr: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [5s 4d 6d]
+Lorpugo: checks 
+molecule1100: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [5s 4d 6d] [Ks]
+Lorpugo: checks 
+molecule1100: bets $0.02
+Po975 joins the table at seat #3 
+Lorpugo: calls $0.02
+*** RIVER *** [5s 4d 6d Ks] [Kd]
+Lorpugo: checks 
+molecule1100: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7h Th] (a pair of Kings)
+molecule1100: shows [Jc Qd] (a pair of Kings - Queen kicker)
+molecule1100 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5s 4d 6d Ks Kd]
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [7h Th] and lost with a pair of Kings
+Seat 6: molecule1100 showed [Jc Qd] and won ($0.20) with a pair of Kings
+
+
+
+PokerStars Hand #241139278909:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 12:57:32 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 2: DanteDenisAA ($2.02 in chips) 
+Seat 4: MinelliJr ($1.34 in chips) 
+Seat 5: Lorpugo ($1.50 in chips) 
+Seat 6: molecule1100 ($2.49 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5h]
+DanteDenisAA: raises $0.03 to $0.05
+gameman74 is disconnected 
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: raises $0.03 to $0.08
+DanteDenisAA: calls $0.03
+*** FLOP *** [Ah 2s 4h]
+molecule1100: bets $0.02
+DanteDenisAA: calls $0.02
+*** TURN *** [Ah 2s 4h] [8c]
+molecule1100: bets $0.02
+DanteDenisAA: calls $0.02
+*** RIVER *** [Ah 2s 4h 8c] [6s]
+molecule1100: bets $0.02
+DanteDenisAA: calls $0.02
+*** SHOW DOWN ***
+molecule1100: shows [Qd Qs] (a pair of Queens)
+DanteDenisAA: mucks hand 
+molecule1100 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ah 2s 4h 8c 6s]
+Seat 2: DanteDenisAA mucked [8h Th]
+Seat 4: MinelliJr (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) showed [Qd Qs] and won ($0.28) with a pair of Queens
+
+
+
+PokerStars Hand #241139290993:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 12:58:16 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 2: DanteDenisAA ($2 in chips) 
+Seat 3: Po975 ($1.23 in chips) 
+Seat 4: MinelliJr ($1.34 in chips) 
+Seat 5: Lorpugo ($1.49 in chips) 
+Seat 6: molecule1100 ($2.63 in chips) 
+molecule1100: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+Po975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 8h]
+Po975: checks 
+MinelliJr has timed out
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+DanteDenisAA: checks 
+*** FLOP *** [2s 6c 9s]
+DanteDenisAA: checks 
+Po975: checks 
+*** TURN *** [2s 6c 9s] [Qs]
+DanteDenisAA: checks 
+Po975: checks 
+*** RIVER *** [2s 6c 9s Qs] [4c]
+DanteDenisAA: checks 
+Po975: checks 
+*** SHOW DOWN ***
+DanteDenisAA: shows [Tc 3c] (high card Queen)
+Po975: shows [Ks 8c] (high card King)
+Po975 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s 6c 9s Qs 4c]
+Seat 2: DanteDenisAA (big blind) showed [Tc 3c] and lost with high card Queen
+Seat 3: Po975 showed [Ks 8c] and won ($0.05) with high card King
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241139302028:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 12:58:56 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 2: DanteDenisAA ($2 in chips) 
+Seat 3: Po975 ($1.26 in chips) 
+Seat 5: Lorpugo ($1.49 in chips) 
+Seat 6: molecule1100 ($2.62 in chips) 
+DanteDenisAA: posts small blind $0.01
+Po975: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jh]
+Lorpugo: raises $0.02 to $0.04
+MinelliJr is disconnected 
+molecule1100: folds 
+DanteDenisAA: folds 
+Po975: calls $0.02
+*** FLOP *** [Qc 8c Ts]
+Po975: bets $0.02
+Lorpugo: raises $0.09 to $0.11
+Po975: calls $0.09
+*** TURN *** [Qc 8c Ts] [Qh]
+Po975: bets $0.30
+gameman74 is disconnected 
+Lorpugo: raises $1.04 to $1.34 and is all-in
+Po975: calls $0.81 and is all-in
+Uncalled bet ($0.23) returned to Lorpugo
+*** RIVER *** [Qc 8c Ts Qh] [Jd]
+*** SHOW DOWN ***
+Po975: shows [Th Ac] (two pair, Queens and Tens)
+Lorpugo: shows [Qd Jh] (a full house, Queens full of Jacks)
+Lorpugo collected $2.44 from pot
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.09 
+Board [Qc 8c Ts Qh Jd]
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: Po975 (big blind) showed [Th Ac] and lost with two pair, Queens and Tens
+Seat 5: Lorpugo showed [Qd Jh] and won ($2.44) with a full house, Queens full of Jacks
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139314348:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 12:59:40 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 2: DanteDenisAA ($2 in chips) 
+Seat 5: Lorpugo ($2.67 in chips) 
+Seat 6: molecule1100 ($2.62 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8d]
+DanteDenisAA: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+gameman74 is disconnected 
+molecule1100: calls $0.03
+*** FLOP *** [7s 3c Kc]
+Lorpugo: bets $0.09
+Po975 leaves the table
+kainarasset joins the table at seat #3 
+molecule1100: folds 
+DanteDenisAA: calls $0.09
+*** TURN *** [7s 3c Kc] [6c]
+Lorpugo: bets $0.16
+DanteDenisAA: calls $0.16
+*** RIVER *** [7s 3c Kc 6c] [9d]
+Lorpugo: checks 
+DanteDenisAA: bets $0.21
+Lorpugo: calls $0.21
+*** SHOW DOWN ***
+DanteDenisAA: shows [9c Qc] (a flush, King high)
+Lorpugo: mucks hand 
+DanteDenisAA collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [7s 3c Kc 6c 9d]
+Seat 2: DanteDenisAA (button) showed [9c Qc] and won ($1.03) with a flush, King high
+Seat 5: Lorpugo (small blind) mucked [Kd 8d]
+Seat 6: molecule1100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241139330084:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:00:35 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 2: DanteDenisAA ($2.52 in chips) 
+Seat 5: Lorpugo ($2.16 in chips) 
+Seat 6: molecule1100 ($2.57 in chips) 
+molecule1100: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qs]
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+DanteDenisAA: calls $0.03
+*** FLOP *** [9d 2c 6h]
+DanteDenisAA: checks 
+Lorpugo: bets $0.04
+DanteDenisAA: calls $0.04
+*** TURN *** [9d 2c 6h] [7d]
+DanteDenisAA: checks 
+Lorpugo: checks 
+*** RIVER *** [9d 2c 6h 7d] [4s]
+DanteDenisAA: bets $0.13
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to DanteDenisAA
+DanteDenisAA collected $0.18 from pot
+DanteDenisAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9d 2c 6h 7d 4s]
+Seat 2: DanteDenisAA (big blind) collected ($0.18)
+Seat 5: Lorpugo (button) folded on the River
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241139342340:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:01:14 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 2: DanteDenisAA ($2.61 in chips) 
+Seat 3: kainarasset ($2 in chips) 
+Seat 5: Lorpugo ($2.07 in chips) 
+Seat 6: molecule1100 ($2.56 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Ah]
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+DanteDenisAA: calls $0.04
+kainarasset: folds 
+*** FLOP *** [7c 3h 4h]
+DanteDenisAA: checks 
+Lorpugo: bets $0.08
+DanteDenisAA: calls $0.08
+*** TURN *** [7c 3h 4h] [4s]
+DanteDenisAA: checks 
+Lorpugo: bets $0.14
+DanteDenisAA: calls $0.14
+*** RIVER *** [7c 3h 4h 4s] [3c]
+DanteDenisAA: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+DanteDenisAA: shows [5s 5c] (two pair, Fives and Fours)
+Lorpugo: mucks hand 
+DanteDenisAA collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [7c 3h 4h 4s 3c]
+Seat 2: DanteDenisAA (small blind) showed [5s 5c] and won ($0.54) with two pair, Fives and Fours
+Seat 3: kainarasset (big blind) folded before Flop
+Seat 5: Lorpugo mucked [9h Ah]
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139363128:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:02:14 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 2: DanteDenisAA ($2.88 in chips) 
+Seat 3: kainarasset ($2 in chips) 
+Seat 5: Lorpugo ($1.80 in chips) 
+Seat 6: molecule1100 ($2.56 in chips) 
+kainarasset: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 5d]
+molecule1100: folds 
+DanteDenisAA: folds 
+kainarasset: raises $0.04 to $0.06
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to kainarasset
+kainarasset collected $0.04 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: kainarasset (small blind) collected ($0.04)
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139368537:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:02:29 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 2: DanteDenisAA ($2.88 in chips) 
+Seat 3: kainarasset ($2.02 in chips) 
+Seat 5: Lorpugo ($1.78 in chips) 
+Seat 6: molecule1100 ($2.56 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2d]
+DanteDenisAA: folds 
+kainarasset: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($0.04)
+Seat 6: molecule1100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241139371943:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:02:38 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 2: DanteDenisAA ($2.88 in chips) 
+Seat 3: kainarasset ($2.02 in chips) 
+Seat 5: Lorpugo ($1.80 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+molecule1100: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Qs]
+kainarasset: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+gameman74 leaves the table
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: DanteDenisAA (big blind) folded before Flop
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.05)
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241139378561:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:02:54 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 2: DanteDenisAA ($2.86 in chips) 
+Seat 3: kainarasset ($2.02 in chips) 
+Seat 4: MinelliJr ($1.34 in chips) 
+Seat 5: Lorpugo ($1.83 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+MinelliJr: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 2h]
+MinelliJr: checks 
+Lorpugo: folds 
+molecule1100: folds 
+DanteDenisAA: folds 
+Angelo Ma783 joins the table at seat #1 
+kainarasset: checks 
+*** FLOP *** [2s Td 2d]
+kainarasset: checks 
+MinelliJr: checks 
+*** TURN *** [2s Td 2d] [Ah]
+kainarasset: bets $0.04
+MinelliJr: folds 
+Uncalled bet ($0.04) returned to kainarasset
+kainarasset collected $0.06 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2s Td 2d Ah]
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: kainarasset (big blind) collected ($0.06)
+Seat 4: MinelliJr folded on the Turn (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139389051:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:03:22 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 2: DanteDenisAA ($2.85 in chips) 
+Seat 3: kainarasset ($2.06 in chips) 
+Seat 4: MinelliJr ($1.31 in chips) 
+Seat 5: Lorpugo ($1.83 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+kainarasset: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Qc]
+Lorpugo: folds 
+molecule1100: folds 
+DanteDenisAA: folds 
+kainarasset: raises $0.04 to $0.06
+MinelliJr: folds 
+Uncalled bet ($0.04) returned to kainarasset
+kainarasset collected $0.04 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: kainarasset (small blind) collected ($0.04)
+Seat 4: MinelliJr (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139399063:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:03:47 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 2: DanteDenisAA ($2.85 in chips) 
+Seat 3: kainarasset ($2.08 in chips) 
+Seat 4: MinelliJr ($1.29 in chips) 
+Seat 5: Lorpugo ($1.83 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Js]
+molecule1100: calls $0.02
+DanteDenisAA: folds 
+kainarasset: folds 
+MinelliJr: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5c Jh Qd]
+MinelliJr: checks 
+Lorpugo: checks 
+molecule1100: bets $0.02
+MinelliJr: calls $0.02
+Lorpugo: calls $0.02
+*** TURN *** [5c Jh Qd] [3h]
+MinelliJr: checks 
+Lorpugo: bets $0.06
+molecule1100: folds 
+MinelliJr: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5c Jh Qd 3h]
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) folded on the Turn
+Seat 5: Lorpugo (big blind) collected ($0.12)
+Seat 6: molecule1100 folded on the Turn
+
+
+
+PokerStars Hand #241139420093:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:04:39 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 1: Angelo Ma783 ($0.80 in chips) 
+Seat 2: DanteDenisAA ($2.85 in chips) 
+Seat 3: kainarasset ($2.08 in chips) 
+Seat 4: MinelliJr ($1.25 in chips) 
+Seat 5: Lorpugo ($1.91 in chips) 
+Seat 6: molecule1100 ($2.49 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+Angelo Ma783: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Jd]
+Angelo Ma783: checks 
+DanteDenisAA: folds 
+kainarasset: raises $0.06 to $0.08
+MinelliJr: calls $0.08
+Lorpugo: folds 
+molecule1100: folds 
+Angelo Ma783: calls $0.06
+*** FLOP *** [Kh 3c Ac]
+Angelo Ma783: checks 
+kainarasset: bets $0.18
+MinelliJr: folds 
+Angelo Ma783: raises $0.54 to $0.72 and is all-in
+kainarasset: calls $0.54
+*** TURN *** [Kh 3c Ac] [2s]
+*** RIVER *** [Kh 3c Ac 2s] [6s]
+*** SHOW DOWN ***
+Angelo Ma783: shows [6c 5c] (a pair of Sixes)
+kainarasset: shows [Kc Qs] (a pair of Kings)
+kainarasset collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.06 
+Board [Kh 3c Ac 2s 6s]
+Seat 1: Angelo Ma783 showed [6c 5c] and lost with a pair of Sixes
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset showed [Kc Qs] and won ($1.65) with a pair of Kings
+Seat 4: MinelliJr (button) folded on the Flop
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241139445816:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:05:42 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 2: DanteDenisAA ($2.85 in chips) 
+Seat 3: kainarasset ($2.93 in chips) 
+Seat 4: MinelliJr ($1.17 in chips) 
+Seat 5: Lorpugo ($1.90 in chips) 
+Seat 6: molecule1100 ($2.47 in chips) 
+molecule1100: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3s]
+kainarasset: folds 
+MinelliJr: calls $0.02
+Lorpugo: folds 
+molecule1100: raises $0.02 to $0.04
+Angelo Ma783 is disconnected 
+DanteDenisAA: folds 
+MinelliJr: calls $0.02
+*** FLOP *** [9d As 5d]
+molecule1100: bets $0.02
+MinelliJr: folds 
+Uncalled bet ($0.02) returned to molecule1100
+molecule1100 collected $0.10 from pot
+molecule1100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9d As 5d]
+Seat 2: DanteDenisAA (big blind) folded before Flop
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 4: MinelliJr folded on the Flop
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: molecule1100 (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #241139457883:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:06:11 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 2: DanteDenisAA ($2.83 in chips) 
+Seat 3: kainarasset ($2.93 in chips) 
+Seat 4: MinelliJr ($1.13 in chips) 
+Seat 5: Lorpugo ($1.90 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 5d]
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+DanteDenisAA: raises $0.03 to $0.05
+kainarasset: calls $0.03
+*** FLOP *** [2s 7c Jd]
+Angelo Ma783 is disconnected 
+DanteDenisAA: bets $0.03
+kainarasset: raises $0.08 to $0.11
+DanteDenisAA: calls $0.08
+*** TURN *** [2s 7c Jd] [7d]
+DanteDenisAA: checks 
+kainarasset: bets $0.21
+DanteDenisAA: folds 
+Uncalled bet ($0.21) returned to kainarasset
+kainarasset collected $0.31 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2s 7c Jd 7d]
+Seat 2: DanteDenisAA (small blind) folded on the Turn
+Seat 3: kainarasset (big blind) collected ($0.31)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139474213:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:06:51 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 2: DanteDenisAA ($2.67 in chips) 
+Seat 3: kainarasset ($3.08 in chips) 
+Seat 4: MinelliJr ($1.13 in chips) 
+Seat 5: Lorpugo ($1.90 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+kainarasset: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Jc]
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+DanteDenisAA: folds 
+kainarasset: raises $0.17 to $0.22
+MinelliJr: folds 
+Lorpugo: calls $0.17
+*** FLOP *** [7d 8s Qc]
+kainarasset: bets $0.30
+Lorpugo: folds 
+Uncalled bet ($0.30) returned to kainarasset
+kainarasset collected $0.44 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [7d 8s Qc]
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: kainarasset (small blind) collected ($0.44)
+Seat 4: MinelliJr (big blind) folded before Flop
+Seat 5: Lorpugo folded on the Flop
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139492703:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:07:36 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 1: Angelo Ma783 ($0.80 in chips) 
+Seat 2: DanteDenisAA ($2.67 in chips) 
+Seat 3: kainarasset ($3.30 in chips) 
+Seat 4: MinelliJr ($1.11 in chips) 
+Seat 5: Lorpugo ($1.68 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Angelo Ma783: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qh]
+molecule1100: folds 
+Angelo Ma783: checks 
+DanteDenisAA: calls $0.02
+kainarasset: folds 
+MinelliJr: raises $0.04 to $0.06
+Lorpugo: calls $0.04
+Angelo Ma783: calls $0.04
+DanteDenisAA: calls $0.04
+*** FLOP *** [6c 3c Js]
+MinelliJr: checks 
+Lorpugo: bets $0.16
+Angelo Ma783: folds 
+DanteDenisAA: folds 
+MinelliJr: calls $0.16
+*** TURN *** [6c 3c Js] [9d]
+MinelliJr: checks 
+Lorpugo: bets $0.28
+MinelliJr: calls $0.28
+*** RIVER *** [6c 3c Js 9d] [2s]
+MinelliJr: bets $0.61 and is all-in
+Lorpugo: calls $0.61
+*** SHOW DOWN ***
+MinelliJr: shows [Ac Jc] (a pair of Jacks)
+Lorpugo: shows [Jd Qh] (a pair of Jacks - lower kicker)
+MinelliJr collected $2.27 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.08 
+Board [6c 3c Js 9d 2s]
+Seat 1: Angelo Ma783 folded on the Flop
+Seat 2: DanteDenisAA folded on the Flop
+Seat 3: kainarasset (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) showed [Ac Jc] and won ($2.27) with a pair of Jacks
+Seat 5: Lorpugo (big blind) showed [Jd Qh] and lost with a pair of Jacks
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139514214:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:08:29 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 1: Angelo Ma783 ($0.73 in chips) 
+Seat 2: DanteDenisAA ($2.61 in chips) 
+Seat 3: kainarasset ($3.30 in chips) 
+Seat 4: MinelliJr ($2.27 in chips) 
+Seat 5: Lorpugo ($0.57 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Tc]
+Angelo Ma783: folds 
+DanteDenisAA: folds 
+kainarasset has timed out
+kainarasset: folds 
+MinelliJr: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+molecule1100: calls $0.10
+MinelliJr: folds 
+*** FLOP *** [Qd 5h 4c]
+Lorpugo: checks 
+molecule1100: bets $0.02
+Lorpugo: raises $0.10 to $0.12
+molecule1100: raises $2.29 to $2.41 and is all-in
+Lorpugo: folds 
+Uncalled bet ($2.29) returned to molecule1100
+molecule1100 collected $0.48 from pot
+molecule1100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Qd 5h 4c]
+Seat 1: Angelo Ma783 folded before Flop (didn't bet)
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 4: MinelliJr (button) folded before Flop
+Seat 5: Lorpugo (small blind) folded on the Flop
+Seat 6: molecule1100 (big blind) collected ($0.48)
+
+
+
+PokerStars Hand #241139540767:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:09:34 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: Angelo Ma783 ($0.73 in chips) 
+Seat 2: DanteDenisAA ($2.61 in chips) 
+Seat 3: kainarasset ($3.30 in chips) 
+Seat 4: MinelliJr ($2.25 in chips) 
+Seat 5: Lorpugo ($0.33 in chips) 
+Seat 6: molecule1100 ($2.77 in chips) 
+molecule1100: posts small blind $0.01
+Angelo Ma783: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2s]
+DanteDenisAA: folds 
+kainarasset: folds 
+MinelliJr: calls $0.02
+Lorpugo: folds 
+molecule1100: folds 
+Angelo Ma783: checks 
+*** FLOP *** [Jh 5d 9s]
+Angelo Ma783: checks 
+MinelliJr: bets $0.04
+Angelo Ma783: calls $0.04
+*** TURN *** [Jh 5d 9s] [8s]
+Angelo Ma783: checks 
+MinelliJr: bets $0.04
+Angelo Ma783: calls $0.04
+*** RIVER *** [Jh 5d 9s 8s] [Ah]
+Angelo Ma783: checks 
+MinelliJr: checks 
+*** SHOW DOWN ***
+Angelo Ma783: shows [3h Qc] (high card Ace)
+MinelliJr: shows [Qd Jc] (a pair of Jacks)
+MinelliJr collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jh 5d 9s 8s Ah]
+Seat 1: Angelo Ma783 (big blind) showed [3h Qc] and lost with high card Ace
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 4: MinelliJr showed [Qd Jc] and won ($0.20) with a pair of Jacks
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241139557245:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:10:15 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: Angelo Ma783 ($0.63 in chips) 
+Seat 2: DanteDenisAA ($2.61 in chips) 
+Seat 3: kainarasset ($3.30 in chips) 
+Seat 4: MinelliJr ($2.35 in chips) 
+Seat 5: Lorpugo ($0.33 in chips) 
+Seat 6: molecule1100 ($2.76 in chips) 
+Angelo Ma783: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qd]
+kainarasset: folds 
+MinelliJr: calls $0.02
+Lorpugo: folds 
+molecule1100: raises $0.02 to $0.04
+Angelo Ma783: calls $0.03
+DanteDenisAA: calls $0.02
+MinelliJr: calls $0.02
+*** FLOP *** [7h Jh Qs]
+Angelo Ma783: checks 
+DanteDenisAA: bets $0.05
+MinelliJr: calls $0.05
+molecule1100: folds 
+Angelo Ma783: calls $0.05
+*** TURN *** [7h Jh Qs] [9c]
+Angelo Ma783: checks 
+DanteDenisAA: bets $0.10
+MinelliJr: calls $0.10
+Angelo Ma783: raises $0.14 to $0.24
+DanteDenisAA: calls $0.14
+MinelliJr: calls $0.14
+*** RIVER *** [7h Jh Qs 9c] [8c]
+Angelo Ma783: bets $0.30 and is all-in
+DanteDenisAA: calls $0.30
+MinelliJr: calls $0.30
+*** SHOW DOWN ***
+Angelo Ma783: shows [8d Th] (a straight, Eight to Queen)
+DanteDenisAA: mucks hand 
+MinelliJr: shows [Td 8h] (a straight, Eight to Queen)
+Angelo Ma783 collected $0.93 from pot
+MinelliJr collected $0.93 from pot
+*** SUMMARY ***
+Total pot $1.93 | Rake $0.07 
+Board [7h Jh Qs 9c 8c]
+Seat 1: Angelo Ma783 (small blind) showed [8d Th] and won ($0.93) with a straight, Eight to Queen
+Seat 2: DanteDenisAA (big blind) mucked [6h 5h]
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 4: MinelliJr showed [Td 8h] and won ($0.93) with a straight, Eight to Queen
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded on the Flop
+
+
+
+PokerStars Hand #241139586270:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:11:26 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: Angelo Ma783 ($0.93 in chips) 
+Seat 2: DanteDenisAA ($2 in chips) 
+Seat 3: kainarasset ($3.30 in chips) 
+Seat 4: MinelliJr ($2.65 in chips) 
+Seat 5: Lorpugo ($0.33 in chips) 
+Seat 6: molecule1100 ($2.72 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6d]
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+Angelo Ma783: calls $0.02
+DanteDenisAA: folds 
+kainarasset: raises $1.52 to $1.54
+Angelo Ma783: folds 
+Uncalled bet ($1.52) returned to kainarasset
+kainarasset collected $0.05 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Angelo Ma783 (button) folded before Flop
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: kainarasset (big blind) collected ($0.05)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139594705:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:11:47 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: Angelo Ma783 ($0.91 in chips) 
+Seat 2: DanteDenisAA ($2 in chips) 
+Seat 3: kainarasset ($3.33 in chips) 
+Seat 4: MinelliJr ($2.65 in chips) 
+Seat 5: Lorpugo ($0.33 in chips) 
+Seat 6: molecule1100 ($2.72 in chips) 
+kainarasset: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qd]
+Lorpugo: folds 
+molecule1100: folds 
+Angelo Ma783: calls $0.02
+DanteDenisAA: folds 
+kainarasset: raises $0.28 to $0.30
+MinelliJr: folds 
+Angelo Ma783: folds 
+Uncalled bet ($0.28) returned to kainarasset
+kainarasset collected $0.06 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Angelo Ma783 folded before Flop
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: kainarasset (small blind) collected ($0.06)
+Seat 4: MinelliJr (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139603107:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:12:07 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 1: Angelo Ma783 ($0.89 in chips) 
+Seat 2: DanteDenisAA ($2 in chips) 
+Seat 3: kainarasset ($3.37 in chips) 
+Seat 4: MinelliJr ($2.63 in chips) 
+Seat 5: Lorpugo ($0.33 in chips) 
+Seat 6: molecule1100 ($2.72 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Qc]
+molecule1100: folds 
+Angelo Ma783: folds 
+DanteDenisAA: raises $0.03 to $0.05
+kainarasset has timed out
+kainarasset: folds 
+MinelliJr: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Th 7s Jd]
+Lorpugo: checks 
+DanteDenisAA: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [Th 7s Jd] [9c]
+Lorpugo: checks 
+DanteDenisAA: bets $0.09
+Lorpugo: calls $0.09
+*** RIVER *** [Th 7s Jd 9c] [2s]
+Lorpugo: checks 
+DanteDenisAA: bets $0.18
+Lorpugo: calls $0.15 and is all-in
+Uncalled bet ($0.03) returned to DanteDenisAA
+*** SHOW DOWN ***
+DanteDenisAA: shows [8s 8c] (a straight, Seven to Jack)
+Lorpugo: shows [Ts Qc] (a pair of Tens)
+DanteDenisAA collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Th 7s Jd 9c 2s]
+Seat 1: Angelo Ma783 folded before Flop (didn't bet)
+Seat 2: DanteDenisAA showed [8s 8c] and won ($0.65) with a straight, Seven to Jack
+Seat 3: kainarasset (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [Ts Qc] and lost with a pair of Tens
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139642280:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:13:43 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: Angelo Ma783 ($0.90 in chips) 
+Seat 2: DanteDenisAA ($2.32 in chips) 
+Seat 3: kainarasset ($3.37 in chips) 
+Seat 4: MinelliJr ($2.62 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: molecule1100 ($2.71 in chips) 
+Angelo Ma783: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+Lorpugo: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Qc]
+kainarasset: raises $0.04 to $0.06
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: calls $0.06
+Angelo Ma783: calls $0.05
+DanteDenisAA: folds 
+*** FLOP *** [6h 4d Jh]
+Angelo Ma783: checks 
+kainarasset: bets $0.14
+molecule1100: folds 
+Angelo Ma783: folds 
+Uncalled bet ($0.14) returned to kainarasset
+kainarasset collected $0.20 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [6h 4d Jh]
+Seat 1: Angelo Ma783 (small blind) folded on the Flop
+Seat 2: DanteDenisAA (big blind) folded before Flop
+Seat 3: kainarasset collected ($0.20)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded on the Flop
+
+
+
+PokerStars Hand #241139655098:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:14:13 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: Angelo Ma783 ($0.84 in chips) 
+Seat 2: DanteDenisAA ($2.30 in chips) 
+Seat 3: kainarasset ($3.51 in chips) 
+Seat 4: MinelliJr ($2.62 in chips) 
+Seat 5: Lorpugo ($1.59 in chips) 
+Seat 6: molecule1100 ($2.65 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 4h]
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+Angelo Ma783: calls $0.02
+DanteDenisAA: folds 
+kainarasset: raises $3.49 to $3.51 and is all-in
+Angelo Ma783: folds 
+Uncalled bet ($3.49) returned to kainarasset
+kainarasset collected $0.05 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Angelo Ma783 (button) folded before Flop
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: kainarasset (big blind) collected ($0.05)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139669872:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:14:50 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: Angelo Ma783 ($0.82 in chips) 
+Seat 2: DanteDenisAA ($2.29 in chips) 
+Seat 3: kainarasset ($3.54 in chips) 
+Seat 4: MinelliJr ($2.62 in chips) 
+Seat 5: Lorpugo ($1.59 in chips) 
+Seat 6: molecule1100 ($2.65 in chips) 
+kainarasset: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5d]
+Lorpugo: folds 
+molecule1100: raises $0.02 to $0.04
+Angelo Ma783: calls $0.04
+DanteDenisAA: folds 
+kainarasset: raises $0.26 to $0.30
+MinelliJr is disconnected 
+MinelliJr is connected 
+MinelliJr is disconnected 
+MinelliJr is connected 
+MinelliJr is disconnected 
+MinelliJr has timed out while disconnected
+MinelliJr: folds 
+molecule1100: folds 
+Angelo Ma783: raises $0.52 to $0.82 and is all-in
+kainarasset: folds 
+Uncalled bet ($0.52) returned to Angelo Ma783
+Angelo Ma783 collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0 
+Seat 1: Angelo Ma783 collected ($0.66)
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: kainarasset (small blind) folded before Flop
+Seat 4: MinelliJr (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop
+
+
+
+PokerStars Hand #241139707645:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:16:18 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 1: Angelo Ma783 ($1.18 in chips) 
+Seat 2: DanteDenisAA ($2.29 in chips) 
+Seat 3: kainarasset ($3.24 in chips) 
+Seat 5: Lorpugo ($1.59 in chips) 
+Seat 6: molecule1100 ($2.61 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9s]
+Angelo Ma783: calls $0.02
+DanteDenisAA: raises $0.07 to $0.09
+kainarasset: folds 
+Lorpugo: folds 
+molecule1100: folds 
+Angelo Ma783: calls $0.07
+*** FLOP *** [Ks 6h 9h]
+Angelo Ma783: checks 
+DanteDenisAA: bets $0.10
+Angelo Ma783: folds 
+Uncalled bet ($0.10) returned to DanteDenisAA
+DanteDenisAA collected $0.20 from pot
+DanteDenisAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ks 6h 9h]
+Seat 1: Angelo Ma783 folded on the Flop
+Seat 2: DanteDenisAA collected ($0.20)
+Seat 3: kainarasset (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241139717132:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:16:40 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: Angelo Ma783 ($1.09 in chips) 
+Seat 2: DanteDenisAA ($2.40 in chips) 
+Seat 3: kainarasset ($3.24 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: molecule1100 ($2.59 in chips) 
+molecule1100: posts small blind $0.01
+Angelo Ma783: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ac]
+DanteDenisAA: folds 
+kainarasset: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: calls $0.04
+Angelo Ma783: raises $0.23 to $0.28
+Lorpugo: folds 
+molecule1100: folds 
+Uncalled bet ($0.23) returned to Angelo Ma783
+Angelo Ma783 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Angelo Ma783 (big blind) collected ($0.15)
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241139728485:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:17:07 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: Angelo Ma783 ($1.19 in chips) 
+Seat 2: DanteDenisAA ($2.40 in chips) 
+Seat 3: kainarasset ($3.24 in chips) 
+Seat 5: Lorpugo ($1.53 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+Angelo Ma783: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Ts]
+kainarasset: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+Angelo Ma783: calls $0.04
+DanteDenisAA: folds 
+*** FLOP *** [6d 8c Ah]
+Angelo Ma783: checks 
+Lorpugo: bets $0.06
+Angelo Ma783: calls $0.06
+*** TURN *** [6d 8c Ah] [2d]
+Angelo Ma783: checks 
+Lorpugo: bets $0.15
+Angelo Ma783: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [6d 8c Ah 2d]
+Seat 1: Angelo Ma783 (small blind) folded on the Turn
+Seat 2: DanteDenisAA (big blind) folded before Flop
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 5: Lorpugo collected ($0.23)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139741039:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:17:36 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: Angelo Ma783 ($1.08 in chips) 
+Seat 2: DanteDenisAA ($2.38 in chips) 
+Seat 3: kainarasset ($3.24 in chips) 
+Seat 5: Lorpugo ($1.65 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2h]
+Lorpugo: folds 
+molecule1100: folds 
+Angelo Ma783: calls $0.02
+DanteDenisAA: folds 
+kainarasset: raises $3.22 to $3.24 and is all-in
+Angelo Ma783: calls $1.06 and is all-in
+Uncalled bet ($2.16) returned to kainarasset
+*** FLOP *** [Kc 9c 5c]
+*** TURN *** [Kc 9c 5c] [Qd]
+*** RIVER *** [Kc 9c 5c Qd] [Ah]
+*** SHOW DOWN ***
+kainarasset: shows [5h 5s] (three of a kind, Fives)
+Angelo Ma783: shows [7c 8s] (high card Ace)
+kainarasset collected $2.09 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.08 
+Board [Kc 9c 5c Qd Ah]
+Seat 1: Angelo Ma783 (button) showed [7c 8s] and lost with high card Ace
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: kainarasset (big blind) showed [5h 5s] and won ($2.09) with three of a kind, Fives
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139753223:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:18:04 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 2: DanteDenisAA ($2.37 in chips) 
+Seat 3: kainarasset ($4.25 in chips) 
+Seat 4: MinelliJr ($2.60 in chips) 
+Seat 5: Lorpugo ($1.65 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+kainarasset: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Kh]
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+DanteDenisAA: folds 
+Angelo Ma783 leaves the table
+kainarasset: raises $0.19 to $0.24
+MinelliJr: folds 
+Lorpugo: raises $1.41 to $1.65 and is all-in
+kainarasset: folds 
+Uncalled bet ($1.41) returned to Lorpugo
+Lorpugo collected $0.50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: kainarasset (small blind) folded before Flop
+Seat 4: MinelliJr (big blind) folded before Flop
+Seat 5: Lorpugo collected ($0.50)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139766704:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:18:35 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 2: DanteDenisAA ($2.37 in chips) 
+Seat 3: kainarasset ($4.01 in chips) 
+Seat 4: MinelliJr ($2.58 in chips) 
+Seat 5: Lorpugo ($1.91 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7d]
+molecule1100: raises $0.04 to $0.06
+DanteDenisAA: folds 
+kainarasset: folds 
+MinelliJr: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Jc Kc Qc]
+Lorpugo: bets $0.02
+molecule1100: raises $0.11 to $0.13
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to molecule1100
+molecule1100 collected $0.16 from pot
+molecule1100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Jc Kc Qc]
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the Flop
+Seat 6: molecule1100 collected ($0.16)
+
+
+
+PokerStars Hand #241139779144:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:19:04 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 2: DanteDenisAA ($2.37 in chips) 
+Seat 3: kainarasset ($4.01 in chips) 
+Seat 4: MinelliJr ($2.57 in chips) 
+Seat 5: Lorpugo ($1.83 in chips) 
+Seat 6: molecule1100 ($2.62 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4h]
+maugli38 joins the table at seat #1 
+DanteDenisAA: raises $0.03 to $0.05
+kainarasset: folds 
+MinelliJr: calls $0.05
+Lorpugo: folds 
+molecule1100: folds 
+*** FLOP *** [Td Kd 6h]
+DanteDenisAA: bets $0.04
+MinelliJr: calls $0.04
+*** TURN *** [Td Kd 6h] [2d]
+DanteDenisAA: bets $0.07
+MinelliJr: calls $0.07
+*** RIVER *** [Td Kd 6h 2d] [8d]
+DanteDenisAA: checks 
+MinelliJr: bets $0.12
+DanteDenisAA: folds 
+Uncalled bet ($0.12) returned to MinelliJr
+MinelliJr collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Td Kd 6h 2d 8d]
+Seat 2: DanteDenisAA folded on the River
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 4: MinelliJr (button) collected ($0.34)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241139795556:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:19:42 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: maugli38 ($1.60 in chips) 
+Seat 2: DanteDenisAA ($2.21 in chips) 
+Seat 3: kainarasset ($4.01 in chips) 
+Seat 4: MinelliJr ($2.75 in chips) 
+Seat 5: Lorpugo ($1.82 in chips) 
+Seat 6: molecule1100 ($2.60 in chips) 
+molecule1100: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8s]
+DanteDenisAA: folds 
+kainarasset: raises $0.04 to $0.06
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: calls $0.05
+maugli38: folds 
+*** FLOP *** [Th 8d 6s]
+molecule1100: bets $0.02
+kainarasset: raises $0.02 to $0.04
+molecule1100: calls $0.02
+*** TURN *** [Th 8d 6s] [As]
+molecule1100: bets $0.02
+kainarasset: raises $0.24 to $0.26
+molecule1100: folds 
+Uncalled bet ($0.24) returned to kainarasset
+kainarasset collected $0.25 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Th 8d 6s As]
+Seat 1: maugli38 (big blind) folded before Flop
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset collected ($0.25)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: molecule1100 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241139813921:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:20:24 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: maugli38 ($1.58 in chips) 
+Seat 2: DanteDenisAA ($2.21 in chips) 
+Seat 3: kainarasset ($4.14 in chips) 
+Seat 4: MinelliJr ($2.75 in chips) 
+Seat 5: Lorpugo ($1.82 in chips) 
+Seat 6: molecule1100 ($2.48 in chips) 
+maugli38: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Qs]
+kainarasset: raises $0.04 to $0.06
+MinelliJr has timed out
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.04) returned to kainarasset
+kainarasset collected $0.05 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: maugli38 (small blind) folded before Flop
+Seat 2: DanteDenisAA (big blind) folded before Flop
+Seat 3: kainarasset collected ($0.05)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139826699:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:20:54 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: maugli38 ($1.57 in chips) 
+Seat 2: DanteDenisAA ($2.19 in chips) 
+Seat 3: kainarasset ($4.17 in chips) 
+Seat 5: Lorpugo ($1.82 in chips) 
+Seat 6: molecule1100 ($2.48 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Jh]
+Lorpugo: raises $0.02 to $0.04
+molecule1100: folds 
+maugli38: calls $0.04
+MinelliJr is disconnected 
+DanteDenisAA: folds 
+kainarasset: raises $0.18 to $0.22
+Lorpugo: folds 
+maugli38: folds 
+Uncalled bet ($0.18) returned to kainarasset
+kainarasset collected $0.13 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: maugli38 (button) folded before Flop
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: kainarasset (big blind) collected ($0.13)
+Seat 5: Lorpugo folded before Flop
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139836405:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:21:16 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: maugli38 ($1.53 in chips) 
+Seat 2: DanteDenisAA ($2.18 in chips) 
+Seat 3: kainarasset ($4.26 in chips) 
+Seat 5: Lorpugo ($1.78 in chips) 
+Seat 6: molecule1100 ($2.48 in chips) 
+kainarasset: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6c]
+molecule1100: folds 
+maugli38: raises $0.02 to $0.04
+DanteDenisAA: folds 
+kainarasset: raises $0.14 to $0.18
+Lorpugo: folds 
+maugli38: calls $0.14
+*** FLOP *** [Td 2h Tc]
+kainarasset: bets $0.26
+maugli38: calls $0.26
+*** TURN *** [Td 2h Tc] [Qd]
+kainarasset: bets $3.82 and is all-in
+maugli38: calls $1.09 and is all-in
+Uncalled bet ($2.73) returned to kainarasset
+*** RIVER *** [Td 2h Tc Qd] [6d]
+*** SHOW DOWN ***
+kainarasset: shows [Ad Ts] (three of a kind, Tens)
+maugli38: shows [Ah Kc] (a pair of Tens)
+kainarasset collected $2.97 from pot
+*** SUMMARY ***
+Total pot $3.08 | Rake $0.11 
+Board [Td 2h Tc Qd 6d]
+Seat 1: maugli38 showed [Ah Kc] and lost with a pair of Tens
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: kainarasset (small blind) showed [Ad Ts] and won ($2.97) with three of a kind, Tens
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139852226:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:21:53 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 2: DanteDenisAA ($2.18 in chips) 
+Seat 3: kainarasset ($5.70 in chips) 
+Seat 5: Lorpugo ($1.76 in chips) 
+Seat 6: molecule1100 ($2.48 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ac]
+DanteDenisAA: folds 
+kainarasset: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($0.04)
+Seat 6: molecule1100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241139857571:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:22:05 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: maugli38 ($2 in chips) 
+Seat 2: DanteDenisAA ($2.18 in chips) 
+Seat 3: kainarasset ($5.70 in chips) 
+Seat 5: Lorpugo ($1.78 in chips) 
+Seat 6: molecule1100 ($2.46 in chips) 
+molecule1100: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Qh]
+DanteDenisAA: folds 
+kainarasset has timed out
+kainarasset: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: calls $0.04
+maugli38: folds 
+*** FLOP *** [5s 8h Js]
+molecule1100: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [5s 8h Js] [Ac]
+molecule1100: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to molecule1100
+molecule1100 collected $0.15 from pot
+molecule1100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [5s 8h Js Ac]
+Seat 1: maugli38 (big blind) folded before Flop
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded on the Turn
+Seat 6: molecule1100 (small blind) collected ($0.15)
+
+
+
+PokerStars Hand #241139874947:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:22:45 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: maugli38 ($1.98 in chips) 
+Seat 2: DanteDenisAA ($2.18 in chips) 
+Seat 3: kainarasset ($5.70 in chips) 
+Seat 5: Lorpugo ($1.71 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+maugli38: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3s]
+kainarasset has timed out
+kainarasset: folds 
+Lorpugo: folds 
+molecule1100: folds 
+maugli38: folds 
+Uncalled bet ($0.01) returned to DanteDenisAA
+DanteDenisAA collected $0.02 from pot
+DanteDenisAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: maugli38 (small blind) folded before Flop
+Seat 2: DanteDenisAA (big blind) collected ($0.02)
+Seat 3: kainarasset folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139882123:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:23:02 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: maugli38 ($1.97 in chips) 
+Seat 2: DanteDenisAA ($2.19 in chips) 
+Seat 4: MinelliJr ($2.75 in chips) 
+Seat 5: Lorpugo ($1.71 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+DanteDenisAA: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9c]
+Lorpugo: folds 
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: raises $0.03 to $0.05
+MinelliJr: calls $0.03
+*** FLOP *** [2s 4s 9d]
+DanteDenisAA: bets $0.03
+MinelliJr: folds 
+Uncalled bet ($0.03) returned to DanteDenisAA
+DanteDenisAA collected $0.10 from pot
+DanteDenisAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2s 4s 9d]
+Seat 1: maugli38 (button) folded before Flop (didn't bet)
+Seat 2: DanteDenisAA (small blind) collected ($0.10)
+Seat 4: MinelliJr (big blind) folded on the Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139894380:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:23:30 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: maugli38 ($1.97 in chips) 
+Seat 2: DanteDenisAA ($2.24 in chips) 
+Seat 4: MinelliJr ($2.70 in chips) 
+Seat 5: Lorpugo ($1.71 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ks]
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: folds 
+MinelliJr: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+MinelliJr has timed out
+MinelliJr: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: maugli38 folded before Flop (didn't bet)
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.04)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139908911:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:24:03 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: maugli38 ($1.97 in chips) 
+Seat 2: DanteDenisAA ($2.24 in chips) 
+Seat 5: Lorpugo ($1.73 in chips) 
+Seat 6: molecule1100 ($2.54 in chips) 
+molecule1100: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Th]
+DanteDenisAA: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+maugli38: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: maugli38 (big blind) folded before Flop
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.05)
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241139911976:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:24:11 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: maugli38 ($1.95 in chips) 
+Seat 2: DanteDenisAA ($2.24 in chips) 
+Seat 5: Lorpugo ($1.76 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+maugli38: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 2h]
+Lorpugo: folds 
+molecule1100: folds 
+maugli38: calls $0.01
+DanteDenisAA: checks 
+*** FLOP *** [7d 9s Tc]
+maugli38: bets $0.02
+DanteDenisAA: calls $0.02
+*** TURN *** [7d 9s Tc] [Kd]
+maugli38: bets $0.04
+DanteDenisAA: calls $0.04
+*** RIVER *** [7d 9s Tc Kd] [2c]
+maugli38: bets $0.08
+DanteDenisAA: calls $0.08
+*** SHOW DOWN ***
+maugli38: shows [Ts 4s] (a pair of Tens)
+DanteDenisAA: shows [Kh Js] (a pair of Kings)
+DanteDenisAA collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [7d 9s Tc Kd 2c]
+Seat 1: maugli38 (small blind) showed [Ts 4s] and lost with a pair of Tens
+Seat 2: DanteDenisAA (big blind) showed [Kh Js] and won ($0.31) with a pair of Kings
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139929156:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:24:50 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: maugli38 ($1.79 in chips) 
+Seat 2: DanteDenisAA ($2.39 in chips) 
+Seat 3: kainarasset ($5.70 in chips) 
+Seat 4: MinelliJr ($2.68 in chips) 
+Seat 5: Lorpugo ($1.76 in chips) 
+Seat 6: molecule1100 ($2.53 in chips) 
+DanteDenisAA: posts small blind $0.01
+kainarasset: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7h]
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: raises $0.02 to $0.04
+maugli38: calls $0.04
+DanteDenisAA: folds 
+kainarasset: raises $0.18 to $0.22
+molecule1100: folds 
+maugli38: calls $0.18
+*** FLOP *** [Jc 5c 7d]
+kainarasset: bets $0.12
+maugli38: calls $0.12
+*** TURN *** [Jc 5c 7d] [Jh]
+kainarasset: bets $0.50
+maugli38: folds 
+Uncalled bet ($0.50) returned to kainarasset
+kainarasset collected $0.70 from pot
+kainarasset: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Jc 5c 7d Jh]
+Seat 1: maugli38 (button) folded on the Turn
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: kainarasset (big blind) collected ($0.70)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop
+
+
+
+PokerStars Hand #241139954591:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:25:49 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: maugli38 ($1.45 in chips) 
+Seat 2: DanteDenisAA ($2.38 in chips) 
+Seat 3: kainarasset ($6.06 in chips) 
+Seat 4: MinelliJr ($2.68 in chips) 
+Seat 5: Lorpugo ($1.76 in chips) 
+Seat 6: molecule1100 ($2.49 in chips) 
+kainarasset: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2h]
+Lorpugo: folds 
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: raises $0.03 to $0.05
+kainarasset: folds 
+MinelliJr: calls $0.03
+*** FLOP *** [Ah 8h 7c]
+kainarasset leaves the table
+MinelliJr: checks 
+DanteDenisAA: checks 
+*** TURN *** [Ah 8h 7c] [Tc]
+MinelliJr: checks 
+DanteDenisAA: checks 
+*** RIVER *** [Ah 8h 7c Tc] [4s]
+7ymbo joins the table at seat #3 
+MinelliJr: bets $0.06
+DanteDenisAA: folds 
+Uncalled bet ($0.06) returned to MinelliJr
+MinelliJr collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ah 8h 7c Tc 4s]
+Seat 1: maugli38 folded before Flop (didn't bet)
+Seat 2: DanteDenisAA (button) folded on the River
+Seat 3: kainarasset (small blind) folded before Flop
+Seat 4: MinelliJr (big blind) collected ($0.11)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139970718:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:26:26 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 1: maugli38 ($1.45 in chips) 
+Seat 2: DanteDenisAA ($2.33 in chips) 
+Seat 4: MinelliJr ($2.74 in chips) 
+Seat 5: Lorpugo ($1.76 in chips) 
+Seat 6: molecule1100 ($2.49 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8h]
+maugli38: raises $0.02 to $0.04
+DanteDenisAA: folds 
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+Uncalled bet ($0.02) returned to maugli38
+maugli38 collected $0.05 from pot
+maugli38: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: maugli38 collected ($0.05)
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 4: MinelliJr (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241139978663:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:26:44 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: maugli38 ($1.48 in chips) 
+Seat 2: DanteDenisAA ($2.33 in chips) 
+Seat 4: MinelliJr ($2.74 in chips) 
+Seat 5: Lorpugo ($1.75 in chips) 
+Seat 6: molecule1100 ($2.47 in chips) 
+molecule1100: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ac]
+DanteDenisAA: folds 
+MinelliJr: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+molecule1100: folds 
+maugli38: folds 
+MinelliJr: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.07 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: maugli38 (big blind) folded before Flop
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 4: MinelliJr folded before Flop
+Seat 5: Lorpugo (button) collected ($0.07)
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241139992028:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:27:15 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: maugli38 ($1.46 in chips) 
+Seat 2: DanteDenisAA ($2.33 in chips) 
+Seat 4: MinelliJr ($2.72 in chips) 
+Seat 5: Lorpugo ($1.80 in chips) 
+Seat 6: molecule1100 ($2.46 in chips) 
+maugli38: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Jd]
+MinelliJr: folds 
+Lorpugo: raises $0.03 to $0.05
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: maugli38 (small blind) folded before Flop
+Seat 2: DanteDenisAA (big blind) folded before Flop
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo collected ($0.05)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241139999700:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:27:33 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: maugli38 ($1.45 in chips) 
+Seat 2: DanteDenisAA ($2.31 in chips) 
+Seat 3: 7ymbo ($0.80 in chips) 
+Seat 4: MinelliJr ($2.72 in chips) 
+Seat 5: Lorpugo ($1.83 in chips) 
+Seat 6: molecule1100 ($2.46 in chips) 
+DanteDenisAA: posts small blind $0.01
+7ymbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ac]
+MinelliJr: folds 
+Lorpugo: raises $0.02 to $0.04
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: folds 
+7ymbo: calls $0.02
+*** FLOP *** [9d 5d Qh]
+7ymbo: checks 
+Lorpugo: checks 
+*** TURN *** [9d 5d Qh] [Ks]
+7ymbo: checks 
+Lorpugo: checks 
+*** RIVER *** [9d 5d Qh Ks] [3h]
+7ymbo: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+7ymbo: shows [7c Tc] (high card King)
+Lorpugo: shows [2h Ac] (high card Ace)
+Lorpugo collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9d 5d Qh Ks 3h]
+Seat 1: maugli38 (button) folded before Flop (didn't bet)
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: 7ymbo (big blind) showed [7c Tc] and lost with high card King
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo showed [2h Ac] and won ($0.09) with high card Ace
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140017322:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:28:13 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: maugli38 ($1.45 in chips) 
+Seat 2: DanteDenisAA ($2.30 in chips) 
+Seat 3: 7ymbo ($0.76 in chips) 
+Seat 4: MinelliJr ($2.72 in chips) 
+Seat 5: Lorpugo ($1.88 in chips) 
+Seat 6: molecule1100 ($2.46 in chips) 
+7ymbo: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 5d]
+Lorpugo: raises $0.02 to $0.04
+molecule1100: folds 
+maugli38: calls $0.04
+DanteDenisAA: folds 
+7ymbo: calls $0.03
+MinelliJr: calls $0.02
+*** FLOP *** [7h 4d 8s]
+7ymbo: checks 
+MinelliJr: checks 
+Lorpugo: bets $0.02
+maugli38: calls $0.02
+7ymbo: calls $0.02
+MinelliJr: calls $0.02
+*** TURN *** [7h 4d 8s] [6s]
+7ymbo: checks 
+MinelliJr: checks 
+Lorpugo: bets $0.14
+maugli38: folds 
+7ymbo: raises $0.51 to $0.65
+MinelliJr: folds 
+Lorpugo: raises $1.17 to $1.82 and is all-in
+7ymbo: calls $0.05 and is all-in
+Uncalled bet ($1.12) returned to Lorpugo
+*** RIVER *** [7h 4d 8s 6s] [Ah]
+*** SHOW DOWN ***
+7ymbo: shows [9c Ts] (a straight, Six to Ten)
+Lorpugo: shows [5h 5d] (a straight, Four to Eight)
+7ymbo collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.06 
+Board [7h 4d 8s 6s Ah]
+Seat 1: maugli38 folded on the Turn
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: 7ymbo (small blind) showed [9c Ts] and won ($1.58) with a straight, Six to Ten
+Seat 4: MinelliJr (big blind) folded on the Turn
+Seat 5: Lorpugo showed [5h 5d] and lost with a straight, Four to Eight
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140053020:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:29:36 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 1: maugli38 ($1.39 in chips) 
+Seat 2: DanteDenisAA ($2.30 in chips) 
+Seat 3: 7ymbo ($1.58 in chips) 
+Seat 4: MinelliJr ($2.66 in chips) 
+Seat 5: Lorpugo ($1.12 in chips) 
+Seat 6: molecule1100 ($2.46 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 9d]
+molecule1100: raises $0.02 to $0.04
+maugli38: calls $0.04
+DanteDenisAA: folds 
+7ymbo: folds 
+MinelliJr: folds 
+Lorpugo: folds 
+*** FLOP *** [Qc 4d As]
+molecule1100: bets $0.02
+maugli38: calls $0.02
+*** TURN *** [Qc 4d As] [2h]
+molecule1100: bets $0.02
+maugli38: calls $0.02
+*** RIVER *** [Qc 4d As 2h] [4h]
+molecule1100: checks 
+maugli38: checks 
+*** SHOW DOWN ***
+molecule1100: shows [Kh Ts] (a pair of Fours)
+maugli38: shows [Th Kd] (a pair of Fours)
+molecule1100 collected $0.09 from pot
+maugli38 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qc 4d As 2h 4h]
+Seat 1: maugli38 showed [Th Kd] and won ($0.09) with a pair of Fours
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: 7ymbo (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: molecule1100 showed [Kh Ts] and won ($0.09) with a pair of Fours
+
+
+
+PokerStars Hand #241140074025:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:30:24 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 1: maugli38 ($1.40 in chips) 
+Seat 2: DanteDenisAA ($2.30 in chips) 
+Seat 3: 7ymbo ($1.58 in chips) 
+Seat 4: MinelliJr ($2.65 in chips) 
+Seat 5: Lorpugo ($1.10 in chips) 
+Seat 6: molecule1100 ($2.47 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 4c]
+maugli38: folds 
+DanteDenisAA: folds 
+7ymbo: calls $0.02
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: checks 
+*** FLOP *** [2s Js 2d]
+molecule1100: bets $0.02
+7ymbo: folds 
+Uncalled bet ($0.02) returned to molecule1100
+molecule1100 collected $0.05 from pot
+molecule1100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s Js 2d]
+Seat 1: maugli38 folded before Flop (didn't bet)
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: 7ymbo folded on the Flop
+Seat 4: MinelliJr (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #241140087721:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:30:55 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: maugli38 ($1.40 in chips) 
+Seat 2: DanteDenisAA ($2.30 in chips) 
+Seat 3: 7ymbo ($1.56 in chips) 
+Seat 4: MinelliJr ($2.65 in chips) 
+Seat 5: Lorpugo ($1.09 in chips) 
+Seat 6: molecule1100 ($2.50 in chips) 
+molecule1100: posts small blind $0.01
+maugli38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Qd]
+DanteDenisAA: folds 
+7ymbo: calls $0.02
+MinelliJr: calls $0.02
+Lorpugo: folds 
+molecule1100: raises $0.02 to $0.04
+maugli38: calls $0.02
+7ymbo: calls $0.02
+MinelliJr: calls $0.02
+*** FLOP *** [Qh 3s 5d]
+molecule1100: bets $0.02
+maugli38: raises $0.08 to $0.10
+7ymbo: folds 
+MinelliJr: folds 
+molecule1100: folds 
+Uncalled bet ($0.08) returned to maugli38
+maugli38 collected $0.19 from pot
+maugli38: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qh 3s 5d]
+Seat 1: maugli38 (big blind) collected ($0.19)
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: 7ymbo folded on the Flop
+Seat 4: MinelliJr folded on the Flop
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: molecule1100 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241140104153:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:31:32 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: maugli38 ($1.53 in chips) 
+Seat 2: DanteDenisAA ($2.30 in chips) 
+Seat 3: 7ymbo ($1.52 in chips) 
+Seat 4: MinelliJr ($2.61 in chips) 
+Seat 5: Lorpugo ($1.09 in chips) 
+Seat 6: molecule1100 ($2.44 in chips) 
+maugli38: posts small blind $0.01
+DanteDenisAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 5d]
+7ymbo: raises $0.02 to $0.04
+MinelliJr: calls $0.04
+Lorpugo: folds 
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: folds 
+*** FLOP *** [Tc 4c Kc]
+7ymbo: checks 
+MinelliJr: bets $0.04
+7ymbo: folds 
+Uncalled bet ($0.04) returned to MinelliJr
+MinelliJr collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Tc 4c Kc]
+Seat 1: maugli38 (small blind) folded before Flop
+Seat 2: DanteDenisAA (big blind) folded before Flop
+Seat 3: 7ymbo folded on the Flop
+Seat 4: MinelliJr collected ($0.11)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140116665:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:32:01 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: maugli38 ($1.52 in chips) 
+Seat 2: DanteDenisAA ($2.28 in chips) 
+Seat 3: 7ymbo ($1.48 in chips) 
+Seat 4: MinelliJr ($2.68 in chips) 
+Seat 5: Lorpugo ($1.09 in chips) 
+Seat 6: molecule1100 ($2.44 in chips) 
+DanteDenisAA: posts small blind $0.01
+7ymbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jd]
+MinelliJr: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+molecule1100: folds 
+maugli38: calls $0.06
+DanteDenisAA: folds 
+7ymbo: calls $0.04
+*** FLOP *** [3d 8h Ts]
+7ymbo: bets $0.04
+MinelliJr: calls $0.04
+Lorpugo: calls $0.04
+maugli38: calls $0.04
+*** TURN *** [3d 8h Ts] [7h]
+7ymbo: bets $0.20
+MinelliJr: folds 
+Lorpugo: calls $0.20
+maugli38: calls $0.20
+*** RIVER *** [3d 8h Ts 7h] [4h]
+7ymbo: bets $0.49
+Lorpugo: folds 
+maugli38: folds 
+Uncalled bet ($0.49) returned to 7ymbo
+7ymbo collected $0.97 from pot
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.04 
+Board [3d 8h Ts 7h 4h]
+Seat 1: maugli38 (button) folded on the River
+Seat 2: DanteDenisAA (small blind) folded before Flop
+Seat 3: 7ymbo (big blind) collected ($0.97)
+Seat 4: MinelliJr folded on the Turn
+Seat 5: Lorpugo folded on the River
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140144322:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:33:03 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: maugli38 ($1.22 in chips) 
+Seat 2: DanteDenisAA ($2.27 in chips) 
+Seat 3: 7ymbo ($2.15 in chips) 
+Seat 4: MinelliJr ($2.58 in chips) 
+Seat 5: Lorpugo ($0.79 in chips) 
+Seat 6: molecule1100 ($2.44 in chips) 
+7ymbo: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Td]
+Lorpugo: folds 
+molecule1100: folds 
+maugli38: folds 
+DanteDenisAA: folds 
+maugli38 leaves the table
+7ymbo: raises $0.02 to $0.04
+MinelliJr: calls $0.02
+*** FLOP *** [3s 6c Jh]
+7ymbo: checks 
+MinelliJr: checks 
+*** TURN *** [3s 6c Jh] [Th]
+7ymbo: bets $0.04
+MinelliJr: calls $0.04
+*** RIVER *** [3s 6c Jh Th] [3c]
+7ymbo: bets $0.08
+neesTY joins the table at seat #1 
+MinelliJr: folds 
+Uncalled bet ($0.08) returned to 7ymbo
+7ymbo collected $0.15 from pot
+7ymbo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [3s 6c Jh Th 3c]
+Seat 1: maugli38 folded before Flop (didn't bet)
+Seat 2: DanteDenisAA (button) folded before Flop (didn't bet)
+Seat 3: 7ymbo (small blind) collected ($0.15)
+Seat 4: MinelliJr (big blind) folded on the River
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140167810:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:33:56 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 2: DanteDenisAA ($2.27 in chips) 
+Seat 3: 7ymbo ($2.22 in chips) 
+Seat 4: MinelliJr ($2.50 in chips) 
+Seat 5: Lorpugo ($0.79 in chips) 
+Seat 6: molecule1100 ($2.44 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 5h]
+molecule1100: raises $0.02 to $0.04
+DanteDenisAA: folds 
+7ymbo: folds 
+MinelliJr: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [Qh 7s Kh]
+MinelliJr: checks 
+molecule1100: bets $0.02
+MinelliJr: calls $0.02
+*** TURN *** [Qh 7s Kh] [8c]
+MinelliJr: bets $0.06
+molecule1100: calls $0.06
+*** RIVER *** [Qh 7s Kh 8c] [As]
+MinelliJr: bets $0.10
+molecule1100: calls $0.10
+*** SHOW DOWN ***
+MinelliJr: shows [Qc 9d] (a pair of Queens)
+molecule1100: shows [9s Kd] (a pair of Kings)
+molecule1100 collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Qh 7s Kh 8c As]
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: 7ymbo (button) folded before Flop (didn't bet)
+Seat 4: MinelliJr (small blind) showed [Qc 9d] and lost with a pair of Queens
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: molecule1100 showed [9s Kd] and won ($0.44) with a pair of Kings
+
+
+
+PokerStars Hand #241140184185:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:34:33 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 2: DanteDenisAA ($2.27 in chips) 
+Seat 3: 7ymbo ($2.22 in chips) 
+Seat 4: MinelliJr ($2.28 in chips) 
+Seat 5: Lorpugo ($0.77 in chips) 
+Seat 6: molecule1100 ($2.66 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 6s]
+DanteDenisAA: folds 
+7ymbo: calls $0.02
+MinelliJr: calls $0.02
+Lorpugo: calls $0.01
+molecule1100: checks 
+*** FLOP *** [2c 3d 9c]
+Lorpugo: checks 
+molecule1100: checks 
+7ymbo: bets $0.08
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+Uncalled bet ($0.08) returned to 7ymbo
+7ymbo collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c 3d 9c]
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: 7ymbo collected ($0.08)
+Seat 4: MinelliJr (button) folded on the Flop
+Seat 5: Lorpugo (small blind) folded on the Flop
+Seat 6: molecule1100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241140208914:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:35:29 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: neesTY ($2 in chips) 
+Seat 2: DanteDenisAA ($2.27 in chips) 
+Seat 3: 7ymbo ($2.28 in chips) 
+Seat 4: MinelliJr ($2.26 in chips) 
+Seat 5: Lorpugo ($0.75 in chips) 
+Seat 6: molecule1100 ($2.64 in chips) 
+molecule1100: posts small blind $0.01
+neesTY: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Kd]
+DanteDenisAA: folds 
+7ymbo: calls $0.02
+MinelliJr: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+molecule1100: folds 
+neesTY: calls $0.10
+7ymbo: folds 
+MinelliJr: folds 
+*** FLOP *** [Qc 3h 9h]
+neesTY: checks 
+Lorpugo: checks 
+*** TURN *** [Qc 3h 9h] [6c]
+neesTY: checks 
+Lorpugo: checks 
+*** RIVER *** [Qc 3h 9h 6c] [8h]
+neesTY: bets $0.14
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to neesTY
+neesTY collected $0.28 from pot
+neesTY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qc 3h 9h 6c 8h]
+Seat 1: neesTY (big blind) collected ($0.28)
+Seat 2: DanteDenisAA folded before Flop (didn't bet)
+Seat 3: 7ymbo folded before Flop
+Seat 4: MinelliJr folded before Flop
+Seat 5: Lorpugo (button) folded on the River
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241140231668:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:36:20 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: neesTY ($2.16 in chips) 
+Seat 3: 7ymbo ($2.26 in chips) 
+Seat 4: MinelliJr ($2.24 in chips) 
+Seat 5: Lorpugo ($0.63 in chips) 
+Seat 6: molecule1100 ($2.63 in chips) 
+neesTY: posts small blind $0.01
+7ymbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4s]
+DanteDenisAA leaves the table
+MinelliJr: calls $0.02
+Lorpugo: folds 
+molecule1100: folds 
+neesTY: folds 
+7ymbo: checks 
+*** FLOP *** [Jd 9c Ad]
+7ymbo: checks 
+fernandoadcs joins the table at seat #2 
+MinelliJr: checks 
+*** TURN *** [Jd 9c Ad] [Ts]
+7ymbo: checks 
+MinelliJr: checks 
+*** RIVER *** [Jd 9c Ad Ts] [Tc]
+7ymbo: checks 
+MinelliJr: checks 
+*** SHOW DOWN ***
+7ymbo: shows [6h 2d] (a pair of Tens)
+MinelliJr: shows [6d Kh] (a pair of Tens - Ace+King kicker)
+MinelliJr collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd 9c Ad Ts Tc]
+Seat 1: neesTY (small blind) folded before Flop
+Seat 3: 7ymbo (big blind) showed [6h 2d] and lost with a pair of Tens
+Seat 4: MinelliJr showed [6d Kh] and won ($0.05) with a pair of Tens
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140251912:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:37:06 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: neesTY ($2.15 in chips) 
+Seat 3: 7ymbo ($2.24 in chips) 
+Seat 4: MinelliJr ($2.27 in chips) 
+Seat 5: Lorpugo ($0.63 in chips) 
+Seat 6: molecule1100 ($2.63 in chips) 
+7ymbo: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5h]
+Lorpugo: folds 
+molecule1100: folds 
+neesTY: folds 
+7ymbo: calls $0.01
+MinelliJr: checks 
+*** FLOP *** [Ac Qc Kh]
+7ymbo: checks 
+MinelliJr: checks 
+*** TURN *** [Ac Qc Kh] [5s]
+7ymbo: bets $0.02
+MinelliJr: folds 
+Uncalled bet ($0.02) returned to 7ymbo
+7ymbo collected $0.04 from pot
+7ymbo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ac Qc Kh 5s]
+Seat 1: neesTY (button) folded before Flop (didn't bet)
+Seat 3: 7ymbo (small blind) collected ($0.04)
+Seat 4: MinelliJr (big blind) folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140265224:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:37:36 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 1: neesTY ($2.15 in chips) 
+Seat 2: fernandoadcs ($1 in chips) 
+Seat 3: 7ymbo ($2.26 in chips) 
+Seat 4: MinelliJr ($2.25 in chips) 
+Seat 5: Lorpugo ($0.63 in chips) 
+Seat 6: molecule1100 ($2.63 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+fernandoadcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5h]
+molecule1100: folds 
+neesTY: raises $0.04 to $0.06
+fernandoadcs: folds 
+7ymbo: calls $0.06
+MinelliJr: folds 
+Lorpugo: folds 
+*** FLOP *** [9h 4s 2c]
+neesTY: checks 
+7ymbo: checks 
+*** TURN *** [9h 4s 2c] [Qc]
+neesTY: checks 
+7ymbo: bets $0.02
+neesTY: calls $0.02
+*** RIVER *** [9h 4s 2c Qc] [Jd]
+neesTY: checks 
+7ymbo: bets $0.06
+neesTY: calls $0.06
+*** SHOW DOWN ***
+7ymbo: shows [8d 5s] (high card Queen)
+neesTY: shows [Jh As] (a pair of Jacks)
+neesTY collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [9h 4s 2c Qc Jd]
+Seat 1: neesTY showed [Jh As] and won ($0.32) with a pair of Jacks
+Seat 2: fernandoadcs folded before Flop (didn't bet)
+Seat 3: 7ymbo (button) showed [8d 5s] and lost with high card Queen
+Seat 4: MinelliJr (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140285969:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:38:23 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 1: neesTY ($2.33 in chips) 
+Seat 2: fernandoadcs ($0.98 in chips) 
+Seat 3: 7ymbo ($2.12 in chips) 
+Seat 4: MinelliJr ($2.24 in chips) 
+Seat 5: Lorpugo ($0.61 in chips) 
+Seat 6: molecule1100 ($2.63 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d As]
+neesTY: folds 
+fernandoadcs: calls $0.02
+7ymbo: raises $0.07 to $0.09
+MinelliJr has timed out
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: raises $0.19 to $0.28
+fernandoadcs: folds 
+7ymbo: calls $0.19
+*** FLOP *** [9h 6s 7h]
+molecule1100: bets $2.35 and is all-in
+7ymbo: calls $1.84 and is all-in
+Uncalled bet ($0.51) returned to molecule1100
+*** TURN *** [9h 6s 7h] [Qc]
+*** RIVER *** [9h 6s 7h Qc] [6h]
+*** SHOW DOWN ***
+molecule1100: shows [Ks Kd] (two pair, Kings and Sixes)
+7ymbo: shows [3c Ad] (a pair of Sixes)
+7ymbo cashed out the hand for $0.64 | Cash Out Fee $0.01
+molecule1100 cashed out the hand for $3.44 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $4.27 | Rake $0.15 
+Board [9h 6s 7h Qc 6h]
+Seat 1: neesTY folded before Flop (didn't bet)
+Seat 2: fernandoadcs folded before Flop
+Seat 3: 7ymbo showed [3c Ad] and lost with a pair of Sixes (cashed out).
+Seat 4: MinelliJr (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) showed [Ks Kd] and won ($4.12) with two pair, Kings and Sixes (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #241140310202:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:39:18 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: neesTY ($2.33 in chips) 
+Seat 2: fernandoadcs ($0.96 in chips) 
+Seat 3: 7ymbo ($0.64 in chips) 
+Seat 4: MinelliJr ($2.24 in chips) 
+Seat 5: Lorpugo ($0.60 in chips) 
+Seat 6: molecule1100 ($3.95 in chips) 
+molecule1100: posts small blind $0.01
+neesTY: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 9s]
+fernandoadcs: folds 
+7ymbo: calls $0.02
+MinelliJr: folds 
+Lorpugo: calls $0.02
+molecule1100: raises $0.02 to $0.04
+neesTY: calls $0.02
+7ymbo: calls $0.02
+Lorpugo: calls $0.02
+*** FLOP *** [7h As Kc]
+molecule1100: bets $0.02
+neesTY: folds 
+7ymbo: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to molecule1100
+molecule1100 collected $0.15 from pot
+molecule1100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7h As Kc]
+Seat 1: neesTY (big blind) folded on the Flop
+Seat 2: fernandoadcs folded before Flop (didn't bet)
+Seat 3: 7ymbo folded on the Flop
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded on the Flop
+Seat 6: molecule1100 (small blind) collected ($0.15)
+
+
+
+PokerStars Hand #241140329474:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:40:01 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: neesTY ($2.29 in chips) 
+Seat 2: fernandoadcs ($0.96 in chips) 
+Seat 3: 7ymbo ($0.60 in chips) 
+Seat 4: MinelliJr ($2.24 in chips) 
+Seat 5: Lorpugo ($0.56 in chips) 
+Seat 6: molecule1100 ($4.06 in chips) 
+neesTY: posts small blind $0.01
+fernandoadcs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ts]
+7ymbo: calls $0.02
+MinelliJr: calls $0.02
+Lorpugo: folds 
+molecule1100: raises $0.04 to $0.06
+neesTY: folds 
+fernandoadcs: calls $0.04
+7ymbo: calls $0.04
+MinelliJr: calls $0.04
+*** FLOP *** [Jc Kc 8s]
+fernandoadcs: checks 
+7ymbo: checks 
+MinelliJr: checks 
+molecule1100: bets $0.02
+fernandoadcs: calls $0.02
+7ymbo: calls $0.02
+MinelliJr: raises $0.08 to $0.10
+molecule1100: folds 
+fernandoadcs: folds 
+7ymbo: folds 
+Uncalled bet ($0.08) returned to MinelliJr
+MinelliJr collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Jc Kc 8s]
+Seat 1: neesTY (small blind) folded before Flop
+Seat 2: fernandoadcs (big blind) folded on the Flop
+Seat 3: 7ymbo folded on the Flop
+Seat 4: MinelliJr collected ($0.32)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 (button) folded on the Flop
+
+
+
+PokerStars Hand #241140358565:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:41:07 ET
+Table 'Euphrosyne II' 6-max Seat #1 is the button
+Seat 1: neesTY ($2.28 in chips) 
+Seat 2: fernandoadcs ($0.88 in chips) 
+Seat 3: 7ymbo ($0.52 in chips) 
+Seat 4: MinelliJr ($2.48 in chips) 
+Seat 5: Lorpugo ($0.56 in chips) 
+Seat 6: molecule1100 ($3.98 in chips) 
+fernandoadcs: posts small blind $0.01
+7ymbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5s]
+MinelliJr: folds 
+Lorpugo: folds 
+molecule1100: folds 
+neesTY: folds 
+fernandoadcs: calls $0.01
+7ymbo: checks 
+*** FLOP *** [Td Ah 6s]
+fernandoadcs: checks 
+7ymbo: checks 
+*** TURN *** [Td Ah 6s] [Qc]
+fernandoadcs: checks 
+7ymbo: bets $0.02
+fernandoadcs: folds 
+Uncalled bet ($0.02) returned to 7ymbo
+7ymbo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Td Ah 6s Qc]
+Seat 1: neesTY (button) folded before Flop (didn't bet)
+Seat 2: fernandoadcs (small blind) folded on the Turn
+Seat 3: 7ymbo (big blind) collected ($0.04)
+Seat 4: MinelliJr folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140379067:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:41:53 ET
+Table 'Euphrosyne II' 6-max Seat #2 is the button
+Seat 1: neesTY ($2.28 in chips) 
+Seat 2: fernandoadcs ($0.86 in chips) 
+Seat 3: 7ymbo ($0.54 in chips) 
+Seat 4: MinelliJr ($2.48 in chips) 
+Seat 5: Lorpugo ($1.36 in chips) 
+Seat 6: molecule1100 ($3.98 in chips) 
+7ymbo: posts small blind $0.01
+MinelliJr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Ad]
+Lorpugo: folds 
+molecule1100: folds 
+neesTY: calls $0.02
+fernandoadcs: raises $0.02 to $0.04
+7ymbo: raises $0.02 to $0.06
+MinelliJr: folds 
+neesTY: calls $0.04
+fernandoadcs: calls $0.02
+*** FLOP *** [Kh 4h 8c]
+7ymbo: checks 
+neesTY: checks 
+fernandoadcs: bets $0.10
+7ymbo: calls $0.10
+neesTY: folds 
+*** TURN *** [Kh 4h 8c] [Tc]
+7ymbo: checks 
+fernandoadcs: bets $0.20
+7ymbo: calls $0.20
+*** RIVER *** [Kh 4h 8c Tc] [7h]
+7ymbo: checks 
+fernandoadcs: bets $0.50 and is all-in
+7ymbo: calls $0.18 and is all-in
+Uncalled bet ($0.32) returned to fernandoadcs
+*** SHOW DOWN ***
+fernandoadcs: shows [Jd Qs] (high card King)
+7ymbo: shows [5h 5s] (a pair of Fives)
+7ymbo collected $1.12 from pot
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.04 
+Board [Kh 4h 8c Tc 7h]
+Seat 1: neesTY folded on the Flop
+Seat 2: fernandoadcs (button) showed [Jd Qs] and lost with high card King
+Seat 3: 7ymbo (small blind) showed [5h 5s] and won ($1.12) with a pair of Fives
+Seat 4: MinelliJr (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140409976:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:43:02 ET
+Table 'Euphrosyne II' 6-max Seat #3 is the button
+Seat 1: neesTY ($2.22 in chips) 
+Seat 2: fernandoadcs ($0.32 in chips) 
+Seat 3: 7ymbo ($1.12 in chips) 
+Seat 4: MinelliJr ($2.46 in chips) 
+Seat 5: Lorpugo ($1.36 in chips) 
+Seat 6: molecule1100 ($3.98 in chips) 
+MinelliJr: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Jd]
+molecule1100: folds 
+neesTY: calls $0.02
+fernandoadcs: raises $0.30 to $0.32 and is all-in
+7ymbo: calls $0.32
+MinelliJr: folds 
+Lorpugo: folds 
+neesTY: folds 
+*** FLOP *** [4c Jh 7h]
+*** TURN *** [4c Jh 7h] [Ad]
+*** RIVER *** [4c Jh 7h Ad] [7s]
+*** SHOW DOWN ***
+fernandoadcs: shows [Th Ah] (two pair, Aces and Sevens)
+7ymbo: shows [7d Ks] (three of a kind, Sevens)
+7ymbo collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [4c Jh 7h Ad 7s]
+Seat 1: neesTY folded before Flop
+Seat 2: fernandoadcs showed [Th Ah] and lost with two pair, Aces and Sevens
+Seat 3: 7ymbo (button) showed [7d Ks] and won ($0.67) with three of a kind, Sevens
+Seat 4: MinelliJr (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: molecule1100 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241140423900:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:43:34 ET
+Table 'Euphrosyne II' 6-max Seat #4 is the button
+Seat 1: neesTY ($2.20 in chips) 
+Seat 3: 7ymbo ($1.47 in chips) 
+Seat 4: MinelliJr ($2.45 in chips) 
+Seat 5: Lorpugo ($1.34 in chips) 
+Seat 6: molecule1100 ($3.98 in chips) 
+Lorpugo: posts small blind $0.01
+molecule1100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 7c]
+neesTY: folds 
+7ymbo: calls $0.02
+MinelliJr: calls $0.02
+Lorpugo: folds 
+molecule1100: raises $0.06 to $0.08
+7ymbo: calls $0.06
+MinelliJr: folds 
+*** FLOP *** [2c 5d 2s]
+molecule1100: bets $0.12
+7ymbo: calls $0.12
+*** TURN *** [2c 5d 2s] [Ac]
+molecule1100: bets $0.14
+7ymbo: calls $0.14
+*** RIVER *** [2c 5d 2s Ac] [7d]
+molecule1100: bets $0.23
+7ymbo: calls $0.23
+*** SHOW DOWN ***
+molecule1100: shows [Kc Kh] (two pair, Kings and Deuces)
+7ymbo: shows [3s Ah] (two pair, Aces and Deuces)
+7ymbo collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.17 | Rake $0.04 
+Board [2c 5d 2s Ac 7d]
+Seat 1: neesTY folded before Flop (didn't bet)
+Seat 3: 7ymbo showed [3s Ah] and won ($1.13) with two pair, Aces and Deuces
+Seat 4: MinelliJr (button) folded before Flop
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: molecule1100 (big blind) showed [Kc Kh] and lost with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #241140444715:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:44:21 ET
+Table 'Euphrosyne II' 6-max Seat #5 is the button
+Seat 1: neesTY ($2.20 in chips) 
+Seat 3: 7ymbo ($2.03 in chips) 
+Seat 4: MinelliJr ($2.43 in chips) 
+Seat 5: Lorpugo ($1.33 in chips) 
+Seat 6: molecule1100 ($3.41 in chips) 
+molecule1100: posts small blind $0.01
+neesTY: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Tc]
+7ymbo: calls $0.02
+MinelliJr: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+molecule1100: folds 
+neesTY: folds 
+7ymbo: calls $0.04
+*** FLOP *** [5h Ad Js]
+fernandoadcs is disconnected 
+7ymbo: checks 
+MinelliJr: checks 
+Lorpugo: checks 
+*** TURN *** [5h Ad Js] [8h]
+7ymbo: checks 
+MinelliJr: bets $0.04
+Lorpugo: calls $0.04
+7ymbo: calls $0.04
+*** RIVER *** [5h Ad Js 8h] [4h]
+7ymbo: bets $0.16
+MinelliJr: calls $0.16
+Lorpugo: folds 
+*** SHOW DOWN ***
+7ymbo: shows [2s 3d] (a straight, Ace to Five)
+MinelliJr: mucks hand 
+7ymbo collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [5h Ad Js 8h 4h]
+Seat 1: neesTY (big blind) folded before Flop
+Seat 3: 7ymbo showed [2s 3d] and won ($0.63) with a straight, Ace to Five
+Seat 4: MinelliJr mucked [Jh As]
+Seat 5: Lorpugo (button) folded on the River
+Seat 6: molecule1100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241140468737:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 13:45:16 ET
+Table 'Euphrosyne II' 6-max Seat #6 is the button
+Seat 1: neesTY ($2.18 in chips) 
+Seat 3: 7ymbo ($2.40 in chips) 
+Seat 4: MinelliJr ($2.17 in chips) 
+Seat 5: Lorpugo ($1.23 in chips) 
+Seat 6: molecule1100 ($3.40 in chips) 
+neesTY: posts small blind $0.01
+7ymbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qd]
+MinelliJr: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+molecule1100: folds 
+neesTY: folds 
+7ymbo: calls $0.08
+MinelliJr: calls $0.08
+*** FLOP *** [6d Td 2s]
+7ymbo: checks 
+MinelliJr: bets $0.06
+Lorpugo: raises $1.07 to $1.13 and is all-in
+7ymbo: calls $1.13
+MinelliJr: folds 
+*** TURN *** [6d Td 2s] [7s]
+*** RIVER *** [6d Td 2s 7s] [6h]
+*** SHOW DOWN ***
+7ymbo: shows [9d 8d] (a straight, Six to Ten)
+Lorpugo: shows [Ad Qd] (a pair of Sixes)
+7ymbo collected $2.54 from pot
+*** SUMMARY ***
+Total pot $2.63 | Rake $0.09 
+Board [6d Td 2s 7s 6h]
+Seat 1: neesTY (small blind) folded before Flop
+Seat 3: 7ymbo (big blind) showed [9d 8d] and won ($2.54) with a straight, Six to Ten
+Seat 4: MinelliJr folded on the Flop
+Seat 5: Lorpugo showed [Ad Qd] and lost with a pair of Sixes
+Seat 6: molecule1100 (button) folded before Flop (didn't bet)
+
+
+

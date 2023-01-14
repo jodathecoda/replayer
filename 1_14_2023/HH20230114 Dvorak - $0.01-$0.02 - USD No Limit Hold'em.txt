@@ -1,0 +1,2635 @@
+﻿PokerStars Hand #241141615340:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:30:58 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: king20161 ($2.27 in chips) 
+Seat 3: Tasos6811 ($2.16 in chips) 
+Seat 4: sextinian ($4.25 in chips) 
+Seat 6: Ramirres ($3.60 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Kh]
+king20161: folds 
+Tasos6811: raises $0.02 to $0.04
+sextinian: calls $0.04
+Ramirres: folds 
+Lorpugo: folds 
+*** FLOP *** [Ac Qs 8h]
+Tasos6811: checks 
+sextinian: checks 
+*** TURN *** [Ac Qs 8h] [As]
+Tasos6811: checks 
+sextinian: bets $0.06
+Tasos6811: calls $0.06
+*** RIVER *** [Ac Qs 8h As] [Qd]
+Tasos6811: checks 
+sextinian: bets $0.11
+Tasos6811: folds 
+Uncalled bet ($0.11) returned to sextinian
+sextinian collected $0.22 from pot
+sextinian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ac Qs 8h As Qd]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: king20161 folded before Flop (didn't bet)
+Seat 3: Tasos6811 folded on the River
+Seat 4: sextinian (button) collected ($0.22)
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241141631007:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:31:35 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.58 in chips) 
+Seat 2: king20161 ($2.27 in chips) 
+Seat 3: Tasos6811 ($2.06 in chips) 
+Seat 4: sextinian ($4.37 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+Lorpugo: posts small blind $0.01
+king20161: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 8s]
+Tasos6811: raises $0.02 to $0.04
+sextinian: raises $0.12 to $0.16
+Ramirres: folds 
+Lorpugo: folds 
+king20161: folds 
+Tasos6811: calls $0.12
+*** FLOP *** [Ah 2s 7d]
+Tasos6811: checks 
+sextinian: bets $0.26
+Tasos6811: calls $0.26
+*** TURN *** [Ah 2s 7d] [Td]
+Tasos6811: checks 
+sextinian: bets $0.68
+Tasos6811: raises $0.96 to $1.64 and is all-in
+sextinian: calls $0.96
+*** RIVER *** [Ah 2s 7d Td] [Ks]
+*** SHOW DOWN ***
+Tasos6811: shows [Jh As] (a pair of Aces)
+sextinian: shows [Kd Ac] (two pair, Aces and Kings)
+sextinian collected $4 from pot
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.15 
+Board [Ah 2s 7d Td Ks]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: king20161 (big blind) folded before Flop
+Seat 3: Tasos6811 showed [Jh As] and lost with a pair of Aces
+Seat 4: sextinian showed [Kd Ac] and won ($4) with two pair, Aces and Kings
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141656699:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:32:34 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 2: king20161 ($2.25 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+king20161: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Td]
+Ramirres: folds 
+Lorpugo: raises $0.03 to $0.05
+king20161: folds 
+sextinian: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: king20161 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded before Flop
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141661361:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:32:45 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: king20161 ($2.24 in chips) 
+Seat 4: sextinian ($6.29 in chips) 
+Seat 5: eLeckas ($2.03 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+sextinian: posts small blind $0.01
+eLeckas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 7d]
+Ramirres: folds 
+Lorpugo: folds 
+king20161: folds 
+sextinian: folds 
+Uncalled bet ($0.01) returned to eLeckas
+eLeckas collected $0.02 from pot
+Tasos6811 leaves the table
+eLeckas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: king20161 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: eLeckas (big blind) collected ($0.02)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141664576:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:32:53 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: king20161 ($2.24 in chips) 
+Seat 4: sextinian ($6.28 in chips) 
+Seat 5: eLeckas ($2.04 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+eLeckas: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Kc]
+Lorpugo: folds 
+d1ablo84 joins the table at seat #3 
+king20161: folds 
+sextinian: raises $0.04 to $0.06
+eLeckas: folds 
+Ramirres: folds 
+Uncalled bet ($0.04) returned to sextinian
+sextinian collected $0.05 from pot
+sextinian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: king20161 folded before Flop (didn't bet)
+Seat 4: sextinian (button) collected ($0.05)
+Seat 5: eLeckas (small blind) folded before Flop
+Seat 6: Ramirres (big blind) folded before Flop
+
+
+
+PokerStars Hand #241141670638:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:33:07 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: king20161 ($2.24 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: eLeckas ($2.03 in chips) 
+Seat 6: Ramirres ($3.57 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jc]
+king20161: folds 
+sextinian: folds 
+eLeckas: folds 
+Ramirres: raises $0.03 to $0.05
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to Ramirres
+Ramirres collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: king20161 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: eLeckas (button) folded before Flop (didn't bet)
+Seat 6: Ramirres (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #241141687255:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:33:45 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.58 in chips) 
+Seat 2: king20161 ($2.24 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: eLeckas ($2.03 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+Lorpugo: posts small blind $0.01
+king20161: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9d]
+sextinian: folds 
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: raises $0.03 to $0.05
+king20161: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.04)
+Seat 2: king20161 (big blind) folded before Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141692040:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:33:56 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: king20161 ($2.22 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: eLeckas ($2.03 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+king20161: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ts]
+sextinian: raises $0.06 to $0.08
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: calls $0.08
+king20161: folds 
+d1ablo84: folds 
+*** FLOP *** [5h Js Ad]
+sextinian: checks 
+Lorpugo: bets $0.04
+sextinian: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.18 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h Js Ad]
+Seat 1: Lorpugo (button) collected ($0.18)
+Seat 2: king20161 (small blind) folded before Flop
+Seat 3: d1ablo84 (big blind) folded before Flop
+Seat 4: sextinian folded on the Flop
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141712316:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:34:42 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.70 in chips) 
+Seat 2: king20161 ($2.21 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.23 in chips) 
+Seat 5: eLeckas ($2.03 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7s]
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: raises $0.03 to $0.05
+king20161: folds 
+d1ablo84: folds 
+sextinian: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: king20161 (button) folded before Flop (didn't bet)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded before Flop
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141721523:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:35:03 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 2: king20161 ($2.21 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.21 in chips) 
+Seat 5: eLeckas ($2.03 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+sextinian: posts small blind $0.01
+eLeckas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2d]
+Ramirres: folds 
+Lorpugo: folds 
+king20161: raises $0.04 to $0.06
+d1ablo84: folds 
+sextinian: folds 
+eLeckas: folds 
+Uncalled bet ($0.04) returned to king20161
+king20161 collected $0.05 from pot
+king20161: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: king20161 collected ($0.05)
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: eLeckas (big blind) folded before Flop
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141727385:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:35:17 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 2: king20161 ($2.24 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.20 in chips) 
+Seat 5: eLeckas ($2.01 in chips) 
+eLeckas: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 6d]
+Ramirres leaves the table
+king20161: folds 
+d1ablo84: folds 
+sextinian: raises $0.04 to $0.06
+eLeckas: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [3d 8d Ks]
+Ramirres joins the table at seat #6 
+Lorpugo: checks 
+sextinian: bets $0.07
+Lorpugo: calls $0.07
+*** TURN *** [3d 8d Ks] [9h]
+Lorpugo: checks 
+sextinian: bets $0.13
+Lorpugo: calls $0.13
+*** RIVER *** [3d 8d Ks 9h] [4s]
+Lorpugo: checks 
+sextinian: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7d 6d] (high card King)
+sextinian: shows [Tc Td] (a pair of Tens)
+sextinian collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [3d 8d Ks 9h 4s]
+Seat 1: Lorpugo (big blind) showed [7d 6d] and lost with high card King
+Seat 2: king20161 folded before Flop (didn't bet)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) showed [Tc Td] and won ($0.51) with a pair of Tens
+Seat 5: eLeckas (small blind) folded before Flop
+
+
+
+PokerStars Hand #241141747571:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:36:03 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.47 in chips) 
+Seat 2: king20161 ($2.24 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.45 in chips) 
+Seat 5: eLeckas ($2 in chips) 
+Lorpugo: posts small blind $0.01
+king20161: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 8d]
+d1ablo84: folds 
+sextinian: raises $0.04 to $0.06
+eLeckas: folds 
+Lorpugo: folds 
+king20161: folds 
+Uncalled bet ($0.04) returned to sextinian
+sextinian collected $0.05 from pot
+sextinian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: king20161 (big blind) folded before Flop
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian collected ($0.05)
+Seat 5: eLeckas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141753136:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:36:16 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.46 in chips) 
+Seat 2: king20161 ($2.22 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.48 in chips) 
+Seat 5: eLeckas ($2 in chips) 
+king20161: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9d]
+sextinian: folds 
+eLeckas: folds 
+Lorpugo: raises $0.03 to $0.05
+king20161: folds 
+d1ablo84: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+king20161 leaves the table
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: king20161 (small blind) folded before Flop
+Seat 3: d1ablo84 (big blind) folded before Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: eLeckas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141758574:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:36:28 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.49 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.48 in chips) 
+Seat 5: eLeckas ($2 in chips) 
+sextinian: posts small blind $0.01
+eLeckas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Jc]
+Lorpugo: folds 
+d1ablo84: raises $0.03 to $0.05
+sextinian: folds 
+eLeckas: folds 
+Uncalled bet ($0.03) returned to d1ablo84
+d1ablo84 collected $0.05 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: d1ablo84 (button) collected ($0.05)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: eLeckas (big blind) folded before Flop
+
+
+
+PokerStars Hand #241141763685:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:36:40 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.49 in chips) 
+Seat 3: d1ablo84 ($2.03 in chips) 
+Seat 4: sextinian ($6.47 in chips) 
+Seat 5: eLeckas ($1.98 in chips) 
+Seat 6: Ramirres ($3.59 in chips) 
+eLeckas: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Td]
+Lorpugo: raises $0.03 to $0.05
+d1ablo84: folds 
+sextinian: calls $0.05
+eLeckas: folds 
+Ramirres: folds 
+*** FLOP *** [2s Ks 9h]
+Lorpugo: bets $0.07
+sextinian: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2s Ks 9h]
+Seat 1: Lorpugo collected ($0.13)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded on the Flop
+Seat 5: eLeckas (small blind) folded before Flop
+Seat 6: Ramirres (big blind) folded before Flop
+
+
+
+PokerStars Hand #241141774589:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:37:05 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.57 in chips) 
+Seat 3: d1ablo84 ($2.03 in chips) 
+Seat 4: sextinian ($6.42 in chips) 
+Seat 5: eLeckas ($1.97 in chips) 
+Seat 6: Ramirres ($3.57 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8h]
+d1ablo84: folds 
+sextinian: raises $0.04 to $0.06
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [5c Th 5h]
+Lorpugo: bets $0.02
+sextinian: calls $0.02
+*** TURN *** [5c Th 5h] [3d]
+Lorpugo: bets $0.05
+sextinian: calls $0.05
+*** RIVER *** [5c Th 5h 3d] [Qh]
+Lorpugo: bets $0.04
+sextinian: calls $0.04
+*** SHOW DOWN ***
+Lorpugo: shows [Td 8h] (two pair, Tens and Fives)
+sextinian: mucks hand 
+Lorpugo collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [5c Th 5h 3d Qh]
+Seat 1: Lorpugo (big blind) showed [Td 8h] and won ($0.34) with two pair, Tens and Fives
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian mucked [Ad Ks]
+Seat 5: eLeckas (button) folded before Flop (didn't bet)
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241141789368:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:37:39 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.74 in chips) 
+Seat 3: d1ablo84 ($2.03 in chips) 
+Seat 4: sextinian ($6.25 in chips) 
+Seat 5: eLeckas ($1.97 in chips) 
+Seat 6: Ramirres ($3.56 in chips) 
+Lorpugo: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3d]
+sextinian: folds 
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to d1ablo84
+d1ablo84 collected $0.02 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 3: d1ablo84 (big blind) collected ($0.02)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141795091:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:37:52 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 3: d1ablo84 ($2.04 in chips) 
+Seat 5: eLeckas ($1.97 in chips) 
+Seat 6: Ramirres ($3.56 in chips) 
+d1ablo84: posts small blind $0.01
+eLeckas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5c]
+WILLEMFELIPE joins the table at seat #2 
+Ramirres: folds 
+Lorpugo: raises $0.02 to $0.04
+d1ablo84: folds 
+eLeckas: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 5: eLeckas (big blind) folded before Flop
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141801715:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:38:07 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.76 in chips) 
+Seat 2: WILLEMFELIPE ($1.11 in chips) 
+Seat 3: d1ablo84 ($2.03 in chips) 
+Seat 5: eLeckas ($1.95 in chips) 
+Seat 6: Ramirres ($3.56 in chips) 
+eLeckas: posts small blind $0.01
+Ramirres: posts big blind $0.02
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Qc]
+Lorpugo: folds 
+WILLEMFELIPE: checks 
+d1ablo84: folds 
+eLeckas: folds 
+Ramirres: checks 
+*** FLOP *** [8c Jh 4h]
+Ramirres: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [8c Jh 4h] [2s]
+Ramirres: checks 
+WILLEMFELIPE: checks 
+*** RIVER *** [8c Jh 4h 2s] [Kd]
+Ramirres: checks 
+WILLEMFELIPE: checks 
+*** SHOW DOWN ***
+Ramirres: shows [5c 2h] (a pair of Deuces)
+WILLEMFELIPE: shows [2c Ad] (a pair of Deuces - Ace kicker)
+WILLEMFELIPE collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8c Jh 4h 2s Kd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE showed [2c Ad] and won ($0.05) with a pair of Deuces
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 5: eLeckas (small blind) folded before Flop
+Seat 6: Ramirres (big blind) showed [5c 2h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #241141814437:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:38:36 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.76 in chips) 
+Seat 2: WILLEMFELIPE ($1.14 in chips) 
+Seat 3: d1ablo84 ($2.03 in chips) 
+Seat 5: eLeckas ($1.94 in chips) 
+Seat 6: Ramirres ($3.54 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Ad]
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: raises $0.08 to $0.10
+WILLEMFELIPE: raises $1.04 to $1.14 and is all-in
+Lorpugo: calls $1.04
+*** FLOP *** [2c 9d Jd]
+*** TURN *** [2c 9d Jd] [5s]
+*** RIVER *** [2c 9d Jd 5s] [Kc]
+*** SHOW DOWN ***
+Lorpugo: shows [Ks Ad] (a pair of Kings)
+WILLEMFELIPE: shows [Ac Jh] (a pair of Jacks)
+Lorpugo collected $2.21 from pot
+*** SUMMARY ***
+Total pot $2.29 | Rake $0.08 
+Board [2c 9d Jd 5s Kc]
+Seat 1: Lorpugo (big blind) showed [Ks Ad] and won ($2.21) with a pair of Kings
+Seat 2: WILLEMFELIPE showed [Ac Jh] and lost with a pair of Jacks
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 5: eLeckas (button) folded before Flop (didn't bet)
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241141833386:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:39:20 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.83 in chips) 
+Seat 3: d1ablo84 ($2.03 in chips) 
+Seat 5: eLeckas ($1.94 in chips) 
+Seat 6: Ramirres ($3.53 in chips) 
+Lorpugo: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Jc]
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: raises $0.02 to $0.04
+d1ablo84: calls $0.02
+*** FLOP *** [9d Qc 3h]
+Lorpugo: checks 
+d1ablo84: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to d1ablo84
+d1ablo84 collected $0.08 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9d Qc 3h]
+Seat 1: Lorpugo (small blind) folded on the Flop
+Seat 3: d1ablo84 (big blind) collected ($0.08)
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141853714:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:40:06 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 3: d1ablo84 ($2.07 in chips) 
+Seat 5: eLeckas ($1.94 in chips) 
+Seat 6: Ramirres ($3.53 in chips) 
+d1ablo84: posts small blind $0.01
+eLeckas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 3s]
+Ramirres: folds 
+Lorpugo: folds 
+d1ablo84: folds 
+Uncalled bet ($0.01) returned to eLeckas
+eLeckas collected $0.02 from pot
+eLeckas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 5: eLeckas (big blind) collected ($0.02)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141856819:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:40:13 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: WILLEMFELIPE ($2 in chips) 
+Seat 3: d1ablo84 ($2.06 in chips) 
+Seat 5: eLeckas ($1.95 in chips) 
+Seat 6: Ramirres ($3.53 in chips) 
+eLeckas: posts small blind $0.01
+Ramirres: posts big blind $0.02
+WILLEMFELIPE: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 5c]
+Lorpugo: folds 
+WILLEMFELIPE: raises $0.10 to $0.12
+d1ablo84: folds 
+eLeckas: folds 
+Ramirres: folds 
+Uncalled bet ($0.10) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE collected ($0.06)
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 5: eLeckas (small blind) folded before Flop
+Seat 6: Ramirres (big blind) folded before Flop
+
+
+
+PokerStars Hand #241141865259:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:40:33 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.79 in chips) 
+Seat 2: WILLEMFELIPE ($2.03 in chips) 
+Seat 3: d1ablo84 ($2.06 in chips) 
+Seat 5: eLeckas ($1.94 in chips) 
+Seat 6: Ramirres ($3.51 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5h]
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: checks 
+*** FLOP *** [5s 9h 5d]
+Lorpugo: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [5s 9h 5d] [6c]
+Lorpugo: bets $0.03
+WILLEMFELIPE: calls $0.03
+*** RIVER *** [5s 9h 5d 6c] [4s]
+Lorpugo: bets $0.07
+WILLEMFELIPE: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5s 9h 5d 6c 4s]
+Seat 1: Lorpugo (big blind) collected ($0.11)
+Seat 2: WILLEMFELIPE folded on the River
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 5: eLeckas (button) folded before Flop (didn't bet)
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241141884879:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:41:17 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.85 in chips) 
+Seat 2: WILLEMFELIPE ($1.98 in chips) 
+Seat 3: d1ablo84 ($2.06 in chips) 
+Seat 5: eLeckas ($2 in chips) 
+Seat 6: Ramirres ($3.50 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d As]
+d1ablo84: folds 
+eLeckas: folds 
+Ramirres: raises $0.03 to $0.05
+Lorpugo: calls $0.04
+WILLEMFELIPE: calls $0.03
+*** FLOP *** [2s 4h 4c]
+Lorpugo: bets $0.04
+WILLEMFELIPE: folds 
+Ramirres: calls $0.04
+*** TURN *** [2s 4h 4c] [7c]
+Lorpugo: bets $0.04
+Ramirres: calls $0.04
+*** RIVER *** [2s 4h 4c 7c] [7d]
+Lorpugo: checks 
+Ramirres: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [8d As] (two pair, Sevens and Fours)
+Ramirres: shows [6h 6d] (two pair, Sevens and Sixes)
+Ramirres collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [2s 4h 4c 7c 7d]
+Seat 1: Lorpugo (small blind) showed [8d As] and lost with two pair, Sevens and Fours
+Seat 2: WILLEMFELIPE (big blind) folded on the Flop
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres (button) showed [6h 6d] and won ($0.30) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #241141904124:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:42:02 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.72 in chips) 
+Seat 2: WILLEMFELIPE ($1.93 in chips) 
+Seat 3: d1ablo84 ($2.06 in chips) 
+Seat 5: eLeckas ($2 in chips) 
+Seat 6: Ramirres ($3.67 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Qh]
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.01
+d1ablo84: raises $0.06 to $0.08
+WILLEMFELIPE: calls $0.06
+*** FLOP *** [2s Ts 3h]
+WILLEMFELIPE: checks 
+d1ablo84: checks 
+*** TURN *** [2s Ts 3h] [9h]
+WILLEMFELIPE: checks 
+d1ablo84: bets $0.11
+WILLEMFELIPE: calls $0.11
+*** RIVER *** [2s Ts 3h 9h] [Jc]
+WILLEMFELIPE: bets $1.74 and is all-in
+d1ablo84: folds 
+Uncalled bet ($1.74) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [2s Ts 3h 9h Jc]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (small blind) collected ($0.37)
+Seat 3: d1ablo84 (big blind) folded on the River
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141936404:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:43:17 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.72 in chips) 
+Seat 2: WILLEMFELIPE ($2.11 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.25 in chips) 
+Seat 5: eLeckas ($2 in chips) 
+Seat 6: Ramirres ($3.67 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 6s]
+eLeckas: folds 
+Ramirres: folds 
+Lorpugo: raises $0.02 to $0.04
+WILLEMFELIPE: calls $0.04
+d1ablo84: raises $0.20 to $0.24
+sextinian: folds 
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+Uncalled bet ($0.20) returned to d1ablo84
+d1ablo84 collected $0.14 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Lorpugo folded before Flop
+Seat 2: WILLEMFELIPE (button) folded before Flop
+Seat 3: d1ablo84 (small blind) collected ($0.14)
+Seat 4: sextinian (big blind) folded before Flop
+Seat 5: eLeckas folded before Flop (didn't bet)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241141952042:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:43:54 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.68 in chips) 
+Seat 2: WILLEMFELIPE ($2.07 in chips) 
+Seat 3: d1ablo84 ($2.10 in chips) 
+Seat 4: sextinian ($6.23 in chips) 
+Seat 6: Ramirres ($3.67 in chips) 
+sextinian: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Qc]
+Lorpugo: raises $0.02 to $0.04
+WILLEMFELIPE: calls $0.04
+d1ablo84: folds 
+sextinian: folds 
+eLeckas leaves the table
+omarja230 joins the table at seat #5 
+Ramirres: raises $0.20 to $0.24
+Lorpugo: calls $0.20
+WILLEMFELIPE: folds 
+*** FLOP *** [9s 4h 2c]
+Ramirres: checks 
+Lorpugo: checks 
+*** TURN *** [9s 4h 2c] [3s]
+Ramirres: checks 
+Lorpugo: checks 
+*** RIVER *** [9s 4h 2c 3s] [Kc]
+Ramirres: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Ramirres: shows [7s 7d] (a pair of Sevens)
+Lorpugo: mucks hand 
+Ramirres collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [9s 4h 2c 3s Kc]
+Seat 1: Lorpugo mucked [As Qc]
+Seat 2: WILLEMFELIPE folded before Flop
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 6: Ramirres (big blind) showed [7s 7d] and won ($0.51) with a pair of Sevens
+
+
+
+PokerStars Hand #241141976937:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:44:53 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.44 in chips) 
+Seat 2: WILLEMFELIPE ($2.03 in chips) 
+Seat 3: d1ablo84 ($2.10 in chips) 
+Seat 4: sextinian ($6.22 in chips) 
+Seat 6: Ramirres ($3.94 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 6d]
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+Ramirres: raises $0.03 to $0.05
+Lorpugo: calls $0.03
+*** FLOP *** [2c 8h 6c]
+Ramirres: bets $0.06
+Lorpugo: calls $0.06
+*** TURN *** [2c 8h 6c] [8d]
+Ramirres: bets $0.16
+Lorpugo: calls $0.16
+*** RIVER *** [2c 8h 6c 8d] [3s]
+Ramirres: bets $0.36
+Lorpugo: calls $0.36
+*** SHOW DOWN ***
+Ramirres: shows [8s Js] (three of a kind, Eights)
+Lorpugo: mucks hand 
+Ramirres collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.04 
+Board [2c 8h 6c 8d 3s]
+Seat 1: Lorpugo (big blind) mucked [Kc 6d]
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 6: Ramirres (small blind) showed [8s Js] and won ($1.22) with three of a kind, Eights
+
+
+
+PokerStars Hand #241141995265:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:45:36 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.81 in chips) 
+Seat 2: WILLEMFELIPE ($2.03 in chips) 
+Seat 3: d1ablo84 ($2.10 in chips) 
+Seat 4: sextinian ($6.22 in chips) 
+Seat 5: omarja230 ($2 in chips) 
+Seat 6: Ramirres ($4.53 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 5d]
+d1ablo84: folds 
+sextinian: folds 
+omarja230: checks 
+Ramirres: folds 
+Lorpugo: calls $0.01
+WILLEMFELIPE: checks 
+*** FLOP *** [8h 9s Js]
+Lorpugo: checks 
+WILLEMFELIPE: bets $0.03
+omarja230: raises $0.03 to $0.06
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.03
+*** TURN *** [8h 9s Js] [Ad]
+WILLEMFELIPE: bets $0.04
+omarja230: raises $0.04 to $0.08
+WILLEMFELIPE: calls $0.04
+*** RIVER *** [8h 9s Js Ad] [Kh]
+WILLEMFELIPE: checks 
+omarja230: bets $1.84 and is all-in
+WILLEMFELIPE: folds 
+Uncalled bet ($1.84) returned to omarja230
+omarja230 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [8h 9s Js Ad Kh]
+Seat 1: Lorpugo (small blind) folded on the Flop
+Seat 2: WILLEMFELIPE (big blind) folded on the River
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 collected ($0.33)
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142024946:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:46:46 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.79 in chips) 
+Seat 2: WILLEMFELIPE ($1.87 in chips) 
+Seat 3: d1ablo84 ($2.10 in chips) 
+Seat 4: sextinian ($6.22 in chips) 
+Seat 5: omarja230 ($2.17 in chips) 
+Seat 6: Ramirres ($4.53 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Qh]
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: calls $0.02
+WILLEMFELIPE: raises $0.08 to $0.10
+d1ablo84: folds 
+omarja230: calls $0.08
+Lorpugo: folds 
+*** FLOP *** [9h Kh Th]
+WILLEMFELIPE: checks 
+omarja230: checks 
+*** TURN *** [9h Kh Th] [3d]
+WILLEMFELIPE: bets $0.23
+omarja230: folds 
+Uncalled bet ($0.23) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9h Kh Th 3d]
+Seat 1: Lorpugo (button) folded before Flop
+Seat 2: WILLEMFELIPE (small blind) collected ($0.23)
+Seat 3: d1ablo84 (big blind) folded before Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 folded on the Turn
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142043630:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:47:30 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: WILLEMFELIPE ($2 in chips) 
+Seat 3: d1ablo84 ($2.08 in chips) 
+Seat 4: sextinian ($6.22 in chips) 
+Seat 5: omarja230 ($2.07 in chips) 
+Seat 6: Ramirres ($4.53 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 4h]
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: checks 
+*** FLOP *** [Td 3s 6s]
+sextinian: checks 
+omarja230: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [Td 3s 6s] [Ts]
+sextinian: checks 
+omarja230: checks 
+WILLEMFELIPE: checks 
+*** RIVER *** [Td 3s 6s Ts] [Jd]
+sextinian: checks 
+omarja230: bets $2.05 and is all-in
+WILLEMFELIPE: calls $1.98 and is all-in
+sextinian: folds 
+Uncalled bet ($0.07) returned to omarja230
+*** SHOW DOWN ***
+omarja230: shows [Jc Js] (a full house, Jacks full of Tens)
+WILLEMFELIPE: shows [Th Tc] (four of a kind, Tens)
+WILLEMFELIPE collected $3.89 from pot
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.14 
+Board [Td 3s 6s Ts Jd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (button) showed [Th Tc] and won ($3.89) with four of a kind, Tens
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded on the River
+Seat 5: omarja230 showed [Jc Js] and lost with a full house, Jacks full of Tens
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142071485:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:48:35 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: WILLEMFELIPE ($3.89 in chips) 
+Seat 3: d1ablo84 ($2.07 in chips) 
+Seat 4: sextinian ($6.20 in chips) 
+Seat 5: omarja230 ($0.07 in chips) 
+Seat 6: Ramirres ($4.53 in chips) 
+sextinian: posts small blind $0.01
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ts]
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: checks 
+*** FLOP *** [4h Jh 7d]
+omarja230: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [4h Jh 7d] [6s]
+omarja230: checks 
+WILLEMFELIPE: checks 
+*** RIVER *** [4h Jh 7d 6s] [7h]
+omarja230: bets $0.05 and is all-in
+WILLEMFELIPE: folds 
+Uncalled bet ($0.05) returned to omarja230
+omarja230 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h Jh 7d 6s 7h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded on the River
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: omarja230 (big blind) collected ($0.05)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142085073:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:49:07 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: WILLEMFELIPE ($3.87 in chips) 
+Seat 3: d1ablo84 ($2.07 in chips) 
+Seat 4: sextinian ($6.19 in chips) 
+Seat 5: omarja230 ($0.10 in chips) 
+Seat 6: Ramirres ($4.53 in chips) 
+omarja230: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 2h]
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.01
+Ramirres: checks 
+*** FLOP *** [6c 3s Jc]
+omarja230: checks 
+Ramirres: checks 
+WILLEMFELIPE: bets $0.03
+omarja230: folds 
+Ramirres: folds 
+Uncalled bet ($0.03) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6c 3s Jc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE collected ($0.06)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 5: omarja230 (small blind) folded on the Flop
+Seat 6: Ramirres (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241142099593:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:49:41 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: WILLEMFELIPE ($3.91 in chips) 
+Seat 3: d1ablo84 ($2.07 in chips) 
+Seat 4: sextinian ($6.19 in chips) 
+Seat 5: omarja230 ($0.08 in chips) 
+Seat 6: Ramirres ($4.51 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9s]
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: checks 
+*** FLOP *** [6c 7d As]
+Lorpugo: checks 
+WILLEMFELIPE: checks 
+omarja230: bets $0.06 and is all-in
+Lorpugo: calls $0.06
+WILLEMFELIPE: folds 
+*** TURN *** [6c 7d As] [8h]
+*** RIVER *** [6c 7d As 8h] [8c]
+*** SHOW DOWN ***
+Lorpugo: shows [Ac 9s] (two pair, Aces and Eights)
+omarja230: shows [7c 9d] (two pair, Eights and Sevens)
+Lorpugo collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6c 7d As 8h 8c]
+Seat 1: Lorpugo (big blind) showed [Ac 9s] and won ($0.18) with two pair, Aces and Eights
+Seat 2: WILLEMFELIPE folded on the Flop
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 (button) showed [7c 9d] and lost with two pair, Eights and Sevens
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241142123707:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:50:37 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.87 in chips) 
+Seat 2: WILLEMFELIPE ($3.89 in chips) 
+Seat 3: d1ablo84 ($2.07 in chips) 
+Seat 4: sextinian ($6.19 in chips) 
+Seat 6: Ramirres ($4.50 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 7d]
+d1ablo84: raises $0.04 to $0.06
+sextinian: raises $0.15 to $0.21
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+Uncalled bet ($0.15) returned to sextinian
+sextinian collected $0.15 from pot
+sextinian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: WILLEMFELIPE (big blind) folded before Flop
+Seat 3: d1ablo84 folded before Flop
+Seat 4: sextinian collected ($0.15)
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142134602:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:51:02 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.86 in chips) 
+Seat 2: WILLEMFELIPE ($3.87 in chips) 
+Seat 3: d1ablo84 ($2.01 in chips) 
+Seat 4: sextinian ($6.28 in chips) 
+Seat 5: omarja230 ($1.04 in chips) 
+Seat 6: Ramirres ($4.50 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Kc]
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: checks 
+*** FLOP *** [6s Kh Jh]
+d1ablo84: checks 
+omarja230: bets $0.05
+d1ablo84: folds 
+Uncalled bet ($0.05) returned to omarja230
+omarja230 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s Kh Jh]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (small blind) folded before Flop
+Seat 3: d1ablo84 (big blind) folded on the Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 collected ($0.05)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142149601:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:51:37 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.86 in chips) 
+Seat 2: WILLEMFELIPE ($3.86 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.28 in chips) 
+Seat 5: omarja230 ($1.07 in chips) 
+Seat 6: Ramirres ($4.50 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7s]
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: calls $0.01
+sextinian: raises $0.08 to $0.10
+omarja230: folds 
+d1ablo84: folds 
+Uncalled bet ($0.08) returned to sextinian
+sextinian collected $0.06 from pot
+sextinian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (button) folded before Flop (didn't bet)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) collected ($0.06)
+Seat 5: omarja230 folded before Flop
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142161815:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:52:06 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.86 in chips) 
+Seat 2: WILLEMFELIPE ($3.86 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.32 in chips) 
+Seat 5: omarja230 ($1.05 in chips) 
+Seat 6: Ramirres ($4.50 in chips) 
+sextinian: posts small blind $0.01
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qs]
+Ramirres: folds 
+Lorpugo: raises $0.03 to $0.05
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.03
+*** FLOP *** [4h 3d 2c]
+omarja230: checks 
+Lorpugo: checks 
+*** TURN *** [4h 3d 2c] [5d]
+omarja230: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to omarja230
+omarja230 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h 3d 2c 5d]
+Seat 1: Lorpugo folded on the Turn
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: omarja230 (big blind) collected ($0.11)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142176274:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:52:40 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.81 in chips) 
+Seat 2: WILLEMFELIPE ($3.86 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: omarja230 ($1.11 in chips) 
+Seat 6: Ramirres ($4.50 in chips) 
+omarja230: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 6s]
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.01
+Ramirres: checks 
+*** FLOP *** [3c 5d 5h]
+omarja230: checks 
+Ramirres: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [3c 5d 5h] [7d]
+omarja230: bets $0.06
+Ramirres: folds 
+WILLEMFELIPE: folds 
+Uncalled bet ($0.06) returned to omarja230
+omarja230 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3c 5d 5h 7d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded on the Turn
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 5: omarja230 (small blind) collected ($0.06)
+Seat 6: Ramirres (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241142191002:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:53:14 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.81 in chips) 
+Seat 2: WILLEMFELIPE ($3.84 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: omarja230 ($1.15 in chips) 
+Seat 6: Ramirres ($4.48 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Kc]
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: raises $0.02 to $0.04
+Ramirres: folds 
+Lorpugo: raises $0.11 to $0.15
+WILLEMFELIPE: folds 
+omarja230: calls $0.11
+*** FLOP *** [5c 2s 2h]
+Lorpugo: bets $1.66 and is all-in
+omarja230: calls $1 and is all-in
+Uncalled bet ($0.66) returned to Lorpugo
+*** TURN *** [5c 2s 2h] [Qc]
+*** RIVER *** [5c 2s 2h Qc] [9h]
+*** SHOW DOWN ***
+Lorpugo: shows [Ac Kc] (a pair of Deuces)
+omarja230: shows [Th Tc] (two pair, Tens and Deuces)
+omarja230 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.08 
+Board [5c 2s 2h Qc 9h]
+Seat 1: Lorpugo (big blind) showed [Ac Kc] and lost with a pair of Deuces
+Seat 2: WILLEMFELIPE folded before Flop
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 (button) showed [Th Tc] and won ($2.25) with two pair, Tens and Deuces
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241142206576:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:53:50 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($0.66 in chips) 
+Seat 2: WILLEMFELIPE ($3.82 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: omarja230 ($2.25 in chips) 
+Seat 6: Ramirres ($4.47 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9c]
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: raises $0.04 to $0.06
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.04
+omarja230: calls $0.04
+*** FLOP *** [7h Js 2d]
+WILLEMFELIPE: checks 
+omarja230: checks 
+Ramirres: checks 
+*** TURN *** [7h Js 2d] [Kc]
+WILLEMFELIPE: checks 
+omarja230: checks 
+Ramirres: checks 
+*** RIVER *** [7h Js 2d Kc] [3s]
+WILLEMFELIPE: checks 
+omarja230: checks 
+Ramirres: checks 
+*** SHOW DOWN ***
+WILLEMFELIPE: shows [Ad 6s] (high card Ace)
+omarja230: mucks hand 
+Ramirres: mucks hand 
+WILLEMFELIPE collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7h Js 2d Kc 3s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: WILLEMFELIPE (big blind) showed [Ad 6s] and won ($0.18) with high card Ace
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 mucked [Ts 4s]
+Seat 6: Ramirres (button) mucked [Qd 9s]
+
+
+
+PokerStars Hand #241142225171:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:54:34 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.45 in chips) 
+Seat 2: WILLEMFELIPE ($3.94 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: omarja230 ($2.19 in chips) 
+Seat 6: Ramirres ($4.41 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 6s]
+sextinian: folds 
+omarja230: folds 
+Ramirres: folds 
+Lorpugo: raises $0.03 to $0.05
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) collected ($0.05)
+Seat 2: WILLEMFELIPE (small blind) folded before Flop
+Seat 3: d1ablo84 (big blind) folded before Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 folded before Flop (didn't bet)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142230887:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:54:47 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: WILLEMFELIPE ($3.93 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: omarja230 ($2.19 in chips) 
+Seat 6: Ramirres ($4.41 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9s]
+omarja230: calls $0.02
+Ramirres: raises $0.06 to $0.08
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.06
+*** FLOP *** [Jc Qc 8s]
+omarja230: checks 
+Ramirres: bets $0.12
+omarja230: folds 
+Uncalled bet ($0.12) returned to Ramirres
+Ramirres collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Jc Qc 8s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (button) folded before Flop (didn't bet)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded before Flop
+Seat 5: omarja230 folded on the Flop
+Seat 6: Ramirres collected ($0.18)
+
+
+
+PokerStars Hand #241142242237:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:55:14 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: WILLEMFELIPE ($3.93 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.29 in chips) 
+Seat 5: omarja230 ($2.11 in chips) 
+Seat 6: Ramirres ($4.51 in chips) 
+sextinian: posts small blind $0.01
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ts]
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: calls $0.01
+omarja230: checks 
+*** FLOP *** [8c 9d 9s]
+sextinian: checks 
+omarja230: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [8c 9d 9s] [3c]
+sextinian: bets $0.06
+omarja230: folds 
+WILLEMFELIPE: folds 
+Uncalled bet ($0.06) returned to sextinian
+sextinian collected $0.06 from pot
+sextinian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8c 9d 9s 3c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded on the Turn
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) collected ($0.06)
+Seat 5: omarja230 (big blind) folded on the Turn
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142250209:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:55:42 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: WILLEMFELIPE ($3.91 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.33 in chips) 
+Seat 5: omarja230 ($2.09 in chips) 
+Seat 6: Ramirres ($4.51 in chips) 
+omarja230: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Jh]
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.01
+Ramirres: checks 
+*** FLOP *** [Jc Jd Th]
+omarja230: checks 
+Ramirres: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [Jc Jd Th] [4s]
+omarja230: checks 
+Ramirres: checks 
+WILLEMFELIPE: bets $0.05
+omarja230: calls $0.05
+Ramirres: folds 
+*** RIVER *** [Jc Jd Th 4s] [8c]
+omarja230: checks 
+WILLEMFELIPE: bets $0.21
+omarja230: folds 
+Uncalled bet ($0.21) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jc Jd Th 4s 8c]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE collected ($0.15)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 5: omarja230 (small blind) folded on the River
+Seat 6: Ramirres (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241142270412:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:56:52 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.48 in chips) 
+Seat 2: WILLEMFELIPE ($3.99 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.33 in chips) 
+Seat 5: omarja230 ($2.02 in chips) 
+Seat 6: Ramirres ($4.49 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7c]
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: checks 
+*** FLOP *** [8d 5c 9h]
+Lorpugo: checks 
+WILLEMFELIPE: checks 
+omarja230: checks 
+*** TURN *** [8d 5c 9h] [3c]
+Lorpugo: bets $0.05
+WILLEMFELIPE: calls $0.05
+omarja230: folds 
+*** RIVER *** [8d 5c 9h 3c] [Jd]
+Lorpugo: checks 
+WILLEMFELIPE: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [4c 7c] (high card Jack)
+WILLEMFELIPE: shows [Td Jc] (a pair of Jacks)
+WILLEMFELIPE collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8d 5c 9h 3c Jd]
+Seat 1: Lorpugo (big blind) showed [4c 7c] and lost with high card Jack
+Seat 2: WILLEMFELIPE showed [Td Jc] and won ($0.16) with a pair of Jacks
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 (button) folded on the Turn
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241142280042:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:57:25 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.41 in chips) 
+Seat 2: WILLEMFELIPE ($4.08 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.33 in chips) 
+Seat 5: omarja230 ($2 in chips) 
+Seat 6: Ramirres ($4.48 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 4d]
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: checks 
+*** FLOP *** [5c As 5s]
+WILLEMFELIPE: checks 
+omarja230: bets $0.03
+WILLEMFELIPE: calls $0.03
+*** TURN *** [5c As 5s] [7d]
+WILLEMFELIPE: checks 
+omarja230: checks 
+*** RIVER *** [5c As 5s 7d] [7c]
+WILLEMFELIPE: checks 
+omarja230: bets $0.11
+WILLEMFELIPE: calls $0.11
+*** SHOW DOWN ***
+omarja230: shows [Ac 8c] (two pair, Aces and Sevens)
+WILLEMFELIPE: mucks hand 
+omarja230 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5c As 5s 7d 7c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: WILLEMFELIPE (big blind) mucked [9c 9d]
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 showed [Ac 8c] and won ($0.32) with two pair, Aces and Sevens
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142291647:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:58:04 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.40 in chips) 
+Seat 2: WILLEMFELIPE ($3.92 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.33 in chips) 
+Seat 5: omarja230 ($2.16 in chips) 
+Seat 6: Ramirres ($4.48 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 4s]
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: calls $0.02
+WILLEMFELIPE: calls $0.01
+d1ablo84: checks 
+*** FLOP *** [Qs 4c Jd]
+WILLEMFELIPE: checks 
+d1ablo84: checks 
+omarja230: bets $0.08
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.08
+d1ablo84: folds 
+*** TURN *** [Qs 4c Jd] [6h]
+WILLEMFELIPE: checks 
+omarja230: checks 
+*** RIVER *** [Qs 4c Jd 6h] [8h]
+WILLEMFELIPE: checks 
+omarja230: bets $0.23
+WILLEMFELIPE: folds 
+Uncalled bet ($0.23) returned to omarja230
+omarja230 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Qs 4c Jd 6h 8h]
+Seat 1: Lorpugo (button) folded on the Flop
+Seat 2: WILLEMFELIPE (small blind) folded on the River
+Seat 3: d1ablo84 (big blind) folded on the Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 collected ($0.23)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142304077:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:58:47 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.38 in chips) 
+Seat 2: WILLEMFELIPE ($3.82 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.33 in chips) 
+Seat 5: omarja230 ($2.29 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2h]
+omarja230: calls $0.02
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: checks 
+*** FLOP *** [9s 7h Kc]
+sextinian: checks 
+omarja230: bets $0.07
+WILLEMFELIPE: folds 
+sextinian: folds 
+Uncalled bet ($0.07) returned to omarja230
+omarja230 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9s 7h Kc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (button) folded on the Flop
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded on the Flop
+Seat 5: omarja230 collected ($0.07)
+
+
+
+PokerStars Hand #241142312743:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:59:16 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.38 in chips) 
+Seat 2: WILLEMFELIPE ($3.80 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.31 in chips) 
+Seat 5: omarja230 ($2.34 in chips) 
+sextinian: posts small blind $0.01
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 6h]
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+Uncalled bet ($0.01) returned to omarja230
+omarja230 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: omarja230 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #241142315334:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:59:25 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.38 in chips) 
+Seat 2: WILLEMFELIPE ($3.80 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($6.30 in chips) 
+Seat 5: omarja230 ($2.35 in chips) 
+omarja230: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Kd]
+WILLEMFELIPE: folds 
+d1ablo84: raises $0.04 to $0.06
+sextinian: folds 
+omarja230: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [5s Jc 8h]
+omarja230: checks 
+d1ablo84: bets $0.04
+omarja230: folds 
+Uncalled bet ($0.04) returned to d1ablo84
+d1ablo84 collected $0.14 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s Jc 8h]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 collected ($0.14)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 5: omarja230 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241142322326:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 14:59:49 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.36 in chips) 
+Seat 2: WILLEMFELIPE ($3.80 in chips) 
+Seat 3: d1ablo84 ($2.08 in chips) 
+Seat 4: sextinian ($6.30 in chips) 
+Seat 5: omarja230 ($2.29 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Jc]
+d1ablo84: folds 
+sextinian: folds 
+omarja230: raises $0.08 to $0.10
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.08
+*** FLOP *** [7s Ad 7d]
+WILLEMFELIPE: checks 
+omarja230: checks 
+*** TURN *** [7s Ad 7d] [9c]
+WILLEMFELIPE: bets $0.10
+omarja230: calls $0.10
+*** RIVER *** [7s Ad 7d 9c] [5s]
+WILLEMFELIPE: bets $0.40
+omarja230: folds 
+Uncalled bet ($0.40) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [7s Ad 7d 9c 5s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: WILLEMFELIPE (big blind) collected ($0.40)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 (button) folded on the River
+
+
+
+PokerStars Hand #241142331807:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:00:19 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($4 in chips) 
+Seat 3: d1ablo84 ($2.08 in chips) 
+Seat 4: sextinian ($6.30 in chips) 
+Seat 5: omarja230 ($2.09 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Tc]
+sextinian: raises $0.05 to $0.07
+omarja230: calls $0.07
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: calls $0.05
+*** FLOP *** [Th 4c 7c]
+d1ablo84: checks 
+sextinian: bets $0.16
+omarja230: calls $0.16
+d1ablo84: calls $0.16
+*** TURN *** [Th 4c 7c] [8h]
+d1ablo84: checks 
+sextinian: bets $0.34
+omarja230: calls $0.34
+d1ablo84: calls $0.34
+*** RIVER *** [Th 4c 7c 8h] [5d]
+d1ablo84: checks 
+sextinian: checks 
+omarja230: bets $1.52 and is all-in
+d1ablo84: folds 
+sextinian: folds 
+Uncalled bet ($1.52) returned to omarja230
+omarja230 collected $1.66 from pot
+*** SUMMARY ***
+Total pot $1.72 | Rake $0.06 
+Board [Th 4c 7c 8h 5d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (small blind) folded before Flop
+Seat 3: d1ablo84 (big blind) folded on the River
+Seat 4: sextinian folded on the River
+Seat 5: omarja230 collected ($1.66)
+
+
+
+PokerStars Hand #241142370342:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:02:10 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($3.99 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($5.73 in chips) 
+Seat 5: omarja230 ($3.18 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 5d]
+omarja230: calls $0.02
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: checks 
+*** FLOP *** [3s 7s 2c]
+sextinian: checks 
+omarja230: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [3s 7s 2c] [5c]
+sextinian: checks 
+omarja230: checks 
+WILLEMFELIPE: checks 
+*** RIVER *** [3s 7s 2c 5c] [Qd]
+sextinian: checks 
+omarja230: checks 
+WILLEMFELIPE: bets $0.09
+sextinian: folds 
+omarja230: folds 
+Uncalled bet ($0.09) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3s 7s 2c 5c Qd]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (button) collected ($0.07)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded on the River
+Seat 5: omarja230 folded on the River
+
+
+
+PokerStars Hand #241142394625:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:03:10 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($4.04 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($5.71 in chips) 
+Seat 5: omarja230 ($3.16 in chips) 
+sextinian: posts small blind $0.01
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Jh]
+Lorpugo: raises $0.02 to $0.04
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+omarja230: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo collected ($0.05)
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: omarja230 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241142399450:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:03:21 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.38 in chips) 
+Seat 2: WILLEMFELIPE ($4.04 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($5.70 in chips) 
+Seat 5: omarja230 ($3.14 in chips) 
+omarja230: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9h]
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+omarja230: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Lorpugo (big blind) collected ($0.02)
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 5: omarja230 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241142402096:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:03:28 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.39 in chips) 
+Seat 2: WILLEMFELIPE ($4.04 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($5.70 in chips) 
+Seat 5: omarja230 ($3.13 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+d1ablo84: raises $0.04 to $0.06
+sextinian: calls $0.06
+omarja230: folds 
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.04
+*** FLOP *** [Tc Kc Jd]
+WILLEMFELIPE: checks 
+d1ablo84: checks 
+sextinian: checks 
+*** TURN *** [Tc Kc Jd] [Qs]
+WILLEMFELIPE: bets $0.09
+d1ablo84: calls $0.09
+sextinian: folds 
+*** RIVER *** [Tc Kc Jd Qs] [6c]
+WILLEMFELIPE: bets $0.12
+d1ablo84: calls $0.12
+*** SHOW DOWN ***
+WILLEMFELIPE: shows [6s As] (a straight, Ten to Ace)
+d1ablo84: shows [Ah 6h] (a straight, Ten to Ace)
+WILLEMFELIPE collected $0.30 from pot
+d1ablo84 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Tc Kc Jd Qs 6c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: WILLEMFELIPE (big blind) showed [6s As] and won ($0.30) with a straight, Ten to Ace
+Seat 3: d1ablo84 showed [Ah 6h] and won ($0.29) with a straight, Ten to Ace
+Seat 4: sextinian folded on the Turn
+Seat 5: omarja230 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142431438:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:04:34 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.38 in chips) 
+Seat 2: WILLEMFELIPE ($4.07 in chips) 
+Seat 3: d1ablo84 ($2.02 in chips) 
+Seat 4: sextinian ($5.64 in chips) 
+Seat 5: omarja230 ($3.13 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 6s]
+sextinian: folds 
+omarja230: folds 
+Lorpugo: raises $0.03 to $0.05
+WILLEMFELIPE: calls $0.04
+d1ablo84: calls $0.03
+*** FLOP *** [8d 8c 4s]
+WILLEMFELIPE: checks 
+d1ablo84: checks 
+Lorpugo: bets $0.04
+WILLEMFELIPE: calls $0.04
+d1ablo84: folds 
+*** TURN *** [8d 8c 4s] [Kc]
+WILLEMFELIPE: checks 
+Lorpugo: checks 
+*** RIVER *** [8d 8c 4s Kc] [2c]
+WILLEMFELIPE: bets $1.30
+Lorpugo: folds 
+Uncalled bet ($1.30) returned to WILLEMFELIPE
+WILLEMFELIPE collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [8d 8c 4s Kc 2c]
+Seat 1: Lorpugo (button) folded on the River
+Seat 2: WILLEMFELIPE (small blind) collected ($0.22)
+Seat 3: d1ablo84 (big blind) folded on the Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142463225:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:05:44 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.29 in chips) 
+Seat 2: WILLEMFELIPE ($4.20 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($5.64 in chips) 
+Seat 5: omarja230 ($3.13 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Qc]
+omarja230: calls $0.02
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: checks 
+*** FLOP *** [8c Jh Kh]
+sextinian: checks 
+omarja230: bets $0.03
+sextinian: calls $0.03
+*** TURN *** [8c Jh Kh] [Ah]
+sextinian: checks 
+omarja230: bets $0.11
+sextinian: calls $0.11
+*** RIVER *** [8c Jh Kh Ah] [2s]
+sextinian: checks 
+omarja230: bets $2.97 and is all-in
+sextinian: folds 
+Uncalled bet ($2.97) returned to omarja230
+omarja230 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8c Jh Kh Ah 2s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (button) folded before Flop (didn't bet)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded on the River
+Seat 5: omarja230 collected ($0.32)
+
+
+
+PokerStars Hand #241142487688:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:06:38 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.29 in chips) 
+Seat 2: WILLEMFELIPE ($4.20 in chips) 
+Seat 3: d1ablo84 ($2 in chips) 
+Seat 4: sextinian ($5.48 in chips) 
+Seat 5: omarja230 ($3.29 in chips) 
+sextinian: posts small blind $0.01
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 4h]
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: raises $0.03 to $0.05
+sextinian: folds 
+omarja230: calls $0.03
+*** FLOP *** [5d 5h 7h]
+omarja230: checks 
+d1ablo84: bets $0.03
+omarja230: calls $0.03
+*** TURN *** [5d 5h 7h] [Qc]
+omarja230: checks 
+d1ablo84: bets $0.11
+omarja230: folds 
+Uncalled bet ($0.11) returned to d1ablo84
+d1ablo84 collected $0.16 from pot
+d1ablo84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5d 5h 7h Qc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 (button) collected ($0.16)
+Seat 4: sextinian (small blind) folded before Flop
+Seat 5: omarja230 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241142503231:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:07:11 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.29 in chips) 
+Seat 2: WILLEMFELIPE ($4.20 in chips) 
+Seat 3: d1ablo84 ($2.08 in chips) 
+Seat 4: sextinian ($5.47 in chips) 
+Seat 5: omarja230 ($3.21 in chips) 
+Seat 6: Ramirres ($4.48 in chips) 
+omarja230: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Kc]
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.01
+Ramirres: checks 
+*** FLOP *** [Qd Ks 5h]
+omarja230: checks 
+Ramirres: checks 
+WILLEMFELIPE: checks 
+*** TURN *** [Qd Ks 5h] [2d]
+omarja230: checks 
+Ramirres: checks 
+WILLEMFELIPE: checks 
+*** RIVER *** [Qd Ks 5h 2d] [Ad]
+omarja230: bets $0.06
+Ramirres: folds 
+WILLEMFELIPE: folds 
+Uncalled bet ($0.06) returned to omarja230
+omarja230 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qd Ks 5h 2d Ad]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded on the River
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 5: omarja230 (small blind) collected ($0.06)
+Seat 6: Ramirres (big blind) folded on the River
+
+
+
+PokerStars Hand #241142525602:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:08:00 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.29 in chips) 
+Seat 2: WILLEMFELIPE ($4.18 in chips) 
+Seat 3: d1ablo84 ($2.08 in chips) 
+Seat 4: sextinian ($5.47 in chips) 
+Seat 5: omarja230 ($3.25 in chips) 
+Seat 6: Ramirres ($4.46 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3d]
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: folds 
+omarja230: folds 
+Ramirres: folds 
+Lorpugo: checks 
+*** FLOP *** [Kd Kh Js]
+Lorpugo: bets $0.02
+WILLEMFELIPE: calls $0.02
+*** TURN *** [Kd Kh Js] [Tc]
+Lorpugo: checks 
+WILLEMFELIPE: checks 
+*** RIVER *** [Kd Kh Js Tc] [Ac]
+Lorpugo: bets $0.02
+WILLEMFELIPE: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [Ah 3d] (two pair, Aces and Kings)
+WILLEMFELIPE: mucks hand 
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kd Kh Js Tc Ac]
+Seat 1: Lorpugo (big blind) showed [Ah 3d] and won ($0.13) with two pair, Aces and Kings
+Seat 2: WILLEMFELIPE mucked [7d Jd]
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 (button) folded before Flop (didn't bet)
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241142552248:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:08:57 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.36 in chips) 
+Seat 2: WILLEMFELIPE ($4.12 in chips) 
+Seat 3: d1ablo84 ($2.08 in chips) 
+Seat 4: sextinian ($5.47 in chips) 
+Seat 5: omarja230 ($3.25 in chips) 
+Seat 6: Ramirres ($4.45 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4s]
+d1ablo84: folds 
+sextinian: raises $0.05 to $0.07
+omarja230: calls $0.07
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+*** FLOP *** [6s Js 4d]
+sextinian: checks 
+omarja230: checks 
+*** TURN *** [6s Js 4d] [5s]
+sextinian: bets $0.16
+omarja230: calls $0.16
+*** RIVER *** [6s Js 4d 5s] [6c]
+sextinian: checks 
+omarja230: bets $0.47
+sextinian: folds 
+Uncalled bet ($0.47) returned to omarja230
+omarja230 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [6s Js 4d 5s 6c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: WILLEMFELIPE (big blind) folded before Flop
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded on the River
+Seat 5: omarja230 collected ($0.47)
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142582371:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:10:03 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($4.10 in chips) 
+Seat 3: d1ablo84 ($2.08 in chips) 
+Seat 4: sextinian ($5.24 in chips) 
+Seat 5: omarja230 ($3.49 in chips) 
+Seat 6: Ramirres ($4.45 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 3c]
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.01
+d1ablo84: checks 
+*** FLOP *** [Kh 4s As]
+WILLEMFELIPE: checks 
+d1ablo84: checks 
+omarja230: bets $0.06
+WILLEMFELIPE: calls $0.06
+d1ablo84: folds 
+*** TURN *** [Kh 4s As] [4d]
+WILLEMFELIPE: checks 
+omarja230: bets $0.17
+WILLEMFELIPE: folds 
+Uncalled bet ($0.17) returned to omarja230
+omarja230 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kh 4s As 4d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (small blind) folded on the Turn
+Seat 3: d1ablo84 (big blind) folded on the Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 collected ($0.17)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142609327:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:11:03 ET
+Table 'Dvorak' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($4.02 in chips) 
+Seat 3: d1ablo84 ($2.06 in chips) 
+Seat 4: sextinian ($5.24 in chips) 
+Seat 5: omarja230 ($3.58 in chips) 
+Seat 6: Ramirres ($4.45 in chips) 
+d1ablo84: posts small blind $0.01
+sextinian: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Js]
+omarja230: calls $0.02
+Ramirres: raises $0.06 to $0.08
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+omarja230: folds 
+Uncalled bet ($0.06) returned to Ramirres
+Ramirres collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (button) folded before Flop (didn't bet)
+Seat 3: d1ablo84 (small blind) folded before Flop
+Seat 4: sextinian (big blind) folded before Flop
+Seat 5: omarja230 folded before Flop
+Seat 6: Ramirres collected ($0.07)
+
+
+
+PokerStars Hand #241142618953:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:11:24 ET
+Table 'Dvorak' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($4.02 in chips) 
+Seat 3: d1ablo84 ($2.05 in chips) 
+Seat 4: sextinian ($5.22 in chips) 
+Seat 5: omarja230 ($3.56 in chips) 
+Seat 6: Ramirres ($4.50 in chips) 
+sextinian: posts small blind $0.01
+omarja230: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8s]
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: calls $0.02
+d1ablo84: folds 
+sextinian: calls $0.01
+omarja230: raises $0.02 to $0.04
+WILLEMFELIPE: calls $0.02
+sextinian: calls $0.02
+*** FLOP *** [Kd 3s 4s]
+sextinian: checks 
+omarja230: bets $0.06
+WILLEMFELIPE: folds 
+sextinian: calls $0.06
+*** TURN *** [Kd 3s 4s] [3c]
+sextinian: checks 
+omarja230: checks 
+*** RIVER *** [Kd 3s 4s 3c] [2s]
+sextinian: checks 
+omarja230: checks 
+*** SHOW DOWN ***
+sextinian: shows [Th Ks] (two pair, Kings and Threes)
+omarja230: mucks hand 
+sextinian collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Kd 3s 4s 3c 2s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded on the Flop
+Seat 3: d1ablo84 (button) folded before Flop (didn't bet)
+Seat 4: sextinian (small blind) showed [Th Ks] and won ($0.23) with two pair, Kings and Threes
+Seat 5: omarja230 (big blind) mucked [7d Jd]
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142642596:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:12:16 ET
+Table 'Dvorak' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($3.98 in chips) 
+Seat 3: d1ablo84 ($2.05 in chips) 
+Seat 4: sextinian ($5.35 in chips) 
+Seat 5: omarja230 ($3.46 in chips) 
+Seat 6: Ramirres ($4.50 in chips) 
+omarja230: posts small blind $0.01
+Ramirres: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3h]
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.01
+Ramirres: checks 
+*** FLOP *** [2h Ac 4h]
+omarja230: checks 
+Ramirres: checks 
+*** TURN *** [2h Ac 4h] [6h]
+omarja230: checks 
+Ramirres: checks 
+*** RIVER *** [2h Ac 4h 6h] [Ad]
+omarja230: checks 
+Ramirres: checks 
+*** SHOW DOWN ***
+omarja230: shows [9c Js] (a pair of Aces)
+Ramirres: mucks hand 
+omarja230 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2h Ac 4h 6h Ad]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian (button) folded before Flop (didn't bet)
+Seat 5: omarja230 (small blind) showed [9c Js] and won ($0.04) with a pair of Aces
+Seat 6: Ramirres (big blind) mucked [8c 3c]
+
+
+
+PokerStars Hand #241142659872:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:12:53 ET
+Table 'Dvorak' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.35 in chips) 
+Seat 2: WILLEMFELIPE ($3.98 in chips) 
+Seat 3: d1ablo84 ($2.05 in chips) 
+Seat 4: sextinian ($5.35 in chips) 
+Seat 5: omarja230 ($3.48 in chips) 
+Seat 6: Ramirres ($4.48 in chips) 
+Ramirres: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qd]
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+sextinian: folds 
+omarja230: calls $0.02
+Ramirres: folds 
+Lorpugo: checks 
+*** FLOP *** [Qs 3h Th]
+Lorpugo: checks 
+omarja230: bets $0.03
+Lorpugo: calls $0.03
+*** TURN *** [Qs 3h Th] [Jd]
+Lorpugo: checks 
+omarja230: bets $0.20
+Lorpugo: folds 
+Uncalled bet ($0.20) returned to omarja230
+omarja230 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qs 3h Th Jd]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 2: WILLEMFELIPE folded before Flop (didn't bet)
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 (button) collected ($0.11)
+Seat 6: Ramirres (small blind) folded before Flop
+
+
+
+PokerStars Hand #241142687018:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:13:53 ET
+Table 'Dvorak' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.30 in chips) 
+Seat 2: WILLEMFELIPE ($3.98 in chips) 
+Seat 3: d1ablo84 ($2.05 in chips) 
+Seat 4: sextinian ($5.35 in chips) 
+Seat 5: omarja230 ($3.54 in chips) 
+Seat 6: Ramirres ($4.47 in chips) 
+Lorpugo: posts small blind $0.01
+WILLEMFELIPE: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7c]
+d1ablo84: folds 
+sextinian: folds 
+omarja230: raises $0.18 to $0.20
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+Uncalled bet ($0.18) returned to omarja230
+omarja230 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: WILLEMFELIPE (big blind) folded before Flop
+Seat 3: d1ablo84 folded before Flop (didn't bet)
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 collected ($0.05)
+Seat 6: Ramirres (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241142697465:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/14 15:14:16 ET
+Table 'Dvorak' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.29 in chips) 
+Seat 2: WILLEMFELIPE ($3.96 in chips) 
+Seat 3: d1ablo84 ($2.05 in chips) 
+Seat 4: sextinian ($5.35 in chips) 
+Seat 5: omarja230 ($3.57 in chips) 
+Seat 6: Ramirres ($4.47 in chips) 
+WILLEMFELIPE: posts small blind $0.01
+d1ablo84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4h]
+sextinian: folds 
+omarja230: raises $0.20 to $0.22
+Ramirres: folds 
+Lorpugo: folds 
+WILLEMFELIPE: folds 
+d1ablo84: folds 
+Uncalled bet ($0.20) returned to omarja230
+omarja230 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: WILLEMFELIPE (small blind) folded before Flop
+Seat 3: d1ablo84 (big blind) folded before Flop
+Seat 4: sextinian folded before Flop (didn't bet)
+Seat 5: omarja230 collected ($0.05)
+Seat 6: Ramirres folded before Flop (didn't bet)
+
+
+
