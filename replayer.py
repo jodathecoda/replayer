@@ -364,7 +364,6 @@ def display():
     label_player7.config(text=player7.name)
     ps7 = round(player7.stack,2)
     if player7.name == "SitOut":
-    #if False:
         label_player7.place(x=9999, y=9999)
         label_player7_stack.place(x=9999, y=9999)
         button_bet7.place(x=9999, y=9999)
@@ -388,7 +387,6 @@ def display():
     label_player8.config(text=player8.name)
     ps8 = round(player8.stack,2)
     if player8.name == "SitOut":
-    #if False:
         label_player8.place(x=9999, y=9999)
         label_player8_stack.place(x=9999, y=9999)
         button_bet8.place(x=9999, y=9999)
@@ -633,6 +631,10 @@ def clear_seats():
     player8.card1 = img_back
     player8.card2 = img_back
 
+def find_second_int(string):
+    int_list = [int(x) for x in re.findall(r'\b\d+\b', string)]
+    return int_list[1] if len(int_list) > 1 else None
+
 def extract_info(line):
     global player1
     global player2
@@ -707,10 +709,11 @@ def extract_info(line):
     if line.startswith("Seat") and "folded" not in line and "collected" not in line:
         # Use a regular expression to find the first integer and name
         match = re.search(r'(\d+):\s([A-Za-z]+(?:\s[A-Za-z]+)*)', line)
-        if match:
+        if True:
             # If a match is found, find all floats in the line
             floats = re.findall(r'[-+]?\d*\.\d+|\d+', line)
             if floats:
+                print(" 1 here here here")
                 # If any floats are found, return the first integer, name, and last float
                 if int(match.group(1)) == 1:
                     player1.name = match.group(2)  
@@ -721,6 +724,51 @@ def extract_info(line):
                     player2.name = match.group(2)  
                     player2.seat = int(match.group(1))
                     ps2 = float(floats[-1])
+                    player2.stack = round(ps2,2)
+                elif int(match.group(1)) == 3:
+                    player3.name = match.group(2)  
+                    player3.seat = int(match.group(1))
+                    ps3 = float(floats[-1])
+                    player3.stack = round(ps3,2)
+                elif int(match.group(1)) == 4:
+                    player4.name = match.group(2)  
+                    player4.seat = int(match.group(1))
+                    ps4 = float(floats[-1])
+                    player4.stack = round(ps4,2)
+                elif int(match.group(1)) == 5:
+                    player5.name = match.group(2)  
+                    player5.seat = int(match.group(1))
+                    ps5 = float(floats[-1])
+                    player5.stack = round(ps5,2)
+                elif int(match.group(1)) == 6:
+                    player6.name = match.group(2)  
+                    player6.seat = int(match.group(1))
+                    ps6 = float(floats[-1])
+                    player6.stack = round(ps6,2)
+                elif int(match.group(1)) == 7:
+                    player7.name = match.group(2)  
+                    player7.seat = int(match.group(1))
+                    ps7 = float(floats[-1])
+                    player7.stack = round(ps7,2)
+                elif int(match.group(1)) == 8:
+                    player8.name = match.group(2)  
+                    player8.seat = int(match.group(1))
+                    ps8 = float(floats[-1])
+                    player8.stack = round(ps8,2)
+                else:
+                    pass
+            else:
+                print("2 here here here")
+                #herehere not working for stacks MTT
+                if int(match.group(1)) == 1:
+                    player1.name = match.group(2)  
+                    player1.seat = int(match.group(1))
+                    ps1 = find_second_int(line)
+                    player1.stack = round(ps1,2) 
+                elif int(match.group(1)) == 2:
+                    player2.name = match.group(2)  
+                    player2.seat = int(match.group(1))
+                    ps2 = find_second_int(line)
                     player2.stack = round(ps2,2)
                 elif int(match.group(1)) == 3:
                     player3.name = match.group(2)  
