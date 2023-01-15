@@ -712,9 +712,7 @@ def extract_info(line):
         if True:
             # If a match is found, find all floats in the line
             floats = re.findall(r'[-+]?\d*\.\d+|\d+', line)
-            if floats:
-                print(" 1 here here here")
-                # If any floats are found, return the first integer, name, and last float
+            if floats and "bounty" not in line:
                 if int(match.group(1)) == 1:
                     player1.name = match.group(2)  
                     player1.seat = int(match.group(1))
@@ -758,8 +756,7 @@ def extract_info(line):
                 else:
                     pass
             else:
-                print("2 here here here")
-                #herehere not working for stacks MTT
+                # stacks MTT
                 if int(match.group(1)) == 1:
                     player1.name = match.group(2)  
                     player1.seat = int(match.group(1))
@@ -773,32 +770,32 @@ def extract_info(line):
                 elif int(match.group(1)) == 3:
                     player3.name = match.group(2)  
                     player3.seat = int(match.group(1))
-                    ps3 = float(floats[-1])
+                    ps3 = find_second_int(line)
                     player3.stack = round(ps3,2)
                 elif int(match.group(1)) == 4:
                     player4.name = match.group(2)  
                     player4.seat = int(match.group(1))
-                    ps4 = float(floats[-1])
+                    ps4 = find_second_int(line)
                     player4.stack = round(ps4,2)
                 elif int(match.group(1)) == 5:
                     player5.name = match.group(2)  
                     player5.seat = int(match.group(1))
-                    ps5 = float(floats[-1])
+                    ps5 = find_second_int(line)
                     player5.stack = round(ps5,2)
                 elif int(match.group(1)) == 6:
                     player6.name = match.group(2)  
                     player6.seat = int(match.group(1))
-                    ps6 = float(floats[-1])
+                    ps6 = find_second_int(line)
                     player6.stack = round(ps6,2)
                 elif int(match.group(1)) == 7:
                     player7.name = match.group(2)  
                     player7.seat = int(match.group(1))
-                    ps7 = float(floats[-1])
+                    ps7 = find_second_int(line)
                     player7.stack = round(ps7,2)
                 elif int(match.group(1)) == 8:
                     player8.name = match.group(2)  
                     player8.seat = int(match.group(1))
-                    ps8 = float(floats[-1])
+                    ps8 = find_second_int(line)
                     player8.stack = round(ps8,2)
                 else:
                     pass
