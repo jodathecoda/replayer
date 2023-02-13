@@ -1,0 +1,1033 @@
+﻿PokerStars Hand #241235456904:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:13:30 ET
+Table 'Korczak' 6-max Seat #6 is the button
+Seat 2: Sr. Dirt ($1.12 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Corona656 ($1.43 in chips) 
+Seat 5: Khaled7984 ($1.57 in chips) 
+Seat 6: YoungSachi ($2.08 in chips) 
+Sr. Dirt: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 4s]
+Corona656: folds 
+Khaled7984: calls $0.02
+YoungSachi: raises $0.08 to $0.10
+Sr. Dirt: folds 
+Lorpugo: folds 
+Khaled7984: calls $0.08
+*** FLOP *** [3d Js 4h]
+Khaled7984: bets $0.11
+YoungSachi: calls $0.11
+*** TURN *** [3d Js 4h] [8c]
+Khaled7984: bets $0.10
+YoungSachi: calls $0.10
+*** RIVER *** [3d Js 4h 8c] [7s]
+Khaled7984: checks 
+YoungSachi: checks 
+*** SHOW DOWN ***
+Khaled7984: shows [9c 4c] (a pair of Fours)
+YoungSachi: shows [Jd Kc] (a pair of Jacks)
+YoungSachi collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [3d Js 4h 8c 7s]
+Seat 2: Sr. Dirt (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Corona656 folded before Flop (didn't bet)
+Seat 5: Khaled7984 showed [9c 4c] and lost with a pair of Fours
+Seat 6: YoungSachi (button) showed [Jd Kc] and won ($0.63) with a pair of Jacks
+
+
+
+PokerStars Hand #241235482457:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:14:30 ET
+Table 'Korczak' 6-max Seat #2 is the button
+Seat 2: Sr. Dirt ($1.11 in chips) 
+Seat 3: Lorpugo ($1.58 in chips) 
+Seat 4: Corona656 ($1.43 in chips) 
+Seat 5: Khaled7984 ($1.26 in chips) 
+Seat 6: YoungSachi ($2.40 in chips) 
+Lorpugo: posts small blind $0.01
+Corona656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Th]
+Khaled7984: folds 
+YoungSachi: folds 
+Sr. Dirt: folds 
+Lorpugo: raises $0.03 to $0.05
+Corona656: calls $0.03
+*** FLOP *** [As 8c 7d]
+Lorpugo: bets $0.06
+Corona656: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [As 8c 7d]
+Seat 2: Sr. Dirt (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.10)
+Seat 4: Corona656 (big blind) folded on the Flop
+Seat 5: Khaled7984 folded before Flop (didn't bet)
+Seat 6: YoungSachi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235497908:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:15:06 ET
+Table 'Korczak' 6-max Seat #3 is the button
+Seat 2: Sr. Dirt ($1.11 in chips) 
+Seat 3: Lorpugo ($1.63 in chips) 
+Seat 4: Corona656 ($1.38 in chips) 
+Seat 5: Khaled7984 ($1.26 in chips) 
+Seat 6: YoungSachi ($2.40 in chips) 
+Corona656: posts small blind $0.01
+Khaled7984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kd]
+YoungSachi: raises $0.03 to $0.05
+Sr. Dirt: folds 
+Lorpugo: folds 
+Corona656: folds 
+Khaled7984: calls $0.03
+*** FLOP *** [4h Qs 9h]
+Khaled7984: checks 
+YoungSachi: bets $0.04
+Khaled7984: folds 
+Uncalled bet ($0.04) returned to YoungSachi
+YoungSachi collected $0.11 from pot
+YoungSachi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h Qs 9h]
+Seat 2: Sr. Dirt folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Corona656 (small blind) folded before Flop
+Seat 5: Khaled7984 (big blind) folded on the Flop
+Seat 6: YoungSachi collected ($0.11)
+
+
+
+PokerStars Hand #241235510715:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:15:36 ET
+Table 'Korczak' 6-max Seat #4 is the button
+Seat 2: Sr. Dirt ($1.11 in chips) 
+Seat 3: Lorpugo ($1.63 in chips) 
+Seat 4: Corona656 ($1.37 in chips) 
+Seat 5: Khaled7984 ($1.21 in chips) 
+Seat 6: YoungSachi ($2.46 in chips) 
+Khaled7984: posts small blind $0.01
+YoungSachi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6d]
+Sr. Dirt: folds 
+Lorpugo: folds 
+Corona656: calls $0.02
+Khaled7984: calls $0.01
+YoungSachi: checks 
+*** FLOP *** [4d 5s 7s]
+Khaled7984: checks 
+YoungSachi: bets $0.03
+Corona656: calls $0.03
+Khaled7984: calls $0.03
+*** TURN *** [4d 5s 7s] [Kd]
+Khaled7984: checks 
+YoungSachi: checks 
+Corona656: checks 
+*** RIVER *** [4d 5s 7s Kd] [6s]
+Khaled7984: bets $0.14
+YoungSachi: folds 
+Corona656: folds 
+Uncalled bet ($0.14) returned to Khaled7984
+Khaled7984 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d 5s 7s Kd 6s]
+Seat 2: Sr. Dirt folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Corona656 (button) folded on the River
+Seat 5: Khaled7984 (small blind) collected ($0.14)
+Seat 6: YoungSachi (big blind) folded on the River
+
+
+
+PokerStars Hand #241235536519:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:16:36 ET
+Table 'Korczak' 6-max Seat #5 is the button
+Seat 1: PS.JuaChi ($2 in chips) 
+Seat 2: Sr. Dirt ($1.11 in chips) 
+Seat 3: Lorpugo ($1.63 in chips) 
+Seat 4: Corona656 ($1.32 in chips) 
+Seat 5: Khaled7984 ($1.30 in chips) 
+Seat 6: YoungSachi ($2.41 in chips) 
+YoungSachi: posts small blind $0.01
+PS.JuaChi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 7h]
+Sr. Dirt: calls $0.02
+Lorpugo: folds 
+Corona656: folds 
+Khaled7984: calls $0.02
+YoungSachi: folds 
+PS.JuaChi: checks 
+*** FLOP *** [3s Qc 5s]
+PS.JuaChi: checks 
+Sr. Dirt: checks 
+Khaled7984: checks 
+*** TURN *** [3s Qc 5s] [5c]
+PS.JuaChi: checks 
+Sr. Dirt: checks 
+Khaled7984: checks 
+*** RIVER *** [3s Qc 5s 5c] [Qd]
+PS.JuaChi: checks 
+Sr. Dirt: checks 
+Khaled7984: checks 
+*** SHOW DOWN ***
+PS.JuaChi: shows [3d 8c] (two pair, Queens and Fives)
+Sr. Dirt: shows [Ad 8h] (two pair, Queens and Fives - Ace kicker)
+Khaled7984: mucks hand 
+Sr. Dirt collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3s Qc 5s 5c Qd]
+Seat 1: PS.JuaChi (big blind) showed [3d 8c] and lost with two pair, Queens and Fives
+Seat 2: Sr. Dirt showed [Ad 8h] and won ($0.07) with two pair, Queens and Fives
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Corona656 folded before Flop (didn't bet)
+Seat 5: Khaled7984 (button) mucked [Td 6s]
+Seat 6: YoungSachi (small blind) folded before Flop
+
+
+
+PokerStars Hand #241235552825:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:17:15 ET
+Table 'Korczak' 6-max Seat #6 is the button
+Seat 1: PS.JuaChi ($1.98 in chips) 
+Seat 2: Sr. Dirt ($1.16 in chips) 
+Seat 3: Lorpugo ($1.63 in chips) 
+Seat 4: Corona656 ($1.32 in chips) 
+Seat 5: Khaled7984 ($1.28 in chips) 
+Seat 6: YoungSachi ($2.40 in chips) 
+PS.JuaChi: posts small blind $0.01
+Sr. Dirt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ad]
+Lorpugo: folds 
+Corona656: calls $0.02
+Khaled7984: calls $0.02
+YoungSachi: folds 
+PS.JuaChi: folds 
+Sr. Dirt: checks 
+*** FLOP *** [3c Kh 2h]
+Sr. Dirt: checks 
+Corona656: checks 
+Khaled7984: checks 
+*** TURN *** [3c Kh 2h] [Tc]
+Sr. Dirt: checks 
+Corona656: checks 
+Khaled7984: bets $0.07
+Sr. Dirt: folds 
+Corona656: folds 
+Uncalled bet ($0.07) returned to Khaled7984
+Khaled7984 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3c Kh 2h Tc]
+Seat 1: PS.JuaChi (small blind) folded before Flop
+Seat 2: Sr. Dirt (big blind) folded on the Turn
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Corona656 folded on the Turn
+Seat 5: Khaled7984 collected ($0.07)
+Seat 6: YoungSachi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235572002:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:17:59 ET
+Table 'Korczak' 6-max Seat #1 is the button
+Seat 1: PS.JuaChi ($2 in chips) 
+Seat 2: Sr. Dirt ($1.14 in chips) 
+Seat 3: Lorpugo ($1.63 in chips) 
+Seat 4: Corona656 ($1.30 in chips) 
+Seat 5: Khaled7984 ($1.33 in chips) 
+Seat 6: YoungSachi ($2.40 in chips) 
+Sr. Dirt: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 8d]
+Corona656: calls $0.02
+Khaled7984: calls $0.02
+YoungSachi: folds 
+PS.JuaChi: folds 
+Sr. Dirt: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ac 7c 9c]
+Sr. Dirt: checks 
+Lorpugo: checks 
+Corona656: bets $0.04
+Khaled7984: calls $0.04
+Sr. Dirt: folds 
+Lorpugo: folds 
+*** TURN *** [Ac 7c 9c] [Qd]
+Corona656: checks 
+Khaled7984: bets $0.15
+Corona656: calls $0.15
+*** RIVER *** [Ac 7c 9c Qd] [4c]
+Sr. Dirt leaves the table
+Corona656: bets $0.22
+Khaled7984: calls $0.22
+*** SHOW DOWN ***
+Corona656: shows [Qc Kd] (a flush, Ace high)
+Khaled7984: mucks hand 
+Corona656 collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [Ac 7c 9c Qd 4c]
+Seat 1: PS.JuaChi (button) folded before Flop (didn't bet)
+Seat 2: Sr. Dirt (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: Corona656 showed [Qc Kd] and won ($0.87) with a flush, Ace high
+Seat 5: Khaled7984 mucked [Ts Jc]
+Seat 6: YoungSachi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235592806:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:18:48 ET
+Table 'Korczak' 6-max Seat #3 is the button
+Seat 1: PS.JuaChi ($2 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: Corona656 ($1.74 in chips) 
+Seat 5: Khaled7984 ($0.90 in chips) 
+Seat 6: YoungSachi ($2.40 in chips) 
+Corona656: posts small blind $0.01
+#Domä33 joins the table at seat #2 
+Khaled7984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 7c]
+YoungSachi: raises $0.03 to $0.05
+PS.JuaChi: folds 
+Lorpugo: folds 
+Corona656: calls $0.04
+Khaled7984: calls $0.03
+*** FLOP *** [Kc Jc 9s]
+Corona656: bets $0.07
+Khaled7984: calls $0.07
+YoungSachi: calls $0.07
+*** TURN *** [Kc Jc 9s] [Ad]
+Corona656: bets $0.18
+Khaled7984: calls $0.18
+YoungSachi: folds 
+*** RIVER *** [Kc Jc 9s Ad] [Jd]
+Corona656: bets $0.69
+Khaled7984: folds 
+Uncalled bet ($0.69) returned to Corona656
+Corona656 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Kc Jc 9s Ad Jd]
+Seat 1: PS.JuaChi folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Corona656 (small blind) collected ($0.69)
+Seat 5: Khaled7984 (big blind) folded on the River
+Seat 6: YoungSachi folded on the Turn
+
+
+
+PokerStars Hand #241235614099:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:19:37 ET
+Table 'Korczak' 6-max Seat #4 is the button
+Seat 1: PS.JuaChi ($2 in chips) 
+Seat 2: #Domä33 ($0.80 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: Corona656 ($2.13 in chips) 
+Seat 5: Khaled7984 ($0.60 in chips) 
+Seat 6: YoungSachi ($2.28 in chips) 
+Khaled7984: posts small blind $0.01
+YoungSachi: posts big blind $0.02
+#Domä33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5h]
+PS.JuaChi: raises $0.06 to $0.08
+#Domä33: calls $0.06
+Lorpugo: folds 
+Corona656: calls $0.08
+Khaled7984: calls $0.07
+YoungSachi: calls $0.06
+*** FLOP *** [3s 8d 3h]
+Khaled7984: checks 
+YoungSachi: checks 
+PS.JuaChi: checks 
+#Domä33: checks 
+Corona656: checks 
+*** TURN *** [3s 8d 3h] [Ts]
+Khaled7984: checks 
+YoungSachi: bets $0.20
+PS.JuaChi: calls $0.20
+#Domä33: folds 
+Corona656: folds 
+Corona656 leaves the table
+Khaled7984: calls $0.20
+*** RIVER *** [3s 8d 3h Ts] [Kd]
+tebourba joins the table at seat #4 
+Khaled7984: checks 
+YoungSachi: checks 
+PS.JuaChi: checks 
+*** SHOW DOWN ***
+Khaled7984: shows [As 3d] (three of a kind, Threes)
+YoungSachi: mucks hand 
+PS.JuaChi: mucks hand 
+Khaled7984 collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [3s 8d 3h Ts Kd]
+Seat 1: PS.JuaChi mucked [Ac Th]
+Seat 2: #Domä33 folded on the Turn
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Corona656 (button) folded on the Turn
+Seat 5: Khaled7984 (small blind) showed [As 3d] and won ($0.96) with three of a kind, Threes
+Seat 6: YoungSachi (big blind) mucked [Td Jc]
+
+
+
+PokerStars Hand #241235643780:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:20:46 ET
+Table 'Korczak' 6-max Seat #5 is the button
+Seat 1: PS.JuaChi ($2 in chips) 
+Seat 2: #Domä33 ($0.72 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 5: Khaled7984 ($1.28 in chips) 
+Seat 6: YoungSachi ($2 in chips) 
+YoungSachi: posts small blind $0.01
+PS.JuaChi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 5c]
+#Domä33: raises $0.02 to $0.04
+Lorpugo: folds 
+Khaled7984: calls $0.04
+YoungSachi: folds 
+PS.JuaChi: raises $0.22 to $0.26
+#Domä33: calls $0.22
+Khaled7984: folds 
+*** FLOP *** [6d 3c Kd]
+PS.JuaChi: checks 
+#Domä33: bets $0.46 and is all-in
+PS.JuaChi: calls $0.46
+*** TURN *** [6d 3c Kd] [Qs]
+*** RIVER *** [6d 3c Kd Qs] [3s]
+*** SHOW DOWN ***
+PS.JuaChi: shows [Jc Jh] (two pair, Jacks and Threes)
+#Domä33: shows [Kh Th] (two pair, Kings and Threes)
+#Domä33 collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.06 
+Board [6d 3c Kd Qs 3s]
+Seat 1: PS.JuaChi (big blind) showed [Jc Jh] and lost with two pair, Jacks and Threes
+Seat 2: #Domä33 showed [Kh Th] and won ($1.43) with two pair, Kings and Threes
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: Khaled7984 (button) folded before Flop
+Seat 6: YoungSachi (small blind) folded before Flop
+
+
+
+PokerStars Hand #241235659253:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:21:22 ET
+Table 'Korczak' 6-max Seat #6 is the button
+Seat 1: PS.JuaChi ($2 in chips) 
+Seat 2: #Domä33 ($1.43 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 5: Khaled7984 ($1.24 in chips) 
+Seat 6: YoungSachi ($2 in chips) 
+PS.JuaChi: posts small blind $0.01
+#Domä33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 7h]
+Lorpugo: folds 
+Khaled7984: calls $0.02
+YoungSachi: folds 
+PS.JuaChi: calls $0.01
+#Domä33: checks 
+*** FLOP *** [4c 7s 4d]
+PS.JuaChi: checks 
+#Domä33: checks 
+Khaled7984: checks 
+*** TURN *** [4c 7s 4d] [5d]
+PS.JuaChi: bets $0.10
+#Domä33: calls $0.10
+Khaled7984: folds 
+*** RIVER *** [4c 7s 4d 5d] [Qd]
+PS.JuaChi: bets $0.24
+#Domä33: folds 
+Uncalled bet ($0.24) returned to PS.JuaChi
+PS.JuaChi collected $0.25 from pot
+PS.JuaChi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [4c 7s 4d 5d Qd]
+Seat 1: PS.JuaChi (small blind) collected ($0.25)
+Seat 2: #Domä33 (big blind) folded on the River
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 5: Khaled7984 folded on the Turn
+Seat 6: YoungSachi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235675401:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:21:59 ET
+Table 'Korczak' 6-max Seat #1 is the button
+Seat 1: PS.JuaChi ($2.13 in chips) 
+Seat 2: #Domä33 ($1.31 in chips) 
+Seat 3: Lorpugo ($1.61 in chips) 
+Seat 4: tebourba ($2 in chips) 
+Seat 5: Khaled7984 ($1.22 in chips) 
+Seat 6: YoungSachi ($2 in chips) 
+#Domä33: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+tebourba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ac]
+tebourba: checks 
+Khaled7984: calls $0.02
+YoungSachi: folds 
+PS.JuaChi: folds 
+#Domä33: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Qs 4c 6s]
+#Domä33: bets $0.02
+Lorpugo: folds 
+tebourba: calls $0.02
+Khaled7984: calls $0.02
+*** TURN *** [Qs 4c 6s] [8s]
+#Domä33: bets $0.02
+tebourba: calls $0.02
+Khaled7984: calls $0.02
+*** RIVER *** [Qs 4c 6s 8s] [Jd]
+#Domä33: bets $0.06
+tebourba: folds 
+Khaled7984: raises $0.06 to $0.12
+#Domä33: calls $0.06
+*** SHOW DOWN ***
+Khaled7984: shows [Js 6c] (two pair, Jacks and Sixes)
+#Domä33: mucks hand 
+Khaled7984 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Qs 4c 6s 8s Jd]
+Seat 1: PS.JuaChi (button) folded before Flop (didn't bet)
+Seat 2: #Domä33 (small blind) mucked [2c Qc]
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: tebourba folded on the River
+Seat 5: Khaled7984 showed [Js 6c] and won ($0.42) with two pair, Jacks and Sixes
+Seat 6: YoungSachi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235696138:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:22:47 ET
+Table 'Korczak' 6-max Seat #2 is the button
+Seat 1: PS.JuaChi ($2.13 in chips) 
+Seat 2: #Domä33 ($1.13 in chips) 
+Seat 3: Lorpugo ($1.59 in chips) 
+Seat 4: tebourba ($1.94 in chips) 
+Seat 5: Khaled7984 ($1.46 in chips) 
+Seat 6: YoungSachi ($2 in chips) 
+Lorpugo: posts small blind $0.01
+tebourba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4s]
+Khaled7984: calls $0.02
+YoungSachi: raises $0.08 to $0.10
+PS.JuaChi: folds 
+#Domä33: folds 
+Lorpugo: folds 
+tebourba: folds 
+Khaled7984: folds 
+Uncalled bet ($0.08) returned to YoungSachi
+YoungSachi collected $0.07 from pot
+YoungSachi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: PS.JuaChi folded before Flop (didn't bet)
+Seat 2: #Domä33 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: tebourba (big blind) folded before Flop
+Seat 5: Khaled7984 folded before Flop
+Seat 6: YoungSachi collected ($0.07)
+
+
+
+PokerStars Hand #241235705497:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:23:09 ET
+Table 'Korczak' 6-max Seat #3 is the button
+Seat 1: PS.JuaChi ($2.13 in chips) 
+Seat 2: #Domä33 ($1.13 in chips) 
+Seat 3: Lorpugo ($1.58 in chips) 
+Seat 4: tebourba ($1.92 in chips) 
+Seat 5: Khaled7984 ($1.44 in chips) 
+Seat 6: YoungSachi ($2.05 in chips) 
+tebourba: posts small blind $0.01
+Khaled7984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kc]
+YoungSachi: folds 
+PS.JuaChi: folds 
+#Domä33: calls $0.02
+Lorpugo: calls $0.02
+tebourba: folds 
+Khaled7984: checks 
+*** FLOP *** [2d 4c Td]
+Khaled7984: checks 
+#Domä33: checks 
+Lorpugo: checks 
+*** TURN *** [2d 4c Td] [2h]
+Khaled7984: checks 
+#Domä33: checks 
+Lorpugo: checks 
+*** RIVER *** [2d 4c Td 2h] [9d]
+Khaled7984: checks 
+#Domä33: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Khaled7984: shows [5s Jc] (a pair of Deuces)
+#Domä33: shows [Ac 3s] (a pair of Deuces - Ace kicker)
+Lorpugo: mucks hand 
+#Domä33 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2d 4c Td 2h 9d]
+Seat 1: PS.JuaChi folded before Flop (didn't bet)
+Seat 2: #Domä33 showed [Ac 3s] and won ($0.07) with a pair of Deuces
+Seat 3: Lorpugo (button) mucked [Jd Kc]
+Seat 4: tebourba (small blind) folded before Flop
+Seat 5: Khaled7984 (big blind) showed [5s Jc] and lost with a pair of Deuces
+Seat 6: YoungSachi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235727676:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:24:00 ET
+Table 'Korczak' 6-max Seat #4 is the button
+Seat 1: PS.JuaChi ($2.13 in chips) 
+Seat 2: #Domä33 ($1.18 in chips) 
+Seat 3: Lorpugo ($1.56 in chips) 
+Seat 4: tebourba ($1.91 in chips) 
+Seat 5: Khaled7984 ($1.42 in chips) 
+Seat 6: YoungSachi ($2.05 in chips) 
+Khaled7984: posts small blind $0.01
+YoungSachi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7d]
+PS.JuaChi: raises $0.03 to $0.05
+#Domä33: calls $0.05
+Lorpugo: folds 
+tebourba: folds 
+Khaled7984: calls $0.04
+YoungSachi: folds 
+*** FLOP *** [9c 3s Th]
+Khaled7984: checks 
+PS.JuaChi: checks 
+#Domä33: checks 
+*** TURN *** [9c 3s Th] [Qc]
+Khaled7984: checks 
+PS.JuaChi: checks 
+#Domä33: checks 
+*** RIVER *** [9c 3s Th Qc] [Kh]
+Khaled7984: bets $0.30
+PS.JuaChi: folds 
+#Domä33: raises $0.83 to $1.13 and is all-in
+Khaled7984: calls $0.83
+*** SHOW DOWN ***
+#Domä33: shows [9d Jd] (a straight, Nine to King)
+Khaled7984: shows [6h Jc] (a straight, Nine to King)
+Khaled7984 collected $1.17 from pot
+#Domä33 collected $1.16 from pot
+*** SUMMARY ***
+Total pot $2.43 | Rake $0.10 
+Board [9c 3s Th Qc Kh]
+Seat 1: PS.JuaChi folded on the River
+Seat 2: #Domä33 showed [9d Jd] and won ($1.16) with a straight, Nine to King
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: tebourba (button) folded before Flop (didn't bet)
+Seat 5: Khaled7984 (small blind) showed [6h Jc] and won ($1.17) with a straight, Nine to King
+Seat 6: YoungSachi (big blind) folded before Flop
+
+
+
+PokerStars Hand #241235759360:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:25:15 ET
+Table 'Korczak' 6-max Seat #5 is the button
+Seat 1: PS.JuaChi ($2.08 in chips) 
+Seat 2: #Domä33 ($1.16 in chips) 
+Seat 3: Lorpugo ($1.56 in chips) 
+Seat 4: tebourba ($1.91 in chips) 
+Seat 5: Khaled7984 ($1.41 in chips) 
+Seat 6: YoungSachi ($2.03 in chips) 
+YoungSachi: posts small blind $0.01
+PS.JuaChi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 5c]
+#Domä33: folds 
+#Domä33 leaves the table
+Lorpugo: folds 
+tebourba: folds 
+Khaled7984: folds 
+ImTaliso joins the table at seat #2 
+YoungSachi: folds 
+Uncalled bet ($0.01) returned to PS.JuaChi
+PS.JuaChi collected $0.02 from pot
+PS.JuaChi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: PS.JuaChi (big blind) collected ($0.02)
+Seat 2: #Domä33 folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: tebourba folded before Flop (didn't bet)
+Seat 5: Khaled7984 (button) folded before Flop (didn't bet)
+Seat 6: YoungSachi (small blind) folded before Flop
+
+
+
+PokerStars Hand #241235770473:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:25:40 ET
+Table 'Korczak' 6-max Seat #6 is the button
+Seat 1: PS.JuaChi ($2.09 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.56 in chips) 
+Seat 4: tebourba ($1.91 in chips) 
+Seat 5: Khaled7984 ($1.41 in chips) 
+Seat 6: YoungSachi ($2.02 in chips) 
+PS.JuaChi: posts small blind $0.01
+ImTaliso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Kc]
+Lorpugo: folds 
+tebourba: calls $0.02
+Khaled7984: calls $0.02
+YoungSachi has timed out
+YoungSachi: folds 
+PS.JuaChi: raises $0.08 to $0.10
+ImTaliso: folds 
+tebourba: folds 
+Khaled7984: calls $0.08
+*** FLOP *** [5s 4d Td]
+PS.JuaChi: bets $0.22
+Khaled7984: folds 
+Uncalled bet ($0.22) returned to PS.JuaChi
+PS.JuaChi collected $0.23 from pot
+PS.JuaChi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5s 4d Td]
+Seat 1: PS.JuaChi (small blind) collected ($0.23)
+Seat 2: ImTaliso (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: tebourba folded before Flop
+Seat 5: Khaled7984 folded on the Flop
+Seat 6: YoungSachi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235794876:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:26:37 ET
+Table 'Korczak' 6-max Seat #1 is the button
+Seat 1: PS.JuaChi ($2.22 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.56 in chips) 
+Seat 4: tebourba ($1.89 in chips) 
+Seat 5: Khaled7984 ($1.31 in chips) 
+Seat 6: YoungSachi ($2.02 in chips) 
+ImTaliso: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 2d]
+tebourba: calls $0.02
+Khaled7984: folds 
+YoungSachi: folds 
+PS.JuaChi: raises $0.07 to $0.09
+ImTaliso: folds 
+Lorpugo: folds 
+tebourba: calls $0.07
+*** FLOP *** [5h 8s 3s]
+tebourba: checks 
+PS.JuaChi: bets $0.07
+tebourba: calls $0.07
+*** TURN *** [5h 8s 3s] [5s]
+tebourba: checks 
+PS.JuaChi: checks 
+*** RIVER *** [5h 8s 3s 5s] [As]
+tebourba: checks 
+PS.JuaChi: bets $0.17
+tebourba: calls $0.17
+*** SHOW DOWN ***
+PS.JuaChi: shows [Jc Qs] (a flush, Ace high)
+tebourba: mucks hand 
+PS.JuaChi collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [5h 8s 3s 5s As]
+Seat 1: PS.JuaChi (button) showed [Jc Qs] and won ($0.67) with a flush, Ace high
+Seat 2: ImTaliso (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: tebourba mucked [Ah 8h]
+Seat 5: Khaled7984 folded before Flop (didn't bet)
+Seat 6: YoungSachi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235819403:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:27:34 ET
+Table 'Korczak' 6-max Seat #2 is the button
+Seat 1: PS.JuaChi ($2.56 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.54 in chips) 
+Seat 4: tebourba ($1.56 in chips) 
+Seat 5: Khaled7984 ($1.31 in chips) 
+Seat 6: YoungSachi ($2.02 in chips) 
+Lorpugo: posts small blind $0.01
+tebourba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+Khaled7984: calls $0.02
+YoungSachi has timed out
+YoungSachi: folds 
+PS.JuaChi: folds 
+ImTaliso: folds 
+Lorpugo: folds 
+tebourba: checks 
+*** FLOP *** [4c 2s Kh]
+tebourba: checks 
+Khaled7984: checks 
+*** TURN *** [4c 2s Kh] [Js]
+tebourba: checks 
+Khaled7984: checks 
+*** RIVER *** [4c 2s Kh Js] [As]
+tebourba: checks 
+Khaled7984: bets $0.05
+tebourba: folds 
+Uncalled bet ($0.05) returned to Khaled7984
+Khaled7984 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4c 2s Kh Js As]
+Seat 1: PS.JuaChi folded before Flop (didn't bet)
+Seat 2: ImTaliso (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: tebourba (big blind) folded on the River
+Seat 5: Khaled7984 collected ($0.05)
+Seat 6: YoungSachi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235836731:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:28:15 ET
+Table 'Korczak' 6-max Seat #3 is the button
+Seat 1: PS.JuaChi ($2.56 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.53 in chips) 
+Seat 4: tebourba ($1.54 in chips) 
+Seat 5: Khaled7984 ($1.34 in chips) 
+tebourba: posts small blind $0.01
+Khaled7984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2c]
+PS.JuaChi: folds 
+ImTaliso: folds 
+Lorpugo: folds 
+tebourba: calls $0.01
+Khaled7984: checks 
+*** FLOP *** [Qh Jd 3h]
+tebourba: checks 
+Khaled7984: checks 
+*** TURN *** [Qh Jd 3h] [4d]
+tebourba: checks 
+Khaled7984: checks 
+*** RIVER *** [Qh Jd 3h 4d] [8s]
+tebourba: checks 
+Khaled7984: checks 
+*** SHOW DOWN ***
+tebourba: shows [7s 4c] (a pair of Fours)
+Khaled7984: mucks hand 
+tebourba collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qh Jd 3h 4d 8s]
+Seat 1: PS.JuaChi folded before Flop (didn't bet)
+Seat 2: ImTaliso folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: tebourba (small blind) showed [7s 4c] and won ($0.04) with a pair of Fours
+Seat 5: Khaled7984 (big blind) mucked [3d Kc]
+
+
+
+PokerStars Hand #241235850560:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:28:47 ET
+Table 'Korczak' 6-max Seat #4 is the button
+Seat 1: PS.JuaChi ($2.56 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.53 in chips) 
+Seat 4: tebourba ($1.56 in chips) 
+Seat 5: Khaled7984 ($1.32 in chips) 
+Khaled7984: posts small blind $0.01
+PS.JuaChi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Jc]
+ImTaliso: folds 
+Khaled7984 is disconnected 
+Lorpugo: raises $0.03 to $0.05
+tebourba: folds 
+Khaled7984 has timed out while disconnected
+Khaled7984: folds 
+PS.JuaChi: calls $0.03
+*** FLOP *** [3s 4s 9h]
+PS.JuaChi: checks 
+Lorpugo: bets $0.07
+PS.JuaChi: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3s 4s 9h]
+Seat 1: PS.JuaChi (big blind) folded on the Flop
+Seat 2: ImTaliso folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.11)
+Seat 4: tebourba (button) folded before Flop (didn't bet)
+Seat 5: Khaled7984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241235872678:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:29:39 ET
+Table 'Korczak' 6-max Seat #1 is the button
+Seat 1: PS.JuaChi ($2.51 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.59 in chips) 
+Seat 4: tebourba ($1.56 in chips) 
+ImTaliso: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 7h]
+tebourba: folds 
+PS.JuaChi: raises $0.04 to $0.06
+ImTaliso: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [6d As 3d]
+Lorpugo: checks 
+PS.JuaChi: bets $0.08
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to PS.JuaChi
+PS.JuaChi collected $0.13 from pot
+PS.JuaChi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d As 3d]
+Seat 1: PS.JuaChi (button) collected ($0.13)
+Seat 2: ImTaliso (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: tebourba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241235883231:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:30:04 ET
+Table 'Korczak' 6-max Seat #2 is the button
+Seat 1: PS.JuaChi ($2.58 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.53 in chips) 
+Seat 4: tebourba ($1.56 in chips) 
+Lorpugo: posts small blind $0.01
+tebourba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Tc]
+PS.JuaChi: folds 
+ImTaliso: folds 
+Lorpugo: raises $0.03 to $0.05
+tebourba: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: PS.JuaChi folded before Flop (didn't bet)
+Seat 2: ImTaliso (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: tebourba (big blind) folded before Flop
+
+
+
+PokerStars Hand #241235886828:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:30:12 ET
+Table 'Korczak' 6-max Seat #3 is the button
+Seat 1: PS.JuaChi ($2.58 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.55 in chips) 
+Seat 4: tebourba ($1.54 in chips) 
+Seat 6: YoungSachi ($2.02 in chips) 
+tebourba: posts small blind $0.01
+YoungSachi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 7s]
+PS.JuaChi: folds 
+ImTaliso: folds 
+Lorpugo: raises $0.03 to $0.05
+tebourba: folds 
+YoungSachi: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: PS.JuaChi folded before Flop (didn't bet)
+Seat 2: ImTaliso folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 4: tebourba (small blind) folded before Flop
+Seat 6: YoungSachi (big blind) folded before Flop
+
+
+
+PokerStars Hand #241235896134:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:30:34 ET
+Table 'Korczak' 6-max Seat #4 is the button
+Seat 1: PS.JuaChi ($2.58 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.58 in chips) 
+Seat 4: tebourba ($1.53 in chips) 
+Seat 6: YoungSachi ($2 in chips) 
+YoungSachi: posts small blind $0.01
+PS.JuaChi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 8c]
+ImTaliso: folds 
+Lorpugo: folds 
+tebourba: folds 
+YoungSachi: raises $0.04 to $0.06
+PS.JuaChi: calls $0.04
+*** FLOP *** [9c 6d 4s]
+YoungSachi: checks 
+PS.JuaChi: checks 
+*** TURN *** [9c 6d 4s] [Ts]
+YoungSachi: checks 
+PS.JuaChi: checks 
+*** RIVER *** [9c 6d 4s Ts] [Kc]
+YoungSachi: bets $0.12
+PS.JuaChi: calls $0.12
+*** SHOW DOWN ***
+YoungSachi: shows [Qc Jd] (a straight, Nine to King)
+PS.JuaChi: mucks hand 
+YoungSachi collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [9c 6d 4s Ts Kc]
+Seat 1: PS.JuaChi (big blind) mucked [Ks Jc]
+Seat 2: ImTaliso folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: tebourba (button) folded before Flop (didn't bet)
+Seat 6: YoungSachi (small blind) showed [Qc Jd] and won ($0.35) with a straight, Nine to King
+
+
+
+PokerStars Hand #241235931663:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/18 15:31:58 ET
+Table 'Korczak' 6-max Seat #6 is the button
+Seat 1: PS.JuaChi ($2.40 in chips) 
+Seat 2: ImTaliso ($2 in chips) 
+Seat 3: Lorpugo ($1.58 in chips) 
+Seat 4: tebourba ($1.53 in chips) 
+Seat 6: YoungSachi ($2.17 in chips) 
+PS.JuaChi: posts small blind $0.01
+ImTaliso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 5c]
+Lorpugo: raises $0.02 to $0.04
+tebourba: folds 
+YoungSachi: folds 
+PS.JuaChi: folds 
+ImTaliso: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: PS.JuaChi (small blind) folded before Flop
+Seat 2: ImTaliso (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: tebourba folded before Flop (didn't bet)
+Seat 6: YoungSachi (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,684 @@
+﻿PokerStars Hand #241369720907: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:11:22 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (500 in chips) 
+Seat 2: Narku77 (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+Narku77: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Ks]
+dehol87: folds 
+Narku77: calls 10
+Lorpugo: raises 60 to 80
+Narku77: calls 60
+*** FLOP *** [5d 8d 7c]
+Narku77: bets 420 and is all-in
+Lorpugo: folds 
+Uncalled bet (420) returned to Narku77
+Narku77 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d 8d 7c]
+Seat 1: dehol87 (button) folded before Flop (didn't bet)
+Seat 2: Narku77 (small blind) collected (160)
+Seat 3: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369729297: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:11:42 ET
+Table '3537192292 1' 3-max Seat #2 is the button
+Seat 1: dehol87 (500 in chips) 
+Seat 2: Narku77 (580 in chips) 
+Seat 3: Lorpugo (420 in chips) 
+Lorpugo: posts small blind 10
+dehol87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9s]
+Narku77: calls 20
+Lorpugo: calls 10
+dehol87: raises 60 to 80
+Narku77: calls 60
+Lorpugo: folds 
+*** FLOP *** [4c 2s Qh]
+dehol87: checks 
+Narku77: checks 
+*** TURN *** [4c 2s Qh] [9d]
+dehol87: checks 
+Narku77: checks 
+*** RIVER *** [4c 2s Qh 9d] [6c]
+dehol87: checks 
+Narku77: checks 
+*** SHOW DOWN ***
+dehol87: shows [Ad Td] (high card Ace)
+Narku77: mucks hand 
+dehol87 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4c 2s Qh 9d 6c]
+Seat 1: dehol87 (big blind) showed [Ad Td] and won (180) with high card Ace
+Seat 2: Narku77 (button) mucked [8d Kc]
+Seat 3: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369747107: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:12:25 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (600 in chips) 
+Seat 2: Narku77 (500 in chips) 
+Seat 3: Lorpugo (400 in chips) 
+dehol87: posts small blind 10
+Narku77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7c]
+Lorpugo: raises 20 to 40
+dehol87: calls 30
+Narku77: calls 20
+*** FLOP *** [9s Qs Tc]
+dehol87: bets 100
+Narku77: raises 360 to 460 and is all-in
+Lorpugo: folds 
+dehol87: calls 360
+*** TURN *** [9s Qs Tc] [As]
+*** RIVER *** [9s Qs Tc As] [3d]
+*** SHOW DOWN ***
+dehol87: shows [Qh Kh] (a pair of Queens)
+Narku77: shows [Jc 3c] (a pair of Threes)
+dehol87 collected 1040 from pot
+Narku77 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [9s Qs Tc As 3d]
+Seat 1: dehol87 (small blind) showed [Qh Kh] and won (1040) with a pair of Queens
+Seat 2: Narku77 (big blind) showed [Jc 3c] and lost with a pair of Threes
+Seat 3: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #241369760292: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:12:56 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (1140 in chips) 
+Seat 3: Lorpugo (360 in chips) 
+dehol87: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 6s]
+dehol87: folds 
+Uncalled bet (10) returned to Lorpugo
+Lorpugo collected 20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: dehol87 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (20)
+
+
+
+PokerStars Hand #241369762108: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:13:00 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (1130 in chips) 
+Seat 3: Lorpugo (370 in chips) 
+Lorpugo: posts small blind 10
+dehol87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 5d]
+Lorpugo: raises 20 to 40
+dehol87: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: dehol87 (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #241369766000: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:13:09 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (1110 in chips) 
+Seat 3: Lorpugo (390 in chips) 
+dehol87: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 5d]
+dehol87: calls 10
+Lorpugo: checks 
+*** FLOP *** [9c Ah 7d]
+Lorpugo: bets 20
+dehol87: raises 80 to 100
+Lorpugo: folds 
+Uncalled bet (80) returned to dehol87
+dehol87 collected 80 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c Ah 7d]
+Seat 1: dehol87 (button) (small blind) collected (80)
+Seat 3: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369775127: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:13:31 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (1150 in chips) 
+Seat 3: Lorpugo (350 in chips) 
+Lorpugo: posts small blind 15
+dehol87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Qd]
+Lorpugo: raises 30 to 60
+dehol87: calls 30
+*** FLOP *** [8d 7s 9d]
+dehol87: checks 
+Lorpugo: bets 290 and is all-in
+dehol87: calls 290
+*** TURN *** [8d 7s 9d] [9s]
+*** RIVER *** [8d 7s 9d 9s] [2d]
+*** SHOW DOWN ***
+dehol87: shows [Ks Qs] (a pair of Nines)
+Lorpugo: shows [8s Qd] (two pair, Nines and Eights)
+Lorpugo collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [8d 7s 9d 9s 2d]
+Seat 1: dehol87 (big blind) showed [Ks Qs] and lost with a pair of Nines
+Seat 3: Lorpugo (button) (small blind) showed [8s Qd] and won (700) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #241369783513: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:13:51 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (800 in chips) 
+Seat 3: Lorpugo (700 in chips) 
+dehol87: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2s]
+dehol87: raises 60 to 90
+Lorpugo: folds 
+Uncalled bet (60) returned to dehol87
+dehol87 collected 60 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: dehol87 (button) (small blind) collected (60)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369786553: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:13:59 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (830 in chips) 
+Seat 3: Lorpugo (670 in chips) 
+Lorpugo: posts small blind 15
+dehol87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qc]
+Lorpugo: raises 30 to 60
+dehol87: calls 30
+*** FLOP *** [4c 2d As]
+dehol87: checks 
+Lorpugo: bets 30
+dehol87: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c 2d As]
+Seat 1: dehol87 (big blind) folded on the Flop
+Seat 3: Lorpugo (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241369792454: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:14:13 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (770 in chips) 
+Seat 3: Lorpugo (730 in chips) 
+dehol87: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8h]
+dehol87: calls 15
+Lorpugo: checks 
+*** FLOP *** [Jc 2s 5h]
+Lorpugo: checks 
+dehol87: checks 
+*** TURN *** [Jc 2s 5h] [Tc]
+Lorpugo: checks 
+dehol87: checks 
+*** RIVER *** [Jc 2s 5h Tc] [9s]
+Lorpugo: checks 
+dehol87: bets 120
+Lorpugo: folds 
+Uncalled bet (120) returned to dehol87
+dehol87 collected 60 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc 2s 5h Tc 9s]
+Seat 1: dehol87 (button) (small blind) collected (60)
+Seat 3: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #241369801060: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:14:33 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (800 in chips) 
+Seat 3: Lorpugo (700 in chips) 
+Lorpugo: posts small blind 15
+dehol87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7s]
+Lorpugo: folds 
+Uncalled bet (15) returned to dehol87
+dehol87 collected 30 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: dehol87 (big blind) collected (30)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369803269: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:14:39 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (815 in chips) 
+Seat 3: Lorpugo (685 in chips) 
+dehol87: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 8h]
+dehol87: calls 15
+Lorpugo: checks 
+*** FLOP *** [Jd 7s Qh]
+Lorpugo: checks 
+dehol87: checks 
+*** TURN *** [Jd 7s Qh] [Ad]
+Lorpugo: checks 
+dehol87: checks 
+*** RIVER *** [Jd 7s Qh Ad] [8c]
+Lorpugo: checks 
+dehol87: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6c 8h] (a pair of Eights)
+dehol87: shows [9h 8d] (a pair of Eights)
+Lorpugo collected 30 from pot
+dehol87 collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 7s Qh Ad 8c]
+Seat 1: dehol87 (button) (small blind) showed [9h 8d] and won (30) with a pair of Eights
+Seat 3: Lorpugo (big blind) showed [6c 8h] and won (30) with a pair of Eights
+
+
+
+PokerStars Hand #241369810120: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:14:55 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (815 in chips) 
+Seat 3: Lorpugo (685 in chips) 
+Lorpugo: posts small blind 15
+dehol87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Jd]
+Lorpugo: raises 30 to 60
+dehol87: calls 30
+*** FLOP *** [Js Td 9d]
+dehol87: checks 
+Lorpugo: bets 79
+dehol87: folds 
+Uncalled bet (79) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js Td 9d]
+Seat 1: dehol87 (big blind) folded on the Flop
+Seat 3: Lorpugo (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241369816309: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:15:10 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (755 in chips) 
+Seat 3: Lorpugo (745 in chips) 
+dehol87: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 3h]
+dehol87: folds 
+Uncalled bet (15) returned to Lorpugo
+Lorpugo collected 30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: dehol87 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (30)
+
+
+
+PokerStars Hand #241369818803: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:15:16 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (740 in chips) 
+Seat 3: Lorpugo (760 in chips) 
+Lorpugo: posts small blind 15
+dehol87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 3c]
+Lorpugo: raises 30 to 60
+dehol87: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: dehol87 (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241369823100: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:15:26 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (710 in chips) 
+Seat 3: Lorpugo (790 in chips) 
+dehol87: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7c]
+dehol87: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: dehol87 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241369826264: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:15:34 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (690 in chips) 
+Seat 3: Lorpugo (810 in chips) 
+Lorpugo: posts small blind 20
+dehol87: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 7h]
+Lorpugo: folds 
+Uncalled bet (20) returned to dehol87
+dehol87 collected 40 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: dehol87 (big blind) collected (40)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369829201: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:15:41 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (710 in chips) 
+Seat 3: Lorpugo (790 in chips) 
+dehol87: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 2d]
+dehol87: raises 120 to 160
+Lorpugo: folds 
+Uncalled bet (120) returned to dehol87
+dehol87 collected 80 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: dehol87 (button) (small blind) collected (80)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369832097: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:15:47 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (750 in chips) 
+Seat 3: Lorpugo (750 in chips) 
+Lorpugo: posts small blind 20
+dehol87: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 8d]
+Lorpugo: raises 40 to 80
+dehol87: calls 40
+*** FLOP *** [4c Ts Td]
+dehol87: checks 
+Lorpugo: bets 40
+dehol87: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 160 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c Ts Td]
+Seat 1: dehol87 (big blind) folded on the Flop
+Seat 3: Lorpugo (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #241369838221: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:16:02 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (670 in chips) 
+Seat 3: Lorpugo (830 in chips) 
+dehol87: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 3d]
+dehol87: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: dehol87 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241369839914: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:16:06 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (650 in chips) 
+Seat 3: Lorpugo (850 in chips) 
+Lorpugo: posts small blind 20
+dehol87: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 2c]
+Lorpugo: calls 20
+dehol87: checks 
+*** FLOP *** [4d Kc 6h]
+dehol87: checks 
+Lorpugo: bets 40
+dehol87: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d Kc 6h]
+Seat 1: dehol87 (big blind) folded on the Flop
+Seat 3: Lorpugo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241369845838: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:16:20 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (610 in chips) 
+Seat 3: Lorpugo (890 in chips) 
+dehol87: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7h]
+dehol87: raises 120 to 160
+Lorpugo: folds 
+Uncalled bet (120) returned to dehol87
+dehol87 collected 80 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: dehol87 (button) (small blind) collected (80)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369848722: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:16:27 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (650 in chips) 
+Seat 3: Lorpugo (850 in chips) 
+Lorpugo: posts small blind 20
+dehol87: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 2c]
+Lorpugo: raises 40 to 80
+dehol87: calls 40
+*** FLOP *** [9h 9c Jd]
+dehol87: checks 
+Lorpugo: bets 40
+dehol87: calls 40
+*** TURN *** [9h 9c Jd] [2d]
+dehol87: checks 
+Lorpugo: bets 40
+dehol87: calls 40
+*** RIVER *** [9h 9c Jd 2d] [9s]
+dehol87: checks 
+Lorpugo: bets 40
+dehol87: calls 40
+*** SHOW DOWN ***
+Lorpugo: shows [Ad 2c] (a full house, Nines full of Deuces)
+dehol87: mucks hand 
+Lorpugo collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [9h 9c Jd 2d 9s]
+Seat 1: dehol87 (big blind) mucked [As Qc]
+Seat 3: Lorpugo (button) (small blind) showed [Ad 2c] and won (400) with a full house, Nines full of Deuces
+
+
+
+PokerStars Hand #241369857175: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:16:47 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (450 in chips) 
+Seat 3: Lorpugo (1050 in chips) 
+dehol87: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Js]
+dehol87: raises 80 to 120
+Lorpugo: folds 
+Uncalled bet (80) returned to dehol87
+dehol87 collected 80 from pot
+dehol87: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: dehol87 (button) (small blind) collected (80)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369859953: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:16:53 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (490 in chips) 
+Seat 3: Lorpugo (1010 in chips) 
+Lorpugo: posts small blind 20
+dehol87: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9s]
+Lorpugo: calls 20
+dehol87: checks 
+*** FLOP *** [Ts 8d 9c]
+dehol87: bets 40
+Lorpugo: raises 930 to 970 and is all-in
+dehol87: calls 410 and is all-in
+Uncalled bet (520) returned to Lorpugo
+*** TURN *** [Ts 8d 9c] [4c]
+*** RIVER *** [Ts 8d 9c 4c] [2c]
+*** SHOW DOWN ***
+dehol87: shows [8h 9d] (two pair, Nines and Eights)
+Lorpugo: shows [Ac 9s] (a pair of Nines)
+dehol87 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Ts 8d 9c 4c 2c]
+Seat 1: dehol87 (big blind) showed [8h 9d] and won (980) with two pair, Nines and Eights
+Seat 3: Lorpugo (button) (small blind) showed [Ac 9s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #241369867473: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:17:11 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (980 in chips) 
+Seat 3: Lorpugo (520 in chips) 
+dehol87: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 5h]
+dehol87: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: dehol87 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241369869639: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:17:16 ET
+Table '3537192292 1' 3-max Seat #3 is the button
+Seat 1: dehol87 (960 in chips) 
+Seat 3: Lorpugo (540 in chips) 
+Lorpugo: posts small blind 20
+dehol87: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h As]
+Lorpugo: raises 500 to 540 and is all-in
+dehol87: folds 
+Uncalled bet (500) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: dehol87 (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241369872426: Tournament #3537192292, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:17:23 ET
+Table '3537192292 1' 3-max Seat #1 is the button
+Seat 1: dehol87 (920 in chips) 
+Seat 3: Lorpugo (580 in chips) 
+dehol87: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 5s]
+dehol87: raises 40 to 80
+Lorpugo: calls 40
+*** FLOP *** [Qd 7c 9c]
+Lorpugo: checks 
+dehol87: bets 40
+Lorpugo: calls 40
+*** TURN *** [Qd 7c 9c] [3h]
+Lorpugo: checks 
+dehol87: checks 
+*** RIVER *** [Qd 7c 9c 3h] [Th]
+Lorpugo: checks 
+dehol87: bets 80
+Lorpugo: raises 380 to 460 and is all-in
+dehol87: calls 380
+*** SHOW DOWN ***
+Lorpugo: shows [7s 5s] (a pair of Sevens)
+dehol87: shows [Kd Jc] (a straight, Nine to King)
+dehol87 collected 1160 from pot
+Lorpugo finished the tournament in 2nd place
+dehol87 wins the tournament and receives $0.50 - congratulations!
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [Qd 7c 9c 3h Th]
+Seat 1: dehol87 (button) (small blind) showed [Kd Jc] and won (1160) with a straight, Nine to King
+Seat 3: Lorpugo (big blind) showed [7s 5s] and lost with a pair of Sevens
+
+
+

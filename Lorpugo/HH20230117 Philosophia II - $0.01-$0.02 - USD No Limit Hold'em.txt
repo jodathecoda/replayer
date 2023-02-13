@@ -1,0 +1,3147 @@
+﻿PokerStars Hand #241212919444:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:50:08 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($8.82 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: Umbo1304 ($5.93 in chips) 
+Seat 6: plangers23 ($1.99 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jh]
+ASDARK: folds 
+Monetaty: folds 
+Umbo1304: calls $0.02
+plangers23: folds 
+n0vaspace: raises $0.06 to $0.08
+Lorpugo: calls $0.06
+Umbo1304: calls $0.06
+*** FLOP *** [5c 3c 7c]
+n0vaspace: bets $0.12
+Lorpugo: folds 
+Umbo1304: calls $0.12
+*** TURN *** [5c 3c 7c] [Ah]
+n0vaspace: bets $0.23
+Umbo1304: calls $0.23
+*** RIVER *** [5c 3c 7c Ah] [5d]
+n0vaspace: checks 
+Umbo1304: checks 
+*** SHOW DOWN ***
+n0vaspace: shows [Qc Ks] (a pair of Fives)
+Umbo1304: shows [7d 8s] (two pair, Sevens and Fives)
+Umbo1304 collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.04 
+Board [5c 3c 7c Ah 5d]
+Seat 1: n0vaspace (small blind) showed [Qc Ks] and lost with a pair of Fives
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: Umbo1304 showed [7d 8s] and won ($0.90) with two pair, Sevens and Fives
+Seat 6: plangers23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241212934623:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:50:43 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($8.39 in chips) 
+Seat 2: Lorpugo ($1.52 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: Umbo1304 ($6.40 in chips) 
+Seat 6: plangers23 ($1.99 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 2d]
+Monetaty: folds 
+Umbo1304: calls $0.02
+plangers23: folds 
+n0vaspace: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+ASDARK: folds 
+Umbo1304: calls $0.06
+n0vaspace: calls $0.06
+*** FLOP *** [6h 8s Js]
+Lorpugo: checks 
+Umbo1304: checks 
+n0vaspace: checks 
+*** TURN *** [6h 8s Js] [Ac]
+Lorpugo: checks 
+Umbo1304: checks 
+n0vaspace: checks 
+*** RIVER *** [6h 8s Js Ac] [5c]
+Lorpugo: checks 
+Umbo1304: checks 
+n0vaspace: bets $8.31 and is all-in
+Lorpugo: folds 
+Umbo1304: folds 
+Uncalled bet ($8.31) returned to n0vaspace
+n0vaspace collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6h 8s Js Ac 5c]
+Seat 1: n0vaspace (button) collected ($0.25)
+Seat 2: Lorpugo (small blind) folded on the River
+Seat 3: ASDARK (big blind) folded before Flop
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: Umbo1304 folded on the River
+Seat 6: plangers23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241212956731:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:51:35 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($8.56 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: Umbo1304 ($6.32 in chips) 
+Seat 6: plangers23 ($1.99 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Qc]
+Umbo1304: calls $0.02
+plangers23: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+Umbo1304: calls $0.02
+*** FLOP *** [2d Qh 5s]
+Umbo1304: checks 
+n0vaspace: checks 
+*** TURN *** [2d Qh 5s] [Ah]
+Umbo1304: checks 
+n0vaspace: checks 
+*** RIVER *** [2d Qh 5s Ah] [Kc]
+Umbo1304: bets $0.02
+n0vaspace: raises $0.15 to $0.17
+Umbo1304: folds 
+Uncalled bet ($0.15) returned to n0vaspace
+n0vaspace collected $0.14 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2d Qh 5s Ah Kc]
+Seat 1: n0vaspace collected ($0.14)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 5: Umbo1304 folded on the River
+Seat 6: plangers23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241212970197:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:52:06 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($8.64 in chips) 
+Seat 2: Lorpugo ($1.44 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: Umbo1304 ($6.26 in chips) 
+Seat 6: plangers23 ($1.99 in chips) 
+Monetaty: posts small blind $0.01
+Umbo1304: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 9c]
+plangers23: folds 
+n0vaspace: raises $0.12 to $0.14
+Lorpugo: calls $0.14
+ASDARK: folds 
+Monetaty: folds 
+Umbo1304: calls $0.12
+*** FLOP *** [As Kh Td]
+Umbo1304: bets $0.10
+n0vaspace: calls $0.10
+Lorpugo: folds 
+*** TURN *** [As Kh Td] [5c]
+Umbo1304: bets $0.22
+n0vaspace: calls $0.22
+*** RIVER *** [As Kh Td 5c] [2d]
+Umbo1304: bets $0.10
+n0vaspace: calls $0.10
+*** SHOW DOWN ***
+Umbo1304: shows [9s Ah] (a pair of Aces)
+n0vaspace: mucks hand 
+Umbo1304 collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.05 
+Board [As Kh Td 5c 2d]
+Seat 1: n0vaspace mucked [Jh Jd]
+Seat 2: Lorpugo folded on the Flop
+Seat 3: ASDARK (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 5: Umbo1304 (big blind) showed [9s Ah] and won ($1.22) with a pair of Aces
+Seat 6: plangers23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241212990729:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:52:54 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($8.08 in chips) 
+Seat 2: Lorpugo ($1.30 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: Umbo1304 ($6.92 in chips) 
+Seat 6: plangers23 ($1.99 in chips) 
+Umbo1304: posts small blind $0.01
+plangers23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kc]
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+Umbo1304: calls $0.03
+plangers23: folds 
+*** FLOP *** [5d Js Jc]
+Umbo1304: checks 
+n0vaspace: checks 
+*** TURN *** [5d Js Jc] [Ts]
+Umbo1304: bets $0.08
+n0vaspace: calls $0.08
+*** RIVER *** [5d Js Jc Ts] [Qh]
+Umbo1304: bets $0.06
+n0vaspace: folds 
+Uncalled bet ($0.06) returned to Umbo1304
+Umbo1304 collected $0.25 from pot
+Umbo1304: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5d Js Jc Ts Qh]
+Seat 1: n0vaspace folded on the River
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 5: Umbo1304 (small blind) collected ($0.25)
+Seat 6: plangers23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213004008:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:53:25 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: n0vaspace ($7.96 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: Umbo1304 ($7.05 in chips) 
+Seat 6: plangers23 ($1.97 in chips) 
+plangers23: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Qd]
+Lorpugo: folds 
+ASDARK: raises $0.03 to $0.05
+Monetaty: calls $0.05
+Umbo1304: calls $0.05
+plangers23: folds 
+n0vaspace: folds 
+*** FLOP *** [Td Ad Qh]
+ASDARK: checks 
+Monetaty: checks 
+Umbo1304: checks 
+*** TURN *** [Td Ad Qh] [4s]
+ASDARK: bets $0.09
+Monetaty: calls $0.09
+Umbo1304: folds 
+*** RIVER *** [Td Ad Qh 4s] [3h]
+ASDARK: checks 
+Umbo1304 leaves the table
+Monetaty: bets $0.28
+ASDARK: calls $0.28
+*** SHOW DOWN ***
+Monetaty: shows [As Th] (two pair, Aces and Tens)
+ASDARK: mucks hand 
+Monetaty collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [Td Ad Qh 4s 3h]
+Seat 1: n0vaspace (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK mucked [Qs Kh]
+Seat 4: Monetaty showed [As Th] and won ($0.89) with two pair, Aces and Tens
+Seat 5: Umbo1304 (button) folded on the Turn
+Seat 6: plangers23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213023367:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:54:10 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($7.94 in chips) 
+Seat 2: Lorpugo ($2 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2.47 in chips) 
+Seat 6: plangers23 ($1.96 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 3d]
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K joins the table at seat #5 
+plangers23: raises $0.02 to $0.04
+n0vaspace: raises $0.02 to $0.06
+Lorpugo: folds 
+plangers23: calls $0.02
+*** FLOP *** [8h Ac 4c]
+n0vaspace: checks 
+plangers23: checks 
+*** TURN *** [8h Ac 4c] [5c]
+n0vaspace: checks 
+plangers23: checks 
+*** RIVER *** [8h Ac 4c 5c] [5s]
+n0vaspace: checks 
+plangers23: checks 
+*** SHOW DOWN ***
+n0vaspace: shows [3s Qs] (a pair of Fives)
+plangers23: shows [Jd Ks] (a pair of Fives - Ace+King kicker)
+plangers23 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8h Ac 4c 5c 5s]
+Seat 1: n0vaspace (small blind) showed [3s Qs] and lost with a pair of Fives
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 6: plangers23 (button) showed [Jd Ks] and won ($0.14) with a pair of Fives
+
+
+
+PokerStars Hand #241213033600:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:54:34 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($7.88 in chips) 
+Seat 2: Lorpugo ($1.98 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2.47 in chips) 
+Seat 6: plangers23 ($2.04 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Ac]
+Monetaty: raises $0.04 to $0.06
+plangers23: folds 
+n0vaspace: raises $0.04 to $0.10
+Lorpugo: raises $0.28 to $0.38
+ASDARK: folds 
+Monetaty: calls $0.32
+n0vaspace: folds 
+*** FLOP *** [Kc 8s Ts]
+Lorpugo: bets $0.36
+Monetaty: folds 
+Uncalled bet ($0.36) returned to Lorpugo
+Lorpugo collected $0.85 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [Kc 8s Ts]
+Seat 1: n0vaspace (button) folded before Flop
+Seat 2: Lorpugo (small blind) collected ($0.85)
+Seat 3: ASDARK (big blind) folded before Flop
+Seat 4: Monetaty folded on the Flop
+Seat 6: plangers23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213049930:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:55:14 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($7.78 in chips) 
+Seat 2: Lorpugo ($2.45 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2.09 in chips) 
+Seat 6: plangers23 ($2.04 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ad]
+plangers23: folds 
+n0vaspace: raises $0.06 to $0.08
+Lorpugo: calls $0.08
+ASDARK: folds 
+Monetaty: folds 
+*** FLOP *** [Ts 4c 8h]
+n0vaspace: bets $0.18
+Lorpugo: folds 
+Uncalled bet ($0.18) returned to n0vaspace
+n0vaspace collected $0.18 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ts 4c 8h]
+Seat 1: n0vaspace collected ($0.18)
+Seat 2: Lorpugo (button) folded on the Flop
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 6: plangers23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213056907:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:55:37 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($7.88 in chips) 
+Seat 2: Lorpugo ($2.37 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2.07 in chips) 
+Seat 6: plangers23 ($2.04 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K has timed out
+plangers23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7c]
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: calls $0.03
+plangers23: folds 
+*** FLOP *** [7h 2d Ts]
+Monetaty: checks 
+n0vaspace: bets $0.10
+Monetaty: calls $0.10
+*** TURN *** [7h 2d Ts] [Td]
+T.D.L.D.K is disconnected 
+Monetaty: checks 
+n0vaspace: bets $0.29
+Monetaty: calls $0.29
+*** RIVER *** [7h 2d Ts Td] [5d]
+Monetaty: checks 
+n0vaspace: bets $0.85
+Monetaty: folds 
+Uncalled bet ($0.85) returned to n0vaspace
+n0vaspace collected $0.85 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [7h 2d Ts Td 5d]
+Seat 1: n0vaspace collected ($0.85)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) folded on the River
+Seat 6: plangers23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213068836:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:56:15 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($8.30 in chips) 
+Seat 2: Lorpugo ($2.37 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 6: plangers23 ($2.02 in chips) 
+plangers23: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9d]
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+plangers23: folds 
+Uncalled bet ($0.01) returned to n0vaspace
+n0vaspace collected $0.02 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: n0vaspace (big blind) collected ($0.02)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 6: plangers23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213070624:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:56:21 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($8.31 in chips) 
+Seat 2: Lorpugo ($2.37 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 6: plangers23 ($2.01 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 4c]
+ASDARK: folds 
+Monetaty: folds 
+plangers23: folds 
+n0vaspace: raises $0.08 to $0.10
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to n0vaspace
+n0vaspace collected $0.04 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: n0vaspace (small blind) collected ($0.04)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 6: plangers23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213073736:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:56:31 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($8.33 in chips) 
+Seat 2: Lorpugo ($2.35 in chips) 
+Seat 3: ASDARK ($2 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 6: plangers23 ($2.01 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 6d]
+Monetaty: folds 
+plangers23: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: calls $0.02
+*** FLOP *** [4d As 8s]
+ASDARK: checks 
+n0vaspace: checks 
+*** TURN *** [4d As 8s] [8c]
+ASDARK: checks 
+n0vaspace: checks 
+*** RIVER *** [4d As 8s 8c] [9c]
+ASDARK: bets $0.05
+n0vaspace: folds 
+Uncalled bet ($0.05) returned to ASDARK
+ASDARK collected $0.09 from pot
+ASDARK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4d As 8s 8c 9c]
+Seat 1: n0vaspace (button) folded on the River
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: ASDARK (big blind) collected ($0.09)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 6: plangers23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213082402:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:56:58 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($8.29 in chips) 
+Seat 2: Lorpugo ($2.34 in chips) 
+Seat 3: ASDARK ($2.05 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 6: plangers23 ($2.01 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3c]
+plangers23: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+Uncalled bet ($0.02) returned to n0vaspace
+n0vaspace collected $0.05 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: n0vaspace collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 6: plangers23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213085879:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:57:09 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($8.32 in chips) 
+Seat 2: Lorpugo ($2.34 in chips) 
+Seat 3: ASDARK ($2.04 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Monetaty: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 2h]
+plangers23 leaves the table
+Lorpugo: folds 
+ASDARK: raises $0.03 to $0.05
+Monetaty: folds 
+n0vaspace: calls $0.03
+*** FLOP *** [6h 4s Js]
+n0vaspace: bets $0.11
+chacalay1 joins the table at seat #6 
+ASDARK: calls $0.11
+*** TURN *** [6h 4s Js] [9h]
+n0vaspace: bets $0.16
+T.D.L.D.K is disconnected 
+ASDARK: raises $0.22 to $0.38
+n0vaspace: folds 
+Uncalled bet ($0.22) returned to ASDARK
+ASDARK collected $0.63 from pot
+ASDARK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [6h 4s Js 9h]
+Seat 1: n0vaspace (big blind) folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK (button) collected ($0.63)
+Seat 4: Monetaty (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213104528:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:58:08 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($8 in chips) 
+Seat 2: Lorpugo ($2.34 in chips) 
+Seat 3: ASDARK ($2.35 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Kh]
+ASDARK: folds 
+Monetaty: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+*** FLOP *** [Qs Jh 4c]
+n0vaspace: checks 
+Lorpugo: checks 
+*** TURN *** [Qs Jh 4c] [7d]
+n0vaspace: checks 
+Lorpugo: checks 
+*** RIVER *** [Qs Jh 4c 7d] [6c]
+n0vaspace: bets $7.96 and is all-in
+Lorpugo: folds 
+Uncalled bet ($7.96) returned to n0vaspace
+n0vaspace collected $0.08 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qs Jh 4c 7d 6c]
+Seat 1: n0vaspace (small blind) collected ($0.08)
+Seat 2: Lorpugo (big blind) folded on the River
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213113448:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:58:36 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($8.04 in chips) 
+Seat 2: Lorpugo ($2.30 in chips) 
+Seat 3: ASDARK ($2.35 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7c]
+Monetaty: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Uncalled bet ($0.02) returned to n0vaspace
+n0vaspace collected $0.05 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: n0vaspace (button) collected ($0.05)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: ASDARK (big blind) folded before Flop
+Seat 4: Monetaty folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213117178:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:58:48 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($8.07 in chips) 
+Seat 2: Lorpugo ($2.29 in chips) 
+Seat 3: ASDARK ($2.33 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Qs]
+n0vaspace: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+ASDARK: folds 
+Monetaty: folds 
+*** FLOP *** [5h 7h Ts]
+n0vaspace: bets $0.09
+Lorpugo: calls $0.09
+*** TURN *** [5h 7h Ts] [2s]
+n0vaspace: bets $0.16
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to n0vaspace
+n0vaspace collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5h 7h Ts 2s]
+Seat 1: n0vaspace collected ($0.32)
+Seat 2: Lorpugo (button) folded on the Turn
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213128407:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:59:23 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($8.24 in chips) 
+Seat 2: Lorpugo ($2.14 in chips) 
+Seat 3: ASDARK ($2.32 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 2d]
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+ASDARK: raises $0.16 to $0.20
+Monetaty: folds 
+T.D.L.D.K: folds 
+n0vaspace: folds 
+Lorpugo: folds 
+Uncalled bet ($0.16) returned to ASDARK
+ASDARK collected $0.15 from pot
+ASDARK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: n0vaspace folded before Flop
+Seat 2: Lorpugo folded before Flop
+Seat 3: ASDARK (button) collected ($0.15)
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213136486:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 14:59:48 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($8.20 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: ASDARK ($2.43 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Qd]
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: folds 
+Uncalled bet ($0.02) returned to n0vaspace
+n0vaspace collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: n0vaspace collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213141579:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:00:04 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: n0vaspace ($8.23 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: ASDARK ($2.43 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+chacalay1: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Td]
+Lorpugo has timed out
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: raises $0.04 to $0.06
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: calls $0.04
+*** FLOP *** [Ts 2d 8d]
+n0vaspace: bets $0.13
+Monetaty: calls $0.13
+*** TURN *** [Ts 2d 8d] [6h]
+n0vaspace: bets $0.38
+Monetaty: calls $0.38
+*** RIVER *** [Ts 2d 8d 6h] [Jc]
+n0vaspace: checks 
+Monetaty: bets $0.89
+n0vaspace: folds 
+Uncalled bet ($0.89) returned to Monetaty
+Monetaty collected $1.11 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.04 
+Board [Ts 2d 8d 6h Jc]
+Seat 1: n0vaspace (big blind) folded on the River
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty collected ($1.11)
+Seat 5: T.D.L.D.K (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213162011:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:01:04 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($7.66 in chips) 
+Seat 2: Lorpugo ($2.10 in chips) 
+Seat 3: ASDARK ($2.43 in chips) 
+Seat 4: Monetaty ($2.54 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2s]
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: raises $0.04 to $0.06
+n0vaspace: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [9h 3h 9d]
+n0vaspace: checks 
+chacalay1: checks 
+*** TURN *** [9h 3h 9d] [8h]
+n0vaspace: bets $0.14
+chacalay1: calls $0.14
+*** RIVER *** [9h 3h 9d 8h] [2h]
+n0vaspace: checks 
+chacalay1: checks 
+*** SHOW DOWN ***
+n0vaspace: shows [4d 8d] (two pair, Nines and Eights)
+chacalay1: shows [9s 7s] (three of a kind, Nines)
+chacalay1 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [9h 3h 9d 8h 2h]
+Seat 1: n0vaspace (small blind) showed [4d 8d] and lost with two pair, Nines and Eights
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 (button) showed [9s 7s] and won ($0.41) with three of a kind, Nines
+
+
+
+PokerStars Hand #241213189129:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:02:13 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($7.46 in chips) 
+Seat 2: Lorpugo ($2.08 in chips) 
+Seat 3: ASDARK ($2.43 in chips) 
+Seat 4: Monetaty ($2.54 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.81 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 4s]
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: calls $0.02
+*** FLOP *** [Jd 6d 9h]
+ASDARK: checks 
+n0vaspace: checks 
+*** TURN *** [Jd 6d 9h] [7s]
+ASDARK: checks 
+n0vaspace: checks 
+*** RIVER *** [Jd 6d 9h 7s] [5d]
+ASDARK: checks 
+n0vaspace: checks 
+*** SHOW DOWN ***
+ASDARK: shows [5h 2h] (a pair of Fives)
+n0vaspace: mucks hand 
+ASDARK collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jd 6d 9h 7s 5d]
+Seat 1: n0vaspace (button) mucked [4h Qc]
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: ASDARK (big blind) showed [5h 2h] and won ($0.09) with a pair of Fives
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213208907:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:03:00 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($7.42 in chips) 
+Seat 2: Lorpugo ($2.07 in chips) 
+Seat 3: ASDARK ($2.48 in chips) 
+Seat 4: Monetaty ($2.54 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.81 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ah]
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+ASDARK: folds 
+Monetaty: calls $0.04
+*** FLOP *** [5c Th 8s]
+Monetaty: checks 
+n0vaspace: checks 
+Lorpugo: checks 
+*** TURN *** [5c Th 8s] [Ts]
+Monetaty: bets $0.14
+n0vaspace: calls $0.14
+Lorpugo: folds 
+*** RIVER *** [5c Th 8s Ts] [Jh]
+Monetaty: checks 
+n0vaspace: checks 
+*** SHOW DOWN ***
+Monetaty: shows [As 5h] (two pair, Tens and Fives)
+n0vaspace: mucks hand 
+Monetaty collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5c Th 8s Ts Jh]
+Seat 1: n0vaspace mucked [9h Ac]
+Seat 2: Lorpugo (button) folded on the Turn
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) showed [As 5h] and won ($0.45) with two pair, Tens and Fives
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213225871:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:03:40 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($7.22 in chips) 
+Seat 2: Lorpugo ($2.01 in chips) 
+Seat 3: ASDARK ($2.47 in chips) 
+Seat 4: Monetaty ($2.79 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.81 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2c]
+chacalay1: folds 
+n0vaspace: raises $0.06 to $0.08
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+Uncalled bet ($0.06) returned to n0vaspace
+n0vaspace collected $0.05 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: n0vaspace collected ($0.05)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213234688:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:04:00 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($7.25 in chips) 
+Seat 2: Lorpugo ($2.01 in chips) 
+Seat 3: ASDARK ($2.47 in chips) 
+Seat 4: Monetaty ($2.78 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.81 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ts]
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: calls $0.02
+*** FLOP *** [Jh Ac Ad]
+chacalay1: checks 
+n0vaspace: checks 
+*** TURN *** [Jh Ac Ad] [Th]
+chacalay1: checks 
+n0vaspace: checks 
+*** RIVER *** [Jh Ac Ad Th] [8d]
+chacalay1: checks 
+n0vaspace: checks 
+*** SHOW DOWN ***
+chacalay1: shows [6s 7d] (a pair of Aces)
+n0vaspace: shows [Qh 6h] (a pair of Aces - Queen kicker)
+n0vaspace collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jh Ac Ad Th 8d]
+Seat 1: n0vaspace showed [Qh 6h] and won ($0.09) with a pair of Aces
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) showed [6s 7d] and lost with a pair of Aces
+
+
+
+PokerStars Hand #241213251599:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:04:39 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: n0vaspace ($7.30 in chips) 
+Seat 2: Lorpugo ($2.01 in chips) 
+Seat 3: ASDARK ($2.47 in chips) 
+Seat 4: Monetaty ($2.78 in chips) 
+Seat 5: T.D.L.D.K ($2 in chips) 
+Seat 6: chacalay1 ($1.77 in chips) 
+chacalay1: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ad]
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: raises $0.02 to $0.04
+T.D.L.D.K: raises $0.10 to $0.14
+chacalay1: folds 
+n0vaspace: folds 
+Monetaty: folds 
+Uncalled bet ($0.10) returned to T.D.L.D.K
+T.D.L.D.K collected $0.11 from pot
+T.D.L.D.K: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: n0vaspace (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop
+Seat 5: T.D.L.D.K (button) collected ($0.11)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213262717:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:05:04 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($7.28 in chips) 
+Seat 2: Lorpugo ($2.01 in chips) 
+Seat 3: ASDARK ($2.47 in chips) 
+Seat 4: Monetaty ($2.74 in chips) 
+Seat 5: T.D.L.D.K ($2.07 in chips) 
+Seat 6: chacalay1 ($1.76 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+ASDARK has timed out
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.04 to $0.06
+chacalay1: folds 
+n0vaspace: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [6h 2s 3d]
+n0vaspace: bets $0.14
+T.D.L.D.K: folds 
+Uncalled bet ($0.14) returned to n0vaspace
+n0vaspace collected $0.14 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6h 2s 3d]
+Seat 1: n0vaspace (small blind) collected ($0.14)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded on the Flop
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213278129:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:05:38 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($7.36 in chips) 
+Seat 2: Lorpugo ($1.99 in chips) 
+Seat 3: ASDARK ($2.47 in chips) 
+Seat 4: Monetaty ($2.74 in chips) 
+Seat 5: T.D.L.D.K ($2.01 in chips) 
+Seat 6: chacalay1 ($1.76 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5c]
+Monetaty: folds 
+T.D.L.D.K: raises $0.04 to $0.06
+chacalay1: folds 
+n0vaspace: calls $0.06
+Lorpugo: folds 
+ASDARK: folds 
+*** FLOP *** [2c 6c As]
+T.D.L.D.K: bets $0.11
+n0vaspace: calls $0.11
+*** TURN *** [2c 6c As] [2s]
+T.D.L.D.K: bets $0.30
+n0vaspace: folds 
+Uncalled bet ($0.30) returned to T.D.L.D.K
+T.D.L.D.K collected $0.36 from pot
+T.D.L.D.K: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2c 6c As 2s]
+Seat 1: n0vaspace (button) folded on the Turn
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: ASDARK (big blind) folded before Flop
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K collected ($0.36)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213292285:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:06:08 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($7.19 in chips) 
+Seat 2: Lorpugo ($1.98 in chips) 
+Seat 3: ASDARK ($2.45 in chips) 
+Seat 4: Monetaty ($2.74 in chips) 
+Seat 5: T.D.L.D.K ($2.20 in chips) 
+Seat 6: chacalay1 ($1.76 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 7d]
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: raises $0.11 to $0.15
+ASDARK: folds 
+Monetaty: folds 
+n0vaspace: calls $0.11
+*** FLOP *** [2d 8h Qc]
+n0vaspace: checks 
+Lorpugo: bets $0.21
+n0vaspace: folds 
+Uncalled bet ($0.21) returned to Lorpugo
+Lorpugo collected $0.32 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2d 8h Qc]
+Seat 1: n0vaspace folded on the Flop
+Seat 2: Lorpugo (button) collected ($0.32)
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213303818:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:06:34 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($7.04 in chips) 
+Seat 2: Lorpugo ($2.15 in chips) 
+Seat 3: ASDARK ($2.44 in chips) 
+Seat 4: Monetaty ($2.72 in chips) 
+Seat 5: T.D.L.D.K ($2.20 in chips) 
+Seat 6: chacalay1 ($1.76 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 9c]
+chacalay1: folds 
+n0vaspace: raises $0.08 to $0.10
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: calls $0.09
+T.D.L.D.K: folds 
+*** FLOP *** [2h As 4h]
+Monetaty: checks 
+n0vaspace: bets $0.21
+Monetaty: calls $0.21
+*** TURN *** [2h As 4h] [Ks]
+Monetaty: checks 
+n0vaspace: bets $6.73 and is all-in
+Monetaty: folds 
+Uncalled bet ($6.73) returned to n0vaspace
+n0vaspace collected $0.62 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [2h As 4h Ks]
+Seat 1: n0vaspace collected ($0.62)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) folded on the Turn
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213321701:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:07:13 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($7.35 in chips) 
+Seat 2: Lorpugo ($2.15 in chips) 
+Seat 3: ASDARK ($2.44 in chips) 
+Seat 4: Monetaty ($2.41 in chips) 
+Seat 5: T.D.L.D.K ($2.18 in chips) 
+Seat 6: chacalay1 ($1.76 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6s]
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.08 to $0.12
+chacalay1: folds 
+n0vaspace: calls $0.08
+*** FLOP *** [5h Jd 2d]
+T.D.L.D.K: checks 
+n0vaspace: bets $0.25
+T.D.L.D.K: folds 
+Uncalled bet ($0.25) returned to n0vaspace
+n0vaspace collected $0.25 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5h Jd 2d]
+Seat 1: n0vaspace collected ($0.25)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (small blind) folded on the Flop
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213338816:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:07:50 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: n0vaspace ($7.48 in chips) 
+Seat 2: Lorpugo ($2.15 in chips) 
+Seat 3: ASDARK ($2.44 in chips) 
+Seat 4: Monetaty ($2.41 in chips) 
+Seat 5: T.D.L.D.K ($2.06 in chips) 
+Seat 6: chacalay1 ($1.74 in chips) 
+chacalay1: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8s]
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.04 to $0.06
+chacalay1: raises $0.18 to $0.24
+n0vaspace: calls $0.22
+T.D.L.D.K: calls $0.18
+*** FLOP *** [Qd 7c 7s]
+chacalay1: bets $0.20
+n0vaspace: folds 
+T.D.L.D.K: raises $0.38 to $0.58
+chacalay1: folds 
+Uncalled bet ($0.38) returned to T.D.L.D.K
+T.D.L.D.K collected $1.08 from pot
+T.D.L.D.K: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.04 
+Board [Qd 7c 7s]
+Seat 1: n0vaspace (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (button) collected ($1.08)
+Seat 6: chacalay1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241213362365:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:08:42 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($7.24 in chips) 
+Seat 2: Lorpugo ($2.15 in chips) 
+Seat 3: ASDARK ($2.44 in chips) 
+Seat 4: Monetaty ($2.41 in chips) 
+Seat 5: T.D.L.D.K ($2.70 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 2c]
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: raises $0.04 to $0.06
+n0vaspace: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [6s 3c Qd]
+n0vaspace: checks 
+chacalay1: checks 
+*** TURN *** [6s 3c Qd] [Js]
+n0vaspace: checks 
+chacalay1: bets $0.06
+n0vaspace: calls $0.06
+*** RIVER *** [6s 3c Qd Js] [7c]
+n0vaspace: checks 
+chacalay1: checks 
+*** SHOW DOWN ***
+n0vaspace: shows [5c Kd] (high card King)
+chacalay1: mucks hand 
+n0vaspace collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6s 3c Qd Js 7c]
+Seat 1: n0vaspace (small blind) showed [5c Kd] and won ($0.25) with high card King
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 (button) mucked [8c Tc]
+
+
+
+PokerStars Hand #241213379951:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:09:20 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($7.37 in chips) 
+Seat 2: Lorpugo ($2.13 in chips) 
+Seat 3: ASDARK ($2.44 in chips) 
+Seat 4: Monetaty ($2.41 in chips) 
+Seat 5: T.D.L.D.K ($2.70 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 6s]
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: calls $0.02
+*** FLOP *** [Ks As 3s]
+ASDARK: checks 
+n0vaspace: checks 
+*** TURN *** [Ks As 3s] [Ah]
+ASDARK: bets $0.05
+n0vaspace: raises $0.05 to $0.10
+ASDARK: calls $0.05
+*** RIVER *** [Ks As 3s Ah] [Jh]
+ASDARK: checks 
+n0vaspace: checks 
+*** SHOW DOWN ***
+ASDARK: shows [7d 8s] (a pair of Aces)
+n0vaspace: shows [2c 2h] (two pair, Aces and Deuces)
+n0vaspace collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ks As 3s Ah Jh]
+Seat 1: n0vaspace (button) showed [2c 2h] and won ($0.28) with two pair, Aces and Deuces
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: ASDARK (big blind) showed [7d 8s] and lost with a pair of Aces
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213396350:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:09:55 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($7.51 in chips) 
+Seat 2: Lorpugo ($2.12 in chips) 
+Seat 3: ASDARK ($2.30 in chips) 
+Seat 4: Monetaty ($2.41 in chips) 
+Seat 5: T.D.L.D.K ($2.70 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4c]
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: raises $0.08 to $0.10
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: calls $0.08
+*** FLOP *** [Kc Ah 3d]
+Monetaty: checks 
+n0vaspace: bets $0.20
+Monetaty: folds 
+Uncalled bet ($0.20) returned to n0vaspace
+n0vaspace collected $0.20 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Kc Ah 3d]
+Seat 1: n0vaspace collected ($0.20)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded on the Flop
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213405593:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:10:15 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($7.61 in chips) 
+Seat 2: Lorpugo ($2.12 in chips) 
+Seat 3: ASDARK ($2.29 in chips) 
+Seat 4: Monetaty ($2.31 in chips) 
+Seat 5: T.D.L.D.K ($2.70 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5s]
+chacalay1: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+ASDARK: calls $0.04
+Monetaty: folds 
+T.D.L.D.K: folds 
+*** FLOP *** [Th Qc Jd]
+n0vaspace: checks 
+Lorpugo: checks 
+ASDARK: checks 
+*** TURN *** [Th Qc Jd] [9h]
+n0vaspace: checks 
+Lorpugo: checks 
+ASDARK: checks 
+*** RIVER *** [Th Qc Jd 9h] [Td]
+n0vaspace: bets $0.14
+Lorpugo: folds 
+ASDARK: folds 
+Uncalled bet ($0.14) returned to n0vaspace
+n0vaspace collected $0.14 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Th Qc Jd 9h Td]
+Seat 1: n0vaspace collected ($0.14)
+Seat 2: Lorpugo folded on the River
+Seat 3: ASDARK (button) folded on the River
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213423983:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:10:55 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($7.71 in chips) 
+Seat 2: Lorpugo ($2.08 in chips) 
+Seat 3: ASDARK ($2.25 in chips) 
+Seat 4: Monetaty ($2.30 in chips) 
+Seat 5: T.D.L.D.K ($2.68 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8d]
+n0vaspace: folds 
+Lorpugo: folds 
+ASDARK: raises $0.03 to $0.05
+Monetaty: calls $0.05
+T.D.L.D.K: folds 
+chacalay1: folds 
+*** FLOP *** [Th 3s 3h]
+ASDARK: bets $0.08
+Monetaty: folds 
+Uncalled bet ($0.08) returned to ASDARK
+ASDARK collected $0.13 from pot
+ASDARK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th 3s 3h]
+Seat 1: n0vaspace folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK collected ($0.13)
+Seat 4: Monetaty (button) folded on the Flop
+Seat 5: T.D.L.D.K (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213435798:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:11:20 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: n0vaspace ($7.71 in chips) 
+Seat 2: Lorpugo ($2.08 in chips) 
+Seat 3: ASDARK ($2.33 in chips) 
+Seat 4: Monetaty ($2.25 in chips) 
+Seat 5: T.D.L.D.K ($2.67 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+chacalay1: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Qc]
+Lorpugo: raises $0.03 to $0.05
+ASDARK: folds 
+Monetaty: calls $0.05
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: raises $0.05 to $0.10
+Lorpugo: calls $0.05
+Monetaty: calls $0.05
+*** FLOP *** [Ah 4d 9h]
+n0vaspace: checks 
+Lorpugo: bets $0.15
+Monetaty: calls $0.15
+n0vaspace: folds 
+*** TURN *** [Ah 4d 9h] [2s]
+Lorpugo: bets $0.96
+Monetaty: folds 
+Uncalled bet ($0.96) returned to Lorpugo
+Lorpugo collected $0.59 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Ah 4d 9h 2s]
+Seat 1: n0vaspace (big blind) folded on the Flop
+Seat 2: Lorpugo collected ($0.59)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded on the Turn
+Seat 5: T.D.L.D.K (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213461461:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:12:16 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($7.61 in chips) 
+Seat 2: Lorpugo ($2.42 in chips) 
+Seat 3: ASDARK ($2.33 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.67 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 5s]
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.04 to $0.06
+chacalay1: folds 
+n0vaspace: calls $0.05
+Lorpugo: folds 
+*** FLOP *** [5h 3d 2s]
+n0vaspace: bets $0.14
+T.D.L.D.K: folds 
+Uncalled bet ($0.14) returned to n0vaspace
+n0vaspace collected $0.14 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5h 3d 2s]
+Seat 1: n0vaspace (small blind) collected ($0.14)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded on the Flop
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213473803:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:12:42 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: n0vaspace ($7.69 in chips) 
+Seat 2: Lorpugo ($2.40 in chips) 
+Seat 3: ASDARK ($2.33 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.61 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6c]
+Monetaty: raises $0.04 to $0.06
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: calls $0.06
+Lorpugo: calls $0.05
+ASDARK: folds 
+*** FLOP *** [5h 6s Qc]
+Lorpugo: checks 
+Monetaty: checks 
+n0vaspace: checks 
+*** TURN *** [5h 6s Qc] [Qs]
+Lorpugo: bets $0.13
+Monetaty: calls $0.13
+n0vaspace: folds 
+*** RIVER *** [5h 6s Qc Qs] [Jd]
+Lorpugo: bets $2.21 and is all-in
+Monetaty: folds 
+Uncalled bet ($2.21) returned to Lorpugo
+Lorpugo collected $0.44 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [5h 6s Qc Qs Jd]
+Seat 1: n0vaspace (button) folded on the Turn
+Seat 2: Lorpugo (small blind) collected ($0.44)
+Seat 3: ASDARK (big blind) folded before Flop
+Seat 4: Monetaty folded on the River
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213496269:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:13:30 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: n0vaspace ($7.63 in chips) 
+Seat 2: Lorpugo ($2.65 in chips) 
+Seat 3: ASDARK ($2.31 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.61 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9d]
+T.D.L.D.K: folds 
+chacalay1: raises $0.08 to $0.10
+n0vaspace: calls $0.10
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+*** FLOP *** [Ah Ks 7h]
+chacalay1: bets $0.10
+n0vaspace: calls $0.10
+*** TURN *** [Ah Ks 7h] [Ts]
+chacalay1: checks 
+n0vaspace: bets $0.41
+chacalay1: folds 
+Uncalled bet ($0.41) returned to n0vaspace
+n0vaspace collected $0.41 from pot
+n0vaspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Ah Ks 7h Ts]
+Seat 1: n0vaspace collected ($0.41)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded on the Turn
+
+
+
+PokerStars Hand #241213521003:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:14:23 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: n0vaspace ($7.84 in chips) 
+Seat 2: Lorpugo ($2.65 in chips) 
+Seat 3: ASDARK ($2.30 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.61 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 8c]
+chacalay1: folds 
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: calls $0.03
+T.D.L.D.K: folds 
+*** FLOP *** [Kh Jc 3h]
+Monetaty: bets $0.10
+n0vaspace: folds 
+Uncalled bet ($0.10) returned to Monetaty
+Monetaty collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kh Jc 3h]
+Seat 1: n0vaspace folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) collected ($0.10)
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213530619:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:14:44 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: n0vaspace ($7.80 in chips) 
+Seat 2: Lorpugo ($2.65 in chips) 
+Seat 3: ASDARK ($2.30 in chips) 
+Seat 4: Monetaty ($2.06 in chips) 
+Seat 5: T.D.L.D.K ($2.59 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 6d]
+n0vaspace: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+ASDARK: folds 
+Monetaty: calls $0.04
+T.D.L.D.K: folds 
+chacalay1: calls $0.02
+*** FLOP *** [5h 9h 8s]
+chacalay1: checks 
+n0vaspace: checks 
+Lorpugo: bets $0.05
+Monetaty: raises $0.08 to $0.13
+chacalay1: folds 
+n0vaspace: calls $0.13
+Lorpugo: folds 
+*** TURN *** [5h 9h 8s] [6s]
+n0vaspace: checks 
+Monetaty: checks 
+*** RIVER *** [5h 9h 8s 6s] [8h]
+n0vaspace: checks 
+Monetaty: checks 
+*** SHOW DOWN ***
+n0vaspace: shows [6h Qd] (two pair, Eights and Sixes)
+Monetaty: mucks hand 
+n0vaspace collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [5h 9h 8s 6s 8h]
+Seat 1: n0vaspace showed [6h Qd] and won ($0.46) with two pair, Eights and Sixes
+Seat 2: Lorpugo folded on the Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) mucked [Js Tc]
+Seat 5: T.D.L.D.K (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241213552781:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:15:32 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: n0vaspace ($8.09 in chips) 
+Seat 2: Lorpugo ($2.56 in chips) 
+Seat 3: ASDARK ($2.30 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.58 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+chacalay1: posts small blind $0.01
+n0vaspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 4h]
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: raises $0.04 to $0.06
+T.D.L.D.K: calls $0.06
+chacalay1: folds 
+n0vaspace: calls $0.04
+*** FLOP *** [9s 7c Kh]
+n0vaspace: checks 
+Monetaty: bets $0.14
+T.D.L.D.K: folds 
+n0vaspace: folds 
+Uncalled bet ($0.14) returned to Monetaty
+Monetaty collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9s 7c Kh]
+Seat 1: n0vaspace (big blind) folded on the Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty collected ($0.18)
+Seat 5: T.D.L.D.K (button) folded on the Flop
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213567775:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:16:05 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: n0vaspace ($8.03 in chips) 
+Seat 2: Lorpugo ($2.56 in chips) 
+Seat 3: ASDARK ($2.30 in chips) 
+Seat 4: Monetaty ($2.12 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+n0vaspace: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Qh]
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: folds 
+n0vaspace: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+n0vaspace leaves the table
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: n0vaspace (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213572840:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:16:16 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 2: Lorpugo ($2.57 in chips) 
+Seat 3: ASDARK ($2.30 in chips) 
+Seat 4: Monetaty ($2.12 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.60 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qh]
+T.D.L.D.K: folds 
+B4ckyardign joins the table at seat #1 
+chacalay1: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+ASDARK: folds 
+Monetaty: calls $0.04
+*** FLOP *** [Td Js 8c]
+Monetaty: checks 
+chacalay1: checks 
+Lorpugo: checks 
+*** TURN *** [Td Js 8c] [Th]
+Monetaty: checks 
+chacalay1: bets $1.54 and is all-in
+Lorpugo: folds 
+Monetaty: folds 
+Uncalled bet ($1.54) returned to chacalay1
+chacalay1 collected $0.18 from pot
+chacalay1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Td Js 8c Th]
+Seat 2: Lorpugo (button) folded on the Turn
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) folded on the Turn
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 collected ($0.18)
+
+
+
+PokerStars Hand #241213596649:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:17:07 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 2: Lorpugo ($2.51 in chips) 
+Seat 3: ASDARK ($2.29 in chips) 
+Seat 4: Monetaty ($2.06 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.72 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 8h]
+chacalay1: folds 
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: raises $0.04 to $0.06
+T.D.L.D.K: folds 
+Uncalled bet ($0.04) returned to Monetaty
+Monetaty collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) collected ($0.04)
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213606380:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:17:28 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 2: Lorpugo ($2.51 in chips) 
+Seat 3: ASDARK ($2.29 in chips) 
+Seat 4: Monetaty ($2.08 in chips) 
+Seat 5: T.D.L.D.K ($2.50 in chips) 
+Seat 6: chacalay1 ($1.72 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ts]
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.03 to $0.05
+chacalay1: folds 
+Uncalled bet ($0.03) returned to T.D.L.D.K
+T.D.L.D.K collected $0.04 from pot
+T.D.L.D.K: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (small blind) collected ($0.04)
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213616475:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:17:50 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: B4ckyardign ($2 in chips) 
+Seat 2: Lorpugo ($2.51 in chips) 
+Seat 3: ASDARK ($2.29 in chips) 
+Seat 4: Monetaty ($2.08 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.70 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ah]
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: calls $0.01
+B4ckyardign: raises $0.06 to $0.08
+chacalay1: calls $0.06
+*** FLOP *** [5h As Qd]
+chacalay1: checks 
+B4ckyardign: bets $0.05
+chacalay1: folds 
+Uncalled bet ($0.05) returned to B4ckyardign
+B4ckyardign collected $0.15 from pot
+B4ckyardign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [5h As Qd]
+Seat 1: B4ckyardign (big blind) collected ($0.15)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241213632267:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:18:24 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: B4ckyardign ($2.07 in chips) 
+Seat 2: Lorpugo ($2.51 in chips) 
+Seat 3: ASDARK ($2.29 in chips) 
+Seat 4: Monetaty ($2.08 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.62 in chips) 
+B4ckyardign: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4d]
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.04 to $0.06
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to T.D.L.D.K
+T.D.L.D.K collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: B4ckyardign (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K collected ($0.05)
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213641943:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:18:44 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: B4ckyardign ($2.06 in chips) 
+Seat 2: Lorpugo ($2.49 in chips) 
+Seat 3: ASDARK ($2.29 in chips) 
+Seat 4: Monetaty ($2.08 in chips) 
+Seat 5: T.D.L.D.K ($2.55 in chips) 
+Seat 6: chacalay1 ($1.62 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Th]
+Monetaty: folds 
+T.D.L.D.K has timed out
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+ASDARK: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: B4ckyardign (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 3: ASDARK (big blind) folded before Flop
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213652803:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:19:08 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: B4ckyardign ($2.06 in chips) 
+Seat 2: Lorpugo ($2.51 in chips) 
+Seat 3: ASDARK ($2.27 in chips) 
+Seat 4: Monetaty ($2.08 in chips) 
+Seat 5: T.D.L.D.K ($2.55 in chips) 
+Seat 6: chacalay1 ($1.62 in chips) 
+ASDARK: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Jh]
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+ASDARK: folds 
+Monetaty: raises $0.13 to $0.18
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to Monetaty
+Monetaty collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop
+Seat 3: ASDARK (small blind) folded before Flop
+Seat 4: Monetaty (big blind) collected ($0.11)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213665562:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:19:35 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: B4ckyardign ($2.06 in chips) 
+Seat 2: Lorpugo ($2.46 in chips) 
+Seat 3: ASDARK ($2.26 in chips) 
+Seat 4: Monetaty ($2.14 in chips) 
+Seat 5: T.D.L.D.K ($2.55 in chips) 
+Seat 6: chacalay1 ($1.62 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 2c]
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: folds 
+ASDARK: raises $0.03 to $0.05
+Monetaty: folds 
+T.D.L.D.K: folds 
+Uncalled bet ($0.03) returned to ASDARK
+ASDARK collected $0.05 from pot
+ASDARK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK (button) collected ($0.05)
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213671832:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:19:49 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: B4ckyardign ($2.06 in chips) 
+Seat 2: Lorpugo ($2.46 in chips) 
+Seat 3: ASDARK ($2.29 in chips) 
+Seat 4: Monetaty ($2.13 in chips) 
+Seat 5: T.D.L.D.K ($2.53 in chips) 
+Seat 6: chacalay1 ($1.62 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ks]
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+ASDARK: raises $0.13 to $0.18
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: raises $1.44 to $1.62 and is all-in
+Lorpugo: folds 
+ASDARK: folds 
+Uncalled bet ($1.44) returned to chacalay1
+chacalay1 collected $0.42 from pot
+chacalay1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop
+Seat 3: ASDARK folded before Flop
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) collected ($0.42)
+
+
+
+PokerStars Hand #241213683913:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:20:14 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: B4ckyardign ($2.06 in chips) 
+Seat 2: Lorpugo ($2.41 in chips) 
+Seat 3: ASDARK ($2.11 in chips) 
+Seat 4: Monetaty ($2.13 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.86 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9d]
+Lorpugo: folds 
+ASDARK: folds 
+Monetaty: raises $0.04 to $0.06
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Uncalled bet ($0.04) returned to Monetaty
+Monetaty collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: B4ckyardign (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty collected ($0.05)
+Seat 5: T.D.L.D.K (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213691863:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:20:32 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: B4ckyardign ($2.04 in chips) 
+Seat 2: Lorpugo ($2.41 in chips) 
+Seat 3: ASDARK ($2.11 in chips) 
+Seat 4: Monetaty ($2.16 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.85 in chips) 
+B4ckyardign: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9c]
+ASDARK: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: B4ckyardign (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.02)
+Seat 3: ASDARK folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213697893:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:20:44 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: B4ckyardign ($2.03 in chips) 
+Seat 2: Lorpugo ($2.42 in chips) 
+Seat 4: Monetaty ($2.16 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.85 in chips) 
+Lorpugo: posts small blind $0.01
+ASDARK has timed out
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Js]
+T.D.L.D.K: folds 
+chacalay1: raises $0.04 to $0.06
+B4ckyardign: folds 
+Lorpugo: calls $0.05
+Monetaty: folds 
+*** FLOP *** [3d 9s 6h]
+Lorpugo: checks 
+chacalay1: bets $0.14
+ASDARK is disconnected 
+Lorpugo: folds 
+Uncalled bet ($0.14) returned to chacalay1
+chacalay1 collected $0.14 from pot
+chacalay1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3d 9s 6h]
+Seat 1: B4ckyardign (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 collected ($0.14)
+
+
+
+PokerStars Hand #241213713779:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:21:19 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: B4ckyardign ($2.03 in chips) 
+Seat 2: Lorpugo ($2.36 in chips) 
+Seat 4: Monetaty ($2.14 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.93 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Th]
+chacalay1: raises $0.04 to $0.06
+B4ckyardign: folds 
+Lorpugo: folds 
+Monetaty: folds 
+T.D.L.D.K: calls $0.04
+*** FLOP *** [Qh 8s Td]
+T.D.L.D.K: checks 
+chacalay1: bets $0.12
+T.D.L.D.K: folds 
+Uncalled bet ($0.12) returned to chacalay1
+chacalay1 collected $0.13 from pot
+chacalay1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh 8s Td]
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 5: T.D.L.D.K (big blind) folded on the Flop
+Seat 6: chacalay1 collected ($0.13)
+
+
+
+PokerStars Hand #241213727475:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:21:48 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: B4ckyardign ($2.03 in chips) 
+Seat 2: Lorpugo ($2.36 in chips) 
+Seat 4: Monetaty ($2.13 in chips) 
+Seat 5: T.D.L.D.K ($2.46 in chips) 
+Seat 6: chacalay1 ($2 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 9d]
+B4ckyardign: folds 
+Lorpugo: folds 
+Monetaty: raises $0.04 to $0.06
+T.D.L.D.K: folds 
+chacalay1: folds 
+Uncalled bet ($0.04) returned to Monetaty
+Monetaty collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: Monetaty (button) collected ($0.05)
+Seat 5: T.D.L.D.K (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213737736:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:22:10 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: B4ckyardign ($2.03 in chips) 
+Seat 2: Lorpugo ($2.36 in chips) 
+Seat 4: Monetaty ($2.16 in chips) 
+Seat 5: T.D.L.D.K ($2.45 in chips) 
+Seat 6: chacalay1 ($1.98 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Tc]
+Lorpugo: folds 
+Monetaty: raises $0.04 to $0.06
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: raises $0.18 to $0.24
+Monetaty: calls $0.18
+*** FLOP *** [Jd Ts 6h]
+B4ckyardign: bets $0.16
+Monetaty: calls $0.16
+*** TURN *** [Jd Ts 6h] [Ac]
+B4ckyardign: bets $0.26
+Monetaty: folds 
+Uncalled bet ($0.26) returned to B4ckyardign
+B4ckyardign collected $0.78 from pot
+B4ckyardign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [Jd Ts 6h Ac]
+Seat 1: B4ckyardign (big blind) collected ($0.78)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: Monetaty folded on the Turn
+Seat 5: T.D.L.D.K (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213761650:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:23:01 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: B4ckyardign ($2.41 in chips) 
+Seat 2: Lorpugo ($2.36 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.45 in chips) 
+Seat 6: chacalay1 ($1.97 in chips) 
+B4ckyardign: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Td]
+Monetaty: folds 
+T.D.L.D.K: raises $0.04 to $0.06
+chacalay1: calls $0.06
+B4ckyardign: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Ah Jh 7d]
+Lorpugo: checks 
+T.D.L.D.K: bets $0.14
+chacalay1: calls $0.14
+Lorpugo: folds 
+*** TURN *** [Ah Jh 7d] [5d]
+T.D.L.D.K: bets $0.38
+chacalay1: folds 
+Uncalled bet ($0.38) returned to T.D.L.D.K
+T.D.L.D.K collected $0.45 from pot
+T.D.L.D.K: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Ah Jh 7d 5d]
+Seat 1: B4ckyardign (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K collected ($0.45)
+Seat 6: chacalay1 (button) folded on the Turn
+
+
+
+PokerStars Hand #241213783234:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:23:48 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: B4ckyardign ($2.40 in chips) 
+Seat 2: Lorpugo ($2.30 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.70 in chips) 
+Seat 6: chacalay1 ($1.77 in chips) 
+Lorpugo: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7d]
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+Monetaty: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: B4ckyardign (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213789301:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:24:01 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: B4ckyardign ($2.40 in chips) 
+Seat 2: Lorpugo ($2.32 in chips) 
+Seat 4: Monetaty ($2 in chips) 
+Seat 5: T.D.L.D.K ($2.70 in chips) 
+Seat 6: chacalay1 ($1.77 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ah]
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+Monetaty: raises $0.13 to $0.18
+T.D.L.D.K: folds 
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to Monetaty
+Monetaty collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) folded before Flop
+Seat 4: Monetaty (small blind) collected ($0.12)
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213807253:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:24:39 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: B4ckyardign ($2.40 in chips) 
+Seat 2: Lorpugo ($2.27 in chips) 
+Seat 4: Monetaty ($2.07 in chips) 
+Seat 5: T.D.L.D.K ($2.68 in chips) 
+Seat 6: chacalay1 ($1.77 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4h]
+B4ckyardign: folds 
+Lorpugo: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.03 to $0.05
+chacalay1: calls $0.03
+*** FLOP *** [5c 8c 4d]
+T.D.L.D.K: checks 
+chacalay1: checks 
+*** TURN *** [5c 8c 4d] [9s]
+T.D.L.D.K: checks 
+chacalay1: checks 
+*** RIVER *** [5c 8c 4d 9s] [2s]
+T.D.L.D.K: checks 
+chacalay1: checks 
+*** SHOW DOWN ***
+T.D.L.D.K: shows [Ad Kc] (high card Ace)
+chacalay1: shows [6h 8h] (a pair of Eights)
+chacalay1 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5c 8c 4d 9s 2s]
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (small blind) showed [Ad Kc] and lost with high card Ace
+Seat 6: chacalay1 (big blind) showed [6h 8h] and won ($0.10) with a pair of Eights
+
+
+
+PokerStars Hand #241213826701:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:25:21 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: B4ckyardign ($2.40 in chips) 
+Seat 2: Lorpugo ($2.27 in chips) 
+Seat 4: Monetaty ($2.07 in chips) 
+Seat 5: T.D.L.D.K ($2.63 in chips) 
+Seat 6: chacalay1 ($1.82 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 9d]
+Lorpugo: folds 
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: raises $0.04 to $0.06
+B4ckyardign: folds 
+Uncalled bet ($0.04) returned to chacalay1
+chacalay1 collected $0.04 from pot
+chacalay1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: B4ckyardign (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #241213835282:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:25:40 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: B4ckyardign ($2.38 in chips) 
+Seat 2: Lorpugo ($2.27 in chips) 
+Seat 4: Monetaty ($2.07 in chips) 
+Seat 5: T.D.L.D.K ($2.63 in chips) 
+Seat 6: chacalay1 ($1.84 in chips) 
+B4ckyardign: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Kd]
+Monetaty: folds 
+T.D.L.D.K: raises $0.04 to $0.06
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.13 to $0.19
+T.D.L.D.K: raises $0.43 to $0.62
+Lorpugo: raises $1.65 to $2.27 and is all-in
+T.D.L.D.K: calls $1.65
+*** FLOP *** [9d 3h 3c]
+*** TURN *** [9d 3h 3c] [2d]
+*** RIVER *** [9d 3h 3c 2d] [7c]
+*** SHOW DOWN ***
+Lorpugo: shows [Kc Kd] (two pair, Kings and Threes)
+T.D.L.D.K: shows [Kh Ks] (two pair, Kings and Threes)
+Lorpugo collected $2.20 from pot
+T.D.L.D.K collected $2.19 from pot
+*** SUMMARY ***
+Total pot $4.55 | Rake $0.16 
+Board [9d 3h 3c 2d 7c]
+Seat 1: B4ckyardign (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Kc Kd] and won ($2.20) with two pair, Kings and Threes
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K showed [Kh Ks] and won ($2.19) with two pair, Kings and Threes
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213857381:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:26:28 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: B4ckyardign ($2.37 in chips) 
+Seat 2: Lorpugo ($2.20 in chips) 
+Seat 4: Monetaty ($2.07 in chips) 
+Seat 5: T.D.L.D.K ($2.55 in chips) 
+Seat 6: chacalay1 ($1.84 in chips) 
+Lorpugo: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8h]
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+Monetaty: raises $0.11 to $0.16
+Lorpugo: calls $0.11
+*** FLOP *** [9s 5h 8d]
+Lorpugo: checks 
+Monetaty: bets $0.25
+Lorpugo: calls $0.25
+*** TURN *** [9s 5h 8d] [4d]
+Lorpugo: checks 
+Monetaty: bets $0.68
+Lorpugo: folds 
+Uncalled bet ($0.68) returned to Monetaty
+Monetaty collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [9s 5h 8d 4d]
+Seat 1: B4ckyardign (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 4: Monetaty (big blind) collected ($0.79)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213871958:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:26:59 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: B4ckyardign ($2.37 in chips) 
+Seat 2: Lorpugo ($1.79 in chips) 
+Seat 4: Monetaty ($2.45 in chips) 
+Seat 5: T.D.L.D.K ($2.55 in chips) 
+Seat 6: chacalay1 ($1.84 in chips) 
+Monetaty: posts small blind $0.01
+T.D.L.D.K: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9h]
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+Monetaty: folds 
+T.D.L.D.K: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.05)
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 5: T.D.L.D.K (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213880206:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:27:17 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: B4ckyardign ($2.37 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 4: Monetaty ($2.44 in chips) 
+Seat 5: T.D.L.D.K ($2.53 in chips) 
+Seat 6: chacalay1 ($1.84 in chips) 
+T.D.L.D.K: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 6h]
+B4ckyardign: raises $0.04 to $0.06
+Lorpugo: folds 
+Monetaty: calls $0.06
+T.D.L.D.K: folds 
+chacalay1: folds 
+*** FLOP *** [3h 4h 3c]
+B4ckyardign: bets $0.05
+Monetaty: raises $0.19 to $0.24
+B4ckyardign: calls $0.19
+*** TURN *** [3h 4h 3c] [6d]
+B4ckyardign: checks 
+Monetaty: bets $0.49
+B4ckyardign: folds 
+Uncalled bet ($0.49) returned to Monetaty
+Monetaty collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [3h 4h 3c 6d]
+Seat 1: B4ckyardign folded on the Turn
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: Monetaty (button) collected ($0.61)
+Seat 5: T.D.L.D.K (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213914727:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:28:31 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: B4ckyardign ($2.07 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 4: Monetaty ($2.75 in chips) 
+Seat 5: T.D.L.D.K ($2.52 in chips) 
+Seat 6: chacalay1 ($1.82 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9h]
+Lorpugo: folds 
+Monetaty: folds 
+T.D.L.D.K: raises $0.03 to $0.05
+chacalay1: raises $0.19 to $0.24
+B4ckyardign: folds 
+T.D.L.D.K: folds 
+Uncalled bet ($0.19) returned to chacalay1
+chacalay1 collected $0.12 from pot
+chacalay1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: B4ckyardign (big blind) folded before Flop
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K (button) folded before Flop
+Seat 6: chacalay1 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #241213927624:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:28:59 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: B4ckyardign ($2.05 in chips) 
+Seat 2: Lorpugo ($1.82 in chips) 
+Seat 4: Monetaty ($2.75 in chips) 
+Seat 5: T.D.L.D.K ($2.47 in chips) 
+Seat 6: chacalay1 ($1.89 in chips) 
+B4ckyardign: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ah]
+Monetaty: folds 
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: raises $0.03 to $0.05
+Lorpugo: raises $0.11 to $0.16
+B4ckyardign: folds 
+Uncalled bet ($0.11) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: B4ckyardign (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected ($0.10)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213939174:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:29:24 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: B4ckyardign ($2 in chips) 
+Seat 2: Lorpugo ($1.87 in chips) 
+Seat 4: Monetaty ($2.75 in chips) 
+Seat 5: T.D.L.D.K ($2.47 in chips) 
+Seat 6: chacalay1 ($1.89 in chips) 
+Lorpugo: posts small blind $0.01
+Monetaty: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Qs]
+T.D.L.D.K: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+Monetaty: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+ASDARK leaves the table
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: B4ckyardign (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.04)
+Seat 4: Monetaty (big blind) folded before Flop
+Seat 5: T.D.L.D.K folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241213946224:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:29:40 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: B4ckyardign ($2 in chips) 
+Seat 2: Lorpugo ($1.89 in chips) 
+Seat 4: Monetaty ($2.73 in chips) 
+Seat 6: chacalay1 ($1.89 in chips) 
+Monetaty: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 8s]
+B4ckyardign: raises $0.04 to $0.06
+Lorpugo: folds 
+Monetaty: folds 
+T.D.L.D.K leaves the table
+chacalay1: folds 
+Uncalled bet ($0.04) returned to B4ckyardign
+B4ckyardign collected $0.05 from pot
+B4ckyardign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: B4ckyardign collected ($0.05)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Monetaty (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241213951964:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:29:52 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: B4ckyardign ($2.03 in chips) 
+Seat 2: Lorpugo ($1.89 in chips) 
+Seat 4: Monetaty ($2.72 in chips) 
+Seat 6: chacalay1 ($1.87 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Jc]
+Lorpugo: raises $0.03 to $0.05
+Monetaty: folds 
+chacalay1: folds 
+B4ckyardign: calls $0.03
+*** FLOP *** [9s Kc 6s]
+B4ckyardign: checks 
+Lorpugo: bets $0.04
+B4ckyardign: calls $0.04
+*** TURN *** [9s Kc 6s] [4s]
+B4ckyardign: checks 
+Joesedge4 joins the table at seat #5 
+Lorpugo: checks 
+*** RIVER *** [9s Kc 6s 4s] [Jh]
+B4ckyardign: checks 
+Lorpugo: bets $0.20
+SportLink joins the table at seat #3 
+B4ckyardign: raises $0.39 to $0.59
+Lorpugo: folds 
+Uncalled bet ($0.39) returned to B4ckyardign
+B4ckyardign collected $0.57 from pot
+B4ckyardign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [9s Kc 6s 4s Jh]
+Seat 1: B4ckyardign (big blind) collected ($0.57)
+Seat 2: Lorpugo folded on the River
+Seat 4: Monetaty (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241213983931:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:31:01 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: B4ckyardign ($2.31 in chips) 
+Seat 2: Lorpugo ($1.60 in chips) 
+Seat 3: SportLink ($0.80 in chips) 
+Seat 4: Monetaty ($2.72 in chips) 
+Seat 6: chacalay1 ($1.86 in chips) 
+B4ckyardign: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+SportLink: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 6d]
+SportLink: raises $0.03 to $0.05
+Monetaty: folds 
+chacalay1: folds 
+B4ckyardign: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [5c 7d 6s]
+B4ckyardign: checks 
+SportLink: checks 
+*** TURN *** [5c 7d 6s] [8d]
+B4ckyardign: checks 
+SportLink: checks 
+*** RIVER *** [5c 7d 6s 8d] [6c]
+B4ckyardign: bets $0.23
+SportLink: folds 
+Uncalled bet ($0.23) returned to B4ckyardign
+B4ckyardign collected $0.12 from pot
+B4ckyardign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5c 7d 6s 8d 6c]
+Seat 1: B4ckyardign (small blind) collected ($0.12)
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: SportLink folded on the River
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241214014186:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:32:06 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: B4ckyardign ($2.38 in chips) 
+Seat 2: Lorpugo ($1.58 in chips) 
+Seat 3: SportLink ($0.75 in chips) 
+Seat 4: Monetaty ($2.72 in chips) 
+Seat 6: chacalay1 ($1.86 in chips) 
+Lorpugo: posts small blind $0.01
+SportLink: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kd]
+Monetaty: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+SportLink: calls $0.03
+*** FLOP *** [8d Jd 9s]
+Lorpugo: checks 
+SportLink: bets $0.05
+Lorpugo: folds 
+Uncalled bet ($0.05) returned to SportLink
+SportLink collected $0.10 from pot
+SportLink: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [8d Jd 9s]
+Seat 1: B4ckyardign (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: SportLink (big blind) collected ($0.10)
+Seat 4: Monetaty folded before Flop (didn't bet)
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241214024434:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:32:29 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: B4ckyardign ($2.38 in chips) 
+Seat 2: Lorpugo ($1.53 in chips) 
+Seat 3: SportLink ($0.80 in chips) 
+Seat 5: Joesedge4 ($0.80 in chips) 
+Seat 6: chacalay1 ($1.86 in chips) 
+SportLink: posts small blind $0.01
+Joesedge4: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks Qd]
+chacalay1: folds 
+Monetaty leaves the table
+B4ckyardign: folds 
+Lorpugo: raises $0.03 to $0.05
+momon1330 joins the table at seat #4 
+SportLink: folds 
+Joesedge4: calls $0.03
+*** FLOP *** [9s Jc 8h]
+Joesedge4: checks 
+Lorpugo: checks 
+*** TURN *** [9s Jc 8h] [3c]
+Joesedge4: checks 
+Lorpugo: bets $0.08
+Joesedge4: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9s Jc 8h 3c]
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) collected ($0.11)
+Seat 3: SportLink (small blind) folded before Flop
+Seat 5: Joesedge4 (big blind) folded on the Turn
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241214052183:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:33:29 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: B4ckyardign ($2.38 in chips) 
+Seat 2: Lorpugo ($1.59 in chips) 
+Seat 3: SportLink ($0.79 in chips) 
+Seat 5: Joesedge4 ($0.80 in chips) 
+Seat 6: chacalay1 ($1.86 in chips) 
+Joesedge4: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 4s]
+B4ckyardign: folds 
+Lorpugo: folds 
+SportLink: folds 
+Joesedge4: folds 
+Uncalled bet ($0.01) returned to chacalay1
+chacalay1 collected $0.02 from pot
+chacalay1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: SportLink (button) folded before Flop (didn't bet)
+Seat 5: Joesedge4 (small blind) folded before Flop
+Seat 6: chacalay1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #241214059255:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:33:45 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: B4ckyardign ($2.38 in chips) 
+Seat 2: Lorpugo ($1.59 in chips) 
+Seat 3: SportLink ($0.79 in chips) 
+Seat 5: Joesedge4 ($0.80 in chips) 
+Seat 6: chacalay1 ($1.87 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Kd]
+Lorpugo: folds 
+SportLink: raises $0.04 to $0.06
+Joesedge4: folds 
+chacalay1: folds 
+B4ckyardign: calls $0.04
+*** FLOP *** [9h 4c Ad]
+B4ckyardign: checks 
+SportLink: bets $0.07
+B4ckyardign: calls $0.07
+*** TURN *** [9h 4c Ad] [5h]
+B4ckyardign: checks 
+SportLink: checks 
+*** RIVER *** [9h 4c Ad 5h] [7h]
+B4ckyardign: bets $0.13
+SportLink: calls $0.13
+*** SHOW DOWN ***
+B4ckyardign: shows [Ac Jc] (a pair of Aces)
+SportLink: mucks hand 
+B4ckyardign collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [9h 4c Ad 5h 7h]
+Seat 1: B4ckyardign (big blind) showed [Ac Jc] and won ($0.51) with a pair of Aces
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: SportLink mucked [Tc Ah]
+Seat 5: Joesedge4 (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241214081247:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:34:32 ET
+Table 'Philosophia II' 6-max Seat #6 is the button
+Seat 1: B4ckyardign ($2.63 in chips) 
+Seat 2: Lorpugo ($1.59 in chips) 
+Seat 3: SportLink ($0.53 in chips) 
+Seat 5: Joesedge4 ($0.80 in chips) 
+Seat 6: chacalay1 ($1.86 in chips) 
+B4ckyardign: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Td]
+SportLink: raises $0.03 to $0.05
+Joesedge4: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [2c Ks 4c]
+Lorpugo: checks 
+SportLink: checks 
+*** TURN *** [2c Ks 4c] [Ad]
+Lorpugo: bets $0.04
+SportLink: calls $0.04
+*** RIVER *** [2c Ks 4c Ad] [5c]
+Lorpugo: bets $0.32
+SportLink: calls $0.32
+*** SHOW DOWN ***
+Lorpugo: shows [7d Td] (high card Ace)
+SportLink: shows [Ac Kd] (two pair, Aces and Kings)
+SportLink collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [2c Ks 4c Ad 5c]
+Seat 1: B4ckyardign (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [7d Td] and lost with high card Ace
+Seat 3: SportLink showed [Ac Kd] and won ($0.80) with two pair, Aces and Kings
+Seat 5: Joesedge4 folded before Flop (didn't bet)
+Seat 6: chacalay1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241214103358:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:35:20 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: B4ckyardign ($2.62 in chips) 
+Seat 2: Lorpugo ($1.18 in chips) 
+Seat 3: SportLink ($0.92 in chips) 
+Seat 5: Joesedge4 ($0.80 in chips) 
+Seat 6: chacalay1 ($1.86 in chips) 
+Lorpugo: posts small blind $0.01
+SportLink: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Td]
+Joesedge4: folds 
+chacalay1: raises $0.04 to $0.06
+B4ckyardign: folds 
+Lorpugo: calls $0.05
+SportLink: folds 
+*** FLOP *** [4d 3d Ad]
+Lorpugo: checks 
+chacalay1: checks 
+*** TURN *** [4d 3d Ad] [Th]
+Lorpugo: bets $0.20
+chacalay1: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d 3d Ad Th]
+Seat 1: B4ckyardign (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected ($0.14)
+Seat 3: SportLink (big blind) folded before Flop
+Seat 5: Joesedge4 folded before Flop (didn't bet)
+Seat 6: chacalay1 folded on the Turn
+
+
+
+PokerStars Hand #241214121109:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:35:58 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 1: B4ckyardign ($2.62 in chips) 
+Seat 2: Lorpugo ($1.26 in chips) 
+Seat 3: SportLink ($0.90 in chips) 
+Seat 4: momon1330 ($2 in chips) 
+Seat 5: Joesedge4 ($0.80 in chips) 
+Seat 6: chacalay1 ($1.80 in chips) 
+SportLink: posts small blind $0.01
+momon1330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Js]
+Joesedge4: raises $0.03 to $0.05
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: calls $0.05
+SportLink: folds 
+momon1330: folds 
+*** FLOP *** [3h 7d Tc]
+Joesedge4: checks 
+Lorpugo: checks 
+*** TURN *** [3h 7d Tc] [5h]
+Joesedge4: checks 
+Lorpugo: checks 
+*** RIVER *** [3h 7d Tc 5h] [Ad]
+Joesedge4: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Joesedge4: shows [Ah Jd] (a pair of Aces)
+Lorpugo: mucks hand 
+Joesedge4 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3h 7d Tc 5h Ad]
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo (button) mucked [Kd Js]
+Seat 3: SportLink (small blind) folded before Flop
+Seat 4: momon1330 (big blind) folded before Flop
+Seat 5: Joesedge4 showed [Ah Jd] and won ($0.13) with a pair of Aces
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241214149089:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:36:59 ET
+Table 'Philosophia II' 6-max Seat #3 is the button
+Seat 1: B4ckyardign ($2.62 in chips) 
+Seat 2: Lorpugo ($1.21 in chips) 
+Seat 3: SportLink ($0.89 in chips) 
+Seat 4: momon1330 ($2 in chips) 
+Seat 5: Joesedge4 ($0.88 in chips) 
+Seat 6: chacalay1 ($1.80 in chips) 
+momon1330: posts small blind $0.01
+Joesedge4: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 9h]
+chacalay1: folds 
+B4ckyardign: folds 
+Lorpugo: folds 
+SportLink has timed out
+SportLink: folds 
+momon1330: raises $0.02 to $0.04
+Joesedge4: folds 
+Uncalled bet ($0.02) returned to momon1330
+momon1330 collected $0.04 from pot
+momon1330: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: B4ckyardign folded before Flop (didn't bet)
+Seat 2: Lorpugo folded before Flop (didn't bet)
+Seat 3: SportLink (button) folded before Flop (didn't bet)
+Seat 4: momon1330 (small blind) collected ($0.04)
+Seat 5: Joesedge4 (big blind) folded before Flop
+Seat 6: chacalay1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241214161254:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:37:26 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: B4ckyardign ($2.62 in chips) 
+Seat 2: Lorpugo ($1.21 in chips) 
+Seat 3: SportLink ($0.89 in chips) 
+Seat 4: momon1330 ($2.02 in chips) 
+Seat 5: Joesedge4 ($0.86 in chips) 
+Seat 6: chacalay1 ($1.80 in chips) 
+Joesedge4: posts small blind $0.01
+chacalay1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 8c]
+B4ckyardign: raises $0.04 to $0.06
+Lorpugo: raises $0.04 to $0.10
+SportLink: folds 
+momon1330: folds 
+Joesedge4: calls $0.09
+chacalay1: folds 
+B4ckyardign: calls $0.04
+*** FLOP *** [2h 7d 2s]
+Joesedge4: checks 
+B4ckyardign: checks 
+Lorpugo: bets $0.20
+Joesedge4: folds 
+B4ckyardign: folds 
+Uncalled bet ($0.20) returned to Lorpugo
+Lorpugo collected $0.31 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2h 7d 2s]
+Seat 1: B4ckyardign folded on the Flop
+Seat 2: Lorpugo collected ($0.31)
+Seat 3: SportLink folded before Flop (didn't bet)
+Seat 4: momon1330 (button) folded before Flop (didn't bet)
+Seat 5: Joesedge4 (small blind) folded on the Flop
+Seat 6: chacalay1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241214192375:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/17 15:38:33 ET
+Table 'Philosophia II' 6-max Seat #5 is the button
+Seat 1: B4ckyardign ($2.52 in chips) 
+Seat 2: Lorpugo ($1.42 in chips) 
+Seat 3: SportLink ($0.89 in chips) 
+Seat 4: momon1330 ($2.02 in chips) 
+Seat 5: Joesedge4 ($0.80 in chips) 
+Seat 6: chacalay1 ($1.78 in chips) 
+chacalay1: posts small blind $0.01
+B4ckyardign: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Tc]
+Lorpugo: raises $0.03 to $0.05
+SportLink: calls $0.05
+momon1330: folds 
+Joesedge4: folds 
+chacalay1: folds 
+B4ckyardign: folds 
+*** FLOP *** [Jc Jh 2c]
+Lorpugo: checks 
+SportLink: bets $0.13
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to SportLink
+SportLink collected $0.13 from pot
+SportLink: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jc Jh 2c]
+Seat 1: B4ckyardign (big blind) folded before Flop
+Seat 2: Lorpugo folded on the Flop
+Seat 3: SportLink collected ($0.13)
+Seat 4: momon1330 folded before Flop (didn't bet)
+Seat 5: Joesedge4 (button) folded before Flop (didn't bet)
+Seat 6: chacalay1 (small blind) folded before Flop
+
+
+

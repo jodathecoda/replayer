@@ -1,0 +1,91 @@
+﻿PokerStars Hand #241367718293: Tournament #3537158168, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:07:18 ET
+Table '3537158168 1' 3-max Seat #1 is the button
+Seat 1: Krava9152 (500 in chips) 
+Seat 2: NadyaKu (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+NadyaKu: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Jd]
+Krava9152: folds 
+NadyaKu: folds 
+Uncalled bet (10) returned to Lorpugo
+Lorpugo collected 20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Krava9152 (button) folded before Flop (didn't bet)
+Seat 2: NadyaKu (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (20)
+
+
+
+PokerStars Hand #241367723019: Tournament #3537158168, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:07:30 ET
+Table '3537158168 1' 3-max Seat #2 is the button
+Seat 1: Krava9152 (500 in chips) 
+Seat 2: NadyaKu (490 in chips) 
+Seat 3: Lorpugo (510 in chips) 
+Lorpugo: posts small blind 10
+Krava9152: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9d]
+NadyaKu: folds 
+Lorpugo: raises 20 to 40
+Krava9152: calls 20
+*** FLOP *** [Jd Tc 6s]
+Lorpugo: checks 
+Krava9152: checks 
+*** TURN *** [Jd Tc 6s] [8d]
+Lorpugo: bets 100
+Krava9152: calls 100
+*** RIVER *** [Jd Tc 6s 8d] [5s]
+Lorpugo: checks 
+Krava9152: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5d 9d] (a pair of Fives)
+Krava9152: shows [Ad 8s] (a pair of Eights)
+Krava9152 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Jd Tc 6s 8d 5s]
+Seat 1: Krava9152 (big blind) showed [Ad 8s] and won (280) with a pair of Eights
+Seat 2: NadyaKu (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) showed [5d 9d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #241367742155: Tournament #3537158168, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:08:18 ET
+Table '3537158168 1' 3-max Seat #3 is the button
+Seat 1: Krava9152 (640 in chips) 
+Seat 2: NadyaKu (490 in chips) 
+Seat 3: Lorpugo (370 in chips) 
+Krava9152: posts small blind 10
+NadyaKu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8c]
+Lorpugo: raises 20 to 40
+Krava9152: raises 20 to 60
+NadyaKu: calls 40
+Lorpugo: calls 20
+*** FLOP *** [Qc 3h 8d]
+Krava9152: checks 
+NadyaKu: checks 
+Lorpugo: bets 310 and is all-in
+Krava9152: calls 310
+NadyaKu: folds 
+*** TURN *** [Qc 3h 8d] [9h]
+*** RIVER *** [Qc 3h 8d 9h] [4d]
+*** SHOW DOWN ***
+Krava9152: shows [Kh Qh] (a pair of Queens)
+Lorpugo: shows [Jh 8c] (a pair of Eights)
+Krava9152 collected 800 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Qc 3h 8d 9h 4d]
+Seat 1: Krava9152 (small blind) showed [Kh Qh] and won (800) with a pair of Queens
+Seat 2: NadyaKu (big blind) folded on the Flop
+Seat 3: Lorpugo (button) showed [Jh 8c] and lost with a pair of Eights
+
+
+

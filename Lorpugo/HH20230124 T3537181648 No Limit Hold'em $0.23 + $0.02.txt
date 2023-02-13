@@ -1,0 +1,681 @@
+﻿PokerStars Hand #241369273178: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:51:36 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: Volcome.stoney (500 in chips) 
+Seat 3: henzam1206 (500 in chips) 
+Volcome.stoney: posts small blind 10
+henzam1206: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6h]
+Lorpugo: folds 
+Volcome.stoney: calls 10
+henzam1206: checks 
+*** FLOP *** [4s Js Qh]
+Volcome.stoney: checks 
+henzam1206: checks 
+*** TURN *** [4s Js Qh] [6d]
+Volcome.stoney: checks 
+henzam1206: checks 
+*** RIVER *** [4s Js Qh 6d] [8s]
+Volcome.stoney: checks 
+henzam1206: checks 
+*** SHOW DOWN ***
+Volcome.stoney: shows [Td 5d] (high card Queen)
+henzam1206: shows [Ts 2h] (high card Queen)
+Volcome.stoney collected 20 from pot
+henzam1206 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4s Js Qh 6d 8s]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Volcome.stoney (small blind) showed [Td 5d] and won (20) with high card Queen
+Seat 3: henzam1206 (big blind) showed [Ts 2h] and won (20) with high card Queen
+
+
+
+PokerStars Hand #241369283561: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:52:02 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: Volcome.stoney (500 in chips) 
+Seat 3: henzam1206 (500 in chips) 
+henzam1206: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 6d]
+Volcome.stoney: raises 20 to 40
+henzam1206: calls 30
+Lorpugo: calls 20
+*** FLOP *** [Js 8d As]
+henzam1206: checks 
+Lorpugo: checks 
+Volcome.stoney: bets 40
+henzam1206: folds 
+Lorpugo: folds 
+Uncalled bet (40) returned to Volcome.stoney
+Volcome.stoney collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js 8d As]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: Volcome.stoney (button) collected (120)
+Seat 3: henzam1206 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241369293050: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:52:26 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (460 in chips) 
+Seat 2: Volcome.stoney (580 in chips) 
+Seat 3: henzam1206 (460 in chips) 
+Lorpugo: posts small blind 10
+Volcome.stoney: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9c]
+henzam1206: folds 
+Lorpugo: folds 
+Uncalled bet (10) returned to Volcome.stoney
+Volcome.stoney collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Volcome.stoney (big blind) collected (20)
+Seat 3: henzam1206 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241369295661: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:52:32 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (450 in chips) 
+Seat 2: Volcome.stoney (590 in chips) 
+Seat 3: henzam1206 (460 in chips) 
+Volcome.stoney: posts small blind 10
+henzam1206: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Kc]
+Lorpugo: folds 
+Volcome.stoney: calls 10
+henzam1206: raises 20 to 40
+Volcome.stoney: calls 20
+*** FLOP *** [Jc 6c Ts]
+Volcome.stoney: bets 60
+henzam1206: raises 80 to 140
+Volcome.stoney: calls 80
+*** TURN *** [Jc 6c Ts] [Jh]
+Volcome.stoney: checks 
+henzam1206: checks 
+*** RIVER *** [Jc 6c Ts Jh] [Qh]
+Volcome.stoney: bets 100
+henzam1206: raises 120 to 220
+Volcome.stoney: calls 120
+*** SHOW DOWN ***
+henzam1206: shows [As Jd] (three of a kind, Jacks)
+Volcome.stoney: mucks hand 
+henzam1206 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Jc 6c Ts Jh Qh]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Volcome.stoney (small blind) mucked [8d Tc]
+Seat 3: henzam1206 (big blind) showed [As Jd] and won (800) with three of a kind, Jacks
+
+
+
+PokerStars Hand #241369323712: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:53:43 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (450 in chips) 
+Seat 2: Volcome.stoney (190 in chips) 
+Seat 3: henzam1206 (860 in chips) 
+henzam1206: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 7s]
+Volcome.stoney: raises 160 to 190 and is all-in
+henzam1206: folds 
+Lorpugo: folds 
+Uncalled bet (160) returned to Volcome.stoney
+Volcome.stoney collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Volcome.stoney (button) collected (75)
+Seat 3: henzam1206 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369327597: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:53:53 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (420 in chips) 
+Seat 2: Volcome.stoney (235 in chips) 
+Seat 3: henzam1206 (845 in chips) 
+Lorpugo: posts small blind 15
+Volcome.stoney: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Jc]
+henzam1206: folds 
+Lorpugo: calls 15
+Volcome.stoney: checks 
+*** FLOP *** [Qs Jd Js]
+Lorpugo: checks 
+Volcome.stoney: checks 
+*** TURN *** [Qs Jd Js] [5s]
+Lorpugo: checks 
+Volcome.stoney: checks 
+*** RIVER *** [Qs Jd Js 5s] [7s]
+Lorpugo: checks 
+Volcome.stoney: bets 60
+Lorpugo: raises 330 to 390 and is all-in
+Volcome.stoney: folds 
+Uncalled bet (330) returned to Lorpugo
+Lorpugo collected 180 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qs Jd Js 5s 7s]
+Seat 1: Lorpugo (small blind) collected (180)
+Seat 2: Volcome.stoney (big blind) folded on the River
+Seat 3: henzam1206 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241369342062: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:54:29 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (510 in chips) 
+Seat 2: Volcome.stoney (145 in chips) 
+Seat 3: henzam1206 (845 in chips) 
+Volcome.stoney: posts small blind 15
+henzam1206: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Qc]
+Lorpugo: folds 
+Volcome.stoney: folds 
+Uncalled bet (15) returned to henzam1206
+henzam1206 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Volcome.stoney (small blind) folded before Flop
+Seat 3: henzam1206 (big blind) collected (30)
+
+
+
+PokerStars Hand #241369344674: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:54:36 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (510 in chips) 
+Seat 2: Volcome.stoney (130 in chips) 
+Seat 3: henzam1206 (860 in chips) 
+henzam1206: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 4s]
+Volcome.stoney: raises 100 to 130 and is all-in
+henzam1206: folds 
+Lorpugo: calls 100
+*** FLOP *** [Qh 5c Kh]
+*** TURN *** [Qh 5c Kh] [7h]
+*** RIVER *** [Qh 5c Kh 7h] [Td]
+*** SHOW DOWN ***
+Lorpugo: shows [Ad 4s] (high card Ace)
+Volcome.stoney: shows [Jc Jd] (a pair of Jacks)
+Volcome.stoney collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Board [Qh 5c Kh 7h Td]
+Seat 1: Lorpugo (big blind) showed [Ad 4s] and lost with high card Ace
+Seat 2: Volcome.stoney (button) showed [Jc Jd] and won (275) with a pair of Jacks
+Seat 3: henzam1206 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369352910: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:54:57 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (380 in chips) 
+Seat 2: Volcome.stoney (275 in chips) 
+Seat 3: henzam1206 (845 in chips) 
+Lorpugo: posts small blind 15
+Volcome.stoney: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 4d]
+henzam1206: calls 30
+Lorpugo: folds 
+Volcome.stoney: raises 90 to 120
+henzam1206: calls 90
+*** FLOP *** [6c 7c 6s]
+Volcome.stoney: bets 155 and is all-in
+henzam1206: calls 155
+*** TURN *** [6c 7c 6s] [9h]
+*** RIVER *** [6c 7c 6s 9h] [4c]
+*** SHOW DOWN ***
+Volcome.stoney: shows [9c Ad] (two pair, Nines and Sixes)
+henzam1206: shows [5d 5s] (two pair, Sixes and Fives)
+Volcome.stoney collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | Rake 0 
+Board [6c 7c 6s 9h 4c]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Volcome.stoney (big blind) showed [9c Ad] and won (565) with two pair, Nines and Sixes
+Seat 3: henzam1206 (button) showed [5d 5s] and lost with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #241369362045: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:55:25 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (365 in chips) 
+Seat 2: Volcome.stoney (565 in chips) 
+Seat 3: henzam1206 (570 in chips) 
+Volcome.stoney: posts small blind 15
+henzam1206: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 8s]
+Lorpugo: folds 
+Volcome.stoney: calls 15
+henzam1206: raises 60 to 90
+Volcome.stoney: folds 
+Uncalled bet (60) returned to henzam1206
+henzam1206 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Volcome.stoney (small blind) folded before Flop
+Seat 3: henzam1206 (big blind) collected (60)
+
+
+
+PokerStars Hand #241369365654: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:55:37 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (365 in chips) 
+Seat 2: Volcome.stoney (535 in chips) 
+Seat 3: henzam1206 (600 in chips) 
+henzam1206: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 6h]
+Volcome.stoney: folds 
+henzam1206: calls 15
+Lorpugo: checks 
+*** FLOP *** [8c Kh 7h]
+henzam1206: checks 
+Lorpugo: bets 30
+henzam1206: calls 30
+*** TURN *** [8c Kh 7h] [Jc]
+henzam1206: checks 
+Lorpugo: bets 79
+henzam1206: folds 
+Uncalled bet (79) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Kh 7h Jc]
+Seat 1: Lorpugo (big blind) collected (120)
+Seat 2: Volcome.stoney (button) folded before Flop (didn't bet)
+Seat 3: henzam1206 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241369375063: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:56:09 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (425 in chips) 
+Seat 2: Volcome.stoney (535 in chips) 
+Seat 3: henzam1206 (540 in chips) 
+Lorpugo: posts small blind 20
+Volcome.stoney: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ah]
+henzam1206: calls 40
+Lorpugo: raises 385 to 425 and is all-in
+Volcome.stoney: folds 
+henzam1206: folds 
+Uncalled bet (385) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Lorpugo (small blind) collected (120)
+Seat 2: Volcome.stoney (big blind) folded before Flop
+Seat 3: henzam1206 (button) folded before Flop
+
+
+
+PokerStars Hand #241369378555: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:56:20 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (505 in chips) 
+Seat 2: Volcome.stoney (495 in chips) 
+Seat 3: henzam1206 (500 in chips) 
+Volcome.stoney: posts small blind 20
+henzam1206: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 8s]
+Lorpugo: raises 40 to 80
+Volcome.stoney: folds 
+henzam1206: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 100 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Lorpugo (button) collected (100)
+Seat 2: Volcome.stoney (small blind) folded before Flop
+Seat 3: henzam1206 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369381150: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:56:29 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (565 in chips) 
+Seat 2: Volcome.stoney (475 in chips) 
+Seat 3: henzam1206 (460 in chips) 
+henzam1206: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9c]
+Volcome.stoney: folds 
+henzam1206: raises 40 to 80
+Lorpugo: calls 40
+*** FLOP *** [7d 5c 8h]
+henzam1206: bets 240
+Lorpugo: folds 
+Uncalled bet (240) returned to henzam1206
+henzam1206 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7d 5c 8h]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 2: Volcome.stoney (button) folded before Flop (didn't bet)
+Seat 3: henzam1206 (small blind) collected (160)
+
+
+
+PokerStars Hand #241369392753: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:57:07 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (485 in chips) 
+Seat 2: Volcome.stoney (475 in chips) 
+Seat 3: henzam1206 (540 in chips) 
+Lorpugo: posts small blind 20
+Volcome.stoney: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 3h]
+henzam1206: calls 40
+Lorpugo: folds 
+Volcome.stoney: checks 
+*** FLOP *** [5c Td Ah]
+Volcome.stoney: checks 
+henzam1206: bets 80
+Volcome.stoney: folds 
+Uncalled bet (80) returned to henzam1206
+henzam1206 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5c Td Ah]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Volcome.stoney (big blind) folded on the Flop
+Seat 3: henzam1206 (button) collected (100)
+
+
+
+PokerStars Hand #241369397702: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:57:23 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (465 in chips) 
+Seat 2: Volcome.stoney (435 in chips) 
+Seat 3: henzam1206 (600 in chips) 
+Volcome.stoney: posts small blind 20
+henzam1206: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7s]
+Lorpugo: raises 40 to 80
+Volcome.stoney: calls 60
+henzam1206: calls 40
+*** FLOP *** [Ah Qd 5d]
+Volcome.stoney: bets 355 and is all-in
+henzam1206: folds 
+Lorpugo: folds 
+Uncalled bet (355) returned to Volcome.stoney
+Volcome.stoney collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ah Qd 5d]
+Seat 1: Lorpugo (button) folded on the Flop
+Seat 2: Volcome.stoney (small blind) collected (240)
+Seat 3: henzam1206 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369407644: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:57:56 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (385 in chips) 
+Seat 2: Volcome.stoney (595 in chips) 
+Seat 3: henzam1206 (520 in chips) 
+henzam1206: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Td]
+Volcome.stoney: raises 60 to 120
+henzam1206: raises 180 to 300
+Lorpugo: folds 
+Volcome.stoney: calls 180
+*** FLOP *** [Jh 9d 5d]
+henzam1206: checks 
+Volcome.stoney: bets 120
+henzam1206: raises 100 to 220 and is all-in
+Volcome.stoney: calls 100
+*** TURN *** [Jh 9d 5d] [4d]
+*** RIVER *** [Jh 9d 5d 4d] [Kh]
+*** SHOW DOWN ***
+henzam1206: shows [Js Jc] (three of a kind, Jacks)
+Volcome.stoney: shows [9s 8s] (a pair of Nines)
+henzam1206 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [Jh 9d 5d 4d Kh]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Volcome.stoney (button) showed [9s 8s] and lost with a pair of Nines
+Seat 3: henzam1206 (small blind) showed [Js Jc] and won (1100) with three of a kind, Jacks
+
+
+
+PokerStars Hand #241369422662: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:58:45 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (325 in chips) 
+Seat 2: Volcome.stoney (75 in chips) 
+Seat 3: henzam1206 (1100 in chips) 
+Lorpugo: posts small blind 30
+Volcome.stoney: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6d]
+henzam1206: folds 
+Lorpugo: raises 265 to 325 and is all-in
+Volcome.stoney: calls 15 and is all-in
+Uncalled bet (250) returned to Lorpugo
+*** FLOP *** [4s 7c As]
+*** TURN *** [4s 7c As] [3h]
+*** RIVER *** [4s 7c As 3h] [Kd]
+*** SHOW DOWN ***
+Lorpugo: shows [9c 6d] (high card Ace)
+Volcome.stoney: shows [Ad Kh] (two pair, Aces and Kings)
+Volcome.stoney collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4s 7c As 3h Kd]
+Seat 1: Lorpugo (small blind) showed [9c 6d] and lost with high card Ace
+Seat 2: Volcome.stoney (big blind) showed [Ad Kh] and won (150) with two pair, Aces and Kings
+Seat 3: henzam1206 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241369429070: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:59:06 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (250 in chips) 
+Seat 2: Volcome.stoney (150 in chips) 
+Seat 3: henzam1206 (1100 in chips) 
+Volcome.stoney: posts small blind 30
+henzam1206: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9h]
+Lorpugo: raises 190 to 250 and is all-in
+Volcome.stoney: folds 
+henzam1206: folds 
+Uncalled bet (190) returned to Lorpugo
+Lorpugo collected 150 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Lorpugo (button) collected (150)
+Seat 2: Volcome.stoney (small blind) folded before Flop
+Seat 3: henzam1206 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369432025: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:59:15 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (340 in chips) 
+Seat 2: Volcome.stoney (120 in chips) 
+Seat 3: henzam1206 (1040 in chips) 
+henzam1206: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6c]
+Volcome.stoney: raises 60 to 120 and is all-in
+henzam1206: folds 
+Lorpugo: folds 
+Uncalled bet (60) returned to Volcome.stoney
+Volcome.stoney collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: Volcome.stoney (button) collected (150)
+Seat 3: henzam1206 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369435715: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:59:27 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (280 in chips) 
+Seat 2: Volcome.stoney (210 in chips) 
+Seat 3: henzam1206 (1010 in chips) 
+Lorpugo: posts small blind 30
+Volcome.stoney: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 7c]
+henzam1206: raises 240 to 300
+Lorpugo: folds 
+Volcome.stoney: folds 
+Uncalled bet (240) returned to henzam1206
+henzam1206 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: Volcome.stoney (big blind) folded before Flop
+Seat 3: henzam1206 (button) collected (150)
+
+
+
+PokerStars Hand #241369438592: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:59:36 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (250 in chips) 
+Seat 2: Volcome.stoney (150 in chips) 
+Seat 3: henzam1206 (1100 in chips) 
+Volcome.stoney: posts small blind 30
+henzam1206: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Th]
+Lorpugo: folds 
+Volcome.stoney: raises 90 to 150 and is all-in
+henzam1206: folds 
+Uncalled bet (90) returned to Volcome.stoney
+Volcome.stoney collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: Volcome.stoney (small blind) collected (120)
+Seat 3: henzam1206 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369444938: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level V (40/80) - 2023/01/24 14:59:57 ET
+Table '3537181648 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (250 in chips) 
+Seat 2: Volcome.stoney (210 in chips) 
+Seat 3: henzam1206 (1040 in chips) 
+henzam1206: posts small blind 40
+Lorpugo: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 4c]
+Volcome.stoney: raises 130 to 210 and is all-in
+henzam1206: folds 
+Lorpugo: calls 130
+*** FLOP *** [4h Ad 3h]
+*** TURN *** [4h Ad 3h] [9h]
+*** RIVER *** [4h Ad 3h 9h] [6s]
+*** SHOW DOWN ***
+Lorpugo: shows [8c 4c] (a pair of Fours)
+Volcome.stoney: shows [Kc 9c] (a pair of Nines)
+Volcome.stoney collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [4h Ad 3h 9h 6s]
+Seat 1: Lorpugo (big blind) showed [8c 4c] and lost with a pair of Fours
+Seat 2: Volcome.stoney (button) showed [Kc 9c] and won (460) with a pair of Nines
+Seat 3: henzam1206 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369450833: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level V (40/80) - 2023/01/24 15:00:14 ET
+Table '3537181648 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (40 in chips) 
+Seat 2: Volcome.stoney (460 in chips) 
+Seat 3: henzam1206 (1000 in chips) 
+Lorpugo: posts small blind 40 and is all-in
+Volcome.stoney: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ks]
+henzam1206: calls 80
+Volcome.stoney: checks 
+*** FLOP *** [2s 8h Ad]
+Volcome.stoney: checks 
+henzam1206: bets 80
+Volcome.stoney: folds 
+Uncalled bet (80) returned to henzam1206
+*** TURN *** [2s 8h Ad] [Kd]
+*** RIVER *** [2s 8h Ad Kd] [8s]
+*** SHOW DOWN ***
+henzam1206: shows [Ac Th] (two pair, Aces and Eights)
+henzam1206 collected 80 from side pot
+Lorpugo: shows [As Ks] (two pair, Aces and Kings)
+Lorpugo collected 120 from main pot
+*** SUMMARY ***
+Total pot 200 Main pot 120. Side pot 80. | Rake 0 
+Board [2s 8h Ad Kd 8s]
+Seat 1: Lorpugo (small blind) showed [As Ks] and won (120) with two pair, Aces and Kings
+Seat 2: Volcome.stoney (big blind) folded on the Flop
+Seat 3: henzam1206 (button) showed [Ac Th] and won (80) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #241369457222: Tournament #3537181648, $0.23+$0.02 USD Hold'em No Limit - Level V (40/80) - 2023/01/24 15:00:34 ET
+Table '3537181648 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (120 in chips) 
+Seat 2: Volcome.stoney (380 in chips) 
+Seat 3: henzam1206 (1000 in chips) 
+Volcome.stoney: posts small blind 40
+henzam1206: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Tc]
+Lorpugo: raises 40 to 120 and is all-in
+Volcome.stoney: folds 
+henzam1206: calls 40
+*** FLOP *** [9h Ah 5c]
+*** TURN *** [9h Ah 5c] [2c]
+*** RIVER *** [9h Ah 5c 2c] [2h]
+*** SHOW DOWN ***
+henzam1206: shows [Jd 6c] (a pair of Deuces)
+Lorpugo: shows [4h Tc] (a pair of Deuces - lower kicker)
+henzam1206 collected 280 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [9h Ah 5c 2c 2h]
+Seat 1: Lorpugo (button) showed [4h Tc] and lost with a pair of Deuces
+Seat 2: Volcome.stoney (small blind) folded before Flop
+Seat 3: henzam1206 (big blind) showed [Jd 6c] and won (280) with a pair of Deuces
+
+
+

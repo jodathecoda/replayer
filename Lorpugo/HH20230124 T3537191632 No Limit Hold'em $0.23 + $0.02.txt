@@ -1,0 +1,86 @@
+﻿PokerStars Hand #241369687230: Tournament #3537191632, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:10:00 ET
+Table '3537191632 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: sab1920 (500 in chips) 
+Seat 3: cry5ty (500 in chips) 
+sab1920: posts small blind 10
+cry5ty: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 3s]
+Lorpugo: folds 
+sab1920: raises 480 to 500 and is all-in
+cry5ty: folds 
+Uncalled bet (480) returned to sab1920
+sab1920 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: sab1920 (small blind) collected (40)
+Seat 3: cry5ty (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369691303: Tournament #3537191632, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:10:10 ET
+Table '3537191632 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: sab1920 (520 in chips) 
+Seat 3: cry5ty (480 in chips) 
+cry5ty: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Kh]
+sab1920: raises 500 to 520 and is all-in
+cry5ty: calls 470 and is all-in
+Lorpugo: folds 
+Uncalled bet (40) returned to sab1920
+*** FLOP *** [Kd Qc 9d]
+*** TURN *** [Kd Qc 9d] [2s]
+*** RIVER *** [Kd Qc 9d 2s] [Ah]
+*** SHOW DOWN ***
+cry5ty: shows [2d Qd] (two pair, Queens and Deuces)
+sab1920: shows [Td Ad] (a pair of Aces)
+cry5ty collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Kd Qc 9d 2s Ah]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: sab1920 (button) showed [Td Ad] and lost with a pair of Aces
+Seat 3: cry5ty (small blind) showed [2d Qd] and won (980) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #241369697407: Tournament #3537191632, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:10:25 ET
+Table '3537191632 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (480 in chips) 
+Seat 2: sab1920 (40 in chips) 
+Seat 3: cry5ty (980 in chips) 
+Lorpugo: posts small blind 10
+sab1920: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 7h]
+cry5ty: raises 50 to 70
+Lorpugo: calls 60
+sab1920: calls 20 and is all-in
+*** FLOP *** [8s 9c 3h]
+Lorpugo: bets 410 and is all-in
+cry5ty: calls 410
+*** TURN *** [8s 9c 3h] [Js]
+*** RIVER *** [8s 9c 3h Js] [Ah]
+*** SHOW DOWN ***
+Lorpugo: shows [9d 7h] (a pair of Nines)
+cry5ty: shows [Jc Kd] (a pair of Jacks)
+cry5ty collected 880 from side pot
+sab1920: shows [5s 3s] (a pair of Threes)
+cry5ty collected 120 from main pot
+Lorpugo finished the tournament in 2nd place
+sab1920 finished the tournament in 3rd place
+cry5ty wins the tournament and receives $0.50 - congratulations!
+*** SUMMARY ***
+Total pot 1000 Main pot 120. Side pot 880. | Rake 0 
+Board [8s 9c 3h Js Ah]
+Seat 1: Lorpugo (small blind) showed [9d 7h] and lost with a pair of Nines
+Seat 2: sab1920 (big blind) showed [5s 3s] and lost with a pair of Threes
+Seat 3: cry5ty (button) showed [Jc Kd] and won (1000) with a pair of Jacks
+
+
+

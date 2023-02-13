@@ -1,0 +1,93 @@
+﻿PokerStars Hand #241353441805: Tournament #3536813734, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:04:53 ET
+Table '3536813734 1' 3-max Seat #1 is the button
+Seat 1: gasdarkk (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: Otanerbrasil (500 in chips) 
+Lorpugo: posts small blind 10
+Otanerbrasil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3c]
+gasdarkk: folds 
+Lorpugo: raises 480 to 500 and is all-in
+Otanerbrasil: folds 
+Uncalled bet (480) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: gasdarkk (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected (40)
+Seat 3: Otanerbrasil (big blind) folded before Flop
+
+
+
+PokerStars Hand #241353445623: Tournament #3536813734, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:05:06 ET
+Table '3536813734 1' 3-max Seat #2 is the button
+Seat 1: gasdarkk (500 in chips) 
+Seat 2: Lorpugo (520 in chips) 
+Seat 3: Otanerbrasil (480 in chips) 
+Otanerbrasil: posts small blind 10
+gasdarkk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8h]
+Lorpugo: raises 160 to 180
+Otanerbrasil: calls 170
+gasdarkk: folds 
+*** FLOP *** [Kd 6c 6d]
+Otanerbrasil: checks 
+Lorpugo: bets 340 and is all-in
+Otanerbrasil: calls 300 and is all-in
+Uncalled bet (40) returned to Lorpugo
+*** TURN *** [Kd 6c 6d] [2s]
+*** RIVER *** [Kd 6c 6d 2s] [Ks]
+*** SHOW DOWN ***
+Otanerbrasil: shows [As 3d] (two pair, Kings and Sixes)
+Lorpugo: shows [7c 8h] (two pair, Kings and Sixes - lower kicker)
+Otanerbrasil collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Kd 6c 6d 2s Ks]
+Seat 1: gasdarkk (big blind) folded before Flop
+Seat 2: Lorpugo (button) showed [7c 8h] and lost with two pair, Kings and Sixes
+Seat 3: Otanerbrasil (small blind) showed [As 3d] and won (980) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #241353453526: Tournament #3536813734, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:05:33 ET
+Table '3536813734 1' 3-max Seat #3 is the button
+Seat 1: gasdarkk (480 in chips) 
+Seat 2: Lorpugo (40 in chips) 
+Seat 3: Otanerbrasil (980 in chips) 
+gasdarkk: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Ad]
+Otanerbrasil: calls 20
+gasdarkk: raises 40 to 60
+Lorpugo: calls 20 and is all-in
+Otanerbrasil: calls 40
+*** FLOP *** [Qh Ks 4d]
+gasdarkk: checks 
+Otanerbrasil: checks 
+*** TURN *** [Qh Ks 4d] [4s]
+gasdarkk: checks 
+Otanerbrasil: checks 
+*** RIVER *** [Qh Ks 4d 4s] [4h]
+gasdarkk: bets 40
+Otanerbrasil: folds 
+Uncalled bet (40) returned to gasdarkk
+*** SHOW DOWN ***
+gasdarkk: shows [Tc Qc] (a full house, Fours full of Queens)
+gasdarkk collected 40 from side pot
+Lorpugo: shows [Th Ad] (three of a kind, Fours)
+gasdarkk collected 120 from main pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 160 Main pot 120. Side pot 40. | Rake 0 
+Board [Qh Ks 4d 4s 4h]
+Seat 1: gasdarkk (small blind) showed [Tc Qc] and won (160) with a full house, Fours full of Queens
+Seat 2: Lorpugo (big blind) showed [Th Ad] and lost with three of a kind, Fours
+Seat 3: Otanerbrasil (button) folded on the River
+
+
+

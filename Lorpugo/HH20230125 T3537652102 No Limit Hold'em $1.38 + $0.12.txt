@@ -1,0 +1,133 @@
+﻿PokerStars Hand #241388988935: Tournament #3537652102, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:52:22 ET
+Table '3537652102 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: Karol4x4 (500 in chips) 
+Seat 3: pikou.be (500 in chips) 
+Karol4x4: posts small blind 10
+pikou.be: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 8s]
+Lorpugo: raises 20 to 40
+Karol4x4: calls 30
+pikou.be: calls 20
+*** FLOP *** [Ac 7h Ks]
+Karol4x4: bets 460 and is all-in
+pikou.be: folds 
+Lorpugo: folds 
+Uncalled bet (460) returned to Karol4x4
+Karol4x4 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ac 7h Ks]
+Seat 1: Lorpugo (button) folded on the Flop
+Seat 2: Karol4x4 (small blind) collected (120)
+Seat 3: pikou.be (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241388994236: Tournament #3537652102, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:52:36 ET
+Table '3537652102 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (460 in chips) 
+Seat 2: Karol4x4 (580 in chips) 
+Seat 3: pikou.be (460 in chips) 
+pikou.be: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 8d]
+Karol4x4: calls 20
+pikou.be: calls 10
+Lorpugo: checks 
+*** FLOP *** [4s 2s Qd]
+pikou.be: checks 
+Lorpugo: bets 20
+Karol4x4: calls 20
+pikou.be: calls 20
+*** TURN *** [4s 2s Qd] [9d]
+pikou.be: checks 
+Lorpugo: checks 
+Karol4x4: bets 40
+pikou.be: folds 
+Lorpugo: calls 40
+*** RIVER *** [4s 2s Qd 9d] [2c]
+Lorpugo: checks 
+Karol4x4: bets 60
+Lorpugo: raises 140 to 200
+Karol4x4: calls 140
+*** SHOW DOWN ***
+Lorpugo: shows [2d 8d] (three of a kind, Deuces)
+Karol4x4: mucks hand 
+Lorpugo collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [4s 2s Qd 9d 2c]
+Seat 1: Lorpugo (big blind) showed [2d 8d] and won (600) with three of a kind, Deuces
+Seat 2: Karol4x4 (button) mucked [Ah Ad]
+Seat 3: pikou.be (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241389010287: Tournament #3537652102, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:53:17 ET
+Table '3537652102 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (780 in chips) 
+Seat 2: Karol4x4 (300 in chips) 
+Seat 3: pikou.be (420 in chips) 
+Lorpugo: posts small blind 10
+Karol4x4: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6c]
+pikou.be: calls 20
+Lorpugo: calls 10
+Karol4x4: raises 20 to 40
+pikou.be: calls 20
+Lorpugo: calls 20
+*** FLOP *** [3c Jc 5s]
+Lorpugo: checks 
+Karol4x4: bets 260 and is all-in
+pikou.be: folds 
+Lorpugo: calls 260
+*** TURN *** [3c Jc 5s] [6d]
+*** RIVER *** [3c Jc 5s 6d] [Jh]
+*** SHOW DOWN ***
+Lorpugo: shows [4c 6c] (two pair, Jacks and Sixes)
+Karol4x4: shows [7h 7s] (two pair, Jacks and Sevens)
+Karol4x4 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [3c Jc 5s 6d Jh]
+Seat 1: Lorpugo (small blind) showed [4c 6c] and lost with two pair, Jacks and Sixes
+Seat 2: Karol4x4 (big blind) showed [7h 7s] and won (640) with two pair, Jacks and Sevens
+Seat 3: pikou.be (button) folded on the Flop
+
+
+
+PokerStars Hand #241389020716: Tournament #3537652102, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:53:44 ET
+Table '3537652102 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (480 in chips) 
+Seat 2: Karol4x4 (640 in chips) 
+Seat 3: pikou.be (380 in chips) 
+Karol4x4: posts small blind 10
+pikou.be: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 8c]
+Lorpugo: raises 20 to 40
+Karol4x4: raises 600 to 640 and is all-in
+pikou.be: folds 
+Lorpugo: calls 440 and is all-in
+Uncalled bet (160) returned to Karol4x4
+*** FLOP *** [Qd 7s Qh]
+*** TURN *** [Qd 7s Qh] [9d]
+*** RIVER *** [Qd 7s Qh 9d] [9s]
+*** SHOW DOWN ***
+Karol4x4: shows [Kc Ac] (two pair, Queens and Nines)
+Lorpugo: shows [8d 8c] (two pair, Queens and Nines - lower kicker)
+Karol4x4 collected 980 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Qd 7s Qh 9d 9s]
+Seat 1: Lorpugo (button) showed [8d 8c] and lost with two pair, Queens and Nines
+Seat 2: Karol4x4 (small blind) showed [Kc Ac] and won (980) with two pair, Queens and Nines
+Seat 3: pikou.be (big blind) folded before Flop
+
+
+

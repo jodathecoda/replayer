@@ -1,0 +1,121 @@
+﻿PokerStars Hand #241369517102: Tournament #3537187996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:03:13 ET
+Table '3537187996 1' 3-max Seat #1 is the button
+Seat 1: Diddy F (500 in chips) 
+Seat 2: ZydrateAnatAmy (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+ZydrateAnatAmy: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5d]
+Diddy F: folds 
+ZydrateAnatAmy: calls 10
+Lorpugo: checks 
+*** FLOP *** [Kh 9s Ts]
+ZydrateAnatAmy: checks 
+Lorpugo: checks 
+*** TURN *** [Kh 9s Ts] [Ah]
+ZydrateAnatAmy: checks 
+Lorpugo: bets 26
+ZydrateAnatAmy: folds 
+Uncalled bet (26) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 9s Ts Ah]
+Seat 1: Diddy F (button) folded before Flop (didn't bet)
+Seat 2: ZydrateAnatAmy (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241369527231: Tournament #3537187996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:03:37 ET
+Table '3537187996 1' 3-max Seat #2 is the button
+Seat 1: Diddy F (500 in chips) 
+Seat 2: ZydrateAnatAmy (480 in chips) 
+Seat 3: Lorpugo (520 in chips) 
+Lorpugo: posts small blind 10
+Diddy F: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 5h]
+ZydrateAnatAmy: calls 20
+Lorpugo: calls 10
+Diddy F: checks 
+*** FLOP *** [6s Ah 4c]
+Lorpugo: checks 
+Diddy F: bets 40
+ZydrateAnatAmy: folds 
+Lorpugo: raises 70 to 110
+Diddy F: calls 70
+*** TURN *** [6s Ah 4c] [Jd]
+Lorpugo: bets 140
+Diddy F: calls 140
+*** RIVER *** [6s Ah 4c Jd] [Jc]
+Lorpugo: checks 
+Diddy F: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [3h 5h] (a pair of Jacks)
+Diddy F: shows [5s Ad] (two pair, Aces and Jacks)
+Diddy F collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [6s Ah 4c Jd Jc]
+Seat 1: Diddy F (big blind) showed [5s Ad] and won (560) with two pair, Aces and Jacks
+Seat 2: ZydrateAnatAmy (button) folded on the Flop
+Seat 3: Lorpugo (small blind) showed [3h 5h] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #241369542200: Tournament #3537187996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:04:14 ET
+Table '3537187996 1' 3-max Seat #3 is the button
+Seat 1: Diddy F (790 in chips) 
+Seat 2: ZydrateAnatAmy (460 in chips) 
+Seat 3: Lorpugo (250 in chips) 
+Diddy F: posts small blind 10
+ZydrateAnatAmy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8c]
+Lorpugo: raises 230 to 250 and is all-in
+Diddy F: folds 
+ZydrateAnatAmy: folds 
+Uncalled bet (230) returned to Lorpugo
+Lorpugo collected 50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Diddy F (small blind) folded before Flop
+Seat 2: ZydrateAnatAmy (big blind) folded before Flop
+Seat 3: Lorpugo (button) collected (50)
+
+
+
+PokerStars Hand #241369546361: Tournament #3537187996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:04:24 ET
+Table '3537187996 1' 3-max Seat #1 is the button
+Seat 1: Diddy F (780 in chips) 
+Seat 2: ZydrateAnatAmy (440 in chips) 
+Seat 3: Lorpugo (280 in chips) 
+ZydrateAnatAmy: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Kd]
+Diddy F: folds 
+ZydrateAnatAmy: raises 40 to 60
+Lorpugo: raises 220 to 280 and is all-in
+ZydrateAnatAmy: calls 220
+*** FLOP *** [4h 6h 6s]
+*** TURN *** [4h 6h 6s] [Ad]
+*** RIVER *** [4h 6h 6s Ad] [5d]
+*** SHOW DOWN ***
+ZydrateAnatAmy: shows [Ks Qc] (a pair of Sixes)
+Lorpugo: shows [7s Kd] (a pair of Sixes - lower kicker)
+ZydrateAnatAmy collected 560 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [4h 6h 6s Ad 5d]
+Seat 1: Diddy F (button) folded before Flop (didn't bet)
+Seat 2: ZydrateAnatAmy (small blind) showed [Ks Qc] and won (560) with a pair of Sixes
+Seat 3: Lorpugo (big blind) showed [7s Kd] and lost with a pair of Sixes
+
+
+

@@ -1,0 +1,5177 @@
+﻿PokerStars Hand #241323306380:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:29:12 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($0.53 in chips) 
+Seat 3: Lorpugo ($1.60 in chips) 
+Seat 4: Volkoff_V_A ($2.77 in chips) 
+Seat 6: Rumbo1962 ($1.51 in chips) 
+vinicioalmeida: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ts]
+Volkoff_V_A: folds 
+Rumbo1962: folds 
+Marti Krayf: folds 
+vinicioalmeida: raises $0.51 to $0.53 and is all-in
+Lorpugo: folds 
+Uncalled bet ($0.51) returned to vinicioalmeida
+vinicioalmeida collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: vinicioalmeida (small blind) collected ($0.04)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323314969:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:29:31 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($0.55 in chips) 
+Seat 3: Lorpugo ($1.58 in chips) 
+Seat 4: Volkoff_V_A ($2.77 in chips) 
+Seat 6: Rumbo1962 ($1.51 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Ks]
+Rumbo1962: folds 
+Marti Krayf: raises $0.04 to $0.06
+vinicioalmeida: folds 
+Lorpugo: folds 
+Volkoff_V_A: calls $0.04
+*** FLOP *** [8s Qs 4h]
+Volkoff_V_A: checks 
+Marti Krayf: bets $0.04
+Volkoff_V_A: folds 
+Uncalled bet ($0.04) returned to Marti Krayf
+Marti Krayf collected $0.13 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8s Qs 4h]
+Seat 1: Marti Krayf collected ($0.13)
+Seat 2: vinicioalmeida (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323330650:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:30:07 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2.07 in chips) 
+Seat 2: vinicioalmeida ($0.55 in chips) 
+Seat 3: Lorpugo ($1.57 in chips) 
+Seat 4: Volkoff_V_A ($2.71 in chips) 
+Seat 6: Rumbo1962 ($1.51 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Js]
+Marti Krayf: folds 
+vinicioalmeida: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Rumbo1962: checks 
+*** FLOP *** [Td 7c 4c]
+Rumbo1962: checks 
+vinicioalmeida: bets $0.02
+Rumbo1962: folds 
+Uncalled bet ($0.02) returned to vinicioalmeida
+vinicioalmeida collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td 7c 4c]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: vinicioalmeida collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241323348597:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:30:47 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2.07 in chips) 
+Seat 2: vinicioalmeida ($0.58 in chips) 
+Seat 3: Lorpugo ($1.57 in chips) 
+Seat 4: Volkoff_V_A ($2.70 in chips) 
+Seat 6: Rumbo1962 ($1.49 in chips) 
+Rumbo1962: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 8d]
+vinicioalmeida: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Rumbo1962: calls $0.01
+Marti Krayf: checks 
+*** FLOP *** [7s Qh Ts]
+Rumbo1962: checks 
+Marti Krayf: checks 
+*** TURN *** [7s Qh Ts] [8h]
+Rumbo1962: checks 
+Marti Krayf: bets $0.06
+Rumbo1962: folds 
+Uncalled bet ($0.06) returned to Marti Krayf
+Marti Krayf collected $0.04 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7s Qh Ts 8h]
+Seat 1: Marti Krayf (big blind) collected ($0.04)
+Seat 2: vinicioalmeida folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241323365594:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:31:24 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2.09 in chips) 
+Seat 2: vinicioalmeida ($0.58 in chips) 
+Seat 3: Lorpugo ($1.57 in chips) 
+Seat 4: Volkoff_V_A ($2.70 in chips) 
+Seat 6: Rumbo1962 ($1.47 in chips) 
+Marti Krayf: posts small blind $0.01
+vinicioalmeida: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Tc]
+Lorpugo: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Rumbo1962: folds 
+Marti Krayf: folds 
+vinicioalmeida: raises $0.52 to $0.58 and is all-in
+Volkoff_V_A: folds 
+Uncalled bet ($0.52) returned to vinicioalmeida
+vinicioalmeida collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: vinicioalmeida (big blind) collected ($0.13)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323377110:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:31:50 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2.08 in chips) 
+Seat 2: vinicioalmeida ($0.65 in chips) 
+Seat 3: Lorpugo ($1.57 in chips) 
+Seat 4: Volkoff_V_A ($2.64 in chips) 
+Seat 6: Rumbo1962 ($1.47 in chips) 
+vinicioalmeida: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Jc]
+Volkoff_V_A: folds 
+Rumbo1962: calls $0.02
+Marti Krayf: raises $0.06 to $0.08
+vinicioalmeida: folds 
+Lorpugo: folds 
+Rumbo1962: calls $0.06
+*** FLOP *** [3h 4c Qh]
+Rumbo1962: checks 
+Marti Krayf: bets $0.06
+Rumbo1962: calls $0.06
+*** TURN *** [3h 4c Qh] [2h]
+Rumbo1962: bets $0.15
+Marti Krayf: folds 
+Uncalled bet ($0.15) returned to Rumbo1962
+Rumbo1962 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [3h 4c Qh 2h]
+Seat 1: Marti Krayf (button) folded on the Turn
+Seat 2: vinicioalmeida (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 6: Rumbo1962 collected ($0.30)
+
+
+
+PokerStars Hand #241323403531:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:32:48 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($0.64 in chips) 
+Seat 3: Lorpugo ($1.55 in chips) 
+Seat 4: Volkoff_V_A ($2.64 in chips) 
+Seat 6: Rumbo1962 ($1.63 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 3s]
+Rumbo1962: folds 
+Marti Krayf: folds 
+vinicioalmeida: raises $0.62 to $0.64 and is all-in
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.62) returned to vinicioalmeida
+vinicioalmeida collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: vinicioalmeida (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323417143:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:33:18 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($0.67 in chips) 
+Seat 3: Lorpugo ($1.54 in chips) 
+Seat 4: Volkoff_V_A ($2.62 in chips) 
+Seat 6: Rumbo1962 ($1.63 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 2h]
+Marti Krayf: folds 
+vinicioalmeida: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.01) returned to Rumbo1962
+Rumbo1962 collected $0.02 from pot
+LePoulpe1975 leaves the table
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: vinicioalmeida folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #241323421341:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:33:27 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($0.67 in chips) 
+Seat 3: Lorpugo ($1.54 in chips) 
+Seat 4: Volkoff_V_A ($2.61 in chips) 
+Seat 6: Rumbo1962 ($1.64 in chips) 
+Rumbo1962: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Th]
+vinicioalmeida: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Rumbo1962: calls $0.01
+Marti Krayf: checks 
+*** FLOP *** [8c 7d 8s]
+Rumbo1962: checks 
+Marti Krayf: checks 
+*** TURN *** [8c 7d 8s] [8h]
+Rumbo1962: checks 
+Marti Krayf: checks 
+*** RIVER *** [8c 7d 8s 8h] [2d]
+Quaer Jouzu joins the table at seat #5 
+Rumbo1962: bets $0.02
+Marti Krayf: folds 
+Uncalled bet ($0.02) returned to Rumbo1962
+Rumbo1962 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8c 7d 8s 8h 2d]
+Seat 1: Marti Krayf (big blind) folded on the River
+Seat 2: vinicioalmeida folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #241323451787:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:34:34 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($0.67 in chips) 
+Seat 3: Lorpugo ($1.54 in chips) 
+Seat 4: Volkoff_V_A ($2.61 in chips) 
+Seat 6: Rumbo1962 ($1.66 in chips) 
+Marti Krayf: posts small blind $0.01
+vinicioalmeida: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5h]
+Lorpugo: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Rumbo1962: folds 
+Marti Krayf: folds 
+vinicioalmeida: raises $0.61 to $0.67 and is all-in
+Volkoff_V_A: folds 
+Uncalled bet ($0.61) returned to vinicioalmeida
+vinicioalmeida collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: vinicioalmeida (big blind) collected ($0.13)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323464404:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:35:02 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($0.74 in chips) 
+Seat 3: Lorpugo ($1.54 in chips) 
+Seat 4: Volkoff_V_A ($2.55 in chips) 
+Seat 6: Rumbo1962 ($1.66 in chips) 
+vinicioalmeida: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5h]
+Volkoff_V_A: raises $0.04 to $0.06
+Rumbo1962: folds 
+Marti Krayf: folds 
+vinicioalmeida: raises $0.68 to $0.74 and is all-in
+Lorpugo: folds 
+Volkoff_V_A: calls $0.68
+*** FLOP *** [8c 5d Kd]
+*** TURN *** [8c 5d Kd] [Ks]
+*** RIVER *** [8c 5d Kd Ks] [Ts]
+*** SHOW DOWN ***
+vinicioalmeida: shows [Tc 2d] (two pair, Kings and Tens)
+Volkoff_V_A: shows [Ah Jc] (a pair of Kings)
+vinicioalmeida collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [8c 5d Kd Ks Ts]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: vinicioalmeida (small blind) showed [Tc 2d] and won ($1.45) with two pair, Kings and Tens
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A showed [Ah Jc] and lost with a pair of Kings
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323484394:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:35:46 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: vinicioalmeida ($1.45 in chips) 
+Seat 3: Lorpugo ($1.52 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 6: Rumbo1962 ($1.66 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Ad]
+Rumbo1962: folds 
+Marti Krayf: raises $0.04 to $0.06
+vinicioalmeida: folds 
+vinicioalmeida leaves the table
+Lorpugo: calls $0.05
+Volkoff_V_A: folds 
+*** FLOP *** [Qc Ac 8h]
+Lorpugo: bets $0.02
+Marti Krayf: calls $0.02
+*** TURN *** [Qc Ac 8h] [6h]
+Lorpugo: bets $0.11
+Marti Krayf: calls $0.11
+*** RIVER *** [Qc Ac 8h 6h] [2s]
+Lorpugo: bets $1.33 and is all-in
+Marti Krayf: folds 
+Uncalled bet ($1.33) returned to Lorpugo
+Lorpugo collected $0.39 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Qc Ac 8h 6h 2s]
+Seat 1: Marti Krayf folded on the River
+Seat 2: vinicioalmeida (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.39)
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323508616:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:36:38 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: Lorpugo ($1.72 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($1.66 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 3s]
+Rumbo1962: folds 
+Evgen0979 joins the table at seat #2 
+Marti Krayf: folds 
+Lorpugo: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Uncalled bet ($0.04) returned to Volkoff_V_A
+Volkoff_V_A collected $0.04 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) collected ($0.04)
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323517197:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:36:57 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Evgen0979 ($1.60 in chips) 
+Seat 3: Lorpugo ($1.72 in chips) 
+Seat 4: Volkoff_V_A ($2.02 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($1.66 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 4d]
+Marti Krayf: raises $0.04 to $0.06
+Evgen0979: raises $0.04 to $0.10
+Lorpugo: folds 
+Volkoff_V_A: calls $0.10
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Marti Krayf: folds 
+*** FLOP *** [9c 6c 6h]
+Evgen0979: bets $0.28
+Volkoff_V_A: calls $0.28
+*** TURN *** [9c 6c 6h] [Qs]
+Evgen0979: checks 
+Volkoff_V_A: checks 
+*** RIVER *** [9c 6c 6h Qs] [2d]
+Evgen0979: bets $0.82
+Volkoff_V_A: folds 
+Uncalled bet ($0.82) returned to Evgen0979
+Evgen0979 collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [9c 6c 6h Qs 2d]
+Seat 1: Marti Krayf folded before Flop
+Seat 2: Evgen0979 collected ($0.82)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded on the River
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241323542611:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:37:53 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Evgen0979 ($2.04 in chips) 
+Seat 3: Lorpugo ($1.72 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($1.64 in chips) 
+Rumbo1962: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+Evgen0979: raises $0.02 to $0.04
+Lorpugo: folds 
+Volkoff_V_A: raises $0.11 to $0.15
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Marti Krayf: folds 
+Evgen0979: folds 
+Uncalled bet ($0.11) returned to Volkoff_V_A
+Marti Krayf leaves the table
+Volkoff_V_A collected $0.11 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Evgen0979 folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A collected ($0.11)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241323549302:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:38:07 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 2: Evgen0979 ($2 in chips) 
+Seat 3: Lorpugo ($1.72 in chips) 
+Seat 4: Volkoff_V_A ($2.07 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($1.63 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 9c]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+Evgen0979: raises $0.02 to $0.04
+Lorpugo: calls $0.02
+Rumbo1962: calls $0.02
+*** FLOP *** [8s Ks Ac]
+Evgen0979: bets $0.06
+Lorpugo: calls $0.06
+Rumbo1962: calls $0.06
+*** TURN *** [8s Ks Ac] [3d]
+Abuelo705 joins the table at seat #1 
+Evgen0979: checks 
+Lorpugo: bets $0.19
+Rumbo1962: calls $0.19
+Evgen0979: raises $0.19 to $0.38
+Lorpugo is disconnected 
+Lorpugo is connected 
+Lorpugo: folds 
+Rumbo1962: calls $0.19
+*** RIVER *** [8s Ks Ac 3d] [2s]
+Evgen0979: bets $0.61
+Rumbo1962: calls $0.61
+*** SHOW DOWN ***
+Evgen0979: shows [Ts 7s] (a flush, King high)
+Rumbo1962: mucks hand 
+Evgen0979 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.09 
+Board [8s Ks Ac 3d 2s]
+Seat 2: Evgen0979 (small blind) showed [Ts 7s] and won ($2.38) with a flush, King high
+Seat 3: Lorpugo (big blind) folded on the Turn
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) mucked [Qh Ad]
+
+
+
+PokerStars Hand #241323589290:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:39:35 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Abuelo705 ($1 in chips) 
+Seat 2: Evgen0979 ($3.29 in chips) 
+Seat 3: Lorpugo ($1.43 in chips) 
+Seat 4: Volkoff_V_A ($2.07 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($0.54 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+Abuelo705: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Ah]
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+Abuelo705: checks 
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: calls $0.04
+Rumbo1962: calls $0.04
+Abuelo705: folds 
+*** FLOP *** [2c 9s Jd]
+Volkoff_V_A: checks 
+Rumbo1962: checks 
+Evgen0979: bets $0.10
+Volkoff_V_A: folds 
+Rumbo1962: folds 
+Uncalled bet ($0.10) returned to Evgen0979
+Evgen0979 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2c 9s Jd]
+Seat 1: Abuelo705 folded before Flop (didn't bet)
+Seat 2: Evgen0979 (button) collected ($0.20)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded on the Flop
+
+
+
+PokerStars Hand #241323606922:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:40:13 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Abuelo705 ($0.98 in chips) 
+Seat 2: Evgen0979 ($3.43 in chips) 
+Seat 3: Lorpugo ($1.42 in chips) 
+Seat 4: Volkoff_V_A ($2.01 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($0.48 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Jd]
+Rumbo1962: calls $0.02
+Abuelo705: calls $0.02
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Volkoff_V_A: calls $0.05
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.04
+Abuelo705: folds 
+*** FLOP *** [7d 6d Kc]
+Volkoff_V_A: checks 
+Rumbo1962: checks 
+Evgen0979: bets $0.14
+Lorpugo: raises $1.22 to $1.36 and is all-in
+Volkoff_V_A: folds 
+Rumbo1962: folds 
+Evgen0979: folds 
+Uncalled bet ($1.22) returned to Lorpugo
+Lorpugo collected $0.54 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [7d 6d Kc]
+Seat 1: Abuelo705 folded before Flop
+Seat 2: Evgen0979 folded on the Flop
+Seat 3: Lorpugo (button) collected ($0.54)
+Seat 4: Volkoff_V_A (small blind) folded on the Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded on the Flop
+
+
+
+PokerStars Hand #241323629855:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:41:03 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Abuelo705 ($0.96 in chips) 
+Seat 2: Evgen0979 ($3.23 in chips) 
+Seat 3: Lorpugo ($1.76 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($0.42 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6h]
+Abuelo705: folds 
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Uncalled bet ($0.04) returned to Evgen0979
+Evgen0979 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Abuelo705 folded before Flop (didn't bet)
+Seat 2: Evgen0979 collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241323636878:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:41:18 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: Abuelo705 ($0.96 in chips) 
+Seat 2: Evgen0979 ($3.26 in chips) 
+Seat 3: Lorpugo ($1.76 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($2 in chips) 
+Seat 6: Rumbo1962 ($0.40 in chips) 
+Rumbo1962: posts small blind $0.01
+Abuelo705: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qd]
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Volkoff_V_A: folds 
+Quaer Jouzu: raises $0.16 to $0.22
+Rumbo1962: folds 
+Abuelo705: calls $0.20
+Evgen0979: calls $0.16
+Lorpugo: folds 
+*** FLOP *** [Th 2h 9s]
+Abuelo705: bets $0.40
+Evgen0979: folds 
+Quaer Jouzu: raises $1.38 to $1.78 and is all-in
+Abuelo705: calls $0.34 and is all-in
+Uncalled bet ($1.04) returned to Quaer Jouzu
+*** TURN *** [Th 2h 9s] [Js]
+*** RIVER *** [Th 2h 9s Js] [Ac]
+*** SHOW DOWN ***
+Abuelo705: shows [Qc Td] (a pair of Tens)
+Quaer Jouzu: shows [Ah Ks] (a pair of Aces)
+Quaer Jouzu collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.08 
+Board [Th 2h 9s Js Ac]
+Seat 1: Abuelo705 (big blind) showed [Qc Td] and lost with a pair of Tens
+Seat 2: Evgen0979 folded on the Flop
+Seat 3: Lorpugo folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) showed [Ah Ks] and won ($2.13) with a pair of Aces
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241323664593:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:42:18 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 2: Evgen0979 ($3.04 in chips) 
+Seat 3: Lorpugo ($1.70 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.17 in chips) 
+Seat 6: Rumbo1962 ($0.39 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5c]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Evgen0979: raises $0.02 to $0.04
+Lorpugo: raises $0.10 to $0.14
+Evgen0979: calls $0.10
+*** FLOP *** [Qs 5s Ks]
+Evgen0979: checks 
+Lorpugo: bets $0.02
+Evgen0979: calls $0.02
+*** TURN *** [Qs 5s Ks] [3h]
+Evgen0979: checks 
+Lorpugo: bets $0.68
+Evgen0979: folds 
+Uncalled bet ($0.68) returned to Lorpugo
+Lorpugo collected $0.31 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qs 5s Ks 3h]
+Seat 2: Evgen0979 (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) collected ($0.31)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323686754:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:43:06 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Abuelo705 ($2 in chips) 
+Seat 2: Evgen0979 ($2.88 in chips) 
+Seat 3: Lorpugo ($1.85 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.17 in chips) 
+Seat 6: Rumbo1962 ($0.39 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+Abuelo705: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5s]
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: raises $0.04 to $0.10
+Lorpugo: folds 
+Volkoff_V_A: calls $0.08
+Abuelo705: calls $0.04
+*** FLOP *** [9d 8h 2d]
+Volkoff_V_A: checks 
+Abuelo705: checks 
+Evgen0979: bets $0.31
+Volkoff_V_A: folds 
+Abuelo705: folds 
+Uncalled bet ($0.31) returned to Evgen0979
+Evgen0979 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [9d 8h 2d]
+Seat 1: Abuelo705 folded on the Flop
+Seat 2: Evgen0979 (button) collected ($0.31)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323707042:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:43:50 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Abuelo705 ($1.89 in chips) 
+Seat 2: Evgen0979 ($3.09 in chips) 
+Seat 3: Lorpugo ($1.84 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.17 in chips) 
+Seat 6: Rumbo1962 ($0.39 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 3d]
+Rumbo1962 has timed out
+Rumbo1962: folds 
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: raises $0.04 to $0.10
+Lorpugo: folds 
+Volkoff_V_A: calls $0.09
+Quaer Jouzu: folds 
+Abuelo705: raises $0.30 to $0.40
+Evgen0979: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.30) returned to Abuelo705
+Abuelo705 collected $0.32 from pot
+Abuelo705: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0 
+Seat 1: Abuelo705 collected ($0.32)
+Seat 2: Evgen0979 folded before Flop
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323725496:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:44:30 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Abuelo705 ($2.11 in chips) 
+Seat 2: Evgen0979 ($2.99 in chips) 
+Seat 3: Lorpugo ($1.84 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.15 in chips) 
+Seat 6: Rumbo1962 ($0.39 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8h]
+Abuelo705: folds 
+Evgen0979: raises $0.02 to $0.04
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+*** FLOP *** [9c As 5h]
+Rumbo1962: checks 
+Evgen0979: bets $0.09
+Rumbo1962: folds 
+Uncalled bet ($0.09) returned to Evgen0979
+Evgen0979 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9c As 5h]
+Seat 1: Abuelo705 folded before Flop (didn't bet)
+Seat 2: Evgen0979 collected ($0.09)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241323737969:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:44:56 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: Abuelo705 ($2.11 in chips) 
+Seat 2: Evgen0979 ($3.04 in chips) 
+Seat 3: Lorpugo ($1.84 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.14 in chips) 
+Seat 6: Rumbo1962 ($0.35 in chips) 
+Rumbo1962: posts small blind $0.01
+Abuelo705: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts As]
+Evgen0979: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.04
+Abuelo705: calls $0.03
+*** FLOP *** [Qs 9s 5h]
+Rumbo1962: checks 
+Abuelo705: checks 
+Lorpugo: bets $0.09
+Rumbo1962: calls $0.09
+Abuelo705: folds 
+*** TURN *** [Qs 9s 5h] [4c]
+Rumbo1962: checks 
+Lorpugo: checks 
+*** RIVER *** [Qs 9s 5h 4c] [9h]
+Rumbo1962: bets $0.02
+Lorpugo: calls $0.02
+*** SHOW DOWN ***
+Rumbo1962: shows [5c Kd] (two pair, Nines and Fives)
+Lorpugo: mucks hand 
+Rumbo1962 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Qs 9s 5h 4c 9h]
+Seat 1: Abuelo705 (big blind) folded on the Flop
+Seat 2: Evgen0979 folded before Flop (didn't bet)
+Seat 3: Lorpugo mucked [Ts As]
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) showed [5c Kd] and won ($0.36) with two pair, Nines and Fives
+
+
+
+PokerStars Hand #241323764793:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:45:55 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: Abuelo705 ($2.06 in chips) 
+Seat 2: Evgen0979 ($3.04 in chips) 
+Seat 3: Lorpugo ($1.68 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.14 in chips) 
+Seat 6: Rumbo1962 ($0.55 in chips) 
+Abuelo705: posts small blind $0.01
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8h]
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.04
+Abuelo705: calls $0.03
+Evgen0979: calls $0.02
+*** FLOP *** [8c Qs Td]
+Abuelo705: checks 
+Evgen0979: bets $0.15
+Lorpugo: raises $0.23 to $0.38
+Rumbo1962: folds 
+Abuelo705: folds 
+Evgen0979: folds 
+Uncalled bet ($0.23) returned to Lorpugo
+Lorpugo collected $0.44 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [8c Qs Td]
+Seat 1: Abuelo705 (small blind) folded on the Flop
+Seat 2: Evgen0979 (big blind) folded on the Flop
+Seat 3: Lorpugo collected ($0.44)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded on the Flop
+
+
+
+PokerStars Hand #241323779844:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:46:27 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: Abuelo705 ($2.02 in chips) 
+Seat 2: Evgen0979 ($2.85 in chips) 
+Seat 3: Lorpugo ($1.93 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.14 in chips) 
+Seat 6: Rumbo1962 ($0.51 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 3h]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: raises $0.04 to $0.10
+Lorpugo: folds 
+Rumbo1962: folds 
+Abuelo705: calls $0.04
+*** FLOP *** [Ad 4d 2s]
+Evgen0979: bets $0.23
+Abuelo705: calls $0.23
+*** TURN *** [Ad 4d 2s] [5d]
+Evgen0979: checks 
+Abuelo705: bets $0.20
+Evgen0979: calls $0.20
+*** RIVER *** [Ad 4d 2s 5d] [6s]
+Evgen0979: checks 
+Abuelo705: checks 
+*** SHOW DOWN ***
+Evgen0979: shows [Ac 9d] (a pair of Aces)
+Abuelo705: mucks hand 
+Evgen0979 collected $1.06 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.04 
+Board [Ad 4d 2s 5d 6s]
+Seat 1: Abuelo705 (button) mucked [Ks 5s]
+Seat 2: Evgen0979 (small blind) showed [Ac 9d] and won ($1.06) with a pair of Aces
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop
+
+
+
+PokerStars Hand #241323802565:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:47:16 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Abuelo705 ($1.49 in chips) 
+Seat 2: Evgen0979 ($3.38 in chips) 
+Seat 3: Lorpugo ($1.91 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.14 in chips) 
+Seat 6: Rumbo1962 ($0.49 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 7s]
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: raises $0.04 to $0.10
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Rumbo1962: calls $0.08
+Abuelo705: raises $0.40 to $0.50
+Evgen0979: folds 
+Rumbo1962: folds 
+Uncalled bet ($0.40) returned to Abuelo705
+Abuelo705 collected $0.33 from pot
+Abuelo705: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0 
+Seat 1: Abuelo705 collected ($0.33)
+Seat 2: Evgen0979 (button) folded before Flop
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop
+
+
+
+PokerStars Hand #241323822568:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:48:00 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Abuelo705 ($1.72 in chips) 
+Seat 2: Evgen0979 ($3.28 in chips) 
+Seat 3: Lorpugo ($1.90 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.14 in chips) 
+Seat 6: Rumbo1962 ($0.39 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Js]
+Rumbo1962: calls $0.02
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.04
+*** FLOP *** [Ac 4c Jd]
+Rumbo1962: bets $0.02
+Abuelo705: calls $0.02
+*** TURN *** [Ac 4c Jd] [6c]
+Rumbo1962: bets $0.02
+Abuelo705: calls $0.02
+*** RIVER *** [Ac 4c Jd 6c] [Kc]
+Rumbo1962: bets $0.02
+Abuelo705: calls $0.02
+*** SHOW DOWN ***
+Rumbo1962: shows [2s As] (a pair of Aces)
+Abuelo705: shows [Kh Ks] (three of a kind, Kings)
+Abuelo705 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ac 4c Jd 6c Kc]
+Seat 1: Abuelo705 showed [Kh Ks] and won ($0.26) with three of a kind, Kings
+Seat 2: Evgen0979 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 showed [2s As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #241323838995:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:48:35 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Abuelo705 ($1.86 in chips) 
+Seat 2: Evgen0979 ($3.28 in chips) 
+Seat 3: Lorpugo ($1.90 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.12 in chips) 
+Seat 6: Rumbo1962 ($0.27 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 3s]
+Abuelo705: folds 
+Evgen0979: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: checks 
+*** FLOP *** [8h Ks 8s]
+Rumbo1962: checks 
+Evgen0979: bets $0.05
+Rumbo1962: folds 
+Uncalled bet ($0.05) returned to Evgen0979
+Evgen0979 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h Ks 8s]
+Seat 1: Abuelo705 folded before Flop (didn't bet)
+Seat 2: Evgen0979 collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241323850657:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:49:01 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: Abuelo705 ($1.86 in chips) 
+Seat 2: Evgen0979 ($3.31 in chips) 
+Seat 3: Lorpugo ($1.90 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.11 in chips) 
+Seat 6: Rumbo1962 ($0.25 in chips) 
+Rumbo1962: posts small blind $0.01
+Abuelo705: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 7c]
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Abuelo705: calls $0.04
+*** FLOP *** [2s 8d Tc]
+Abuelo705: checks 
+Evgen0979: bets $0.13
+Abuelo705: calls $0.13
+*** TURN *** [2s 8d Tc] [5s]
+Abuelo705: checks 
+Evgen0979: checks 
+*** RIVER *** [2s 8d Tc 5s] [6c]
+Abuelo705: bets $0.22
+Evgen0979: folds 
+Uncalled bet ($0.22) returned to Abuelo705
+Abuelo705 collected $0.38 from pot
+Abuelo705: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [2s 8d Tc 5s 6c]
+Seat 1: Abuelo705 (big blind) collected ($0.38)
+Seat 2: Evgen0979 folded on the River
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241323871588:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:49:46 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: Abuelo705 ($2.05 in chips) 
+Seat 2: Evgen0979 ($3.12 in chips) 
+Seat 3: Lorpugo ($1.90 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.11 in chips) 
+Seat 6: Rumbo1962 ($0.24 in chips) 
+Abuelo705: posts small blind $0.01
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Td]
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Abuelo705: folds 
+Evgen0979: calls $0.03
+*** FLOP *** [5h 3s Jh]
+Evgen0979: checks 
+Lorpugo: bets $0.02
+Evgen0979: calls $0.02
+*** TURN *** [5h 3s Jh] [9d]
+Evgen0979: checks 
+Lorpugo: bets $0.09
+Evgen0979: calls $0.09
+*** RIVER *** [5h 3s Jh 9d] [4h]
+Evgen0979: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Evgen0979: shows [9h 8d] (a pair of Nines)
+Lorpugo: shows [Tc Td] (a pair of Tens)
+Lorpugo collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5h 3s Jh 9d 4h]
+Seat 1: Abuelo705 (small blind) folded before Flop
+Seat 2: Evgen0979 (big blind) showed [9h 8d] and lost with a pair of Nines
+Seat 3: Lorpugo showed [Tc Td] and won ($0.32) with a pair of Tens
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323889202:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:50:24 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: Abuelo705 ($2.04 in chips) 
+Seat 2: Evgen0979 ($2.96 in chips) 
+Seat 3: Lorpugo ($2.06 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.11 in chips) 
+Seat 6: Rumbo1962 ($0.24 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs 4s]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Abuelo705: calls $0.02
+Evgen0979: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ad 8d 4d]
+Evgen0979: checks 
+Lorpugo: bets $0.02
+Abuelo705: raises $0.02 to $0.04
+Evgen0979: calls $0.04
+Lorpugo: folds 
+*** TURN *** [Ad 8d 4d] [4c]
+Evgen0979: checks 
+Abuelo705: checks 
+*** RIVER *** [Ad 8d 4d 4c] [Qh]
+Evgen0979: bets $0.15
+Abuelo705: calls $0.15
+*** SHOW DOWN ***
+Evgen0979: shows [Th 5d] (a pair of Fours)
+Abuelo705: shows [3d Ac] (two pair, Aces and Fours)
+Abuelo705 collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Ad 8d 4d 4c Qh]
+Seat 1: Abuelo705 (button) showed [3d Ac] and won ($0.44) with two pair, Aces and Fours
+Seat 2: Evgen0979 (small blind) showed [Th 5d] and lost with a pair of Fours
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323906735:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:51:02 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Abuelo705 ($2.27 in chips) 
+Seat 2: Evgen0979 ($2.75 in chips) 
+Seat 3: Lorpugo ($2.02 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.11 in chips) 
+Seat 6: Rumbo1962 ($0.24 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 2d]
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.04) returned to Abuelo705
+Abuelo705 collected $0.05 from pot
+Abuelo705: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Abuelo705 collected ($0.05)
+Seat 2: Evgen0979 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323914307:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:51:18 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Abuelo705 ($2.30 in chips) 
+Seat 2: Evgen0979 ($2.75 in chips) 
+Seat 3: Lorpugo ($2.01 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.11 in chips) 
+Seat 6: Rumbo1962 ($0.24 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 6c]
+Rumbo1962: folds 
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: calls $0.06
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+*** FLOP *** [3s 5s Ah]
+Abuelo705: checks 
+Evgen0979: checks 
+*** TURN *** [3s 5s Ah] [Kd]
+Abuelo705: checks 
+Evgen0979: bets $0.14
+Abuelo705: raises $0.14 to $0.28
+Evgen0979: folds 
+Uncalled bet ($0.14) returned to Abuelo705
+Abuelo705 collected $0.41 from pot
+Abuelo705: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [3s 5s Ah Kd]
+Seat 1: Abuelo705 collected ($0.41)
+Seat 2: Evgen0979 folded on the Turn
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323932146:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:51:57 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Abuelo705 ($2.51 in chips) 
+Seat 2: Evgen0979 ($2.55 in chips) 
+Seat 3: Lorpugo ($2.01 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.09 in chips) 
+Seat 6: Rumbo1962 ($0.24 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8s]
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: raises $0.04 to $0.10
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.08
+Abuelo705: calls $0.04
+*** FLOP *** [Qs Tc As]
+Rumbo1962: bets $0.02
+Abuelo705: calls $0.02
+Evgen0979: raises $0.36 to $0.38
+Rumbo1962: calls $0.12 and is all-in
+Abuelo705: folds 
+Uncalled bet ($0.24) returned to Evgen0979
+*** TURN *** [Qs Tc As] [8h]
+*** RIVER *** [Qs Tc As 8h] [Kc]
+*** SHOW DOWN ***
+Rumbo1962: shows [4s Ad] (a pair of Aces)
+Evgen0979: shows [8c Ah] (two pair, Aces and Eights)
+Evgen0979 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Qs Tc As 8h Kc]
+Seat 1: Abuelo705 folded on the Flop
+Seat 2: Evgen0979 showed [8c Ah] and won ($0.59) with two pair, Aces and Eights
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) showed [4s Ad] and lost with a pair of Aces
+
+
+
+PokerStars Hand #241323951069:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:52:37 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: Abuelo705 ($2.39 in chips) 
+Seat 2: Evgen0979 ($2.90 in chips) 
+Seat 3: Lorpugo ($2.01 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.08 in chips) 
+Abuelo705: posts small blind $0.01
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3s]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Abuelo705: raises $0.02 to $0.04
+Evgen0979: raises $0.02 to $0.06
+Abuelo705: calls $0.02
+*** FLOP *** [Kh 7d Th]
+Abuelo705: checks 
+Evgen0979: bets $0.12
+Abuelo705: calls $0.12
+*** TURN *** [Kh 7d Th] [2c]
+Abuelo705: checks 
+Evgen0979: checks 
+*** RIVER *** [Kh 7d Th 2c] [6s]
+Abuelo705: bets $0.18
+Evgen0979: calls $0.18
+*** SHOW DOWN ***
+Abuelo705: shows [6d 7c] (two pair, Sevens and Sixes)
+Evgen0979: mucks hand 
+Abuelo705 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Kh 7d Th 2c 6s]
+Seat 1: Abuelo705 (small blind) showed [6d 7c] and won ($0.69) with two pair, Sevens and Sixes
+Seat 2: Evgen0979 (big blind) mucked [Qs Qh]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241323973244:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:53:25 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: Abuelo705 ($2.72 in chips) 
+Seat 2: Evgen0979 ($2.54 in chips) 
+Seat 3: Lorpugo ($2.01 in chips) 
+Seat 4: Volkoff_V_A ($2 in chips) 
+Seat 5: Quaer Jouzu ($3.08 in chips) 
+Seat 6: Rumbo1962 ($2 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Rumbo1962: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8c]
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.06
+Abuelo705: calls $0.06
+Evgen0979: raises $0.04 to $0.10
+Lorpugo: folds 
+Volkoff_V_A: calls $0.04
+Rumbo1962: calls $0.04
+Abuelo705: calls $0.04
+*** FLOP *** [4c 3c 2d]
+Evgen0979: checks 
+Volkoff_V_A: bets $0.21
+Rumbo1962: folds 
+Abuelo705: calls $0.21
+Evgen0979: folds 
+*** TURN *** [4c 3c 2d] [5s]
+Volkoff_V_A: bets $0.39
+Abuelo705: calls $0.39
+*** RIVER *** [4c 3c 2d 5s] [Qh]
+Volkoff_V_A: bets $0.99
+Abuelo705: calls $0.99
+*** SHOW DOWN ***
+Volkoff_V_A: shows [6s 6c] (a straight, Deuce to Six)
+Abuelo705: mucks hand 
+Volkoff_V_A collected $3.48 from pot
+*** SUMMARY ***
+Total pot $3.61 | Rake $0.13 
+Board [4c 3c 2d 5s Qh]
+Seat 1: Abuelo705 (button) mucked [Ac 3s]
+Seat 2: Evgen0979 (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A showed [6s 6c] and won ($3.48) with a straight, Deuce to Six
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded on the Flop
+
+
+
+PokerStars Hand #241324006828:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:54:38 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: Abuelo705 ($1.03 in chips) 
+Seat 2: Evgen0979 ($2.44 in chips) 
+Seat 3: Lorpugo ($1.99 in chips) 
+Seat 4: Volkoff_V_A ($3.79 in chips) 
+Seat 5: Quaer Jouzu ($3.08 in chips) 
+Seat 6: Rumbo1962 ($1.89 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6h]
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+Abuelo705: calls $0.02
+Evgen0979: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: checks 
+*** FLOP *** [Kd 5h 9d]
+Volkoff_V_A: checks 
+Rumbo1962: bets $0.02
+Abuelo705: folds 
+Evgen0979: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.02) returned to Rumbo1962
+Rumbo1962 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd 5h 9d]
+Seat 1: Abuelo705 folded on the Flop
+Seat 2: Evgen0979 (button) folded on the Flop
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 collected ($0.09)
+
+
+
+PokerStars Hand #241324020281:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:55:07 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: Abuelo705 ($1.01 in chips) 
+Seat 2: Evgen0979 ($2.42 in chips) 
+Seat 3: Lorpugo ($1.98 in chips) 
+Seat 4: Volkoff_V_A ($3.77 in chips) 
+Seat 5: Quaer Jouzu ($3.08 in chips) 
+Seat 6: Rumbo1962 ($1.96 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 8s]
+Rumbo1962: folds 
+Abuelo705: folds 
+Evgen0979: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+*** FLOP *** [Tc Ac 4s]
+Evgen0979: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Evgen0979
+Evgen0979 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Tc Ac 4s]
+Seat 1: Abuelo705 folded before Flop (didn't bet)
+Seat 2: Evgen0979 collected ($0.11)
+Seat 3: Lorpugo (button) folded on the Flop
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324027934:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:55:30 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: Abuelo705 ($1.01 in chips) 
+Seat 2: Evgen0979 ($2.49 in chips) 
+Seat 3: Lorpugo ($1.94 in chips) 
+Seat 4: Volkoff_V_A ($3.76 in chips) 
+Seat 5: Quaer Jouzu ($3.06 in chips) 
+Seat 6: Rumbo1962 ($1.96 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qc]
+Abuelo705: calls $0.02
+Evgen0979: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: raises $0.06 to $0.08
+Rumbo1962: folds 
+Abuelo705: calls $0.06
+Evgen0979: calls $0.06
+*** FLOP *** [7s Ah 2s]
+Quaer Jouzu: checks 
+Abuelo705: checks 
+Evgen0979: checks 
+*** TURN *** [7s Ah 2s] [5h]
+Quaer Jouzu: checks 
+Abuelo705: checks 
+Evgen0979: bets $0.25
+Quaer Jouzu: folds 
+Abuelo705: calls $0.25
+*** RIVER *** [7s Ah 2s 5h] [Qd]
+Abuelo705: bets $0.68 and is all-in
+Evgen0979: folds 
+Uncalled bet ($0.68) returned to Abuelo705
+Abuelo705 collected $0.73 from pot
+Abuelo705: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [7s Ah 2s 5h Qd]
+Seat 1: Abuelo705 collected ($0.73)
+Seat 2: Evgen0979 folded on the River
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded on the Turn
+Seat 6: Rumbo1962 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241324050418:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:56:47 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: Abuelo705 ($1.41 in chips) 
+Seat 2: Evgen0979 ($2.16 in chips) 
+Seat 3: Lorpugo ($1.94 in chips) 
+Seat 4: Volkoff_V_A ($3.76 in chips) 
+Seat 5: Quaer Jouzu ($2.98 in chips) 
+Seat 6: Rumbo1962 ($1.94 in chips) 
+Rumbo1962: posts small blind $0.01
+Abuelo705: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ts]
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: raises $0.13 to $0.19
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Abuelo705: folds 
+Evgen0979: calls $0.13
+*** FLOP *** [4s 3d 3s]
+Evgen0979: checks 
+Volkoff_V_A: bets $0.29
+Evgen0979: folds 
+Uncalled bet ($0.29) returned to Volkoff_V_A
+Volkoff_V_A collected $0.40 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [4s 3d 3s]
+Seat 1: Abuelo705 (big blind) folded before Flop
+Seat 2: Evgen0979 folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A collected ($0.40)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324061480:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:57:24 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: Abuelo705 ($1.39 in chips) 
+Seat 2: Evgen0979 ($1.97 in chips) 
+Seat 3: Lorpugo ($1.94 in chips) 
+Seat 4: Volkoff_V_A ($3.97 in chips) 
+Seat 5: Quaer Jouzu ($2.98 in chips) 
+Seat 6: Rumbo1962 ($1.93 in chips) 
+Abuelo705: posts small blind $0.01
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qs]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Abuelo705: raises $0.04 to $0.06
+Evgen0979: raises $0.04 to $0.10
+Abuelo705: raises $0.20 to $0.30
+Evgen0979: raises $0.20 to $0.50
+Abuelo705: raises $0.89 to $1.39 and is all-in
+Evgen0979: calls $0.89
+*** FLOP *** [9h 2c Kc]
+*** TURN *** [9h 2c Kc] [5d]
+*** RIVER *** [9h 2c Kc 5d] [Td]
+*** SHOW DOWN ***
+Abuelo705: shows [Js As] (high card Ace)
+Evgen0979: shows [5c 5s] (three of a kind, Fives)
+Evgen0979 collected $2.68 from pot
+*** SUMMARY ***
+Total pot $2.78 | Rake $0.10 
+Board [9h 2c Kc 5d Td]
+Seat 1: Abuelo705 (small blind) showed [Js As] and lost with high card Ace
+Seat 2: Evgen0979 (big blind) showed [5c 5s] and won ($2.68) with three of a kind, Fives
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324072117:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:58:00 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 2: Evgen0979 ($3.26 in chips) 
+Seat 3: Lorpugo ($1.94 in chips) 
+Seat 4: Volkoff_V_A ($3.97 in chips) 
+Seat 5: Quaer Jouzu ($2.98 in chips) 
+Seat 6: Rumbo1962 ($1.93 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7s]
+Quaer Jouzu: folds 
+Abuelo705 leaves the table
+Rumbo1962: calls $0.02
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: calls $0.04
+Rumbo1962: calls $0.04
+*** FLOP *** [6s Js 4s]
+Volkoff_V_A: checks 
+Rumbo1962: checks 
+Evgen0979: bets $0.09
+Volkoff_V_A: folds 
+Rumbo1962: calls $0.09
+*** TURN *** [6s Js 4s] [7c]
+Rumbo1962: checks 
+Evgen0979: checks 
+*** RIVER *** [6s Js 4s 7c] [Th]
+JosKol44 joins the table at seat #1 
+Rumbo1962: bets $0.02
+Evgen0979: calls $0.02
+*** SHOW DOWN ***
+Rumbo1962: shows [Ks 6d] (a pair of Sixes)
+Evgen0979: mucks hand 
+Rumbo1962 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [6s Js 4s 7c Th]
+Seat 2: Evgen0979 (button) mucked [8h Kh]
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 showed [Ks 6d] and won ($0.40) with a pair of Sixes
+
+
+
+PokerStars Hand #241324087785:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 13:58:53 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 2: Evgen0979 ($3.09 in chips) 
+Seat 3: Lorpugo ($1.93 in chips) 
+Seat 4: Volkoff_V_A ($3.91 in chips) 
+Seat 5: Quaer Jouzu ($2.98 in chips) 
+Seat 6: Rumbo1962 ($2.16 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Tc]
+Rumbo1962: calls $0.02
+Evgen0979: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+Volkoff_V_A: calls $0.03
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+*** FLOP *** [6c 2c 4c]
+Volkoff_V_A: checks 
+Rumbo1962: checks 
+Evgen0979: bets $0.09
+Lorpugo: folds 
+Volkoff_V_A: calls $0.09
+Rumbo1962: calls $0.09
+*** TURN *** [6c 2c 4c] [5s]
+Volkoff_V_A: checks 
+Rumbo1962: bets $0.02
+Evgen0979: raises $0.47 to $0.49
+Volkoff_V_A: folds 
+Rumbo1962: calls $0.47
+*** RIVER *** [6c 2c 4c 5s] [9d]
+Rumbo1962: bets $0.02
+Evgen0979: calls $0.02
+*** SHOW DOWN ***
+Rumbo1962: shows [3d 3h] (a straight, Deuce to Six)
+Evgen0979: shows [3s Ah] (a straight, Deuce to Six)
+Rumbo1962 collected $0.71 from pot
+Evgen0979 collected $0.71 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.05 
+Board [6c 2c 4c 5s 9d]
+Seat 2: Evgen0979 showed [3s Ah] and won ($0.71) with a straight, Deuce to Six
+Seat 3: Lorpugo (button) folded on the Flop
+Seat 4: Volkoff_V_A (small blind) folded on the Turn
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 showed [3d 3h] and won ($0.71) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #241324109390:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:00:05 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 2: Evgen0979 ($3.16 in chips) 
+Seat 3: Lorpugo ($1.89 in chips) 
+Seat 4: Volkoff_V_A ($3.78 in chips) 
+Seat 5: Quaer Jouzu ($2.96 in chips) 
+Seat 6: Rumbo1962 ($2.23 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Jc]
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.04
+*** FLOP *** [6c 3h 3c]
+Rumbo1962: checks 
+Evgen0979: bets $0.18
+Lorpugo: raises $1.65 to $1.83 and is all-in
+Rumbo1962: folds 
+Evgen0979: calls $1.65
+*** TURN *** [6c 3h 3c] [Qs]
+*** RIVER *** [6c 3h 3c Qs] [Th]
+*** SHOW DOWN ***
+Evgen0979: shows [7h 7s] (two pair, Sevens and Threes)
+Lorpugo: shows [Qc Jc] (two pair, Queens and Threes)
+Lorpugo collected $3.72 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.13 
+Board [6c 3h 3c Qs Th]
+Seat 2: Evgen0979 showed [7h 7s] and lost with two pair, Sevens and Threes
+Seat 3: Lorpugo showed [Qc Jc] and won ($3.72) with two pair, Queens and Threes
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241324122026:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:00:45 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.27 in chips) 
+Seat 3: Lorpugo ($3.72 in chips) 
+Seat 4: Volkoff_V_A ($3.78 in chips) 
+Seat 5: Quaer Jouzu ($2.95 in chips) 
+Seat 6: Rumbo1962 ($2.17 in chips) 
+Rumbo1962: posts small blind $0.01
+JosKol44: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3h]
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: calls $0.04
+*** FLOP *** [6s 5d 3d]
+JosKol44: checks 
+Evgen0979: bets $0.13
+JosKol44: folds 
+Uncalled bet ($0.13) returned to Evgen0979
+Evgen0979 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s 5d 3d]
+Seat 1: JosKol44 (big blind) folded on the Flop
+Seat 2: Evgen0979 collected ($0.13)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324132183:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:01:13 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.34 in chips) 
+Seat 3: Lorpugo ($3.72 in chips) 
+Seat 4: Volkoff_V_A ($3.78 in chips) 
+Seat 5: Quaer Jouzu ($2.95 in chips) 
+Seat 6: Rumbo1962 ($2.16 in chips) 
+JosKol44: posts small blind $0.01
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4c]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Uncalled bet ($0.01) returned to Evgen0979
+Evgen0979 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: JosKol44 (small blind) folded before Flop
+Seat 2: Evgen0979 (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324136029:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:01:24 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.35 in chips) 
+Seat 3: Lorpugo ($3.72 in chips) 
+Seat 4: Volkoff_V_A ($3.78 in chips) 
+Seat 5: Quaer Jouzu ($2.95 in chips) 
+Seat 6: Rumbo1962 ($2.16 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 6s]
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Evgen0979: raises $0.14 to $0.20
+Lorpugo: folds 
+Volkoff_V_A: raises $3.58 to $3.78 and is all-in
+Evgen0979: calls $1.15 and is all-in
+Uncalled bet ($2.43) returned to Volkoff_V_A
+*** FLOP *** [2h Td 6h]
+*** TURN *** [2h Td 6h] [5d]
+*** RIVER *** [2h Td 6h 5d] [3h]
+*** SHOW DOWN ***
+Evgen0979: shows [Jc Kh] (high card King)
+Volkoff_V_A: shows [9d 9h] (a pair of Nines)
+Volkoff_V_A collected $2.62 from pot
+*** SUMMARY ***
+Total pot $2.72 | Rake $0.10 
+Board [2h Td 6h 5d 3h]
+Seat 1: JosKol44 (button) folded before Flop (didn't bet)
+Seat 2: Evgen0979 (small blind) showed [Jc Kh] and lost with high card King
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A showed [9d 9h] and won ($2.62) with a pair of Nines
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324150202:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:02:01 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 3: Lorpugo ($3.70 in chips) 
+Seat 4: Volkoff_V_A ($5.05 in chips) 
+Seat 5: Quaer Jouzu ($2.95 in chips) 
+Seat 6: Rumbo1962 ($2.16 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 8d]
+Rumbo1962: calls $0.02
+JosKol44: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: raises $0.17 to $0.22
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Lorpugo: folds 
+Uncalled bet ($0.17) returned to Volkoff_V_A
+Volkoff_V_A collected $0.14 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop
+Seat 4: Volkoff_V_A (small blind) collected ($0.14)
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop
+
+
+
+PokerStars Hand #241324163959:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:02:32 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($2 in chips) 
+Seat 3: Lorpugo ($3.65 in chips) 
+Seat 4: Volkoff_V_A ($5.14 in chips) 
+Seat 5: Quaer Jouzu ($2.93 in chips) 
+Seat 6: Rumbo1962 ($2.14 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Js]
+JosKol44: folds 
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Volkoff_V_A: calls $0.06
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.04
+*** FLOP *** [4h 8d Ts]
+Rumbo1962: checks 
+Evgen0979: bets $0.24
+Lorpugo: calls $0.24
+Volkoff_V_A: folds 
+Rumbo1962: folds 
+*** TURN *** [4h 8d Ts] [Ad]
+Evgen0979: checks 
+Lorpugo: bets $0.42
+Evgen0979: folds 
+Uncalled bet ($0.42) returned to Lorpugo
+Lorpugo collected $0.70 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [4h 8d Ts Ad]
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Evgen0979 folded on the Turn
+Seat 3: Lorpugo collected ($0.70)
+Seat 4: Volkoff_V_A (button) folded on the Flop
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241324192643:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:03:33 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.70 in chips) 
+Seat 3: Lorpugo ($4.05 in chips) 
+Seat 4: Volkoff_V_A ($5.08 in chips) 
+Seat 5: Quaer Jouzu ($2.92 in chips) 
+Seat 6: Rumbo1962 ($2.08 in chips) 
+Rumbo1962: posts small blind $0.01
+JosKol44: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qc]
+Evgen0979: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: raises $0.07 to $0.09
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Evgen0979: folds 
+Uncalled bet ($0.07) returned to Volkoff_V_A
+Volkoff_V_A collected $0.07 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: JosKol44 (big blind) folded before Flop
+Seat 2: Evgen0979 folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A collected ($0.07)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324202617:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:03:55 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.68 in chips) 
+Seat 3: Lorpugo ($4.05 in chips) 
+Seat 4: Volkoff_V_A ($5.13 in chips) 
+Seat 5: Quaer Jouzu ($2.92 in chips) 
+Seat 6: Rumbo1962 ($2.07 in chips) 
+JosKol44: posts small blind $0.01
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Kc]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Uncalled bet ($0.01) returned to Evgen0979
+Evgen0979 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: JosKol44 (small blind) folded before Flop
+Seat 2: Evgen0979 (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324207290:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:04:05 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.69 in chips) 
+Seat 3: Lorpugo ($4.05 in chips) 
+Seat 4: Volkoff_V_A ($5.13 in chips) 
+Seat 5: Quaer Jouzu ($2.92 in chips) 
+Seat 6: Rumbo1962 ($2.07 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5c]
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.06
+JosKol44: folds 
+Evgen0979: folds 
+Lorpugo: folds 
+*** FLOP *** [2c 4s 8h]
+Volkoff_V_A: checks 
+Rumbo1962: checks 
+*** TURN *** [2c 4s 8h] [Qs]
+Volkoff_V_A: checks 
+Rumbo1962: checks 
+*** RIVER *** [2c 4s 8h Qs] [7c]
+Volkoff_V_A: checks 
+Rumbo1962: bets $0.02
+Volkoff_V_A: calls $0.02
+*** SHOW DOWN ***
+Rumbo1962: shows [6c Ac] (high card Ace)
+Volkoff_V_A: shows [As Kc] (high card Ace - King kicker)
+Volkoff_V_A collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2c 4s 8h Qs 7c]
+Seat 1: JosKol44 (button) folded before Flop (didn't bet)
+Seat 2: Evgen0979 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A showed [As Kc] and won ($0.18) with high card Ace
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 showed [6c Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #241324226408:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:04:45 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.68 in chips) 
+Seat 3: Lorpugo ($4.03 in chips) 
+Seat 4: Volkoff_V_A ($5.23 in chips) 
+Seat 5: Quaer Jouzu ($2.92 in chips) 
+Seat 6: Rumbo1962 ($1.99 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Ah]
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Evgen0979: calls $0.02
+Lorpugo: raises $0.08 to $0.10
+Volkoff_V_A: folds 
+Evgen0979: calls $0.08
+*** FLOP *** [3s Kh 6d]
+Lorpugo: checks 
+Evgen0979: bets $0.21
+Lorpugo: folds 
+Uncalled bet ($0.21) returned to Evgen0979
+Evgen0979 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [3s Kh 6d]
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Evgen0979 (button) collected ($0.21)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324242606:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:05:19 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.79 in chips) 
+Seat 3: Lorpugo ($3.93 in chips) 
+Seat 4: Volkoff_V_A ($5.21 in chips) 
+Seat 5: Quaer Jouzu ($2.92 in chips) 
+Seat 6: Rumbo1962 ($1.99 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qc]
+Rumbo1962: calls $0.02
+JosKol44: folds 
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: calls $0.06
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.04
+*** FLOP *** [Qs 4d 7h]
+Rumbo1962: checks 
+Evgen0979: checks 
+Lorpugo: bets $0.07
+Rumbo1962: folds 
+Evgen0979: calls $0.07
+*** TURN *** [Qs 4d 7h] [Jc]
+Evgen0979: checks 
+Lorpugo: bets $0.22
+Evgen0979: folds 
+Uncalled bet ($0.22) returned to Lorpugo
+Lorpugo collected $0.34 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Qs 4d 7h Jc]
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Evgen0979 folded on the Turn
+Seat 3: Lorpugo (button) collected ($0.34)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded on the Flop
+
+
+
+PokerStars Hand #241324265763:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:06:08 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: JosKol44 ($2 in chips) 
+Seat 2: Evgen0979 ($1.66 in chips) 
+Seat 3: Lorpugo ($4.14 in chips) 
+Seat 4: Volkoff_V_A ($5.20 in chips) 
+Seat 5: Quaer Jouzu ($2.90 in chips) 
+Seat 6: Rumbo1962 ($1.93 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Th]
+JosKol44: raises $0.02 to $0.04
+Evgen0979: calls $0.04
+Lorpugo: folds 
+Volkoff_V_A: calls $0.04
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+*** FLOP *** [7s Qh 2c]
+JosKol44: bets $0.07
+Evgen0979: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.07) returned to JosKol44
+JosKol44 collected $0.14 from pot
+JosKol44: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s Qh 2c]
+Seat 1: JosKol44 collected ($0.14)
+Seat 2: Evgen0979 folded on the Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded on the Flop
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241324280202:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:06:39 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: JosKol44 ($2.10 in chips) 
+Seat 2: Evgen0979 ($1.62 in chips) 
+Seat 3: Lorpugo ($4.14 in chips) 
+Seat 4: Volkoff_V_A ($5.16 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Seat 6: Rumbo1962 ($1.91 in chips) 
+Rumbo1962: posts small blind $0.01
+JosKol44: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts Kh]
+Evgen0979: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: calls $0.06
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+*** FLOP *** [Qh 2c Kd]
+Evgen0979: bets $0.07
+Volkoff_V_A: calls $0.07
+*** TURN *** [Qh 2c Kd] [Qc]
+Evgen0979: bets $0.14
+Volkoff_V_A: calls $0.14
+*** RIVER *** [Qh 2c Kd Qc] [Jc]
+Evgen0979: bets $0.55
+Volkoff_V_A: raises $1.65 to $2.20
+Evgen0979: calls $0.80 and is all-in
+Uncalled bet ($0.85) returned to Volkoff_V_A
+*** SHOW DOWN ***
+Volkoff_V_A: shows [Qs Ks] (a full house, Queens full of Kings)
+Evgen0979: shows [Kc Qd] (a full house, Queens full of Kings)
+Evgen0979 collected $1.58 from pot
+Volkoff_V_A collected $1.58 from pot
+*** SUMMARY ***
+Total pot $3.27 | Rake $0.11 
+Board [Qh 2c Kd Qc Jc]
+Seat 1: JosKol44 (big blind) folded before Flop
+Seat 2: Evgen0979 showed [Kc Qd] and won ($1.58) with a full house, Queens full of Kings
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A showed [Qs Ks] and won ($1.58) with a full house, Queens full of Kings
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324309633:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:07:41 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: JosKol44 ($2.08 in chips) 
+Seat 2: Evgen0979 ($1.58 in chips) 
+Seat 3: Lorpugo ($4.14 in chips) 
+Seat 4: Volkoff_V_A ($5.12 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Seat 6: Rumbo1962 ($1.90 in chips) 
+JosKol44: posts small blind $0.01
+Evgen0979: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Qs]
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Evgen0979: calls $0.03
+*** FLOP *** [4d 2c 2s]
+Evgen0979: bets $0.06
+Lorpugo: raises $0.15 to $0.21
+Evgen0979: calls $0.15
+*** TURN *** [4d 2c 2s] [2h]
+Evgen0979: checks 
+Lorpugo: bets $0.26
+Evgen0979: calls $0.26
+*** RIVER *** [4d 2c 2s 2h] [3h]
+Evgen0979: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Evgen0979: shows [As 8d] (three of a kind, Deuces)
+Lorpugo: shows [Qh Qs] (a full house, Deuces full of Queens)
+Lorpugo collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [4d 2c 2s 2h 3h]
+Seat 1: JosKol44 (small blind) folded before Flop
+Seat 2: Evgen0979 (big blind) showed [As 8d] and lost with three of a kind, Deuces
+Seat 3: Lorpugo showed [Qh Qs] and won ($1.01) with a full house, Deuces full of Queens
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324332013:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:08:28 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: JosKol44 ($2.07 in chips) 
+Seat 2: Evgen0979 ($1.06 in chips) 
+Seat 3: Lorpugo ($4.63 in chips) 
+Seat 4: Volkoff_V_A ($5.12 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Seat 6: Rumbo1962 ($1.90 in chips) 
+Evgen0979: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Kc]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Evgen0979: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+Evgen0979: calls $0.08
+*** FLOP *** [4c 9c 4d]
+Evgen0979: checks 
+Lorpugo: bets $0.06
+Evgen0979: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.19 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4c 9c 4d]
+Seat 1: JosKol44 (button) folded before Flop (didn't bet)
+Seat 2: Evgen0979 (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) collected ($0.19)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324347124:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:08:59 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: JosKol44 ($2.07 in chips) 
+Seat 2: Evgen0979 ($0.96 in chips) 
+Seat 3: Lorpugo ($4.72 in chips) 
+Seat 4: Volkoff_V_A ($5.12 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Seat 6: Rumbo1962 ($1.90 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5h]
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Evgen0979: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: calls $0.03
+*** FLOP *** [Jh 8h As]
+Lorpugo: checks 
+Volkoff_V_A: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Volkoff_V_A
+Volkoff_V_A collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jh 8h As]
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Evgen0979 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: Volkoff_V_A (big blind) collected ($0.10)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324358232:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:09:22 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: JosKol44 ($2.07 in chips) 
+Seat 2: Evgen0979 ($0.96 in chips) 
+Seat 3: Lorpugo ($4.67 in chips) 
+Seat 4: Volkoff_V_A ($5.17 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Seat 6: Rumbo1962 ($1.90 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 3c]
+Rumbo1962 has timed out
+Rumbo1962: folds 
+JosKol44: raises $0.02 to $0.04
+Evgen0979: folds 
+Lorpugo: folds 
+Volkoff_V_A: calls $0.03
+Quaer Jouzu: folds 
+*** FLOP *** [2h 6h 5c]
+Volkoff_V_A: checks 
+JosKol44: bets $0.05
+Volkoff_V_A: calls $0.05
+*** TURN *** [2h 6h 5c] [8s]
+Volkoff_V_A: checks 
+JosKol44: bets $0.10
+Volkoff_V_A: calls $0.10
+*** RIVER *** [2h 6h 5c 8s] [Ks]
+Volkoff_V_A: checks 
+JosKol44: checks 
+*** SHOW DOWN ***
+Volkoff_V_A: shows [Ah 7h] (high card Ace)
+JosKol44: shows [Tc Ts] (a pair of Tens)
+JosKol44 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [2h 6h 5c 8s Ks]
+Seat 1: JosKol44 showed [Tc Ts] and won ($0.39) with a pair of Tens
+Seat 2: Evgen0979 folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) showed [Ah 7h] and lost with high card Ace
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324380802:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:10:09 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: JosKol44 ($2.27 in chips) 
+Seat 2: Evgen0979 ($0.96 in chips) 
+Seat 3: Lorpugo ($4.67 in chips) 
+Seat 4: Volkoff_V_A ($4.98 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Rumbo1962 ($1.90 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 3s]
+JosKol44: folds 
+Evgen0979: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: checks 
+*** FLOP *** [As Qh 4h]
+Rumbo1962: bets $0.02
+Evgen0979: raises $0.09 to $0.11
+Rumbo1962: calls $0.09
+*** TURN *** [As Qh 4h] [5h]
+Rumbo1962: checks 
+Evgen0979: bets $0.26
+Rumbo1962: calls $0.26
+*** RIVER *** [As Qh 4h 5h] [Ah]
+Rumbo1962: bets $0.02
+Evgen0979: raises $0.55 to $0.57 and is all-in
+Rumbo1962: calls $0.55
+*** SHOW DOWN ***
+Evgen0979: shows [Qc 5c] (two pair, Aces and Queens)
+Rumbo1962: shows [5d Ad] (a full house, Aces full of Fives)
+Rumbo1962 collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.93 | Rake $0.07 
+Board [As Qh 4h 5h Ah]
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Evgen0979 showed [Qc 5c] and lost with two pair, Aces and Queens
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) showed [5d Ad] and won ($1.86) with a full house, Aces full of Fives
+
+
+
+PokerStars Hand #241324404220:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:10:58 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: JosKol44 ($2.27 in chips) 
+Seat 3: Lorpugo ($4.67 in chips) 
+Seat 4: Volkoff_V_A ($4.98 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Rumbo1962 ($2.80 in chips) 
+Rumbo1962: posts small blind $0.01
+JosKol44: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Js]
+Evgen0979 leaves the table
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: calls $0.05
+Quaer Jouzu: folds 
+Skljar joins the table at seat #2 
+Rumbo1962: calls $0.04
+JosKol44: folds 
+*** FLOP *** [9s 7h Ac]
+Rumbo1962: checks 
+Lorpugo: bets $0.08
+Volkoff_V_A: folds 
+Rumbo1962: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.16 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9s 7h Ac]
+Seat 1: JosKol44 (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.16)
+Seat 4: Volkoff_V_A folded on the Flop
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241324416971:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:11:25 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: JosKol44 ($2.25 in chips) 
+Seat 2: Skljar ($2 in chips) 
+Seat 3: Lorpugo ($4.78 in chips) 
+Seat 4: Volkoff_V_A ($4.93 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Rumbo1962 ($2.75 in chips) 
+JosKol44: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5c]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+JosKol44: folds 
+Uncalled bet ($0.01) returned to Skljar
+Skljar collected $0.02 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: JosKol44 (small blind) folded before Flop
+Seat 2: Skljar (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324422877:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:11:37 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: JosKol44 ($2.24 in chips) 
+Seat 2: Skljar ($2.01 in chips) 
+Seat 3: Lorpugo ($4.78 in chips) 
+Seat 4: Volkoff_V_A ($4.93 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Rumbo1962 ($2.75 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 8s]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+JosKol44: folds 
+Skljar: raises $0.05 to $0.07
+Lorpugo: folds 
+Rumbo1962: folds 
+Uncalled bet ($0.05) returned to Skljar
+Skljar collected $0.06 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: JosKol44 (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) collected ($0.06)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop
+
+
+
+PokerStars Hand #241324432629:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:11:58 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: JosKol44 ($2.24 in chips) 
+Seat 2: Skljar ($2.05 in chips) 
+Seat 3: Lorpugo ($4.76 in chips) 
+Seat 4: Volkoff_V_A ($4.93 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Rumbo1962 ($2.73 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 2h]
+Quaer Jouzu: raises $0.04 to $0.06
+Rumbo1962: folds 
+JosKol44: folds 
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: calls $0.04
+*** FLOP *** [2d Jc 3h]
+Volkoff_V_A: checks 
+Quaer Jouzu: bets $0.04
+Volkoff_V_A: calls $0.04
+*** TURN *** [2d Jc 3h] [Qs]
+Volkoff_V_A: checks 
+Quaer Jouzu: bets $0.14
+Volkoff_V_A: folds 
+Uncalled bet ($0.14) returned to Quaer Jouzu
+Quaer Jouzu collected $0.20 from pot
+Quaer Jouzu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2d Jc 3h Qs]
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the Turn
+Seat 5: Quaer Jouzu collected ($0.20)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324454027:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:12:43 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: JosKol44 ($2.24 in chips) 
+Seat 2: Skljar ($2.05 in chips) 
+Seat 3: Lorpugo ($4.75 in chips) 
+Seat 4: Volkoff_V_A ($4.83 in chips) 
+Seat 5: Quaer Jouzu ($2.96 in chips) 
+Seat 6: Rumbo1962 ($2.73 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3d]
+Rumbo1962: folds 
+JosKol44: folds 
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: calls $0.04
+*** FLOP *** [Qs 3h Jd]
+Volkoff_V_A: checks 
+Quaer Jouzu: checks 
+*** TURN *** [Qs 3h Jd] [Jc]
+Volkoff_V_A: checks 
+Quaer Jouzu: bets $0.08
+Volkoff_V_A: folds 
+Uncalled bet ($0.08) returned to Quaer Jouzu
+Quaer Jouzu collected $0.12 from pot
+Quaer Jouzu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qs 3h Jd Jc]
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded on the Turn
+Seat 5: Quaer Jouzu (big blind) collected ($0.12)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324477188:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:13:31 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: JosKol44 ($2.24 in chips) 
+Seat 2: Skljar ($2.05 in chips) 
+Seat 3: Lorpugo ($4.75 in chips) 
+Seat 4: Volkoff_V_A ($4.77 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Rumbo1962 ($2.73 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 3d]
+JosKol44: folds 
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+JosKol44 leaves the table
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: JosKol44 folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241324484846:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:13:47 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 2: Skljar ($2.05 in chips) 
+Seat 3: Lorpugo ($4.78 in chips) 
+Seat 4: Volkoff_V_A ($4.77 in chips) 
+Seat 5: Quaer Jouzu ($3.01 in chips) 
+Seat 6: Rumbo1962 ($2.71 in chips) 
+Rumbo1962: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 4c]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+avtogena joins the table at seat #1 
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.01
+Skljar: checks 
+*** FLOP *** [Ad 2d As]
+Rumbo1962: bets $0.02
+Skljar: calls $0.02
+*** TURN *** [Ad 2d As] [7d]
+Rumbo1962: bets $0.02
+Skljar: raises $0.10 to $0.12
+Rumbo1962: calls $0.10
+*** RIVER *** [Ad 2d As 7d] [Qs]
+Rumbo1962: bets $0.02
+Skljar: calls $0.02
+*** SHOW DOWN ***
+Rumbo1962: shows [Ac 4h] (three of a kind, Aces)
+Skljar: shows [8d Td] (a flush, Ace high)
+Skljar collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Ad 2d As 7d Qs]
+Seat 2: Skljar (big blind) showed [8d Td] and won ($0.35) with a flush, Ace high
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) showed [Ac 4h] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #241324504977:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:14:29 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 2: Skljar ($2.22 in chips) 
+Seat 3: Lorpugo ($4.78 in chips) 
+Seat 4: Volkoff_V_A ($4.77 in chips) 
+Seat 5: Quaer Jouzu ($3.01 in chips) 
+Seat 6: Rumbo1962 ($2.53 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 8d]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Skljar: raises $0.03 to $0.05
+Lorpugo: calls $0.03
+*** FLOP *** [8s 7c 8c]
+Skljar: bets $0.06
+Lorpugo: raises $0.11 to $0.17
+Skljar: calls $0.11
+*** TURN *** [8s 7c 8c] [9h]
+Skljar: checks 
+Lorpugo: bets $0.21
+Skljar: calls $0.21
+*** RIVER *** [8s 7c 8c 9h] [4c]
+Skljar: bets $0.55
+Lorpugo: calls $0.55
+*** SHOW DOWN ***
+Skljar: shows [Kc Tc] (a flush, King high)
+Lorpugo: mucks hand 
+Skljar collected $1.87 from pot
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [8s 7c 8c 9h 4c]
+Seat 2: Skljar (small blind) showed [Kc Tc] and won ($1.87) with a flush, King high
+Seat 3: Lorpugo (big blind) mucked [Qd 8d]
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324530023:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:15:20 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 2: Skljar ($3.11 in chips) 
+Seat 3: Lorpugo ($3.80 in chips) 
+Seat 4: Volkoff_V_A ($4.77 in chips) 
+Seat 5: Quaer Jouzu ($3.01 in chips) 
+Seat 6: Rumbo1962 ($2.53 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ac]
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.04)
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324541896:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:15:45 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 2: Skljar ($3.11 in chips) 
+Seat 3: Lorpugo ($3.82 in chips) 
+Seat 4: Volkoff_V_A ($4.75 in chips) 
+Seat 5: Quaer Jouzu ($3.01 in chips) 
+Seat 6: Rumbo1962 ($2.53 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Js]
+Rumbo1962: folds 
+Skljar: raises $0.02 to $0.04
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Uncalled bet ($0.02) returned to Skljar
+Skljar collected $0.05 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Skljar collected ($0.05)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324549451:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:16:01 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 2: Skljar ($3.14 in chips) 
+Seat 3: Lorpugo ($3.82 in chips) 
+Seat 4: Volkoff_V_A ($4.74 in chips) 
+Seat 5: Quaer Jouzu ($2.99 in chips) 
+Seat 6: Rumbo1962 ($2.53 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 3s]
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Uncalled bet ($0.01) returned to Rumbo1962
+Rumbo1962 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #241324556751:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:16:16 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: avtogena ($0.80 in chips) 
+Seat 2: Skljar ($3.14 in chips) 
+Seat 3: Lorpugo ($3.82 in chips) 
+Seat 4: Volkoff_V_A ($4.74 in chips) 
+Seat 5: Quaer Jouzu ($2.98 in chips) 
+Seat 6: Rumbo1962 ($2.54 in chips) 
+Rumbo1962: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd Tc]
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+avtogena: calls $0.03
+*** FLOP *** [9h 4s 9d]
+avtogena: checks 
+Lorpugo: bets $0.04
+avtogena: calls $0.04
+*** TURN *** [9h 4s 9d] [2s]
+avtogena: checks 
+Lorpugo: checks 
+*** RIVER *** [9h 4s 9d 2s] [Qh]
+avtogena: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+avtogena: shows [7h Ah] (a pair of Nines)
+Lorpugo: mucks hand 
+avtogena collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9h 4s 9d 2s Qh]
+Seat 1: avtogena (big blind) showed [7h Ah] and won ($0.18) with a pair of Nines
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo mucked [Kd Tc]
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324581967:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:17:08 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: avtogena ($0.89 in chips) 
+Seat 2: Skljar ($3.14 in chips) 
+Seat 3: Lorpugo ($3.73 in chips) 
+Seat 4: Volkoff_V_A ($4.74 in chips) 
+Seat 5: Quaer Jouzu ($2.98 in chips) 
+Seat 6: Rumbo1962 ($2.53 in chips) 
+avtogena: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 9h]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: raises $0.04 to $0.06
+Rumbo1962: folds 
+avtogena: folds 
+Skljar: folds 
+Uncalled bet ($0.04) returned to Quaer Jouzu
+Quaer Jouzu collected $0.05 from pot
+Quaer Jouzu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: avtogena (small blind) folded before Flop
+Seat 2: Skljar (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu collected ($0.05)
+Seat 6: Rumbo1962 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324599036:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:17:44 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: avtogena ($0.88 in chips) 
+Seat 2: Skljar ($3.12 in chips) 
+Seat 3: Lorpugo ($3.73 in chips) 
+Seat 4: Volkoff_V_A ($4.74 in chips) 
+Seat 5: Quaer Jouzu ($3.01 in chips) 
+Seat 6: Rumbo1962 ($2.53 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 2c]
+Volkoff_V_A: folds 
+Quaer Jouzu: raises $0.04 to $0.06
+Rumbo1962: calls $0.06
+avtogena: raises $0.12 to $0.18
+Skljar: calls $0.17
+Lorpugo: folds 
+Quaer Jouzu: folds 
+Rumbo1962: folds 
+*** FLOP *** [9h 4h Qh]
+Skljar: checks 
+avtogena: bets $0.22
+Skljar: folds 
+Uncalled bet ($0.22) returned to avtogena
+avtogena collected $0.48 from pot
+avtogena: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9h 4h Qh]
+Seat 1: avtogena (button) collected ($0.48)
+Seat 2: Skljar (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop
+Seat 6: Rumbo1962 folded before Flop
+
+
+
+PokerStars Hand #241324628018:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:18:45 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: avtogena ($1.18 in chips) 
+Seat 2: Skljar ($2.94 in chips) 
+Seat 3: Lorpugo ($3.71 in chips) 
+Seat 4: Volkoff_V_A ($4.74 in chips) 
+Seat 5: Quaer Jouzu ($2.95 in chips) 
+Seat 6: Rumbo1962 ($2.47 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 8s]
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.02
+avtogena: folds 
+Skljar: folds 
+Lorpugo: calls $0.01
+Volkoff_V_A: checks 
+*** FLOP *** [Kd 9c 3s]
+Lorpugo: checks 
+Volkoff_V_A: checks 
+Rumbo1962: checks 
+*** TURN *** [Kd 9c 3s] [9d]
+Lorpugo: bets $0.04
+Volkoff_V_A: folds 
+Rumbo1962: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kd 9c 3s 9d]
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected ($0.06)
+Seat 4: Volkoff_V_A (big blind) folded on the Turn
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Rumbo1962 folded on the Turn
+
+
+
+PokerStars Hand #241324656407:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:19:45 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: avtogena ($1.18 in chips) 
+Seat 2: Skljar ($2.94 in chips) 
+Seat 3: Lorpugo ($3.75 in chips) 
+Seat 4: Volkoff_V_A ($4.72 in chips) 
+Seat 5: Quaer Jouzu ($2.95 in chips) 
+Seat 6: Rumbo1962 ($2.45 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 6d]
+Rumbo1962: folds 
+avtogena: folds 
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.05)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Rumbo1962 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324665926:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:20:05 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: avtogena ($1.18 in chips) 
+Seat 2: Skljar ($2.94 in chips) 
+Seat 3: Lorpugo ($3.78 in chips) 
+Seat 4: Volkoff_V_A ($4.71 in chips) 
+Seat 5: Quaer Jouzu ($2.93 in chips) 
+Seat 6: Rumbo1962 ($2.45 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Rumbo1962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 9s]
+avtogena: folds 
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: raises $0.14 to $0.19
+Quaer Jouzu: folds 
+Rumbo1962: calls $0.17
+Lorpugo: folds 
+*** FLOP *** [2h Js 7s]
+Rumbo1962: checks 
+Volkoff_V_A: bets $0.13
+Rumbo1962: folds 
+Uncalled bet ($0.13) returned to Volkoff_V_A
+Volkoff_V_A collected $0.42 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [2h Js 7s]
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop
+Seat 4: Volkoff_V_A (button) collected ($0.42)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Rumbo1962 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241324690308:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:20:56 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: avtogena ($1.18 in chips) 
+Seat 2: Skljar ($2.94 in chips) 
+Seat 3: Lorpugo ($3.73 in chips) 
+Seat 4: Volkoff_V_A ($4.94 in chips) 
+Seat 5: Quaer Jouzu ($2.92 in chips) 
+Seat 6: Rumbo1962 ($2.26 in chips) 
+Rumbo1962: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3c]
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: raises $0.03 to $0.05
+Rumbo1962: folds 
+avtogena: calls $0.03
+*** FLOP *** [8s 4c 8h]
+avtogena: checks 
+Quaer Jouzu: bets $0.03
+Rumbo1962 leaves the table
+avtogena: raises $0.09 to $0.12
+Quaer Jouzu: folds 
+Uncalled bet ($0.09) returned to avtogena
+avtogena collected $0.16 from pot
+avtogena: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8s 4c 8h]
+Seat 1: avtogena (big blind) collected ($0.16)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded on the Flop
+Seat 6: Rumbo1962 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324703121:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:21:23 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: avtogena ($1.26 in chips) 
+Seat 2: Skljar ($2.94 in chips) 
+Seat 3: Lorpugo ($3.73 in chips) 
+Seat 4: Volkoff_V_A ($4.94 in chips) 
+Seat 5: Quaer Jouzu ($2.84 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 5d]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+avtogena: folds 
+Skljar: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [5s As 9h]
+Skljar: checks 
+Lorpugo: bets $0.02
+Skljar: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Hosselem1401 joins the table at seat #6 
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5s As 9h]
+Seat 1: avtogena (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) collected ($0.04)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324716261:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:21:50 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: avtogena ($1.26 in chips) 
+Seat 2: Skljar ($2.92 in chips) 
+Seat 3: Lorpugo ($3.75 in chips) 
+Seat 4: Volkoff_V_A ($4.94 in chips) 
+Seat 5: Quaer Jouzu ($2.84 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qc]
+Quaer Jouzu: folds 
+avtogena: folds 
+Hosselem1401 leaves the table
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: raises $0.13 to $0.18
+Lorpugo: folds 
+Uncalled bet ($0.13) returned to Volkoff_V_A
+Volkoff_V_A collected $0.10 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) collected ($0.10)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324729811:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:22:19 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: avtogena ($1.26 in chips) 
+Seat 2: Skljar ($2.92 in chips) 
+Seat 3: Lorpugo ($3.70 in chips) 
+Seat 4: Volkoff_V_A ($4.99 in chips) 
+Seat 5: Quaer Jouzu ($2.84 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 2h]
+avtogena: raises $0.02 to $0.04
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: calls $0.02
+*** FLOP *** [5h Qc Kc]
+Quaer Jouzu: checks 
+avtogena: checks 
+*** TURN *** [5h Qc Kc] [Jd]
+Quaer Jouzu: bets $0.07
+avtogena: folds 
+Uncalled bet ($0.07) returned to Quaer Jouzu
+Quaer Jouzu collected $0.09 from pot
+Quaer Jouzu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5h Qc Kc Jd]
+Seat 1: avtogena folded on the Turn
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #241324747118:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:22:55 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: avtogena ($1.22 in chips) 
+Seat 2: Skljar ($2.92 in chips) 
+Seat 3: Lorpugo ($3.70 in chips) 
+Seat 4: Volkoff_V_A ($4.98 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Quaer Jouzu: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 5h]
+Barry688 joins the table at seat #6 
+Skljar: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: calls $0.01
+avtogena: checks 
+*** FLOP *** [6c 9s 9c]
+Quaer Jouzu: checks 
+avtogena: checks 
+Skljar: checks 
+*** TURN *** [6c 9s 9c] [5c]
+Quaer Jouzu: checks 
+avtogena: checks 
+Skljar: checks 
+*** RIVER *** [6c 9s 9c 5c] [Kd]
+Quaer Jouzu: checks 
+avtogena: checks 
+Skljar: checks 
+*** SHOW DOWN ***
+Quaer Jouzu: shows [Qh Tc] (a pair of Nines)
+avtogena: shows [Jd 5d] (two pair, Nines and Fives)
+Skljar: mucks hand 
+avtogena collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6c 9s 9c 5c Kd]
+Seat 1: avtogena (big blind) showed [Jd 5d] and won ($0.06) with two pair, Nines and Fives
+Seat 2: Skljar mucked [As 4h]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) showed [Qh Tc] and lost with a pair of Nines
+
+
+
+PokerStars Hand #241324776090:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:23:55 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: avtogena ($1.26 in chips) 
+Seat 2: Skljar ($2.90 in chips) 
+Seat 3: Lorpugo ($3.70 in chips) 
+Seat 4: Volkoff_V_A ($4.98 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+avtogena: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ac]
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+avtogena: folds 
+Skljar: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: avtogena (small blind) folded before Flop
+Seat 2: Skljar (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324787762:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:24:19 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: avtogena ($1.25 in chips) 
+Seat 2: Skljar ($2.88 in chips) 
+Seat 3: Lorpugo ($3.73 in chips) 
+Seat 4: Volkoff_V_A ($4.98 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Barry688 ($1.07 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Jh]
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Barry688: folds 
+avtogena: folds 
+Skljar: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Ks 4s Qh]
+Lorpugo: checks 
+Volkoff_V_A: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to Volkoff_V_A
+Volkoff_V_A collected $0.14 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks 4s Qh]
+Seat 1: avtogena (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: Volkoff_V_A collected ($0.14)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324803950:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:24:53 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: avtogena ($1.25 in chips) 
+Seat 2: Skljar ($2.87 in chips) 
+Seat 3: Lorpugo ($3.67 in chips) 
+Seat 4: Volkoff_V_A ($5.06 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Barry688 ($1.05 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Jd]
+Quaer Jouzu: folds 
+Barry688: folds 
+avtogena: folds 
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: calls $0.03
+*** FLOP *** [2c 5d As]
+Lorpugo: bets $0.05
+Volkoff_V_A: calls $0.05
+*** TURN *** [2c 5d As] [Kc]
+Lorpugo: checks 
+Volkoff_V_A: bets $0.19
+Lorpugo: folds 
+Uncalled bet ($0.19) returned to Volkoff_V_A
+Volkoff_V_A collected $0.19 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c 5d As Kc]
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Turn
+Seat 4: Volkoff_V_A (big blind) collected ($0.19)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324824110:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:25:36 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: avtogena ($1.25 in chips) 
+Seat 2: Skljar ($2.87 in chips) 
+Seat 3: Lorpugo ($3.57 in chips) 
+Seat 4: Volkoff_V_A ($5.15 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Barry688 ($1.05 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 3c]
+Barry688: folds 
+avtogena: folds 
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Uncalled bet ($0.04) returned to Volkoff_V_A
+Volkoff_V_A collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) collected ($0.04)
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324832583:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:25:54 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: avtogena ($1.25 in chips) 
+Seat 2: Skljar ($2.87 in chips) 
+Seat 3: Lorpugo ($3.57 in chips) 
+Seat 4: Volkoff_V_A ($5.17 in chips) 
+Seat 5: Quaer Jouzu ($2.85 in chips) 
+Seat 6: Barry688 ($1.05 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5h]
+avtogena: folds 
+Skljar: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+Uncalled bet ($0.04) returned to Skljar
+Skljar collected $0.05 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar collected ($0.05)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Barry688 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241324838638:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:26:07 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: avtogena ($1.25 in chips) 
+Seat 2: Skljar ($2.90 in chips) 
+Seat 3: Lorpugo ($3.57 in chips) 
+Seat 4: Volkoff_V_A ($5.17 in chips) 
+Seat 5: Quaer Jouzu ($2.84 in chips) 
+Seat 6: Barry688 ($1.03 in chips) 
+Barry688: posts small blind $0.01
+avtogena: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Th]
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Barry688: folds 
+avtogena: folds 
+Uncalled bet ($0.04) returned to Volkoff_V_A
+Volkoff_V_A collected $0.05 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: avtogena (big blind) folded before Flop
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A collected ($0.05)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Barry688 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324845365:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:26:21 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: avtogena ($1.23 in chips) 
+Seat 2: Skljar ($2.90 in chips) 
+Seat 3: Lorpugo ($3.57 in chips) 
+Seat 4: Volkoff_V_A ($5.20 in chips) 
+Seat 5: Quaer Jouzu ($2.84 in chips) 
+Seat 6: Barry688 ($1.02 in chips) 
+avtogena: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2s]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: raises $0.04 to $0.06
+Barry688: folds 
+avtogena: folds 
+Skljar: folds 
+Uncalled bet ($0.04) returned to Quaer Jouzu
+Quaer Jouzu collected $0.05 from pot
+Quaer Jouzu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: avtogena (small blind) folded before Flop
+Seat 2: Skljar (big blind) folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu collected ($0.05)
+Seat 6: Barry688 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324854391:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:26:39 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: avtogena ($1.22 in chips) 
+Seat 2: Skljar ($2.88 in chips) 
+Seat 3: Lorpugo ($3.57 in chips) 
+Seat 4: Volkoff_V_A ($5.20 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Barry688 ($1.02 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 4c]
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Barry688: folds 
+avtogena: folds 
+Skljar: folds 
+Lorpugo: folds 
+Uncalled bet ($0.04) returned to Volkoff_V_A
+Volkoff_V_A collected $0.05 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: avtogena (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A collected ($0.05)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324863122:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:26:58 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: avtogena ($1.22 in chips) 
+Seat 2: Skljar ($2.87 in chips) 
+Seat 3: Lorpugo ($3.55 in chips) 
+Seat 4: Volkoff_V_A ($5.23 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Barry688 ($1.02 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3s]
+Quaer Jouzu: folds 
+Barry688: calls $0.02
+avtogena: folds 
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: checks 
+*** FLOP *** [9h 3h 7s]
+Volkoff_V_A: checks 
+Barry688: checks 
+*** TURN *** [9h 3h 7s] [2h]
+Volkoff_V_A: checks 
+Barry688: bets $0.02
+Volkoff_V_A: calls $0.02
+*** RIVER *** [9h 3h 7s 2h] [9d]
+Volkoff_V_A: checks 
+Barry688: bets $0.05
+Volkoff_V_A: folds 
+Uncalled bet ($0.05) returned to Barry688
+Barry688 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9h 3h 7s 2h 9d]
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the River
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 collected ($0.09)
+
+
+
+PokerStars Hand #241324889637:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:27:54 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: avtogena ($1.22 in chips) 
+Seat 2: Skljar ($2.87 in chips) 
+Seat 3: Lorpugo ($3.54 in chips) 
+Seat 4: Volkoff_V_A ($5.19 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Barry688 ($1.07 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 4d]
+Barry688: calls $0.02
+avtogena: folds 
+Skljar: folds 
+Lorpugo: calls $0.02
+Volkoff_V_A: raises $0.10 to $0.12
+Quaer Jouzu: raises $0.24 to $0.36
+Barry688: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.24) returned to Quaer Jouzu
+Quaer Jouzu collected $0.28 from pot
+Quaer Jouzu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0 
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) collected ($0.28)
+Seat 6: Barry688 folded before Flop
+
+
+
+PokerStars Hand #241324912600:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:28:42 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: avtogena ($1.22 in chips) 
+Seat 2: Skljar ($2.87 in chips) 
+Seat 3: Lorpugo ($3.52 in chips) 
+Seat 4: Volkoff_V_A ($5.07 in chips) 
+Seat 5: Quaer Jouzu ($3.03 in chips) 
+Seat 6: Barry688 ($1.05 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 5d]
+avtogena: folds 
+Skljar: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: raises $0.07 to $0.09
+Quaer Jouzu: folds 
+Barry688: folds 
+Skljar: folds 
+Uncalled bet ($0.07) returned to Volkoff_V_A
+Volkoff_V_A collected $0.07 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: avtogena folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) collected ($0.07)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Barry688 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241324921812:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:29:02 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 2: Skljar ($2.85 in chips) 
+Seat 3: Lorpugo ($3.52 in chips) 
+Seat 4: Volkoff_V_A ($5.12 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Barry688 ($1.03 in chips) 
+Barry688: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 9s]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+avtogena leaves the table
+Quaer Jouzu: folds 
+Barry688: folds 
+Uncalled bet ($0.01) returned to Skljar
+Skljar collected $0.02 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Skljar (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Barry688 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241324928093:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:29:15 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 2: Skljar ($2.86 in chips) 
+Seat 3: Lorpugo ($3.52 in chips) 
+Seat 4: Volkoff_V_A ($5.12 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Barry688 ($1.02 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 8c]
+Volkoff_V_A: folds 
+Quaer Jouzu: raises $0.04 to $0.06
+Barry688: folds 
+Skljar: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Jh 8h 8d]
+Lorpugo: bets $0.07
+Quaer Jouzu: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jh 8h 8d]
+Seat 2: Skljar (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.13)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded on the Flop
+Seat 6: Barry688 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324939910:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:29:41 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 2: Skljar ($2.85 in chips) 
+Seat 3: Lorpugo ($3.59 in chips) 
+Seat 4: Volkoff_V_A ($5.12 in chips) 
+Seat 5: Quaer Jouzu ($2.96 in chips) 
+Seat 6: Barry688 ($1.02 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Ad]
+Quaer Jouzu: folds 
+Barry688: raises $0.02 to $0.04
+Skljar: calls $0.04
+Lorpugo: raises $0.14 to $0.18
+Volkoff_V_A: folds 
+SebUD13 joins the table at seat #1 
+Barry688: folds 
+Skljar: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.14 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 2: Skljar (button) folded before Flop
+Seat 3: Lorpugo (small blind) collected ($0.14)
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded before Flop
+
+
+
+PokerStars Hand #241324954342:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:30:10 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: SebUD13 ($1.60 in chips) 
+Seat 2: Skljar ($2.81 in chips) 
+Seat 3: Lorpugo ($3.69 in chips) 
+Seat 4: Volkoff_V_A ($5.10 in chips) 
+Seat 5: Quaer Jouzu ($2.96 in chips) 
+Seat 6: Barry688 ($0.98 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+SebUD13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Tc]
+Barry688: folds 
+SebUD13: raises $0.02 to $0.04
+Skljar: folds 
+Lorpugo: calls $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+*** FLOP *** [8h 2s 8s]
+SebUD13: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to SebUD13
+SebUD13 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8h 2s 8s]
+Seat 1: SebUD13 collected ($0.11)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded on the Flop
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241324967350:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:30:38 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: SebUD13 ($1.67 in chips) 
+Seat 2: Skljar ($2.81 in chips) 
+Seat 3: Lorpugo ($3.65 in chips) 
+Seat 4: Volkoff_V_A ($5.09 in chips) 
+Seat 5: Quaer Jouzu ($2.94 in chips) 
+Seat 6: Barry688 ($0.98 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 6s]
+SebUD13: raises $0.04 to $0.06
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+Uncalled bet ($0.04) returned to SebUD13
+SebUD13 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: SebUD13 collected ($0.05)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Barry688 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241324978349:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:31:00 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: SebUD13 ($1.70 in chips) 
+Seat 2: Skljar ($2.81 in chips) 
+Seat 3: Lorpugo ($3.65 in chips) 
+Seat 4: Volkoff_V_A ($5.09 in chips) 
+Seat 5: Quaer Jouzu ($2.93 in chips) 
+Seat 6: Barry688 ($0.96 in chips) 
+Barry688: posts small blind $0.01
+SebUD13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Tc]
+Skljar: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu has timed out
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: calls $0.04
+*** FLOP *** [3d 6h Qh]
+SebUD13: checks 
+Skljar: bets $0.08
+SebUD13: calls $0.08
+*** TURN *** [3d 6h Qh] [Js]
+SebUD13: checks 
+Skljar: checks 
+*** RIVER *** [3d 6h Qh Js] [9c]
+SebUD13: checks 
+Skljar: checks 
+*** SHOW DOWN ***
+SebUD13: shows [Kh 3h] (a pair of Threes)
+Skljar: mucks hand 
+SebUD13 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3d 6h Qh Js 9c]
+Seat 1: SebUD13 (big blind) showed [Kh 3h] and won ($0.28) with a pair of Threes
+Seat 2: Skljar mucked [Ts Ah]
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Barry688 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241325002370:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:31:50 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: SebUD13 ($1.84 in chips) 
+Seat 2: Skljar ($2.67 in chips) 
+Seat 3: Lorpugo ($3.65 in chips) 
+Seat 4: Volkoff_V_A ($5.09 in chips) 
+Seat 5: Quaer Jouzu ($2.93 in chips) 
+Seat 6: Barry688 ($0.95 in chips) 
+SebUD13: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Th]
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: calls $0.03
+Skljar: folds 
+*** FLOP *** [4c Td 7d]
+SebUD13: checks 
+Lorpugo: bets $0.07
+SebUD13: calls $0.07
+*** TURN *** [4c Td 7d] [3c]
+SebUD13: checks 
+Lorpugo: bets $0.15
+SebUD13: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4c Td 7d 3c]
+Seat 1: SebUD13 (small blind) folded on the Turn
+Seat 2: Skljar (big blind) folded before Flop
+Seat 3: Lorpugo collected ($0.23)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325015945:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:32:18 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: SebUD13 ($1.73 in chips) 
+Seat 2: Skljar ($2.65 in chips) 
+Seat 3: Lorpugo ($3.77 in chips) 
+Seat 4: Volkoff_V_A ($5.09 in chips) 
+Seat 5: Quaer Jouzu ($2.93 in chips) 
+Seat 6: Barry688 ($0.95 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h As]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: raises $0.04 to $0.06
+Skljar: raises $0.24 to $0.30
+Lorpugo: folds 
+SebUD13: calls $0.24
+*** FLOP *** [Qh 3d 7d]
+Skljar: bets $0.90
+SebUD13: folds 
+Uncalled bet ($0.90) returned to Skljar
+Skljar collected $0.60 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [Qh 3d 7d]
+Seat 1: SebUD13 (button) folded on the Flop
+Seat 2: Skljar (small blind) collected ($0.60)
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325037414:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:33:03 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.95 in chips) 
+Seat 3: Lorpugo ($3.75 in chips) 
+Seat 4: Volkoff_V_A ($5.09 in chips) 
+Seat 5: Quaer Jouzu ($2.93 in chips) 
+Seat 6: Barry688 ($0.95 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9h]
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: folds 
+Skljar: raises $0.04 to $0.06
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Uncalled bet ($0.04) returned to Skljar
+Skljar collected $0.05 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: SebUD13 folded before Flop (didn't bet)
+Seat 2: Skljar (button) collected ($0.05)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded before Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325050492:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:33:31 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.98 in chips) 
+Seat 3: Lorpugo ($3.74 in chips) 
+Seat 4: Volkoff_V_A ($5.07 in chips) 
+Seat 5: Quaer Jouzu ($2.93 in chips) 
+Seat 6: Barry688 ($0.95 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 5c]
+Barry688: folds 
+SebUD13: calls $0.02
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: calls $0.01
+Quaer Jouzu: raises $0.10 to $0.12
+SebUD13: calls $0.10
+Volkoff_V_A: folds 
+*** FLOP *** [5h 7d Tc]
+Quaer Jouzu: bets $0.19
+SebUD13: folds 
+Uncalled bet ($0.19) returned to Quaer Jouzu
+Quaer Jouzu collected $0.25 from pot
+Quaer Jouzu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5h 7d Tc]
+Seat 1: SebUD13 folded on the Flop
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) collected ($0.25)
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325065597:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:34:02 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: SebUD13 ($1.31 in chips) 
+Seat 2: Skljar ($2.98 in chips) 
+Seat 3: Lorpugo ($3.74 in chips) 
+Seat 4: Volkoff_V_A ($5.05 in chips) 
+Seat 5: Quaer Jouzu ($3.06 in chips) 
+Seat 6: Barry688 ($0.95 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 8d]
+SebUD13: calls $0.02
+Skljar: folds 
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: calls $0.02
+*** FLOP *** [3h 9s 9h]
+SebUD13: checks 
+Lorpugo: bets $0.06
+SebUD13: calls $0.06
+*** TURN *** [3h 9s 9h] [Qh]
+SebUD13: checks 
+Lorpugo: checks 
+*** RIVER *** [3h 9s 9h Qh] [8c]
+SebUD13: bets $0.11
+Lorpugo: folds 
+Uncalled bet ($0.11) returned to SebUD13
+SebUD13 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3h 9s 9h Qh 8c]
+Seat 1: SebUD13 collected ($0.22)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the River
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Barry688 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241325091881:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:34:57 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.98 in chips) 
+Seat 3: Lorpugo ($3.64 in chips) 
+Seat 4: Volkoff_V_A ($5.05 in chips) 
+Seat 5: Quaer Jouzu ($3.05 in chips) 
+Seat 6: Barry688 ($0.93 in chips) 
+Barry688: posts small blind $0.01
+SebUD13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 8c]
+Skljar: calls $0.02
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: raises $0.06 to $0.08
+SebUD13: calls $0.06
+Skljar: folds 
+*** FLOP *** [Js As Kh]
+Barry688: checks 
+SebUD13: checks 
+*** TURN *** [Js As Kh] [4c]
+Barry688: bets $0.09
+SebUD13: folds 
+Uncalled bet ($0.09) returned to Barry688
+Barry688 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Js As Kh 4c]
+Seat 1: SebUD13 (big blind) folded on the Turn
+Seat 2: Skljar folded before Flop
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Barry688 (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #241325114362:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:35:43 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: SebUD13 ($1.35 in chips) 
+Seat 2: Skljar ($2.96 in chips) 
+Seat 3: Lorpugo ($3.64 in chips) 
+Seat 4: Volkoff_V_A ($5.05 in chips) 
+Seat 5: Quaer Jouzu ($3.05 in chips) 
+Seat 6: Barry688 ($1.02 in chips) 
+SebUD13: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7d]
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: raises $0.11 to $0.15
+SebUD13: folds 
+Skljar: calls $0.13
+Lorpugo: folds 
+*** FLOP *** [Ah 2s Td]
+Skljar: checks 
+Barry688: bets $0.17
+Skljar: calls $0.17
+*** TURN *** [Ah 2s Td] [Qh]
+Skljar: checks 
+Barry688: bets $0.70 and is all-in
+Skljar: folds 
+Uncalled bet ($0.70) returned to Barry688
+Barry688 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [Ah 2s Td Qh]
+Seat 1: SebUD13 (small blind) folded before Flop
+Seat 2: Skljar (big blind) folded on the Turn
+Seat 3: Lorpugo folded before Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 (button) collected ($0.67)
+
+
+
+PokerStars Hand #241325155980:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:37:10 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: SebUD13 ($1.34 in chips) 
+Seat 2: Skljar ($2.64 in chips) 
+Seat 3: Lorpugo ($3.60 in chips) 
+Seat 4: Volkoff_V_A ($5.05 in chips) 
+Seat 5: Quaer Jouzu ($3.05 in chips) 
+Seat 6: Barry688 ($1.37 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8h]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: raises $0.02 to $0.04
+SebUD13: folds 
+Skljar: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [Qd Qc Ah]
+Skljar: bets $0.10
+Lorpugo: folds 
+Barry688: calls $0.10
+*** TURN *** [Qd Qc Ah] [Kh]
+Skljar: bets $0.10
+Barry688: calls $0.10
+*** RIVER *** [Qd Qc Ah Kh] [Th]
+Skljar: checks 
+Barry688: checks 
+*** SHOW DOWN ***
+Skljar: shows [Ac 3s] (two pair, Aces and Queens)
+Barry688: shows [Ad 5s] (two pair, Aces and Queens)
+Skljar collected $0.25 from pot
+Barry688 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Qd Qc Ah Kh Th]
+Seat 1: SebUD13 (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) showed [Ac 3s] and won ($0.25) with two pair, Aces and Queens
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 showed [Ad 5s] and won ($0.25) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #241325175470:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:37:50 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: SebUD13 ($1.34 in chips) 
+Seat 2: Skljar ($2.65 in chips) 
+Seat 3: Lorpugo ($3.56 in chips) 
+Seat 4: Volkoff_V_A ($5.05 in chips) 
+Seat 5: Quaer Jouzu ($3.05 in chips) 
+Seat 6: Barry688 ($1.38 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 8c]
+Quaer Jouzu: folds 
+Barry688: calls $0.02
+SebUD13: calls $0.02
+Skljar: folds 
+Lorpugo: calls $0.01
+Volkoff_V_A: checks 
+*** FLOP *** [Ah 2c Qs]
+Lorpugo: checks 
+Volkoff_V_A: bets $0.08
+Barry688: folds 
+SebUD13: calls $0.08
+Lorpugo: folds 
+*** TURN *** [Ah 2c Qs] [6c]
+Volkoff_V_A: bets $0.23
+SebUD13: folds 
+Uncalled bet ($0.23) returned to Volkoff_V_A
+Volkoff_V_A collected $0.23 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ah 2c Qs 6c]
+Seat 1: SebUD13 folded on the Turn
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: Volkoff_V_A (big blind) collected ($0.23)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded on the Flop
+
+
+
+PokerStars Hand #241325192547:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:38:25 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: SebUD13 ($1.24 in chips) 
+Seat 2: Skljar ($2.65 in chips) 
+Seat 3: Lorpugo ($3.54 in chips) 
+Seat 4: Volkoff_V_A ($5.18 in chips) 
+Seat 5: Quaer Jouzu ($3.05 in chips) 
+Seat 6: Barry688 ($1.36 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Qh]
+Barry688: folds 
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: calls $0.04
+Quaer Jouzu: folds 
+*** FLOP *** [5c 3c 2d]
+Volkoff_V_A: checks 
+Lorpugo: bets $0.08
+Volkoff_V_A: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.12 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5c 3c 2d]
+Seat 1: SebUD13 folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.12)
+Seat 4: Volkoff_V_A (small blind) folded on the Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+Seat 6: Barry688 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325207883:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:38:56 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: SebUD13 ($1.24 in chips) 
+Seat 2: Skljar ($2.65 in chips) 
+Seat 3: Lorpugo ($3.61 in chips) 
+Seat 4: Volkoff_V_A ($5.13 in chips) 
+Seat 5: Quaer Jouzu ($3.03 in chips) 
+Seat 6: Barry688 ($1.36 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 7d]
+SebUD13: calls $0.02
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: checks 
+*** FLOP *** [9h 4h 2c]
+Barry688: checks 
+SebUD13: bets $0.03
+Barry688: folds 
+Uncalled bet ($0.03) returned to SebUD13
+SebUD13 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 4h 2c]
+Seat 1: SebUD13 collected ($0.05)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Barry688 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241325223698:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:39:29 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: SebUD13 ($1.27 in chips) 
+Seat 2: Skljar ($2.65 in chips) 
+Seat 3: Lorpugo ($3.61 in chips) 
+Seat 4: Volkoff_V_A ($5.13 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Barry688 ($1.34 in chips) 
+Barry688: posts small blind $0.01
+SebUD13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Jc]
+Skljar: folds 
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: calls $0.03
+SebUD13: calls $0.02
+*** FLOP *** [5h 2c 7s]
+Barry688: bets $0.02
+SebUD13: calls $0.02
+Lorpugo: calls $0.02
+*** TURN *** [5h 2c 7s] [Kc]
+Barry688: bets $0.04
+SebUD13: calls $0.04
+Lorpugo: folds 
+*** RIVER *** [5h 2c 7s Kc] [7c]
+Barry688: bets $0.13
+SebUD13: raises $0.26 to $0.39
+Barry688: folds 
+Uncalled bet ($0.26) returned to SebUD13
+SebUD13 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [5h 2c 7s Kc 7c]
+Seat 1: SebUD13 (big blind) collected ($0.50)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Turn
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Barry688 (small blind) folded on the River
+
+
+
+PokerStars Hand #241325248930:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:40:21 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: SebUD13 ($1.54 in chips) 
+Seat 2: Skljar ($2.65 in chips) 
+Seat 3: Lorpugo ($3.55 in chips) 
+Seat 4: Volkoff_V_A ($5.13 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Barry688 ($1.11 in chips) 
+SebUD13: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 7d]
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: raises $0.03 to $0.07
+SebUD13: calls $0.06
+Skljar: calls $0.05
+Lorpugo: calls $0.03
+*** FLOP *** [Qc 3s Th]
+SebUD13: checks 
+Skljar: checks 
+Lorpugo: checks 
+Barry688: bets $0.12
+SebUD13: calls $0.12
+Skljar: folds 
+Lorpugo: folds 
+*** TURN *** [Qc 3s Th] [Ks]
+SebUD13: checks 
+Barry688: bets $0.25
+SebUD13: folds 
+Uncalled bet ($0.25) returned to Barry688
+Barry688 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Qc 3s Th Ks]
+Seat 1: SebUD13 (small blind) folded on the Turn
+Seat 2: Skljar (big blind) folded on the Flop
+Seat 3: Lorpugo folded on the Flop
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 (button) collected ($0.50)
+
+
+
+PokerStars Hand #241325289771:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:41:45 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: SebUD13 ($1.35 in chips) 
+Seat 2: Skljar ($2.58 in chips) 
+Seat 3: Lorpugo ($3.48 in chips) 
+Seat 4: Volkoff_V_A ($5.13 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Barry688 ($1.42 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ah]
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Barry688: calls $0.06
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [6s Jd Ks]
+Lorpugo: checks 
+Volkoff_V_A: bets $0.18
+Barry688: raises $0.54 to $0.72
+Lorpugo: folds 
+Volkoff_V_A: raises $1.62 to $2.34
+Barry688: calls $0.64 and is all-in
+Uncalled bet ($0.98) returned to Volkoff_V_A
+*** TURN *** [6s Jd Ks] [2s]
+*** RIVER *** [6s Jd Ks 2s] [6h]
+*** SHOW DOWN ***
+Volkoff_V_A: shows [Kh Jh] (two pair, Kings and Jacks)
+Barry688: shows [Qs As] (a flush, Ace high)
+Barry688 collected $2.81 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.10 
+Board [6s Jd Ks 2s 6h]
+Seat 1: SebUD13 (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Flop
+Seat 4: Volkoff_V_A showed [Kh Jh] and lost with two pair, Kings and Jacks
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 showed [Qs As] and won ($2.81) with a flush, Ace high
+
+
+
+PokerStars Hand #241325315924:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:42:38 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: SebUD13 ($1.35 in chips) 
+Seat 2: Skljar ($2.57 in chips) 
+Seat 3: Lorpugo ($3.42 in chips) 
+Seat 4: Volkoff_V_A ($3.71 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Barry688 ($2.81 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8h]
+Quaer Jouzu: folds 
+Barry688: raises $0.02 to $0.04
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: calls $0.02
+*** FLOP *** [5s 6h 2s]
+Volkoff_V_A: checks 
+Barry688: bets $0.02
+Volkoff_V_A: folds 
+Uncalled bet ($0.02) returned to Barry688
+Barry688 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5s 6h 2s]
+Seat 1: SebUD13 folded before Flop (didn't bet)
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) folded on the Flop
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 collected ($0.09)
+
+
+
+PokerStars Hand #241325329846:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:43:07 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: SebUD13 ($1.35 in chips) 
+Seat 2: Skljar ($2.57 in chips) 
+Seat 3: Lorpugo ($3.41 in chips) 
+Seat 4: Volkoff_V_A ($3.67 in chips) 
+Seat 5: Quaer Jouzu ($3.02 in chips) 
+Seat 6: Barry688 ($2.86 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 6c]
+Barry688: calls $0.02
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: calls $0.02
+Volkoff_V_A: folds 
+Quaer Jouzu: checks 
+*** FLOP *** [Qd 5c 3c]
+Quaer Jouzu: checks 
+Barry688: checks 
+Lorpugo: bets $0.05
+Quaer Jouzu: calls $0.05
+Barry688: folds 
+*** TURN *** [Qd 5c 3c] [5s]
+Quaer Jouzu: checks 
+Lorpugo: checks 
+*** RIVER *** [Qd 5c 3c 5s] [Ks]
+Quaer Jouzu: checks 
+Lorpugo: bets $0.16
+Quaer Jouzu: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.16 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd 5c 3c 5s Ks]
+Seat 1: SebUD13 folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) collected ($0.16)
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded on the River
+Seat 6: Barry688 folded on the Flop
+
+
+
+PokerStars Hand #241325356930:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:44:02 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: SebUD13 ($1.35 in chips) 
+Seat 2: Skljar ($2.57 in chips) 
+Seat 3: Lorpugo ($3.50 in chips) 
+Seat 4: Volkoff_V_A ($3.66 in chips) 
+Seat 5: Quaer Jouzu ($2.95 in chips) 
+Seat 6: Barry688 ($2.84 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Ts]
+SebUD13: calls $0.02
+Skljar: calls $0.02
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: calls $0.02
+Skljar: calls $0.02
+*** FLOP *** [Kh 4d Ks]
+SebUD13: checks 
+Skljar: bets $0.06
+Lorpugo: folds 
+SebUD13: calls $0.06
+*** TURN *** [Kh 4d Ks] [6h]
+SebUD13: checks 
+Skljar: checks 
+*** RIVER *** [Kh 4d Ks 6h] [Jc]
+SebUD13: bets $0.26
+Skljar: folds 
+Uncalled bet ($0.26) returned to SebUD13
+SebUD13 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kh 4d Ks 6h Jc]
+Seat 1: SebUD13 collected ($0.26)
+Seat 2: Skljar folded on the River
+Seat 3: Lorpugo folded on the Flop
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Barry688 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241325384448:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:44:59 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: SebUD13 ($1.51 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.46 in chips) 
+Seat 4: Volkoff_V_A ($3.66 in chips) 
+Seat 5: Quaer Jouzu ($2.94 in chips) 
+Seat 6: Barry688 ($2.82 in chips) 
+Barry688: posts small blind $0.01
+SebUD13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Jd]
+Skljar: folds 
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: calls $0.02
+*** FLOP *** [4h Qs Jc]
+SebUD13: checks 
+Lorpugo: bets $0.03
+SebUD13: calls $0.03
+*** TURN *** [4h Qs Jc] [Ac]
+SebUD13: checks 
+Lorpugo: checks 
+*** RIVER *** [4h Qs Jc Ac] [6s]
+SebUD13: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+SebUD13: shows [9s Td] (high card Ace)
+Lorpugo: shows [8d Jd] (a pair of Jacks)
+Lorpugo collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4h Qs Jc Ac 6s]
+Seat 1: SebUD13 (big blind) showed [9s Td] and lost with high card Ace
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo showed [8d Jd] and won ($0.14) with a pair of Jacks
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Barry688 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241325402533:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:45:36 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: SebUD13 ($1.44 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.53 in chips) 
+Seat 4: Volkoff_V_A ($3.66 in chips) 
+Seat 5: Quaer Jouzu ($2.94 in chips) 
+Seat 6: Barry688 ($2.81 in chips) 
+SebUD13: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 8c]
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Barry688: folds 
+SebUD13: folds 
+Uncalled bet ($0.01) returned to Skljar
+Skljar collected $0.02 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: SebUD13 (small blind) folded before Flop
+Seat 2: Skljar (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325407373:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:45:46 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.48 in chips) 
+Seat 3: Lorpugo ($3.53 in chips) 
+Seat 4: Volkoff_V_A ($3.66 in chips) 
+Seat 5: Quaer Jouzu ($2.94 in chips) 
+Seat 6: Barry688 ($2.81 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Qc]
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Barry688: calls $0.06
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: folds 
+*** FLOP *** [8s 2h Ac]
+Volkoff_V_A: checks 
+Barry688: checks 
+*** TURN *** [8s 2h Ac] [Kd]
+Volkoff_V_A: checks 
+Barry688: bets $0.07
+Volkoff_V_A: folds 
+Uncalled bet ($0.07) returned to Barry688
+Barry688 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s 2h Ac Kd]
+Seat 1: SebUD13 (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+Seat 4: Volkoff_V_A folded on the Turn
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 collected ($0.14)
+
+
+
+PokerStars Hand #241325423473:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:46:19 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.51 in chips) 
+Seat 4: Volkoff_V_A ($3.60 in chips) 
+Seat 5: Quaer Jouzu ($2.94 in chips) 
+Seat 6: Barry688 ($2.89 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4s]
+Quaer Jouzu: folds 
+Barry688: calls $0.02
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: calls $0.01
+Volkoff_V_A: checks 
+*** FLOP *** [Ts 5d 9h]
+Lorpugo: checks 
+Volkoff_V_A: bets $0.06
+Barry688: folds 
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Volkoff_V_A
+Volkoff_V_A collected $0.06 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ts 5d 9h]
+Seat 1: SebUD13 folded before Flop (didn't bet)
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded on the Flop
+Seat 4: Volkoff_V_A (big blind) collected ($0.06)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Barry688 folded on the Flop
+
+
+
+PokerStars Hand #241325437592:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:46:48 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.49 in chips) 
+Seat 4: Volkoff_V_A ($3.64 in chips) 
+Seat 5: Quaer Jouzu ($2.94 in chips) 
+Seat 6: Barry688 ($2.87 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7h]
+Barry688: raises $0.02 to $0.04
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: calls $0.03
+Quaer Jouzu: calls $0.02
+*** FLOP *** [Ts 2d 6c]
+Volkoff_V_A: bets $0.06
+Quaer Jouzu: folds 
+Barry688: calls $0.06
+*** TURN *** [Ts 2d 6c] [Jd]
+Volkoff_V_A: checks 
+Barry688: bets $0.08
+Volkoff_V_A: calls $0.08
+*** RIVER *** [Ts 2d 6c Jd] [2h]
+Volkoff_V_A: checks 
+Barry688: checks 
+*** SHOW DOWN ***
+Volkoff_V_A: shows [Ks Tc] (two pair, Tens and Deuces)
+Barry688: mucks hand 
+Volkoff_V_A collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Ts 2d 6c Jd 2h]
+Seat 1: SebUD13 folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (small blind) showed [Ks Tc] and won ($0.39) with two pair, Tens and Deuces
+Seat 5: Quaer Jouzu (big blind) folded on the Flop
+Seat 6: Barry688 mucked [4c 4d]
+
+
+
+PokerStars Hand #241325467049:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:47:49 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.49 in chips) 
+Seat 4: Volkoff_V_A ($3.85 in chips) 
+Seat 5: Quaer Jouzu ($2.90 in chips) 
+Seat 6: Barry688 ($2.69 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Barry688: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9h]
+SebUD13: folds 
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: calls $0.05
+Quaer Jouzu: folds 
+Barry688: folds 
+*** FLOP *** [Kc Ad 2c]
+Barry688 leaves the table
+Lorpugo: bets $0.04
+Volkoff_V_A: calls $0.04
+*** TURN *** [Kc Ad 2c] [6s]
+Lorpugo: checks 
+Volkoff_V_A: bets $0.20
+Lorpugo: folds 
+Uncalled bet ($0.20) returned to Volkoff_V_A
+Volkoff_V_A collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Kc Ad 2c 6s]
+Seat 1: SebUD13 folded before Flop (didn't bet)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded on the Turn
+Seat 4: Volkoff_V_A (button) collected ($0.20)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Barry688 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241325486174:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:48:29 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: SebUD13 ($1.43 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.40 in chips) 
+Seat 4: Volkoff_V_A ($3.96 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+SebUD13: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Tc]
+Lorpugo: folds 
+Edivaldomen joins the table at seat #6 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+SebUD13: folds 
+Uncalled bet ($0.01) returned to Skljar
+Skljar collected $0.02 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: SebUD13 (small blind) folded before Flop
+Seat 2: Skljar (big blind) collected ($0.02)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325489495:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:48:36 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: SebUD13 ($1.42 in chips) 
+Seat 2: Skljar ($2.48 in chips) 
+Seat 3: Lorpugo ($3.40 in chips) 
+Seat 4: Volkoff_V_A ($3.96 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ad]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+SebUD13: calls $0.02
+Skljar: folds 
+Lorpugo: raises $0.08 to $0.10
+SebUD13: calls $0.08
+*** FLOP *** [9d 3h Qc]
+Lorpugo: bets $0.13
+Edivaldomen leaves the table
+SebUD13: folds 
+Uncalled bet ($0.13) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9d 3h Qc]
+Seat 1: SebUD13 (button) folded on the Flop
+Seat 2: Skljar (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.20)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325502664:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:49:03 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: SebUD13 ($1.32 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.50 in chips) 
+Seat 4: Volkoff_V_A ($3.96 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 8h]
+Quaer Jouzu: folds 
+SebUD13: calls $0.02
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: checks 
+*** FLOP *** [Jh 6c 3s]
+Volkoff_V_A: checks 
+SebUD13: checks 
+*** TURN *** [Jh 6c 3s] [9h]
+Volkoff_V_A: checks 
+SebUD13: checks 
+*** RIVER *** [Jh 6c 3s 9h] [Ts]
+Volkoff_V_A: checks 
+SebUD13: checks 
+*** SHOW DOWN ***
+Volkoff_V_A: shows [3c 2s] (a pair of Threes)
+SebUD13: mucks hand 
+Volkoff_V_A collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh 6c 3s 9h Ts]
+Seat 1: SebUD13 mucked [2c 4c]
+Seat 2: Skljar (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) showed [3c 2s] and won ($0.05) with a pair of Threes
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325522379:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:49:44 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: SebUD13 ($1.30 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.49 in chips) 
+Seat 4: Volkoff_V_A ($3.99 in chips) 
+Seat 5: Quaer Jouzu ($2.89 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Quaer Jouzu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qc]
+SebUD13: calls $0.02
+Skljar: folds 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+SebUD13: calls $0.03
+*** FLOP *** [Js Ad 7h]
+SebUD13: checks 
+Lorpugo: checks 
+*** TURN *** [Js Ad 7h] [Jh]
+Andresargas joins the table at seat #6 
+SebUD13: checks 
+Lorpugo: checks 
+*** RIVER *** [Js Ad 7h Jh] [8d]
+SebUD13: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+SebUD13: shows [3d Kd] (a pair of Jacks)
+Lorpugo: mucks hand 
+SebUD13 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Js Ad 7h Jh 8d]
+Seat 1: SebUD13 showed [3d Kd] and won ($0.13) with a pair of Jacks
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) mucked [9c Qc]
+Seat 4: Volkoff_V_A (small blind) folded before Flop
+Seat 5: Quaer Jouzu (big blind) folded before Flop
+
+
+
+PokerStars Hand #241325543551:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:50:28 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: SebUD13 ($1.38 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.44 in chips) 
+Seat 4: Volkoff_V_A ($3.98 in chips) 
+Seat 5: Quaer Jouzu ($2.87 in chips) 
+Seat 6: Andresargas ($2 in chips) 
+Quaer Jouzu: posts small blind $0.01
+Andresargas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 2s]
+SebUD13: raises $0.04 to $0.06
+Skljar: folds 
+Lorpugo: folds 
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Andresargas: calls $0.04
+*** FLOP *** [4h 3c 9s]
+Andresargas: checks 
+SebUD13: checks 
+*** TURN *** [4h 3c 9s] [Ts]
+Andresargas: checks 
+SebUD13: bets $0.07
+Andresargas: calls $0.07
+*** RIVER *** [4h 3c 9s Ts] [Qh]
+Andresargas: checks 
+SebUD13: bets $0.13
+Andresargas: folds 
+Uncalled bet ($0.13) returned to SebUD13
+SebUD13 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4h 3c 9s Ts Qh]
+Seat 1: SebUD13 collected ($0.26)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A (button) folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (small blind) folded before Flop
+Seat 6: Andresargas (big blind) folded on the River
+
+
+
+PokerStars Hand #241325562582:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:51:07 ET
+Table 'Amalthea II' 6-max Seat #5 is the button
+Seat 1: SebUD13 ($1.51 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.44 in chips) 
+Seat 4: Volkoff_V_A ($3.98 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Andresargas ($1.87 in chips) 
+Andresargas: posts small blind $0.01
+SebUD13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Kd]
+Skljar: folds 
+Lorpugo: raises $0.02 to $0.04
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Andresargas: folds 
+SebUD13: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: SebUD13 (big blind) folded before Flop
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo collected ($0.05)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu (button) folded before Flop (didn't bet)
+Seat 6: Andresargas (small blind) folded before Flop
+
+
+
+PokerStars Hand #241325567480:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:51:17 ET
+Table 'Amalthea II' 6-max Seat #6 is the button
+Seat 1: SebUD13 ($1.49 in chips) 
+Seat 2: Skljar ($2.47 in chips) 
+Seat 3: Lorpugo ($3.47 in chips) 
+Seat 4: Volkoff_V_A ($3.98 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Andresargas ($1.86 in chips) 
+SebUD13: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3d]
+Lorpugo: folds 
+Volkoff_V_A: raises $0.04 to $0.06
+Quaer Jouzu: folds 
+Andresargas: folds 
+SebUD13: folds 
+Skljar: calls $0.04
+*** FLOP *** [7s 9c 7c]
+Skljar: bets $0.06
+Volkoff_V_A: calls $0.06
+*** TURN *** [7s 9c 7c] [2h]
+Skljar: checks 
+Volkoff_V_A: checks 
+*** RIVER *** [7s 9c 7c 2h] [Ks]
+Skljar: bets $0.20
+Volkoff_V_A: folds 
+Uncalled bet ($0.20) returned to Skljar
+Skljar collected $0.24 from pot
+Skljar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7s 9c 7c 2h Ks]
+Seat 1: SebUD13 (small blind) folded before Flop
+Seat 2: Skljar (big blind) collected ($0.24)
+Seat 3: Lorpugo folded before Flop (didn't bet)
+Seat 4: Volkoff_V_A folded on the River
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Andresargas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325585739:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:51:55 ET
+Table 'Amalthea II' 6-max Seat #1 is the button
+Seat 1: SebUD13 ($1.48 in chips) 
+Seat 2: Skljar ($2.59 in chips) 
+Seat 3: Lorpugo ($3.47 in chips) 
+Seat 4: Volkoff_V_A ($3.86 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Andresargas ($1.86 in chips) 
+Skljar: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qh]
+Volkoff_V_A: folds 
+Quaer Jouzu: folds 
+Andresargas: folds 
+SebUD13: folds 
+Skljar: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+Skljar: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.04 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: SebUD13 (button) folded before Flop (didn't bet)
+Seat 2: Skljar (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected ($0.04)
+Seat 4: Volkoff_V_A folded before Flop (didn't bet)
+Seat 5: Quaer Jouzu folded before Flop (didn't bet)
+Seat 6: Andresargas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325595718:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:52:16 ET
+Table 'Amalthea II' 6-max Seat #2 is the button
+Seat 1: SebUD13 ($1.48 in chips) 
+Seat 2: Skljar ($2.57 in chips) 
+Seat 3: Lorpugo ($3.49 in chips) 
+Seat 4: Volkoff_V_A ($3.86 in chips) 
+Seat 5: Quaer Jouzu ($2.86 in chips) 
+Seat 6: Andresargas ($1.86 in chips) 
+Lorpugo: posts small blind $0.01
+Volkoff_V_A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Qs]
+Quaer Jouzu: raises $0.04 to $0.06
+Andresargas: folds 
+SebUD13: calls $0.06
+Skljar: calls $0.06
+Lorpugo: folds 
+Volkoff_V_A: raises $0.25 to $0.31
+Quaer Jouzu: folds 
+SebUD13: folds 
+Skljar: folds 
+Uncalled bet ($0.25) returned to Volkoff_V_A
+Volkoff_V_A collected $0.25 from pot
+Volkoff_V_A: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SebUD13 folded before Flop
+Seat 2: Skljar (button) folded before Flop
+Seat 3: Lorpugo (small blind) folded before Flop
+Seat 4: Volkoff_V_A (big blind) collected ($0.25)
+Seat 5: Quaer Jouzu folded before Flop
+Seat 6: Andresargas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241325612414:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:52:50 ET
+Table 'Amalthea II' 6-max Seat #3 is the button
+Seat 1: SebUD13 ($1.42 in chips) 
+Seat 2: Skljar ($2.51 in chips) 
+Seat 3: Lorpugo ($3.48 in chips) 
+Seat 4: Volkoff_V_A ($4.05 in chips) 
+Seat 6: Andresargas ($1.86 in chips) 
+Volkoff_V_A: posts small blind $0.01
+Andresargas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ah]
+Quaer Jouzu leaves the table
+SebUD13: calls $0.02
+ShakaUA joins the table at seat #5 
+Skljar: folds 
+Lorpugo: calls $0.02
+Volkoff_V_A: raises $0.07 to $0.09
+Andresargas: folds 
+SebUD13: calls $0.07
+Lorpugo: folds 
+*** FLOP *** [Td 8h 2h]
+Volkoff_V_A: checks 
+SebUD13: checks 
+*** TURN *** [Td 8h 2h] [3d]
+Volkoff_V_A: checks 
+SebUD13: checks 
+*** RIVER *** [Td 8h 2h 3d] [Jc]
+Volkoff_V_A: checks 
+SebUD13: bets $0.21
+Volkoff_V_A: folds 
+Uncalled bet ($0.21) returned to SebUD13
+SebUD13 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Td 8h 2h 3d Jc]
+Seat 1: SebUD13 collected ($0.21)
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo (button) folded before Flop
+Seat 4: Volkoff_V_A (small blind) folded on the River
+Seat 6: Andresargas (big blind) folded before Flop
+
+
+
+PokerStars Hand #241325647222:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 14:54:02 ET
+Table 'Amalthea II' 6-max Seat #4 is the button
+Seat 1: SebUD13 ($1.54 in chips) 
+Seat 2: Skljar ($2.51 in chips) 
+Seat 3: Lorpugo ($3.46 in chips) 
+Seat 4: Volkoff_V_A ($3.96 in chips) 
+Seat 6: Andresargas ($1.84 in chips) 
+Andresargas: posts small blind $0.01
+SebUD13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qs]
+Skljar is disconnected 
+Skljar has timed out
+Skljar: folds 
+Skljar is disconnected 
+Lorpugo: raises $0.03 to $0.05
+Volkoff_V_A: calls $0.05
+Andresargas: folds 
+SebUD13: calls $0.03
+*** FLOP *** [Td Jd Qc]
+SebUD13: checks 
+Lorpugo: bets $0.05
+Volkoff_V_A: folds 
+SebUD13: calls $0.05
+*** TURN *** [Td Jd Qc] [Th]
+SebUD13: checks 
+Lorpugo: bets $0.08
+SebUD13: calls $0.08
+*** RIVER *** [Td Jd Qc Th] [4h]
+SebUD13: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+SebUD13: shows [Kd 4d] (two pair, Tens and Fours)
+Lorpugo: shows [9s Qs] (two pair, Queens and Tens)
+Lorpugo collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Td Jd Qc Th 4h]
+Seat 1: SebUD13 (big blind) showed [Kd 4d] and lost with two pair, Tens and Fours
+Seat 2: Skljar folded before Flop (didn't bet)
+Seat 3: Lorpugo showed [9s Qs] and won ($0.41) with two pair, Queens and Tens
+Seat 4: Volkoff_V_A (button) folded on the Flop
+Seat 6: Andresargas (small blind) folded before Flop
+
+
+

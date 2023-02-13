@@ -1,0 +1,374 @@
+﻿PokerStars Hand #241388983816: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:52:09 ET
+Table '3537651946 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: dualstr12 (500 in chips) 
+Seat 3: Egor_160789 (500 in chips) 
+dualstr12: posts small blind 10
+Egor_160789: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qs]
+Lorpugo: folds 
+dualstr12: calls 10
+Egor_160789: checks 
+*** FLOP *** [3c 3d 5h]
+dualstr12: bets 20
+Egor_160789: folds 
+Uncalled bet (20) returned to dualstr12
+dualstr12 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c 3d 5h]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: dualstr12 (small blind) collected (40)
+Seat 3: Egor_160789 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241388995797: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:52:39 ET
+Table '3537651946 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: dualstr12 (520 in chips) 
+Seat 3: Egor_160789 (480 in chips) 
+Egor_160789: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Qs]
+dualstr12: calls 20
+Egor_160789: calls 10
+Lorpugo: checks 
+*** FLOP *** [7h Kd 6h]
+Egor_160789: checks 
+Lorpugo: checks 
+dualstr12: checks 
+*** TURN *** [7h Kd 6h] [2c]
+Egor_160789: checks 
+Lorpugo: checks 
+dualstr12: checks 
+*** RIVER *** [7h Kd 6h 2c] [Ts]
+Egor_160789: checks 
+Lorpugo: checks 
+dualstr12: checks 
+*** SHOW DOWN ***
+Egor_160789: shows [Tc 8d] (a pair of Tens)
+Lorpugo: mucks hand 
+dualstr12: mucks hand 
+Egor_160789 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h Kd 6h 2c Ts]
+Seat 1: Lorpugo (big blind) mucked [4c Qs]
+Seat 2: dualstr12 (button) mucked [5d 9s]
+Seat 3: Egor_160789 (small blind) showed [Tc 8d] and won (60) with a pair of Tens
+
+
+
+PokerStars Hand #241389013662: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:53:26 ET
+Table '3537651946 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (480 in chips) 
+Seat 2: dualstr12 (500 in chips) 
+Seat 3: Egor_160789 (520 in chips) 
+Lorpugo: posts small blind 10
+dualstr12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7s]
+Egor_160789: calls 20
+Lorpugo: calls 10
+dualstr12: checks 
+*** FLOP *** [Ah 5d Ks]
+Lorpugo: checks 
+dualstr12: checks 
+Egor_160789: checks 
+*** TURN *** [Ah 5d Ks] [4h]
+Lorpugo: bets 20
+dualstr12: calls 20
+Egor_160789: calls 20
+*** RIVER *** [Ah 5d Ks 4h] [3h]
+Lorpugo: checks 
+dualstr12: checks 
+Egor_160789: bets 20
+Lorpugo: calls 20
+dualstr12: calls 20
+*** SHOW DOWN ***
+Egor_160789: shows [Jh 7h] (a flush, Ace high)
+Lorpugo: mucks hand 
+dualstr12: mucks hand 
+Egor_160789 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 5d Ks 4h 3h]
+Seat 1: Lorpugo (small blind) mucked [Kh 7s]
+Seat 2: dualstr12 (big blind) mucked [6h 3s]
+Seat 3: Egor_160789 (button) showed [Jh 7h] and won (180) with a flush, Ace high
+
+
+
+PokerStars Hand #241389030402: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:54:09 ET
+Table '3537651946 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (420 in chips) 
+Seat 2: dualstr12 (440 in chips) 
+Seat 3: Egor_160789 (640 in chips) 
+dualstr12: posts small blind 10
+Egor_160789: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 2d]
+Lorpugo: folds 
+dualstr12: calls 10
+Egor_160789: checks 
+*** FLOP *** [4c Jc Qd]
+dualstr12: bets 20
+Egor_160789: raises 20 to 40
+dualstr12: raises 20 to 60
+Egor_160789: raises 20 to 80
+dualstr12: raises 340 to 420 and is all-in
+Egor_160789: calls 340
+*** TURN *** [4c Jc Qd] [7s]
+*** RIVER *** [4c Jc Qd 7s] [5d]
+*** SHOW DOWN ***
+dualstr12: shows [3h Js] (a pair of Jacks)
+Egor_160789: shows [Qh 5c] (two pair, Queens and Fives)
+Egor_160789 collected 880 from pot
+dualstr12 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [4c Jc Qd 7s 5d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: dualstr12 (small blind) showed [3h Js] and lost with a pair of Jacks
+Seat 3: Egor_160789 (big blind) showed [Qh 5c] and won (880) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #241389052714: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 13:55:07 ET
+Table '3537651946 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (420 in chips) 
+Seat 3: Egor_160789 (1080 in chips) 
+Egor_160789: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 6h]
+Egor_160789: calls 15
+Lorpugo: raises 390 to 420 and is all-in
+Egor_160789: folds 
+Uncalled bet (390) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (60)
+Seat 3: Egor_160789 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241389055505: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 13:55:17 ET
+Table '3537651946 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (450 in chips) 
+Seat 3: Egor_160789 (1050 in chips) 
+Lorpugo: posts small blind 15
+Egor_160789: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6d]
+Lorpugo: raises 30 to 60
+Egor_160789: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) collected (60)
+Seat 3: Egor_160789 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241389057645: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 13:55:24 ET
+Table '3537651946 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (480 in chips) 
+Seat 3: Egor_160789 (1020 in chips) 
+Egor_160789: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5c]
+Egor_160789: calls 15
+Lorpugo: checks 
+*** FLOP *** [7h Jd 9h]
+Lorpugo: checks 
+Egor_160789: checks 
+*** TURN *** [7h Jd 9h] [2s]
+Lorpugo: bets 60
+Egor_160789: calls 60
+*** RIVER *** [7h Jd 9h 2s] [8s]
+Lorpugo: bets 119
+Egor_160789: calls 119
+*** SHOW DOWN ***
+Lorpugo: shows [9d 5c] (a pair of Nines)
+Egor_160789: shows [9s 6s] (a pair of Nines)
+Lorpugo collected 209 from pot
+Egor_160789 collected 209 from pot
+*** SUMMARY ***
+Total pot 418 | Rake 0 
+Board [7h Jd 9h 2s 8s]
+Seat 1: Lorpugo (big blind) showed [9d 5c] and won (209) with a pair of Nines
+Seat 3: Egor_160789 (button) (small blind) showed [9s 6s] and won (209) with a pair of Nines
+
+
+
+PokerStars Hand #241389063669: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 13:55:46 ET
+Table '3537651946 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (480 in chips) 
+Seat 3: Egor_160789 (1020 in chips) 
+Lorpugo: posts small blind 15
+Egor_160789: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9h]
+Lorpugo: folds 
+Uncalled bet (15) returned to Egor_160789
+Egor_160789 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Egor_160789 (big blind) collected (30)
+
+
+
+PokerStars Hand #241389065103: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 13:55:51 ET
+Table '3537651946 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (465 in chips) 
+Seat 3: Egor_160789 (1035 in chips) 
+Egor_160789: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 2c]
+Egor_160789: calls 15
+Lorpugo: checks 
+*** FLOP *** [7s Td Js]
+Lorpugo: checks 
+Egor_160789: checks 
+*** TURN *** [7s Td Js] [5c]
+Lorpugo: checks 
+Egor_160789: bets 30
+Lorpugo: folds 
+Uncalled bet (30) returned to Egor_160789
+Egor_160789 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s Td Js 5c]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 3: Egor_160789 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241389072173: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/01/25 13:56:15 ET
+Table '3537651946 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (435 in chips) 
+Seat 3: Egor_160789 (1065 in chips) 
+Lorpugo: posts small blind 20
+Egor_160789: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 5c]
+Lorpugo: folds 
+Uncalled bet (20) returned to Egor_160789
+Egor_160789 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Egor_160789 (big blind) collected (40)
+
+
+
+PokerStars Hand #241389073457: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/01/25 13:56:20 ET
+Table '3537651946 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (415 in chips) 
+Seat 3: Egor_160789 (1085 in chips) 
+Egor_160789: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5c]
+Egor_160789: calls 20
+Lorpugo: raises 375 to 415 and is all-in
+Egor_160789: folds 
+Uncalled bet (375) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (80)
+Seat 3: Egor_160789 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241389078043: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/01/25 13:56:36 ET
+Table '3537651946 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (455 in chips) 
+Seat 3: Egor_160789 (1045 in chips) 
+Lorpugo: posts small blind 20
+Egor_160789: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Kd]
+Lorpugo: raises 415 to 455 and is all-in
+Egor_160789: calls 415
+*** FLOP *** [3c 6c 2d]
+*** TURN *** [3c 6c 2d] [9d]
+*** RIVER *** [3c 6c 2d 9d] [4h]
+*** SHOW DOWN ***
+Egor_160789: shows [Ac Js] (high card Ace)
+Lorpugo: shows [6h Kd] (a pair of Sixes)
+Lorpugo collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [3c 6c 2d 9d 4h]
+Seat 1: Lorpugo (button) (small blind) showed [6h Kd] and won (910) with a pair of Sixes
+Seat 3: Egor_160789 (big blind) showed [Ac Js] and lost with high card Ace
+
+
+
+PokerStars Hand #241389083252: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/01/25 13:56:54 ET
+Table '3537651946 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (910 in chips) 
+Seat 3: Egor_160789 (590 in chips) 
+Egor_160789: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Kd]
+Egor_160789: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (40)
+Seat 3: Egor_160789 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241389085062: Tournament #3537651946, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/01/25 13:57:00 ET
+Table '3537651946 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (930 in chips) 
+Seat 3: Egor_160789 (570 in chips) 
+Lorpugo: posts small blind 20
+Egor_160789: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Kd]
+Lorpugo: raises 40 to 80
+Egor_160789: calls 40
+*** FLOP *** [8c 4d Kc]
+Egor_160789: bets 40
+Lorpugo: raises 120 to 160
+Egor_160789: calls 120
+*** TURN *** [8c 4d Kc] [6d]
+Egor_160789: checks 
+Lorpugo: bets 317
+Egor_160789: raises 13 to 330 and is all-in
+Lorpugo: calls 13
+*** RIVER *** [8c 4d Kc 6d] [Js]
+*** SHOW DOWN ***
+Egor_160789: shows [Jd 8d] (two pair, Jacks and Eights)
+Lorpugo: shows [6c Kd] (two pair, Kings and Sixes)
+Lorpugo collected 1140 from pot
+Egor_160789 finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [8c 4d Kc 6d Js]
+Seat 1: Lorpugo (button) (small blind) showed [6c Kd] and won (1140) with two pair, Kings and Sixes
+Seat 3: Egor_160789 (big blind) showed [Jd 8d] and lost with two pair, Jacks and Eights
+
+
+

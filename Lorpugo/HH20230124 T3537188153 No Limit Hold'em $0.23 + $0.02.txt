@@ -1,0 +1,94 @@
+﻿PokerStars Hand #241369521370: Tournament #3537188153, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:03:23 ET
+Table '3537188153 1' 3-max Seat #1 is the button
+Seat 1: minimi28 (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: Wakkuum (500 in chips) 
+Lorpugo: posts small blind 10
+Wakkuum: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 9c]
+minimi28: folds 
+Lorpugo: raises 20 to 40
+Wakkuum: calls 20
+*** FLOP *** [Ac 3h As]
+Lorpugo: checks 
+Wakkuum: checks 
+*** TURN *** [Ac 3h As] [7d]
+Lorpugo: bets 53
+Wakkuum: folds 
+Uncalled bet (53) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 3h As 7d]
+Seat 1: minimi28 (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected (80)
+Seat 3: Wakkuum (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241369533125: Tournament #3537188153, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:03:52 ET
+Table '3537188153 1' 3-max Seat #2 is the button
+Seat 1: minimi28 (500 in chips) 
+Seat 2: Lorpugo (540 in chips) 
+Seat 3: Wakkuum (460 in chips) 
+Wakkuum: posts small blind 10
+minimi28: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Qc]
+Lorpugo: raises 20 to 40
+Wakkuum: calls 30
+minimi28: calls 20
+*** FLOP *** [6h Jc 9c]
+Wakkuum: bets 120
+minimi28: calls 120
+Lorpugo: raises 380 to 500 and is all-in
+Wakkuum: calls 300 and is all-in
+minimi28: calls 340 and is all-in
+Uncalled bet (40) returned to Lorpugo
+*** TURN *** [6h Jc 9c] [Ac]
+*** RIVER *** [6h Jc 9c Ac] [6d]
+*** SHOW DOWN ***
+minimi28: shows [8c 4c] (a flush, Ace high)
+Lorpugo: shows [Qd Qc] (two pair, Queens and Sixes)
+minimi28 collected 80 from side pot
+Wakkuum: shows [8d Jh] (two pair, Jacks and Sixes)
+minimi28 collected 1380 from main pot
+Wakkuum finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1460 Main pot 1380. Side pot 80. | Rake 0 
+Board [6h Jc 9c Ac 6d]
+Seat 1: minimi28 (big blind) showed [8c 4c] and won (1460) with a flush, Ace high
+Seat 2: Lorpugo (button) showed [Qd Qc] and lost with two pair, Queens and Sixes
+Seat 3: Wakkuum (small blind) showed [8d Jh] and lost with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #241369550924: Tournament #3537188153, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:04:36 ET
+Table '3537188153 1' 3-max Seat #1 is the button
+Seat 1: minimi28 (1460 in chips) 
+Seat 2: Lorpugo (40 in chips) 
+minimi28: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ac]
+minimi28: raises 20 to 40
+Lorpugo: calls 20 and is all-in
+*** FLOP *** [3d 4d 6h]
+*** TURN *** [3d 4d 6h] [Ks]
+*** RIVER *** [3d 4d 6h Ks] [9c]
+*** SHOW DOWN ***
+Lorpugo: shows [7c Ac] (high card Ace)
+minimi28: shows [9h Ah] (a pair of Nines)
+minimi28 collected 80 from pot
+Lorpugo finished the tournament in 2nd place
+minimi28 wins the tournament and receives $0.50 - congratulations!
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 4d 6h Ks 9c]
+Seat 1: minimi28 (button) (small blind) showed [9h Ah] and won (80) with a pair of Nines
+Seat 2: Lorpugo (big blind) showed [7c Ac] and lost with high card Ace
+
+
+

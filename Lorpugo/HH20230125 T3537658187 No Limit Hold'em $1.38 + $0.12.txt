@@ -1,0 +1,283 @@
+﻿PokerStars Hand #241389237701: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:04:38 ET
+Table '3537658187 1' 3-max Seat #1 is the button
+Seat 1: Graf_Zett (500 in chips) 
+Seat 2: pikou.be (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+pikou.be: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 4h]
+Graf_Zett: folds 
+pikou.be: folds 
+Uncalled bet (10) returned to Lorpugo
+Lorpugo collected 20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Graf_Zett (button) folded before Flop (didn't bet)
+Seat 2: pikou.be (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (20)
+
+
+
+PokerStars Hand #241389239709: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:04:43 ET
+Table '3537658187 1' 3-max Seat #2 is the button
+Seat 1: Graf_Zett (500 in chips) 
+Seat 2: pikou.be (490 in chips) 
+Seat 3: Lorpugo (510 in chips) 
+Lorpugo: posts small blind 10
+Graf_Zett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 5c]
+pikou.be: calls 20
+Lorpugo: calls 10
+Graf_Zett: raises 480 to 500 and is all-in
+pikou.be: calls 470 and is all-in
+Lorpugo: folds 
+Uncalled bet (10) returned to Graf_Zett
+*** FLOP *** [6c 8s Qs]
+*** TURN *** [6c 8s Qs] [Kd]
+*** RIVER *** [6c 8s Qs Kd] [Ad]
+*** SHOW DOWN ***
+Graf_Zett: shows [5s Ah] (a pair of Aces)
+pikou.be: shows [9h 6s] (a pair of Sixes)
+Graf_Zett collected 1000 from pot
+pikou.be finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [6c 8s Qs Kd Ad]
+Seat 1: Graf_Zett (big blind) showed [5s Ah] and won (1000) with a pair of Aces
+Seat 2: pikou.be (button) showed [9h 6s] and lost with a pair of Sixes
+Seat 3: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241389250094: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:05:09 ET
+Table '3537658187 1' 3-max Seat #1 is the button
+Seat 1: Graf_Zett (1010 in chips) 
+Seat 3: Lorpugo (490 in chips) 
+Graf_Zett: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 3s]
+Graf_Zett: raises 40 to 60
+Lorpugo: folds 
+Uncalled bet (40) returned to Graf_Zett
+Graf_Zett collected 40 from pot
+Graf_Zett: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Graf_Zett (button) (small blind) collected (40)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241389253446: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:05:18 ET
+Table '3537658187 1' 3-max Seat #3 is the button
+Seat 1: Graf_Zett (1030 in chips) 
+Seat 3: Lorpugo (470 in chips) 
+Lorpugo: posts small blind 10
+Graf_Zett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c Kd]
+Lorpugo: calls 10
+Graf_Zett: checks 
+*** FLOP *** [5h 6s 8d]
+Graf_Zett: bets 20
+Lorpugo: folds 
+Uncalled bet (20) returned to Graf_Zett
+Graf_Zett collected 40 from pot
+Graf_Zett: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5h 6s 8d]
+Seat 1: Graf_Zett (big blind) collected (40)
+Seat 3: Lorpugo (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241389259110: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:05:33 ET
+Table '3537658187 1' 3-max Seat #1 is the button
+Seat 1: Graf_Zett (1050 in chips) 
+Seat 3: Lorpugo (450 in chips) 
+Graf_Zett: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 8s]
+Graf_Zett: raises 20 to 40
+Lorpugo: calls 20
+*** FLOP *** [9h 5c Tc]
+Lorpugo: checks 
+Graf_Zett: bets 80
+Lorpugo: calls 80
+*** TURN *** [9h 5c Tc] [Ts]
+Lorpugo: checks 
+Graf_Zett: checks 
+*** RIVER *** [9h 5c Tc Ts] [6c]
+Lorpugo: checks 
+Graf_Zett: bets 930 and is all-in
+Lorpugo: folds 
+Uncalled bet (930) returned to Graf_Zett
+Graf_Zett collected 240 from pot
+Graf_Zett: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h 5c Tc Ts 6c]
+Seat 1: Graf_Zett (button) (small blind) collected (240)
+Seat 3: Lorpugo (big blind) folded on the River
+
+
+
+PokerStars Hand #241389270623: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:06:02 ET
+Table '3537658187 1' 3-max Seat #3 is the button
+Seat 1: Graf_Zett (1170 in chips) 
+Seat 3: Lorpugo (330 in chips) 
+Lorpugo: posts small blind 10
+Graf_Zett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 7h]
+Lorpugo: raises 310 to 330 and is all-in
+Graf_Zett: folds 
+Uncalled bet (310) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Graf_Zett (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #241389273486: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:06:09 ET
+Table '3537658187 1' 3-max Seat #1 is the button
+Seat 1: Graf_Zett (1150 in chips) 
+Seat 3: Lorpugo (350 in chips) 
+Graf_Zett: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ad]
+Graf_Zett: raises 20 to 40
+Lorpugo: raises 80 to 120
+Graf_Zett: folds 
+Uncalled bet (80) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Graf_Zett (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (80)
+
+
+
+PokerStars Hand #241389276715: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 14:06:17 ET
+Table '3537658187 1' 3-max Seat #3 is the button
+Seat 1: Graf_Zett (1110 in chips) 
+Seat 3: Lorpugo (390 in chips) 
+Lorpugo: posts small blind 10
+Graf_Zett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Tc]
+Lorpugo: calls 10
+Graf_Zett: checks 
+*** FLOP *** [Qh Ac 5h]
+Graf_Zett: bets 20
+Lorpugo: raises 20 to 40
+Graf_Zett: calls 20
+*** TURN *** [Qh Ac 5h] [8s]
+Graf_Zett: checks 
+Lorpugo: bets 40
+Graf_Zett: calls 40
+*** RIVER *** [Qh Ac 5h 8s] [Th]
+Graf_Zett: bets 120
+Lorpugo: calls 120
+*** SHOW DOWN ***
+Graf_Zett: shows [5d 9d] (a pair of Fives)
+Lorpugo: shows [5s Tc] (two pair, Tens and Fives)
+Lorpugo collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Qh Ac 5h 8s Th]
+Seat 1: Graf_Zett (big blind) showed [5d 9d] and lost with a pair of Fives
+Seat 3: Lorpugo (button) (small blind) showed [5s Tc] and won (440) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #241389286828: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 14:06:43 ET
+Table '3537658187 1' 3-max Seat #1 is the button
+Seat 1: Graf_Zett (890 in chips) 
+Seat 3: Lorpugo (610 in chips) 
+Graf_Zett: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8s]
+Graf_Zett: raises 30 to 60
+Lorpugo: folds 
+Uncalled bet (30) returned to Graf_Zett
+Graf_Zett collected 60 from pot
+Graf_Zett: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Graf_Zett (button) (small blind) collected (60)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241389289402: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 14:06:49 ET
+Table '3537658187 1' 3-max Seat #3 is the button
+Seat 1: Graf_Zett (920 in chips) 
+Seat 3: Lorpugo (580 in chips) 
+Lorpugo: posts small blind 15
+Graf_Zett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 6h]
+Lorpugo: calls 15
+Graf_Zett: checks 
+*** FLOP *** [8h Jd 3s]
+Graf_Zett: checks 
+Lorpugo: checks 
+*** TURN *** [8h Jd 3s] [9h]
+Graf_Zett: checks 
+Lorpugo: checks 
+*** RIVER *** [8h Jd 3s 9h] [7h]
+Graf_Zett: checks 
+Lorpugo: bets 120
+Graf_Zett: folds 
+Uncalled bet (120) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h Jd 3s 9h 7h]
+Seat 1: Graf_Zett (big blind) folded on the River
+Seat 3: Lorpugo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241389297188: Tournament #3537658187, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/01/25 14:07:09 ET
+Table '3537658187 1' 3-max Seat #1 is the button
+Seat 1: Graf_Zett (890 in chips) 
+Seat 3: Lorpugo (610 in chips) 
+Graf_Zett: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 8h]
+Graf_Zett: raises 60 to 90
+Lorpugo: raises 520 to 610 and is all-in
+Graf_Zett: calls 520
+*** FLOP *** [2c 6d 3c]
+*** TURN *** [2c 6d 3c] [4s]
+*** RIVER *** [2c 6d 3c 4s] [9c]
+*** SHOW DOWN ***
+Lorpugo: shows [As 8h] (high card Ace)
+Graf_Zett: shows [Tc Ad] (high card Ace - Ten kicker)
+Graf_Zett collected 1220 from pot
+Lorpugo finished the tournament in 2nd place
+Graf_Zett wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1220 | Rake 0 
+Board [2c 6d 3c 4s 9c]
+Seat 1: Graf_Zett (button) (small blind) showed [Tc Ad] and won (1220) with high card Ace
+Seat 3: Lorpugo (big blind) showed [As 8h] and lost with high card Ace
+
+
+

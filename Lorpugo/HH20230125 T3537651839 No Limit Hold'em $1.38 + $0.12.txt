@@ -1,0 +1,34 @@
+﻿PokerStars Hand #241388970487: Tournament #3537651839, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:51:35 ET
+Table '3537651839 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: gensrobben (500 in chips) 
+Seat 3: pikou.be (500 in chips) 
+gensrobben: posts small blind 10
+pikou.be: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Js]
+Lorpugo: raises 20 to 40
+gensrobben: raises 460 to 500 and is all-in
+pikou.be: calls 480 and is all-in
+Lorpugo: calls 460 and is all-in
+*** FLOP *** [5d Jc 5s]
+*** TURN *** [5d Jc 5s] [3h]
+*** RIVER *** [5d Jc 5s 3h] [5h]
+*** SHOW DOWN ***
+gensrobben: shows [9c Ad] (three of a kind, Fives)
+pikou.be: shows [6d 8c] (three of a kind, Fives - lower kicker)
+Lorpugo: shows [Jh Js] (a full house, Jacks full of Fives)
+Lorpugo collected 1500 from pot
+gensrobben is sitting out
+gensrobben finished the tournament in 2nd place
+pikou.be finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [5d Jc 5s 3h 5h]
+Seat 1: Lorpugo (button) showed [Jh Js] and won (1500) with a full house, Jacks full of Fives
+Seat 2: gensrobben (small blind) showed [9c Ad] and lost with three of a kind, Fives
+Seat 3: pikou.be (big blind) showed [6d 8c] and lost with three of a kind, Fives
+
+
+

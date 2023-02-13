@@ -1,0 +1,788 @@
+﻿PokerStars Hand #241366553141: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:15:21 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: Jamboree1286 (500 in chips) 
+Lorpugo: posts small blind 10
+Jamboree1286: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 9s]
+schnic: calls 20
+Lorpugo: calls 10
+Jamboree1286: checks 
+*** FLOP *** [3c As 7s]
+Lorpugo: checks 
+Jamboree1286: checks 
+schnic: checks 
+*** TURN *** [3c As 7s] [3d]
+Lorpugo: checks 
+Jamboree1286: checks 
+schnic: checks 
+*** RIVER *** [3c As 7s 3d] [9c]
+Lorpugo: bets 60
+Jamboree1286: folds 
+schnic: calls 60
+*** SHOW DOWN ***
+Lorpugo: shows [6c 9s] (two pair, Nines and Threes)
+schnic: shows [9h Jh] (two pair, Nines and Threes)
+Lorpugo collected 90 from pot
+schnic collected 90 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c As 7s 3d 9c]
+Seat 1: schnic (button) showed [9h Jh] and won (90) with two pair, Nines and Threes
+Seat 2: Lorpugo (small blind) showed [6c 9s] and won (90) with two pair, Nines and Threes
+Seat 3: Jamboree1286 (big blind) folded on the River
+
+
+
+PokerStars Hand #241366566510: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:15:57 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (510 in chips) 
+Seat 2: Lorpugo (510 in chips) 
+Seat 3: Jamboree1286 (480 in chips) 
+Jamboree1286: posts small blind 10
+schnic: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2d]
+Lorpugo: folds 
+Jamboree1286: raises 40 to 60
+schnic: calls 40
+*** FLOP *** [Kd 7h 5h]
+Jamboree1286: checks 
+schnic: checks 
+*** TURN *** [Kd 7h 5h] [9c]
+Jamboree1286: checks 
+schnic: checks 
+*** RIVER *** [Kd 7h 5h 9c] [7c]
+Jamboree1286: checks 
+schnic: checks 
+*** SHOW DOWN ***
+Jamboree1286: shows [3d 4c] (a pair of Sevens)
+schnic: shows [Qh 6s] (a pair of Sevens - King+Queen kicker)
+schnic collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 7h 5h 9c 7c]
+Seat 1: schnic (big blind) showed [Qh 6s] and won (120) with a pair of Sevens
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Jamboree1286 (small blind) showed [3d 4c] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #241366574095: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:16:17 ET
+Table '3537131607 1' 3-max Seat #3 is the button
+Seat 1: schnic (570 in chips) 
+Seat 2: Lorpugo (510 in chips) 
+Seat 3: Jamboree1286 (420 in chips) 
+schnic: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Th]
+Jamboree1286: folds 
+schnic: folds 
+Uncalled bet (10) returned to Lorpugo
+Lorpugo collected 20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: schnic (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected (20)
+Seat 3: Jamboree1286 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241366575766: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:16:22 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (560 in chips) 
+Seat 2: Lorpugo (520 in chips) 
+Seat 3: Jamboree1286 (420 in chips) 
+Lorpugo: posts small blind 10
+Jamboree1286: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7h]
+schnic: folds 
+Lorpugo: raises 30 to 50
+Jamboree1286: calls 30
+*** FLOP *** [4s 3c Ks]
+Lorpugo: checks 
+Jamboree1286: checks 
+*** TURN *** [4s 3c Ks] [Tc]
+Lorpugo: checks 
+Jamboree1286: bets 60
+Lorpugo: folds 
+Uncalled bet (60) returned to Jamboree1286
+Jamboree1286 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4s 3c Ks Tc]
+Seat 1: schnic (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded on the Turn
+Seat 3: Jamboree1286 (big blind) collected (100)
+
+
+
+PokerStars Hand #241366588214: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:16:55 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (560 in chips) 
+Seat 2: Lorpugo (470 in chips) 
+Seat 3: Jamboree1286 (470 in chips) 
+Jamboree1286: posts small blind 10
+schnic: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 4s]
+Lorpugo: folds 
+Jamboree1286: raises 40 to 60
+schnic: calls 40
+*** FLOP *** [9h 9s 2c]
+Jamboree1286: checks 
+schnic: checks 
+*** TURN *** [9h 9s 2c] [7d]
+Jamboree1286: checks 
+schnic: bets 60
+Jamboree1286: folds 
+Uncalled bet (60) returned to schnic
+schnic collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 9s 2c 7d]
+Seat 1: schnic (big blind) collected (120)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: Jamboree1286 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241366594354: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:17:11 ET
+Table '3537131607 1' 3-max Seat #3 is the button
+Seat 1: schnic (620 in chips) 
+Seat 2: Lorpugo (470 in chips) 
+Seat 3: Jamboree1286 (410 in chips) 
+schnic: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 3s]
+Jamboree1286: raises 40 to 60
+schnic: calls 50
+Lorpugo: folds 
+*** FLOP *** [5h Tc Kh]
+schnic: checks 
+Jamboree1286: bets 60
+schnic: folds 
+Uncalled bet (60) returned to Jamboree1286
+Jamboree1286 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [5h Tc Kh]
+Seat 1: schnic (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: Jamboree1286 (button) collected (140)
+
+
+
+PokerStars Hand #241366600774: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:17:29 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (560 in chips) 
+Seat 2: Lorpugo (450 in chips) 
+Seat 3: Jamboree1286 (490 in chips) 
+Lorpugo: posts small blind 10
+Jamboree1286: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 5h]
+schnic: calls 20
+Lorpugo: calls 10
+Jamboree1286: checks 
+*** FLOP *** [Ac Th 9s]
+Lorpugo: checks 
+Jamboree1286: checks 
+schnic: bets 20
+Lorpugo: folds 
+Jamboree1286: calls 20
+*** TURN *** [Ac Th 9s] [7d]
+Jamboree1286: checks 
+schnic: checks 
+*** RIVER *** [Ac Th 9s 7d] [Qd]
+Jamboree1286: checks 
+schnic: checks 
+*** SHOW DOWN ***
+Jamboree1286: shows [8d Ts] (a pair of Tens)
+schnic: shows [Ad 8s] (a pair of Aces)
+schnic collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ac Th 9s 7d Qd]
+Seat 1: schnic (button) showed [Ad 8s] and won (100) with a pair of Aces
+Seat 2: Lorpugo (small blind) folded on the Flop
+Seat 3: Jamboree1286 (big blind) showed [8d Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #241366610471: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:17:55 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (620 in chips) 
+Seat 2: Lorpugo (430 in chips) 
+Seat 3: Jamboree1286 (450 in chips) 
+Jamboree1286: posts small blind 10
+schnic: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 9s]
+Lorpugo: raises 20 to 40
+Jamboree1286: calls 30
+schnic: calls 20
+*** FLOP *** [9h Jh 2s]
+Jamboree1286: checks 
+schnic: bets 20
+Lorpugo: calls 20
+Jamboree1286: calls 20
+*** TURN *** [9h Jh 2s] [4c]
+Jamboree1286: checks 
+schnic: bets 20
+Lorpugo: raises 60 to 80
+Jamboree1286: folds 
+schnic: calls 60
+*** RIVER *** [9h Jh 2s 4c] [6h]
+schnic: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+schnic: shows [7h Jc] (a pair of Jacks)
+Lorpugo: mucks hand 
+schnic collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [9h Jh 2s 4c 6h]
+Seat 1: schnic (big blind) showed [7h Jc] and won (340) with a pair of Jacks
+Seat 2: Lorpugo (button) mucked [Kd 9s]
+Seat 3: Jamboree1286 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241366628853: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:18:44 ET
+Table '3537131607 1' 3-max Seat #3 is the button
+Seat 1: schnic (820 in chips) 
+Seat 2: Lorpugo (290 in chips) 
+Seat 3: Jamboree1286 (390 in chips) 
+schnic: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7h]
+Jamboree1286: folds 
+schnic: calls 15
+Lorpugo: checks 
+*** FLOP *** [2d Ad 8h]
+schnic: checks 
+Lorpugo: bets 40
+schnic: calls 40
+*** TURN *** [2d Ad 8h] [Th]
+schnic: checks 
+Lorpugo: checks 
+*** RIVER *** [2d Ad 8h Th] [Qh]
+schnic: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+schnic: shows [8d 9s] (a pair of Eights)
+Lorpugo: mucks hand 
+schnic collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [2d Ad 8h Th Qh]
+Seat 1: schnic (small blind) showed [8d 9s] and won (140) with a pair of Eights
+Seat 2: Lorpugo (big blind) mucked [2c 7h]
+Seat 3: Jamboree1286 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241366638391: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:19:10 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (890 in chips) 
+Seat 2: Lorpugo (220 in chips) 
+Seat 3: Jamboree1286 (390 in chips) 
+Lorpugo: posts small blind 15
+Jamboree1286: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7h]
+schnic: calls 30
+Lorpugo: folds 
+Jamboree1286: checks 
+*** FLOP *** [Td 4h 5h]
+Jamboree1286: checks 
+schnic: bets 90
+Jamboree1286: folds 
+Uncalled bet (90) returned to schnic
+schnic collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Td 4h 5h]
+Seat 1: schnic (button) collected (75)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: Jamboree1286 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241366642974: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:19:22 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (935 in chips) 
+Seat 2: Lorpugo (205 in chips) 
+Seat 3: Jamboree1286 (360 in chips) 
+Jamboree1286: posts small blind 15
+schnic: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Kh]
+Lorpugo: raises 175 to 205 and is all-in
+Jamboree1286: folds 
+schnic: folds 
+Uncalled bet (175) returned to Lorpugo
+Lorpugo collected 75 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: schnic (big blind) folded before Flop
+Seat 2: Lorpugo (button) collected (75)
+Seat 3: Jamboree1286 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241366646930: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:19:33 ET
+Table '3537131607 1' 3-max Seat #3 is the button
+Seat 1: schnic (905 in chips) 
+Seat 2: Lorpugo (250 in chips) 
+Seat 3: Jamboree1286 (345 in chips) 
+schnic: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3h]
+Jamboree1286: raises 30 to 60
+schnic: calls 45
+Lorpugo: calls 30
+*** FLOP *** [6d 6c Kd]
+schnic: checks 
+Lorpugo: checks 
+Jamboree1286: bets 60
+schnic: calls 60
+Lorpugo: folds 
+*** TURN *** [6d 6c Kd] [Jh]
+schnic: checks 
+Jamboree1286: checks 
+*** RIVER *** [6d 6c Kd Jh] [6s]
+schnic: bets 30
+Jamboree1286: calls 30
+*** SHOW DOWN ***
+schnic: shows [Kh 5c] (a full house, Sixes full of Kings)
+Jamboree1286: mucks hand 
+schnic collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6d 6c Kd Jh 6s]
+Seat 1: schnic (small blind) showed [Kh 5c] and won (360) with a full house, Sixes full of Kings
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: Jamboree1286 (button) mucked [Qh Th]
+
+
+
+PokerStars Hand #241366658042: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:20:02 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (1115 in chips) 
+Seat 2: Lorpugo (190 in chips) 
+Seat 3: Jamboree1286 (195 in chips) 
+Lorpugo: posts small blind 15
+Jamboree1286: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Tc]
+schnic: calls 30
+Lorpugo: raises 160 to 190 and is all-in
+Jamboree1286: raises 5 to 195 and is all-in
+schnic: calls 165
+*** FLOP *** [6d 4c Jc]
+*** TURN *** [6d 4c Jc] [As]
+*** RIVER *** [6d 4c Jc As] [5d]
+*** SHOW DOWN ***
+Jamboree1286: shows [Qh 4h] (a pair of Fours)
+schnic: shows [Jd Ts] (a pair of Jacks)
+schnic collected 10 from side pot
+Lorpugo: shows [Ac Tc] (a pair of Aces)
+Lorpugo collected 570 from main pot
+Jamboree1286 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 580 Main pot 570. Side pot 10. | Rake 0 
+Board [6d 4c Jc As 5d]
+Seat 1: schnic (button) showed [Jd Ts] and won (10) with a pair of Jacks
+Seat 2: Lorpugo (small blind) showed [Ac Tc] and won (570) with a pair of Aces
+Seat 3: Jamboree1286 (big blind) showed [Qh 4h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #241366668228: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:20:29 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (930 in chips) 
+Seat 2: Lorpugo (570 in chips) 
+Lorpugo: posts small blind 15
+schnic: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8s]
+Lorpugo: raises 30 to 60
+schnic: calls 30
+*** FLOP *** [5c 3c Th]
+schnic: checks 
+Lorpugo: bets 30
+schnic: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 3c Th]
+Seat 1: schnic (big blind) folded on the Flop
+Seat 2: Lorpugo (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241366673476: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:20:43 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (870 in chips) 
+Seat 2: Lorpugo (630 in chips) 
+schnic: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ac]
+schnic: calls 15
+Lorpugo: raises 45 to 75
+schnic: calls 45
+*** FLOP *** [Kd 5h 2s]
+Lorpugo: checks 
+schnic: checks 
+*** TURN *** [Kd 5h 2s] [Ts]
+Lorpugo: checks 
+schnic: checks 
+*** RIVER *** [Kd 5h 2s Ts] [Jd]
+Lorpugo: bets 120
+schnic: calls 120
+*** SHOW DOWN ***
+Lorpugo: shows [As Ac] (a pair of Aces)
+schnic: mucks hand 
+Lorpugo collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [Kd 5h 2s Ts Jd]
+Seat 1: schnic (button) (small blind) mucked [Js 7d]
+Seat 2: Lorpugo (big blind) showed [As Ac] and won (390) with a pair of Aces
+
+
+
+PokerStars Hand #241366683738: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:21:11 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (675 in chips) 
+Seat 2: Lorpugo (825 in chips) 
+Lorpugo: posts small blind 15
+schnic: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 7d]
+Lorpugo: raises 30 to 60
+schnic: calls 30
+*** FLOP *** [Ac 8d Td]
+schnic: checks 
+Lorpugo: checks 
+*** TURN *** [Ac 8d Td] [3c]
+schnic: checks 
+Lorpugo: checks 
+*** RIVER *** [Ac 8d Td 3c] [5s]
+schnic: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+schnic: shows [9d 7h] (high card Ace)
+Lorpugo: shows [Kh 7d] (high card Ace - King kicker)
+Lorpugo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ac 8d Td 3c 5s]
+Seat 1: schnic (big blind) showed [9d 7h] and lost with high card Ace
+Seat 2: Lorpugo (button) (small blind) showed [Kh 7d] and won (120) with high card Ace
+
+
+
+PokerStars Hand #241366692360: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:21:34 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (615 in chips) 
+Seat 2: Lorpugo (885 in chips) 
+schnic: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Qd]
+schnic: calls 20
+Lorpugo: raises 60 to 100
+schnic: calls 60
+*** FLOP *** [7s Td Jd]
+Lorpugo: bets 66
+schnic: folds 
+Uncalled bet (66) returned to Lorpugo
+Lorpugo collected 200 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7s Td Jd]
+Seat 1: schnic (button) (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) collected (200)
+
+
+
+PokerStars Hand #241366701320: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:21:58 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (515 in chips) 
+Seat 2: Lorpugo (985 in chips) 
+Lorpugo: posts small blind 20
+schnic: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 3c]
+Lorpugo: folds 
+Uncalled bet (20) returned to schnic
+schnic collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: schnic (big blind) collected (40)
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241366703100: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:22:03 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (535 in chips) 
+Seat 2: Lorpugo (965 in chips) 
+schnic: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 6s]
+schnic: calls 20
+Lorpugo: checks 
+*** FLOP *** [9s 7h Td]
+Lorpugo: checks 
+schnic: bets 40
+Lorpugo: folds 
+Uncalled bet (40) returned to schnic
+schnic collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 7h Td]
+Seat 1: schnic (button) (small blind) collected (80)
+Seat 2: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241366710526: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:22:22 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (575 in chips) 
+Seat 2: Lorpugo (925 in chips) 
+Lorpugo: posts small blind 20
+schnic: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 5c]
+Lorpugo: calls 20
+schnic: checks 
+*** FLOP *** [Qh Js 6d]
+schnic: checks 
+Lorpugo: checks 
+*** TURN *** [Qh Js 6d] [3d]
+schnic: bets 40
+Lorpugo: calls 40
+*** RIVER *** [Qh Js 6d 3d] [Jh]
+schnic: bets 40
+Lorpugo: calls 40
+*** SHOW DOWN ***
+schnic: shows [2d Jd] (three of a kind, Jacks)
+Lorpugo: mucks hand 
+schnic collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh Js 6d 3d Jh]
+Seat 1: schnic (big blind) showed [2d Jd] and won (240) with three of a kind, Jacks
+Seat 2: Lorpugo (button) (small blind) mucked [5h 5c]
+
+
+
+PokerStars Hand #241366718838: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:22:45 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (695 in chips) 
+Seat 2: Lorpugo (805 in chips) 
+schnic: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3s]
+schnic: calls 20
+Lorpugo: checks 
+*** FLOP *** [Jc 6h 7s]
+Lorpugo: checks 
+schnic: bets 40
+Lorpugo: folds 
+Uncalled bet (40) returned to schnic
+schnic collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc 6h 7s]
+Seat 1: schnic (button) (small blind) collected (80)
+Seat 2: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241366728290: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:23:10 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (735 in chips) 
+Seat 2: Lorpugo (765 in chips) 
+Lorpugo: posts small blind 20
+schnic: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 6s]
+Lorpugo: folds 
+Uncalled bet (20) returned to schnic
+schnic collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: schnic (big blind) collected (40)
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241366730282: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:23:15 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (755 in chips) 
+Seat 2: Lorpugo (745 in chips) 
+schnic: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 2c]
+schnic: calls 20
+Lorpugo: checks 
+*** FLOP *** [5s 5d 7d]
+Lorpugo: checks 
+schnic: checks 
+*** TURN *** [5s 5d 7d] [Qc]
+Lorpugo: checks 
+schnic: bets 40
+Lorpugo: raises 80 to 120
+schnic: calls 80
+*** RIVER *** [5s 5d 7d Qc] [3c]
+Lorpugo: bets 280
+schnic: calls 280
+*** SHOW DOWN ***
+Lorpugo: shows [5h 2c] (three of a kind, Fives)
+schnic: mucks hand 
+Lorpugo collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [5s 5d 7d Qc 3c]
+Seat 1: schnic (button) (small blind) mucked [Kd Qh]
+Seat 2: Lorpugo (big blind) showed [5h 2c] and won (880) with three of a kind, Fives
+
+
+
+PokerStars Hand #241366743838: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:23:51 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (315 in chips) 
+Seat 2: Lorpugo (1185 in chips) 
+Lorpugo: posts small blind 20
+schnic: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ts]
+Lorpugo: raises 40 to 80
+schnic: calls 40
+*** FLOP *** [Qs Qh 7d]
+schnic: checks 
+Lorpugo: checks 
+*** TURN *** [Qs Qh 7d] [Th]
+schnic: checks 
+Lorpugo: checks 
+*** RIVER *** [Qs Qh 7d Th] [4h]
+schnic: bets 40
+Lorpugo: raises 120 to 160
+schnic: calls 120
+*** SHOW DOWN ***
+Lorpugo: shows [Qd Ts] (a full house, Queens full of Tens)
+schnic: mucks hand 
+Lorpugo collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Qs Qh 7d Th 4h]
+Seat 1: schnic (big blind) mucked [6h 6d]
+Seat 2: Lorpugo (button) (small blind) showed [Qd Ts] and won (480) with a full house, Queens full of Tens
+
+
+
+PokerStars Hand #241366751499: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:24:12 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (75 in chips) 
+Seat 2: Lorpugo (1425 in chips) 
+schnic: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 4h]
+schnic: calls 20
+Lorpugo: checks 
+*** FLOP *** [6s 4c 9c]
+Lorpugo: checks 
+schnic: checks 
+*** TURN *** [6s 4c 9c] [5c]
+Lorpugo: checks 
+schnic: checks 
+*** RIVER *** [6s 4c 9c 5c] [Qd]
+Lorpugo: checks 
+schnic: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [2h 4h] (a pair of Fours)
+schnic: mucks hand 
+Lorpugo collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 4c 9c 5c Qd]
+Seat 1: schnic (button) (small blind) mucked [3s Js]
+Seat 2: Lorpugo (big blind) showed [2h 4h] and won (80) with a pair of Fours
+
+
+
+PokerStars Hand #241366760997: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 13:24:38 ET
+Table '3537131607 1' 3-max Seat #2 is the button
+Seat 1: schnic (35 in chips) 
+Seat 2: Lorpugo (1465 in chips) 
+Lorpugo: posts small blind 30
+schnic: posts big blind 35 and is all-in
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7s]
+Lorpugo: calls 5
+*** FLOP *** [5s Td Ad]
+*** TURN *** [5s Td Ad] [6d]
+*** RIVER *** [5s Td Ad 6d] [Kd]
+*** SHOW DOWN ***
+schnic: shows [8h Ts] (a pair of Tens)
+Lorpugo: shows [4c 7s] (high card Ace)
+schnic collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Board [5s Td Ad 6d Kd]
+Seat 1: schnic (big blind) showed [8h Ts] and won (70) with a pair of Tens
+Seat 2: Lorpugo (button) (small blind) showed [4c 7s] and lost with high card Ace
+
+
+
+PokerStars Hand #241366765430: Tournament #3537131607, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 13:24:50 ET
+Table '3537131607 1' 3-max Seat #1 is the button
+Seat 1: schnic (70 in chips) 
+Seat 2: Lorpugo (1430 in chips) 
+schnic: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Kc]
+schnic: calls 30
+Lorpugo: raises 1370 to 1430 and is all-in
+schnic: calls 10 and is all-in
+Uncalled bet (1360) returned to Lorpugo
+*** FLOP *** [4h Kh 7c]
+*** TURN *** [4h Kh 7c] [Qh]
+*** RIVER *** [4h Kh 7c Qh] [8h]
+*** SHOW DOWN ***
+Lorpugo: shows [6s Kc] (a pair of Kings)
+schnic: shows [8d 2c] (a pair of Eights)
+Lorpugo collected 140 from pot
+schnic finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $0.75 - congratulations!
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [4h Kh 7c Qh 8h]
+Seat 1: schnic (button) (small blind) showed [8d 2c] and lost with a pair of Eights
+Seat 2: Lorpugo (big blind) showed [6s Kc] and won (140) with a pair of Kings
+
+
+

@@ -1,0 +1,1023 @@
+﻿PokerStars Hand #241370168483: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:29:06 ET
+Table '3537201925 1' 3-max Seat #1 is the button
+Seat 1: arnar1997 (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: caslu100 (500 in chips) 
+Lorpugo: posts small blind 10
+caslu100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ks]
+arnar1997: raises 140 to 160
+Lorpugo: folds 
+caslu100: folds 
+Uncalled bet (140) returned to arnar1997
+arnar1997 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: arnar1997 (button) collected (50)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: caslu100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370171735: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:29:14 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 1: arnar1997 (530 in chips) 
+Seat 2: Lorpugo (490 in chips) 
+Seat 3: caslu100 (480 in chips) 
+caslu100: posts small blind 10
+arnar1997: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 8c]
+Lorpugo: raises 20 to 40
+caslu100: folds 
+arnar1997: raises 100 to 140
+Lorpugo: calls 100
+*** FLOP *** [Jd 7h 9s]
+arnar1997: bets 180
+Lorpugo: calls 180
+*** TURN *** [Jd 7h 9s] [3c]
+arnar1997: bets 210 and is all-in
+Lorpugo: calls 170 and is all-in
+Uncalled bet (40) returned to arnar1997
+*** RIVER *** [Jd 7h 9s 3c] [Kd]
+*** SHOW DOWN ***
+arnar1997: shows [9h Qs] (a pair of Nines)
+Lorpugo: shows [Ts 8c] (a straight, Seven to Jack)
+Lorpugo collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [Jd 7h 9s 3c Kd]
+Seat 1: arnar1997 (big blind) showed [9h Qs] and lost with a pair of Nines
+Seat 2: Lorpugo (button) showed [Ts 8c] and won (990) with a straight, Seven to Jack
+Seat 3: caslu100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370187528: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:29:52 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 1: arnar1997 (40 in chips) 
+Seat 2: Lorpugo (990 in chips) 
+Seat 3: caslu100 (470 in chips) 
+arnar1997: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5c]
+caslu100: raises 20 to 40
+arnar1997: calls 30 and is all-in
+Lorpugo: calls 20
+*** FLOP *** [7h 4h 6h]
+Lorpugo: checks 
+caslu100: checks 
+*** TURN *** [7h 4h 6h] [6d]
+Lorpugo: checks 
+caslu100: checks 
+*** RIVER *** [7h 4h 6h 6d] [Qd]
+Lorpugo: checks 
+caslu100: checks 
+*** SHOW DOWN ***
+arnar1997: shows [8c 3c] (a pair of Sixes)
+Lorpugo: shows [Ks 5c] (a pair of Sixes - King kicker)
+caslu100: shows [8h As] (a pair of Sixes - Ace kicker)
+caslu100 collected 120 from pot
+arnar1997 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 4h 6h 6d Qd]
+Seat 1: arnar1997 (small blind) showed [8c 3c] and lost with a pair of Sixes
+Seat 2: Lorpugo (big blind) showed [Ks 5c] and lost with a pair of Sixes
+Seat 3: caslu100 (button) showed [8h As] and won (120) with a pair of Sixes
+
+
+
+PokerStars Hand #241370197798: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:30:16 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (950 in chips) 
+Seat 3: caslu100 (550 in chips) 
+Lorpugo: posts small blind 10
+caslu100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 7c]
+Lorpugo: raises 20 to 40
+caslu100: calls 20
+*** FLOP *** [4h 5s 9h]
+caslu100: checks 
+Lorpugo: checks 
+*** TURN *** [4h 5s 9h] [Qh]
+caslu100: checks 
+Lorpugo: checks 
+*** RIVER *** [4h 5s 9h Qh] [3c]
+caslu100: checks 
+Lorpugo: bets 100
+caslu100: calls 100
+*** SHOW DOWN ***
+Lorpugo: shows [Jd 7c] (high card Queen)
+caslu100: shows [Ac 7s] (high card Ace)
+caslu100 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [4h 5s 9h Qh 3c]
+Seat 2: Lorpugo (button) (small blind) showed [Jd 7c] and lost with high card Queen
+Seat 3: caslu100 (big blind) showed [Ac 7s] and won (280) with high card Ace
+
+
+
+PokerStars Hand #241370208956: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:30:43 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (810 in chips) 
+Seat 3: caslu100 (690 in chips) 
+caslu100: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7d]
+caslu100: raises 20 to 40
+Lorpugo: folds 
+Uncalled bet (20) returned to caslu100
+caslu100 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: caslu100 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #241370211799: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:30:49 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (790 in chips) 
+Seat 3: caslu100 (710 in chips) 
+Lorpugo: posts small blind 10
+caslu100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 9s]
+Lorpugo: raises 30 to 50
+caslu100: calls 30
+*** FLOP *** [2c Ah 5h]
+caslu100: checks 
+Lorpugo: bets 50
+caslu100: calls 50
+*** TURN *** [2c Ah 5h] [3c]
+caslu100: checks 
+Lorpugo: checks 
+*** RIVER *** [2c Ah 5h 3c] [Kd]
+caslu100: bets 20
+Lorpugo: calls 20
+*** SHOW DOWN ***
+caslu100: shows [6c Qh] (high card Ace)
+Lorpugo: mucks hand 
+caslu100 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2c Ah 5h 3c Kd]
+Seat 2: Lorpugo (button) (small blind) mucked [Jc 9s]
+Seat 3: caslu100 (big blind) showed [6c Qh] and won (240) with high card Ace
+
+
+
+PokerStars Hand #241370222685: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:31:15 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (670 in chips) 
+Seat 3: caslu100 (830 in chips) 
+caslu100: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 6h]
+caslu100: raises 40 to 60
+Lorpugo: folds 
+Uncalled bet (40) returned to caslu100
+caslu100 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: caslu100 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #241370225548: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:31:22 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (650 in chips) 
+Seat 3: caslu100 (850 in chips) 
+Lorpugo: posts small blind 10
+caslu100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8c]
+Lorpugo: raises 30 to 50
+caslu100: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (40)
+Seat 3: caslu100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370228960: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:31:30 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (670 in chips) 
+Seat 3: caslu100 (830 in chips) 
+caslu100: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah Js]
+caslu100: raises 60 to 80
+Lorpugo: raises 590 to 670 and is all-in
+caslu100: calls 590
+*** FLOP *** [Jc Qs Qh]
+*** TURN *** [Jc Qs Qh] [7d]
+*** RIVER *** [Jc Qs Qh 7d] [Kd]
+*** SHOW DOWN ***
+Lorpugo: shows [Ah Js] (two pair, Queens and Jacks)
+caslu100: shows [Ac Jd] (two pair, Queens and Jacks)
+Lorpugo collected 670 from pot
+caslu100 collected 670 from pot
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [Jc Qs Qh 7d Kd]
+Seat 2: Lorpugo (big blind) showed [Ah Js] and won (670) with two pair, Queens and Jacks
+Seat 3: caslu100 (button) (small blind) showed [Ac Jd] and won (670) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #241370235745: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:31:46 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (670 in chips) 
+Seat 3: caslu100 (830 in chips) 
+Lorpugo: posts small blind 10
+caslu100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Kc]
+Lorpugo: raises 30 to 50
+caslu100: calls 30
+*** FLOP *** [6d 2s Jh]
+caslu100: checks 
+Lorpugo: bets 33
+caslu100: folds 
+Uncalled bet (33) returned to Lorpugo
+Lorpugo collected 100 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6d 2s Jh]
+Seat 2: Lorpugo (button) (small blind) collected (100)
+Seat 3: caslu100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241370241802: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:32:01 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (720 in chips) 
+Seat 3: caslu100 (780 in chips) 
+caslu100: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Qh]
+caslu100: folds 
+Uncalled bet (10) returned to Lorpugo
+Lorpugo collected 20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (20)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370243533: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:32:05 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (730 in chips) 
+Seat 3: caslu100 (770 in chips) 
+Lorpugo: posts small blind 10
+caslu100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Td]
+Lorpugo: folds 
+Uncalled bet (10) returned to caslu100
+caslu100 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: caslu100 (big blind) collected (20)
+
+
+
+PokerStars Hand #241370246692: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:32:13 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (720 in chips) 
+Seat 3: caslu100 (780 in chips) 
+caslu100: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 6s]
+caslu100: folds 
+Uncalled bet (15) returned to Lorpugo
+Lorpugo collected 30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (30)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370249738: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:32:20 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (735 in chips) 
+Seat 3: caslu100 (765 in chips) 
+Lorpugo: posts small blind 15
+caslu100: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 9d]
+Lorpugo: raises 45 to 75
+caslu100: calls 45
+*** FLOP *** [9s 8c 6s]
+caslu100: bets 75
+Lorpugo: raises 585 to 660 and is all-in
+caslu100: folds 
+Uncalled bet (585) returned to Lorpugo
+Lorpugo collected 300 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9s 8c 6s]
+Seat 2: Lorpugo (button) (small blind) collected (300)
+Seat 3: caslu100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241370256621: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:32:37 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (885 in chips) 
+Seat 3: caslu100 (615 in chips) 
+caslu100: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 6s]
+caslu100: calls 15
+Lorpugo: checks 
+*** FLOP *** [Kh 7c Ac]
+Lorpugo: checks 
+caslu100: checks 
+*** TURN *** [Kh 7c Ac] [Jh]
+Lorpugo: checks 
+caslu100: checks 
+*** RIVER *** [Kh 7c Ac Jh] [7d]
+Lorpugo: bets 30
+caslu100: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh 7c Ac Jh 7d]
+Seat 2: Lorpugo (big blind) collected (60)
+Seat 3: caslu100 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #241370265634: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:32:58 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (915 in chips) 
+Seat 3: caslu100 (585 in chips) 
+Lorpugo: posts small blind 15
+caslu100: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Kc]
+Lorpugo: raises 30 to 60
+caslu100: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (60)
+Seat 3: caslu100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370269290: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:33:07 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (945 in chips) 
+Seat 3: caslu100 (555 in chips) 
+caslu100: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 9h]
+caslu100: raises 30 to 60
+Lorpugo: folds 
+Uncalled bet (30) returned to caslu100
+caslu100 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: caslu100 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241370272316: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:33:15 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (915 in chips) 
+Seat 3: caslu100 (585 in chips) 
+Lorpugo: posts small blind 15
+caslu100: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 7s]
+Lorpugo: raises 30 to 60
+caslu100: calls 30
+*** FLOP *** [9s 8c Ks]
+caslu100: bets 30
+Lorpugo: folds 
+Uncalled bet (30) returned to caslu100
+caslu100 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 8c Ks]
+Seat 2: Lorpugo (button) (small blind) folded on the Flop
+Seat 3: caslu100 (big blind) collected (120)
+
+
+
+PokerStars Hand #241370278538: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:33:29 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (855 in chips) 
+Seat 3: caslu100 (645 in chips) 
+caslu100: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 8s]
+caslu100: calls 15
+Lorpugo: checks 
+*** FLOP *** [5d 9d 6c]
+Lorpugo: checks 
+caslu100: checks 
+*** TURN *** [5d 9d 6c] [Ts]
+Lorpugo: checks 
+caslu100: bets 60
+Lorpugo: calls 60
+*** RIVER *** [5d 9d 6c Ts] [6h]
+Lorpugo: checks 
+caslu100: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Jd 8s] (a pair of Sixes)
+caslu100: shows [Td Qc] (two pair, Tens and Sixes)
+caslu100 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5d 9d 6c Ts 6h]
+Seat 2: Lorpugo (big blind) showed [Jd 8s] and lost with a pair of Sixes
+Seat 3: caslu100 (button) (small blind) showed [Td Qc] and won (180) with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #241370288492: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:33:53 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (765 in chips) 
+Seat 3: caslu100 (735 in chips) 
+Lorpugo: posts small blind 15
+caslu100: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 8c]
+Lorpugo: raises 30 to 60
+caslu100: calls 30
+*** FLOP *** [8d Qh Kc]
+caslu100: checks 
+Lorpugo: bets 40
+caslu100: calls 40
+*** TURN *** [8d Qh Kc] [3h]
+caslu100: checks 
+Lorpugo: bets 66
+caslu100: calls 66
+*** RIVER *** [8d Qh Kc 3h] [6d]
+caslu100: checks 
+Lorpugo: bets 360
+caslu100: folds 
+Uncalled bet (360) returned to Lorpugo
+Lorpugo collected 332 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 332 | Rake 0 
+Board [8d Qh Kc 3h 6d]
+Seat 2: Lorpugo (button) (small blind) collected (332)
+Seat 3: caslu100 (big blind) folded on the River
+
+
+
+PokerStars Hand #241370302114: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:34:25 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (931 in chips) 
+Seat 3: caslu100 (569 in chips) 
+caslu100: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ah]
+caslu100: raises 30 to 60
+Lorpugo: raises 871 to 931 and is all-in
+caslu100: folds 
+Uncalled bet (871) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (120)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370306901: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:34:37 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (991 in chips) 
+Seat 3: caslu100 (509 in chips) 
+Lorpugo: posts small blind 15
+caslu100: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 5c]
+Lorpugo: raises 30 to 60
+caslu100: calls 30
+*** FLOP *** [4d Ts Ah]
+caslu100: checks 
+Lorpugo: bets 60
+caslu100: folds 
+Uncalled bet (60) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d Ts Ah]
+Seat 2: Lorpugo (button) (small blind) collected (120)
+Seat 3: caslu100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241370313393: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:34:52 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1051 in chips) 
+Seat 3: caslu100 (449 in chips) 
+caslu100: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ts]
+caslu100: calls 15
+Lorpugo: raises 60 to 90
+caslu100: calls 60
+*** FLOP *** [As Qc Qh]
+Lorpugo: bets 59
+caslu100: calls 59
+*** TURN *** [As Qc Qh] [6d]
+Lorpugo: bets 902 and is all-in
+caslu100: folds 
+Uncalled bet (902) returned to Lorpugo
+Lorpugo collected 298 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Board [As Qc Qh 6d]
+Seat 2: Lorpugo (big blind) collected (298)
+Seat 3: caslu100 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241370324556: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:35:19 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1200 in chips) 
+Seat 3: caslu100 (300 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s Th]
+Lorpugo: raises 1160 to 1200 and is all-in
+caslu100: folds 
+Uncalled bet (1160) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: caslu100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370328329: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:35:27 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1240 in chips) 
+Seat 3: caslu100 (260 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Jd]
+caslu100: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (40)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370330107: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:35:32 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1260 in chips) 
+Seat 3: caslu100 (240 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 8d]
+Lorpugo: folds 
+Uncalled bet (20) returned to caslu100
+caslu100 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: caslu100 (big blind) collected (40)
+
+
+
+PokerStars Hand #241370333038: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:35:39 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1240 in chips) 
+Seat 3: caslu100 (260 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 2h]
+caslu100: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (40)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370334779: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:35:43 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1260 in chips) 
+Seat 3: caslu100 (240 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 8d]
+Lorpugo: raises 1220 to 1260 and is all-in
+caslu100: calls 200 and is all-in
+Uncalled bet (1020) returned to Lorpugo
+*** FLOP *** [2h 6s Jh]
+*** TURN *** [2h 6s Jh] [Jd]
+*** RIVER *** [2h 6s Jh Jd] [2s]
+*** SHOW DOWN ***
+caslu100: shows [Qc Qh] (two pair, Queens and Jacks)
+Lorpugo: shows [Qd 8d] (two pair, Jacks and Deuces)
+caslu100 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2h 6s Jh Jd 2s]
+Seat 2: Lorpugo (button) (small blind) showed [Qd 8d] and lost with two pair, Jacks and Deuces
+Seat 3: caslu100 (big blind) showed [Qc Qh] and won (480) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #241370340220: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:35:56 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1020 in chips) 
+Seat 3: caslu100 (480 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 3d]
+caslu100 is connected 
+caslu100 is connected 
+caslu100: calls 20
+Lorpugo: checks 
+*** FLOP *** [Jh Jc 4d]
+Lorpugo: checks 
+caslu100: checks 
+*** TURN *** [Jh Jc 4d] [3h]
+Lorpugo: bets 53
+caslu100: folds 
+Uncalled bet (53) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh Jc 4d 3h]
+Seat 2: Lorpugo (big blind) collected (80)
+Seat 3: caslu100 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241370351356: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:36:22 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1060 in chips) 
+Seat 3: caslu100 (440 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Jd]
+Lorpugo: raises 1020 to 1060 and is all-in
+caslu100: folds 
+Uncalled bet (1020) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: caslu100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370354264: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:36:29 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1100 in chips) 
+Seat 3: caslu100 (400 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Jh]
+caslu100: raises 80 to 120
+Lorpugo: folds 
+Uncalled bet (80) returned to caslu100
+caslu100 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: caslu100 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241370357377: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:36:37 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1060 in chips) 
+Seat 3: caslu100 (440 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 9s]
+Lorpugo: calls 20
+caslu100: checks 
+*** FLOP *** [Qs Ac 7d]
+caslu100: checks 
+Lorpugo: bets 40
+caslu100: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs Ac 7d]
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: caslu100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241370364775: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:36:54 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1100 in chips) 
+Seat 3: caslu100 (400 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 4s]
+caslu100: calls 20
+Lorpugo: checks 
+*** FLOP *** [8d 3c 2h]
+Lorpugo: checks 
+caslu100: bets 40
+Lorpugo: folds 
+Uncalled bet (40) returned to caslu100
+caslu100 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 3c 2h]
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: caslu100 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241370370816: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:37:09 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1060 in chips) 
+Seat 3: caslu100 (440 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7h]
+Lorpugo: calls 20
+caslu100: checks 
+*** FLOP *** [3s Ad 6h]
+caslu100: checks 
+Lorpugo: bets 40
+caslu100: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Ad 6h]
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: caslu100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241370376067: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:37:21 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1100 in chips) 
+Seat 3: caslu100 (400 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 3h]
+caslu100: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (40)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370378989: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:37:28 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1120 in chips) 
+Seat 3: caslu100 (380 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 9c]
+Lorpugo: raises 40 to 80
+caslu100: calls 40
+*** FLOP *** [8s Jh Qh]
+caslu100: checks 
+Lorpugo: bets 40
+caslu100: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 160 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8s Jh Qh]
+Seat 2: Lorpugo (button) (small blind) collected (160)
+Seat 3: caslu100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241370385309: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:37:43 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1200 in chips) 
+Seat 3: caslu100 (300 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 4h]
+caslu100: raises 260 to 300 and is all-in
+Lorpugo: folds 
+Uncalled bet (260) returned to caslu100
+caslu100 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: caslu100 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241370388780: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:37:51 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1160 in chips) 
+Seat 3: caslu100 (340 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Ks]
+Lorpugo: raises 1120 to 1160 and is all-in
+caslu100: folds [2c 7c]
+Uncalled bet (1120) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: caslu100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370392289: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:38:00 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1200 in chips) 
+Seat 3: caslu100 (300 in chips) 
+caslu100: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 9c]
+caslu100: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (40)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370394157: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:38:04 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1220 in chips) 
+Seat 3: caslu100 (280 in chips) 
+Lorpugo: posts small blind 20
+caslu100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7d]
+Lorpugo: calls 20
+caslu100: raises 80 to 120
+Lorpugo: calls 80
+*** FLOP *** [2d Qs 4c]
+caslu100: bets 160 and is all-in
+Lorpugo: folds 
+Uncalled bet (160) returned to caslu100
+caslu100 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d Qs 4c]
+Seat 2: Lorpugo (button) (small blind) folded on the Flop
+Seat 3: caslu100 (big blind) collected (240)
+
+
+
+PokerStars Hand #241370400866: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:38:20 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1100 in chips) 
+Seat 3: caslu100 (400 in chips) 
+caslu100: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 6d]
+caslu100: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (60)
+Seat 3: caslu100 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370403279: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:38:26 ET
+Table '3537201925 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1130 in chips) 
+Seat 3: caslu100 (370 in chips) 
+Lorpugo: posts small blind 30
+caslu100: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7d]
+Lorpugo: calls 30
+caslu100: checks 
+*** FLOP *** [6s 9c Kd]
+caslu100: bets 120
+Lorpugo: raises 950 to 1070 and is all-in
+caslu100: calls 190 and is all-in
+Uncalled bet (760) returned to Lorpugo
+*** TURN *** [6s 9c Kd] [6c]
+*** RIVER *** [6s 9c Kd 6c] [Jd]
+*** SHOW DOWN ***
+caslu100: shows [Kc 4c] (two pair, Kings and Sixes)
+Lorpugo: shows [8s 7d] (a pair of Sixes)
+caslu100 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [6s 9c Kd 6c Jd]
+Seat 2: Lorpugo (button) (small blind) showed [8s 7d] and lost with a pair of Sixes
+Seat 3: caslu100 (big blind) showed [Kc 4c] and won (740) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #241370412407: Tournament #3537201925, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:38:47 ET
+Table '3537201925 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (760 in chips) 
+Seat 3: caslu100 (740 in chips) 
+caslu100: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ah]
+caslu100: raises 680 to 740 and is all-in
+Lorpugo: calls 680
+*** FLOP *** [4c 7s Ad]
+*** TURN *** [4c 7s Ad] [Jd]
+*** RIVER *** [4c 7s Ad Jd] [8h]
+*** SHOW DOWN ***
+Lorpugo: shows [Td Ah] (a pair of Aces)
+caslu100: shows [5s 5h] (a pair of Fives)
+Lorpugo collected 1480 from pot
+caslu100 finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $0.75 - congratulations!
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [4c 7s Ad Jd 8h]
+Seat 2: Lorpugo (big blind) showed [Td Ah] and won (1480) with a pair of Aces
+Seat 3: caslu100 (button) (small blind) showed [5s 5h] and lost with a pair of Fives
+
+
+

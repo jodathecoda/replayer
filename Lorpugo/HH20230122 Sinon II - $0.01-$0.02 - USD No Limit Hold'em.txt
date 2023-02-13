@@ -1,0 +1,1845 @@
+﻿PokerStars Hand #241321159859:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:23:12 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.60 in chips) 
+Seat 2: L.Gábor605 ($0.13 in chips) 
+Seat 3: alexm6786 ($0.92 in chips) 
+Seat 4: Myatnyj_Zayats ($2.20 in chips) 
+Seat 5: xDeZex ($1.80 in chips) 
+Seat 6: PsMcw ($2.84 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5d]
+L.Gábor605: calls $0.02
+alexm6786: folds 
+Myatnyj_Zayats: folds 
+xDeZex: folds 
+PsMcw: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [9h As Ac]
+PsMcw: checks 
+Lorpugo: checks 
+L.Gábor605: checks 
+*** TURN *** [9h As Ac] [8s]
+PsMcw: checks 
+Lorpugo: checks 
+L.Gábor605: checks 
+*** RIVER *** [9h As Ac 8s] [Kd]
+PsMcw: bets $0.02
+Lorpugo: calls $0.02
+L.Gábor605: calls $0.02
+*** SHOW DOWN ***
+PsMcw: shows [6c 3d] (a pair of Aces)
+Lorpugo: shows [Qc 5d] (a pair of Aces - King+Queen kicker)
+L.Gábor605: mucks hand 
+Lorpugo collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h As Ac 8s Kd]
+Seat 1: Lorpugo (big blind) showed [Qc 5d] and won ($0.12) with a pair of Aces
+Seat 2: L.Gábor605 mucked [Js 4c]
+Seat 3: alexm6786 folded before Flop (didn't bet)
+Seat 4: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 5: xDeZex (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) showed [6c 3d] and lost with a pair of Aces
+
+
+
+PokerStars Hand #241321177105:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:23:56 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.68 in chips) 
+Seat 2: L.Gábor605 ($0.09 in chips) 
+Seat 3: alexm6786 ($0.92 in chips) 
+Seat 4: Myatnyj_Zayats ($2.20 in chips) 
+Seat 5: xDeZex ($1.80 in chips) 
+Seat 6: PsMcw ($2.80 in chips) 
+Lorpugo: posts small blind $0.01
+L.Gábor605: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5c]
+alexm6786: folds 
+Myatnyj_Zayats: folds 
+xDeZex: raises $0.06 to $0.08
+PsMcw: calls $0.08
+Lorpugo: folds 
+L.Gábor605: folds 
+*** FLOP *** [Ks 5d 4c]
+xDeZex: checks 
+PsMcw: bets $0.02
+xDeZex: raises $0.06 to $0.08
+PsMcw: calls $0.06
+*** TURN *** [Ks 5d 4c] [Qh]
+xDeZex: checks 
+PsMcw: bets $0.17
+xDeZex: calls $0.17
+*** RIVER *** [Ks 5d 4c Qh] [Jc]
+xDeZex: checks 
+PsMcw: checks 
+*** SHOW DOWN ***
+xDeZex: shows [Jh Kd] (two pair, Kings and Jacks)
+PsMcw: mucks hand 
+xDeZex collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [Ks 5d 4c Qh Jc]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: L.Gábor605 (big blind) folded before Flop
+Seat 3: alexm6786 folded before Flop (didn't bet)
+Seat 4: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 5: xDeZex showed [Jh Kd] and won ($0.67) with two pair, Kings and Jacks
+Seat 6: PsMcw (button) mucked [Ah 9h]
+
+
+
+PokerStars Hand #241321196233:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:24:44 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: L.Gábor605 ($0.07 in chips) 
+Seat 3: alexm6786 ($0.92 in chips) 
+Seat 4: Myatnyj_Zayats ($2.20 in chips) 
+Seat 5: xDeZex ($2.14 in chips) 
+Seat 6: PsMcw ($2.47 in chips) 
+L.Gábor605: posts small blind $0.01
+alexm6786: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 3d]
+Myatnyj_Zayats: folds 
+xDeZex: folds 
+PsMcw: calls $0.02
+Lorpugo: folds 
+L.Gábor605: calls $0.01
+alexm6786: checks 
+*** FLOP *** [Kc 3s 9d]
+L.Gábor605: checks 
+alexm6786: checks 
+PsMcw: bets $0.02
+L.Gábor605: folds 
+alexm6786: folds 
+Uncalled bet ($0.02) returned to PsMcw
+PsMcw collected $0.06 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kc 3s 9d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: L.Gábor605 (small blind) folded on the Flop
+Seat 3: alexm6786 (big blind) folded on the Flop
+Seat 4: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 5: xDeZex folded before Flop (didn't bet)
+Seat 6: PsMcw collected ($0.06)
+
+
+
+PokerStars Hand #241321211677:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:25:23 ET
+Table 'Sinon II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: L.Gábor605 ($0.05 in chips) 
+Seat 3: alexm6786 ($0.90 in chips) 
+Seat 4: Myatnyj_Zayats ($2.20 in chips) 
+Seat 5: xDeZex ($2.14 in chips) 
+Seat 6: PsMcw ($2.51 in chips) 
+alexm6786: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 8d]
+xDeZex: folds 
+PsMcw: calls $0.02
+Lorpugo: folds 
+L.Gábor605: raises $0.03 to $0.05 and is all-in
+alexm6786: folds 
+Myatnyj_Zayats: folds 
+PsMcw: calls $0.03
+*** FLOP *** [Ad As 6d]
+*** TURN *** [Ad As 6d] [5d]
+*** RIVER *** [Ad As 6d 5d] [7s]
+*** SHOW DOWN ***
+PsMcw: shows [9s 8c] (a straight, Five to Nine)
+L.Gábor605: shows [Kc Kd] (two pair, Aces and Kings)
+L.Gábor605 cashed out the hand for $0.10
+PsMcw cashed out the hand for $0.03
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ad As 6d 5d 7s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: L.Gábor605 (button) showed [Kc Kd] and lost with two pair, Aces and Kings (cashed out).
+Seat 3: alexm6786 (small blind) folded before Flop
+Seat 4: Myatnyj_Zayats (big blind) folded before Flop
+Seat 5: xDeZex folded before Flop (didn't bet)
+Seat 6: PsMcw showed [9s 8c] and won ($0.13) with a straight, Five to Nine (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #241321224882:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:25:56 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: L.Gábor605 ($0.10 in chips) 
+Seat 3: alexm6786 ($0.89 in chips) 
+Seat 4: Myatnyj_Zayats ($2.18 in chips) 
+Seat 5: xDeZex ($2.14 in chips) 
+Seat 6: PsMcw ($2.49 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+xDeZex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 5c]
+PsMcw: calls $0.02
+Lorpugo: folds 
+L.Gábor605: calls $0.02
+alexm6786: folds 
+Myatnyj_Zayats: folds 
+xDeZex: checks 
+*** FLOP *** [Qd 4c 3h]
+xDeZex: checks 
+PsMcw: bets $0.02
+L.Gábor605: folds 
+xDeZex: raises $0.06 to $0.08
+PsMcw: calls $0.06
+*** TURN *** [Qd 4c 3h] [7s]
+xDeZex: checks 
+PsMcw: checks 
+*** RIVER *** [Qd 4c 3h 7s] [5d]
+xDeZex: bets $0.06
+PsMcw: raises $0.34 to $0.40
+xDeZex: folds 
+Uncalled bet ($0.34) returned to PsMcw
+PsMcw collected $0.34 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Qd 4c 3h 7s 5d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: L.Gábor605 folded on the Flop
+Seat 3: alexm6786 (button) folded before Flop (didn't bet)
+Seat 4: Myatnyj_Zayats (small blind) folded before Flop
+Seat 5: xDeZex (big blind) folded on the River
+Seat 6: PsMcw collected ($0.34)
+
+
+
+PokerStars Hand #241321247210:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:26:50 ET
+Table 'Sinon II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 2: L.Gábor605 ($0.08 in chips) 
+Seat 3: alexm6786 ($0.89 in chips) 
+Seat 4: Myatnyj_Zayats ($2.17 in chips) 
+Seat 5: xDeZex ($1.98 in chips) 
+Seat 6: PsMcw ($2.67 in chips) 
+xDeZex: posts small blind $0.01
+PsMcw: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4h]
+Lorpugo: raises $0.02 to $0.04
+L.Gábor605: folds 
+alexm6786: folds 
+Myatnyj_Zayats: folds 
+xDeZex: folds 
+PsMcw: calls $0.02
+*** FLOP *** [4c Td 8d]
+PsMcw: checks 
+Lorpugo: bets $0.06
+PsMcw: calls $0.06
+*** TURN *** [4c Td 8d] [2c]
+PsMcw: checks 
+Lorpugo: bets $0.16
+PsMcw: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.20 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4c Td 8d 2c]
+Seat 1: Lorpugo collected ($0.20)
+Seat 2: L.Gábor605 folded before Flop (didn't bet)
+Seat 3: alexm6786 folded before Flop (didn't bet)
+Seat 4: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 5: xDeZex (small blind) folded before Flop
+Seat 6: PsMcw (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241321258396:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:27:18 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.77 in chips) 
+Seat 2: L.Gábor605 ($0.08 in chips) 
+Seat 3: alexm6786 ($0.89 in chips) 
+Seat 4: Myatnyj_Zayats ($2.17 in chips) 
+Seat 5: xDeZex ($1.97 in chips) 
+Seat 6: PsMcw ($2.57 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2d]
+L.Gábor605: raises $0.06 to $0.08 and is all-in
+alexm6786: folds 
+Myatnyj_Zayats: folds 
+xDeZex: folds 
+PsMcw: calls $0.07
+Lorpugo: folds 
+*** FLOP *** [Ts 3d Ks]
+*** TURN *** [Ts 3d Ks] [2c]
+*** RIVER *** [Ts 3d Ks 2c] [Ah]
+*** SHOW DOWN ***
+PsMcw: shows [Ad 9d] (a pair of Aces)
+L.Gábor605: shows [5h 5d] (a pair of Fives)
+PsMcw collected $0.17 from pot
+L.Gábor605 cashed out the hand for $0.08
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ts 3d Ks 2c Ah]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: L.Gábor605 showed [5h 5d] and lost with a pair of Fives (cashed out).
+Seat 3: alexm6786 folded before Flop (didn't bet)
+Seat 4: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 5: xDeZex (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) showed [Ad 9d] and won ($0.17) with a pair of Aces
+
+
+
+PokerStars Hand #241321272805:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:27:53 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.75 in chips) 
+Seat 2: L.Gábor605 ($0.08 in chips) 
+Seat 3: alexm6786 ($0.89 in chips) 
+Seat 4: Myatnyj_Zayats ($2.17 in chips) 
+Seat 5: xDeZex ($1.97 in chips) 
+Seat 6: PsMcw ($2.66 in chips) 
+Lorpugo: posts small blind $0.01
+L.Gábor605: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 9s]
+alexm6786: calls $0.02
+Myatnyj_Zayats: folds 
+xDeZex: folds 
+PsMcw: folds 
+Lorpugo: folds 
+L.Gábor605: checks 
+*** FLOP *** [Qh 8s As]
+L.Gábor605: checks 
+alexm6786: bets $0.02
+L.Gábor605: folds 
+Uncalled bet ($0.02) returned to alexm6786
+alexm6786 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qh 8s As]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: L.Gábor605 (big blind) folded on the Flop
+Seat 3: alexm6786 collected ($0.05)
+Seat 4: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 5: xDeZex folded before Flop (didn't bet)
+Seat 6: PsMcw (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241321282276:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:28:16 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.74 in chips) 
+Seat 2: L.Gábor605 ($0.06 in chips) 
+Seat 3: alexm6786 ($0.92 in chips) 
+Seat 4: Myatnyj_Zayats ($2.17 in chips) 
+Seat 5: xDeZex ($1.97 in chips) 
+Seat 6: PsMcw ($2.66 in chips) 
+L.Gábor605: posts small blind $0.01
+alexm6786: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 8d]
+Myatnyj_Zayats: folds 
+xDeZex: folds 
+PsMcw: calls $0.02
+Lorpugo: calls $0.02
+L.Gábor605: calls $0.01
+alexm6786: checks 
+*** FLOP *** [Qs Jh 7h]
+L.Gábor605: checks 
+alexm6786: checks 
+PsMcw: bets $0.02
+Lorpugo: folds 
+L.Gábor605: calls $0.02
+alexm6786: folds 
+*** TURN *** [Qs Jh 7h] [Jc]
+L.Gábor605: bets $0.02 and is all-in
+PsMcw: calls $0.02
+*** RIVER *** [Qs Jh 7h Jc] [Qh]
+*** SHOW DOWN ***
+L.Gábor605: shows [2c 7c] (two pair, Queens and Jacks)
+PsMcw: shows [Ks Kc] (two pair, Kings and Queens)
+PsMcw collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Qs Jh 7h Jc Qh]
+Seat 1: Lorpugo (button) folded on the Flop
+Seat 2: L.Gábor605 (small blind) showed [2c 7c] and lost with two pair, Queens and Jacks
+Seat 3: alexm6786 (big blind) folded on the Flop
+Seat 4: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 5: xDeZex folded before Flop (didn't bet)
+Seat 6: PsMcw showed [Ks Kc] and won ($0.15) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #241321301788:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:29:03 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.72 in chips) 
+Seat 3: alexm6786 ($0.90 in chips) 
+Seat 4: Myatnyj_Zayats ($2.17 in chips) 
+Seat 5: xDeZex ($1.97 in chips) 
+Seat 6: PsMcw ($2.75 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+xDeZex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Kh]
+PsMcw: raises $0.02 to $0.04
+Lorpugo: folds 
+L.Gábor605 leaves the table
+alexm6786: folds 
+theimpaler14 joins the table at seat #2 
+Myatnyj_Zayats: folds 
+xDeZex: raises $0.28 to $0.32
+PsMcw: calls $0.28
+*** FLOP *** [2d 5h Jh]
+xDeZex: bets $1.65 and is all-in
+PsMcw: calls $1.65
+theimpaler14 leaves the table
+*** TURN *** [2d 5h Jh] [4d]
+*** RIVER *** [2d 5h Jh 4d] [4h]
+*** SHOW DOWN ***
+xDeZex: shows [3s 3c] (two pair, Fours and Threes)
+PsMcw: shows [Jd Jc] (a full house, Jacks full of Fours)
+PsMcw collected $3.77 from pot
+*** SUMMARY ***
+Total pot $3.95 | Rake $0.18 
+Board [2d 5h Jh 4d 4h]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: alexm6786 (button) folded before Flop (didn't bet)
+Seat 4: Myatnyj_Zayats (small blind) folded before Flop
+Seat 5: xDeZex (big blind) showed [3s 3c] and lost with two pair, Fours and Threes
+Seat 6: PsMcw showed [Jd Jc] and won ($3.77) with a full house, Jacks full of Fours
+
+
+
+PokerStars Hand #241321320277:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:29:48 ET
+Table 'Sinon II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.72 in chips) 
+Seat 3: alexm6786 ($0.90 in chips) 
+Seat 4: Myatnyj_Zayats ($2.16 in chips) 
+Seat 6: PsMcw ($4.55 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Tc]
+MatheusPiresBar joins the table at seat #2 
+alexm6786: calls $0.02
+xDeZex leaves the table
+Myatnyj_Zayats: folds 
+Jvern02 joins the table at seat #5 
+PsMcw: calls $0.01
+Myatnyj_Zayats leaves the table
+Lorpugo: checks 
+*** FLOP *** [Jc 2d 5c]
+PsMcw: checks 
+eavivero joins the table at seat #4 
+Lorpugo: checks 
+alexm6786: bets $0.02
+PsMcw: folds 
+Lorpugo: calls $0.02
+*** TURN *** [Jc 2d 5c] [7c]
+Lorpugo: checks 
+alexm6786: bets $0.04
+Lorpugo: calls $0.04
+*** RIVER *** [Jc 2d 5c 7c] [6s]
+Lorpugo: checks 
+alexm6786: bets $0.04
+Lorpugo: raises $0.18 to $0.22
+alexm6786: calls $0.18
+*** SHOW DOWN ***
+Lorpugo: shows [Kh Tc] (high card King)
+alexm6786: shows [Qh Qc] (a pair of Queens)
+alexm6786 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [Jc 2d 5c 7c 6s]
+Seat 1: Lorpugo (big blind) showed [Kh Tc] and lost with high card King
+Seat 3: alexm6786 showed [Qh Qc] and won ($0.60) with a pair of Queens
+Seat 4: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241321345534:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:30:47 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.42 in chips) 
+Seat 2: MatheusPiresBar ($1.58 in chips) 
+Seat 3: alexm6786 ($1.20 in chips) 
+Seat 4: eavivero ($1 in chips) 
+Seat 6: PsMcw ($4.53 in chips) 
+Lorpugo: posts small blind $0.01
+MatheusPiresBar: posts big blind $0.02
+eavivero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5c]
+alexm6786: calls $0.02
+eavivero: checks 
+PsMcw: folds 
+Lorpugo: calls $0.01
+MatheusPiresBar: checks 
+*** FLOP *** [7d 3h As]
+Lorpugo: checks 
+MatheusPiresBar: checks 
+alexm6786: checks 
+eavivero: checks 
+*** TURN *** [7d 3h As] [6s]
+Lorpugo: bets $0.10
+MatheusPiresBar: calls $0.10
+alexm6786: calls $0.10
+eavivero: folds 
+*** RIVER *** [7d 3h As 6s] [7c]
+Lorpugo: bets $0.66
+MatheusPiresBar: folds 
+alexm6786: calls $0.66
+*** SHOW DOWN ***
+Lorpugo: shows [4s 5c] (a straight, Three to Seven)
+alexm6786: shows [5h 4h] (a straight, Three to Seven)
+Lorpugo collected $0.82 from pot
+alexm6786 collected $0.82 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.06 
+Board [7d 3h As 6s 7c]
+Seat 1: Lorpugo (small blind) showed [4s 5c] and won ($0.82) with a straight, Three to Seven
+Seat 2: MatheusPiresBar (big blind) folded on the River
+Seat 3: alexm6786 showed [5h 4h] and won ($0.82) with a straight, Three to Seven
+Seat 4: eavivero folded on the Turn (didn't bet)
+Seat 6: PsMcw (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241321368182:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:31:41 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.46 in chips) 
+Seat 2: MatheusPiresBar ($1.46 in chips) 
+Seat 3: alexm6786 ($1.24 in chips) 
+Seat 4: eavivero ($0.98 in chips) 
+Seat 6: PsMcw ($4.53 in chips) 
+MatheusPiresBar: posts small blind $0.01
+alexm6786: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h Kd]
+eavivero: calls $0.02
+PsMcw: calls $0.02
+Lorpugo: calls $0.02
+MatheusPiresBar: calls $0.01
+alexm6786: checks 
+*** FLOP *** [2h Qd 3d]
+MatheusPiresBar: bets $0.06
+alexm6786: calls $0.06
+eavivero: folds 
+PsMcw: folds 
+Lorpugo: folds 
+*** TURN *** [2h Qd 3d] [Ac]
+MatheusPiresBar: bets $0.10
+alexm6786: calls $0.10
+*** RIVER *** [2h Qd 3d Ac] [8h]
+MatheusPiresBar: checks 
+alexm6786: bets $0.06
+MatheusPiresBar: calls $0.06
+*** SHOW DOWN ***
+alexm6786: shows [4d 6d] (high card Ace)
+MatheusPiresBar: shows [Jc Jd] (a pair of Jacks)
+MatheusPiresBar collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [2h Qd 3d Ac 8h]
+Seat 1: Lorpugo (button) folded on the Flop
+Seat 2: MatheusPiresBar (small blind) showed [Jc Jd] and won ($0.52) with a pair of Jacks
+Seat 3: alexm6786 (big blind) showed [4d 6d] and lost with high card Ace
+Seat 4: eavivero folded on the Flop
+Seat 6: PsMcw folded on the Flop
+
+
+
+PokerStars Hand #241321389529:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:32:31 ET
+Table 'Sinon II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.44 in chips) 
+Seat 2: MatheusPiresBar ($1.74 in chips) 
+Seat 3: alexm6786 ($1 in chips) 
+Seat 4: eavivero ($0.96 in chips) 
+Seat 6: PsMcw ($4.51 in chips) 
+alexm6786: posts small blind $0.01
+eavivero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kc]
+PsMcw: calls $0.02
+Lorpugo: raises $0.03 to $0.05
+MatheusPiresBar: folds 
+alexm6786: folds 
+eavivero: calls $0.03
+PsMcw: calls $0.03
+*** FLOP *** [Ks Kd 3h]
+eavivero: checks 
+PsMcw: checks 
+Lorpugo: bets $0.10
+eavivero: folds 
+PsMcw: folds 
+Uncalled bet ($0.10) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ks Kd 3h]
+Seat 1: Lorpugo collected ($0.15)
+Seat 2: MatheusPiresBar (button) folded before Flop (didn't bet)
+Seat 3: alexm6786 (small blind) folded before Flop
+Seat 4: eavivero (big blind) folded on the Flop
+Seat 6: PsMcw folded on the Flop
+
+
+
+PokerStars Hand #241321407441:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:33:13 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.54 in chips) 
+Seat 2: MatheusPiresBar ($1.74 in chips) 
+Seat 3: alexm6786 ($0.99 in chips) 
+Seat 4: eavivero ($0.91 in chips) 
+Seat 5: Jvern02 ($2 in chips) 
+Seat 6: PsMcw ($4.46 in chips) 
+eavivero: posts small blind $0.01
+Jvern02: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6d]
+PsMcw: raises $0.02 to $0.04
+Lorpugo: folds 
+MatheusPiresBar: folds 
+alexm6786: folds 
+eavivero: calls $0.03
+Jvern02: folds 
+*** FLOP *** [Qs 4h Ks]
+eavivero: checks 
+PsMcw: bets $0.02
+eavivero: calls $0.02
+*** TURN *** [Qs 4h Ks] [2s]
+eavivero: checks 
+PsMcw: bets $0.02
+eavivero: calls $0.02
+*** RIVER *** [Qs 4h Ks 2s] [Kc]
+eavivero: checks 
+PsMcw: bets $0.09
+eavivero: calls $0.09
+*** SHOW DOWN ***
+PsMcw: shows [8h Kd] (three of a kind, Kings)
+eavivero: shows [6s As] (a flush, Ace high)
+eavivero collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qs 4h Ks 2s Kc]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: MatheusPiresBar folded before Flop (didn't bet)
+Seat 3: alexm6786 (button) folded before Flop (didn't bet)
+Seat 4: eavivero (small blind) showed [6s As] and won ($0.35) with a flush, Ace high
+Seat 5: Jvern02 (big blind) folded before Flop
+Seat 6: PsMcw showed [8h Kd] and lost with three of a kind, Kings
+
+
+
+PokerStars Hand #241321425077:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:33:53 ET
+Table 'Sinon II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($1.54 in chips) 
+Seat 2: MatheusPiresBar ($1.74 in chips) 
+Seat 3: alexm6786 ($0.99 in chips) 
+Seat 4: eavivero ($1.09 in chips) 
+Seat 5: Jvern02 ($1.98 in chips) 
+Seat 6: PsMcw ($4.29 in chips) 
+Jvern02: posts small blind $0.01
+PsMcw: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qc]
+Lorpugo: folds 
+MatheusPiresBar: calls $0.02
+alexm6786: folds 
+eavivero: folds 
+Jvern02: raises $0.06 to $0.08
+PsMcw: folds 
+MatheusPiresBar: folds 
+Uncalled bet ($0.06) returned to Jvern02
+Jvern02 collected $0.06 from pot
+Jvern02: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: MatheusPiresBar folded before Flop
+Seat 3: alexm6786 folded before Flop (didn't bet)
+Seat 4: eavivero (button) folded before Flop (didn't bet)
+Seat 5: Jvern02 (small blind) collected ($0.06)
+Seat 6: PsMcw (big blind) folded before Flop
+
+
+
+PokerStars Hand #241321432921:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:34:12 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.54 in chips) 
+Seat 2: MatheusPiresBar ($1.72 in chips) 
+Seat 3: alexm6786 ($0.99 in chips) 
+Seat 4: eavivero ($1.09 in chips) 
+Seat 5: Jvern02 ($2.02 in chips) 
+Seat 6: PsMcw ($4.27 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9c]
+MatheusPiresBar: raises $0.02 to $0.04
+alexm6786: calls $0.04
+eavivero: folds 
+Jvern02: folds 
+PsMcw: calls $0.03
+Lorpugo: calls $0.02
+*** FLOP *** [2c Qh Ad]
+PsMcw: bets $0.15
+Lorpugo: calls $0.15
+MatheusPiresBar: calls $0.15
+alexm6786: folds 
+*** TURN *** [2c Qh Ad] [6d]
+PsMcw: checks 
+Lorpugo: checks 
+MatheusPiresBar: checks 
+*** RIVER *** [2c Qh Ad 6d] [5d]
+PsMcw: checks 
+Lorpugo: checks 
+MatheusPiresBar: checks 
+*** SHOW DOWN ***
+PsMcw: shows [3s Ah] (a pair of Aces)
+Lorpugo: shows [Ac 9c] (a pair of Aces - Queen+Nine kicker)
+MatheusPiresBar: mucks hand 
+Lorpugo collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [2c Qh Ad 6d 5d]
+Seat 1: Lorpugo (big blind) showed [Ac 9c] and won ($0.59) with a pair of Aces
+Seat 2: MatheusPiresBar mucked [Qd Kh]
+Seat 3: alexm6786 folded on the Flop
+Seat 4: eavivero folded before Flop (didn't bet)
+Seat 5: Jvern02 (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) showed [3s Ah] and lost with a pair of Aces
+
+
+
+PokerStars Hand #241321454729:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:35:02 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.94 in chips) 
+Seat 2: MatheusPiresBar ($1.53 in chips) 
+Seat 3: alexm6786 ($0.95 in chips) 
+Seat 4: eavivero ($1.09 in chips) 
+Seat 5: Jvern02 ($2.02 in chips) 
+Seat 6: PsMcw ($4.08 in chips) 
+Lorpugo: posts small blind $0.01
+MatheusPiresBar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 3c]
+alexm6786: calls $0.02
+eavivero: folds 
+Jvern02: raises $0.06 to $0.08
+PsMcw: folds 
+Lorpugo: folds 
+MatheusPiresBar: folds 
+alexm6786: calls $0.06
+*** FLOP *** [7h Js 6s]
+alexm6786: checks 
+Jvern02: bets $0.06
+alexm6786: calls $0.06
+*** TURN *** [7h Js 6s] [Qh]
+alexm6786: checks 
+Jvern02: bets $0.16
+alexm6786: calls $0.16
+*** RIVER *** [7h Js 6s Qh] [2h]
+alexm6786: checks 
+Jvern02: checks 
+*** SHOW DOWN ***
+alexm6786: shows [Ks Ts] (high card King)
+Jvern02: shows [Ac Ah] (a pair of Aces)
+Jvern02 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [7h Js 6s Qh 2h]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: MatheusPiresBar (big blind) folded before Flop
+Seat 3: alexm6786 showed [Ks Ts] and lost with high card King
+Seat 4: eavivero folded before Flop (didn't bet)
+Seat 5: Jvern02 showed [Ac Ah] and won ($0.61) with a pair of Aces
+Seat 6: PsMcw (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241321470367:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:35:39 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.93 in chips) 
+Seat 2: MatheusPiresBar ($1.51 in chips) 
+Seat 3: alexm6786 ($0.65 in chips) 
+Seat 4: eavivero ($1.09 in chips) 
+Seat 5: Jvern02 ($2.33 in chips) 
+Seat 6: PsMcw ($4.08 in chips) 
+MatheusPiresBar: posts small blind $0.01
+alexm6786: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kd]
+eavivero: folds 
+Jvern02: folds 
+PsMcw: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+MatheusPiresBar: raises $0.02 to $0.06
+alexm6786: folds 
+PsMcw: calls $0.02
+Lorpugo: calls $0.02
+*** FLOP *** [Js Qh 9d]
+MatheusPiresBar: checks 
+PsMcw: checks 
+Lorpugo: checks 
+*** TURN *** [Js Qh 9d] [Qs]
+MatheusPiresBar: checks 
+PsMcw: bets $0.10
+Lorpugo: raises $0.20 to $0.30
+MatheusPiresBar: calls $0.30
+PsMcw: calls $0.20
+*** RIVER *** [Js Qh 9d Qs] [Qd]
+MatheusPiresBar: checks 
+PsMcw: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+MatheusPiresBar: shows [Ah 2h] (three of a kind, Queens)
+PsMcw: mucks hand 
+Lorpugo: shows [Tc Kd] (a straight, Nine to King)
+Lorpugo collected $1.06 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.04 
+Board [Js Qh 9d Qs Qd]
+Seat 1: Lorpugo (button) showed [Tc Kd] and won ($1.06) with a straight, Nine to King
+Seat 2: MatheusPiresBar (small blind) showed [Ah 2h] and lost with three of a kind, Queens
+Seat 3: alexm6786 (big blind) folded before Flop
+Seat 4: eavivero folded before Flop (didn't bet)
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw mucked [Kh 5h]
+
+
+
+PokerStars Hand #241321499950:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:36:48 ET
+Table 'Sinon II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($2.63 in chips) 
+Seat 2: MatheusPiresBar ($1.15 in chips) 
+Seat 3: alexm6786 ($0.63 in chips) 
+Seat 4: eavivero ($1.09 in chips) 
+Seat 5: Jvern02 ($2.33 in chips) 
+Seat 6: PsMcw ($3.72 in chips) 
+alexm6786: posts small blind $0.01
+eavivero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 7s]
+Jvern02: folds 
+PsMcw: raises $0.02 to $0.04
+Lorpugo: folds 
+MatheusPiresBar: folds 
+alexm6786: calls $0.03
+eavivero: calls $0.02
+*** FLOP *** [2d Ac 3h]
+alexm6786: checks 
+eavivero: checks 
+PsMcw: checks 
+*** TURN *** [2d Ac 3h] [Td]
+alexm6786: checks 
+eavivero: checks 
+PsMcw: checks 
+*** RIVER *** [2d Ac 3h Td] [Ah]
+alexm6786: checks 
+eavivero: checks 
+PsMcw: bets $0.06
+alexm6786: folds 
+eavivero: folds 
+Uncalled bet ($0.06) returned to PsMcw
+PsMcw collected $0.12 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2d Ac 3h Td Ah]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: MatheusPiresBar (button) folded before Flop (didn't bet)
+Seat 3: alexm6786 (small blind) folded on the River
+Seat 4: eavivero (big blind) folded on the River
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw collected ($0.12)
+
+
+
+PokerStars Hand #241321526010:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:37:49 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.63 in chips) 
+Seat 2: MatheusPiresBar ($1.15 in chips) 
+Seat 3: alexm6786 ($0.59 in chips) 
+Seat 4: eavivero ($1.05 in chips) 
+Seat 5: Jvern02 ($2.33 in chips) 
+Seat 6: PsMcw ($3.80 in chips) 
+eavivero: posts small blind $0.01
+Jvern02: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qc]
+PsMcw: folds 
+Lorpugo: folds 
+MatheusPiresBar: calls $0.02
+alexm6786: folds 
+eavivero: calls $0.01
+Jvern02: raises $0.06 to $0.08
+MatheusPiresBar: calls $0.06
+eavivero: folds 
+*** FLOP *** [9d 5c 5d]
+Jvern02: bets $0.06
+MatheusPiresBar: folds 
+Uncalled bet ($0.06) returned to Jvern02
+Jvern02 collected $0.17 from pot
+Jvern02: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [9d 5c 5d]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: MatheusPiresBar folded on the Flop
+Seat 3: alexm6786 (button) folded before Flop (didn't bet)
+Seat 4: eavivero (small blind) folded before Flop
+Seat 5: Jvern02 (big blind) collected ($0.17)
+Seat 6: PsMcw folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241321542038:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:38:26 ET
+Table 'Sinon II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($2.63 in chips) 
+Seat 2: MatheusPiresBar ($1.07 in chips) 
+Seat 3: alexm6786 ($0.59 in chips) 
+Seat 4: eavivero ($1.03 in chips) 
+Seat 5: Jvern02 ($2.42 in chips) 
+Seat 6: PsMcw ($3.80 in chips) 
+Jvern02: posts small blind $0.01
+PsMcw: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Th]
+Lorpugo: folds 
+MatheusPiresBar: raises $0.08 to $0.10
+alexm6786: folds 
+eavivero: folds 
+Jvern02: folds 
+PsMcw: calls $0.08
+*** FLOP *** [Js 5h 4c]
+PsMcw: checks 
+MatheusPiresBar: bets $0.10
+PsMcw: calls $0.10
+*** TURN *** [Js 5h 4c] [8s]
+PsMcw: checks 
+MatheusPiresBar: bets $0.10
+PsMcw: calls $0.10
+*** RIVER *** [Js 5h 4c 8s] [Qh]
+PsMcw: bets $0.59
+MatheusPiresBar: raises $0.18 to $0.77 and is all-in
+PsMcw: calls $0.18
+*** SHOW DOWN ***
+MatheusPiresBar: shows [Kd Jc] (a pair of Jacks)
+PsMcw: shows [Qc Tc] (a pair of Queens)
+PsMcw collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [Js 5h 4c 8s Qh]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: MatheusPiresBar showed [Kd Jc] and lost with a pair of Jacks
+Seat 3: alexm6786 folded before Flop (didn't bet)
+Seat 4: eavivero (button) folded before Flop (didn't bet)
+Seat 5: Jvern02 (small blind) folded before Flop
+Seat 6: PsMcw (big blind) showed [Qc Tc] and won ($2.05) with a pair of Queens
+
+
+
+PokerStars Hand #241321565780:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:39:22 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.63 in chips) 
+Seat 3: alexm6786 ($0.59 in chips) 
+Seat 4: eavivero ($1.03 in chips) 
+Seat 5: Jvern02 ($2.41 in chips) 
+Seat 6: PsMcw ($4.78 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 9d]
+MatheusPiresBar is disconnected 
+alexm6786: folds 
+eavivero: calls $0.02
+Jvern02: folds 
+PsMcw: calls $0.01
+Lorpugo: raises $0.10 to $0.12
+eavivero: folds 
+PsMcw: calls $0.10
+*** FLOP *** [6d 3h Js]
+PsMcw: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to PsMcw
+PsMcw collected $0.25 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6d 3h Js]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 3: alexm6786 folded before Flop (didn't bet)
+Seat 4: eavivero folded before Flop
+Seat 5: Jvern02 (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) collected ($0.25)
+
+
+
+PokerStars Hand #241321584058:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:40:04 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.51 in chips) 
+Seat 3: alexm6786 ($0.59 in chips) 
+Seat 4: eavivero ($1.01 in chips) 
+Seat 5: Jvern02 ($2.41 in chips) 
+Seat 6: PsMcw ($4.91 in chips) 
+Lorpugo: posts small blind $0.01
+alexm6786: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Ad]
+eavivero: calls $0.02
+Jvern02: folds 
+PsMcw: calls $0.02
+Lorpugo: raises $0.10 to $0.12
+alexm6786: folds 
+eavivero: calls $0.10
+PsMcw: calls $0.10
+*** FLOP *** [5h Ts 7s]
+Lorpugo: checks 
+eavivero: checks 
+PsMcw: bets $0.10
+Lorpugo: calls $0.10
+eavivero: calls $0.10
+*** TURN *** [5h Ts 7s] [Jc]
+Lorpugo: checks 
+eavivero: checks 
+PsMcw: bets $0.33
+Lorpugo: folds 
+eavivero is disconnected 
+eavivero has timed out while disconnected
+eavivero: folds 
+Uncalled bet ($0.33) returned to PsMcw
+PsMcw collected $0.66 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [5h Ts 7s Jc]
+Seat 1: Lorpugo (small blind) folded on the Turn
+Seat 3: alexm6786 (big blind) folded before Flop
+Seat 4: eavivero folded on the Turn
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw (button) collected ($0.66)
+
+
+
+PokerStars Hand #241321671307:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:43:28 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.29 in chips) 
+Seat 3: alexm6786 ($0.57 in chips) 
+Seat 5: Jvern02 ($2.41 in chips) 
+Seat 6: PsMcw ($5.35 in chips) 
+alexm6786: posts small blind $0.01
+Jvern02: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 5c]
+PsMcw: calls $0.02
+Lorpugo: folds 
+alexm6786: calls $0.01
+Jvern02: checks 
+*** FLOP *** [7d As 9h]
+alexm6786: checks 
+Jvern02: checks 
+PsMcw: checks 
+*** TURN *** [7d As 9h] [4d]
+alexm6786: checks 
+Jvern02: checks 
+PsMcw: checks 
+*** RIVER *** [7d As 9h 4d] [3d]
+alexm6786: bets $0.02
+Jvern02: calls $0.02
+PsMcw: calls $0.02
+*** SHOW DOWN ***
+alexm6786: shows [4h Kc] (a pair of Fours)
+Jvern02: mucks hand 
+PsMcw: mucks hand 
+alexm6786 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7d As 9h 4d 3d]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: alexm6786 (small blind) showed [4h Kc] and won ($0.12) with a pair of Fours
+Seat 5: Jvern02 (big blind) mucked [6d 8h]
+Seat 6: PsMcw mucked [3h Th]
+
+
+
+PokerStars Hand #241321685692:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:44:02 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.29 in chips) 
+Seat 3: alexm6786 ($0.65 in chips) 
+Seat 5: Jvern02 ($2.37 in chips) 
+Seat 6: PsMcw ($5.31 in chips) 
+Jvern02: posts small blind $0.01
+PsMcw: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 7c]
+Lorpugo: folds 
+alexm6786: calls $0.02
+Jvern02: folds 
+PsMcw: checks 
+*** FLOP *** [6h Qc 5s]
+PsMcw: checks 
+alexm6786: bets $0.02
+PsMcw: folds 
+Uncalled bet ($0.02) returned to alexm6786
+alexm6786 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h Qc 5s]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 3: alexm6786 (button) collected ($0.05)
+Seat 5: Jvern02 (small blind) folded before Flop
+Seat 6: PsMcw (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241321692241:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:44:17 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.29 in chips) 
+Seat 3: alexm6786 ($0.68 in chips) 
+Seat 5: Jvern02 ($2.36 in chips) 
+Seat 6: PsMcw ($5.29 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Qs]
+alexm6786: calls $0.02
+Jvern02: raises $0.06 to $0.08
+PsMcw: calls $0.07
+Lorpugo: folds 
+alexm6786: calls $0.06
+*** FLOP *** [9c 7h Ks]
+PsMcw: checks 
+alexm6786: checks 
+Jvern02: checks 
+*** TURN *** [9c 7h Ks] [2s]
+PsMcw: checks 
+alexm6786: checks 
+Jvern02: checks 
+*** RIVER *** [9c 7h Ks 2s] [6s]
+PsMcw: checks 
+alexm6786: bets $0.02
+Jvern02: calls $0.02
+PsMcw: folds 
+*** SHOW DOWN ***
+alexm6786: shows [Ac 3s] (high card Ace)
+Jvern02: mucks hand 
+alexm6786 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9c 7h Ks 2s 6s]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: alexm6786 showed [Ac 3s] and won ($0.29) with high card Ace
+Seat 5: Jvern02 (button) mucked [Tc Qd]
+Seat 6: PsMcw (small blind) folded on the River
+
+
+
+PokerStars Hand #241321711743:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:45:03 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.27 in chips) 
+Seat 3: alexm6786 ($0.87 in chips) 
+Seat 5: Jvern02 ($2.26 in chips) 
+Seat 6: PsMcw ($5.21 in chips) 
+Lorpugo: posts small blind $0.01
+alexm6786: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Qh]
+Jvern02: raises $0.03 to $0.05
+PsMcw: calls $0.05
+Lorpugo: folds 
+alexm6786: folds 
+*** FLOP *** [6c 2h 2d]
+Jvern02: bets $0.04
+PsMcw: calls $0.04
+*** TURN *** [6c 2h 2d] [7d]
+Jvern02: checks 
+PsMcw: checks 
+*** RIVER *** [6c 2h 2d 7d] [4s]
+Jvern02: bets $0.02
+PsMcw: calls $0.02
+*** SHOW DOWN ***
+Jvern02: shows [Ad 8h] (a pair of Deuces)
+PsMcw: mucks hand 
+Jvern02 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 2h 2d 7d 4s]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 3: alexm6786 (big blind) folded before Flop
+Seat 5: Jvern02 showed [Ad 8h] and won ($0.24) with a pair of Deuces
+Seat 6: PsMcw (button) mucked [3s Kd]
+
+
+
+PokerStars Hand #241321727035:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:45:39 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.26 in chips) 
+Seat 3: alexm6786 ($0.85 in chips) 
+Seat 5: Jvern02 ($2.39 in chips) 
+Seat 6: PsMcw ($5.10 in chips) 
+alexm6786: posts small blind $0.01
+eavivero has timed out
+Jvern02: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4d]
+PsMcw: folds 
+Lorpugo: raises $0.03 to $0.05
+alexm6786: folds 
+eavivero is disconnected 
+Jvern02: calls $0.03
+*** FLOP *** [2d Jc Td]
+Jvern02: checks 
+Lorpugo: checks 
+*** TURN *** [2d Jc Td] [8c]
+Jvern02: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Jvern02
+Jvern02 collected $0.11 from pot
+Jvern02: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2d Jc Td 8c]
+Seat 1: Lorpugo (button) folded on the Turn
+Seat 3: alexm6786 (small blind) folded before Flop
+Seat 5: Jvern02 (big blind) collected ($0.11)
+Seat 6: PsMcw folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241321745878:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:46:23 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.21 in chips) 
+Seat 3: alexm6786 ($0.84 in chips) 
+Seat 5: Jvern02 ($2.45 in chips) 
+Seat 6: PsMcw ($5.10 in chips) 
+Jvern02: posts small blind $0.01
+PsMcw: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Td]
+Lorpugo: raises $0.03 to $0.05
+eavivero is disconnected 
+alexm6786: folds 
+Jvern02: folds 
+PsMcw: calls $0.03
+*** FLOP *** [Ks Kh Jh]
+PsMcw: checks 
+Lorpugo: bets $0.02
+PsMcw: calls $0.02
+*** TURN *** [Ks Kh Jh] [3s]
+PsMcw: checks 
+Lorpugo: checks 
+*** RIVER *** [Ks Kh Jh 3s] [Kd]
+PsMcw: bets $5.03 and is all-in
+Lorpugo: folds 
+Uncalled bet ($5.03) returned to PsMcw
+PsMcw collected $0.14 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks Kh Jh 3s Kd]
+Seat 1: Lorpugo folded on the River
+Seat 3: alexm6786 (button) folded before Flop (didn't bet)
+Seat 5: Jvern02 (small blind) folded before Flop
+Seat 6: PsMcw (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #241321760342:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:46:57 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.14 in chips) 
+Seat 3: alexm6786 ($0.84 in chips) 
+Seat 5: Jvern02 ($2.44 in chips) 
+Seat 6: PsMcw ($5.17 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qc]
+alexm6786: calls $0.02
+Jvern02: folds 
+PsMcw: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [4h Ks 3d]
+PsMcw: checks 
+Lorpugo: checks 
+alexm6786: bets $0.02
+PsMcw: calls $0.02
+Lorpugo: folds 
+*** TURN *** [4h Ks 3d] [Kc]
+PsMcw: checks 
+alexm6786: checks 
+*** RIVER *** [4h Ks 3d Kc] [2d]
+PsMcw: bets $0.02
+alexm6786: raises $0.22 to $0.24
+PsMcw: calls $0.22
+*** SHOW DOWN ***
+alexm6786: shows [5c Kh] (three of a kind, Kings)
+PsMcw: mucks hand 
+alexm6786 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [4h Ks 3d Kc 2d]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 3: alexm6786 showed [5c Kh] and won ($0.56) with three of a kind, Kings
+Seat 5: Jvern02 (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) mucked [2h 6s]
+
+
+
+PokerStars Hand #241321782800:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:47:50 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($2.12 in chips) 
+Seat 3: alexm6786 ($1.12 in chips) 
+Seat 5: Jvern02 ($2.44 in chips) 
+Seat 6: PsMcw ($4.89 in chips) 
+Lorpugo: posts small blind $0.01
+alexm6786: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5d]
+Jvern02: folds 
+PsMcw: folds 
+Lorpugo: raises $0.03 to $0.05
+alexm6786: raises $0.03 to $0.08
+Lorpugo: calls $0.03
+*** FLOP *** [9d 9h Ks]
+Lorpugo: bets $0.02
+alexm6786: raises $0.06 to $0.08
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to alexm6786
+alexm6786 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9d 9h Ks]
+Seat 1: Lorpugo (small blind) folded on the Flop
+Seat 3: alexm6786 (big blind) collected ($0.19)
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241321793202:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:48:15 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.02 in chips) 
+Seat 3: alexm6786 ($1.21 in chips) 
+Seat 5: Jvern02 ($2.44 in chips) 
+Seat 6: PsMcw ($4.89 in chips) 
+alexm6786: posts small blind $0.01
+Jvern02: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 9c]
+PsMcw: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+alexm6786: calls $0.08
+Jvern02: folds 
+PsMcw: calls $0.07
+*** FLOP *** [5h Ac 3s]
+alexm6786: checks 
+PsMcw: bets $0.02
+Lorpugo: raises $0.02 to $0.04
+alexm6786: folds 
+PsMcw: raises $0.02 to $0.06
+Lorpugo: calls $0.02
+*** TURN *** [5h Ac 3s] [9h]
+PsMcw: bets $0.20
+Lorpugo: calls $0.20
+*** RIVER *** [5h Ac 3s 9h] [4h]
+PsMcw: bets $4.54 and is all-in
+Lorpugo: folds 
+Uncalled bet ($4.54) returned to PsMcw
+PsMcw collected $0.77 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04 
+Board [5h Ac 3s 9h 4h]
+Seat 1: Lorpugo (button) folded on the River
+Seat 3: alexm6786 (small blind) folded on the Flop
+Seat 5: Jvern02 (big blind) folded before Flop
+Seat 6: PsMcw collected ($0.77)
+
+
+
+PokerStars Hand #241321819899:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:49:18 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($1.67 in chips) 
+Seat 3: alexm6786 ($1.12 in chips) 
+Seat 5: Jvern02 ($2.42 in chips) 
+Seat 6: PsMcw ($5.31 in chips) 
+Jvern02: posts small blind $0.01
+PsMcw: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Jh]
+Lorpugo: raises $0.03 to $0.05
+alexm6786: folds 
+Jvern02: folds 
+PsMcw: calls $0.03
+*** FLOP *** [Js 4c 7s]
+MatheusPiresBar leaves the table
+PsMcw: checks 
+Lorpugo: bets $0.06
+PsMcw: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+alexm6786 leaves the table
+J. Cash 40476 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Js 4c 7s]
+Seat 1: Lorpugo collected ($0.11)
+Seat 3: alexm6786 (button) folded before Flop (didn't bet)
+Seat 5: Jvern02 (small blind) folded before Flop
+Seat 6: PsMcw (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241321828977:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:49:40 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($1.73 in chips) 
+Seat 5: Jvern02 ($2.41 in chips) 
+Seat 6: PsMcw ($5.26 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+J. Cash 40476 is connected 
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 8s]
+Jvern02: folds 
+PsMcw: raises $0.02 to $0.04
+Chen311086 joins the table at seat #3 
+Lorpugo: calls $0.02
+*** FLOP *** [7c 4c 9h]
+PsMcw: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to PsMcw
+PsMcw collected $0.08 from pot
+PsMcw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7c 4c 9h]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 5: Jvern02 (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) collected ($0.08)
+
+
+
+PokerStars Hand #241321838849:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:50:03 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.69 in chips) 
+Seat 2: J. Cash 40476 ($1.60 in chips) 
+Seat 5: Jvern02 ($2.41 in chips) 
+Seat 6: PsMcw ($5.30 in chips) 
+Lorpugo: posts small blind $0.01
+J. Cash 40476: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2c]
+Jvern02 has timed out
+Jvern02: folds 
+PsMcw: folds 
+Lorpugo: raises $0.03 to $0.05
+J. Cash 40476: calls $0.03
+*** FLOP *** [3d 7s 7c]
+Lorpugo: bets $0.07
+J. Cash 40476: calls $0.07
+*** TURN *** [3d 7s 7c] [4h]
+Lorpugo: bets $0.12
+J. Cash 40476: folds 
+Uncalled bet ($0.12) returned to Lorpugo
+Lorpugo collected $0.23 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3d 7s 7c 4h]
+Seat 1: Lorpugo (small blind) collected ($0.23)
+Seat 2: J. Cash 40476 (big blind) folded on the Turn
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241322360750:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:50:55 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($1.80 in chips) 
+Seat 2: J. Cash 40476 ($1.48 in chips) 
+Seat 3: Chen311086 ($1.98 in chips) 
+Seat 5: Jvern02 ($2.41 in chips) 
+Seat 6: PsMcw ($5.30 in chips) 
+J. Cash 40476: posts small blind $0.01
+Chen311086: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7d]
+Jvern02: folds 
+PsMcw: calls $0.02
+Lorpugo: folds 
+J. Cash 40476: folds 
+Chen311086: checks 
+*** FLOP *** [2c Kc 8h]
+Chen311086: bets $0.03
+PsMcw: calls $0.03
+*** TURN *** [2c Kc 8h] [5h]
+Chen311086: checks 
+PsMcw: checks 
+*** RIVER *** [2c Kc 8h 5h] [3s]
+Chen311086: bets $0.04
+PsMcw: folds 
+Uncalled bet ($0.04) returned to Chen311086
+Chen311086 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2c Kc 8h 5h 3s]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: J. Cash 40476 (small blind) folded before Flop
+Seat 3: Chen311086 (big blind) collected ($0.11)
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw folded on the River
+
+
+
+PokerStars Hand #241322372817:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:51:23 ET
+Table 'Sinon II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($1.80 in chips) 
+Seat 2: J. Cash 40476 ($1.47 in chips) 
+Seat 3: Chen311086 ($2.04 in chips) 
+Seat 5: Jvern02 ($2.41 in chips) 
+Seat 6: PsMcw ($5.25 in chips) 
+Chen311086: posts small blind $0.01
+Jvern02: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 7s]
+PsMcw: calls $0.02
+Lorpugo: raises $0.03 to $0.05
+J. Cash 40476: raises $0.03 to $0.08
+Chen311086: calls $0.07
+Jvern02: folds 
+PsMcw: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [Qh Qc Jd]
+Chen311086: checks 
+Lorpugo: bets $0.09
+J. Cash 40476: calls $0.09
+Chen311086: folds 
+*** TURN *** [Qh Qc Jd] [9c]
+Lorpugo: checks 
+J. Cash 40476: checks 
+*** RIVER *** [Qh Qc Jd 9c] [5c]
+Lorpugo: checks 
+J. Cash 40476: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7c 7s] (two pair, Queens and Sevens)
+J. Cash 40476: mucks hand 
+Lorpugo collected $0.44 from pot
+eavivero leaves the table
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Qh Qc Jd 9c 5c]
+Seat 1: Lorpugo showed [7c 7s] and won ($0.44) with two pair, Queens and Sevens
+Seat 2: J. Cash 40476 (button) mucked [Td Ah]
+Seat 3: Chen311086 (small blind) folded on the Flop
+Seat 5: Jvern02 (big blind) folded before Flop
+Seat 6: PsMcw folded before Flop
+
+
+
+PokerStars Hand #241322394846:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:52:16 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($2.07 in chips) 
+Seat 2: J. Cash 40476 ($1.30 in chips) 
+Seat 3: Chen311086 ($1.96 in chips) 
+Seat 5: Jvern02 ($2.39 in chips) 
+Seat 6: PsMcw ($5.23 in chips) 
+Jvern02: posts small blind $0.01
+PsMcw: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Tc]
+Lorpugo: raises $0.03 to $0.05
+Hermann41595 joins the table at seat #4 
+J. Cash 40476: folds 
+J. Cash 40476 leaves the table
+Chen311086: raises $0.09 to $0.14
+Jvern02: folds 
+PsMcw: folds 
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to Chen311086
+Chen311086 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Lorpugo folded before Flop
+Seat 2: J. Cash 40476 folded before Flop (didn't bet)
+Seat 3: Chen311086 (button) collected ($0.13)
+Seat 5: Jvern02 (small blind) folded before Flop
+Seat 6: PsMcw (big blind) folded before Flop
+
+
+
+PokerStars Hand #241322401411:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:52:32 ET
+Table 'Sinon II' 6-max Seat #5 is the button
+Seat 1: Lorpugo ($2.02 in chips) 
+Seat 3: Chen311086 ($2.04 in chips) 
+Seat 4: Hermann41595 ($1.60 in chips) 
+Seat 5: Jvern02 ($2.38 in chips) 
+Seat 6: PsMcw ($5.21 in chips) 
+PsMcw: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+silveriojrr joins the table at seat #2 
+Hermann41595: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Kh]
+Chen311086: raises $0.03 to $0.05
+Hermann41595: calls $0.03
+Jvern02: folds 
+PsMcw: calls $0.04
+Lorpugo: calls $0.03
+*** FLOP *** [4c 2c 4d]
+PsMcw: bets $0.02
+Lorpugo: folds 
+Chen311086: calls $0.02
+Hermann41595: raises $0.10 to $0.12
+PsMcw: calls $0.10
+Chen311086: calls $0.10
+*** TURN *** [4c 2c 4d] [Ad]
+PsMcw: bets $0.54
+Chen311086: folds 
+Hermann41595: calls $0.54
+*** RIVER *** [4c 2c 4d Ad] [6c]
+PsMcw: checks 
+Hermann41595: bets $0.89 and is all-in
+PsMcw: calls $0.89
+*** SHOW DOWN ***
+Hermann41595: shows [2h As] (two pair, Aces and Fours)
+PsMcw: shows [3c 3s] (two pair, Fours and Threes)
+Hermann41595 collected $3.30 from pot
+*** SUMMARY ***
+Total pot $3.42 | Rake $0.12 
+Board [4c 2c 4d Ad 6c]
+Seat 1: Lorpugo (big blind) folded on the Flop
+Seat 3: Chen311086 folded on the Turn
+Seat 4: Hermann41595 showed [2h As] and won ($3.30) with two pair, Aces and Fours
+Seat 5: Jvern02 (button) folded before Flop (didn't bet)
+Seat 6: PsMcw (small blind) showed [3c 3s] and lost with two pair, Fours and Threes
+
+
+
+PokerStars Hand #241322427972:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:53:35 ET
+Table 'Sinon II' 6-max Seat #6 is the button
+Seat 1: Lorpugo ($1.97 in chips) 
+Seat 2: silveriojrr ($2 in chips) 
+Seat 3: Chen311086 ($1.87 in chips) 
+Seat 4: Hermann41595 ($3.30 in chips) 
+Seat 5: Jvern02 ($2.38 in chips) 
+Seat 6: PsMcw ($3.61 in chips) 
+Lorpugo: posts small blind $0.01
+silveriojrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Kc]
+Chen311086: calls $0.02
+Hermann41595: calls $0.02
+Jvern02: folds 
+PsMcw: folds 
+Lorpugo: raises $0.08 to $0.10
+silveriojrr: folds 
+Chen311086: folds 
+Hermann41595: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Lorpugo (small blind) collected ($0.08)
+Seat 2: silveriojrr (big blind) folded before Flop
+Seat 3: Chen311086 folded before Flop
+Seat 4: Hermann41595 folded before Flop
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241322437906:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:54:00 ET
+Table 'Sinon II' 6-max Seat #1 is the button
+Seat 1: Lorpugo ($2.03 in chips) 
+Seat 2: silveriojrr ($1.98 in chips) 
+Seat 3: Chen311086 ($1.85 in chips) 
+Seat 4: Hermann41595 ($3.28 in chips) 
+Seat 5: Jvern02 ($2.38 in chips) 
+Seat 6: PsMcw ($3.61 in chips) 
+silveriojrr: posts small blind $0.01
+Chen311086: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 8d]
+Hermann41595: folds 
+Jvern02: folds 
+PsMcw: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+silveriojrr: calls $0.03
+Chen311086: calls $0.02
+*** FLOP *** [9s Td Jc]
+silveriojrr: checks 
+Chen311086: bets $0.08
+PsMcw: calls $0.08
+Lorpugo: raises $0.26 to $0.34
+silveriojrr: folds 
+Chen311086: calls $0.26
+PsMcw: calls $0.26
+*** TURN *** [9s Td Jc] [7s]
+Chen311086: checks 
+PsMcw: checks 
+Lorpugo: bets $1.65 and is all-in
+Chen311086: calls $1.47 and is all-in
+PsMcw: calls $1.65
+*** RIVER *** [9s Td Jc 7s] [4h]
+*** SHOW DOWN ***
+PsMcw: shows [Kc Js] (a pair of Jacks)
+Lorpugo: shows [7d 8d] (a straight, Seven to Jack)
+Lorpugo collected $0.35 from side pot
+Chen311086: shows [Qd Jh] (a pair of Jacks)
+Lorpugo collected $5.39 from main pot
+*** SUMMARY ***
+Total pot $5.95 Main pot $5.39. Side pot $0.35. | Rake $0.21 
+Board [9s Td Jc 7s 4h]
+Seat 1: Lorpugo (button) showed [7d 8d] and won ($5.74) with a straight, Seven to Jack
+Seat 2: silveriojrr (small blind) folded on the Flop
+Seat 3: Chen311086 (big blind) showed [Qd Jh] and lost with a pair of Jacks
+Seat 4: Hermann41595 folded before Flop (didn't bet)
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw showed [Kc Js] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #241322470197:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:55:19 ET
+Table 'Sinon II' 6-max Seat #2 is the button
+Seat 1: Lorpugo ($5.74 in chips) 
+Seat 2: silveriojrr ($1.94 in chips) 
+Seat 3: Chen311086 ($1.98 in chips) 
+Seat 4: Hermann41595 ($3.28 in chips) 
+Seat 5: Jvern02 ($2.38 in chips) 
+Seat 6: PsMcw ($1.58 in chips) 
+Chen311086: posts small blind $0.01
+Hermann41595: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ad]
+Jvern02: folds 
+PsMcw: folds 
+PsMcw leaves the table
+BlueSmiley09 joins the table at seat #6 
+Lorpugo: raises $0.03 to $0.05
+silveriojrr: calls $0.05
+Chen311086: folds 
+Hermann41595: calls $0.03
+*** FLOP *** [Ks Js 7d]
+Hermann41595: checks 
+Lorpugo: bets $0.05
+silveriojrr: calls $0.05
+Hermann41595: calls $0.05
+*** TURN *** [Ks Js 7d] [4c]
+Hermann41595: checks 
+Lorpugo: bets $0.02
+silveriojrr: calls $0.02
+Hermann41595: calls $0.02
+*** RIVER *** [Ks Js 7d 4c] [3d]
+Hermann41595: checks 
+Lorpugo: bets $0.02
+silveriojrr: folds 
+Hermann41595: calls $0.02
+*** SHOW DOWN ***
+Lorpugo: shows [Jc Ad] (a pair of Jacks)
+Hermann41595: mucks hand 
+Lorpugo collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ks Js 7d 4c 3d]
+Seat 1: Lorpugo showed [Jc Ad] and won ($0.40) with a pair of Jacks
+Seat 2: silveriojrr (button) folded on the River
+Seat 3: Chen311086 (small blind) folded before Flop
+Seat 4: Hermann41595 (big blind) mucked [Jd Th]
+Seat 5: Jvern02 folded before Flop (didn't bet)
+Seat 6: PsMcw folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241322487147:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:56:19 ET
+Table 'Sinon II' 6-max Seat #3 is the button
+Seat 1: Lorpugo ($6 in chips) 
+Seat 2: silveriojrr ($1.82 in chips) 
+Seat 3: Chen311086 ($1.97 in chips) 
+Seat 4: Hermann41595 ($3.14 in chips) 
+Seat 5: Jvern02 ($2.38 in chips) 
+Hermann41595: posts small blind $0.01
+Jvern02: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 4h]
+Lorpugo: raises $0.02 to $0.04
+silveriojrr: folds 
+Chen311086: raises $0.08 to $0.12
+Hermann41595: folds 
+Jvern02: folds 
+Lorpugo: calls $0.08
+*** FLOP *** [Jh 5d 8h]
+Lorpugo: checks 
+Chen311086: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to Chen311086
+Chen311086 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Jh 5d 8h]
+Seat 1: Lorpugo folded on the Flop
+Seat 2: silveriojrr folded before Flop (didn't bet)
+Seat 3: Chen311086 (button) collected ($0.26)
+Seat 4: Hermann41595 (small blind) folded before Flop
+Seat 5: Jvern02 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241322496405:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/22 12:56:51 ET
+Table 'Sinon II' 6-max Seat #4 is the button
+Seat 1: Lorpugo ($5.88 in chips) 
+Seat 2: silveriojrr ($1.82 in chips) 
+Seat 3: Chen311086 ($2.11 in chips) 
+Seat 4: Hermann41595 ($3.13 in chips) 
+Seat 5: Jvern02 ($2.36 in chips) 
+Seat 6: BlueSmiley09 ($2 in chips) 
+Jvern02: posts small blind $0.01
+BlueSmiley09: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5h]
+Lorpugo has timed out
+Lorpugo: folds 
+silveriojrr: calls $0.02
+Chen311086: folds 
+Hermann41595: calls $0.02
+Jvern02: folds 
+BlueSmiley09: raises $0.04 to $0.06
+silveriojrr: calls $0.04
+Hermann41595: folds 
+*** FLOP *** [Td 6c 9h]
+BlueSmiley09: checks 
+silveriojrr: checks 
+*** TURN *** [Td 6c 9h] [7h]
+BlueSmiley09: checks 
+silveriojrr: bets $0.02
+BlueSmiley09: calls $0.02
+*** RIVER *** [Td 6c 9h 7h] [Ad]
+BlueSmiley09: bets $0.18
+silveriojrr: raises $0.42 to $0.60
+BlueSmiley09: raises $1.32 to $1.92 and is all-in
+silveriojrr: calls $1.14 and is all-in
+Uncalled bet ($0.18) returned to BlueSmiley09
+*** SHOW DOWN ***
+BlueSmiley09: shows [Qc Kh] (high card Ace)
+silveriojrr: shows [8d 4h] (a straight, Six to Ten)
+silveriojrr collected $3.54 from pot
+*** SUMMARY ***
+Total pot $3.67 | Rake $0.13 
+Board [Td 6c 9h 7h Ad]
+Seat 1: Lorpugo folded before Flop (didn't bet)
+Seat 2: silveriojrr showed [8d 4h] and won ($3.54) with a straight, Six to Ten
+Seat 3: Chen311086 folded before Flop (didn't bet)
+Seat 4: Hermann41595 (button) folded before Flop
+Seat 5: Jvern02 (small blind) folded before Flop
+Seat 6: BlueSmiley09 (big blind) showed [Qc Kh] and lost with high card Ace
+
+
+

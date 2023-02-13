@@ -1,0 +1,30 @@
+﻿PokerStars Hand #241389117896: Tournament #3537655207, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/01/25 13:58:54 ET
+Table '3537655207 1' 3-max Seat #1 is the button
+Seat 1: pikou.be (500 in chips) 
+Seat 2: O_OHuntxr (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+O_OHuntxr: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 3d]
+pikou.be: folds 
+O_OHuntxr: raises 20 to 40
+Lorpugo: raises 460 to 500 and is all-in
+O_OHuntxr: calls 460 and is all-in
+*** FLOP *** [2c 5h Qh]
+*** TURN *** [2c 5h Qh] [6s]
+*** RIVER *** [2c 5h Qh 6s] [Td]
+*** SHOW DOWN ***
+O_OHuntxr: shows [6d 4d] (a pair of Sixes)
+Lorpugo: shows [3s 3d] (a pair of Threes)
+O_OHuntxr collected 1000 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [2c 5h Qh 6s Td]
+Seat 1: pikou.be (button) folded before Flop (didn't bet)
+Seat 2: O_OHuntxr (small blind) showed [6d 4d] and won (1000) with a pair of Sixes
+Seat 3: Lorpugo (big blind) showed [3s 3d] and lost with a pair of Threes
+
+
+

@@ -1,0 +1,131 @@
+﻿PokerStars Hand #241370128735: Tournament #3537201036, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:27:31 ET
+Table '3537201036 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: herzdame5517 (500 in chips) 
+Seat 3: varumihai87 (500 in chips) 
+herzdame5517: posts small blind 10
+varumihai87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 5d]
+Lorpugo: folds 
+herzdame5517: calls 10
+varumihai87: checks 
+*** FLOP *** [5s 7s 8s]
+herzdame5517: bets 20
+varumihai87: calls 20
+*** TURN *** [5s 7s 8s] [3d]
+herzdame5517: bets 20
+varumihai87: calls 20
+*** RIVER *** [5s 7s 8s 3d] [Ad]
+herzdame5517: checks 
+varumihai87: bets 60
+herzdame5517: calls 60
+*** SHOW DOWN ***
+varumihai87: shows [4c 7h] (a pair of Sevens)
+herzdame5517: mucks hand 
+varumihai87 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5s 7s 8s 3d Ad]
+Seat 1: Lorpugo (button) folded before Flop (didn't bet)
+Seat 2: herzdame5517 (small blind) mucked [2h 3s]
+Seat 3: varumihai87 (big blind) showed [4c 7h] and won (240) with a pair of Sevens
+
+
+
+PokerStars Hand #241370142370: Tournament #3537201036, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:28:04 ET
+Table '3537201036 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: herzdame5517 (380 in chips) 
+Seat 3: varumihai87 (620 in chips) 
+varumihai87: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7c]
+herzdame5517: calls 20
+varumihai87: folds 
+Lorpugo: checks 
+*** FLOP *** [8h 9h Th]
+Lorpugo: bets 20
+herzdame5517: raises 45 to 65
+Lorpugo: raises 415 to 480 and is all-in
+herzdame5517: calls 295 and is all-in
+Uncalled bet (120) returned to Lorpugo
+*** TURN *** [8h 9h Th] [5d]
+*** RIVER *** [8h 9h Th 5d] [Kc]
+*** SHOW DOWN ***
+Lorpugo: shows [Jc 7c] (a straight, Seven to Jack)
+herzdame5517: shows [Ah Ac] (a pair of Aces)
+Lorpugo collected 770 from pot
+herzdame5517 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [8h 9h Th 5d Kc]
+Seat 1: Lorpugo (big blind) showed [Jc 7c] and won (770) with a straight, Seven to Jack
+Seat 2: herzdame5517 (button) showed [Ah Ac] and lost with a pair of Aces
+Seat 3: varumihai87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370156186: Tournament #3537201036, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:28:37 ET
+Table '3537201036 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (890 in chips) 
+Seat 3: varumihai87 (610 in chips) 
+Lorpugo: posts small blind 10
+varumihai87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9c]
+Lorpugo: raises 20 to 40
+varumihai87: calls 20
+*** FLOP *** [8s 5d Ad]
+varumihai87: checks 
+Lorpugo: bets 26
+varumihai87: calls 26
+*** TURN *** [8s 5d Ad] [5s]
+varumihai87: checks 
+Lorpugo: bets 87
+varumihai87: calls 87
+*** RIVER *** [8s 5d Ad 5s] [Qc]
+varumihai87: checks 
+Lorpugo: bets 220
+varumihai87: calls 220
+*** SHOW DOWN ***
+Lorpugo: shows [7s 9c] (a pair of Fives)
+varumihai87: shows [Th Ah] (two pair, Aces and Fives)
+varumihai87 collected 746 from pot
+*** SUMMARY ***
+Total pot 746 | Rake 0 
+Board [8s 5d Ad 5s Qc]
+Seat 1: Lorpugo (button) (small blind) showed [7s 9c] and lost with a pair of Fives
+Seat 3: varumihai87 (big blind) showed [Th Ah] and won (746) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #241370171567: Tournament #3537201036, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:29:14 ET
+Table '3537201036 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (517 in chips) 
+Seat 3: varumihai87 (983 in chips) 
+varumihai87: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Ah]
+varumihai87: calls 10
+Lorpugo: raises 497 to 517 and is all-in
+varumihai87: calls 497
+*** FLOP *** [Qd Kc 9d]
+*** TURN *** [Qd Kc 9d] [Qh]
+*** RIVER *** [Qd Kc 9d Qh] [Jh]
+*** SHOW DOWN ***
+Lorpugo: shows [6c Ah] (a pair of Queens)
+varumihai87: shows [Ks Jc] (two pair, Kings and Queens)
+varumihai87 collected 1034 from pot
+Lorpugo finished the tournament in 2nd place
+varumihai87 wins the tournament and receives $0.50 - congratulations!
+*** SUMMARY ***
+Total pot 1034 | Rake 0 
+Board [Qd Kc 9d Qh Jh]
+Seat 1: Lorpugo (big blind) showed [6c Ah] and lost with a pair of Queens
+Seat 3: varumihai87 (button) (small blind) showed [Ks Jc] and won (1034) with two pair, Kings and Queens
+
+
+

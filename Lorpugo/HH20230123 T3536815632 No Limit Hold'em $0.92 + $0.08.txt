@@ -1,0 +1,629 @@
+﻿PokerStars Hand #241353522279: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:09:33 ET
+Table '3536815632 1' 3-max Seat #1 is the button
+Seat 1: BrentaCarlos (500 in chips) 
+Seat 2: marcola1954 (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+marcola1954: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Ad]
+BrentaCarlos: folds 
+marcola1954: calls 10
+Lorpugo: raises 480 to 500 and is all-in
+marcola1954: folds 
+Uncalled bet (480) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: BrentaCarlos (button) folded before Flop (didn't bet)
+Seat 2: marcola1954 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241353527010: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:09:50 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 1: BrentaCarlos (500 in chips) 
+Seat 2: marcola1954 (480 in chips) 
+Seat 3: Lorpugo (520 in chips) 
+Lorpugo: posts small blind 10
+BrentaCarlos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Qh]
+marcola1954: calls 20
+Lorpugo: folds 
+BrentaCarlos: checks 
+*** FLOP *** [Qd As Ah]
+BrentaCarlos: checks 
+marcola1954: checks 
+*** TURN *** [Qd As Ah] [4h]
+BrentaCarlos: checks 
+marcola1954: checks 
+*** RIVER *** [Qd As Ah 4h] [7d]
+BrentaCarlos: checks 
+marcola1954: checks 
+*** SHOW DOWN ***
+BrentaCarlos: shows [8s 9s] (a pair of Aces)
+marcola1954: shows [6s Kd] (a pair of Aces - King kicker)
+marcola1954 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Qd As Ah 4h 7d]
+Seat 1: BrentaCarlos (big blind) showed [8s 9s] and lost with a pair of Aces
+Seat 2: marcola1954 (button) showed [6s Kd] and won (50) with a pair of Aces
+Seat 3: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241353533593: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:10:13 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 1: BrentaCarlos (480 in chips) 
+Seat 2: marcola1954 (510 in chips) 
+Seat 3: Lorpugo (510 in chips) 
+BrentaCarlos: posts small blind 10
+marcola1954: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Kc]
+Lorpugo: raises 80 to 100
+BrentaCarlos: folds 
+marcola1954: folds 
+Uncalled bet (80) returned to Lorpugo
+Lorpugo collected 50 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: BrentaCarlos (small blind) folded before Flop
+Seat 2: marcola1954 (big blind) folded before Flop
+Seat 3: Lorpugo (button) collected (50)
+
+
+
+PokerStars Hand #241353538883: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:10:31 ET
+Table '3536815632 1' 3-max Seat #1 is the button
+Seat 1: BrentaCarlos (470 in chips) 
+Seat 2: marcola1954 (490 in chips) 
+Seat 3: Lorpugo (540 in chips) 
+marcola1954: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 9c]
+BrentaCarlos: raises 450 to 470 and is all-in
+marcola1954: folds 
+Lorpugo: folds 
+Uncalled bet (450) returned to BrentaCarlos
+BrentaCarlos collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: BrentaCarlos (button) collected (50)
+Seat 2: marcola1954 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241353542319: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:10:43 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 1: BrentaCarlos (500 in chips) 
+Seat 2: marcola1954 (480 in chips) 
+Seat 3: Lorpugo (520 in chips) 
+Lorpugo: posts small blind 10
+BrentaCarlos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9s]
+marcola1954: calls 20
+Lorpugo: raises 500 to 520 and is all-in
+BrentaCarlos: folds 
+marcola1954: calls 460 and is all-in
+Uncalled bet (40) returned to Lorpugo
+*** FLOP *** [6d 2h 5d]
+*** TURN *** [6d 2h 5d] [4s]
+*** RIVER *** [6d 2h 5d 4s] [Ah]
+*** SHOW DOWN ***
+Lorpugo: shows [7c 9s] (high card Ace)
+marcola1954: shows [Ad 8c] (a pair of Aces)
+marcola1954 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [6d 2h 5d 4s Ah]
+Seat 1: BrentaCarlos (big blind) folded before Flop
+Seat 2: marcola1954 (button) showed [Ad 8c] and won (980) with a pair of Aces
+Seat 3: Lorpugo (small blind) showed [7c 9s] and lost with high card Ace
+
+
+
+PokerStars Hand #241353549180: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:11:07 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 1: BrentaCarlos (480 in chips) 
+Seat 2: marcola1954 (980 in chips) 
+Seat 3: Lorpugo (40 in chips) 
+BrentaCarlos: posts small blind 10
+marcola1954: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9d]
+Lorpugo: folds 
+BrentaCarlos: folds 
+Uncalled bet (10) returned to marcola1954
+marcola1954 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: BrentaCarlos (small blind) folded before Flop
+Seat 2: marcola1954 (big blind) collected (20)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241353551053: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:11:13 ET
+Table '3536815632 1' 3-max Seat #1 is the button
+Seat 1: BrentaCarlos (470 in chips) 
+Seat 2: marcola1954 (990 in chips) 
+Seat 3: Lorpugo (40 in chips) 
+marcola1954: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 7h]
+BrentaCarlos: folds 
+marcola1954: calls 10
+Lorpugo: raises 20 to 40 and is all-in
+marcola1954: calls 20
+*** FLOP *** [Qd Ah 7c]
+*** TURN *** [Qd Ah 7c] [7d]
+*** RIVER *** [Qd Ah 7c 7d] [Qc]
+*** SHOW DOWN ***
+marcola1954: shows [Kh Ac] (two pair, Aces and Queens)
+Lorpugo: shows [8s 7h] (a full house, Sevens full of Queens)
+Lorpugo collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Ah 7c 7d Qc]
+Seat 1: BrentaCarlos (button) folded before Flop (didn't bet)
+Seat 2: marcola1954 (small blind) showed [Kh Ac] and lost with two pair, Aces and Queens
+Seat 3: Lorpugo (big blind) showed [8s 7h] and won (80) with a full house, Sevens full of Queens
+
+
+
+PokerStars Hand #241353556101: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:11:31 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 1: BrentaCarlos (470 in chips) 
+Seat 2: marcola1954 (950 in chips) 
+Seat 3: Lorpugo (80 in chips) 
+Lorpugo: posts small blind 10
+BrentaCarlos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 9c]
+marcola1954: folds 
+Lorpugo: raises 60 to 80 and is all-in
+BrentaCarlos: calls 60
+*** FLOP *** [8d Ts 4d]
+*** TURN *** [8d Ts 4d] [Qh]
+*** RIVER *** [8d Ts 4d Qh] [6h]
+*** SHOW DOWN ***
+Lorpugo: shows [8c 9c] (a pair of Eights)
+BrentaCarlos: shows [4h Kh] (a pair of Fours)
+Lorpugo collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d Ts 4d Qh 6h]
+Seat 1: BrentaCarlos (big blind) showed [4h Kh] and lost with a pair of Fours
+Seat 2: marcola1954 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) showed [8c 9c] and won (160) with a pair of Eights
+
+
+
+PokerStars Hand #241353561186: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:11:49 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 1: BrentaCarlos (390 in chips) 
+Seat 2: marcola1954 (950 in chips) 
+Seat 3: Lorpugo (160 in chips) 
+BrentaCarlos: posts small blind 10
+marcola1954: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 5d]
+Lorpugo: folds 
+BrentaCarlos: raises 20 to 40
+marcola1954: calls 20
+*** FLOP *** [8h 5h Kh]
+BrentaCarlos: checks 
+marcola1954: checks 
+*** TURN *** [8h 5h Kh] [7s]
+BrentaCarlos: checks 
+marcola1954: bets 80
+BrentaCarlos: folds 
+Uncalled bet (80) returned to marcola1954
+marcola1954 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 5h Kh 7s]
+Seat 1: BrentaCarlos (small blind) folded on the Turn
+Seat 2: marcola1954 (big blind) collected (80)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241353567659: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:12:12 ET
+Table '3536815632 1' 3-max Seat #1 is the button
+Seat 1: BrentaCarlos (350 in chips) 
+Seat 2: marcola1954 (990 in chips) 
+Seat 3: Lorpugo (160 in chips) 
+marcola1954: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Jc]
+BrentaCarlos: calls 20
+marcola1954: folds 
+Lorpugo: checks 
+*** FLOP *** [Qd 2c 4d]
+Lorpugo: bets 20
+BrentaCarlos: raises 20 to 40
+Lorpugo: calls 20
+*** TURN *** [Qd 2c 4d] [3h]
+Lorpugo: checks 
+BrentaCarlos: bets 130
+Lorpugo: folds 
+Uncalled bet (130) returned to BrentaCarlos
+BrentaCarlos collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Qd 2c 4d 3h]
+Seat 1: BrentaCarlos (button) collected (130)
+Seat 2: marcola1954 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241353576549: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:12:44 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 1: BrentaCarlos (420 in chips) 
+Seat 2: marcola1954 (980 in chips) 
+Seat 3: Lorpugo (100 in chips) 
+Lorpugo: posts small blind 15
+BrentaCarlos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8d]
+marcola1954: folds 
+Lorpugo: raises 70 to 100 and is all-in
+BrentaCarlos: calls 70
+*** FLOP *** [Qs Jc 4h]
+*** TURN *** [Qs Jc 4h] [7s]
+*** RIVER *** [Qs Jc 4h 7s] [5c]
+*** SHOW DOWN ***
+Lorpugo: shows [Ad 8d] (high card Ace)
+BrentaCarlos: shows [6h Ks] (high card King)
+Lorpugo collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qs Jc 4h 7s 5c]
+Seat 1: BrentaCarlos (big blind) showed [6h Ks] and lost with high card King
+Seat 2: marcola1954 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) showed [Ad 8d] and won (200) with high card Ace
+
+
+
+PokerStars Hand #241353581262: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:13:00 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 1: BrentaCarlos (320 in chips) 
+Seat 2: marcola1954 (980 in chips) 
+Seat 3: Lorpugo (200 in chips) 
+BrentaCarlos: posts small blind 15
+marcola1954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qs]
+Lorpugo: raises 170 to 200 and is all-in
+BrentaCarlos: folds 
+marcola1954: folds 
+Uncalled bet (170) returned to Lorpugo
+Lorpugo collected 75 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: BrentaCarlos (small blind) folded before Flop
+Seat 2: marcola1954 (big blind) folded before Flop
+Seat 3: Lorpugo (button) collected (75)
+
+
+
+PokerStars Hand #241353583840: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:13:09 ET
+Table '3536815632 1' 3-max Seat #1 is the button
+Seat 1: BrentaCarlos (305 in chips) 
+Seat 2: marcola1954 (950 in chips) 
+Seat 3: Lorpugo (245 in chips) 
+marcola1954: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4s]
+BrentaCarlos: folds 
+marcola1954: calls 15
+Lorpugo: checks 
+*** FLOP *** [7d 7s Ks]
+marcola1954: checks 
+Lorpugo: bets 30
+marcola1954: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 7s Ks]
+Seat 1: BrentaCarlos (button) folded before Flop (didn't bet)
+Seat 2: marcola1954 (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) collected (60)
+
+
+
+PokerStars Hand #241353589552: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:13:30 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 1: BrentaCarlos (305 in chips) 
+Seat 2: marcola1954 (920 in chips) 
+Seat 3: Lorpugo (275 in chips) 
+Lorpugo: posts small blind 15
+BrentaCarlos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ac]
+marcola1954: folds 
+Lorpugo: raises 245 to 275 and is all-in
+BrentaCarlos: folds 
+Uncalled bet (245) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: BrentaCarlos (big blind) folded before Flop
+Seat 2: marcola1954 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) collected (60)
+
+
+
+PokerStars Hand #241353592571: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:13:40 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 1: BrentaCarlos (275 in chips) 
+Seat 2: marcola1954 (920 in chips) 
+Seat 3: Lorpugo (305 in chips) 
+BrentaCarlos: posts small blind 15
+marcola1954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4h]
+Lorpugo: folds 
+BrentaCarlos: folds 
+Uncalled bet (15) returned to marcola1954
+marcola1954 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: BrentaCarlos (small blind) folded before Flop
+Seat 2: marcola1954 (big blind) collected (30)
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241353594404: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:13:47 ET
+Table '3536815632 1' 3-max Seat #1 is the button
+Seat 1: BrentaCarlos (260 in chips) 
+Seat 2: marcola1954 (935 in chips) 
+Seat 3: Lorpugo (305 in chips) 
+marcola1954: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qc]
+BrentaCarlos: raises 230 to 260 and is all-in
+marcola1954: folds 
+Lorpugo: folds 
+Uncalled bet (230) returned to BrentaCarlos
+BrentaCarlos collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: BrentaCarlos (button) collected (75)
+Seat 2: marcola1954 (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241353597937: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:13:59 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 1: BrentaCarlos (305 in chips) 
+Seat 2: marcola1954 (920 in chips) 
+Seat 3: Lorpugo (275 in chips) 
+Lorpugo: posts small blind 15
+BrentaCarlos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ks]
+marcola1954: folds 
+Lorpugo: raises 245 to 275 and is all-in
+BrentaCarlos: calls 245
+*** FLOP *** [Qs Qc 7h]
+*** TURN *** [Qs Qc 7h] [Td]
+*** RIVER *** [Qs Qc 7h Td] [Ah]
+*** SHOW DOWN ***
+Lorpugo: shows [7c Ks] (two pair, Queens and Sevens)
+BrentaCarlos: shows [9s Js] (a pair of Queens)
+Lorpugo collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Qs Qc 7h Td Ah]
+Seat 1: BrentaCarlos (big blind) showed [9s Js] and lost with a pair of Queens
+Seat 2: marcola1954 (button) folded before Flop (didn't bet)
+Seat 3: Lorpugo (small blind) showed [7c Ks] and won (550) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #241353602779: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:14:17 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 1: BrentaCarlos (30 in chips) 
+Seat 2: marcola1954 (920 in chips) 
+Seat 3: Lorpugo (550 in chips) 
+BrentaCarlos: posts small blind 15
+marcola1954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5s]
+Lorpugo: folds 
+BrentaCarlos: calls 15 and is all-in
+*** FLOP *** [9d 9h 9c]
+*** TURN *** [9d 9h 9c] [2s]
+*** RIVER *** [9d 9h 9c 2s] [As]
+*** SHOW DOWN ***
+BrentaCarlos: shows [3s Kc] (three of a kind, Nines)
+marcola1954: shows [2c 9s] (four of a kind, Nines)
+marcola1954 collected 60 from pot
+BrentaCarlos finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d 9h 9c 2s As]
+Seat 1: BrentaCarlos (small blind) showed [3s Kc] and lost with three of a kind, Nines
+Seat 2: marcola1954 (big blind) showed [2c 9s] and won (60) with four of a kind, Nines
+Seat 3: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241353607207: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:14:32 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 2: marcola1954 (950 in chips) 
+Seat 3: Lorpugo (550 in chips) 
+marcola1954: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3d]
+marcola1954: calls 15
+Lorpugo: raises 520 to 550 and is all-in
+marcola1954: folds 
+Uncalled bet (520) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: marcola1954 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (60)
+
+
+
+PokerStars Hand #241353610325: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:14:43 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 2: marcola1954 (920 in chips) 
+Seat 3: Lorpugo (580 in chips) 
+Lorpugo: posts small blind 15
+marcola1954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7c]
+Lorpugo: raises 30 to 60
+marcola1954: calls 30
+*** FLOP *** [4d 4c 8h]
+marcola1954: checks 
+Lorpugo: bets 30
+marcola1954: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d 4c 8h]
+Seat 2: marcola1954 (big blind) folded on the Flop
+Seat 3: Lorpugo (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241353614849: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:14:59 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 2: marcola1954 (860 in chips) 
+Seat 3: Lorpugo (640 in chips) 
+marcola1954: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 7c]
+marcola1954: folds 
+Uncalled bet (15) returned to Lorpugo
+Lorpugo collected 30 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: marcola1954 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (30)
+
+
+
+PokerStars Hand #241353616738: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:15:06 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 2: marcola1954 (845 in chips) 
+Seat 3: Lorpugo (655 in chips) 
+Lorpugo: posts small blind 15
+marcola1954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 3c]
+Lorpugo: folds 
+Uncalled bet (15) returned to marcola1954
+marcola1954 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: marcola1954 (big blind) collected (30)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241353618219: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/01/23 19:15:11 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 2: marcola1954 (860 in chips) 
+Seat 3: Lorpugo (640 in chips) 
+marcola1954: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 3d]
+marcola1954: calls 15
+Lorpugo: checks 
+*** FLOP *** [3s 9h 7s]
+Lorpugo: checks 
+marcola1954: checks 
+*** TURN *** [3s 9h 7s] [Qd]
+Lorpugo: checks 
+marcola1954: bets 180
+Lorpugo: folds 
+Uncalled bet (180) returned to marcola1954
+marcola1954 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 9h 7s Qd]
+Seat 2: marcola1954 (button) (small blind) collected (60)
+Seat 3: Lorpugo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241353626929: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/01/23 19:15:42 ET
+Table '3536815632 1' 3-max Seat #3 is the button
+Seat 2: marcola1954 (890 in chips) 
+Seat 3: Lorpugo (610 in chips) 
+Lorpugo: posts small blind 20
+marcola1954: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 9c]
+Lorpugo: folds 
+Uncalled bet (20) returned to marcola1954
+marcola1954 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: marcola1954 (big blind) collected (40)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241353628474: Tournament #3536815632, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/01/23 19:15:48 ET
+Table '3536815632 1' 3-max Seat #2 is the button
+Seat 2: marcola1954 (910 in chips) 
+Seat 3: Lorpugo (590 in chips) 
+marcola1954: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 7c]
+marcola1954: calls 20
+Lorpugo: raises 550 to 590 and is all-in
+marcola1954: calls 550
+*** FLOP *** [3h 8c 9c]
+*** TURN *** [3h 8c 9c] [5c]
+*** RIVER *** [3h 8c 9c 5c] [5s]
+*** SHOW DOWN ***
+Lorpugo: shows [7h 7c] (two pair, Sevens and Fives)
+marcola1954: shows [Qc Kc] (a flush, King high)
+marcola1954 collected 1180 from pot
+Lorpugo finished the tournament in 2nd place
+marcola1954 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [3h 8c 9c 5c 5s]
+Seat 2: marcola1954 (button) (small blind) showed [Qc Kc] and won (1180) with a flush, King high
+Seat 3: Lorpugo (big blind) showed [7h 7c] and lost with two pair, Sevens and Fives
+
+
+

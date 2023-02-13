@@ -1,0 +1,627 @@
+﻿PokerStars Hand #241369897328: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:18:23 ET
+Table '3537196141 1' 3-max Seat #1 is the button
+Seat 1: morti589 (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: leocsoares (500 in chips) 
+Lorpugo: posts small blind 10
+leocsoares: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ks]
+morti589: raises 20 to 40
+Lorpugo: folds 
+leocsoares: calls 20
+*** FLOP *** [As 4d 8h]
+leocsoares: checks 
+morti589: bets 40
+leocsoares: calls 40
+*** TURN *** [As 4d 8h] [4s]
+leocsoares: checks 
+morti589: bets 80
+leocsoares: calls 80
+*** RIVER *** [As 4d 8h 4s] [4c]
+leocsoares: checks 
+morti589: bets 340 and is all-in
+leocsoares: calls 340 and is all-in
+*** SHOW DOWN ***
+morti589: shows [7d 9d] (three of a kind, Fours)
+leocsoares: shows [2h Ac] (a full house, Fours full of Aces)
+leocsoares collected 1010 from pot
+morti589 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [As 4d 8h 4s 4c]
+Seat 1: morti589 (button) showed [7d 9d] and lost with three of a kind, Fours
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: leocsoares (big blind) showed [2h Ac] and won (1010) with a full house, Fours full of Aces
+
+
+
+PokerStars Hand #241369920857: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:19:18 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (490 in chips) 
+Seat 3: leocsoares (1010 in chips) 
+leocsoares: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 9s]
+leocsoares: raises 20 to 40
+Lorpugo: calls 20
+*** FLOP *** [Js 3s Ts]
+Lorpugo: checks 
+leocsoares: bets 25
+Lorpugo: calls 25
+*** TURN *** [Js 3s Ts] [7d]
+Lorpugo: checks 
+leocsoares: checks 
+*** RIVER *** [Js 3s Ts 7d] [6s]
+Lorpugo: checks 
+leocsoares: bets 88
+Lorpugo: folds 
+Uncalled bet (88) returned to leocsoares
+leocsoares collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Js 3s Ts 7d 6s]
+Seat 2: Lorpugo (big blind) folded on the River
+Seat 3: leocsoares (button) (small blind) collected (130)
+
+
+
+PokerStars Hand #241369943059: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:20:10 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (425 in chips) 
+Seat 3: leocsoares (1075 in chips) 
+Lorpugo: posts small blind 10
+leocsoares: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 2h]
+Lorpugo: folds 
+Uncalled bet (10) returned to leocsoares
+leocsoares collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: leocsoares (big blind) collected (20)
+
+
+
+PokerStars Hand #241369945323: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:20:16 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (415 in chips) 
+Seat 3: leocsoares (1085 in chips) 
+leocsoares: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Qh]
+leocsoares: calls 10
+Lorpugo: checks 
+*** FLOP *** [3c 5s 2c]
+Lorpugo: checks 
+leocsoares: bets 20
+Lorpugo: calls 20
+*** TURN *** [3c 5s 2c] [8s]
+Lorpugo: checks 
+leocsoares: bets 54
+Lorpugo: folds 
+Uncalled bet (54) returned to leocsoares
+leocsoares collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c 5s 2c 8s]
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: leocsoares (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241369962356: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:20:56 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (375 in chips) 
+Seat 3: leocsoares (1125 in chips) 
+Lorpugo: posts small blind 10
+leocsoares: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Qd]
+Lorpugo: raises 20 to 40
+leocsoares: calls 20
+*** FLOP *** [5d 4c 3h]
+leocsoares: checks 
+Lorpugo: bets 80
+leocsoares: folds 
+Uncalled bet (80) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 4c 3h]
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: leocsoares (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369971367: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 15:21:18 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (415 in chips) 
+Seat 3: leocsoares (1085 in chips) 
+leocsoares: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6s]
+leocsoares: raises 20 to 40
+Lorpugo: folds 
+Uncalled bet (20) returned to leocsoares
+leocsoares collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: leocsoares (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #241369975511: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:21:27 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (395 in chips) 
+Seat 3: leocsoares (1105 in chips) 
+Lorpugo: posts small blind 15
+leocsoares: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Jd]
+Lorpugo: raises 30 to 60
+leocsoares: calls 30
+*** FLOP *** [4d Kh 4h]
+leocsoares: checks 
+Lorpugo: bets 60
+leocsoares: folds 
+Uncalled bet (60) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d Kh 4h]
+Seat 2: Lorpugo (button) (small blind) collected (120)
+Seat 3: leocsoares (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369987650: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:21:56 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (455 in chips) 
+Seat 3: leocsoares (1045 in chips) 
+leocsoares: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jd]
+leocsoares: raises 30 to 60
+Lorpugo: raises 120 to 180
+leocsoares: folds 
+Uncalled bet (120) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (120)
+Seat 3: leocsoares (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369996052: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:22:16 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (515 in chips) 
+Seat 3: leocsoares (985 in chips) 
+Lorpugo: posts small blind 15
+leocsoares: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7d]
+Lorpugo: raises 30 to 60
+leocsoares: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (60)
+Seat 3: leocsoares (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369999404: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:22:24 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (545 in chips) 
+Seat 3: leocsoares (955 in chips) 
+leocsoares: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Qs]
+leocsoares: raises 30 to 60
+Lorpugo: raises 120 to 180
+leocsoares: folds 
+Uncalled bet (120) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (120)
+Seat 3: leocsoares (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370008566: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:22:46 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (605 in chips) 
+Seat 3: leocsoares (895 in chips) 
+Lorpugo: posts small blind 15
+leocsoares: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Ad]
+Lorpugo: raises 30 to 60
+leocsoares: calls 30
+*** FLOP *** [5d Tc Jd]
+leocsoares: checks 
+Lorpugo: bets 60
+leocsoares: folds 
+Uncalled bet (60) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d Tc Jd]
+Seat 2: Lorpugo (button) (small blind) collected (120)
+Seat 3: leocsoares (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241370021598: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:23:17 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (665 in chips) 
+Seat 3: leocsoares (835 in chips) 
+leocsoares: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jh]
+leocsoares: raises 30 to 60
+Lorpugo: folds 
+Uncalled bet (30) returned to leocsoares
+leocsoares collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: leocsoares (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241370028406: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:23:33 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (635 in chips) 
+Seat 3: leocsoares (865 in chips) 
+Lorpugo: posts small blind 15
+leocsoares: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6d]
+Lorpugo: calls 15
+leocsoares: checks 
+*** FLOP *** [Tc Kc Jc]
+leocsoares: checks 
+Lorpugo: checks 
+*** TURN *** [Tc Kc Jc] [2s]
+leocsoares: bets 41
+Lorpugo: calls 41
+*** RIVER *** [Tc Kc Jc 2s] [7h]
+leocsoares: bets 138
+Lorpugo: folds 
+Uncalled bet (138) returned to leocsoares
+leocsoares collected 142 from pot
+*** SUMMARY ***
+Total pot 142 | Rake 0 
+Board [Tc Kc Jc 2s 7h]
+Seat 2: Lorpugo (button) (small blind) folded on the River
+Seat 3: leocsoares (big blind) collected (142)
+
+
+
+PokerStars Hand #241370046802: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 15:24:17 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (564 in chips) 
+Seat 3: leocsoares (936 in chips) 
+leocsoares: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 8h]
+leocsoares: calls 15
+Lorpugo: checks 
+*** FLOP *** [5h 3h Jd]
+Lorpugo: checks 
+leocsoares: checks 
+*** TURN *** [5h 3h Jd] [Td]
+Lorpugo: checks 
+leocsoares: bets 41
+Lorpugo: folds 
+Uncalled bet (41) returned to leocsoares
+leocsoares collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h 3h Jd Td]
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: leocsoares (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241370065555: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:25:01 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (534 in chips) 
+Seat 3: leocsoares (966 in chips) 
+Lorpugo: posts small blind 20
+leocsoares: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 6c]
+Lorpugo: raises 40 to 80
+leocsoares: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: leocsoares (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370069286: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:25:10 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (574 in chips) 
+Seat 3: leocsoares (926 in chips) 
+leocsoares: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 5s]
+leocsoares: calls 20
+Lorpugo: checks 
+*** FLOP *** [Qs 6c Jd]
+Lorpugo: checks 
+leocsoares: bets 40
+Lorpugo: folds 
+Uncalled bet (40) returned to leocsoares
+leocsoares collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 6c Jd]
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: leocsoares (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241370077523: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:25:29 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (534 in chips) 
+Seat 3: leocsoares (966 in chips) 
+Lorpugo: posts small blind 20
+leocsoares: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 9c]
+Lorpugo: folds 
+Uncalled bet (20) returned to leocsoares
+leocsoares collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) folded before Flop
+Seat 3: leocsoares (big blind) collected (40)
+
+
+
+PokerStars Hand #241370079840: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:25:35 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (514 in chips) 
+Seat 3: leocsoares (986 in chips) 
+leocsoares: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 4h]
+leocsoares: calls 20
+Lorpugo: checks 
+*** FLOP *** [2c 2h 3h]
+Lorpugo: bets 40
+leocsoares: calls 40
+*** TURN *** [2c 2h 3h] [4s]
+Lorpugo: bets 434 and is all-in
+leocsoares: folds 
+Uncalled bet (434) returned to Lorpugo
+Lorpugo collected 160 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 2h 3h 4s]
+Seat 2: Lorpugo (big blind) collected (160)
+Seat 3: leocsoares (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241370097632: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:26:17 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (594 in chips) 
+Seat 3: leocsoares (906 in chips) 
+Lorpugo: posts small blind 20
+leocsoares: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qh]
+Lorpugo: raises 40 to 80
+leocsoares: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: leocsoares (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370101105: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:26:25 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (634 in chips) 
+Seat 3: leocsoares (866 in chips) 
+leocsoares: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Kc]
+leocsoares: calls 20
+Lorpugo: raises 80 to 120
+leocsoares: folds 
+Uncalled bet (80) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (80)
+Seat 3: leocsoares (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370107219: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:26:40 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (674 in chips) 
+Seat 3: leocsoares (826 in chips) 
+Lorpugo: posts small blind 20
+leocsoares: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 2s]
+Lorpugo: raises 40 to 80
+leocsoares: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Lorpugo (button) (small blind) collected (80)
+Seat 3: leocsoares (big blind) folded before Flop
+
+
+
+PokerStars Hand #241370110113: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:26:46 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (714 in chips) 
+Seat 3: leocsoares (786 in chips) 
+leocsoares: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 3c]
+leocsoares: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Lorpugo (big blind) collected (40)
+Seat 3: leocsoares (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241370112814: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:26:53 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (734 in chips) 
+Seat 3: leocsoares (766 in chips) 
+Lorpugo: posts small blind 20
+leocsoares: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 8d]
+Lorpugo: raises 40 to 80
+leocsoares: calls 40
+*** FLOP *** [As 3h Th]
+leocsoares: checks 
+Lorpugo: bets 106
+leocsoares: calls 106
+*** TURN *** [As 3h Th] [Tc]
+leocsoares: checks 
+Lorpugo: bets 186
+leocsoares: calls 186
+*** RIVER *** [As 3h Th Tc] [8h]
+leocsoares: checks 
+Lorpugo: bets 362 and is all-in
+leocsoares: calls 362
+*** SHOW DOWN ***
+Lorpugo: shows [Td 8d] (a full house, Tens full of Eights)
+leocsoares: shows [2h Ad] (two pair, Aces and Tens)
+Lorpugo collected 1468 from pot
+*** SUMMARY ***
+Total pot 1468 | Rake 0 
+Board [As 3h Th Tc 8h]
+Seat 2: Lorpugo (button) (small blind) showed [Td 8d] and won (1468) with a full house, Tens full of Eights
+Seat 3: leocsoares (big blind) showed [2h Ad] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #241370134283: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:27:44 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1468 in chips) 
+Seat 3: leocsoares (32 in chips) 
+leocsoares: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2d]
+leocsoares: calls 2 and is all-in
+Uncalled bet (28) returned to Lorpugo
+*** FLOP *** [4h 7h As]
+*** TURN *** [4h 7h As] [5h]
+*** RIVER *** [4h 7h As 5h] [Jd]
+*** SHOW DOWN ***
+Lorpugo: shows [Kc 2d] (high card Ace)
+leocsoares: shows [3c 4d] (a pair of Fours)
+leocsoares collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | Rake 0 
+Board [4h 7h As 5h Jd]
+Seat 2: Lorpugo (big blind) showed [Kc 2d] and lost with high card Ace
+Seat 3: leocsoares (button) (small blind) showed [3c 4d] and won (64) with a pair of Fours
+
+
+
+PokerStars Hand #241370138879: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:27:55 ET
+Table '3537196141 1' 3-max Seat #2 is the button
+Seat 2: Lorpugo (1436 in chips) 
+Seat 3: leocsoares (64 in chips) 
+Lorpugo: posts small blind 30
+leocsoares: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 8c]
+Lorpugo: raises 1376 to 1436 and is all-in
+leocsoares: calls 4 and is all-in
+Uncalled bet (1372) returned to Lorpugo
+*** FLOP *** [Kh Ad 5h]
+*** TURN *** [Kh Ad 5h] [Jh]
+*** RIVER *** [Kh Ad 5h Jh] [Tc]
+*** SHOW DOWN ***
+leocsoares: shows [6d Qc] (a straight, Ten to Ace)
+Lorpugo: shows [As 8c] (a pair of Aces)
+leocsoares collected 128 from pot
+*** SUMMARY ***
+Total pot 128 | Rake 0 
+Board [Kh Ad 5h Jh Tc]
+Seat 2: Lorpugo (button) (small blind) showed [As 8c] and lost with a pair of Aces
+Seat 3: leocsoares (big blind) showed [6d Qc] and won (128) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #241370143923: Tournament #3537196141, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:28:08 ET
+Table '3537196141 1' 3-max Seat #3 is the button
+Seat 2: Lorpugo (1372 in chips) 
+Seat 3: leocsoares (128 in chips) 
+leocsoares: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6c]
+leocsoares: raises 68 to 128 and is all-in
+Lorpugo: calls 68
+*** FLOP *** [2s Ad 2d]
+*** TURN *** [2s Ad 2d] [5s]
+*** RIVER *** [2s Ad 2d 5s] [Jd]
+*** SHOW DOWN ***
+Lorpugo: shows [Ac 6c] (two pair, Aces and Deuces)
+leocsoares: shows [Ks 6d] (a pair of Deuces)
+Lorpugo collected 256 from pot
+leocsoares finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $0.75 - congratulations!
+*** SUMMARY ***
+Total pot 256 | Rake 0 
+Board [2s Ad 2d 5s Jd]
+Seat 2: Lorpugo (big blind) showed [Ac 6c] and won (256) with two pair, Aces and Deuces
+Seat 3: leocsoares (button) (small blind) showed [Ks 6d] and lost with a pair of Deuces
+
+
+

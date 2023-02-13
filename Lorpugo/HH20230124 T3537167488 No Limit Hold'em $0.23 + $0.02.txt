@@ -1,0 +1,1023 @@
+﻿PokerStars Hand #241368140827: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:25:06 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (500 in chips) 
+Seat 2: cristianbr11 (500 in chips) 
+Seat 3: Konrad03 (500 in chips) 
+cristianbr11: posts small blind 10
+Konrad03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 3s]
+Lorpugo: raises 20 to 40
+cristianbr11: calls 30
+Konrad03: calls 20
+*** FLOP *** [2s 2h 2d]
+cristianbr11: bets 460 and is all-in
+Konrad03: folds 
+Lorpugo: folds 
+Uncalled bet (460) returned to cristianbr11
+cristianbr11 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 2h 2d]
+Seat 1: Lorpugo (button) folded on the Flop
+Seat 2: cristianbr11 (small blind) collected (120)
+Seat 3: Konrad03 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241368150131: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:25:29 ET
+Table '3537167488 1' 3-max Seat #2 is the button
+Seat 1: Lorpugo (460 in chips) 
+Seat 2: cristianbr11 (580 in chips) 
+Seat 3: Konrad03 (460 in chips) 
+Konrad03: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Jc]
+cristianbr11: raises 20 to 40
+Konrad03: calls 30
+Lorpugo: folds 
+*** FLOP *** [Ts 5h 6c]
+Konrad03: bets 20
+cristianbr11: calls 20
+*** TURN *** [Ts 5h 6c] [8s]
+Konrad03: bets 20
+cristianbr11: calls 20
+*** RIVER *** [Ts 5h 6c 8s] [5s]
+Konrad03: bets 20
+cristianbr11: raises 100 to 120
+Konrad03: calls 100
+*** SHOW DOWN ***
+cristianbr11: shows [Qh Ad] (a pair of Fives)
+Konrad03: shows [Kh Tc] (two pair, Tens and Fives)
+Konrad03 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Ts 5h 6c 8s 5s]
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 2: cristianbr11 (button) showed [Qh Ad] and lost with a pair of Fives
+Seat 3: Konrad03 (small blind) showed [Kh Tc] and won (420) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #241368164246: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:26:05 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (440 in chips) 
+Seat 2: cristianbr11 (380 in chips) 
+Seat 3: Konrad03 (680 in chips) 
+Lorpugo: posts small blind 10
+cristianbr11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3s]
+Konrad03: calls 20
+Lorpugo: folds 
+cristianbr11: raises 20 to 40
+Konrad03: calls 20
+*** FLOP *** [Ts 4h 8s]
+cristianbr11: bets 20
+Konrad03: calls 20
+*** TURN *** [Ts 4h 8s] [6s]
+cristianbr11: bets 20
+Konrad03: calls 20
+*** RIVER *** [Ts 4h 8s 6s] [5d]
+cristianbr11: bets 20
+Konrad03: calls 20
+*** SHOW DOWN ***
+cristianbr11: shows [Qs 4c] (a pair of Fours)
+Konrad03: shows [5h Jc] (a pair of Fives)
+Konrad03 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Ts 4h 8s 6s 5d]
+Seat 1: Lorpugo (small blind) folded before Flop
+Seat 2: cristianbr11 (big blind) showed [Qs 4c] and lost with a pair of Fours
+Seat 3: Konrad03 (button) showed [5h Jc] and won (210) with a pair of Fives
+
+
+
+PokerStars Hand #241368175190: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:26:33 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (430 in chips) 
+Seat 2: cristianbr11 (280 in chips) 
+Seat 3: Konrad03 (790 in chips) 
+cristianbr11: posts small blind 10
+Konrad03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Td]
+Lorpugo: raises 20 to 40
+cristianbr11: raises 20 to 60
+Konrad03: calls 40
+Lorpugo: raises 370 to 430 and is all-in
+cristianbr11: calls 220 and is all-in
+Konrad03: folds 
+Uncalled bet (150) returned to Lorpugo
+*** FLOP *** [2s 8d 5d]
+*** TURN *** [2s 8d 5d] [4c]
+*** RIVER *** [2s 8d 5d 4c] [Kc]
+*** SHOW DOWN ***
+cristianbr11: shows [7c 3d] (high card King)
+Lorpugo: shows [As Td] (high card Ace)
+Lorpugo collected 620 from pot
+cristianbr11 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [2s 8d 5d 4c Kc]
+Seat 1: Lorpugo (button) showed [As Td] and won (620) with high card Ace
+Seat 2: cristianbr11 (small blind) showed [7c 3d] and lost with high card King
+Seat 3: Konrad03 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241368187000: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:27:03 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (770 in chips) 
+Seat 3: Konrad03 (730 in chips) 
+Konrad03: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4s]
+Konrad03: calls 10
+Lorpugo: checks 
+*** FLOP *** [8h Kd 5s]
+Lorpugo: checks 
+Konrad03: checks 
+*** TURN *** [8h Kd 5s] [2d]
+Lorpugo: checks 
+Konrad03: checks 
+*** RIVER *** [8h Kd 5s 2d] [7c]
+Lorpugo: checks 
+Konrad03: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Td 4s] (high card King)
+Konrad03: shows [3s As] (high card Ace)
+Konrad03 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h Kd 5s 2d 7c]
+Seat 1: Lorpugo (big blind) showed [Td 4s] and lost with high card King
+Seat 3: Konrad03 (button) (small blind) showed [3s As] and won (40) with high card Ace
+
+
+
+PokerStars Hand #241368194774: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:27:23 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (750 in chips) 
+Seat 3: Konrad03 (750 in chips) 
+Lorpugo: posts small blind 10
+Konrad03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5s]
+Lorpugo: folds 
+Uncalled bet (10) returned to Konrad03
+Konrad03 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (20)
+
+
+
+PokerStars Hand #241368196646: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:27:28 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (740 in chips) 
+Seat 3: Konrad03 (760 in chips) 
+Konrad03: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2c]
+Konrad03: calls 10
+Lorpugo: checks 
+*** FLOP *** [8c Kh 6s]
+Lorpugo: checks 
+Konrad03: checks 
+*** TURN *** [8c Kh 6s] [2h]
+Lorpugo: bets 20
+Konrad03: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Kh 6s 2h]
+Seat 1: Lorpugo (big blind) collected (40)
+Seat 3: Konrad03 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241368203236: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:27:45 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (760 in chips) 
+Seat 3: Konrad03 (740 in chips) 
+Lorpugo: posts small blind 10
+Konrad03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 4h]
+Lorpugo: calls 10
+Konrad03: checks 
+*** FLOP *** [5s 7d 8c]
+Konrad03: bets 20
+Lorpugo: folds 
+Uncalled bet (20) returned to Konrad03
+Konrad03 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5s 7d 8c]
+Seat 1: Lorpugo (button) (small blind) folded on the Flop
+Seat 3: Konrad03 (big blind) collected (40)
+
+
+
+PokerStars Hand #241368209816: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:28:01 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (740 in chips) 
+Seat 3: Konrad03 (760 in chips) 
+Konrad03: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d Ks]
+Konrad03: calls 10
+Lorpugo: raises 20 to 40
+Konrad03: calls 20
+*** FLOP *** [8h Th Js]
+Lorpugo: checks 
+Konrad03: bets 20
+Lorpugo: calls 20
+*** TURN *** [8h Th Js] [9h]
+Lorpugo: checks 
+Konrad03: bets 60
+Lorpugo: folds 
+Uncalled bet (60) returned to Konrad03
+Konrad03 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h Th Js 9h]
+Seat 1: Lorpugo (big blind) folded on the Turn
+Seat 3: Konrad03 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241368224055: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:28:38 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (680 in chips) 
+Seat 3: Konrad03 (820 in chips) 
+Lorpugo: posts small blind 15
+Konrad03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5c]
+Lorpugo: calls 15
+Konrad03: raises 30 to 60
+Lorpugo: calls 30
+*** FLOP *** [Jc 8h 9d]
+Konrad03: bets 30
+Lorpugo: folds 
+Uncalled bet (30) returned to Konrad03
+Konrad03 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jc 8h 9d]
+Seat 1: Lorpugo (button) (small blind) folded on the Flop
+Seat 3: Konrad03 (big blind) collected (120)
+
+
+
+PokerStars Hand #241368230260: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:28:54 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (620 in chips) 
+Seat 3: Konrad03 (880 in chips) 
+Konrad03: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7c]
+Konrad03: calls 15
+Lorpugo: checks 
+*** FLOP *** [3h Jc 5d]
+Lorpugo: checks 
+Konrad03: checks 
+*** TURN *** [3h Jc 5d] [Ad]
+Lorpugo: checks 
+Konrad03: checks 
+*** RIVER *** [3h Jc 5d Ad] [8s]
+Lorpugo: checks 
+Konrad03: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5s 7c] (a pair of Fives)
+Konrad03: mucks hand 
+Lorpugo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Jc 5d Ad 8s]
+Seat 1: Lorpugo (big blind) showed [5s 7c] and won (60) with a pair of Fives
+Seat 3: Konrad03 (button) (small blind) mucked [7d 2s]
+
+
+
+PokerStars Hand #241368237443: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:29:12 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (650 in chips) 
+Seat 3: Konrad03 (850 in chips) 
+Lorpugo: posts small blind 15
+Konrad03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 3h]
+Lorpugo: folds 
+Uncalled bet (15) returned to Konrad03
+Konrad03 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (30)
+
+
+
+PokerStars Hand #241368239148: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:29:17 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (635 in chips) 
+Seat 3: Konrad03 (865 in chips) 
+Konrad03: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Th]
+Konrad03: calls 15
+Lorpugo: raises 60 to 90
+Konrad03: folds 
+Uncalled bet (60) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (60)
+Seat 3: Konrad03 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241368243740: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:29:28 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (665 in chips) 
+Seat 3: Konrad03 (835 in chips) 
+Lorpugo: posts small blind 15
+Konrad03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7d]
+Lorpugo: folds 
+Uncalled bet (15) returned to Konrad03
+Konrad03 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (30)
+
+
+
+PokerStars Hand #241368246505: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:29:35 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (650 in chips) 
+Seat 3: Konrad03 (850 in chips) 
+Konrad03: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Kc]
+Konrad03: calls 15
+Lorpugo: raises 620 to 650 and is all-in
+Konrad03: folds 
+Uncalled bet (620) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (60)
+Seat 3: Konrad03 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241368251382: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:29:48 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (680 in chips) 
+Seat 3: Konrad03 (820 in chips) 
+Lorpugo: posts small blind 15
+Konrad03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Ts]
+Lorpugo: raises 30 to 60
+Konrad03: calls 30
+*** FLOP *** [Ac 8c 7h]
+Konrad03: bets 30
+Lorpugo: calls 30
+*** TURN *** [Ac 8c 7h] [2d]
+Konrad03: bets 30
+Lorpugo: calls 30
+*** RIVER *** [Ac 8c 7h 2d] [5d]
+Konrad03: bets 30
+Lorpugo: calls 30
+*** SHOW DOWN ***
+Konrad03: shows [Ah 3s] (a pair of Aces)
+Lorpugo: mucks hand 
+Konrad03 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ac 8c 7h 2d 5d]
+Seat 1: Lorpugo (button) (small blind) mucked [7s Ts]
+Seat 3: Konrad03 (big blind) showed [Ah 3s] and won (300) with a pair of Aces
+
+
+
+PokerStars Hand #241368258820: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:30:07 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (530 in chips) 
+Seat 3: Konrad03 (970 in chips) 
+Konrad03: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4c]
+Konrad03: calls 15
+Lorpugo: raises 500 to 530 and is all-in
+Konrad03: folds 
+Uncalled bet (500) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (60)
+Seat 3: Konrad03 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241368264183: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:30:20 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (560 in chips) 
+Seat 3: Konrad03 (940 in chips) 
+Lorpugo: posts small blind 15
+Konrad03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Ts]
+Lorpugo: raises 30 to 60
+Konrad03: raises 30 to 90
+Lorpugo: calls 30
+*** FLOP *** [Tc 9h 8d]
+Konrad03: bets 30
+Lorpugo: raises 158 to 188
+Konrad03: calls 158
+*** TURN *** [Tc 9h 8d] [3h]
+Konrad03: checks 
+Lorpugo: bets 282 and is all-in
+Konrad03: calls 282
+*** RIVER *** [Tc 9h 8d 3h] [Ad]
+*** SHOW DOWN ***
+Konrad03: shows [6d 6h] (a pair of Sixes)
+Lorpugo: shows [7h Ts] (a pair of Tens)
+Lorpugo collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [Tc 9h 8d 3h Ad]
+Seat 1: Lorpugo (button) (small blind) showed [7h Ts] and won (1120) with a pair of Tens
+Seat 3: Konrad03 (big blind) showed [6d 6h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #241368276021: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:30:50 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (1120 in chips) 
+Seat 3: Konrad03 (380 in chips) 
+Konrad03: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 4h]
+Konrad03: raises 330 to 360
+Lorpugo: folds 
+Uncalled bet (330) returned to Konrad03
+Konrad03 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: Konrad03 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241368281878: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:31:05 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (1090 in chips) 
+Seat 3: Konrad03 (410 in chips) 
+Lorpugo: posts small blind 15
+Konrad03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Js]
+Lorpugo: raises 30 to 60
+Konrad03: calls 30
+*** FLOP *** [Kd 6d 6s]
+Konrad03: bets 30
+Lorpugo: calls 30
+*** TURN *** [Kd 6d 6s] [8c]
+Konrad03: bets 120
+Lorpugo: folds 
+Uncalled bet (120) returned to Konrad03
+Konrad03 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kd 6d 6s 8c]
+Seat 1: Lorpugo (button) (small blind) folded on the Turn
+Seat 3: Konrad03 (big blind) collected (180)
+
+
+
+PokerStars Hand #241368290155: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:31:25 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (1000 in chips) 
+Seat 3: Konrad03 (500 in chips) 
+Konrad03: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qh]
+Konrad03: raises 40 to 80
+Lorpugo: calls 40
+*** FLOP *** [Ts 8c 3h]
+Lorpugo: checks 
+Konrad03: checks 
+*** TURN *** [Ts 8c 3h] [Ah]
+Lorpugo: bets 40
+Konrad03: raises 40 to 80
+Lorpugo: calls 40
+*** RIVER *** [Ts 8c 3h Ah] [4d]
+Lorpugo: checks 
+Konrad03: bets 40
+Lorpugo: folds 
+Uncalled bet (40) returned to Konrad03
+Konrad03 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ts 8c 3h Ah 4d]
+Seat 1: Lorpugo (big blind) folded on the River
+Seat 3: Konrad03 (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #241368299800: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:31:50 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (840 in chips) 
+Seat 3: Konrad03 (660 in chips) 
+Lorpugo: posts small blind 20
+Konrad03: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2s]
+Lorpugo: folds 
+Uncalled bet (20) returned to Konrad03
+Konrad03 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (40)
+
+
+
+PokerStars Hand #241368301467: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:31:54 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (820 in chips) 
+Seat 3: Konrad03 (680 in chips) 
+Konrad03: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7d]
+Konrad03: raises 40 to 80
+Lorpugo: folds 
+Uncalled bet (40) returned to Konrad03
+Konrad03 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: Konrad03 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241368303796: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:32:00 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (780 in chips) 
+Seat 3: Konrad03 (720 in chips) 
+Lorpugo: posts small blind 20
+Konrad03: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd 8c]
+Lorpugo: raises 40 to 80
+Konrad03: calls 40
+*** FLOP *** [3c Ts 9c]
+Konrad03: bets 40
+Lorpugo: calls 40
+*** TURN *** [3c Ts 9c] [4c]
+Konrad03: bets 40
+Lorpugo: raises 160 to 200
+Konrad03: calls 160
+*** RIVER *** [3c Ts 9c 4c] [Kd]
+Konrad03: bets 40
+Lorpugo: raises 420 to 460 and is all-in
+Konrad03: folds 
+Uncalled bet (420) returned to Lorpugo
+Lorpugo collected 720 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [3c Ts 9c 4c Kd]
+Seat 1: Lorpugo (button) (small blind) collected (720)
+Seat 3: Konrad03 (big blind) folded on the River
+
+
+
+PokerStars Hand #241368315799: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:32:31 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (1140 in chips) 
+Seat 3: Konrad03 (360 in chips) 
+Konrad03: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 3s]
+Konrad03: raises 280 to 320
+Lorpugo: folds 
+Uncalled bet (280) returned to Konrad03
+Konrad03 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: Konrad03 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241368318916: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:32:39 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (1100 in chips) 
+Seat 3: Konrad03 (400 in chips) 
+Lorpugo: posts small blind 20
+Konrad03: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jh]
+Lorpugo: calls 20
+Konrad03: raises 320 to 360
+Lorpugo: folds 
+Uncalled bet (320) returned to Konrad03
+Konrad03 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (80)
+
+
+
+PokerStars Hand #241368323012: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:32:49 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (1060 in chips) 
+Seat 3: Konrad03 (440 in chips) 
+Konrad03: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d As]
+Konrad03: raises 400 to 440 and is all-in
+Lorpugo: calls 400
+*** FLOP *** [Ts Qc 7d]
+*** TURN *** [Ts Qc 7d] [Js]
+*** RIVER *** [Ts Qc 7d Js] [Jc]
+*** SHOW DOWN ***
+Lorpugo: shows [4d As] (a pair of Jacks)
+Konrad03: shows [Ad Kd] (a straight, Ten to Ace)
+Konrad03 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Ts Qc 7d Js Jc]
+Seat 1: Lorpugo (big blind) showed [4d As] and lost with a pair of Jacks
+Seat 3: Konrad03 (button) (small blind) showed [Ad Kd] and won (880) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #241368329250: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:33:05 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (620 in chips) 
+Seat 3: Konrad03 (880 in chips) 
+Lorpugo: posts small blind 20
+Konrad03: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h As]
+Lorpugo: raises 40 to 80
+Konrad03: calls 40
+*** FLOP *** [4d Ad Ah]
+Konrad03: bets 40
+Lorpugo: raises 120 to 160
+Konrad03: calls 120
+*** TURN *** [4d Ad Ah] [Qs]
+Konrad03: checks 
+Lorpugo: bets 240
+Konrad03: folds 
+Uncalled bet (240) returned to Lorpugo
+Lorpugo collected 480 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4d Ad Ah Qs]
+Seat 1: Lorpugo (button) (small blind) collected (480)
+Seat 3: Konrad03 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241368339227: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:33:30 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (860 in chips) 
+Seat 3: Konrad03 (640 in chips) 
+Konrad03: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 7h]
+Konrad03: raises 600 to 640 and is all-in
+Lorpugo: folds 
+Uncalled bet (600) returned to Konrad03
+Konrad03 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: Konrad03 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241368342421: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:33:38 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (820 in chips) 
+Seat 3: Konrad03 (680 in chips) 
+Lorpugo: posts small blind 20
+Konrad03: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 5h]
+Lorpugo: calls 20
+Konrad03: checks 
+*** FLOP *** [Jc 3c 7s]
+Konrad03: checks 
+Lorpugo: checks 
+*** TURN *** [Jc 3c 7s] [Ad]
+Konrad03: checks 
+Lorpugo: checks 
+*** RIVER *** [Jc 3c 7s Ad] [3s]
+Konrad03: bets 40
+Lorpugo: raises 106 to 146
+Konrad03: folds 
+Uncalled bet (106) returned to Lorpugo
+Lorpugo collected 160 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jc 3c 7s Ad 3s]
+Seat 1: Lorpugo (button) (small blind) collected (160)
+Seat 3: Konrad03 (big blind) folded on the River
+
+
+
+PokerStars Hand #241368352522: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:34:04 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (900 in chips) 
+Seat 3: Konrad03 (600 in chips) 
+Konrad03: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 2s]
+Konrad03: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (40)
+Seat 3: Konrad03 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241368355259: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:34:11 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (920 in chips) 
+Seat 3: Konrad03 (580 in chips) 
+Lorpugo: posts small blind 30
+Konrad03: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 2h]
+Lorpugo: folds 
+Uncalled bet (30) returned to Konrad03
+Konrad03 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (60)
+
+
+
+PokerStars Hand #241368357052: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:34:15 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (890 in chips) 
+Seat 3: Konrad03 (610 in chips) 
+Konrad03: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2s]
+Konrad03: raises 550 to 610 and is all-in
+Lorpugo: folds 
+Uncalled bet (550) returned to Konrad03
+Konrad03 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: Konrad03 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241368360134: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:34:23 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (830 in chips) 
+Seat 3: Konrad03 (670 in chips) 
+Lorpugo: posts small blind 30
+Konrad03: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9d]
+Lorpugo: raises 60 to 120
+Konrad03: calls 60
+*** FLOP *** [8c 5h 6c]
+Konrad03: bets 60
+Lorpugo: raises 119 to 179
+Konrad03: folds 
+Uncalled bet (119) returned to Lorpugo
+Lorpugo collected 360 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8c 5h 6c]
+Seat 1: Lorpugo (button) (small blind) collected (360)
+Seat 3: Konrad03 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241368366586: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:34:40 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (1010 in chips) 
+Seat 3: Konrad03 (490 in chips) 
+Konrad03: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Tc]
+Konrad03: raises 430 to 490 and is all-in
+Lorpugo: folds 
+Uncalled bet (430) returned to Konrad03
+Konrad03 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: Konrad03 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241368369684: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:34:47 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (950 in chips) 
+Seat 3: Konrad03 (550 in chips) 
+Lorpugo: posts small blind 30
+Konrad03: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Ts]
+Lorpugo: folds 
+Uncalled bet (30) returned to Konrad03
+Konrad03 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (60)
+
+
+
+PokerStars Hand #241368371506: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:34:52 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (920 in chips) 
+Seat 3: Konrad03 (580 in chips) 
+Konrad03: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Ac]
+Konrad03: calls 30
+Lorpugo: raises 860 to 920 and is all-in
+Konrad03: folds 
+Uncalled bet (860) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Lorpugo (big blind) collected (120)
+Seat 3: Konrad03 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241368374900: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:35:00 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (980 in chips) 
+Seat 3: Konrad03 (520 in chips) 
+Lorpugo: posts small blind 30
+Konrad03: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 8s]
+Lorpugo: calls 30
+Konrad03: raises 460 to 520 and is all-in
+Lorpugo: folds 
+Uncalled bet (460) returned to Konrad03
+Konrad03 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (120)
+
+
+
+PokerStars Hand #241368379187: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:35:11 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (920 in chips) 
+Seat 3: Konrad03 (580 in chips) 
+Konrad03: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 2h]
+Konrad03: raises 520 to 580 and is all-in
+Lorpugo: folds 
+Uncalled bet (520) returned to Konrad03
+Konrad03 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Lorpugo (big blind) folded before Flop
+Seat 3: Konrad03 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241368382175: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:35:19 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (860 in chips) 
+Seat 3: Konrad03 (640 in chips) 
+Lorpugo: posts small blind 30
+Konrad03: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 3d]
+Lorpugo: folds 
+Uncalled bet (30) returned to Konrad03
+Konrad03 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Lorpugo (button) (small blind) folded before Flop
+Seat 3: Konrad03 (big blind) collected (60)
+
+
+
+PokerStars Hand #241368384037: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:35:24 ET
+Table '3537167488 1' 3-max Seat #3 is the button
+Seat 1: Lorpugo (830 in chips) 
+Seat 3: Konrad03 (670 in chips) 
+Konrad03: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ts]
+Konrad03: calls 30
+Lorpugo: raises 90 to 150
+Konrad03: calls 90
+*** FLOP *** [Kh 4c Jd]
+Lorpugo: checks 
+Konrad03: checks 
+*** TURN *** [Kh 4c Jd] [4h]
+Lorpugo: bets 99
+Konrad03: folds 
+Uncalled bet (99) returned to Lorpugo
+Lorpugo collected 300 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Kh 4c Jd 4h]
+Seat 1: Lorpugo (big blind) collected (300)
+Seat 3: Konrad03 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241368390636: Tournament #3537167488, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 14:35:40 ET
+Table '3537167488 1' 3-max Seat #1 is the button
+Seat 1: Lorpugo (980 in chips) 
+Seat 3: Konrad03 (520 in chips) 
+Lorpugo: posts small blind 30
+Konrad03: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4d]
+Lorpugo: calls 30
+Konrad03: checks 
+*** FLOP *** [5c Kc 4h]
+Konrad03: bets 60
+Lorpugo: calls 60
+*** TURN *** [5c Kc 4h] [Ts]
+Konrad03: bets 60
+Lorpugo: raises 60 to 120
+Konrad03: calls 60
+*** RIVER *** [5c Kc 4h Ts] [3h]
+Konrad03: bets 240
+Lorpugo: raises 500 to 740 and is all-in
+Konrad03: calls 40 and is all-in
+Uncalled bet (460) returned to Lorpugo
+*** SHOW DOWN ***
+Lorpugo: shows [5d 4d] (two pair, Fives and Fours)
+Konrad03: shows [3c 4c] (two pair, Fours and Threes)
+Lorpugo collected 1040 from pot
+Konrad03 finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $0.75 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [5c Kc 4h Ts 3h]
+Seat 1: Lorpugo (button) (small blind) showed [5d 4d] and won (1040) with two pair, Fives and Fours
+Seat 3: Konrad03 (big blind) showed [3c 4c] and lost with two pair, Fours and Threes
+
+
+

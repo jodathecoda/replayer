@@ -1,0 +1,3541 @@
+﻿PokerStars Hand #241639736137:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:15:58 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2.05 in chips) 
+Seat 2: Sir_bon0 ($3.73 in chips) 
+Seat 3: rafaelfischer ($2.04 in chips) 
+Seat 5: Lorpugo ($1.60 in chips) 
+Seat 6: Mzutter21 ($1.11 in chips) 
+rafaelfischer: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 8d]
+Mzutter21: calls $0.02
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+Lorpugo: checks 
+*** FLOP *** [9s 4c Ad]
+Lorpugo: checks 
+Mzutter21: checks 
+*** TURN *** [9s 4c Ad] [Jd]
+Lorpugo: checks 
+Mzutter21: checks 
+*** RIVER *** [9s 4c Ad Jd] [4s]
+Lorpugo: checks 
+Mzutter21: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [7s 8d] (a pair of Fours)
+Mzutter21: shows [Tc 8s] (a pair of Fours - Ace+Jack+Ten kicker)
+Mzutter21 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9s 4c Ad Jd 4s]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 (button) folded before Flop (didn't bet)
+Seat 3: rafaelfischer (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [7s 8d] and lost with a pair of Fours
+Seat 6: Mzutter21 showed [Tc 8s] and won ($0.05) with a pair of Fours
+
+
+
+PokerStars Hand #241639756426:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:16:37 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2.05 in chips) 
+Seat 2: Sir_bon0 ($3.73 in chips) 
+Seat 3: rafaelfischer ($2.03 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: Mzutter21 ($1.14 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 7s]
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Mzutter21
+Mzutter21 collected $0.02 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #241639768394:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:16:59 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.05 in chips) 
+Seat 2: Sir_bon0 ($3.73 in chips) 
+Seat 3: rafaelfischer ($2.03 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: Mzutter21 ($1.15 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h Jc]
+Sir_bon0: folds 
+rafaelfischer: raises $0.03 to $0.05
+Lorpugo: folds 
+Mzutter21: calls $0.04
+Marti Krayf: calls $0.03
+*** FLOP *** [6c 8d 6h]
+Mzutter21: checks 
+Marti Krayf has timed out
+Marti Krayf: checks 
+rafaelfischer: bets $0.09
+Mzutter21: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.09) returned to rafaelfischer
+rafaelfischer collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c 8d 6h]
+Seat 1: Marti Krayf (big blind) folded on the Flop
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer collected ($0.14)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Mzutter21 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241639811207:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:18:21 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($3.73 in chips) 
+Seat 3: rafaelfischer ($2.12 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: Mzutter21 ($1.10 in chips) 
+Marti Krayf: posts small blind $0.01
+Sir_bon0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 2c]
+rafaelfischer: raises $0.03 to $0.05
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: calls $0.03
+*** FLOP *** [9c 6s 6c]
+Sir_bon0: checks 
+rafaelfischer: bets $0.06
+Sir_bon0: folds 
+Uncalled bet ($0.06) returned to rafaelfischer
+rafaelfischer collected $0.11 from pot
+rafaelfischer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9c 6s 6c]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Sir_bon0 (big blind) folded on the Flop
+Seat 3: rafaelfischer collected ($0.11)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241639834055:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:19:04 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($3.68 in chips) 
+Seat 3: rafaelfischer ($2.18 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: Mzutter21 ($1.10 in chips) 
+Sir_bon0: posts small blind $0.01
+rafaelfischer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 3s]
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: raises $0.03 to $0.05
+Sir_bon0: folds 
+rafaelfischer: folds 
+Uncalled bet ($0.03) returned to Marti Krayf
+Marti Krayf collected $0.05 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (button) collected ($0.05)
+Seat 2: Sir_bon0 (small blind) folded before Flop
+Seat 3: rafaelfischer (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241639842361:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:19:19 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2.03 in chips) 
+Seat 2: Sir_bon0 ($3.67 in chips) 
+Seat 3: rafaelfischer ($2.16 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: Mzutter21 ($1.10 in chips) 
+rafaelfischer: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad Tc]
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 (button) folded before Flop (didn't bet)
+Seat 3: rafaelfischer (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.02)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241639852162:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:19:38 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2.03 in chips) 
+Seat 2: Sir_bon0 ($3.67 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 5: Lorpugo ($1.58 in chips) 
+Seat 6: Mzutter21 ($1.10 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Jc]
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Mzutter21
+Mzutter21 collected $0.02 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #241639863653:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:20:00 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 2: Sir_bon0 ($3.67 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: Mzutter21 ($1.11 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf has timed out
+Sir_bon0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 8c]
+rafaelfischer: folds 
+Lorpugo: folds 
+Mzutter21: calls $0.01
+Sir_bon0: checks 
+*** FLOP *** [4h Kh Qd]
+Marti Krayf is disconnected 
+Mzutter21: bets $0.10
+Sir_bon0: folds 
+Uncalled bet ($0.10) returned to Mzutter21
+Mzutter21 collected $0.04 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4h Kh Qd]
+Seat 2: Sir_bon0 (big blind) folded on the Flop
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Mzutter21 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #241639883376:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:20:37 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 2: Sir_bon0 ($3.65 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: Mzutter21 ($1.13 in chips) 
+Sir_bon0: posts small blind $0.01
+rafaelfischer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 5h]
+Lorpugo: folds 
+Mzutter21: folds 
+Sir_bon0: folds 
+Uncalled bet ($0.01) returned to rafaelfischer
+rafaelfischer collected $0.02 from pot
+rafaelfischer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Sir_bon0 (small blind) folded before Flop
+Seat 3: rafaelfischer (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241639890205:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:20:50 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 2: Sir_bon0 ($3.64 in chips) 
+Seat 3: rafaelfischer ($2.16 in chips) 
+Seat 5: Lorpugo ($1.57 in chips) 
+Seat 6: Mzutter21 ($1.13 in chips) 
+rafaelfischer: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 7c]
+Mzutter21: folds 
+Sir_bon0: raises $0.02 to $0.04
+rafaelfischer: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Sir_bon0
+Sir_bon0 collected $0.05 from pot
+Sir_bon0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Sir_bon0 (button) collected ($0.05)
+Seat 3: rafaelfischer (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241639897780:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:21:05 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 2: Sir_bon0 ($3.67 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 5: Lorpugo ($1.55 in chips) 
+Seat 6: Mzutter21 ($1.13 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6d]
+Sir_bon0: folds 
+rafaelfischer: raises $0.03 to $0.05
+Lorpugo: folds 
+Mzutter21: folds 
+Uncalled bet ($0.03) returned to rafaelfischer
+rafaelfischer collected $0.05 from pot
+rafaelfischer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer (button) collected ($0.05)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241639908918:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:21:26 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.03 in chips) 
+Seat 2: Sir_bon0 ($3.67 in chips) 
+Seat 3: rafaelfischer ($2.18 in chips) 
+Seat 5: Lorpugo ($1.54 in chips) 
+Seat 6: Mzutter21 ($1.11 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 5h]
+Sir_bon0: folds 
+rafaelfischer: folds 
+Lorpugo: raises $0.02 to $0.04
+Mzutter21: calls $0.03
+Marti Krayf: folds 
+*** FLOP *** [Kd 5d Kh]
+Mzutter21: checks 
+Lorpugo: checks 
+*** TURN *** [Kd 5d Kh] [Jc]
+Mzutter21: checks 
+Lorpugo: bets $0.04
+Mzutter21: raises $0.04 to $0.08
+Lorpugo: calls $0.04
+*** RIVER *** [Kd 5d Kh Jc] [Qs]
+Mzutter21: checks 
+Lorpugo: bets $0.17
+Mzutter21: calls $0.17
+*** SHOW DOWN ***
+Lorpugo: shows [Ks 5h] (a full house, Kings full of Fives)
+Mzutter21: mucks hand 
+Lorpugo collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Kd 5d Kh Jc Qs]
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) showed [Ks 5h] and won ($0.58) with a full house, Kings full of Fives
+Seat 6: Mzutter21 (small blind) mucked [Jd 9h]
+
+
+
+PokerStars Hand #241639945484:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:22:36 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2.01 in chips) 
+Seat 2: Sir_bon0 ($3.67 in chips) 
+Seat 3: rafaelfischer ($2.18 in chips) 
+Seat 5: Lorpugo ($1.83 in chips) 
+Seat 6: Mzutter21 ($0.82 in chips) 
+Marti Krayf: posts small blind $0.01
+Sir_bon0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 5s]
+rafaelfischer: folds 
+Lorpugo: raises $0.02 to $0.04
+Mzutter21: calls $0.04
+Marti Krayf: folds 
+Sir_bon0: folds 
+*** FLOP *** [Th Jh 9s]
+Lorpugo: checks 
+Mzutter21: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to Mzutter21
+Mzutter21 collected $0.11 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Th Jh 9s]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Sir_bon0 (big blind) folded before Flop
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Flop
+Seat 6: Mzutter21 (button) collected ($0.11)
+
+
+
+PokerStars Hand #241639962504:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:23:08 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($3.65 in chips) 
+Seat 3: rafaelfischer ($2.18 in chips) 
+Seat 5: Lorpugo ($1.79 in chips) 
+Seat 6: Mzutter21 ($0.89 in chips) 
+Sir_bon0: posts small blind $0.01
+rafaelfischer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 5s]
+Lorpugo: raises $0.02 to $0.04
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+Uncalled bet ($0.02) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Sir_bon0 (small blind) folded before Flop
+Seat 3: rafaelfischer (big blind) folded before Flop
+Seat 5: Lorpugo collected ($0.05)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241639972196:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:23:26 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($3.64 in chips) 
+Seat 3: rafaelfischer ($2.16 in chips) 
+Seat 5: Lorpugo ($1.82 in chips) 
+Seat 6: Mzutter21 ($0.89 in chips) 
+rafaelfischer: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h As]
+Mzutter21: calls $0.02
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+Lorpugo: checks 
+*** FLOP *** [7s 3d Jd]
+Lorpugo: checks 
+Mzutter21: checks 
+*** TURN *** [7s 3d Jd] [9d]
+R_U_Nuut5 leaves the table
+Lorpugo: checks 
+Mzutter21: checks 
+*** RIVER *** [7s 3d Jd 9d] [Jh]
+Lorpugo: checks 
+Mzutter21: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [5h As] (a pair of Jacks)
+Mzutter21: mucks hand 
+Lorpugo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7s 3d Jd 9d Jh]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 (button) folded before Flop (didn't bet)
+Seat 3: rafaelfischer (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [5h As] and won ($0.05) with a pair of Jacks
+Seat 6: Mzutter21 mucked [2d 4s]
+
+
+
+PokerStars Hand #241639991460:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:24:03 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($3.64 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 5: Lorpugo ($1.85 in chips) 
+Seat 6: Mzutter21 ($0.87 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 8h]
+Marti Krayf: folds 
+Sir_bon0: raises $0.04 to $0.06
+rafaelfischer: folds 
+Lorpugo: calls $0.05
+Mzutter21: folds 
+*** FLOP *** [5d Jd Jh]
+Lorpugo: checks 
+Sir_bon0: bets $0.04
+Lorpugo: calls $0.04
+*** TURN *** [5d Jd Jh] [2s]
+Lorpugo: checks 
+Sir_bon0: bets $0.12
+Lorpugo: calls $0.12
+*** RIVER *** [5d Jd Jh 2s] [4c]
+Lorpugo: checks 
+ChampDen joins the table at seat #4 
+Sir_bon0: bets $0.30
+Lorpugo: calls $0.30
+*** SHOW DOWN ***
+Sir_bon0: shows [Th Jc] (three of a kind, Jacks)
+Lorpugo: mucks hand 
+Sir_bon0 collected $1.02 from pot
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [5d Jd Jh 2s 4c]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 showed [Th Jc] and won ($1.02) with three of a kind, Jacks
+Seat 3: rafaelfischer (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) mucked [8d 8h]
+Seat 6: Mzutter21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241640017912:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:24:54 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.14 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 4: ChampDen ($1.49 in chips) 
+Seat 5: Lorpugo ($1.33 in chips) 
+Seat 6: Mzutter21 ($0.85 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2c]
+Sir_bon0: folds 
+rafaelfischer: folds 
+ChampDen: checks 
+Lorpugo: calls $0.02
+Mzutter21: calls $0.01
+Marti Krayf: checks 
+*** FLOP *** [7d 4c Ah]
+Mzutter21: checks 
+Marti Krayf has timed out
+Marti Krayf: checks 
+ChampDen: checks 
+Lorpugo: checks 
+*** TURN *** [7d 4c Ah] [8c]
+Mzutter21: checks 
+Marti Krayf has timed out
+Marti Krayf: checks 
+ChampDen: checks 
+Lorpugo: bets $0.05
+Mzutter21: folds 
+Marti Krayf: folds 
+ChampDen: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7d 4c Ah 8c]
+Seat 1: Marti Krayf (big blind) folded on the Turn
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 4: ChampDen folded on the Turn (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.08)
+Seat 6: Mzutter21 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241640073785:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:26:41 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.14 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 4: ChampDen ($1.47 in chips) 
+Seat 5: Lorpugo ($1.39 in chips) 
+Seat 6: Mzutter21 ($0.83 in chips) 
+Marti Krayf: posts small blind $0.01
+Sir_bon0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Td]
+rafaelfischer: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: folds 
+*** FLOP *** [8c 7h Ts]
+ChampDen: checks 
+Lorpugo: checks 
+*** TURN *** [8c 7h Ts] [5d]
+ChampDen: checks 
+Lorpugo: checks 
+*** RIVER *** [8c 7h Ts 5d] [Kd]
+ChampDen: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+ChampDen: shows [Jd Ac] (high card Ace)
+Lorpugo: shows [Qs Td] (a pair of Tens)
+Lorpugo collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8c 7h Ts 5d Kd]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Sir_bon0 (big blind) folded before Flop
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 4: ChampDen showed [Jd Ac] and lost with high card Ace
+Seat 5: Lorpugo showed [Qs Td] and won ($0.11) with a pair of Tens
+Seat 6: Mzutter21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640103609:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:27:38 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.12 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: Mzutter21 ($0.83 in chips) 
+Sir_bon0: posts small blind $0.01
+rafaelfischer: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ad]
+ChampDen: folds 
+Lorpugo: folds 
+Mzutter21: calls $0.02
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: checks 
+*** FLOP *** [Th Ah Ks]
+rafaelfischer: checks 
+Mzutter21: checks 
+*** TURN *** [Th Ah Ks] [8h]
+rafaelfischer: checks 
+Mzutter21: checks 
+*** RIVER *** [Th Ah Ks 8h] [7c]
+rafaelfischer: checks 
+Mzutter21: bets $0.81 and is all-in
+rafaelfischer: folds [Ac 7d]
+Uncalled bet ($0.81) returned to Mzutter21
+Mzutter21 collected $0.05 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Th Ah Ks 8h 7c]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Sir_bon0 (small blind) folded before Flop
+Seat 3: rafaelfischer (big blind) folded on the River
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 collected ($0.05)
+
+
+
+PokerStars Hand #241640134571:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:28:37 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.11 in chips) 
+Seat 3: rafaelfischer ($2.13 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: Mzutter21 ($0.86 in chips) 
+rafaelfischer: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Ts]
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+Uncalled bet ($0.01) returned to ChampDen
+ChampDen collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 (button) folded before Flop (didn't bet)
+Seat 3: rafaelfischer (small blind) folded before Flop
+Seat 4: ChampDen (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640143012:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:28:54 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.11 in chips) 
+Seat 3: rafaelfischer ($2.12 in chips) 
+Seat 4: ChampDen ($1.44 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: Mzutter21 ($0.86 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 3h]
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: raises $0.03 to $0.05
+ChampDen: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to rafaelfischer
+rafaelfischer collected $0.05 from pot
+rafaelfischer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer (button) collected ($0.05)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640153306:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:29:13 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.11 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.44 in chips) 
+Seat 6: Mzutter21 ($0.86 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Kh]
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+Mzutter21: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 4: ChampDen (button) collected ($0.05)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241640164254:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:29:35 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.11 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.43 in chips) 
+Seat 6: Mzutter21 ($0.84 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s 3c]
+Sir_bon0: folds 
+rafaelfischer: folds 
+ChampDen: folds 
+Lorpugo: raises $0.03 to $0.05
+Mzutter21: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.05)
+Seat 6: Mzutter21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241640172832:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:29:51 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.11 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: Mzutter21 ($0.83 in chips) 
+Marti Krayf: posts small blind $0.01
+Sir_bon0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 9s]
+rafaelfischer: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Sir_bon0 (big blind) folded before Flop
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 4: ChampDen collected ($0.05)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640180543:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:30:06 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 2: Sir_bon0 ($4.09 in chips) 
+Seat 3: rafaelfischer ($2.15 in chips) 
+Seat 4: ChampDen ($1.49 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: Mzutter21 ($0.83 in chips) 
+rafaelfischer: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 7s]
+Lorpugo: folds 
+Mzutter21: calls $0.02
+Sir_bon0: folds 
+rafaelfischer: folds 
+ChampDen: checks 
+*** FLOP *** [3h Ks Ts]
+ChampDen: bets $0.02
+Mzutter21: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h Ks Ts]
+Seat 2: Sir_bon0 (button) folded before Flop (didn't bet)
+Seat 3: rafaelfischer (small blind) folded before Flop
+Seat 4: ChampDen (big blind) collected ($0.05)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 folded on the Flop
+
+
+
+PokerStars Hand #241640195840:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:30:35 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 2: Sir_bon0 ($4.09 in chips) 
+Seat 3: rafaelfischer ($2.14 in chips) 
+Seat 4: ChampDen ($1.52 in chips) 
+Seat 5: Lorpugo ($1.46 in chips) 
+Seat 6: Mzutter21 ($0.81 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Ac]
+Mzutter21: folds 
+Sir_bon0: folds 
+rafaelfischer: raises $0.03 to $0.05
+ChampDen: folds 
+Lorpugo: calls $0.03
+*** FLOP *** [8d 4h 6h]
+Lorpugo: bets $0.06
+rafaelfischer: folds 
+Uncalled bet ($0.06) returned to Lorpugo
+Lorpugo collected $0.11 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8d 4h 6h]
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer (button) folded on the Flop
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.11)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640211297:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:31:05 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.09 in chips) 
+Seat 3: rafaelfischer ($2.09 in chips) 
+Seat 4: ChampDen ($1.51 in chips) 
+Seat 5: Lorpugo ($1.52 in chips) 
+Seat 6: Mzutter21 ($0.81 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 7s]
+Marti Krayf: folds 
+Sir_bon0: folds 
+rafaelfischer: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+Mzutter21: calls $0.02
+*** FLOP *** [Qd 5h 7d]
+Mzutter21: checks 
+ChampDen: checks 
+*** TURN *** [Qd 5h 7d] [8c]
+Mzutter21: checks 
+ChampDen: bets $0.02
+Mzutter21: calls $0.02
+*** RIVER *** [Qd 5h 7d 8c] [Td]
+Mzutter21: checks 
+ChampDen: bets $0.02
+Mzutter21: calls $0.02
+*** SHOW DOWN ***
+ChampDen: shows [As Ks] (high card Ace)
+Mzutter21: shows [Th 9s] (a pair of Tens)
+Mzutter21 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd 5h 7d 8c Td]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 4: ChampDen (button) showed [As Ks] and lost with high card Ace
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) showed [Th 9s] and won ($0.16) with a pair of Tens
+
+
+
+PokerStars Hand #241640232460:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:31:45 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.09 in chips) 
+Seat 3: rafaelfischer ($2.09 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.51 in chips) 
+Seat 6: Mzutter21 ($0.89 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Tc]
+Sir_bon0: folds 
+rafaelfischer: raises $0.03 to $0.05
+ChampDen: folds 
+Lorpugo: calls $0.05
+Mzutter21: folds 
+Marti Krayf: folds 
+*** FLOP *** [Th 2c Qh]
+rafaelfischer: checks 
+Lorpugo: bets $0.09
+rafaelfischer: calls $0.09
+*** TURN *** [Th 2c Qh] [2s]
+rafaelfischer: checks 
+Lorpugo: checks 
+*** RIVER *** [Th 2c Qh 2s] [Js]
+rafaelfischer: bets $1.95 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.95) returned to rafaelfischer
+rafaelfischer collected $0.30 from pot
+rafaelfischer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Th 2c Qh 2s Js]
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 3: rafaelfischer collected ($0.30)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded on the River
+Seat 6: Mzutter21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241640264862:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:32:48 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.09 in chips) 
+Seat 3: rafaelfischer ($2.25 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.37 in chips) 
+Seat 6: Mzutter21 ($0.88 in chips) 
+Marti Krayf: posts small blind $0.01
+Sir_bon0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Tc]
+rafaelfischer: folds 
+ChampDen: folds 
+Lorpugo: raises $0.03 to $0.05
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: calls $0.03
+*** FLOP *** [6d Kd 3d]
+Sir_bon0: checks 
+Lorpugo: checks 
+*** TURN *** [6d Kd 3d] [Kc]
+Sir_bon0: bets $0.10
+Lorpugo: folds 
+Uncalled bet ($0.10) returned to Sir_bon0
+Sir_bon0 collected $0.11 from pot
+Sir_bon0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6d Kd 3d Kc]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Sir_bon0 (big blind) collected ($0.11)
+Seat 3: rafaelfischer folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Turn
+Seat 6: Mzutter21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640283859:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:33:24 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Sir_bon0 ($4.15 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.32 in chips) 
+Seat 6: Mzutter21 ($0.88 in chips) 
+Sir_bon0: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Tc]
+rafaelfischer leaves the table
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: raises $0.03 to $0.05
+rmnczech909 joins the table at seat #3 
+Sir_bon0: folds 
+ChampDen: folds 
+Uncalled bet ($0.03) returned to Marti Krayf
+Marti Krayf collected $0.05 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (button) collected ($0.05)
+Seat 2: Sir_bon0 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640293980:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:33:44 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2.03 in chips) 
+Seat 2: Sir_bon0 ($4.14 in chips) 
+Seat 4: ChampDen ($1.41 in chips) 
+Seat 5: Lorpugo ($1.32 in chips) 
+Seat 6: Mzutter21 ($0.88 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 2s]
+Mzutter21: folds 
+Marti Krayf: folds 
+Sir_bon0: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) collected ($0.04)
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640301834:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:33:59 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2.03 in chips) 
+Seat 2: Sir_bon0 ($4.14 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.30 in chips) 
+Seat 6: Mzutter21 ($0.88 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 3c]
+Marti Krayf: folds 
+Sir_bon0: folds 
+ChampDen: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to Mzutter21
+Mzutter21 collected $0.02 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #241640309745:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:34:14 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.03 in chips) 
+Seat 2: Sir_bon0 ($4.14 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.29 in chips) 
+Seat 6: Mzutter21 ($0.89 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Td]
+Sir_bon0: folds 
+Sir_bon0 leaves the table
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Sir_bon0 folded before Flop (didn't bet)
+Seat 4: ChampDen collected ($0.05)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Mzutter21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241640318155:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:34:31 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2.01 in chips) 
+Seat 3: rmnczech909 ($2 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.29 in chips) 
+Seat 6: Mzutter21 ($0.88 in chips) 
+Marti Krayf: posts small blind $0.01
+rmnczech909: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2h]
+ChampDen: folds 
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.01) returned to rmnczech909
+rmnczech909 collected $0.02 from pot
+rmnczech909: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 3: rmnczech909 (big blind) collected ($0.02)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640322680:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:34:39 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: rmnczech909 ($2.01 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.29 in chips) 
+Seat 6: Mzutter21 ($0.88 in chips) 
+rmnczech909: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 8h]
+Shimaru_42 joins the table at seat #2 
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: raises $0.03 to $0.05
+rmnczech909: raises $0.19 to $0.24
+ChampDen: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.19) returned to rmnczech909
+rmnczech909 collected $0.12 from pot
+rmnczech909: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Marti Krayf (button) folded before Flop
+Seat 3: rmnczech909 (small blind) collected ($0.12)
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640336735:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:35:06 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: rmnczech909 ($2.08 in chips) 
+Seat 4: ChampDen ($1.44 in chips) 
+Seat 5: Lorpugo ($1.29 in chips) 
+Seat 6: Mzutter21 ($0.88 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 9s]
+Mzutter21: calls $0.02
+Marti Krayf: raises $0.08 to $0.10
+rmnczech909: folds 
+ChampDen: folds 
+Lorpugo: folds 
+Mzutter21: calls $0.08
+*** FLOP *** [4c 9c Kd]
+Mzutter21: checks 
+Marti Krayf: bets $0.22
+Mzutter21: folds 
+Uncalled bet ($0.22) returned to Marti Krayf
+Marti Krayf collected $0.22 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [4c 9c Kd]
+Seat 1: Marti Krayf collected ($0.22)
+Seat 3: rmnczech909 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Mzutter21 folded on the Flop
+
+
+
+PokerStars Hand #241640356150:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:35:44 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2.12 in chips) 
+Seat 3: rmnczech909 ($2.08 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.27 in chips) 
+Seat 6: Mzutter21 ($0.78 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 4h]
+Marti Krayf: folds 
+rmnczech909: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+Mzutter21: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 3: rmnczech909 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) collected ($0.05)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241640366930:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:36:05 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.12 in chips) 
+Seat 3: rmnczech909 ($2.08 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.26 in chips) 
+Seat 6: Mzutter21 ($0.76 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 5s]
+rmnczech909: raises $0.03 to $0.05
+ChampDen: folds 
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.03) returned to rmnczech909
+rmnczech909 collected $0.05 from pot
+rmnczech909: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 3: rmnczech909 collected ($0.05)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Mzutter21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241640377524:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:36:26 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2.10 in chips) 
+Seat 2: Shimaru_42 ($2 in chips) 
+Seat 3: rmnczech909 ($2.11 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.26 in chips) 
+Seat 6: Mzutter21 ($0.75 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ad]
+rmnczech909: folds 
+ChampDen: folds 
+Lorpugo: raises $0.03 to $0.05
+Mzutter21: calls $0.05
+Marti Krayf: folds 
+Shimaru_42: folds 
+*** FLOP *** [4c 8h Ks]
+Lorpugo: checks 
+Mzutter21: checks 
+*** TURN *** [4c 8h Ks] [Td]
+Lorpugo: checks 
+Mzutter21: checks 
+*** RIVER *** [4c 8h Ks Td] [7d]
+Lorpugo: checks 
+Mzutter21: bets $0.70 and is all-in
+Lorpugo: folds 
+Uncalled bet ($0.70) returned to Mzutter21
+Mzutter21 collected $0.13 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 8h Ks Td 7d]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Shimaru_42 (big blind) folded before Flop
+Seat 3: rmnczech909 folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the River
+Seat 6: Mzutter21 (button) collected ($0.13)
+
+
+
+PokerStars Hand #241640401126:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:37:12 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2.09 in chips) 
+Seat 2: Shimaru_42 ($1.98 in chips) 
+Seat 3: rmnczech909 ($2.11 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.21 in chips) 
+Seat 6: Mzutter21 ($0.83 in chips) 
+Shimaru_42: posts small blind $0.01
+rmnczech909: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Kc]
+ChampDen: folds 
+Lorpugo: folds 
+Mzutter21: folds 
+Marti Krayf: folds 
+Shimaru_42: raises $0.04 to $0.06
+rmnczech909: calls $0.04
+*** FLOP *** [Td 7c 3h]
+Shimaru_42: checks 
+rmnczech909: checks 
+*** TURN *** [Td 7c 3h] [Tc]
+Shimaru_42: checks 
+rmnczech909: checks 
+*** RIVER *** [Td 7c 3h Tc] [Kd]
+Shimaru_42: checks 
+rmnczech909: checks 
+*** SHOW DOWN ***
+Shimaru_42: shows [4d Ad] (a pair of Tens)
+rmnczech909: mucks hand 
+Shimaru_42 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Td 7c 3h Tc Kd]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) showed [4d Ad] and won ($0.12) with a pair of Tens
+Seat 3: rmnczech909 (big blind) mucked [9d 8h]
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640427986:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:38:04 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2.09 in chips) 
+Seat 2: Shimaru_42 ($2.04 in chips) 
+Seat 3: rmnczech909 ($2.05 in chips) 
+Seat 4: ChampDen ($1.46 in chips) 
+Seat 5: Lorpugo ($1.21 in chips) 
+Seat 6: Mzutter21 ($0.83 in chips) 
+rmnczech909: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh 8d]
+Lorpugo: folds 
+Mzutter21: calls $0.02
+Marti Krayf: folds 
+Shimaru_42: folds 
+rmnczech909: folds 
+ChampDen: checks 
+*** FLOP *** [Kh Ks 5d]
+ChampDen: checks 
+Mzutter21: checks 
+*** TURN *** [Kh Ks 5d] [3c]
+ChampDen: checks 
+Mzutter21: bets $0.12
+ChampDen: folds 
+Uncalled bet ($0.12) returned to Mzutter21
+Mzutter21 collected $0.05 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh Ks 5d 3c]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (button) folded before Flop (didn't bet)
+Seat 3: rmnczech909 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) folded on the Turn
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 collected ($0.05)
+
+
+
+PokerStars Hand #241640454548:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:38:55 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2.09 in chips) 
+Seat 2: Shimaru_42 ($2.04 in chips) 
+Seat 3: rmnczech909 ($2.04 in chips) 
+Seat 4: ChampDen ($1.44 in chips) 
+Seat 5: Lorpugo ($1.21 in chips) 
+Seat 6: Mzutter21 ($0.86 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 8h]
+Mzutter21: calls $0.02
+Marti Krayf: folds 
+Shimaru_42: raises $0.04 to $0.06
+rmnczech909: folds 
+ChampDen: folds 
+Lorpugo: folds 
+Mzutter21: calls $0.04
+*** FLOP *** [4d Th Ac]
+Mzutter21: checks 
+Shimaru_42: bets $0.05
+Mzutter21: calls $0.05
+*** TURN *** [4d Th Ac] [6d]
+Mzutter21: checks 
+Shimaru_42: bets $0.08
+Mzutter21: calls $0.08
+*** RIVER *** [4d Th Ac 6d] [Ks]
+Mzutter21: checks 
+Shimaru_42: checks 
+*** SHOW DOWN ***
+Mzutter21: shows [Ah 7h] (a pair of Aces)
+Shimaru_42: mucks hand 
+Mzutter21 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [4d Th Ac 6d Ks]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 mucked [7c 5c]
+Seat 3: rmnczech909 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: Mzutter21 showed [Ah 7h] and won ($0.40) with a pair of Aces
+
+
+
+PokerStars Hand #241640486090:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:39:55 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2.09 in chips) 
+Seat 2: Shimaru_42 ($1.85 in chips) 
+Seat 3: rmnczech909 ($2.04 in chips) 
+Seat 4: ChampDen ($1.43 in chips) 
+Seat 5: Lorpugo ($1.19 in chips) 
+Seat 6: Mzutter21 ($1.07 in chips) 
+Lorpugo: posts small blind $0.01
+Mzutter21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 7h]
+Marti Krayf: raises $0.04 to $0.06
+Shimaru_42: folds 
+rmnczech909: folds 
+ChampDen: calls $0.06
+Lorpugo: folds 
+Mzutter21: calls $0.04
+*** FLOP *** [Jc Kd Jh]
+Mzutter21: checks 
+Marti Krayf: checks 
+ChampDen: bets $0.02
+Mzutter21: calls $0.02
+Marti Krayf: folds 
+*** TURN *** [Jc Kd Jh] [6c]
+Mzutter21: checks 
+ChampDen: bets $0.04
+Mzutter21: calls $0.04
+*** RIVER *** [Jc Kd Jh 6c] [Ac]
+Mzutter21: checks 
+ChampDen: bets $0.06
+Mzutter21: calls $0.06
+*** SHOW DOWN ***
+ChampDen: shows [Qd Js] (three of a kind, Jacks)
+Mzutter21: mucks hand 
+ChampDen collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Jc Kd Jh 6c Ac]
+Seat 1: Marti Krayf folded on the Flop
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: rmnczech909 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) showed [Qd Js] and won ($0.41) with three of a kind, Jacks
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: Mzutter21 (big blind) mucked [9s Ks]
+
+
+
+PokerStars Hand #241640522190:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:41:05 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.03 in chips) 
+Seat 2: Shimaru_42 ($1.85 in chips) 
+Seat 3: rmnczech909 ($2.04 in chips) 
+Seat 4: ChampDen ($1.66 in chips) 
+Seat 5: Lorpugo ($1.18 in chips) 
+Seat 6: Mzutter21 ($0.89 in chips) 
+Mzutter21: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3s]
+Shimaru_42: folds 
+rmnczech909 has timed out
+rmnczech909: folds 
+ChampDen: folds 
+Lorpugo: folds 
+Mzutter21: calls $0.01
+Marti Krayf: checks 
+*** FLOP *** [5d Jc Kd]
+Mzutter21: checks 
+Marti Krayf: checks 
+*** TURN *** [5d Jc Kd] [7d]
+Mzutter21: bets $0.87 and is all-in
+Marti Krayf: folds 
+Uncalled bet ($0.87) returned to Mzutter21
+Mzutter21 collected $0.04 from pot
+Mzutter21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5d Jc Kd 7d]
+Seat 1: Marti Krayf (big blind) folded on the Turn
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: rmnczech909 folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: Mzutter21 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #241640559032:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:42:16 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2.01 in chips) 
+Seat 2: Shimaru_42 ($1.85 in chips) 
+Seat 4: ChampDen ($1.66 in chips) 
+Seat 5: Lorpugo ($1.18 in chips) 
+Seat 6: Mzutter21 ($0.91 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6d]
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+Mzutter21: folds 
+rmnczech909 leaves the table
+Poker Don1994 joins the table at seat #3 
+Marti Krayf: folds 
+Shimaru_42: calls $0.02
+*** FLOP *** [Kh 9c 5c]
+Shimaru_42: bets $0.07
+ChampDen: folds 
+Uncalled bet ($0.07) returned to Shimaru_42
+Shimaru_42 collected $0.09 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kh 9c 5c]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Shimaru_42 (big blind) collected ($0.09)
+Seat 4: ChampDen folded on the Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640583558:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:43:04 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($1.90 in chips) 
+Seat 3: Poker Don1994 ($2 in chips) 
+Seat 4: ChampDen ($1.62 in chips) 
+Seat 5: Lorpugo ($1.18 in chips) 
+Seat 6: Mzutter21 ($0.91 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 7s]
+ChampDen: calls $0.02
+Lorpugo: folds 
+Mzutter21: calls $0.02
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: checks 
+*** FLOP *** [Qc 2c 3s]
+Poker Don1994: checks 
+ChampDen: bets $0.02
+Mzutter21: calls $0.02
+Poker Don1994: folds 
+*** TURN *** [Qc 2c 3s] [6s]
+ChampDen: bets $0.08
+Mzutter21: calls $0.08
+*** RIVER *** [Qc 2c 3s 6s] [7d]
+ChampDen: bets $0.10
+Mzutter21: folds 
+Uncalled bet ($0.10) returned to ChampDen
+ChampDen collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qc 2c 3s 6s 7d]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) folded before Flop
+Seat 3: Poker Don1994 (big blind) folded on the Flop
+Seat 4: ChampDen collected ($0.26)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: Mzutter21 folded on the River
+
+
+
+PokerStars Hand #241640608627:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:43:52 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($1.89 in chips) 
+Seat 3: Poker Don1994 ($1.98 in chips) 
+Seat 4: ChampDen ($1.76 in chips) 
+Seat 5: Lorpugo ($1.18 in chips) 
+Seat 6: Mzutter21 ($0.79 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc Kh]
+Lorpugo: raises $0.03 to $0.05
+Mzutter21: folds 
+Mzutter21 leaves the table
+Marti Krayf: calls $0.05
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+*** FLOP *** [Jc 2s Kd]
+Lorpugo: checks 
+Marti Krayf: checks 
+*** TURN *** [Jc 2s Kd] [Ts]
+Lorpugo: bets $0.18
+Marti Krayf: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.13 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jc 2s Kd Ts]
+Seat 1: Marti Krayf folded on the Turn
+Seat 2: Shimaru_42 (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo collected ($0.13)
+Seat 6: Mzutter21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640633923:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:44:41 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($1.89 in chips) 
+Seat 3: Poker Don1994 ($1.97 in chips) 
+Seat 4: ChampDen ($1.74 in chips) 
+Seat 5: Lorpugo ($1.26 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Kd]
+Marti Krayf: raises $0.04 to $0.06
+scottamac1984 joins the table at seat #6 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [2d Tc 3h]
+Lorpugo: checks 
+Marti Krayf: bets $0.07
+Lorpugo: folds 
+Uncalled bet ($0.07) returned to Marti Krayf
+Marti Krayf collected $0.13 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d Tc 3h]
+Seat 1: Marti Krayf collected ($0.13)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241640650817:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:45:14 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2.07 in chips) 
+Seat 2: Shimaru_42 ($1.89 in chips) 
+Seat 3: Poker Don1994 ($1.97 in chips) 
+Seat 4: ChampDen ($1.73 in chips) 
+Seat 5: Lorpugo ($1.20 in chips) 
+Seat 6: scottamac1984 ($1.60 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 3s]
+Marti Krayf: folds 
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Uncalled bet ($0.04) returned to Shimaru_42
+Shimaru_42 collected $0.05 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 collected ($0.05)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: scottamac1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241640658972:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:45:29 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.07 in chips) 
+Seat 2: Shimaru_42 ($1.92 in chips) 
+Seat 3: Poker Don1994 ($1.97 in chips) 
+Seat 4: ChampDen ($1.73 in chips) 
+Seat 5: Lorpugo ($1.19 in chips) 
+Seat 6: scottamac1984 ($1.58 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Ad]
+Shimaru_42: folds 
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: calls $0.06
+scottamac1984: folds 
+Marti Krayf: calls $0.04
+*** FLOP *** [3d 6d 5s]
+Marti Krayf: checks 
+Poker Don1994: bets $0.09
+Lorpugo: raises $1.04 to $1.13 and is all-in
+Marti Krayf: folds 
+Poker Don1994: folds 
+Uncalled bet ($1.04) returned to Lorpugo
+Lorpugo collected $0.36 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [3d 6d 5s]
+Seat 1: Marti Krayf (big blind) folded on the Flop
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 folded on the Flop
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.36)
+Seat 6: scottamac1984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241640689187:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:46:28 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2.01 in chips) 
+Seat 2: Shimaru_42 ($1.92 in chips) 
+Seat 3: Poker Don1994 ($1.82 in chips) 
+Seat 4: ChampDen ($1.73 in chips) 
+Seat 5: Lorpugo ($1.40 in chips) 
+Seat 6: scottamac1984 ($1.57 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 5s]
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: calls $0.06
+Marti Krayf: folds 
+Shimaru_42: folds 
+*** FLOP *** [2d 4c Ts]
+Poker Don1994: checks 
+scottamac1984: checks 
+*** TURN *** [2d 4c Ts] [3c]
+Poker Don1994: checks 
+scottamac1984: checks 
+*** RIVER *** [2d 4c Ts 3c] [3d]
+Poker Don1994: checks 
+scottamac1984: checks 
+*** SHOW DOWN ***
+Poker Don1994: shows [Kh Qs] (a pair of Threes)
+scottamac1984: mucks hand 
+Poker Don1994 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2d 4c Ts 3c 3d]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Shimaru_42 (big blind) folded before Flop
+Seat 3: Poker Don1994 showed [Kh Qs] and won ($0.14) with a pair of Threes
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 (button) mucked [Jh Qh]
+
+
+
+PokerStars Hand #241640717144:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:47:23 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($1.90 in chips) 
+Seat 3: Poker Don1994 ($1.90 in chips) 
+Seat 4: ChampDen ($1.73 in chips) 
+Seat 5: Lorpugo ($1.40 in chips) 
+Seat 6: scottamac1984 ($1.51 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jd Kc]
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) folded before Flop
+Seat 3: Poker Don1994 (big blind) folded before Flop
+Seat 4: ChampDen collected ($0.05)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640725431:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:47:39 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($1.89 in chips) 
+Seat 3: Poker Don1994 ($1.88 in chips) 
+Seat 4: ChampDen ($1.76 in chips) 
+Seat 5: Lorpugo ($1.40 in chips) 
+Seat 6: scottamac1984 ($1.51 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ah]
+Lorpugo: raises $0.03 to $0.05
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: calls $0.05
+Poker Don1994: folds 
+ChampDen: folds 
+*** FLOP *** [2h Tc 3c]
+Lorpugo: checks 
+Shimaru_42: bets $0.10
+Lorpugo: calls $0.10
+*** TURN *** [2h Tc 3c] [4c]
+Lorpugo: checks 
+Shimaru_42: bets $0.32
+Lorpugo: folds 
+Uncalled bet ($0.32) returned to Shimaru_42
+Shimaru_42 collected $0.32 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2h Tc 3c 4c]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (button) collected ($0.32)
+Seat 3: Poker Don1994 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo folded on the Turn
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640752368:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:48:31 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($2.06 in chips) 
+Seat 3: Poker Don1994 ($1.87 in chips) 
+Seat 4: ChampDen ($1.74 in chips) 
+Seat 5: Lorpugo ($1.25 in chips) 
+Seat 6: scottamac1984 ($1.51 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d Qc]
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: folds 
+ChampDen: calls $0.05
+Lorpugo: calls $0.04
+*** FLOP *** [3d 5s 9c]
+ChampDen: bets $0.04
+Lorpugo: calls $0.04
+Shimaru_42: calls $0.04
+*** TURN *** [3d 5s 9c] [Ah]
+ChampDen: bets $0.04
+Lorpugo: folds 
+Shimaru_42: calls $0.04
+*** RIVER *** [3d 5s 9c Ah] [Ad]
+ChampDen: bets $0.10
+Shimaru_42: raises $1.82 to $1.92 and is all-in
+ChampDen: folds 
+Uncalled bet ($1.82) returned to Shimaru_42
+Shimaru_42 collected $0.56 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [3d 5s 9c Ah Ad]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 collected ($0.56)
+Seat 3: Poker Don1994 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded on the River
+Seat 5: Lorpugo (big blind) folded on the Turn
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640784501:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:49:34 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($2.38 in chips) 
+Seat 3: Poker Don1994 ($1.87 in chips) 
+Seat 4: ChampDen ($1.50 in chips) 
+Seat 5: Lorpugo ($1.15 in chips) 
+Seat 6: scottamac1984 ($1.51 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5h]
+Marti Krayf: raises $0.04 to $0.06
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: calls $0.04
+*** FLOP *** [2s 9h 5d]
+scottamac1984: checks 
+Marti Krayf: bets $0.04
+scottamac1984: folds 
+Uncalled bet ($0.04) returned to Marti Krayf
+Marti Krayf collected $0.13 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2s 9h 5d]
+Seat 1: Marti Krayf collected ($0.13)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: scottamac1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241640797367:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:50:00 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.07 in chips) 
+Seat 2: Shimaru_42 ($2.38 in chips) 
+Seat 3: Poker Don1994 ($1.87 in chips) 
+Seat 4: ChampDen ($1.50 in chips) 
+Seat 5: Lorpugo ($1.14 in chips) 
+Seat 6: scottamac1984 ($1.45 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 2c]
+Shimaru_42: folds 
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.04) returned to Poker Don1994
+Poker Don1994 collected $0.05 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 collected ($0.05)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: scottamac1984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241640807612:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:50:20 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2.05 in chips) 
+Seat 2: Shimaru_42 ($2.38 in chips) 
+Seat 3: Poker Don1994 ($1.90 in chips) 
+Seat 4: ChampDen ($1.50 in chips) 
+Seat 5: Lorpugo ($1.14 in chips) 
+Seat 6: scottamac1984 ($1.44 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ad 8d]
+Poker Don1994: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: calls $0.04
+scottamac1984: folds 
+Marti Krayf: raises $0.18 to $0.22
+Shimaru_42: folds 
+ChampDen: calls $0.18
+Lorpugo: folds 
+*** FLOP *** [As 4c 6d]
+Marti Krayf: checks 
+ChampDen: checks 
+*** TURN *** [As 4c 6d] [5h]
+Marti Krayf: checks 
+ChampDen: bets $0.04
+Marti Krayf: calls $0.04
+*** RIVER *** [As 4c 6d 5h] [8s]
+Marti Krayf: checks 
+ChampDen: bets $0.14
+Marti Krayf: calls $0.14
+*** SHOW DOWN ***
+ChampDen: shows [Ac Ah] (three of a kind, Aces)
+Marti Krayf: mucks hand 
+ChampDen collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [As 4c 6d 5h 8s]
+Seat 1: Marti Krayf (small blind) mucked [Js Jd]
+Seat 2: Shimaru_42 (big blind) folded before Flop
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen showed [Ac Ah] and won ($0.83) with three of a kind, Aces
+Seat 5: Lorpugo folded before Flop
+Seat 6: scottamac1984 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640842951:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:51:29 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($2.36 in chips) 
+Seat 3: Poker Don1994 ($1.90 in chips) 
+Seat 4: ChampDen ($1.93 in chips) 
+Seat 5: Lorpugo ($1.10 in chips) 
+Seat 6: scottamac1984 ($1.44 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ts]
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: raises $0.04 to $0.06
+Marti Krayf: folds 
+Shimaru_42: calls $0.05
+Poker Don1994: folds 
+*** FLOP *** [5s 7c 8d]
+Shimaru_42: checks 
+scottamac1984: checks 
+*** TURN *** [5s 7c 8d] [Qd]
+Shimaru_42: checks 
+scottamac1984: bets $0.08
+Shimaru_42: folds 
+Uncalled bet ($0.08) returned to scottamac1984
+scottamac1984 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 7c 8d Qd]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) folded on the Turn
+Seat 3: Poker Don1994 (big blind) folded before Flop
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 collected ($0.14)
+
+
+
+PokerStars Hand #241640864670:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:52:12 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($2.30 in chips) 
+Seat 3: Poker Don1994 ($1.88 in chips) 
+Seat 4: ChampDen ($1.93 in chips) 
+Seat 5: Lorpugo ($1.10 in chips) 
+Seat 6: scottamac1984 ($1.52 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 9s]
+Lorpugo: folds 
+scottamac1984: raises $0.04 to $0.06
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: calls $0.05
+ChampDen: folds 
+*** FLOP *** [8d 7c Ah]
+Poker Don1994: checks 
+scottamac1984: bets $0.10
+Poker Don1994: calls $0.10
+*** TURN *** [8d 7c Ah] [4d]
+Poker Don1994: bets $0.16
+scottamac1984: calls $0.16
+*** RIVER *** [8d 7c Ah 4d] [Ks]
+Poker Don1994: bets $0.40
+scottamac1984: folds 
+Uncalled bet ($0.40) returned to Poker Don1994
+Poker Don1994 collected $0.64 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [8d 7c Ah 4d Ks]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) collected ($0.64)
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded on the River
+
+
+
+PokerStars Hand #241640889028:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:53:00 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($2.30 in chips) 
+Seat 3: Poker Don1994 ($2.20 in chips) 
+Seat 4: ChampDen ($1.91 in chips) 
+Seat 5: Lorpugo ($1.90 in chips) 
+Seat 6: scottamac1984 ($1.20 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Td]
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: calls $0.06
+ChampDen: folds 
+Lorpugo: raises $0.19 to $0.25
+Shimaru_42: calls $0.19
+Poker Don1994: calls $0.19
+*** FLOP *** [5s Qd 6c]
+Lorpugo: checks 
+Shimaru_42: bets $0.55
+Poker Don1994: calls $0.55
+Lorpugo: folds 
+*** TURN *** [5s Qd 6c] [7h]
+Shimaru_42: bets $1.34
+Poker Don1994: folds 
+Uncalled bet ($1.34) returned to Shimaru_42
+Shimaru_42 collected $1.79 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [5s Qd 6c 7h]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 collected ($1.79)
+Seat 3: Poker Don1994 (button) folded on the Turn
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded on the Flop
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640919742:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:54:01 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.29 in chips) 
+Seat 3: Poker Don1994 ($1.40 in chips) 
+Seat 4: ChampDen ($1.90 in chips) 
+Seat 5: Lorpugo ($1.65 in chips) 
+Seat 6: scottamac1984 ($1.20 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 6s]
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: raises $0.02 to $0.04
+scottamac1984: calls $0.02
+*** FLOP *** [Qd 2h 6h]
+Lorpugo: bets $0.04
+scottamac1984: folds 
+Uncalled bet ($0.04) returned to Lorpugo
+Lorpugo collected $0.08 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qd 2h 6h]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($0.08)
+Seat 6: scottamac1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241640931909:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:54:25 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.29 in chips) 
+Seat 3: Poker Don1994 ($1.40 in chips) 
+Seat 4: ChampDen ($1.90 in chips) 
+Seat 5: Lorpugo ($1.69 in chips) 
+Seat 6: scottamac1984 ($1.16 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 2h]
+Shimaru_42: folds 
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.04) returned to Poker Don1994
+Poker Don1994 collected $0.05 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 collected ($0.05)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: scottamac1984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241640941627:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:54:44 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.29 in chips) 
+Seat 3: Poker Don1994 ($1.43 in chips) 
+Seat 4: ChampDen ($1.90 in chips) 
+Seat 5: Lorpugo ($1.69 in chips) 
+Seat 6: scottamac1984 ($1.15 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 3d]
+Poker Don1994: folds 
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+scottamac1984: raises $0.08 to $0.12
+Marti Krayf: folds 
+Shimaru_42: folds 
+ChampDen: calls $0.08
+*** FLOP *** [9d Qd Kh]
+ChampDen: checks 
+scottamac1984: bets $0.16
+ChampDen: calls $0.16
+*** TURN *** [9d Qd Kh] [Ks]
+ChampDen: checks 
+scottamac1984: bets $0.36
+ChampDen: calls $0.36
+*** RIVER *** [9d Qd Kh Ks] [7s]
+ChampDen: checks 
+scottamac1984: checks 
+*** SHOW DOWN ***
+ChampDen: shows [6d Ad] (a pair of Kings)
+scottamac1984: shows [Th Ah] (a pair of Kings - Ace+Queen+Ten kicker)
+scottamac1984 collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [9d Qd Kh Ks 7s]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Shimaru_42 (big blind) folded before Flop
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen showed [6d Ad] and lost with a pair of Kings
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 (button) showed [Th Ah] and won ($1.26) with a pair of Kings
+
+
+
+PokerStars Hand #241640969113:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:55:55 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.27 in chips) 
+Seat 3: Poker Don1994 ($1.43 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($1.69 in chips) 
+Seat 6: scottamac1984 ($1.77 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 7d]
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Uncalled bet ($0.01) returned to Poker Don1994
+Poker Don1994 collected $0.02 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) folded before Flop
+Seat 3: Poker Don1994 (big blind) collected ($0.02)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640971783:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:56:03 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.26 in chips) 
+Seat 3: Poker Don1994 ($1.44 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($1.69 in chips) 
+Seat 6: scottamac1984 ($1.77 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7c]
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+Uncalled bet ($0.01) returned to ChampDen
+ChampDen collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) collected ($0.02)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640977575:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:56:22 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.26 in chips) 
+Seat 3: Poker Don1994 ($1.43 in chips) 
+Seat 4: ChampDen ($1.27 in chips) 
+Seat 5: Lorpugo ($1.69 in chips) 
+Seat 6: scottamac1984 ($1.77 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As 5c]
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.02)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241640980819:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:56:32 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.26 in chips) 
+Seat 3: Poker Don1994 ($1.43 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($1.70 in chips) 
+Seat 6: scottamac1984 ($1.77 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Js]
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: raises $0.03 to $0.05
+scottamac1984: calls $0.03
+*** FLOP *** [Ah 9c Kc]
+Lorpugo: bets $0.03
+scottamac1984: calls $0.03
+*** TURN *** [Ah 9c Kc] [4d]
+Lorpugo: checks 
+scottamac1984: bets $0.08
+Lorpugo: folds 
+Uncalled bet ($0.08) returned to scottamac1984
+scottamac1984 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ah 9c Kc 4d]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the Turn
+Seat 6: scottamac1984 (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #241640997461:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:57:25 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.26 in chips) 
+Seat 3: Poker Don1994 ($1.43 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($1.62 in chips) 
+Seat 6: scottamac1984 ($1.84 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+Shimaru_42: folds 
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: calls $0.05
+Marti Krayf: folds 
+*** FLOP *** [5h 4h Qd]
+scottamac1984: checks 
+Poker Don1994: bets $0.07
+scottamac1984: folds 
+Uncalled bet ($0.07) returned to Poker Don1994
+Poker Don1994 collected $0.14 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5h 4h Qd]
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 collected ($0.14)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: scottamac1984 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241641007159:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:57:57 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.26 in chips) 
+Seat 3: Poker Don1994 ($1.51 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($1.62 in chips) 
+Seat 6: scottamac1984 ($1.78 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Kd]
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: raises $0.04 to $0.06
+Marti Krayf: folds 
+Shimaru_42: calls $0.04
+*** FLOP *** [Js Qc 4c]
+Shimaru_42: checks 
+scottamac1984: bets $0.10
+Shimaru_42: folds 
+Uncalled bet ($0.10) returned to scottamac1984
+scottamac1984 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Js Qc 4c]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Shimaru_42 (big blind) folded on the Flop
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 (button) collected ($0.13)
+
+
+
+PokerStars Hand #241641019995:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:58:38 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.20 in chips) 
+Seat 3: Poker Don1994 ($1.51 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($1.62 in chips) 
+Seat 6: scottamac1984 ($1.85 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Jd]
+ChampDen: folds 
+Lorpugo: raises $0.03 to $0.05
+scottamac1984: calls $0.05
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+*** FLOP *** [5d Ad 8c]
+Lorpugo: bets $0.07
+scottamac1984: calls $0.07
+*** TURN *** [5d Ad 8c] [7s]
+Lorpugo: checks 
+scottamac1984: bets $0.10
+Lorpugo: calls $0.10
+*** RIVER *** [5d Ad 8c 7s] [5h]
+Lorpugo: checks 
+scottamac1984: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Td Jd] (a pair of Fives)
+scottamac1984: shows [9d 9c] (two pair, Nines and Fives)
+scottamac1984 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5d Ad 8c 7s 5h]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) folded before Flop
+Seat 3: Poker Don1994 (big blind) folded before Flop
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo showed [Td Jd] and lost with a pair of Fives
+Seat 6: scottamac1984 showed [9d 9c] and won ($0.45) with two pair, Nines and Fives
+
+
+
+PokerStars Hand #241641035072:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:59:25 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.19 in chips) 
+Seat 3: Poker Don1994 ($1.49 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($1.40 in chips) 
+Seat 6: scottamac1984 ($2.08 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5h]
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: raises $0.04 to $0.06
+Shimaru_42: folds 
+Poker Don1994: calls $0.05
+ChampDen: folds 
+*** FLOP *** [9s 5s 8d]
+Poker Don1994: bets $0.07
+Marti Krayf: folds 
+Uncalled bet ($0.07) returned to Poker Don1994
+Poker Don1994 collected $0.14 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9s 5s 8d]
+Seat 1: Marti Krayf folded on the Flop
+Seat 2: Shimaru_42 (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) collected ($0.14)
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641042347:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 15:59:48 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.19 in chips) 
+Seat 3: Poker Don1994 ($1.57 in chips) 
+Seat 4: ChampDen ($1.24 in chips) 
+Seat 5: Lorpugo ($1.40 in chips) 
+Seat 6: scottamac1984 ($2.08 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 6s]
+scottamac1984: raises $0.02 to $0.04
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to scottamac1984
+scottamac1984 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) folded before Flop
+Seat 6: scottamac1984 collected ($0.05)
+
+
+
+PokerStars Hand #241641046713:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:00:02 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.19 in chips) 
+Seat 3: Poker Don1994 ($1.57 in chips) 
+Seat 4: ChampDen ($1.23 in chips) 
+Seat 5: Lorpugo ($1.38 in chips) 
+Seat 6: scottamac1984 ($2.11 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Qs]
+Marti Krayf: folds 
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: folds 
+ChampDen: raises $0.04 to $0.10
+Lorpugo: folds 
+scottamac1984: folds 
+Shimaru_42: calls $0.04
+*** FLOP *** [Ts Jc 4s]
+Shimaru_42: checks 
+ChampDen: checks 
+*** TURN *** [Ts Jc 4s] [As]
+Shimaru_42: bets $0.22
+ChampDen: calls $0.22
+*** RIVER *** [Ts Jc 4s As] [Jh]
+Shimaru_42: checks 
+ChampDen: bets $0.91 and is all-in
+Shimaru_42: calls $0.91
+*** SHOW DOWN ***
+ChampDen: shows [Qd Kc] (a straight, Ten to Ace)
+Shimaru_42: shows [Kh Qc] (a straight, Ten to Ace)
+Shimaru_42 collected $1.20 from pot
+ChampDen collected $1.20 from pot
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.09 
+Board [Ts Jc 4s As Jh]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 showed [Kh Qc] and won ($1.20) with a straight, Ten to Ace
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) showed [Qd Kc] and won ($1.20) with a straight, Ten to Ace
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: scottamac1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241641073246:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:01:18 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.16 in chips) 
+Seat 3: Poker Don1994 ($1.57 in chips) 
+Seat 4: ChampDen ($1.20 in chips) 
+Seat 5: Lorpugo ($1.37 in chips) 
+Seat 6: scottamac1984 ($2.09 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 5s]
+Shimaru_42: folds 
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: calls $0.06
+scottamac1984: calls $0.05
+Marti Krayf: folds 
+*** FLOP *** [Kh 9c Qd]
+scottamac1984: checks 
+Poker Don1994: bets $0.10
+Lorpugo: folds 
+scottamac1984: calls $0.10
+*** TURN *** [Kh 9c Qd] [Ac]
+scottamac1984: checks 
+Poker Don1994: bets $0.20
+scottamac1984: folds 
+Uncalled bet ($0.20) returned to Poker Don1994
+Poker Don1994 collected $0.39 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Kh 9c Qd Ac]
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 collected ($0.39)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded on the Flop
+Seat 6: scottamac1984 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241641094975:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:02:09 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.16 in chips) 
+Seat 3: Poker Don1994 ($1.80 in chips) 
+Seat 4: ChampDen ($1.20 in chips) 
+Seat 5: Lorpugo ($1.31 in chips) 
+Seat 6: scottamac1984 ($1.93 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 8c]
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: calls $0.06
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+*** FLOP *** [Kh 8h 6s]
+Poker Don1994: checks 
+ChampDen: checks 
+*** TURN *** [Kh 8h 6s] [4s]
+Poker Don1994: checks 
+ChampDen: checks 
+*** RIVER *** [Kh 8h 6s 4s] [9h]
+Poker Don1994: bets $0.06
+ChampDen: folds 
+Uncalled bet ($0.06) returned to Poker Don1994
+Poker Don1994 collected $0.14 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kh 8h 6s 4s 9h]
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Shimaru_42 (big blind) folded before Flop
+Seat 3: Poker Don1994 collected ($0.14)
+Seat 4: ChampDen folded on the River
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641116213:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:02:52 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.14 in chips) 
+Seat 3: Poker Don1994 ($1.88 in chips) 
+Seat 4: ChampDen ($1.14 in chips) 
+Seat 5: Lorpugo ($1.31 in chips) 
+Seat 6: scottamac1984 ($1.93 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Jc]
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+scottamac1984: calls $0.04
+Marti Krayf: folds 
+Shimaru_42: raises $0.12 to $0.16
+Poker Don1994: folds 
+ChampDen: folds 
+scottamac1984: calls $0.12
+*** FLOP *** [9d 4c 7c]
+Shimaru_42: bets $0.28
+scottamac1984: calls $0.28
+*** TURN *** [9d 4c 7c] [5h]
+Shimaru_42: bets $0.68
+scottamac1984: folds 
+Uncalled bet ($0.68) returned to Shimaru_42
+Shimaru_42 collected $0.91 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [9d 4c 7c 5h]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) collected ($0.91)
+Seat 3: Poker Don1994 (big blind) folded before Flop
+Seat 4: ChampDen folded before Flop
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded on the Turn
+
+
+
+PokerStars Hand #241641142487:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:03:46 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.61 in chips) 
+Seat 3: Poker Don1994 ($1.86 in chips) 
+Seat 4: ChampDen ($1.10 in chips) 
+Seat 5: Lorpugo ($1.31 in chips) 
+Seat 6: scottamac1984 ($1.49 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Td]
+Lorpugo: raises $0.03 to $0.05
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo collected ($0.05)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641164410:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:04:30 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.61 in chips) 
+Seat 3: Poker Don1994 ($1.85 in chips) 
+Seat 4: ChampDen ($1.08 in chips) 
+Seat 5: Lorpugo ($2 in chips) 
+Seat 6: scottamac1984 ($1.49 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3s Ad]
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.02)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641172448:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:04:46 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.61 in chips) 
+Seat 3: Poker Don1994 ($1.85 in chips) 
+Seat 4: ChampDen ($1.07 in chips) 
+Seat 5: Lorpugo ($2.01 in chips) 
+Seat 6: scottamac1984 ($1.49 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 5d]
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: raises $0.03 to $0.05
+scottamac1984: calls $0.03
+*** FLOP *** [Ts 6d 9s]
+Lorpugo: checks 
+scottamac1984: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to scottamac1984
+scottamac1984 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ts 6d 9s]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) folded on the Flop
+Seat 6: scottamac1984 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #241641190832:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:05:21 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.61 in chips) 
+Seat 3: Poker Don1994 ($1.85 in chips) 
+Seat 4: ChampDen ($1.07 in chips) 
+Seat 5: Lorpugo ($1.96 in chips) 
+Seat 6: scottamac1984 ($1.54 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Qd]
+Shimaru_42: calls $0.02
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: checks 
+*** FLOP *** [7h 6h Jc]
+Marti Krayf: checks 
+Shimaru_42: bets $0.05
+Marti Krayf: folds 
+Uncalled bet ($0.05) returned to Shimaru_42
+Shimaru_42 collected $0.05 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7h 6h Jc]
+Seat 1: Marti Krayf (big blind) folded on the Flop
+Seat 2: Shimaru_42 collected ($0.05)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: scottamac1984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241641208355:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:05:56 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.64 in chips) 
+Seat 3: Poker Don1994 ($1.85 in chips) 
+Seat 4: ChampDen ($1.07 in chips) 
+Seat 5: Lorpugo ($1.96 in chips) 
+Seat 6: scottamac1984 ($1.53 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 6d]
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: raises $0.04 to $0.06
+Shimaru_42: folds 
+Uncalled bet ($0.04) returned to Marti Krayf
+Marti Krayf collected $0.04 from pot
+Marti Krayf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Marti Krayf (small blind) collected ($0.04)
+Seat 2: Shimaru_42 (big blind) folded before Flop
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641217327:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:06:14 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2.02 in chips) 
+Seat 2: Shimaru_42 ($3.62 in chips) 
+Seat 3: Poker Don1994 ($1.85 in chips) 
+Seat 4: ChampDen ($1.07 in chips) 
+Seat 5: Lorpugo ($1.96 in chips) 
+Seat 6: scottamac1984 ($1.53 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc Tc]
+ChampDen: folds 
+Lorpugo: raises $0.03 to $0.05
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: calls $0.03
+*** FLOP *** [Ah 9s 4c]
+Poker Don1994: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to Poker Don1994
+Poker Don1994 collected $0.11 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ah 9s 4c]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) folded before Flop
+Seat 3: Poker Don1994 (big blind) collected ($0.11)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded on the Flop
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641234254:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:06:47 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 2: Shimaru_42 ($3.61 in chips) 
+Seat 3: Poker Don1994 ($1.91 in chips) 
+Seat 4: ChampDen ($1.07 in chips) 
+Seat 5: Lorpugo ($1.91 in chips) 
+Seat 6: scottamac1984 ($1.53 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c Ks]
+Lorpugo: folds 
+scottamac1984: folds 
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: folds 
+ChampDen: calls $0.04
+*** FLOP *** [2h 8c 9c]
+ChampDen: bets $0.02
+Shimaru_42: folds 
+Uncalled bet ($0.02) returned to ChampDen
+ChampDen collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2h 8c 9c]
+Seat 2: Shimaru_42 (button) folded on the Flop
+Seat 3: Poker Don1994 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) collected ($0.13)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641252165:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:07:22 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 2: Shimaru_42 ($3.55 in chips) 
+Seat 3: Poker Don1994 ($1.90 in chips) 
+Seat 4: ChampDen ($1.14 in chips) 
+Seat 5: Lorpugo ($1.91 in chips) 
+Seat 6: scottamac1984 ($1.53 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Jh]
+scottamac1984: folds 
+Shimaru_42: folds 
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [Qd As Tc]
+Lorpugo: checks 
+Poker Don1994: checks 
+*** TURN *** [Qd As Tc] [2s]
+Lorpugo: checks 
+Poker Don1994: checks 
+*** RIVER *** [Qd As Tc 2s] [Qs]
+Lorpugo: checks 
+Poker Don1994: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Td Jh] (two pair, Queens and Tens)
+Poker Don1994: mucks hand 
+Lorpugo collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qd As Tc 2s Qs]
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (button) mucked [9c 8d]
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) showed [Td Jh] and won ($0.13) with two pair, Queens and Tens
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641265919:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:07:49 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 2: Shimaru_42 ($3.55 in chips) 
+Seat 3: Poker Don1994 ($1.84 in chips) 
+Seat 4: ChampDen ($1.13 in chips) 
+Seat 5: Lorpugo ($1.98 in chips) 
+Seat 6: scottamac1984 ($1.53 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Ad]
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: raises $0.14 to $0.20
+scottamac1984: calls $0.18
+Shimaru_42: calls $0.14
+*** FLOP *** [Ts 7s Th]
+Lorpugo: bets $0.22
+scottamac1984: calls $0.22
+Shimaru_42: calls $0.22
+*** TURN *** [Ts 7s Th] [2s]
+Lorpugo: bets $1.56 and is all-in
+scottamac1984: folds 
+Shimaru_42: folds 
+Uncalled bet ($1.56) returned to Lorpugo
+Lorpugo collected $1.22 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.04 
+Board [Ts 7s Th 2s]
+Seat 2: Shimaru_42 folded on the Turn
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) collected ($1.22)
+Seat 6: scottamac1984 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241641295616:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:08:48 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2.02 in chips) 
+Seat 2: Shimaru_42 ($3.13 in chips) 
+Seat 3: Poker Don1994 ($1.84 in chips) 
+Seat 4: ChampDen ($1.13 in chips) 
+Seat 5: Lorpugo ($2.78 in chips) 
+Seat 6: scottamac1984 ($1.11 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Ts]
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.04) returned to Shimaru_42
+Shimaru_42 collected $0.05 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Shimaru_42 collected ($0.05)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded before Flop (didn't bet)
+Seat 6: scottamac1984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241641308099:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:09:12 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.16 in chips) 
+Seat 3: Poker Don1994 ($1.84 in chips) 
+Seat 4: ChampDen ($1.13 in chips) 
+Seat 5: Lorpugo ($2.78 in chips) 
+Seat 6: scottamac1984 ($1.10 in chips) 
+Marti Krayf: posts small blind $0.01
+Shimaru_42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 5s]
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Uncalled bet ($0.04) returned to Poker Don1994
+Poker Don1994 collected $0.05 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 2: Shimaru_42 (big blind) folded before Flop
+Seat 3: Poker Don1994 collected ($0.05)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641314781:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:09:26 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.14 in chips) 
+Seat 3: Poker Don1994 ($1.87 in chips) 
+Seat 4: ChampDen ($1.13 in chips) 
+Seat 5: Lorpugo ($2.78 in chips) 
+Seat 6: scottamac1984 ($1.10 in chips) 
+Shimaru_42: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 8c]
+ChampDen: raises $0.02 to $0.04
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: calls $0.03
+Poker Don1994: calls $0.02
+*** FLOP *** [4h 6s Qd]
+Shimaru_42: checks 
+Poker Don1994: checks 
+ChampDen: checks 
+*** TURN *** [4h 6s Qd] [4c]
+Shimaru_42: checks 
+Poker Don1994: checks 
+ChampDen: checks 
+*** RIVER *** [4h 6s Qd 4c] [Ac]
+Shimaru_42: bets $0.09
+Poker Don1994: folds 
+ChampDen: folds 
+Uncalled bet ($0.09) returned to Shimaru_42
+Shimaru_42 collected $0.12 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4h 6s Qd 4c Ac]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (small blind) collected ($0.12)
+Seat 3: Poker Don1994 (big blind) folded on the River
+Seat 4: ChampDen folded on the River
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641339227:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:10:14 ET
+Table 'Chaka III' 6-max Seat #2 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.22 in chips) 
+Seat 3: Poker Don1994 ($1.83 in chips) 
+Seat 4: ChampDen ($1.09 in chips) 
+Seat 5: Lorpugo ($2.78 in chips) 
+Seat 6: scottamac1984 ($1.10 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 4c]
+Lorpugo: folds 
+scottamac1984: raises $0.04 to $0.06
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: calls $0.05
+ChampDen: raises $0.04 to $0.10
+scottamac1984: calls $0.04
+Poker Don1994: calls $0.04
+*** FLOP *** [Jc 4d Qc]
+Poker Don1994: checks 
+ChampDen: bets $0.06
+scottamac1984: calls $0.06
+Poker Don1994: calls $0.06
+*** TURN *** [Jc 4d Qc] [2c]
+Poker Don1994: checks 
+ChampDen: bets $0.08
+scottamac1984: calls $0.08
+Poker Don1994: calls $0.08
+*** RIVER *** [Jc 4d Qc 2c] [6s]
+Poker Don1994: checks 
+ChampDen: checks 
+scottamac1984: bets $0.20
+Poker Don1994: calls $0.20
+ChampDen: folds 
+*** SHOW DOWN ***
+scottamac1984: shows [Qs Kc] (a pair of Queens)
+Poker Don1994: shows [Qh Js] (two pair, Queens and Jacks)
+Poker Don1994 collected $1.08 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.04 
+Board [Jc 4d Qc 2c 6s]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) showed [Qh Js] and won ($1.08) with two pair, Queens and Jacks
+Seat 4: ChampDen (big blind) folded on the River
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 showed [Qs Kc] and lost with a pair of Queens
+
+
+
+PokerStars Hand #241641384219:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:11:43 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.22 in chips) 
+Seat 3: Poker Don1994 ($2.47 in chips) 
+Seat 4: ChampDen ($0.85 in chips) 
+Seat 5: Lorpugo ($2.78 in chips) 
+Seat 6: scottamac1984 ($0.66 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 8c]
+scottamac1984: folds 
+Marti Krayf: folds 
+Shimaru_42: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.02)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641391786:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:11:58 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.22 in chips) 
+Seat 3: Poker Don1994 ($2.47 in chips) 
+Seat 4: ChampDen ($0.84 in chips) 
+Seat 5: Lorpugo ($2.79 in chips) 
+Seat 6: scottamac1984 ($0.66 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 4c]
+Marti Krayf: raises $0.04 to $0.06
+Shimaru_42: folds 
+Poker Don1994: calls $0.06
+ChampDen: raises $0.04 to $0.10
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: calls $0.04
+Poker Don1994: calls $0.04
+*** FLOP *** [Kh Jd Ad]
+Marti Krayf: checks 
+Poker Don1994: bets $0.16
+ChampDen: calls $0.16
+Marti Krayf: folds 
+*** TURN *** [Kh Jd Ad] [4s]
+Poker Don1994: checks 
+ChampDen: checks 
+*** RIVER *** [Kh Jd Ad 4s] [Ts]
+Poker Don1994: checks 
+ChampDen: bets $0.08
+Poker Don1994: calls $0.08
+*** SHOW DOWN ***
+ChampDen: shows [3c Ac] (a pair of Aces)
+Poker Don1994: mucks hand 
+ChampDen collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [Kh Jd Ad 4s Ts]
+Seat 1: Marti Krayf folded on the Flop
+Seat 2: Shimaru_42 folded before Flop (didn't bet)
+Seat 3: Poker Don1994 mucked [Td 9d]
+Seat 4: ChampDen (button) showed [3c Ac] and won ($0.78) with a pair of Aces
+Seat 5: Lorpugo (small blind) folded before Flop
+Seat 6: scottamac1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #241641440754:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:13:36 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 2: Shimaru_42 ($3.22 in chips) 
+Seat 3: Poker Don1994 ($2.13 in chips) 
+Seat 4: ChampDen ($1.28 in chips) 
+Seat 5: Lorpugo ($2.78 in chips) 
+Seat 6: scottamac1984 ($0.64 in chips) 
+scottamac1984: posts small blind $0.01
+Marti Krayf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 4s]
+Shimaru_42: raises $0.04 to $0.06
+Poker Don1994: folds 
+ChampDen: folds 
+Lorpugo: calls $0.06
+scottamac1984: folds 
+Marti Krayf: folds 
+*** FLOP *** [Jh Ac As]
+Shimaru_42: bets $0.11
+Lorpugo: calls $0.11
+*** TURN *** [Jh Ac As] [Td]
+Shimaru_42: bets $0.27
+Lorpugo: folds 
+Uncalled bet ($0.27) returned to Shimaru_42
+Shimaru_42 collected $0.36 from pot
+Shimaru_42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jh Ac As Td]
+Seat 1: Marti Krayf (big blind) folded before Flop
+Seat 2: Shimaru_42 collected ($0.36)
+Seat 3: Poker Don1994 folded before Flop (didn't bet)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) folded on the Turn
+Seat 6: scottamac1984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #241641477784:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:14:50 ET
+Table 'Chaka III' 6-max Seat #6 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: Poker Don1994 ($2.13 in chips) 
+Seat 4: ChampDen ($1.28 in chips) 
+Seat 5: Lorpugo ($2.61 in chips) 
+Seat 6: scottamac1984 ($0.63 in chips) 
+Marti Krayf: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 7c]
+ChampDen: folds 
+Lorpugo: folds 
+scottamac1984: folds 
+Marti Krayf: folds 
+Uncalled bet ($0.01) returned to Poker Don1994
+Poker Don1994 collected $0.02 from pot
+Poker Don1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 3: Poker Don1994 (big blind) collected ($0.02)
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo folded before Flop (didn't bet)
+Seat 6: scottamac1984 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641485088:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:15:05 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: Poker Don1994 ($2.14 in chips) 
+Seat 4: ChampDen ($1.28 in chips) 
+Seat 5: Lorpugo ($2.61 in chips) 
+Seat 6: scottamac1984 ($0.63 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Ac]
+Lorpugo: raises $0.03 to $0.05
+scottamac1984: folds 
+Marti Krayf: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) folded before Flop
+Seat 4: ChampDen (big blind) folded before Flop
+Seat 5: Lorpugo collected ($0.05)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641493246:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:15:21 ET
+Table 'Chaka III' 6-max Seat #3 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: Poker Don1994 ($2.13 in chips) 
+Seat 4: ChampDen ($1.26 in chips) 
+Seat 5: Lorpugo ($2.64 in chips) 
+Seat 6: scottamac1984 ($0.63 in chips) 
+ChampDen: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8c]
+scottamac1984: folds 
+Marti Krayf: folds 
+Poker Don1994: folds 
+ChampDen: folds 
+Uncalled bet ($0.01) returned to Lorpugo
+Lorpugo collected $0.02 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (button) folded before Flop (didn't bet)
+Seat 4: ChampDen (small blind) folded before Flop
+Seat 5: Lorpugo (big blind) collected ($0.02)
+Seat 6: scottamac1984 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241641496745:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:15:27 ET
+Table 'Chaka III' 6-max Seat #4 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: Poker Don1994 ($2.13 in chips) 
+Seat 4: ChampDen ($1.25 in chips) 
+Seat 5: Lorpugo ($2.65 in chips) 
+Seat 6: scottamac1984 ($0.63 in chips) 
+Lorpugo: posts small blind $0.01
+scottamac1984: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 8s]
+Marti Krayf: folds 
+Poker Don1994: raises $0.04 to $0.06
+ChampDen: folds 
+Lorpugo: calls $0.05
+scottamac1984: calls $0.04
+*** FLOP *** [8h 4c 6h]
+Lorpugo: checks 
+scottamac1984: bets $0.17
+Poker Don1994: folds 
+Lorpugo: raises $2.42 to $2.59 and is all-in
+scottamac1984: calls $0.40 and is all-in
+Uncalled bet ($2.02) returned to Lorpugo
+*** TURN *** [8h 4c 6h] [Td]
+*** RIVER *** [8h 4c 6h Td] [7c]
+*** SHOW DOWN ***
+Lorpugo: shows [7s 8s] (two pair, Eights and Sevens)
+scottamac1984: shows [3h Kh] (high card King)
+Lorpugo collected $1.27 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.05 
+Board [8h 4c 6h Td 7c]
+Seat 1: Marti Krayf folded before Flop (didn't bet)
+Seat 3: Poker Don1994 folded on the Flop
+Seat 4: ChampDen (button) folded before Flop (didn't bet)
+Seat 5: Lorpugo (small blind) showed [7s 8s] and won ($1.27) with two pair, Eights and Sevens
+Seat 6: scottamac1984 (big blind) showed [3h Kh] and lost with high card King
+
+
+
+PokerStars Hand #241641523685:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:16:20 ET
+Table 'Chaka III' 6-max Seat #5 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: Poker Don1994 ($2.07 in chips) 
+Seat 4: ChampDen ($1.25 in chips) 
+Seat 5: Lorpugo ($3.29 in chips) 
+Marti Krayf: posts small blind $0.01
+Poker Don1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah As]
+ChampDen: folds 
+scottamac1984 leaves the table
+Alex1210?26 joins the table at seat #6 
+Lorpugo: raises $0.05 to $0.07
+Marti Krayf: folds 
+Poker Don1994: folds 
+Uncalled bet ($0.05) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Marti Krayf (small blind) folded before Flop
+Seat 3: Poker Don1994 (big blind) folded before Flop
+Seat 4: ChampDen folded before Flop (didn't bet)
+Seat 5: Lorpugo (button) collected ($0.05)
+
+
+
+PokerStars Hand #241641531682:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/02/05 16:16:36 ET
+Table 'Chaka III' 6-max Seat #1 is the button
+Seat 1: Marti Krayf ($2 in chips) 
+Seat 3: Poker Don1994 ($2.05 in chips) 
+Seat 4: ChampDen ($1.25 in chips) 
+Seat 5: Lorpugo ($3.32 in chips) 
+Poker Don1994: posts small blind $0.01
+ChampDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ad]
+Lorpugo: raises $0.03 to $0.05
+Marti Krayf: folds 
+Poker Don1994: calls $0.04
+ChampDen: calls $0.03
+*** FLOP *** [3c Qd 7s]
+Poker Don1994: checks 
+ChampDen: checks 
+Lorpugo: checks 
+*** TURN *** [3c Qd 7s] [Jc]
+Poker Don1994: bets $0.07
+ChampDen: folds 
+Lorpugo: raises $0.18 to $0.25
+Poker Don1994: folds 
+Uncalled bet ($0.18) returned to Lorpugo
+Lorpugo collected $0.28 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3c Qd 7s Jc]
+Seat 1: Marti Krayf (button) folded before Flop (didn't bet)
+Seat 3: Poker Don1994 (small blind) folded on the Turn
+Seat 4: ChampDen (big blind) folded on the Turn
+Seat 5: Lorpugo collected ($0.28)
+
+
+

@@ -1,0 +1,4366 @@
+﻿PokerStars Hand #241187276858:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:47:45 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($2.24 in chips) 
+Seat 3: Lt-Darwin ($1.51 in chips) 
+Seat 4: yellowmash2 ($1.44 in chips) 
+Seat 5: Blaackie ($7.20 in chips) 
+Seat 6: Lorpugo ($1.60 in chips) 
+Blaackie: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 6d]
+DarkSaber29: raises $0.04 to $0.06
+Lt-Darwin: folds 
+yellowmash2: calls $0.06
+Blaackie: folds 
+Lorpugo: folds 
+*** FLOP *** [Kc 2d 2h]
+DarkSaber29: bets $0.09
+yellowmash2: folds 
+Uncalled bet ($0.09) returned to DarkSaber29
+DarkSaber29 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kc 2d 2h]
+Seat 1: DarkSaber29 collected ($0.14)
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) folded on the Flop
+Seat 5: Blaackie (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241187295136:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:48:30 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($2.32 in chips) 
+Seat 3: Lt-Darwin ($1.51 in chips) 
+Seat 4: yellowmash2 ($1.38 in chips) 
+Seat 5: Blaackie ($7.19 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 4d]
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: folds 
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: calls $0.02
+*** FLOP *** [5h 2d Ac]
+DarkSaber29: checks 
+Lt-Darwin: bets $0.06
+DarkSaber29: folds 
+Uncalled bet ($0.06) returned to Lt-Darwin
+Lt-Darwin collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5h 2d Ac]
+Seat 1: DarkSaber29 (big blind) folded on the Flop
+Seat 3: Lt-Darwin collected ($0.09)
+Seat 4: yellowmash2 folded before Flop (didn't bet)
+Seat 5: Blaackie (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241187305637:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:48:57 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($2.28 in chips) 
+Seat 2: SpringsPike ($0.80 in chips) 
+Seat 3: Lt-Darwin ($1.56 in chips) 
+Seat 4: yellowmash2 ($1.38 in chips) 
+Seat 5: Blaackie ($7.19 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 3s]
+Lt-Darwin: folds 
+yellowmash2: calls $0.02
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: calls $0.01
+SpringsPike: checks 
+*** FLOP *** [8c 2h 4c]
+DarkSaber29: checks 
+SpringsPike: bets $0.06
+yellowmash2: folds 
+DarkSaber29: folds 
+Uncalled bet ($0.06) returned to SpringsPike
+SpringsPike collected $0.06 from pot
+SpringsPike: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8c 2h 4c]
+Seat 1: DarkSaber29 (small blind) folded on the Flop
+Seat 2: SpringsPike (big blind) collected ($0.06)
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 folded on the Flop
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187322893:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:49:40 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($2.26 in chips) 
+Seat 2: SpringsPike ($0.84 in chips) 
+Seat 3: Lt-Darwin ($1.56 in chips) 
+Seat 4: yellowmash2 ($1.36 in chips) 
+Seat 5: Blaackie ($7.19 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+SpringsPike: posts small blind $0.01
+Lt-Darwin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7h 6s]
+yellowmash2: calls $0.02
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: checks 
+*** FLOP *** [Jc Kc 5s]
+Lt-Darwin: checks 
+yellowmash2: bets $0.26
+Lt-Darwin: folds 
+Uncalled bet ($0.26) returned to yellowmash2
+yellowmash2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc Kc 5s]
+Seat 1: DarkSaber29 (button) folded before Flop (didn't bet)
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 3: Lt-Darwin (big blind) folded on the Flop
+Seat 4: yellowmash2 collected ($0.05)
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187335101:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:50:11 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($2.26 in chips) 
+Seat 2: SpringsPike ($0.83 in chips) 
+Seat 3: Lt-Darwin ($1.54 in chips) 
+Seat 4: yellowmash2 ($1.39 in chips) 
+Seat 5: Blaackie ($7.19 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+Lt-Darwin: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2h]
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: calls $0.01
+yellowmash2: checks 
+*** FLOP *** [8h Ac Th]
+Lt-Darwin: bets $0.02
+yellowmash2: calls $0.02
+*** TURN *** [8h Ac Th] [Tc]
+Lt-Darwin: bets $0.06
+yellowmash2: calls $0.06
+*** RIVER *** [8h Ac Th Tc] [2c]
+Lt-Darwin: bets $0.16
+yellowmash2: folds 
+Uncalled bet ($0.16) returned to Lt-Darwin
+Lt-Darwin collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8h Ac Th Tc 2c]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (small blind) collected ($0.19)
+Seat 4: yellowmash2 (big blind) folded on the River
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187352500:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:50:54 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($2.26 in chips) 
+Seat 2: SpringsPike ($0.83 in chips) 
+Seat 3: Lt-Darwin ($1.63 in chips) 
+Seat 4: yellowmash2 ($1.29 in chips) 
+Seat 5: Blaackie ($7.19 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+yellowmash2: posts small blind $0.01
+Blaackie: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h As]
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: folds 
+yellowmash2: calls $0.01
+Blaackie: checks 
+*** FLOP *** [2d 7c 4c]
+yellowmash2: checks 
+Blaackie: checks 
+*** TURN *** [2d 7c 4c] [Qc]
+yellowmash2: checks 
+Blaackie: checks 
+*** RIVER *** [2d 7c 4c Qc] [9h]
+yellowmash2: checks 
+Blaackie: checks 
+*** SHOW DOWN ***
+yellowmash2: shows [Js 6c] (high card Queen)
+Blaackie: shows [Jh 2s] (a pair of Deuces)
+Blaackie collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2d 7c 4c Qc 9h]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (button) folded before Flop (didn't bet)
+Seat 4: yellowmash2 (small blind) showed [Js 6c] and lost with high card Queen
+Seat 5: Blaackie (big blind) showed [Jh 2s] and won ($0.04) with a pair of Deuces
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187368937:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:51:35 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($2.26 in chips) 
+Seat 2: SpringsPike ($0.83 in chips) 
+Seat 3: Lt-Darwin ($1.63 in chips) 
+Seat 4: yellowmash2 ($1.27 in chips) 
+Seat 5: Blaackie ($7.21 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+Blaackie: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d Tc]
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: folds 
+yellowmash2: calls $0.02
+Blaackie: folds 
+Lorpugo: checks 
+*** FLOP *** [2s 6s 3c]
+Lorpugo: checks 
+yellowmash2: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to yellowmash2
+yellowmash2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s 6s 3c]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) collected ($0.05)
+Seat 5: Blaackie (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241187382553:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:52:10 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($2.26 in chips) 
+Seat 2: SpringsPike ($0.83 in chips) 
+Seat 3: Lt-Darwin ($1.63 in chips) 
+Seat 4: yellowmash2 ($1.30 in chips) 
+Seat 5: Blaackie ($7.20 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js 4s]
+SpringsPike: folds 
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: raises $0.02 to $0.06
+Blaackie: calls $0.06
+Lorpugo: folds 
+DarkSaber29: folds 
+Lt-Darwin: calls $0.02
+*** FLOP *** [Kd 4d 5c]
+Lt-Darwin: checks 
+yellowmash2: bets $0.02
+Blaackie: folds 
+Lt-Darwin: calls $0.02
+*** TURN *** [Kd 4d 5c] [Tc]
+Lt-Darwin: checks 
+yellowmash2: checks 
+*** RIVER *** [Kd 4d 5c Tc] [Jc]
+Lt-Darwin: checks 
+yellowmash2: checks 
+*** SHOW DOWN ***
+Lt-Darwin: shows [7h As] (high card Ace)
+yellowmash2: mucks hand 
+Lt-Darwin collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd 4d 5c Tc Jc]
+Seat 1: DarkSaber29 (big blind) folded before Flop
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin showed [7h As] and won ($0.24) with high card Ace
+Seat 4: yellowmash2 mucked [8c Qs]
+Seat 5: Blaackie (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241187406306:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:53:09 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($2.24 in chips) 
+Seat 2: SpringsPike ($0.83 in chips) 
+Seat 3: Lt-Darwin ($1.79 in chips) 
+Seat 4: yellowmash2 ($1.22 in chips) 
+Seat 5: Blaackie ($7.14 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9c]
+Lt-Darwin: raises $0.04 to $0.06
+yellowmash2: folds 
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: calls $0.04
+*** FLOP *** [2h 3d Kc]
+SpringsPike: checks 
+Lt-Darwin: bets $0.04
+SpringsPike: folds 
+Uncalled bet ($0.04) returned to Lt-Darwin
+Lt-Darwin collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2h 3d Kc]
+Seat 1: DarkSaber29 (small blind) folded before Flop
+Seat 2: SpringsPike (big blind) folded on the Flop
+Seat 3: Lt-Darwin collected ($0.13)
+Seat 4: yellowmash2 folded before Flop (didn't bet)
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187419770:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:53:43 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($2.23 in chips) 
+Seat 2: SpringsPike ($0.77 in chips) 
+Seat 3: Lt-Darwin ($1.86 in chips) 
+Seat 4: yellowmash2 ($1.22 in chips) 
+Seat 5: Blaackie ($7.14 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+SpringsPike: posts small blind $0.01
+Lt-Darwin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 2c]
+yellowmash2: raises $0.02 to $0.04
+Blaackie: calls $0.04
+Lorpugo: folds 
+DarkSaber29: calls $0.04
+SpringsPike: calls $0.03
+Lt-Darwin: calls $0.02
+*** FLOP *** [2s 4h Kh]
+SpringsPike: bets $0.10
+Lt-Darwin: folds 
+yellowmash2: folds 
+Blaackie: calls $0.10
+DarkSaber29: folds 
+*** TURN *** [2s 4h Kh] [Jd]
+SpringsPike: bets $0.20
+Blaackie: calls $0.20
+*** RIVER *** [2s 4h Kh Jd] [Kc]
+SpringsPike: bets $0.20
+Blaackie: calls $0.20
+*** SHOW DOWN ***
+SpringsPike: shows [Ts Ks] (three of a kind, Kings)
+Blaackie: mucks hand 
+SpringsPike collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [2s 4h Kh Jd Kc]
+Seat 1: DarkSaber29 (button) folded on the Flop
+Seat 2: SpringsPike (small blind) showed [Ts Ks] and won ($1.15) with three of a kind, Kings
+Seat 3: Lt-Darwin (big blind) folded on the Flop
+Seat 4: yellowmash2 folded on the Flop
+Seat 5: Blaackie mucked [As Qs]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187448154:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:54:54 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($2.19 in chips) 
+Seat 2: SpringsPike ($1.38 in chips) 
+Seat 3: Lt-Darwin ($1.82 in chips) 
+Seat 4: yellowmash2 ($1.18 in chips) 
+Seat 5: Blaackie ($6.60 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+Lt-Darwin: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 2c]
+Blaackie: folds 
+Lorpugo: raises $0.03 to $0.05
+DarkSaber29: calls $0.05
+SpringsPike: folds 
+Lt-Darwin: calls $0.04
+yellowmash2: calls $0.03
+*** FLOP *** [7d 7c Td]
+Lt-Darwin: bets $0.10
+yellowmash2: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+Uncalled bet ($0.10) returned to Lt-Darwin
+Lt-Darwin collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7d 7c Td]
+Seat 1: DarkSaber29 folded on the Flop
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (small blind) collected ($0.19)
+Seat 4: yellowmash2 (big blind) folded on the Flop
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #241187458684:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:55:28 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($2.14 in chips) 
+Seat 2: SpringsPike ($1.38 in chips) 
+Seat 3: Lt-Darwin ($1.96 in chips) 
+Seat 4: yellowmash2 ($1.13 in chips) 
+Seat 5: Blaackie ($6.60 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+yellowmash2: posts small blind $0.01
+Blaackie: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 4d]
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: calls $0.03
+Blaackie: raises $0.20 to $0.24
+Lt-Darwin: folds 
+yellowmash2: folds 
+Uncalled bet ($0.20) returned to Blaackie
+Blaackie collected $0.12 from pot
+Blaackie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (button) folded before Flop
+Seat 4: yellowmash2 (small blind) folded before Flop
+Seat 5: Blaackie (big blind) collected ($0.12)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187477059:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:56:32 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($2.14 in chips) 
+Seat 2: SpringsPike ($1.38 in chips) 
+Seat 3: Lt-Darwin ($1.92 in chips) 
+Seat 4: yellowmash2 ($1.09 in chips) 
+Seat 5: Blaackie ($6.68 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+Blaackie: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Ah]
+DarkSaber29: raises $0.02 to $0.04
+SpringsPike: calls $0.04
+Lt-Darwin: raises $0.15 to $0.19
+yellowmash2: folds 
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Uncalled bet ($0.15) returned to Lt-Darwin
+Lt-Darwin collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop
+Seat 2: SpringsPike folded before Flop
+Seat 3: Lt-Darwin collected ($0.15)
+Seat 4: yellowmash2 (button) folded before Flop (didn't bet)
+Seat 5: Blaackie (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241187484068:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:56:56 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($2.10 in chips) 
+Seat 2: SpringsPike ($1.34 in chips) 
+Seat 3: Lt-Darwin ($2.03 in chips) 
+Seat 4: yellowmash2 ($1.09 in chips) 
+Seat 5: Blaackie ($6.67 in chips) 
+Seat 6: Lorpugo ($1.47 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Jh]
+SpringsPike: folds 
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: folds 
+Blaackie: raises $0.06 to $0.10
+Lorpugo: calls $0.09
+DarkSaber29: folds 
+Lt-Darwin: calls $0.06
+*** FLOP *** [Ks Jd 3c]
+Lorpugo: checks 
+Lt-Darwin: checks 
+Blaackie: bets $0.16
+Lorpugo: calls $0.16
+Lt-Darwin: calls $0.16
+*** TURN *** [Ks Jd 3c] [Kc]
+Lorpugo: checks 
+Lt-Darwin: checks 
+Blaackie: checks 
+*** RIVER *** [Ks Jd 3c Kc] [9c]
+Lorpugo: checks 
+Lt-Darwin: bets $0.42
+Blaackie: folds 
+Lorpugo: calls $0.42
+*** SHOW DOWN ***
+Lt-Darwin: shows [Tc 8c] (a flush, King high)
+Lorpugo: mucks hand 
+Lt-Darwin collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.06 
+Board [Ks Jd 3c Kc 9c]
+Seat 1: DarkSaber29 (big blind) folded before Flop
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin showed [Tc 8c] and won ($1.58) with a flush, King high
+Seat 4: yellowmash2 folded before Flop (didn't bet)
+Seat 5: Blaackie (button) folded on the River
+Seat 6: Lorpugo (small blind) mucked [As Jh]
+
+
+
+PokerStars Hand #241187507969:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:58:18 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($2.08 in chips) 
+Seat 2: SpringsPike ($1.34 in chips) 
+Seat 3: Lt-Darwin ($2.93 in chips) 
+Seat 4: yellowmash2 ($1.09 in chips) 
+Seat 5: Blaackie ($6.41 in chips) 
+Seat 6: Lorpugo ($0.79 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Ts]
+Lt-Darwin: calls $0.02
+yellowmash2: calls $0.02
+Blaackie: folds 
+Lorpugo: raises $0.14 to $0.16
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: calls $0.14
+yellowmash2: calls $0.14
+*** FLOP *** [As 9d 8d]
+Lt-Darwin: checks 
+yellowmash2: bets $0.02
+Lorpugo: calls $0.02
+Lt-Darwin: calls $0.02
+*** TURN *** [As 9d 8d] [Ac]
+Lt-Darwin: checks 
+yellowmash2: checks 
+Lorpugo: checks 
+*** RIVER *** [As 9d 8d Ac] [Ks]
+Lt-Darwin: checks 
+yellowmash2: bets $0.55
+Lorpugo: calls $0.55
+Lt-Darwin: folds 
+*** SHOW DOWN ***
+yellowmash2: shows [3d 5s] (a pair of Aces)
+Lorpugo: shows [Kh Ts] (two pair, Aces and Kings)
+Lorpugo collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.06 
+Board [As 9d 8d Ac Ks]
+Seat 1: DarkSaber29 (small blind) folded before Flop
+Seat 2: SpringsPike (big blind) folded before Flop
+Seat 3: Lt-Darwin folded on the River
+Seat 4: yellowmash2 showed [3d 5s] and lost with a pair of Aces
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) showed [Kh Ts] and won ($1.61) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #241187525150:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:59:16 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($2.07 in chips) 
+Seat 2: SpringsPike ($1.32 in chips) 
+Seat 3: Lt-Darwin ($2.75 in chips) 
+Seat 4: yellowmash2 ($0.36 in chips) 
+Seat 5: Blaackie ($6.41 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+SpringsPike: posts small blind $0.01
+Lt-Darwin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 2c]
+yellowmash2: folds 
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: raises $0.02 to $0.04
+SpringsPike: folds 
+Lt-Darwin: calls $0.02
+*** FLOP *** [2h 3c Qs]
+Lt-Darwin: checks 
+DarkSaber29: bets $0.06
+Lt-Darwin: folds 
+Uncalled bet ($0.06) returned to DarkSaber29
+DarkSaber29 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2h 3c Qs]
+Seat 1: DarkSaber29 (button) collected ($0.09)
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 3: Lt-Darwin (big blind) folded on the Flop
+Seat 4: yellowmash2 folded before Flop (didn't bet)
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187533406:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 12:59:44 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($2.12 in chips) 
+Seat 2: SpringsPike ($1.31 in chips) 
+Seat 3: Lt-Darwin ($2.71 in chips) 
+Seat 4: yellowmash2 ($0.36 in chips) 
+Seat 5: Blaackie ($6.41 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+Lt-Darwin: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c Qh]
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: raises $0.04 to $0.06
+SpringsPike: folds 
+Lt-Darwin: calls $0.05
+yellowmash2: raises $0.30 to $0.36 and is all-in
+DarkSaber29: folds 
+Lt-Darwin: calls $0.30
+*** FLOP *** [4c 9h Js]
+*** TURN *** [4c 9h Js] [Ks]
+*** RIVER *** [4c 9h Js Ks] [2s]
+*** SHOW DOWN ***
+Lt-Darwin: shows [4d Ac] (a pair of Fours)
+yellowmash2: shows [Kh 9s] (two pair, Kings and Nines)
+yellowmash2 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [4c 9h Js Ks 2s]
+Seat 1: DarkSaber29 folded before Flop
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (small blind) showed [4d Ac] and lost with a pair of Fours
+Seat 4: yellowmash2 (big blind) showed [Kh 9s] and won ($0.75) with two pair, Kings and Nines
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187543846:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:00:18 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($2.06 in chips) 
+Seat 2: SpringsPike ($1.31 in chips) 
+Seat 3: Lt-Darwin ($2.35 in chips) 
+Seat 4: yellowmash2 ($0.75 in chips) 
+Seat 5: Blaackie ($6.41 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+yellowmash2: posts small blind $0.01
+Blaackie: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 5s]
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: calls $0.03
+Blaackie: calls $0.02
+*** FLOP *** [5h Jc Jh]
+yellowmash2: bets $0.02
+Blaackie: calls $0.02
+Lt-Darwin: raises $0.06 to $0.08
+yellowmash2: calls $0.06
+Blaackie: folds 
+*** TURN *** [5h Jc Jh] [Ah]
+yellowmash2: checks 
+Lt-Darwin: bets $0.12
+yellowmash2: folds 
+Uncalled bet ($0.12) returned to Lt-Darwin
+Lt-Darwin collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [5h Jc Jh Ah]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (button) collected ($0.29)
+Seat 4: yellowmash2 (small blind) folded on the Turn
+Seat 5: Blaackie (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187561833:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:01:12 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($2.06 in chips) 
+Seat 2: SpringsPike ($1.31 in chips) 
+Seat 3: Lt-Darwin ($2.52 in chips) 
+Seat 4: yellowmash2 ($0.63 in chips) 
+Seat 5: Blaackie ($6.35 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+Blaackie: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c Th]
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: folds 
+yellowmash2: calls $0.02
+Blaackie: raises $0.08 to $0.10
+Lorpugo: folds 
+yellowmash2: calls $0.08
+*** FLOP *** [2d Ts 3h]
+Blaackie: checks 
+yellowmash2: bets $0.21
+Blaackie: calls $0.21
+*** TURN *** [2d Ts 3h] [2h]
+Blaackie: checks 
+yellowmash2: checks 
+*** RIVER *** [2d Ts 3h 2h] [4s]
+Blaackie: bets $6.04 and is all-in
+yellowmash2: folds 
+Uncalled bet ($6.04) returned to Blaackie
+Blaackie collected $0.62 from pot
+Blaackie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [2d Ts 3h 2h 4s]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) folded on the River
+Seat 5: Blaackie (small blind) collected ($0.62)
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241187587448:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:02:20 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($2.06 in chips) 
+Seat 2: SpringsPike ($1.31 in chips) 
+Seat 3: Lt-Darwin ($2.52 in chips) 
+Seat 4: yellowmash2 ($0.32 in chips) 
+Seat 5: Blaackie ($6.66 in chips) 
+Seat 6: Lorpugo ($1.65 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 2h]
+SpringsPike: folds 
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: raises $0.28 to $0.32 and is all-in
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+Lt-Darwin: calls $0.28
+*** FLOP *** [5h 6s 3h]
+*** TURN *** [5h 6s 3h] [9h]
+*** RIVER *** [5h 6s 3h 9h] [6c]
+*** SHOW DOWN ***
+Lt-Darwin: shows [Ac Ts] (a pair of Sixes)
+yellowmash2: shows [Tc 9s] (two pair, Nines and Sixes)
+yellowmash2 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [5h 6s 3h 9h 6c]
+Seat 1: DarkSaber29 (big blind) folded before Flop
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin showed [Ac Ts] and lost with a pair of Sixes
+Seat 4: yellowmash2 showed [Tc 9s] and won ($0.65) with two pair, Nines and Sixes
+Seat 5: Blaackie (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241187598472:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:02:48 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($2.04 in chips) 
+Seat 2: SpringsPike ($1.31 in chips) 
+Seat 3: Lt-Darwin ($2.20 in chips) 
+Seat 4: yellowmash2 ($0.65 in chips) 
+Seat 5: Blaackie ($6.66 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 9c]
+Lt-Darwin: folds 
+yellowmash2: calls $0.02
+Blaackie: raises $0.08 to $0.10
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+yellowmash2: calls $0.08
+*** FLOP *** [8c Qs As]
+yellowmash2: bets $0.11
+Blaackie: raises $0.13 to $0.24
+yellowmash2: calls $0.13
+*** TURN *** [8c Qs As] [6h]
+yellowmash2: checks 
+Blaackie: bets $0.52
+yellowmash2: calls $0.31 and is all-in
+Uncalled bet ($0.21) returned to Blaackie
+*** RIVER *** [8c Qs As 6h] [2h]
+*** SHOW DOWN ***
+yellowmash2: shows [9h 8s] (a pair of Eights)
+Blaackie: shows [Ad Jh] (a pair of Aces)
+Blaackie collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [8c Qs As 6h 2h]
+Seat 1: DarkSaber29 (small blind) folded before Flop
+Seat 2: SpringsPike (big blind) folded before Flop
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 showed [9h 8s] and lost with a pair of Eights
+Seat 5: Blaackie showed [Ad Jh] and won ($1.28) with a pair of Aces
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187621413:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:03:46 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($2.03 in chips) 
+Seat 2: SpringsPike ($1.29 in chips) 
+Seat 3: Lt-Darwin ($2.20 in chips) 
+Seat 5: Blaackie ($7.29 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+SpringsPike: posts small blind $0.01
+Lt-Darwin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Jd]
+Blaackie: raises $0.04 to $0.06
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: calls $0.04
+*** FLOP *** [7c Qh Kd]
+Lt-Darwin: checks 
+Blaackie: bets $0.07
+Lt-Darwin: folds 
+Uncalled bet ($0.07) returned to Blaackie
+Blaackie collected $0.13 from pot
+Blaackie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7c Qh Kd]
+Seat 1: DarkSaber29 (button) folded before Flop (didn't bet)
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 3: Lt-Darwin (big blind) folded on the Flop
+Seat 5: Blaackie collected ($0.13)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187633137:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:04:14 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($2.03 in chips) 
+Seat 2: SpringsPike ($1.28 in chips) 
+Seat 3: Lt-Darwin ($2.14 in chips) 
+Seat 4: yellowmash2 ($2 in chips) 
+Seat 5: Blaackie ($7.36 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+Lt-Darwin: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 2d]
+Blaackie: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: calls $0.01
+yellowmash2: checks 
+*** FLOP *** [8c Ks 7s]
+Lt-Darwin: bets $0.04
+yellowmash2: calls $0.04
+*** TURN *** [8c Ks 7s] [3s]
+Lt-Darwin: checks 
+yellowmash2: bets $0.02
+Lt-Darwin: folds 
+Uncalled bet ($0.02) returned to yellowmash2
+yellowmash2 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8c Ks 7s 3s]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (small blind) folded on the Turn
+Seat 4: yellowmash2 (big blind) collected ($0.12)
+Seat 5: Blaackie folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187645031:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:04:44 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($2.03 in chips) 
+Seat 2: SpringsPike ($1.28 in chips) 
+Seat 3: Lt-Darwin ($2.08 in chips) 
+Seat 4: yellowmash2 ($2.06 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+yellowmash2: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 9d]
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: calls $0.03
+Lorpugo: folds 
+*** FLOP *** [5c Jd Jh]
+yellowmash2: bets $0.02
+Lt-Darwin: raises $0.04 to $0.06
+yellowmash2: folds 
+Uncalled bet ($0.04) returned to Lt-Darwin
+Lt-Darwin collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5c Jd Jh]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (button) collected ($0.14)
+Seat 4: yellowmash2 (small blind) folded on the Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241187653492:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:05:05 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($2.03 in chips) 
+Seat 2: SpringsPike ($1.28 in chips) 
+Seat 3: Lt-Darwin ($2.16 in chips) 
+Seat 4: yellowmash2 ($2 in chips) 
+Seat 6: Lorpugo ($1.62 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 3h]
+SpringsPike: folds 
+Lt-Darwin: raises $0.02 to $0.04
+yellowmash2: calls $0.04
+Lorpugo: folds 
+DarkSaber29: calls $0.02
+*** FLOP *** [5h 2h 3c]
+DarkSaber29: checks 
+Lt-Darwin: bets $0.04
+yellowmash2: calls $0.04
+DarkSaber29: calls $0.04
+*** TURN *** [5h 2h 3c] [Qh]
+Blaackie leaves the table
+DarkSaber29: checks 
+Lt-Darwin: checks 
+yellowmash2: bets $0.02
+DarkSaber29: calls $0.02
+Lt-Darwin: raises $0.08 to $0.10
+yellowmash2: calls $0.08
+DarkSaber29: calls $0.08
+*** RIVER *** [5h 2h 3c Qh] [6d]
+DarkSaber29: checks 
+Lt-Darwin: checks 
+Myatnyj_Zayats joins the table at seat #5 
+yellowmash2: bets $0.53
+DarkSaber29: calls $0.53
+Lt-Darwin: folds 
+*** SHOW DOWN ***
+yellowmash2: shows [4h 3s] (a straight, Deuce to Six)
+DarkSaber29: shows [4d Qc] (a straight, Deuce to Six)
+DarkSaber29 collected $0.78 from pot
+yellowmash2 collected $0.77 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [5h 2h 3c Qh 6d]
+Seat 1: DarkSaber29 (big blind) showed [4d Qc] and won ($0.78) with a straight, Deuce to Six
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin folded on the River
+Seat 4: yellowmash2 (button) showed [4h 3s] and won ($0.77) with a straight, Deuce to Six
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241187672412:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:05:51 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($2.10 in chips) 
+Seat 2: SpringsPike ($1.28 in chips) 
+Seat 3: Lt-Darwin ($1.98 in chips) 
+Seat 4: yellowmash2 ($2.06 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Ah]
+Lt-Darwin: raises $0.04 to $0.06
+yellowmash2: raises $0.04 to $0.10
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: calls $0.04
+*** FLOP *** [6d 6h 7c]
+Lt-Darwin: checks 
+yellowmash2: bets $0.11
+Lt-Darwin: calls $0.11
+*** TURN *** [6d 6h 7c] [6s]
+Lt-Darwin: checks 
+yellowmash2: checks 
+*** RIVER *** [6d 6h 7c 6s] [Kc]
+Lt-Darwin: checks 
+yellowmash2: checks 
+*** SHOW DOWN ***
+Lt-Darwin: shows [Jc Jd] (a full house, Sixes full of Jacks)
+yellowmash2: mucks hand 
+Lt-Darwin collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [6d 6h 7c 6s Kc]
+Seat 1: DarkSaber29 (small blind) folded before Flop
+Seat 2: SpringsPike (big blind) folded before Flop
+Seat 3: Lt-Darwin showed [Jc Jd] and won ($0.43) with a full house, Sixes full of Jacks
+Seat 4: yellowmash2 mucked [5c 3h]
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187685920:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:06:24 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($2.09 in chips) 
+Seat 2: SpringsPike ($1.26 in chips) 
+Seat 3: Lt-Darwin ($2.20 in chips) 
+Seat 4: yellowmash2 ($1.85 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+SpringsPike: posts small blind $0.01
+Lt-Darwin: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 4d]
+yellowmash2: raises $0.02 to $0.04
+Lorpugo: folds 
+DarkSaber29: raises $0.06 to $0.10
+SpringsPike: folds 
+Lt-Darwin: calls $0.08
+yellowmash2: calls $0.06
+*** FLOP *** [3c 8d Jh]
+Lt-Darwin: checks 
+yellowmash2: bets $0.30
+DarkSaber29: folds 
+Lt-Darwin: folds 
+Uncalled bet ($0.30) returned to yellowmash2
+yellowmash2 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [3c 8d Jh]
+Seat 1: DarkSaber29 (button) folded on the Flop
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 3: Lt-Darwin (big blind) folded on the Flop
+Seat 4: yellowmash2 collected ($0.30)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187698454:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:06:55 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.99 in chips) 
+Seat 2: SpringsPike ($1.25 in chips) 
+Seat 3: Lt-Darwin ($2.10 in chips) 
+Seat 4: yellowmash2 ($2.05 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+Lt-Darwin: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 4h]
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: calls $0.02
+Lt-Darwin: calls $0.01
+yellowmash2: checks 
+*** FLOP *** [Ks 7h Ah]
+Lt-Darwin: checks 
+yellowmash2: bets $0.06
+SpringsPike: calls $0.06
+Lt-Darwin: calls $0.06
+*** TURN *** [Ks 7h Ah] [8h]
+Lt-Darwin: bets $0.12
+yellowmash2: folds 
+SpringsPike: folds 
+Uncalled bet ($0.12) returned to Lt-Darwin
+Lt-Darwin collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ks 7h Ah 8h]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike (button) folded on the Turn
+Seat 3: Lt-Darwin (small blind) collected ($0.23)
+Seat 4: yellowmash2 (big blind) folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187709513:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:07:22 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($1.99 in chips) 
+Seat 2: SpringsPike ($1.17 in chips) 
+Seat 3: Lt-Darwin ($2.25 in chips) 
+Seat 4: yellowmash2 ($1.97 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+yellowmash2: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h Kd]
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Lt-Darwin: calls $0.02
+yellowmash2: calls $0.01
+Myatnyj_Zayats: checks 
+*** FLOP *** [2d Kh 6h]
+yellowmash2: checks 
+Myatnyj_Zayats: checks 
+Lt-Darwin: bets $0.02
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+*** TURN *** [2d Kh 6h] [4c]
+yellowmash2: bets $0.05
+Lt-Darwin: calls $0.05
+*** RIVER *** [2d Kh 6h 4c] [3c]
+yellowmash2: checks 
+Lt-Darwin: bets $0.10
+yellowmash2: folds 
+Uncalled bet ($0.10) returned to Lt-Darwin
+Lt-Darwin collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2d Kh 6h 4c 3c]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin (button) collected ($0.19)
+Seat 4: yellowmash2 (small blind) folded on the River
+Seat 5: Myatnyj_Zayats (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187729223:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:08:11 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($1.99 in chips) 
+Seat 2: SpringsPike ($1.17 in chips) 
+Seat 3: Lt-Darwin ($2.35 in chips) 
+Seat 4: yellowmash2 ($1.88 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Tc]
+DarkSaber29: folds 
+SpringsPike: calls $0.02
+Lt-Darwin: folds 
+yellowmash2: raises $0.40 to $0.42
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+SpringsPike: folds 
+Uncalled bet ($0.40) returned to yellowmash2
+yellowmash2 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) collected ($0.07)
+Seat 5: Myatnyj_Zayats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241187735884:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:08:27 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($1.99 in chips) 
+Seat 2: SpringsPike ($1.15 in chips) 
+Seat 3: Lt-Darwin ($2.35 in chips) 
+Seat 4: yellowmash2 ($1.93 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 2c]
+SpringsPike: folds 
+Lt-Darwin: folds 
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: checks 
+*** FLOP *** [6s Ks 5c]
+DarkSaber29: checks 
+yellowmash2: bets $0.05
+DarkSaber29: folds 
+Uncalled bet ($0.05) returned to yellowmash2
+yellowmash2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s Ks 5c]
+Seat 1: DarkSaber29 (big blind) folded on the Flop
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 collected ($0.05)
+Seat 5: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241187745005:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:08:50 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($1.97 in chips) 
+Seat 2: SpringsPike ($1.15 in chips) 
+Seat 3: Lt-Darwin ($2.35 in chips) 
+Seat 4: yellowmash2 ($1.96 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh 2h]
+Lt-Darwin has timed out
+Lt-Darwin: folds 
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+Uncalled bet ($0.02) returned to yellowmash2
+yellowmash2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DarkSaber29 (small blind) folded before Flop
+Seat 2: SpringsPike (big blind) folded before Flop
+Seat 3: Lt-Darwin folded before Flop (didn't bet)
+Seat 4: yellowmash2 collected ($0.05)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187755795:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:09:17 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($1.96 in chips) 
+Seat 2: SpringsPike ($1.13 in chips) 
+Seat 4: yellowmash2 ($1.99 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+SpringsPike: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2d]
+Myatnyj_Zayats: raises $0.04 to $0.06
+Lorpugo: folds 
+DarkSaber29: calls $0.06
+SpringsPike: folds 
+yellowmash2: raises $0.04 to $0.10
+Myatnyj_Zayats: raises $1.90 to $2 and is all-in
+DarkSaber29: folds 
+yellowmash2: folds 
+Uncalled bet ($1.90) returned to Myatnyj_Zayats
+Myatnyj_Zayats collected $0.27 from pot
+Myatnyj_Zayats: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0 
+Seat 1: DarkSaber29 (button) folded before Flop
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 4: yellowmash2 (big blind) folded before Flop
+Seat 5: Myatnyj_Zayats collected ($0.27)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187765376:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:09:41 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.90 in chips) 
+Seat 2: SpringsPike ($1.12 in chips) 
+Seat 4: yellowmash2 ($1.89 in chips) 
+Seat 5: Myatnyj_Zayats ($2.17 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+yellowmash2: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 4d]
+Lorpugo: folds 
+DarkSaber29: raises $0.02 to $0.04
+SpringsPike: folds 
+yellowmash2: raises $0.10 to $0.14
+Myatnyj_Zayats: folds 
+Lt-Darwin leaves the table
+DarkSaber29: folds 
+Uncalled bet ($0.10) returned to yellowmash2
+yellowmash2 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 4: yellowmash2 (small blind) collected ($0.10)
+Seat 5: Myatnyj_Zayats (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187771012:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:09:55 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($1.86 in chips) 
+Seat 2: SpringsPike ($1.12 in chips) 
+Seat 4: yellowmash2 ($1.95 in chips) 
+Seat 5: Myatnyj_Zayats ($2.15 in chips) 
+Seat 6: Lorpugo ($1.58 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 2d]
+DarkSaber29: folds 
+SpringsPike: folds 
+myck2329 joins the table at seat #3 
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to yellowmash2
+yellowmash2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) collected ($0.05)
+Seat 5: Myatnyj_Zayats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241187775903:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:10:06 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($1.86 in chips) 
+Seat 2: SpringsPike ($1.12 in chips) 
+Seat 4: yellowmash2 ($1.98 in chips) 
+Seat 5: Myatnyj_Zayats ($2.14 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5s]
+SpringsPike: folds 
+yellowmash2: folds 
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+Uncalled bet ($0.01) returned to DarkSaber29
+DarkSaber29 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: DarkSaber29 (big blind) collected ($0.02)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 4: yellowmash2 folded before Flop (didn't bet)
+Seat 5: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241187780303:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:10:17 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($1.87 in chips) 
+Seat 2: SpringsPike ($1.12 in chips) 
+Seat 4: yellowmash2 ($1.98 in chips) 
+Seat 5: Myatnyj_Zayats ($2.14 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Tc]
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: calls $0.02
+*** FLOP *** [Kd 7d 8s]
+SpringsPike: checks 
+yellowmash2: bets $0.09
+SpringsPike: folds 
+Uncalled bet ($0.09) returned to yellowmash2
+yellowmash2 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd 7d 8s]
+Seat 1: DarkSaber29 (small blind) folded before Flop
+Seat 2: SpringsPike (big blind) folded on the Flop
+Seat 4: yellowmash2 collected ($0.09)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187795114:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:10:54 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($1.86 in chips) 
+Seat 2: SpringsPike ($1.08 in chips) 
+Seat 3: myck2329 ($2 in chips) 
+Seat 4: yellowmash2 ($2.03 in chips) 
+Seat 5: Myatnyj_Zayats ($2.14 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+SpringsPike: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Jd]
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: calls $0.04
+DarkSaber29: folds 
+SpringsPike: folds 
+myck2329: folds 
+*** FLOP *** [5c 3c 6s]
+yellowmash2: checks 
+Lorpugo: checks 
+*** TURN *** [5c 3c 6s] [2d]
+yellowmash2: bets $0.02
+Lorpugo: raises $0.06 to $0.08
+yellowmash2: raises $0.06 to $0.14
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to yellowmash2
+yellowmash2 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5c 3c 6s 2d]
+Seat 1: DarkSaber29 (button) folded before Flop (didn't bet)
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 3: myck2329 (big blind) folded before Flop
+Seat 4: yellowmash2 collected ($0.26)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded on the Turn
+
+
+
+PokerStars Hand #241187821167:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:11:57 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.86 in chips) 
+Seat 2: SpringsPike ($1.07 in chips) 
+Seat 3: myck2329 ($2 in chips) 
+Seat 4: yellowmash2 ($2.17 in chips) 
+Seat 5: Myatnyj_Zayats ($2.14 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+myck2329: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4c]
+Myatnyj_Zayats: folds 
+Lorpugo has timed out
+Lorpugo: folds 
+DarkSaber29: raises $0.04 to $0.06
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: raises $0.04 to $0.10
+DarkSaber29: calls $0.04
+*** FLOP *** [8d Ks As]
+yellowmash2: checks 
+DarkSaber29: checks 
+*** TURN *** [8d Ks As] [5c]
+yellowmash2: bets $0.02
+DarkSaber29: calls $0.02
+*** RIVER *** [8d Ks As 5c] [Th]
+yellowmash2: bets $0.24
+DarkSaber29: folds 
+Uncalled bet ($0.24) returned to yellowmash2
+yellowmash2 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d Ks As 5c Th]
+Seat 1: DarkSaber29 folded on the River
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: yellowmash2 (big blind) collected ($0.24)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187840140:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:12:43 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($1.74 in chips) 
+Seat 2: SpringsPike ($1.07 in chips) 
+Seat 3: myck2329 ($2 in chips) 
+Seat 4: yellowmash2 ($2.29 in chips) 
+Seat 5: Myatnyj_Zayats ($2.14 in chips) 
+Seat 6: Lorpugo ($1.43 in chips) 
+yellowmash2: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd Ks]
+Lorpugo: raises $0.03 to $0.05
+DarkSaber29: folds 
+SpringsPike: folds 
+myck2329: raises $0.13 to $0.18
+yellowmash2: folds 
+Myatnyj_Zayats: folds 
+Lorpugo: calls $0.13
+*** FLOP *** [8c Td 7d]
+Lorpugo: checks 
+myck2329: bets $0.12
+Lorpugo: calls $0.12
+*** TURN *** [8c Td 7d] [9s]
+Lorpugo: checks 
+myck2329: bets $0.40
+Lorpugo: calls $0.40
+*** RIVER *** [8c Td 7d 9s] [8s]
+Lorpugo: checks 
+myck2329: bets $0.83
+Lorpugo: folds 
+Uncalled bet ($0.83) returned to myck2329
+myck2329 collected $1.38 from pot
+myck2329: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 
+Board [8c Td 7d 9s 8s]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: myck2329 (button) collected ($1.38)
+Seat 4: yellowmash2 (small blind) folded before Flop
+Seat 5: Myatnyj_Zayats (big blind) folded before Flop
+Seat 6: Lorpugo folded on the River
+
+
+
+PokerStars Hand #241187872105:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:14:01 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($1.74 in chips) 
+Seat 2: SpringsPike ($1.07 in chips) 
+Seat 3: myck2329 ($2.68 in chips) 
+Seat 4: yellowmash2 ($2.28 in chips) 
+Seat 5: Myatnyj_Zayats ($2.12 in chips) 
+Seat 6: Lorpugo ($0.73 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 9d]
+DarkSaber29: folds 
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: calls $0.02
+*** FLOP *** [4d Kh 3s]
+Lorpugo: checks 
+yellowmash2: bets $0.09
+Lorpugo: folds 
+Uncalled bet ($0.09) returned to yellowmash2
+yellowmash2 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4d Kh 3s]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) collected ($0.09)
+Seat 5: Myatnyj_Zayats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241187881835:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:14:24 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($1.74 in chips) 
+Seat 2: SpringsPike ($1.07 in chips) 
+Seat 3: myck2329 ($2.68 in chips) 
+Seat 4: yellowmash2 ($2.33 in chips) 
+Seat 5: Myatnyj_Zayats ($2.11 in chips) 
+Seat 6: Lorpugo ($1.49 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jh]
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: folds 
+Myatnyj_Zayats: folds 
+Lorpugo: raises $0.03 to $0.05
+DarkSaber29: calls $0.03
+*** FLOP *** [As 5d Js]
+Lorpugo: checks 
+DarkSaber29: checks 
+*** TURN *** [As 5d Js] [7s]
+Lorpugo: bets $0.14
+DarkSaber29: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [As 5d Js 7s]
+Seat 1: DarkSaber29 (big blind) folded on the Turn
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 folded before Flop (didn't bet)
+Seat 5: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #241187895253:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:14:57 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($1.69 in chips) 
+Seat 2: SpringsPike ($1.07 in chips) 
+Seat 3: myck2329 ($2.68 in chips) 
+Seat 4: yellowmash2 ($2.33 in chips) 
+Seat 5: Myatnyj_Zayats ($2.11 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Kd]
+myck2329: folds 
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: calls $0.01
+SpringsPike: checks 
+*** FLOP *** [Tc Qc Qh]
+DarkSaber29: checks 
+SpringsPike: checks 
+yellowmash2: bets $0.02
+DarkSaber29: folds 
+SpringsPike: folds 
+Uncalled bet ($0.02) returned to yellowmash2
+yellowmash2 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc Qc Qh]
+Seat 1: DarkSaber29 (small blind) folded on the Flop
+Seat 2: SpringsPike (big blind) folded on the Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 collected ($0.06)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187906882:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:15:25 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($1.67 in chips) 
+Seat 2: SpringsPike ($1.05 in chips) 
+Seat 3: myck2329 ($2.68 in chips) 
+Seat 4: yellowmash2 ($2.37 in chips) 
+Seat 5: Myatnyj_Zayats ($2.11 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+SpringsPike: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7h]
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: calls $0.02
+SpringsPike: folds 
+myck2329: checks 
+*** FLOP *** [9d 4h 6c]
+myck2329: checks 
+yellowmash2: checks 
+DarkSaber29: checks 
+*** TURN *** [9d 4h 6c] [8s]
+myck2329: checks 
+yellowmash2: bets $0.04
+DarkSaber29: folds 
+myck2329: folds 
+Uncalled bet ($0.04) returned to yellowmash2
+yellowmash2 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9d 4h 6c 8s]
+Seat 1: DarkSaber29 (button) folded on the Turn
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 3: myck2329 (big blind) folded on the Turn
+Seat 4: yellowmash2 collected ($0.07)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241187931204:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:16:24 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.65 in chips) 
+Seat 2: SpringsPike ($1.04 in chips) 
+Seat 3: myck2329 ($2.66 in chips) 
+Seat 4: yellowmash2 ($2.42 in chips) 
+Seat 5: Myatnyj_Zayats ($2.11 in chips) 
+Seat 6: Lorpugo ($1.54 in chips) 
+myck2329: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks As]
+Myatnyj_Zayats: raises $0.04 to $0.06
+Lorpugo: raises $0.15 to $0.21
+DarkSaber29: folds 
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: folds 
+Myatnyj_Zayats: folds 
+Uncalled bet ($0.15) returned to Lorpugo
+Lorpugo collected $0.15 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: yellowmash2 (big blind) folded before Flop
+Seat 5: Myatnyj_Zayats folded before Flop
+Seat 6: Lorpugo collected ($0.15)
+
+
+
+PokerStars Hand #241187940526:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:16:46 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($1.65 in chips) 
+Seat 2: SpringsPike ($1.04 in chips) 
+Seat 3: myck2329 ($2.65 in chips) 
+Seat 4: yellowmash2 ($2.40 in chips) 
+Seat 5: Myatnyj_Zayats ($2.05 in chips) 
+Seat 6: Lorpugo ($1.63 in chips) 
+yellowmash2: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c 9d]
+Lorpugo: raises $0.03 to $0.05
+DarkSaber29: folds 
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: calls $0.04
+Myatnyj_Zayats: folds 
+*** FLOP *** [5c 4h 7s]
+yellowmash2: checks 
+Lorpugo: bets $0.16
+yellowmash2: calls $0.16
+*** TURN *** [5c 4h 7s] [9c]
+yellowmash2: bets $0.02
+Lorpugo: raises $0.82 to $0.84
+yellowmash2: folds 
+Uncalled bet ($0.82) returned to Lorpugo
+Lorpugo collected $0.46 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [5c 4h 7s 9c]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: myck2329 (button) folded before Flop (didn't bet)
+Seat 4: yellowmash2 (small blind) folded on the Turn
+Seat 5: Myatnyj_Zayats (big blind) folded before Flop
+Seat 6: Lorpugo collected ($0.46)
+
+
+
+PokerStars Hand #241187965753:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:17:48 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($1.65 in chips) 
+Seat 2: SpringsPike ($1.04 in chips) 
+Seat 3: myck2329 ($2.65 in chips) 
+Seat 4: yellowmash2 ($2.17 in chips) 
+Seat 5: Myatnyj_Zayats ($2.03 in chips) 
+Seat 6: Lorpugo ($1.86 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Th]
+DarkSaber29: raises $0.04 to $0.06
+SpringsPike: folds 
+myck2329: raises $0.12 to $0.18
+yellowmash2: calls $0.18
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: calls $0.12
+*** FLOP *** [7h 6d 6c]
+DarkSaber29: checks 
+myck2329: bets $0.24
+yellowmash2: calls $0.24
+DarkSaber29: folds 
+*** TURN *** [7h 6d 6c] [3c]
+myck2329: bets $0.70
+yellowmash2: folds 
+Uncalled bet ($0.70) returned to myck2329
+myck2329 collected $1.01 from pot
+myck2329: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [7h 6d 6c 3c]
+Seat 1: DarkSaber29 folded on the Flop
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: myck2329 collected ($1.01)
+Seat 4: yellowmash2 (button) folded on the Turn
+Seat 5: Myatnyj_Zayats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241187988876:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:18:44 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($1.47 in chips) 
+Seat 2: SpringsPike ($1.04 in chips) 
+Seat 3: myck2329 ($3.24 in chips) 
+Seat 4: yellowmash2 ($1.75 in chips) 
+Seat 5: Myatnyj_Zayats ($2.02 in chips) 
+Seat 6: Lorpugo ($1.84 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 7d]
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: raises $0.16 to $0.18
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+Uncalled bet ($0.16) returned to yellowmash2
+yellowmash2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DarkSaber29 (big blind) folded before Flop
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 collected ($0.05)
+Seat 5: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241187995796:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:19:01 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($1.45 in chips) 
+Seat 2: SpringsPike ($1.04 in chips) 
+Seat 3: myck2329 ($3.24 in chips) 
+Seat 4: yellowmash2 ($1.78 in chips) 
+Seat 5: Myatnyj_Zayats ($2.02 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+DarkSaber29: posts small blind $0.01
+SpringsPike: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Js]
+myck2329: folds 
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: calls $0.01
+SpringsPike: checks 
+*** FLOP *** [Ah 5h 8d]
+DarkSaber29: checks 
+SpringsPike: checks 
+yellowmash2: checks 
+*** TURN *** [Ah 5h 8d] [4s]
+DarkSaber29: bets $0.04
+SpringsPike: folds 
+yellowmash2: calls $0.04
+*** RIVER *** [Ah 5h 8d 4s] [3c]
+DarkSaber29: checks 
+yellowmash2: bets $1.72 and is all-in
+DarkSaber29: folds 
+Uncalled bet ($1.72) returned to yellowmash2
+yellowmash2 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ah 5h 8d 4s 3c]
+Seat 1: DarkSaber29 (small blind) folded on the River
+Seat 2: SpringsPike (big blind) folded on the Turn
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 collected ($0.14)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188010080:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:19:35 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($1.39 in chips) 
+Seat 2: SpringsPike ($1.02 in chips) 
+Seat 3: myck2329 ($3.24 in chips) 
+Seat 4: yellowmash2 ($1.86 in chips) 
+Seat 5: Myatnyj_Zayats ($2.02 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+SpringsPike: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Jc]
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: raises $0.08 to $0.12
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: calls $0.08
+*** FLOP *** [8d 7c 7d]
+yellowmash2: bets $0.02
+DarkSaber29: raises $0.15 to $0.17
+yellowmash2: calls $0.15
+*** TURN *** [8d 7c 7d] [8s]
+yellowmash2: bets $0.02
+DarkSaber29: raises $0.63 to $0.65
+yellowmash2: folds 
+Uncalled bet ($0.63) returned to DarkSaber29
+DarkSaber29 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [8d 7c 7d 8s]
+Seat 1: DarkSaber29 (button) collected ($0.63)
+Seat 2: SpringsPike (small blind) folded before Flop
+Seat 3: myck2329 (big blind) folded before Flop
+Seat 4: yellowmash2 folded on the Turn
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188023397:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:20:07 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.71 in chips) 
+Seat 2: SpringsPike ($1.01 in chips) 
+Seat 3: myck2329 ($3.22 in chips) 
+Seat 4: yellowmash2 ($1.55 in chips) 
+Seat 5: Myatnyj_Zayats ($2.02 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+myck2329: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 7h]
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+SpringsPike: folds 
+myck2329: raises $0.05 to $0.07
+yellowmash2: calls $0.05
+*** FLOP *** [Kh 6d 5d]
+myck2329: bets $0.08
+yellowmash2: calls $0.08
+*** TURN *** [Kh 6d 5d] [4h]
+myck2329: bets $0.18
+yellowmash2: calls $0.18
+*** RIVER *** [Kh 6d 5d 4h] [2h]
+myck2329: bets $0.20
+yellowmash2: calls $0.20
+*** SHOW DOWN ***
+myck2329: shows [Jc Jh] (a pair of Jacks)
+yellowmash2: mucks hand 
+myck2329 collected $1.02 from pot
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [Kh 6d 5d 4h 2h]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: SpringsPike (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) showed [Jc Jh] and won ($1.02) with a pair of Jacks
+Seat 4: yellowmash2 (big blind) mucked [Td 6s]
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188044062:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:20:56 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($1.71 in chips) 
+Seat 2: SpringsPike ($1.01 in chips) 
+Seat 3: myck2329 ($3.71 in chips) 
+Seat 4: yellowmash2 ($1.02 in chips) 
+Seat 5: Myatnyj_Zayats ($2.02 in chips) 
+Seat 6: Lorpugo ($1.83 in chips) 
+yellowmash2: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 9d]
+Lorpugo: raises $0.03 to $0.05
+DarkSaber29: calls $0.05
+SpringsPike: folds 
+myck2329: folds 
+yellowmash2: calls $0.04
+Myatnyj_Zayats: folds 
+*** FLOP *** [Qd Ah Tc]
+yellowmash2: checks 
+Lorpugo: checks 
+DarkSaber29: bets $0.10
+yellowmash2: calls $0.10
+Lorpugo: folds 
+*** TURN *** [Qd Ah Tc] [4s]
+yellowmash2: bets $0.02
+DarkSaber29: raises $0.10 to $0.12
+yellowmash2: folds 
+Uncalled bet ($0.10) returned to DarkSaber29
+DarkSaber29 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Qd Ah Tc 4s]
+Seat 1: DarkSaber29 collected ($0.40)
+Seat 2: SpringsPike folded before Flop (didn't bet)
+Seat 3: myck2329 (button) folded before Flop (didn't bet)
+Seat 4: yellowmash2 (small blind) folded on the Turn
+Seat 5: Myatnyj_Zayats (big blind) folded before Flop
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #241188060095:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:21:35 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($1.94 in chips) 
+Seat 3: myck2329 ($3.71 in chips) 
+Seat 4: yellowmash2 ($0.85 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.78 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 7h]
+DarkSaber29: folds 
+myck2329: folds 
+yellowmash2: calls $0.02
+Myatnyj_Zayats: raises $0.06 to $0.08
+Lorpugo: folds 
+yellowmash2: calls $0.06
+*** FLOP *** [9c Ac 2d]
+SpringsPike leaves the table
+Myatnyj_Zayats: checks 
+yellowmash2: bets $0.02
+Myatnyj_Zayats: raises $0.07 to $0.09
+yellowmash2: calls $0.07
+*** TURN *** [9c Ac 2d] [8d]
+MrBembel7 joins the table at seat #2 
+Myatnyj_Zayats: bets $0.11
+yellowmash2: calls $0.11
+*** RIVER *** [9c Ac 2d 8d] [3c]
+Myatnyj_Zayats: checks 
+yellowmash2: checks 
+*** SHOW DOWN ***
+Myatnyj_Zayats: shows [Ks Js] (high card Ace)
+yellowmash2: shows [9d Qc] (a pair of Nines)
+yellowmash2 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [9c Ac 2d 8d 3c]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) showed [9d Qc] and won ($0.56) with a pair of Nines
+Seat 5: Myatnyj_Zayats (small blind) showed [Ks Js] and lost with high card Ace
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241188077295:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:22:16 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($1.94 in chips) 
+Seat 3: myck2329 ($3.71 in chips) 
+Seat 4: yellowmash2 ($1.13 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [As Jd]
+myck2329: folds 
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+Lorpugo: raises $0.06 to $0.08
+DarkSaber29: folds 
+yellowmash2: raises $1.05 to $1.13 and is all-in
+Lorpugo: folds 
+Uncalled bet ($1.05) returned to yellowmash2
+yellowmash2 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: DarkSaber29 (big blind) folded before Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 collected ($0.18)
+Seat 5: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241188087601:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:22:40 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($1.92 in chips) 
+Seat 2: MrBembel7 ($1.60 in chips) 
+Seat 3: myck2329 ($3.71 in chips) 
+Seat 4: yellowmash2 ($1.23 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+DarkSaber29: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3h 2d]
+myck2329: folds 
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+MrBembel7: checks 
+*** FLOP *** [9c Kd Js]
+MrBembel7: checks 
+yellowmash2: bets $0.05
+MrBembel7: calls $0.05
+*** TURN *** [9c Kd Js] [Tc]
+MrBembel7: checks 
+yellowmash2: bets $0.14
+MrBembel7: folds 
+Uncalled bet ($0.14) returned to yellowmash2
+yellowmash2 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c Kd Js Tc]
+Seat 1: DarkSaber29 (small blind) folded before Flop
+Seat 2: MrBembel7 (big blind) folded on the Turn
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 collected ($0.14)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188104422:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:23:20 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($1.91 in chips) 
+Seat 2: MrBembel7 ($1.53 in chips) 
+Seat 3: myck2329 ($3.71 in chips) 
+Seat 4: yellowmash2 ($1.30 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kd 7d]
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: calls $0.04
+MrBembel7: folds 
+myck2329: folds 
+*** FLOP *** [Kc Jc 7s]
+yellowmash2: bets $0.11
+DarkSaber29: folds 
+Uncalled bet ($0.11) returned to yellowmash2
+yellowmash2 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kc Jc 7s]
+Seat 1: DarkSaber29 (button) folded on the Flop
+Seat 2: MrBembel7 (small blind) folded before Flop
+Seat 3: myck2329 (big blind) folded before Flop
+Seat 4: yellowmash2 collected ($0.11)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188112589:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:23:39 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.87 in chips) 
+Seat 2: MrBembel7 ($1.52 in chips) 
+Seat 3: myck2329 ($3.69 in chips) 
+Seat 4: yellowmash2 ($1.37 in chips) 
+Seat 5: Myatnyj_Zayats ($2 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+myck2329: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 7h]
+Myatnyj_Zayats: raises $0.04 to $0.06
+Lorpugo: folds 
+DarkSaber29: folds 
+MrBembel7: folds 
+myck2329: folds 
+yellowmash2: calls $0.04
+*** FLOP *** [4h Ac 4c]
+yellowmash2: checks 
+Myatnyj_Zayats: bets $0.02
+yellowmash2: calls $0.02
+*** TURN *** [4h Ac 4c] [7d]
+yellowmash2: bets $0.02
+Myatnyj_Zayats: raises $0.05 to $0.07
+yellowmash2: calls $0.05
+*** RIVER *** [4h Ac 4c 7d] [3d]
+yellowmash2: checks 
+Myatnyj_Zayats: bets $0.19
+yellowmash2: folds 
+Uncalled bet ($0.19) returned to Myatnyj_Zayats
+Myatnyj_Zayats collected $0.30 from pot
+Myatnyj_Zayats: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4h Ac 4c 7d 3d]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: MrBembel7 (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: yellowmash2 (big blind) folded on the River
+Seat 5: Myatnyj_Zayats collected ($0.30)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188131520:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:24:25 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($1.87 in chips) 
+Seat 2: MrBembel7 ($1.52 in chips) 
+Seat 3: myck2329 ($3.68 in chips) 
+Seat 4: yellowmash2 ($1.22 in chips) 
+Seat 5: Myatnyj_Zayats ($2.15 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+yellowmash2: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 5c]
+Lorpugo: folds 
+DarkSaber29: folds 
+MrBembel7: folds 
+myck2329: raises $0.03 to $0.05
+yellowmash2: calls $0.04
+Myatnyj_Zayats: calls $0.03
+*** FLOP *** [5h Jc Kc]
+yellowmash2: bets $0.14
+Myatnyj_Zayats: folds 
+myck2329: calls $0.14
+*** TURN *** [5h Jc Kc] [8c]
+yellowmash2: checks 
+myck2329: bets $0.14
+yellowmash2: calls $0.14
+*** RIVER *** [5h Jc Kc 8c] [2s]
+yellowmash2: bets $0.02
+myck2329: calls $0.02
+*** SHOW DOWN ***
+yellowmash2: shows [9c Th] (high card King)
+myck2329: shows [Kh 7s] (a pair of Kings)
+myck2329 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5h Jc Kc 8c 2s]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 (button) showed [Kh 7s] and won ($0.72) with a pair of Kings
+Seat 4: yellowmash2 (small blind) showed [9c Th] and lost with high card King
+Seat 5: Myatnyj_Zayats (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188156918:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:25:25 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($1.87 in chips) 
+Seat 2: MrBembel7 ($1.52 in chips) 
+Seat 3: myck2329 ($4.05 in chips) 
+Seat 4: yellowmash2 ($0.87 in chips) 
+Seat 5: Myatnyj_Zayats ($2.10 in chips) 
+Seat 6: Lorpugo ($1.68 in chips) 
+Myatnyj_Zayats: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Tc]
+DarkSaber29: folds 
+MrBembel7: folds 
+myck2329: folds 
+yellowmash2: raises $0.85 to $0.87 and is all-in
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+Uncalled bet ($0.85) returned to yellowmash2
+yellowmash2 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 (button) collected ($0.05)
+Seat 5: Myatnyj_Zayats (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241188164353:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:25:43 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($1.87 in chips) 
+Seat 2: MrBembel7 ($1.52 in chips) 
+Seat 3: myck2329 ($4.05 in chips) 
+Seat 4: yellowmash2 ($0.90 in chips) 
+Seat 5: Myatnyj_Zayats ($2.09 in chips) 
+Seat 6: Lorpugo ($1.66 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 8s]
+MrBembel7: folds 
+myck2329: folds 
+yellowmash2: folds 
+Myatnyj_Zayats: folds 
+Lorpugo: raises $0.03 to $0.05
+DarkSaber29: calls $0.03
+*** FLOP *** [Qd 3d 9d]
+Lorpugo: checks 
+DarkSaber29: bets $0.06
+Lorpugo: folds 
+Uncalled bet ($0.06) returned to DarkSaber29
+DarkSaber29 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qd 3d 9d]
+Seat 1: DarkSaber29 (big blind) collected ($0.10)
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 folded before Flop (didn't bet)
+Seat 5: Myatnyj_Zayats (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241188188707:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:26:42 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($1.92 in chips) 
+Seat 2: MrBembel7 ($1.52 in chips) 
+Seat 3: myck2329 ($4.05 in chips) 
+Seat 4: yellowmash2 ($0.90 in chips) 
+Seat 5: Myatnyj_Zayats ($2.09 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+DarkSaber29: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s Kh]
+myck2329: folds 
+yellowmash2: raises $0.02 to $0.04
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: raises $0.10 to $0.14
+MrBembel7: folds 
+yellowmash2: folds 
+Uncalled bet ($0.10) returned to DarkSaber29
+DarkSaber29 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DarkSaber29 (small blind) collected ($0.10)
+Seat 2: MrBembel7 (big blind) folded before Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: yellowmash2 folded before Flop
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188199286:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:27:07 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($1.98 in chips) 
+Seat 2: MrBembel7 ($1.50 in chips) 
+Seat 3: myck2329 ($4.05 in chips) 
+Seat 4: yellowmash2 ($0.86 in chips) 
+Seat 5: Myatnyj_Zayats ($2.09 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 5d]
+yellowmash2: calls $0.02
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: folds 
+MrBembel7: calls $0.01
+myck2329: checks 
+*** FLOP *** [7c Kd 9d]
+MrBembel7: checks 
+myck2329: checks 
+yellowmash2: bets $0.02
+MrBembel7: calls $0.02
+myck2329: calls $0.02
+*** TURN *** [7c Kd 9d] [Tc]
+MrBembel7: checks 
+myck2329: bets $0.08
+yellowmash2: calls $0.08
+MrBembel7: calls $0.08
+*** RIVER *** [7c Kd 9d Tc] [Qs]
+MrBembel7: checks 
+myck2329: checks 
+yellowmash2: checks 
+*** SHOW DOWN ***
+MrBembel7: shows [2d Qd] (a pair of Queens)
+myck2329: shows [8c 6s] (a straight, Six to Ten)
+yellowmash2: mucks hand 
+myck2329 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [7c Kd 9d Tc Qs]
+Seat 1: DarkSaber29 (button) folded before Flop (didn't bet)
+Seat 2: MrBembel7 (small blind) showed [2d Qd] and lost with a pair of Queens
+Seat 3: myck2329 (big blind) showed [8c 6s] and won ($0.35) with a straight, Six to Ten
+Seat 4: yellowmash2 mucked [8h 7s]
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188220867:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:27:59 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.98 in chips) 
+Seat 2: MrBembel7 ($1.38 in chips) 
+Seat 3: myck2329 ($4.28 in chips) 
+Seat 4: yellowmash2 ($0.74 in chips) 
+Seat 5: Myatnyj_Zayats ($2.09 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+myck2329: posts small blind $0.01
+yellowmash2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Jc]
+Myatnyj_Zayats: folds 
+Lorpugo: folds 
+DarkSaber29: raises $0.02 to $0.04
+MrBembel7: folds 
+myck2329: raises $0.16 to $0.20
+yellowmash2: folds 
+DarkSaber29: folds 
+Uncalled bet ($0.16) returned to myck2329
+myck2329 collected $0.10 from pot
+myck2329: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop
+Seat 2: MrBembel7 (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) collected ($0.10)
+Seat 4: yellowmash2 (big blind) folded before Flop
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188234138:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:28:31 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($1.94 in chips) 
+Seat 2: MrBembel7 ($1.38 in chips) 
+Seat 3: myck2329 ($4.34 in chips) 
+Seat 4: yellowmash2 ($0.72 in chips) 
+Seat 5: Myatnyj_Zayats ($2.09 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+yellowmash2: posts small blind $0.01
+Myatnyj_Zayats: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4c]
+Lorpugo: raises $0.03 to $0.05
+DarkSaber29: folds 
+MrBembel7: calls $0.05
+myck2329: calls $0.05
+yellowmash2: calls $0.04
+Myatnyj_Zayats: folds 
+*** FLOP *** [8s 5s Qs]
+yellowmash2: bets $0.21
+Lorpugo: folds 
+MrBembel7: raises $0.21 to $0.42
+myck2329: folds 
+yellowmash2: calls $0.21
+*** TURN *** [8s 5s Qs] [7h]
+yellowmash2: checks 
+MrBembel7: bets $0.91 and is all-in
+yellowmash2: calls $0.25 and is all-in
+Uncalled bet ($0.66) returned to MrBembel7
+*** RIVER *** [8s 5s Qs 7h] [7c]
+*** SHOW DOWN ***
+yellowmash2: shows [Qh 4d] (two pair, Queens and Sevens)
+MrBembel7: shows [Ks 7s] (a flush, King high)
+MrBembel7 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.06 
+Board [8s 5s Qs 7h 7c]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: MrBembel7 showed [Ks 7s] and won ($1.50) with a flush, King high
+Seat 3: myck2329 (button) folded on the Flop
+Seat 4: yellowmash2 (small blind) showed [Qh 4d] and lost with two pair, Queens and Sevens
+Seat 5: Myatnyj_Zayats (big blind) folded before Flop
+Seat 6: Lorpugo folded on the Flop
+
+
+
+PokerStars Hand #241188252946:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:29:16 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: DarkSaber29 ($1.94 in chips) 
+Seat 2: MrBembel7 ($2.16 in chips) 
+Seat 3: myck2329 ($4.29 in chips) 
+Seat 5: Myatnyj_Zayats ($2.07 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+Lorpugo: posts small blind $0.01
+DarkSaber29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 6s]
+MrBembel7: folds 
+myck2329: folds 
+Myatnyj_Zayats: raises $0.03 to $0.05
+Lorpugo: folds 
+DarkSaber29: folds 
+Uncalled bet ($0.03) returned to Myatnyj_Zayats
+Myatnyj_Zayats collected $0.05 from pot
+Myatnyj_Zayats: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DarkSaber29 (big blind) folded before Flop
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 5: Myatnyj_Zayats (button) collected ($0.05)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241188260883:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:29:35 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: DarkSaber29 ($1.92 in chips) 
+Seat 2: MrBembel7 ($2.16 in chips) 
+Seat 3: myck2329 ($4.29 in chips) 
+Seat 5: Myatnyj_Zayats ($2.10 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+DarkSaber29: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s 2c]
+yellowmash2 leaves the table
+myck2329: folds 
+Max_Hen joins the table at seat #4 
+Myatnyj_Zayats: folds 
+Myatnyj_Zayats leaves the table
+Lorpugo: folds 
+DarkSaber29: raises $0.02 to $0.04
+MrBembel7: folds 
+Uncalled bet ($0.02) returned to DarkSaber29
+DarkSaber29 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: DarkSaber29 (small blind) collected ($0.04)
+Seat 2: MrBembel7 (big blind) folded before Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 5: Myatnyj_Zayats folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188272263:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:30:03 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: DarkSaber29 ($1.94 in chips) 
+Seat 2: MrBembel7 ($2.14 in chips) 
+Seat 3: myck2329 ($4.29 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 3s]
+ofershec212 joins the table at seat #5 
+Lorpugo: folds 
+DarkSaber29: raises $0.04 to $0.06
+MrBembel7: folds 
+myck2329: folds 
+Uncalled bet ($0.04) returned to DarkSaber29
+DarkSaber29 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DarkSaber29 (button) collected ($0.05)
+Seat 2: MrBembel7 (small blind) folded before Flop
+Seat 3: myck2329 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188278797:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:30:17 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: DarkSaber29 ($1.97 in chips) 
+Seat 2: MrBembel7 ($2.13 in chips) 
+Seat 3: myck2329 ($4.27 in chips) 
+Seat 4: Max_Hen ($0.80 in chips) 
+Seat 5: ofershec212 ($1.60 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+myck2329: posts small blind $0.01
+Max_Hen: posts big blind $0.02
+ofershec212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 2s]
+ofershec212: checks 
+Lorpugo: folds 
+DarkSaber29: raises $0.04 to $0.06
+MrBembel7: folds 
+myck2329: folds 
+Max_Hen: folds 
+ofershec212: calls $0.04
+*** FLOP *** [6d Js 5h]
+ofershec212: checks 
+DarkSaber29: bets $0.09
+ofershec212: folds 
+Uncalled bet ($0.09) returned to DarkSaber29
+DarkSaber29 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6d Js 5h]
+Seat 1: DarkSaber29 collected ($0.14)
+Seat 2: MrBembel7 (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: Max_Hen (big blind) folded before Flop
+Seat 5: ofershec212 folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188288323:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:30:39 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: DarkSaber29 ($2.05 in chips) 
+Seat 2: MrBembel7 ($2.13 in chips) 
+Seat 3: myck2329 ($4.26 in chips) 
+Seat 4: Max_Hen ($0.78 in chips) 
+Seat 5: ofershec212 ($1.54 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+Max_Hen: posts small blind $0.01
+ofershec212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c Qd]
+Lorpugo: folds 
+DarkSaber29: folds 
+MrBembel7: folds 
+myck2329: raises $0.03 to $0.05
+Max_Hen: calls $0.04
+ofershec212: calls $0.03
+*** FLOP *** [As Kd 8s]
+Max_Hen: checks 
+ofershec212: checks 
+myck2329: bets $0.05
+Max_Hen: calls $0.05
+ofershec212: folds 
+*** TURN *** [As Kd 8s] [Ks]
+Max_Hen: checks 
+myck2329: checks 
+*** RIVER *** [As Kd 8s Ks] [2h]
+Max_Hen: bets $0.12
+myck2329: folds 
+Uncalled bet ($0.12) returned to Max_Hen
+Max_Hen collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As Kd 8s Ks 2h]
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 (button) folded on the River
+Seat 4: Max_Hen (small blind) collected ($0.24)
+Seat 5: ofershec212 (big blind) folded on the Flop
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188306068:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:31:21 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: DarkSaber29 ($2.05 in chips) 
+Seat 2: MrBembel7 ($2.13 in chips) 
+Seat 3: myck2329 ($4.16 in chips) 
+Seat 4: Max_Hen ($0.92 in chips) 
+Seat 5: ofershec212 ($1.49 in chips) 
+Seat 6: Lorpugo ($1.55 in chips) 
+ofershec212: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Ks]
+DarkSaber29: folds 
+DarkSaber29 leaves the table
+MrBembel7: folds 
+myck2329: folds 
+Max_Hen: calls $0.02
+ofershec212: calls $0.01
+Lorpugo: raises $0.14 to $0.16
+Max_Hen: folds 
+ofershec212: folds 
+Uncalled bet ($0.14) returned to Lorpugo
+Lorpugo collected $0.06 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: DarkSaber29 folded before Flop (didn't bet)
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Max_Hen (button) folded before Flop
+Seat 5: ofershec212 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.06)
+
+
+
+PokerStars Hand #241188313956:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:31:39 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 2: MrBembel7 ($2.13 in chips) 
+Seat 3: myck2329 ($4.16 in chips) 
+Seat 4: Max_Hen ($0.90 in chips) 
+Seat 5: ofershec212 ($1.47 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Matheus M Assis joins the table at seat #1 
+Lorpugo: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 5c]
+myck2329: folds 
+Max_Hen: folds 
+ofershec212: folds 
+Lorpugo: raises $0.03 to $0.05
+MrBembel7: calls $0.03
+*** FLOP *** [9c Kh 8c]
+Lorpugo: bets $0.03
+MrBembel7: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9c Kh 8c]
+Seat 2: MrBembel7 (big blind) folded on the Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Max_Hen folded before Flop (didn't bet)
+Seat 5: ofershec212 (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #241188322000:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:31:57 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 2: MrBembel7 ($2.08 in chips) 
+Seat 3: myck2329 ($4.16 in chips) 
+Seat 4: Max_Hen ($0.90 in chips) 
+Seat 5: ofershec212 ($1.47 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 5s]
+Max_Hen: folds 
+ofershec212: calls $0.02
+Lorpugo: folds 
+MrBembel7: calls $0.01
+myck2329: checks 
+*** FLOP *** [2d 2c Ks]
+MrBembel7: checks 
+myck2329: checks 
+ofershec212: checks 
+*** TURN *** [2d 2c Ks] [Tc]
+MrBembel7: checks 
+myck2329: checks 
+ofershec212: checks 
+*** RIVER *** [2d 2c Ks Tc] [6h]
+MrBembel7: bets $0.06
+myck2329: raises $0.14 to $0.20
+ofershec212: folds 
+MrBembel7: raises $0.14 to $0.34
+myck2329: calls $0.14
+*** SHOW DOWN ***
+MrBembel7: shows [As Ad] (two pair, Aces and Deuces)
+myck2329: shows [5h 2s] (three of a kind, Deuces)
+myck2329 collected $0.71 from pot
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [2d 2c Ks Tc 6h]
+Seat 2: MrBembel7 (small blind) showed [As Ad] and lost with two pair, Aces and Deuces
+Seat 3: myck2329 (big blind) showed [5h 2s] and won ($0.71) with three of a kind, Deuces
+Seat 4: Max_Hen folded before Flop (didn't bet)
+Seat 5: ofershec212 folded on the River
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188344342:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:32:49 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: Matheus M Assis ($1.60 in chips) 
+Seat 2: MrBembel7 ($1.72 in chips) 
+Seat 3: myck2329 ($4.51 in chips) 
+Seat 4: Max_Hen ($0.90 in chips) 
+Seat 5: ofershec212 ($1.45 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+myck2329: posts small blind $0.01
+Max_Hen: posts big blind $0.02
+Matheus M Assis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 3c]
+ofershec212: calls $0.02
+Lorpugo: folds 
+Matheus M Assis: checks 
+MrBembel7: folds 
+myck2329: folds 
+Max_Hen: checks 
+*** FLOP *** [Qc 8c 4c]
+Max_Hen: checks 
+ofershec212: checks 
+Matheus M Assis: checks 
+*** TURN *** [Qc 8c 4c] [Jh]
+Max_Hen: bets $0.04
+ofershec212: calls $0.04
+Matheus M Assis: calls $0.04
+*** RIVER *** [Qc 8c 4c Jh] [2s]
+Max_Hen: bets $0.06
+ofershec212: calls $0.06
+Matheus M Assis: calls $0.06
+*** SHOW DOWN ***
+Max_Hen: shows [3h Jd] (a pair of Jacks)
+ofershec212: shows [9c Ts] (a straight, Eight to Queen)
+Matheus M Assis: mucks hand 
+ofershec212 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Qc 8c 4c Jh 2s]
+Seat 1: Matheus M Assis mucked [8d 2d]
+Seat 2: MrBembel7 (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: Max_Hen (big blind) showed [3h Jd] and lost with a pair of Jacks
+Seat 5: ofershec212 showed [9c Ts] and won ($0.36) with a straight, Eight to Queen
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188362405:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:33:31 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: Matheus M Assis ($1.48 in chips) 
+Seat 2: MrBembel7 ($1.72 in chips) 
+Seat 3: myck2329 ($4.50 in chips) 
+Seat 4: Max_Hen ($0.78 in chips) 
+Seat 5: ofershec212 ($1.69 in chips) 
+Seat 6: Lorpugo ($1.64 in chips) 
+Max_Hen: posts small blind $0.01
+ofershec212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 7d]
+Lorpugo: raises $0.03 to $0.05
+Matheus M Assis: calls $0.05
+MrBembel7: folds 
+myck2329: raises $0.15 to $0.20
+Max_Hen: folds 
+ofershec212: raises $1.49 to $1.69 and is all-in
+Lorpugo: folds 
+Matheus M Assis: folds 
+myck2329: folds 
+Uncalled bet ($1.49) returned to ofershec212
+ofershec212 collected $0.51 from pot
+ofershec212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0 
+Seat 1: Matheus M Assis folded before Flop
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 (button) folded before Flop
+Seat 4: Max_Hen (small blind) folded before Flop
+Seat 5: ofershec212 (big blind) collected ($0.51)
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #241188379764:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:34:11 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: Matheus M Assis ($1.43 in chips) 
+Seat 2: MrBembel7 ($1.72 in chips) 
+Seat 3: myck2329 ($4.30 in chips) 
+Seat 4: Max_Hen ($0.77 in chips) 
+Seat 5: ofershec212 ($2 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+ofershec212: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2h]
+Matheus M Assis: calls $0.02
+MrBembel7: calls $0.02
+myck2329: folds 
+Max_Hen: folds 
+ofershec212: calls $0.01
+Lorpugo: checks 
+*** FLOP *** [Ac Kd 5c]
+ofershec212: checks 
+Lorpugo: checks 
+Matheus M Assis: checks 
+MrBembel7: bets $0.02
+ofershec212: calls $0.02
+Lorpugo: folds 
+Matheus M Assis: calls $0.02
+*** TURN *** [Ac Kd 5c] [7s]
+ofershec212: checks 
+Matheus M Assis: checks 
+MrBembel7: bets $0.14
+ofershec212: folds 
+Matheus M Assis: folds 
+Uncalled bet ($0.14) returned to MrBembel7
+MrBembel7 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ac Kd 5c 7s]
+Seat 1: Matheus M Assis folded on the Turn
+Seat 2: MrBembel7 collected ($0.14)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Max_Hen (button) folded before Flop (didn't bet)
+Seat 5: ofershec212 (small blind) folded on the Turn
+Seat 6: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241188396042:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:34:49 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: Matheus M Assis ($1.39 in chips) 
+Seat 2: MrBembel7 ($1.82 in chips) 
+Seat 3: myck2329 ($4.30 in chips) 
+Seat 4: Max_Hen ($0.77 in chips) 
+Seat 5: ofershec212 ($1.96 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+Lorpugo: posts small blind $0.01
+Matheus M Assis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d Kc]
+MrBembel7: calls $0.02
+myck2329: folds 
+Max_Hen: raises $0.02 to $0.04
+ofershec212: calls $0.04
+Lorpugo: folds 
+Matheus M Assis: calls $0.02
+MrBembel7: calls $0.02
+*** FLOP *** [4d 6h 5h]
+Matheus M Assis: bets $0.02
+MrBembel7: folds 
+Max_Hen: raises $0.10 to $0.12
+ofershec212: folds 
+Matheus M Assis: raises $0.20 to $0.32
+Max_Hen: calls $0.20
+*** TURN *** [4d 6h 5h] [8s]
+Matheus M Assis: bets $0.39
+Max_Hen: folds 
+Uncalled bet ($0.39) returned to Matheus M Assis
+Matheus M Assis collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [4d 6h 5h 8s]
+Seat 1: Matheus M Assis (big blind) collected ($0.78)
+Seat 2: MrBembel7 folded on the Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Max_Hen folded on the Turn
+Seat 5: ofershec212 (button) folded on the Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241188416227:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:35:35 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: Matheus M Assis ($1.81 in chips) 
+Seat 2: MrBembel7 ($1.78 in chips) 
+Seat 3: myck2329 ($4.30 in chips) 
+Seat 4: Max_Hen ($0.41 in chips) 
+Seat 5: ofershec212 ($1.92 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+Matheus M Assis: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc 4s]
+myck2329: folds 
+Max_Hen: folds 
+ofershec212: folds 
+Lorpugo: folds 
+Matheus M Assis: calls $0.01
+MrBembel7: checks 
+*** FLOP *** [Ks As 7s]
+Matheus M Assis: checks 
+MrBembel7: bets $0.04
+Matheus M Assis: folds 
+Uncalled bet ($0.04) returned to MrBembel7
+MrBembel7 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ks As 7s]
+Seat 1: Matheus M Assis (small blind) folded on the Flop
+Seat 2: MrBembel7 (big blind) collected ($0.04)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Max_Hen folded before Flop (didn't bet)
+Seat 5: ofershec212 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188425605:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:35:57 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: Matheus M Assis ($1.79 in chips) 
+Seat 2: MrBembel7 ($1.80 in chips) 
+Seat 3: myck2329 ($4.30 in chips) 
+Seat 4: Max_Hen ($0.41 in chips) 
+Seat 5: ofershec212 ($1.92 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Ac]
+Max_Hen: raises $0.02 to $0.04
+ofershec212: folds 
+Lorpugo: folds 
+Matheus M Assis: calls $0.04
+MrBembel7: folds 
+myck2329: calls $0.02
+*** FLOP *** [9c 7s Kc]
+myck2329: checks 
+Max_Hen: bets $0.07
+Matheus M Assis: calls $0.07
+myck2329: calls $0.07
+*** TURN *** [9c 7s Kc] [7h]
+myck2329: checks 
+Max_Hen: checks 
+Matheus M Assis: checks 
+*** RIVER *** [9c 7s Kc 7h] [6s]
+myck2329: checks 
+Max_Hen: bets $0.17
+Matheus M Assis: folds 
+myck2329: folds 
+Uncalled bet ($0.17) returned to Max_Hen
+Max_Hen collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [9c 7s Kc 7h 6s]
+Seat 1: Matheus M Assis (button) folded on the River
+Seat 2: MrBembel7 (small blind) folded before Flop
+Seat 3: myck2329 (big blind) folded on the River
+Seat 4: Max_Hen collected ($0.33)
+Seat 5: ofershec212 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188451564:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:36:57 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: Matheus M Assis ($1.68 in chips) 
+Seat 2: MrBembel7 ($1.79 in chips) 
+Seat 3: myck2329 ($4.19 in chips) 
+Seat 5: ofershec212 ($1.92 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+myck2329: posts small blind $0.01
+ofershec212: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c Qd]
+Max_Hen leaves the table
+Lorpugo: folds 
+Matheus M Assis: calls $0.02
+MrBembel7: calls $0.02
+myck2329: folds 
+ofershec212: checks 
+*** FLOP *** [Ts Kc 2d]
+ofershec212: checks 
+Samuel Hen84 joins the table at seat #4 
+Matheus M Assis: checks 
+MrBembel7: checks 
+*** TURN *** [Ts Kc 2d] [2c]
+ofershec212: checks 
+Matheus M Assis: checks 
+MrBembel7: checks 
+*** RIVER *** [Ts Kc 2d 2c] [Jh]
+ofershec212: checks 
+Matheus M Assis: checks 
+MrBembel7: checks 
+*** SHOW DOWN ***
+ofershec212: shows [8c 3c] (a pair of Deuces)
+Matheus M Assis: shows [Jc 7s] (two pair, Jacks and Deuces)
+MrBembel7: mucks hand 
+Matheus M Assis collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ts Kc 2d 2c Jh]
+Seat 1: Matheus M Assis showed [Jc 7s] and won ($0.07) with two pair, Jacks and Deuces
+Seat 2: MrBembel7 (button) mucked [Qs 5s]
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 5: ofershec212 (big blind) showed [8c 3c] and lost with a pair of Deuces
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188472343:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:37:45 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: Matheus M Assis ($1.73 in chips) 
+Seat 2: MrBembel7 ($1.77 in chips) 
+Seat 3: myck2329 ($4.18 in chips) 
+Seat 5: ofershec212 ($1.90 in chips) 
+Seat 6: Lorpugo ($1.56 in chips) 
+ofershec212: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Ad]
+Matheus M Assis: calls $0.02
+MrBembel7: folds 
+myck2329: folds 
+ofershec212: calls $0.01
+Lorpugo: raises $0.08 to $0.10
+Matheus M Assis: calls $0.08
+ofershec212: folds 
+*** FLOP *** [8d Qd Tc]
+Lorpugo: bets $0.07
+Matheus M Assis: folds 
+Uncalled bet ($0.07) returned to Lorpugo
+Lorpugo collected $0.21 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [8d Qd Tc]
+Seat 1: Matheus M Assis folded on the Flop
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 (button) folded before Flop (didn't bet)
+Seat 5: ofershec212 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.21)
+
+
+
+PokerStars Hand #241188488371:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:38:22 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: Matheus M Assis ($1.63 in chips) 
+Seat 2: MrBembel7 ($1.77 in chips) 
+Seat 3: myck2329 ($4.18 in chips) 
+Seat 5: ofershec212 ($1.88 in chips) 
+Seat 6: Lorpugo ($1.67 in chips) 
+Lorpugo: posts small blind $0.01
+Matheus M Assis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [7s 7h]
+MrBembel7: folds 
+myck2329: folds 
+ofershec212: calls $0.02
+Lorpugo: raises $0.06 to $0.08
+Matheus M Assis: calls $0.06
+ofershec212: folds 
+*** FLOP *** [Qh Js 5d]
+Lorpugo: checks 
+Matheus M Assis: checks 
+*** TURN *** [Qh Js 5d] [7d]
+Lorpugo: bets $0.16
+Matheus M Assis: folds 
+Uncalled bet ($0.16) returned to Lorpugo
+Lorpugo collected $0.17 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qh Js 5d 7d]
+Seat 1: Matheus M Assis (big blind) folded on the Turn
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 5: ofershec212 (button) folded before Flop
+Seat 6: Lorpugo (small blind) collected ($0.17)
+
+
+
+PokerStars Hand #241188507408:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:39:05 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: Matheus M Assis ($1.55 in chips) 
+Seat 2: MrBembel7 ($1.77 in chips) 
+Seat 3: myck2329 ($4.18 in chips) 
+Seat 5: ofershec212 ($1.86 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Matheus M Assis: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qd 6d]
+myck2329: folds 
+ofershec212: raises $0.04 to $0.06
+Lorpugo: folds 
+Matheus M Assis: calls $0.05
+MrBembel7: calls $0.04
+*** FLOP *** [4c Jc 3h]
+Matheus M Assis: checks 
+MrBembel7: checks 
+ofershec212: checks 
+*** TURN *** [4c Jc 3h] [Th]
+Matheus M Assis: checks 
+MrBembel7: checks 
+ofershec212: checks 
+*** RIVER *** [4c Jc 3h Th] [Qc]
+Matheus M Assis: bets $1.49 and is all-in
+MrBembel7: folds 
+ofershec212: calls $1.49
+*** SHOW DOWN ***
+Matheus M Assis: shows [9d 8d] (a straight, Eight to Queen)
+ofershec212: shows [Qs Ad] (a pair of Queens)
+Matheus M Assis collected $3.05 from pot
+*** SUMMARY ***
+Total pot $3.16 | Rake $0.11 
+Board [4c Jc 3h Th Qc]
+Seat 1: Matheus M Assis (small blind) showed [9d 8d] and won ($3.05) with a straight, Eight to Queen
+Seat 2: MrBembel7 (big blind) folded on the River
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 5: ofershec212 showed [Qs Ad] and lost with a pair of Queens
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188531637:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:40:01 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: Matheus M Assis ($3.05 in chips) 
+Seat 2: MrBembel7 ($1.71 in chips) 
+Seat 3: myck2329 ($4.18 in chips) 
+Seat 5: ofershec212 ($0.31 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 4d]
+ofershec212: raises $0.29 to $0.31 and is all-in
+Lorpugo: folds 
+Matheus M Assis: calls $0.31
+MrBembel7: folds 
+myck2329: folds 
+*** FLOP *** [Kh Jd 8d]
+*** TURN *** [Kh Jd 8d] [Kc]
+*** RIVER *** [Kh Jd 8d Kc] [6s]
+*** SHOW DOWN ***
+ofershec212: shows [6d 6h] (a full house, Sixes full of Kings)
+Matheus M Assis: shows [Th 9s] (a pair of Kings)
+ofershec212 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Kh Jd 8d Kc 6s]
+Seat 1: Matheus M Assis (button) showed [Th 9s] and lost with a pair of Kings
+Seat 2: MrBembel7 (small blind) folded before Flop
+Seat 3: myck2329 (big blind) folded before Flop
+Seat 5: ofershec212 showed [6d 6h] and won ($0.63) with a full house, Sixes full of Kings
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188543101:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:40:28 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 2: MrBembel7 ($1.70 in chips) 
+Seat 3: myck2329 ($4.16 in chips) 
+Seat 4: Samuel Hen84 ($2 in chips) 
+Seat 5: ofershec212 ($0.63 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+myck2329: posts small blind $0.01
+Samuel Hen84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Qh]
+ofershec212: calls $0.02
+Lorpugo: folds 
+MrBembel7: calls $0.02
+myck2329: folds 
+S.Artsiom.O. joins the table at seat #1 
+Samuel Hen84: checks 
+*** FLOP *** [3d 7h 5s]
+Samuel Hen84: checks 
+ofershec212: checks 
+MrBembel7: checks 
+*** TURN *** [3d 7h 5s] [Ad]
+Samuel Hen84: checks 
+ofershec212: bets $0.08
+MrBembel7: calls $0.08
+Samuel Hen84: calls $0.08
+*** RIVER *** [3d 7h 5s Ad] [Kc]
+Samuel Hen84: checks 
+ofershec212: checks 
+MrBembel7: checks 
+*** SHOW DOWN ***
+Samuel Hen84: shows [Qd 3h] (a pair of Threes)
+ofershec212: shows [Kh Ts] (a pair of Kings)
+MrBembel7: mucks hand 
+ofershec212 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [3d 7h 5s Ad Kc]
+Seat 2: MrBembel7 (button) mucked [8s 8c]
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: Samuel Hen84 (big blind) showed [Qd 3h] and lost with a pair of Threes
+Seat 5: ofershec212 showed [Kh Ts] and won ($0.30) with a pair of Kings
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188558252:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:41:03 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 2: MrBembel7 ($1.60 in chips) 
+Seat 3: myck2329 ($4.15 in chips) 
+Seat 4: Samuel Hen84 ($1.90 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Samuel Hen84: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ks 7d]
+MrBembel7: folds 
+myck2329: raises $0.03 to $0.05
+Samuel Hen84: calls $0.04
+Lorpugo: folds 
+*** FLOP *** [Tc 8h 4s]
+ofershec212 leaves the table
+Samuel Hen84: checks 
+myck2329: bets $0.07
+elfiru95 joins the table at seat #5 
+Samuel Hen84: calls $0.07
+*** TURN *** [Tc 8h 4s] [7h]
+Samuel Hen84: bets $0.13
+myck2329: calls $0.13
+*** RIVER *** [Tc 8h 4s 7h] [As]
+Samuel Hen84: bets $0.25
+myck2329: calls $0.25
+*** SHOW DOWN ***
+Samuel Hen84: shows [8c 7s] (two pair, Eights and Sevens)
+myck2329: mucks hand 
+Samuel Hen84 collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [Tc 8h 4s 7h As]
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 (button) mucked [Qc Th]
+Seat 4: Samuel Hen84 (small blind) showed [8c 7s] and won ($0.98) with two pair, Eights and Sevens
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241188582995:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:42:00 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.60 in chips) 
+Seat 3: myck2329 ($3.65 in chips) 
+Seat 4: Samuel Hen84 ($2.38 in chips) 
+Seat 6: Lorpugo ($1.74 in chips) 
+Lorpugo: posts small blind $0.01
+S.Artsiom.O.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d 6s]
+MrBembel7: folds 
+myck2329: folds 
+Samuel Hen84: calls $0.02
+Lorpugo: folds 
+S.Artsiom.O.: checks 
+*** FLOP *** [Js 2c 7d]
+S.Artsiom.O.: checks 
+Samuel Hen84: checks 
+*** TURN *** [Js 2c 7d] [2h]
+S.Artsiom.O.: checks 
+Samuel Hen84: checks 
+*** RIVER *** [Js 2c 7d 2h] [3s]
+S.Artsiom.O.: checks 
+Samuel Hen84: bets $0.40
+S.Artsiom.O.: folds 
+Uncalled bet ($0.40) returned to Samuel Hen84
+Samuel Hen84 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js 2c 7d 2h 3s]
+Seat 1: S.Artsiom.O. (big blind) folded on the River
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Samuel Hen84 (button) collected ($0.05)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241188596860:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:42:32 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.60 in chips) 
+Seat 3: myck2329 ($3.65 in chips) 
+Seat 4: Samuel Hen84 ($2.41 in chips) 
+Seat 6: Lorpugo ($1.73 in chips) 
+S.Artsiom.O.: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Jd]
+myck2329: folds 
+Samuel Hen84: calls $0.02
+Lorpugo: raises $0.07 to $0.09
+S.Artsiom.O.: folds 
+MrBembel7: folds 
+Samuel Hen84: calls $0.07
+*** FLOP *** [7s Ks Qd]
+Samuel Hen84: checks 
+Lorpugo: checks 
+*** TURN *** [7s Ks Qd] [9c]
+Samuel Hen84: checks 
+Lorpugo: checks 
+*** RIVER *** [7s Ks Qd 9c] [Th]
+Samuel Hen84: checks 
+Lorpugo: bets $0.12
+Samuel Hen84: calls $0.12
+*** SHOW DOWN ***
+Lorpugo: shows [Js Jd] (a straight, Nine to King)
+Samuel Hen84: mucks hand 
+Lorpugo collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7s Ks Qd 9c Th]
+Seat 1: S.Artsiom.O. (small blind) folded before Flop
+Seat 2: MrBembel7 (big blind) folded before Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Samuel Hen84 mucked [Td 8d]
+Seat 6: Lorpugo (button) showed [Js Jd] and won ($0.43) with a straight, Nine to King
+
+
+
+PokerStars Hand #241188617404:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:43:20 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.58 in chips) 
+Seat 3: myck2329 ($3.65 in chips) 
+Seat 4: Samuel Hen84 ($2.20 in chips) 
+Seat 6: Lorpugo ($1.95 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Jd]
+Samuel Hen84: calls $0.02
+Lorpugo: raises $0.03 to $0.05
+S.Artsiom.O.: folds 
+MrBembel7: calls $0.04
+myck2329: folds 
+Samuel Hen84: calls $0.03
+*** FLOP *** [9d 3c 6c]
+MrBembel7: checks 
+Samuel Hen84: checks 
+Lorpugo: checks 
+*** TURN *** [9d 3c 6c] [7h]
+MrBembel7: checks 
+Samuel Hen84: checks 
+Lorpugo: checks 
+*** RIVER *** [9d 3c 6c 7h] [4d]
+MrBembel7: checks 
+Samuel Hen84: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+MrBembel7: shows [Jh 2h] (high card Jack)
+Samuel Hen84: shows [Ks As] (high card Ace)
+Lorpugo: mucks hand 
+Samuel Hen84 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9d 3c 6c 7h 4d]
+Seat 1: S.Artsiom.O. (button) folded before Flop (didn't bet)
+Seat 2: MrBembel7 (small blind) showed [Jh 2h] and lost with high card Jack
+Seat 3: myck2329 (big blind) folded before Flop
+Seat 4: Samuel Hen84 showed [Ks As] and won ($0.16) with high card Ace
+Seat 6: Lorpugo mucked [Ac Jd]
+
+
+
+PokerStars Hand #241188630314:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:43:50 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.53 in chips) 
+Seat 3: myck2329 ($3.63 in chips) 
+Seat 4: Samuel Hen84 ($2.31 in chips) 
+Seat 6: Lorpugo ($1.90 in chips) 
+myck2329: posts small blind $0.01
+Samuel Hen84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8c Tc]
+Lorpugo: raises $0.03 to $0.05
+S.Artsiom.O.: folds 
+MrBembel7: folds 
+myck2329: raises $0.17 to $0.22
+Samuel Hen84: folds 
+Lorpugo: folds 
+Uncalled bet ($0.17) returned to myck2329
+myck2329 collected $0.12 from pot
+myck2329: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 2: MrBembel7 (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) collected ($0.12)
+Seat 4: Samuel Hen84 (big blind) folded before Flop
+Seat 6: Lorpugo folded before Flop
+
+
+
+PokerStars Hand #241188640860:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:44:15 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.53 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: Samuel Hen84 ($2.29 in chips) 
+Seat 5: elfiru95 ($2 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+Samuel Hen84: posts small blind $0.01
+elfiru95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Kh]
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+MrBembel7: calls $0.02
+myck2329: folds 
+Samuel Hen84: calls $0.01
+elfiru95: checks 
+*** FLOP *** [6c Td 9c]
+Samuel Hen84: checks 
+elfiru95: checks 
+MrBembel7: checks 
+*** TURN *** [6c Td 9c] [7h]
+Samuel Hen84: checks 
+elfiru95: checks 
+MrBembel7: checks 
+*** RIVER *** [6c Td 9c 7h] [3d]
+Samuel Hen84: checks 
+elfiru95: checks 
+MrBembel7: checks 
+*** SHOW DOWN ***
+Samuel Hen84: shows [5h As] (high card Ace)
+elfiru95: mucks hand 
+MrBembel7: shows [Ad Js] (high card Ace - Jack kicker)
+MrBembel7 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6c Td 9c 7h 3d]
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 2: MrBembel7 showed [Ad Js] and won ($0.06) with high card Ace
+Seat 3: myck2329 (button) folded before Flop (didn't bet)
+Seat 4: Samuel Hen84 (small blind) showed [5h As] and lost with high card Ace
+Seat 5: elfiru95 (big blind) mucked [2d 4s]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188659990:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:44:59 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.57 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: Samuel Hen84 ($2.27 in chips) 
+Seat 5: elfiru95 ($2 in chips) 
+Seat 6: Lorpugo ($1.85 in chips) 
+elfiru95: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 6c]
+S.Artsiom.O.: folds 
+MrBembel7: folds 
+myck2329: folds 
+Samuel Hen84: calls $0.02
+elfiru95: folds 
+Lorpugo: checks 
+*** FLOP *** [8s 7h Tc]
+Lorpugo: checks 
+Samuel Hen84: checks 
+*** TURN *** [8s 7h Tc] [Kd]
+Lorpugo: checks 
+Samuel Hen84: checks 
+*** RIVER *** [8s 7h Tc Kd] [4c]
+Lorpugo: bets $0.08
+Samuel Hen84: folds 
+Uncalled bet ($0.08) returned to Lorpugo
+Lorpugo collected $0.05 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 7h Tc Kd 4c]
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 2: MrBembel7 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Samuel Hen84 (button) folded on the River
+Seat 5: elfiru95 (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #241188678517:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:45:42 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.57 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: Samuel Hen84 ($2.25 in chips) 
+Seat 5: elfiru95 ($2 in chips) 
+Seat 6: Lorpugo ($1.88 in chips) 
+Lorpugo: posts small blind $0.01
+S.Artsiom.O.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 2c]
+MrBembel7: calls $0.02
+myck2329: folds 
+Samuel Hen84: folds 
+Samuel Hen84 leaves the table
+elfiru95: raises $0.08 to $0.10
+MARCOFARIA joins the table at seat #4 
+Lorpugo: folds 
+S.Artsiom.O.: calls $0.08
+MrBembel7: folds 
+*** FLOP *** [6c Tc 2h]
+S.Artsiom.O.: checks 
+elfiru95: bets $0.08
+S.Artsiom.O.: folds 
+Uncalled bet ($0.08) returned to elfiru95
+elfiru95 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6c Tc 2h]
+Seat 1: S.Artsiom.O. (big blind) folded on the Flop
+Seat 2: MrBembel7 folded before Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: Samuel Hen84 folded before Flop (didn't bet)
+Seat 5: elfiru95 (button) collected ($0.22)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241188698294:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:46:27 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.55 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: MARCOFARIA ($1.02 in chips) 
+Seat 5: elfiru95 ($2.12 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+S.Artsiom.O.: posts small blind $0.01
+MrBembel7: posts big blind $0.02
+MARCOFARIA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 5d]
+myck2329: folds 
+MARCOFARIA: checks 
+elfiru95: folds 
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+MrBembel7: checks 
+*** FLOP *** [3h Tc 3c]
+MrBembel7: checks 
+MARCOFARIA: checks 
+*** TURN *** [3h Tc 3c] [4s]
+MrBembel7: checks 
+MARCOFARIA: checks 
+*** RIVER *** [3h Tc 3c 4s] [Ac]
+MrBembel7: checks 
+MARCOFARIA: checks 
+*** SHOW DOWN ***
+MrBembel7: shows [7d 6d] (a pair of Threes)
+MARCOFARIA: shows [9s Qs] (a pair of Threes - Ace+Queen kicker)
+MARCOFARIA collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h Tc 3c 4s Ac]
+Seat 1: S.Artsiom.O. (small blind) folded before Flop
+Seat 2: MrBembel7 (big blind) showed [7d 6d] and lost with a pair of Threes
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA showed [9s Qs] and won ($0.05) with a pair of Threes
+Seat 5: elfiru95 folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188709568:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:46:53 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.53 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: MARCOFARIA ($1.05 in chips) 
+Seat 5: elfiru95 ($2.12 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+MrBembel7: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4s]
+MARCOFARIA: calls $0.02
+elfiru95: folds 
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+MrBembel7: calls $0.01
+myck2329: checks 
+*** FLOP *** [Th As Kd]
+MrBembel7: checks 
+myck2329: checks 
+MARCOFARIA: checks 
+*** TURN *** [Th As Kd] [9s]
+MrBembel7: bets $0.02
+myck2329: folds 
+MARCOFARIA: folds 
+Uncalled bet ($0.02) returned to MrBembel7
+MrBembel7 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Th As Kd 9s]
+Seat 1: S.Artsiom.O. (button) folded before Flop (didn't bet)
+Seat 2: MrBembel7 (small blind) collected ($0.06)
+Seat 3: myck2329 (big blind) folded on the Turn
+Seat 4: MARCOFARIA folded on the Turn
+Seat 5: elfiru95 folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188723431:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:47:25 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: MrBembel7 ($1.57 in chips) 
+Seat 3: myck2329 ($3.68 in chips) 
+Seat 4: MARCOFARIA ($1.03 in chips) 
+Seat 5: elfiru95 ($2.12 in chips) 
+Seat 6: Lorpugo ($1.87 in chips) 
+myck2329: posts small blind $0.01
+MARCOFARIA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 2s]
+elfiru95: folds 
+Lorpugo: raises $0.03 to $0.05
+S.Artsiom.O.: folds 
+MrBembel7: folds 
+MrBembel7 leaves the table
+myck2329: folds 
+MARCOFARIA: calls $0.03
+*** FLOP *** [5d 8s Kh]
+Rickre94 joins the table at seat #2 
+MARCOFARIA: checks 
+Lorpugo: bets $0.04
+MARCOFARIA: calls $0.04
+*** TURN *** [5d 8s Kh] [Jd]
+MARCOFARIA: checks 
+Lorpugo: checks 
+*** RIVER *** [5d 8s Kh Jd] [9h]
+MARCOFARIA: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+MARCOFARIA: shows [Qs Js] (a pair of Jacks)
+Lorpugo: mucks hand 
+MARCOFARIA collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5d 8s Kh Jd 9h]
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 2: MrBembel7 (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: MARCOFARIA (big blind) showed [Qs Js] and won ($0.18) with a pair of Jacks
+Seat 5: elfiru95 folded before Flop (didn't bet)
+Seat 6: Lorpugo mucked [2h 2s]
+
+
+
+PokerStars Hand #241188740058:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:48:04 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 3: myck2329 ($3.67 in chips) 
+Seat 4: MARCOFARIA ($1.12 in chips) 
+Seat 6: Lorpugo ($1.78 in chips) 
+MARCOFARIA: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 4s]
+S.Artsiom.O.: folds 
+myck2329: raises $0.03 to $0.05
+elfiru95 leaves the table
+MARCOFARIA: folds 
+Lorpugo: folds 
+Uncalled bet ($0.03) returned to myck2329
+myck2329 collected $0.05 from pot
+myck2329: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 3: myck2329 (button) collected ($0.05)
+Seat 4: MARCOFARIA (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241188747012:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:48:20 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: Rickre94 ($1.09 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: MARCOFARIA ($1.11 in chips) 
+Seat 6: Lorpugo ($1.76 in chips) 
+Lorpugo: posts small blind $0.01
+S.Artsiom.O.: posts big blind $0.02
+Rickre94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h 9s]
+Rickre94: raises $0.10 to $0.12
+myck2329: folds 
+Dodôcf joins the table at seat #5 
+MARCOFARIA: folds 
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+Uncalled bet ($0.10) returned to Rickre94
+Rickre94 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: S.Artsiom.O. (big blind) folded before Flop
+Seat 2: Rickre94 collected ($0.05)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA (button) folded before Flop (didn't bet)
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241188755353:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:48:39 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: Rickre94 ($1.12 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: MARCOFARIA ($1.11 in chips) 
+Seat 5: Dodôcf ($2 in chips) 
+Seat 6: Lorpugo ($1.75 in chips) 
+S.Artsiom.O.: posts small blind $0.01
+Rickre94: posts big blind $0.02
+Dodôcf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 7c]
+myck2329: folds 
+MARCOFARIA: calls $0.02
+Dodôcf: checks 
+Lorpugo: raises $0.10 to $0.12
+S.Artsiom.O.: folds 
+Rickre94: folds 
+MARCOFARIA: calls $0.10
+Dodôcf: folds 
+*** FLOP *** [9s Qh 7h]
+Rickre94 leaves the table
+MARCOFARIA: bets $0.02
+Lorpugo: calls $0.02
+*** TURN *** [9s Qh 7h] [4h]
+MARCOFARIA: bets $0.02
+Lorpugo: calls $0.02
+*** RIVER *** [9s Qh 7h 4h] [5h]
+MARCOFARIA: bets $0.02
+Lorpugo: folds 
+Uncalled bet ($0.02) returned to MARCOFARIA
+MARCOFARIA collected $0.36 from pot
+krgn86 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [9s Qh 7h 4h 5h]
+Seat 1: S.Artsiom.O. (small blind) folded before Flop
+Seat 2: Rickre94 (big blind) folded before Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA collected ($0.36)
+Seat 5: Dodôcf folded before Flop (didn't bet)
+Seat 6: Lorpugo (button) folded on the River
+
+
+
+PokerStars Hand #241188785534:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:49:48 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 3: myck2329 ($3.70 in chips) 
+Seat 4: MARCOFARIA ($1.31 in chips) 
+Seat 5: Dodôcf ($1.98 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+myck2329: posts small blind $0.01
+MARCOFARIA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6s]
+Dodôcf: calls $0.02
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+myck2329: folds 
+MARCOFARIA: checks 
+*** FLOP *** [Ah 3h Kh]
+MARCOFARIA: checks 
+Dodôcf: checks 
+*** TURN *** [Ah 3h Kh] [Td]
+MARCOFARIA: checks 
+Dodôcf: checks 
+*** RIVER *** [Ah 3h Kh Td] [Jh]
+MARCOFARIA: bets $0.02
+Dodôcf: calls $0.02
+*** SHOW DOWN ***
+MARCOFARIA: shows [2d 6h] (a flush, Ace high)
+Dodôcf: mucks hand 
+MARCOFARIA collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ah 3h Kh Td Jh]
+Seat 1: S.Artsiom.O. (button) folded before Flop (didn't bet)
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: MARCOFARIA (big blind) showed [2d 6h] and won ($0.09) with a flush, Ace high
+Seat 5: Dodôcf mucked [5c Ac]
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188798674:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:50:18 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: krgn86 ($1.60 in chips) 
+Seat 3: myck2329 ($3.69 in chips) 
+Seat 4: MARCOFARIA ($1.36 in chips) 
+Seat 5: Dodôcf ($1.94 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+MARCOFARIA: posts small blind $0.01
+Dodôcf: posts big blind $0.02
+krgn86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h Qh]
+Lorpugo: folds 
+S.Artsiom.O.: raises $0.06 to $0.08
+krgn86: calls $0.06
+myck2329: folds 
+MARCOFARIA: calls $0.07
+Dodôcf: calls $0.06
+*** FLOP *** [6c 3d 8h]
+MARCOFARIA: checks 
+Dodôcf: checks 
+S.Artsiom.O.: checks 
+krgn86: checks 
+*** TURN *** [6c 3d 8h] [5h]
+MARCOFARIA: checks 
+Dodôcf: checks 
+S.Artsiom.O.: checks 
+krgn86: checks 
+*** RIVER *** [6c 3d 8h 5h] [2h]
+MARCOFARIA: checks 
+Dodôcf: checks 
+S.Artsiom.O.: bets $0.14
+krgn86: folds 
+MARCOFARIA: folds 
+Dodôcf: folds 
+Uncalled bet ($0.14) returned to S.Artsiom.O.
+S.Artsiom.O. collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6c 3d 8h 5h 2h]
+Seat 1: S.Artsiom.O. collected ($0.31)
+Seat 2: krgn86 folded on the River
+Seat 3: myck2329 (button) folded before Flop (didn't bet)
+Seat 4: MARCOFARIA (small blind) folded on the River
+Seat 5: Dodôcf (big blind) folded on the River
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188832612:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:51:37 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: S.Artsiom.O. ($2.23 in chips) 
+Seat 2: krgn86 ($1.52 in chips) 
+Seat 3: myck2329 ($3.69 in chips) 
+Seat 4: MARCOFARIA ($1.28 in chips) 
+Seat 5: Dodôcf ($1.86 in chips) 
+Seat 6: Lorpugo ($1.59 in chips) 
+Dodôcf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8h]
+S.Artsiom.O.: folds 
+krgn86: raises $0.04 to $0.06
+myck2329: folds 
+MARCOFARIA: calls $0.06
+Dodôcf: folds 
+Lorpugo: folds 
+*** FLOP *** [9c 6h Js]
+krgn86: bets $0.07
+MARCOFARIA: calls $0.07
+*** TURN *** [9c 6h Js] [3s]
+krgn86: bets $0.10
+MARCOFARIA: folds 
+Uncalled bet ($0.10) returned to krgn86
+krgn86 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9c 6h Js 3s]
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 2: krgn86 collected ($0.28)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA (button) folded on the Turn
+Seat 5: Dodôcf (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241188854458:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:52:27 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: S.Artsiom.O. ($2.23 in chips) 
+Seat 2: krgn86 ($1.67 in chips) 
+Seat 3: myck2329 ($3.69 in chips) 
+Seat 4: MARCOFARIA ($1.15 in chips) 
+Seat 5: Dodôcf ($1.85 in chips) 
+Seat 6: Lorpugo ($1.57 in chips) 
+Lorpugo: posts small blind $0.01
+S.Artsiom.O.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 3h]
+krgn86: folds 
+myck2329: folds 
+MARCOFARIA: folds 
+Dodôcf: calls $0.02
+Lorpugo: calls $0.01
+S.Artsiom.O.: checks 
+*** FLOP *** [Qs 5c 2c]
+Lorpugo: bets $0.02
+S.Artsiom.O.: folds 
+Dodôcf: calls $0.02
+*** TURN *** [Qs 5c 2c] [4d]
+Lorpugo: bets $0.03
+Dodôcf: folds 
+Uncalled bet ($0.03) returned to Lorpugo
+Lorpugo collected $0.10 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qs 5c 2c 4d]
+Seat 1: S.Artsiom.O. (big blind) folded on the Flop
+Seat 2: krgn86 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA folded before Flop (didn't bet)
+Seat 5: Dodôcf (button) folded on the Turn
+Seat 6: Lorpugo (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #241188873587:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:53:12 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: S.Artsiom.O. ($2.21 in chips) 
+Seat 2: krgn86 ($1.67 in chips) 
+Seat 3: myck2329 ($3.69 in chips) 
+Seat 4: MARCOFARIA ($1.15 in chips) 
+Seat 5: Dodôcf ($1.81 in chips) 
+Seat 6: Lorpugo ($1.63 in chips) 
+S.Artsiom.O.: posts small blind $0.01
+krgn86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Js]
+myck2329: folds 
+MARCOFARIA: calls $0.02
+Dodôcf: calls $0.02
+Lorpugo: calls $0.02
+S.Artsiom.O.: calls $0.01
+krgn86: checks 
+*** FLOP *** [8h Qd 8s]
+S.Artsiom.O.: checks 
+krgn86: checks 
+MARCOFARIA: bets $0.02
+Dodôcf: calls $0.02
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+krgn86: folds 
+*** TURN *** [8h Qd 8s] [9c]
+MARCOFARIA: bets $0.07
+Dodôcf: calls $0.07
+*** RIVER *** [8h Qd 8s 9c] [Ad]
+MARCOFARIA: bets $0.14
+Dodôcf: calls $0.14
+*** SHOW DOWN ***
+MARCOFARIA: shows [Qh Ks] (two pair, Queens and Eights)
+Dodôcf: mucks hand 
+MARCOFARIA collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [8h Qd 8s 9c Ad]
+Seat 1: S.Artsiom.O. (small blind) folded on the Flop
+Seat 2: krgn86 (big blind) folded on the Flop
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA showed [Qh Ks] and won ($0.54) with two pair, Queens and Eights
+Seat 5: Dodôcf mucked [Th 9s]
+Seat 6: Lorpugo (button) folded on the Flop
+
+
+
+PokerStars Hand #241188896778:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:54:06 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: S.Artsiom.O. ($2.19 in chips) 
+Seat 2: krgn86 ($1.65 in chips) 
+Seat 3: myck2329 ($3.69 in chips) 
+Seat 4: MARCOFARIA ($1.44 in chips) 
+Seat 5: Dodôcf ($1.56 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+krgn86: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2h Th]
+MARCOFARIA: folds 
+Dodôcf: calls $0.02
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+krgn86: calls $0.01
+myck2329: checks 
+*** FLOP *** [Tc 6c Qs]
+krgn86: checks 
+myck2329: checks 
+Dodôcf: checks 
+*** TURN *** [Tc 6c Qs] [4s]
+krgn86: checks 
+myck2329: checks 
+Dodôcf: checks 
+*** RIVER *** [Tc 6c Qs 4s] [Ad]
+krgn86: checks 
+myck2329: checks 
+Dodôcf: checks 
+*** SHOW DOWN ***
+krgn86: shows [3s 7s] (high card Ace)
+myck2329: shows [Kd 2d] (high card Ace - King kicker)
+Dodôcf: shows [As 8c] (a pair of Aces)
+Dodôcf collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc 6c Qs 4s Ad]
+Seat 1: S.Artsiom.O. (button) folded before Flop (didn't bet)
+Seat 2: krgn86 (small blind) showed [3s 7s] and lost with high card Ace
+Seat 3: myck2329 (big blind) showed [Kd 2d] and lost with high card Ace
+Seat 4: MARCOFARIA folded before Flop (didn't bet)
+Seat 5: Dodôcf showed [As 8c] and won ($0.06) with a pair of Aces
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188913760:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:54:46 ET
+Table 'Luanda' 6-max Seat #2 is the button
+Seat 1: S.Artsiom.O. ($2.19 in chips) 
+Seat 2: krgn86 ($1.63 in chips) 
+Seat 3: myck2329 ($3.67 in chips) 
+Seat 4: MARCOFARIA ($1.44 in chips) 
+Seat 5: Dodôcf ($1.60 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+myck2329: posts small blind $0.01
+MARCOFARIA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c Jc]
+Dodôcf: folds 
+Lorpugo: folds 
+S.Artsiom.O.: raises $0.04 to $0.06
+krgn86: calls $0.06
+myck2329: folds 
+MARCOFARIA: calls $0.04
+*** FLOP *** [4h 7d As]
+MARCOFARIA: checks 
+S.Artsiom.O.: bets $0.09
+krgn86: folds 
+MARCOFARIA: raises $0.13 to $0.22
+S.Artsiom.O.: calls $0.13
+*** TURN *** [4h 7d As] [5s]
+MARCOFARIA: bets $1.16 and is all-in
+S.Artsiom.O.: folds 
+Uncalled bet ($1.16) returned to MARCOFARIA
+MARCOFARIA collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [4h 7d As 5s]
+Seat 1: S.Artsiom.O. folded on the Turn
+Seat 2: krgn86 (button) folded on the Flop
+Seat 3: myck2329 (small blind) folded before Flop
+Seat 4: MARCOFARIA (big blind) collected ($0.61)
+Seat 5: Dodôcf folded before Flop (didn't bet)
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188936106:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:55:54 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: krgn86 ($1.57 in chips) 
+Seat 3: myck2329 ($3.66 in chips) 
+Seat 4: MARCOFARIA ($1.77 in chips) 
+Seat 5: Dodôcf ($1.60 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+MARCOFARIA: posts small blind $0.01
+Dodôcf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 9h]
+Lorpugo: folds 
+S.Artsiom.O.: raises $0.04 to $0.06
+krgn86: folds 
+myck2329: folds 
+MARCOFARIA: folds 
+Dodôcf: calls $0.04
+*** FLOP *** [6h 3d Qh]
+Dodôcf: checks 
+S.Artsiom.O.: checks 
+*** TURN *** [6h 3d Qh] [3c]
+Dodôcf: checks 
+S.Artsiom.O.: checks 
+*** RIVER *** [6h 3d Qh 3c] [7s]
+Dodôcf: bets $0.10
+S.Artsiom.O.: calls $0.10
+*** SHOW DOWN ***
+Dodôcf: shows [3h Js] (three of a kind, Threes)
+S.Artsiom.O.: mucks hand 
+Dodôcf collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6h 3d Qh 3c 7s]
+Seat 1: S.Artsiom.O. mucked [8h 8s]
+Seat 2: krgn86 folded before Flop (didn't bet)
+Seat 3: myck2329 (button) folded before Flop (didn't bet)
+Seat 4: MARCOFARIA (small blind) folded before Flop
+Seat 5: Dodôcf (big blind) showed [3h Js] and won ($0.32) with three of a kind, Threes
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188950203:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:56:41 ET
+Table 'Luanda' 6-max Seat #4 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: krgn86 ($1.57 in chips) 
+Seat 3: myck2329 ($3.66 in chips) 
+Seat 4: MARCOFARIA ($1.76 in chips) 
+Seat 5: Dodôcf ($1.76 in chips) 
+Seat 6: Lorpugo ($1.61 in chips) 
+Dodôcf: posts small blind $0.01
+Lorpugo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Ts]
+S.Artsiom.O.: folds 
+krgn86: raises $0.04 to $0.06
+myck2329: folds 
+MARCOFARIA: calls $0.06
+Dodôcf: folds 
+Lorpugo: calls $0.04
+*** FLOP *** [6s Tc 3c]
+Lorpugo: checks 
+krgn86: checks 
+MARCOFARIA: checks 
+*** TURN *** [6s Tc 3c] [Js]
+Lorpugo: checks 
+krgn86: checks 
+MARCOFARIA: bets $0.09
+Lorpugo: calls $0.09
+krgn86: folds 
+*** RIVER *** [6s Tc 3c Js] [Ad]
+Lorpugo: checks 
+MARCOFARIA: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ac Ts] (two pair, Aces and Tens)
+MARCOFARIA: mucks hand 
+Lorpugo collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [6s Tc 3c Js Ad]
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 2: krgn86 folded on the Turn
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA (button) mucked [7d 3d]
+Seat 5: Dodôcf (small blind) folded before Flop
+Seat 6: Lorpugo (big blind) showed [Ac Ts] and won ($0.36) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #241188964160:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:57:28 ET
+Table 'Luanda' 6-max Seat #5 is the button
+Seat 1: S.Artsiom.O. ($2 in chips) 
+Seat 2: krgn86 ($1.51 in chips) 
+Seat 3: myck2329 ($3.66 in chips) 
+Seat 4: MARCOFARIA ($1.61 in chips) 
+Seat 5: Dodôcf ($1.75 in chips) 
+Seat 6: Lorpugo ($1.82 in chips) 
+Lorpugo: posts small blind $0.01
+S.Artsiom.O.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kc 2s]
+krgn86: folds 
+myck2329: folds 
+MARCOFARIA: folds 
+Dodôcf: calls $0.02
+Lorpugo: folds 
+S.Artsiom.O.: raises $0.06 to $0.08
+Dodôcf: folds 
+Uncalled bet ($0.06) returned to S.Artsiom.O.
+S.Artsiom.O. collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: S.Artsiom.O. (big blind) collected ($0.05)
+Seat 2: krgn86 folded before Flop (didn't bet)
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA folded before Flop (didn't bet)
+Seat 5: Dodôcf (button) folded before Flop
+Seat 6: Lorpugo (small blind) folded before Flop
+
+
+
+PokerStars Hand #241188970932:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:57:51 ET
+Table 'Luanda' 6-max Seat #6 is the button
+Seat 1: S.Artsiom.O. ($2.03 in chips) 
+Seat 2: krgn86 ($1.51 in chips) 
+Seat 3: myck2329 ($3.66 in chips) 
+Seat 4: MARCOFARIA ($1.61 in chips) 
+Seat 5: Dodôcf ($1.73 in chips) 
+Seat 6: Lorpugo ($1.81 in chips) 
+S.Artsiom.O.: posts small blind $0.01
+krgn86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s 4d]
+myck2329: folds 
+MARCOFARIA: folds 
+Dodôcf: calls $0.02
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+krgn86: checks 
+*** FLOP *** [2h Th Jd]
+krgn86: checks 
+Dodôcf: checks 
+*** TURN *** [2h Th Jd] [6h]
+krgn86: checks 
+Dodôcf: checks 
+*** RIVER *** [2h Th Jd 6h] [2s]
+krgn86: checks 
+Dodôcf: checks 
+*** SHOW DOWN ***
+krgn86: shows [3d Qs] (a pair of Deuces)
+Dodôcf: shows [Qc 2c] (three of a kind, Deuces)
+Dodôcf collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2h Th Jd 6h 2s]
+Seat 1: S.Artsiom.O. (small blind) folded before Flop
+Seat 2: krgn86 (big blind) showed [3d Qs] and lost with a pair of Deuces
+Seat 3: myck2329 folded before Flop (didn't bet)
+Seat 4: MARCOFARIA folded before Flop (didn't bet)
+Seat 5: Dodôcf showed [Qc 2c] and won ($0.05) with three of a kind, Deuces
+Seat 6: Lorpugo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188980226:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:58:21 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: S.Artsiom.O. ($2.02 in chips) 
+Seat 2: krgn86 ($1.49 in chips) 
+Seat 3: myck2329 ($3.66 in chips) 
+Seat 4: MARCOFARIA ($1.61 in chips) 
+Seat 5: Dodôcf ($1.76 in chips) 
+Seat 6: Lorpugo ($1.81 in chips) 
+krgn86: posts small blind $0.01
+myck2329: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 6c]
+MARCOFARIA: calls $0.02
+Dodôcf: calls $0.02
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+krgn86: calls $0.01
+myck2329: checks 
+*** FLOP *** [Ac 3h 2h]
+krgn86: checks 
+myck2329: checks 
+MARCOFARIA: checks 
+Dodôcf: checks 
+*** TURN *** [Ac 3h 2h] [Jc]
+krgn86: checks 
+myck2329: checks 
+MARCOFARIA: bets $0.04
+Dodôcf: folds 
+krgn86: folds 
+krgn86 leaves the table
+myck2329: folds 
+Uncalled bet ($0.04) returned to MARCOFARIA
+MARCOFARIA collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ac 3h 2h Jc]
+Seat 1: S.Artsiom.O. (button) folded before Flop (didn't bet)
+Seat 2: krgn86 (small blind) folded on the Turn
+Seat 3: myck2329 (big blind) folded on the Turn
+Seat 4: MARCOFARIA collected ($0.08)
+Seat 5: Dodôcf folded on the Turn
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241188993666:  Hold'em No Limit ($0.01/$0.02 USD) - 2023/01/16 13:59:05 ET
+Table 'Luanda' 6-max Seat #3 is the button
+Seat 1: S.Artsiom.O. ($2.02 in chips) 
+Seat 3: myck2329 ($3.64 in chips) 
+Seat 4: MARCOFARIA ($1.67 in chips) 
+Seat 5: Dodôcf ($1.74 in chips) 
+Seat 6: Lorpugo ($1.81 in chips) 
+MARCOFARIA: posts small blind $0.01
+Dodôcf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh 5d]
+Lorpugo: folds 
+S.Artsiom.O.: folds 
+myck2329: folds 
+MARCOFARIA: calls $0.01
+Dodôcf: checks 
+*** FLOP *** [Jd Ac 6d]
+MARCOFARIA: checks 
+Dodôcf: bets $0.02
+MARCOFARIA: calls $0.02
+*** TURN *** [Jd Ac 6d] [5c]
+domeisi11 joins the table at seat #2 
+MARCOFARIA: checks 
+Dodôcf: bets $0.02
+MARCOFARIA: calls $0.02
+*** RIVER *** [Jd Ac 6d 5c] [5h]
+MARCOFARIA: checks 
+Dodôcf: bets $0.02
+domeisi11 leaves the table
+MARCOFARIA: calls $0.02
+*** SHOW DOWN ***
+Dodôcf: shows [9c Js] (two pair, Jacks and Fives)
+MARCOFARIA: shows [As 7d] (two pair, Aces and Fives)
+MARCOFARIA collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jd Ac 6d 5c 5h]
+Seat 1: S.Artsiom.O. folded before Flop (didn't bet)
+Seat 3: myck2329 (button) folded before Flop (didn't bet)
+Seat 4: MARCOFARIA (small blind) showed [As 7d] and won ($0.15) with two pair, Aces and Fives
+Seat 5: Dodôcf (big blind) showed [9c Js] and lost with two pair, Jacks and Fives
+Seat 6: Lorpugo folded before Flop (didn't bet)
+
+
+

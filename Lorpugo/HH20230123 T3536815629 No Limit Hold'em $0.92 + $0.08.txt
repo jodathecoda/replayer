@@ -1,0 +1,38 @@
+﻿PokerStars Hand #241353516766: Tournament #3536815629, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/01/23 19:09:14 ET
+Table '3536815629 1' 3-max Seat #1 is the button
+Seat 1: vanyok888 (500 in chips) 
+Seat 2: Endemico (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+Endemico: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d Qd]
+vanyok888: raises 20 to 40
+Endemico: calls 30
+Lorpugo: calls 20
+*** FLOP *** [Th Tc 7h]
+Endemico: checks 
+Lorpugo: checks 
+vanyok888: checks 
+*** TURN *** [Th Tc 7h] [2s]
+Endemico: bets 140
+Lorpugo: calls 140
+vanyok888: folds 
+*** RIVER *** [Th Tc 7h 2s] [Qs]
+Endemico: bets 140
+Lorpugo: raises 180 to 320 and is all-in
+Endemico: calls 180 and is all-in
+*** SHOW DOWN ***
+Lorpugo: shows [7d Qd] (two pair, Queens and Tens)
+Endemico: shows [Ts 5h] (three of a kind, Tens)
+Endemico collected 1040 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Th Tc 7h 2s Qs]
+Seat 1: vanyok888 (button) folded on the Turn
+Seat 2: Endemico (small blind) showed [Ts 5h] and won (1040) with three of a kind, Tens
+Seat 3: Lorpugo (big blind) showed [7d Qd] and lost with two pair, Queens and Tens
+
+
+

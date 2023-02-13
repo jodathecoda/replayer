@@ -1,0 +1,848 @@
+﻿PokerStars Hand #241369269906: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:51:28 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (500 in chips) 
+Seat 2: Lorpugo (500 in chips) 
+Seat 3: hralis (500 in chips) 
+Lorpugo: posts small blind 10
+hralis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s Kc]
+fourstonmain: calls 20
+Lorpugo: folds 
+hralis: checks 
+*** FLOP *** [Jd 3h 8c]
+hralis: checks 
+fourstonmain: bets 20
+hralis: folds 
+Uncalled bet (20) returned to fourstonmain
+fourstonmain collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jd 3h 8c]
+Seat 1: fourstonmain (button) collected (50)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: hralis (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369278850: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:51:51 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (530 in chips) 
+Seat 2: Lorpugo (490 in chips) 
+Seat 3: hralis (480 in chips) 
+hralis: posts small blind 10
+fourstonmain: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5s Jh]
+Lorpugo: folds 
+hralis: folds 
+Uncalled bet (10) returned to fourstonmain
+fourstonmain collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: fourstonmain (big blind) collected (20)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369283498: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:52:02 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (540 in chips) 
+Seat 2: Lorpugo (490 in chips) 
+Seat 3: hralis (470 in chips) 
+fourstonmain: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h Ks]
+hralis: calls 20
+fourstonmain: calls 10
+Lorpugo: checks 
+*** FLOP *** [4c Td 6c]
+fourstonmain: checks 
+Lorpugo: checks 
+hralis: checks 
+*** TURN *** [4c Td 6c] [8d]
+fourstonmain: bets 20
+Lorpugo: raises 66 to 86
+hralis: raises 364 to 450 and is all-in
+fourstonmain: folds 
+Lorpugo: folds 
+Uncalled bet (364) returned to hralis
+hralis collected 252 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 252 | Rake 0 
+Board [4c Td 6c 8d]
+Seat 1: fourstonmain (small blind) folded on the Turn
+Seat 2: Lorpugo (big blind) folded on the Turn
+Seat 3: hralis (button) collected (252)
+
+
+
+PokerStars Hand #241369302443: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:52:49 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (500 in chips) 
+Seat 2: Lorpugo (384 in chips) 
+Seat 3: hralis (616 in chips) 
+Lorpugo: posts small blind 10
+hralis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qh Kc]
+fourstonmain: folds 
+Lorpugo: raises 20 to 40
+hralis: calls 20
+*** FLOP *** [Ts Td Ac]
+Lorpugo: checks 
+hralis: bets 20
+Lorpugo: raises 20 to 40
+hralis: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts Td Ac]
+Seat 1: fourstonmain (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected (120)
+Seat 3: hralis (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369309922: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:53:08 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (500 in chips) 
+Seat 2: Lorpugo (444 in chips) 
+Seat 3: hralis (556 in chips) 
+hralis: posts small blind 10
+fourstonmain: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s 6d]
+Lorpugo: folds 
+hralis: calls 10
+fourstonmain: checks 
+*** FLOP *** [Ah 5h Tc]
+hralis: checks 
+fourstonmain: bets 20
+hralis: calls 20
+*** TURN *** [Ah 5h Tc] [8c]
+hralis: checks 
+fourstonmain: bets 20
+hralis: folds 
+Uncalled bet (20) returned to fourstonmain
+fourstonmain collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ah 5h Tc 8c]
+Seat 1: fourstonmain (big blind) collected (80)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241369318661: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:53:30 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (540 in chips) 
+Seat 2: Lorpugo (444 in chips) 
+Seat 3: hralis (516 in chips) 
+fourstonmain: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d Jh]
+hralis: calls 20
+fourstonmain: calls 10
+Lorpugo: checks 
+*** FLOP *** [7c 6h 7h]
+fourstonmain: checks 
+Lorpugo: checks 
+hralis: bets 30
+fourstonmain: calls 30
+Lorpugo: folds 
+*** TURN *** [7c 6h 7h] [7s]
+fourstonmain: checks 
+hralis: bets 60
+fourstonmain: calls 60
+*** RIVER *** [7c 6h 7h 7s] [Qd]
+fourstonmain: checks 
+hralis: checks 
+*** SHOW DOWN ***
+fourstonmain: shows [As 8d] (three of a kind, Sevens)
+hralis: mucks hand 
+fourstonmain collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7c 6h 7h 7s Qd]
+Seat 1: fourstonmain (small blind) showed [As 8d] and won (240) with three of a kind, Sevens
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: hralis (button) mucked [5h 4h]
+
+
+
+PokerStars Hand #241369336710: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 14:54:16 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (670 in chips) 
+Seat 2: Lorpugo (424 in chips) 
+Seat 3: hralis (406 in chips) 
+Lorpugo: posts small blind 10
+hralis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 5h]
+fourstonmain: calls 20
+Lorpugo: folds 
+hralis: checks 
+*** FLOP *** [Ah Jd Ac]
+hralis: checks 
+fourstonmain: checks 
+*** TURN *** [Ah Jd Ac] [8c]
+hralis: checks 
+fourstonmain: bets 20
+hralis: calls 20
+*** RIVER *** [Ah Jd Ac 8c] [2c]
+hralis: checks 
+fourstonmain: bets 120
+hralis: folds 
+Uncalled bet (120) returned to fourstonmain
+fourstonmain collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ah Jd Ac 8c 2c]
+Seat 1: fourstonmain (button) collected (90)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: hralis (big blind) folded on the River
+
+
+
+PokerStars Hand #241369354047: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:54:59 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (720 in chips) 
+Seat 2: Lorpugo (414 in chips) 
+Seat 3: hralis (366 in chips) 
+hralis: posts small blind 15
+fourstonmain: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th 4s]
+Lorpugo: folds 
+hralis: folds 
+Uncalled bet (15) returned to fourstonmain
+fourstonmain collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: fourstonmain (big blind) collected (30)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369357290: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:55:09 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (735 in chips) 
+Seat 2: Lorpugo (414 in chips) 
+Seat 3: hralis (351 in chips) 
+fourstonmain: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8d 4c]
+hralis has timed out
+hralis: folds 
+hralis is sitting out
+fourstonmain: calls 15
+hralis has returned
+Lorpugo: checks 
+*** FLOP *** [Qd Kd 9h]
+fourstonmain: bets 30
+Lorpugo: folds 
+Uncalled bet (30) returned to fourstonmain
+fourstonmain collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Kd 9h]
+Seat 1: fourstonmain (small blind) collected (60)
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: hralis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241369364650: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:55:34 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (765 in chips) 
+Seat 2: Lorpugo (384 in chips) 
+Seat 3: hralis (351 in chips) 
+Lorpugo: posts small blind 15
+hralis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [2d 2h]
+fourstonmain: folds 
+Lorpugo: raises 354 to 384 and is all-in
+hralis: folds 
+Uncalled bet (354) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: fourstonmain (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) collected (60)
+Seat 3: hralis (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369368289: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:55:46 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (765 in chips) 
+Seat 2: Lorpugo (414 in chips) 
+Seat 3: hralis (321 in chips) 
+hralis: posts small blind 15
+fourstonmain: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Tc]
+Lorpugo: raises 30 to 60
+hralis: folds 
+fourstonmain: calls 30
+*** FLOP *** [6c 6d 7c]
+fourstonmain: checks 
+Lorpugo: checks 
+*** TURN *** [6c 6d 7c] [9h]
+fourstonmain: checks 
+Lorpugo: bets 68
+fourstonmain: folds 
+Uncalled bet (68) returned to Lorpugo
+Lorpugo collected 135 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [6c 6d 7c 9h]
+Seat 1: fourstonmain (big blind) folded on the Turn
+Seat 2: Lorpugo (button) collected (135)
+Seat 3: hralis (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369377630: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:56:17 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (705 in chips) 
+Seat 2: Lorpugo (489 in chips) 
+Seat 3: hralis (306 in chips) 
+fourstonmain: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 6h]
+hralis: raises 30 to 60
+fourstonmain: folds 
+Lorpugo: calls 30
+*** FLOP *** [3c 8h 5s]
+Lorpugo: checks 
+hralis: checks 
+*** TURN *** [3c 8h 5s] [Qh]
+Lorpugo: checks 
+hralis: checks 
+*** RIVER *** [3c 8h 5s Qh] [Kc]
+Lorpugo: checks 
+hralis: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Ts 6h] (high card King)
+hralis: shows [6s Ad] (high card Ace)
+hralis collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [3c 8h 5s Qh Kc]
+Seat 1: fourstonmain (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Ts 6h] and lost with high card King
+Seat 3: hralis (button) showed [6s Ad] and won (135) with high card Ace
+
+
+
+PokerStars Hand #241369386806: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:56:48 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (690 in chips) 
+Seat 2: Lorpugo (429 in chips) 
+Seat 3: hralis (381 in chips) 
+Lorpugo: posts small blind 15
+hralis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td 4s]
+fourstonmain: calls 30
+Lorpugo: folds 
+hralis: checks 
+*** FLOP *** [2h 8s 5c]
+hralis: checks 
+fourstonmain: bets 30
+hralis: folds 
+Uncalled bet (30) returned to fourstonmain
+fourstonmain collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [2h 8s 5c]
+Seat 1: fourstonmain (button) collected (75)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: hralis (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241369392577: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:57:07 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (735 in chips) 
+Seat 2: Lorpugo (414 in chips) 
+Seat 3: hralis (351 in chips) 
+hralis: posts small blind 15
+fourstonmain: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8s 2s]
+Lorpugo: folds 
+hralis: raises 60 to 90
+fourstonmain: folds 
+Uncalled bet (60) returned to hralis
+hralis collected 60 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: fourstonmain (big blind) folded before Flop
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) collected (60)
+
+
+
+PokerStars Hand #241369397996: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 14:57:25 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (705 in chips) 
+Seat 2: Lorpugo (414 in chips) 
+Seat 3: hralis (381 in chips) 
+fourstonmain: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [7c 6d]
+hralis: folds 
+fourstonmain: calls 15
+Lorpugo: checks 
+*** FLOP *** [7s Qs Ac]
+fourstonmain: bets 30
+Lorpugo: calls 30
+*** TURN *** [7s Qs Ac] [Ah]
+fourstonmain: checks 
+Lorpugo: checks 
+*** RIVER *** [7s Qs Ac Ah] [Ts]
+fourstonmain: bets 90
+Lorpugo: folds 
+Uncalled bet (90) returned to fourstonmain
+fourstonmain collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s Qs Ac Ah Ts]
+Seat 1: fourstonmain (small blind) collected (120)
+Seat 2: Lorpugo (big blind) folded on the River
+Seat 3: hralis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241369413538: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:58:16 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (765 in chips) 
+Seat 2: Lorpugo (354 in chips) 
+Seat 3: hralis (381 in chips) 
+Lorpugo: posts small blind 20
+hralis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ah 4h]
+fourstonmain: calls 40
+Lorpugo: raises 314 to 354 and is all-in
+hralis: folds 
+fourstonmain: folds 
+Uncalled bet (314) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: fourstonmain (button) folded before Flop
+Seat 2: Lorpugo (small blind) collected (120)
+Seat 3: hralis (big blind) folded before Flop
+
+
+
+PokerStars Hand #241369418759: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:58:33 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (725 in chips) 
+Seat 2: Lorpugo (434 in chips) 
+Seat 3: hralis (341 in chips) 
+hralis: posts small blind 20
+fourstonmain: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h 4s]
+Lorpugo: folds 
+hralis: raises 40 to 80
+fourstonmain: folds 
+Uncalled bet (40) returned to hralis
+hralis collected 80 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: fourstonmain (big blind) folded before Flop
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) collected (80)
+
+
+
+PokerStars Hand #241369423991: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:58:49 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (685 in chips) 
+Seat 2: Lorpugo (434 in chips) 
+Seat 3: hralis (381 in chips) 
+fourstonmain: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4c 8h]
+hralis: calls 40
+fourstonmain: calls 20
+Lorpugo: checks 
+*** FLOP *** [Ts Ad Td]
+fourstonmain: checks 
+Lorpugo: checks 
+hralis: bets 40
+fourstonmain: folds 
+Lorpugo: folds 
+Uncalled bet (40) returned to hralis
+hralis collected 120 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts Ad Td]
+Seat 1: fourstonmain (small blind) folded on the Flop
+Seat 2: Lorpugo (big blind) folded on the Flop
+Seat 3: hralis (button) collected (120)
+
+
+
+PokerStars Hand #241369429866: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:59:08 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (645 in chips) 
+Seat 2: Lorpugo (394 in chips) 
+Seat 3: hralis (461 in chips) 
+Lorpugo: posts small blind 20
+hralis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [7d 5s]
+fourstonmain: calls 40
+Lorpugo: folds 
+hralis: checks 
+*** FLOP *** [Js Jd 8c]
+hralis: checks 
+fourstonmain: bets 40
+hralis: calls 40
+*** TURN *** [Js Jd 8c] [8h]
+hralis: checks 
+fourstonmain: bets 40
+hralis: raises 130 to 170
+fourstonmain: calls 130
+*** RIVER *** [Js Jd 8c 8h] [6h]
+hralis: bets 211 and is all-in
+fourstonmain: folds 
+Uncalled bet (211) returned to hralis
+hralis collected 520 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Js Jd 8c 8h 6h]
+Seat 1: fourstonmain (button) folded on the River
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: hralis (big blind) collected (520)
+
+
+
+PokerStars Hand #241369444984: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 14:59:57 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (395 in chips) 
+Seat 2: Lorpugo (374 in chips) 
+Seat 3: hralis (731 in chips) 
+hralis: posts small blind 20
+fourstonmain: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9s Qd]
+Lorpugo: folds 
+hralis: calls 20
+fourstonmain: raises 40 to 80
+hralis: calls 40
+*** FLOP *** [Ts 5c 7h]
+hralis: checks 
+fourstonmain: checks 
+*** TURN *** [Ts 5c 7h] [5h]
+hralis: checks 
+fourstonmain: checks 
+*** RIVER *** [Ts 5c 7h 5h] [Ac]
+hralis: checks 
+fourstonmain: bets 160
+hralis: folds 
+Uncalled bet (160) returned to fourstonmain
+fourstonmain collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ts 5c 7h 5h Ac]
+Seat 1: fourstonmain (big blind) collected (160)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) folded on the River
+
+
+
+PokerStars Hand #241369453616: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 15:00:23 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (475 in chips) 
+Seat 2: Lorpugo (374 in chips) 
+Seat 3: hralis (651 in chips) 
+fourstonmain: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Jd]
+hralis: raises 40 to 80
+fourstonmain: folds 
+Lorpugo: raises 294 to 374 and is all-in
+hralis: calls 294
+*** FLOP *** [7c Ks 5d]
+*** TURN *** [7c Ks 5d] [9c]
+*** RIVER *** [7c Ks 5d 9c] [8c]
+*** SHOW DOWN ***
+Lorpugo: shows [Tc Jd] (a straight, Seven to Jack)
+hralis: shows [Ah 4c] (high card Ace)
+Lorpugo collected 768 from pot
+*** SUMMARY ***
+Total pot 768 | Rake 0 
+Board [7c Ks 5d 9c 8c]
+Seat 1: fourstonmain (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [Tc Jd] and won (768) with a straight, Seven to Jack
+Seat 3: hralis (button) showed [Ah 4c] and lost with high card Ace
+
+
+
+PokerStars Hand #241369459837: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:00:42 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (455 in chips) 
+Seat 2: Lorpugo (768 in chips) 
+Seat 3: hralis (277 in chips) 
+Lorpugo: posts small blind 30
+hralis: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ks]
+fourstonmain: calls 60
+Lorpugo: raises 708 to 768 and is all-in
+hralis: calls 217 and is all-in
+fourstonmain: folds 
+Uncalled bet (491) returned to Lorpugo
+*** FLOP *** [3s 9d 2d]
+*** TURN *** [3s 9d 2d] [Jc]
+*** RIVER *** [3s 9d 2d Jc] [4h]
+*** SHOW DOWN ***
+Lorpugo: shows [6s Ks] (high card King)
+hralis: shows [5d 3c] (a pair of Threes)
+hralis collected 614 from pot
+*** SUMMARY ***
+Total pot 614 | Rake 0 
+Board [3s 9d 2d Jc 4h]
+Seat 1: fourstonmain (button) folded before Flop
+Seat 2: Lorpugo (small blind) showed [6s Ks] and lost with high card King
+Seat 3: hralis (big blind) showed [5d 3c] and won (614) with a pair of Threes
+
+
+
+PokerStars Hand #241369469702: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:01:11 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (395 in chips) 
+Seat 2: Lorpugo (491 in chips) 
+Seat 3: hralis (614 in chips) 
+hralis: posts small blind 30
+fourstonmain: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [6c 5h]
+Lorpugo: folds 
+hralis: raises 554 to 614 and is all-in
+fourstonmain: calls 335 and is all-in
+Uncalled bet (219) returned to hralis
+*** FLOP *** [Jh 5d Td]
+*** TURN *** [Jh 5d Td] [Js]
+*** RIVER *** [Jh 5d Td Js] [Ad]
+*** SHOW DOWN ***
+hralis: shows [As 9d] (two pair, Aces and Jacks)
+fourstonmain: shows [Ah Ks] (two pair, Aces and Jacks - King kicker)
+fourstonmain collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [Jh 5d Td Js Ad]
+Seat 1: fourstonmain (big blind) showed [Ah Ks] and won (790) with two pair, Aces and Jacks
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) showed [As 9d] and lost with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #241369475810: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:01:28 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (790 in chips) 
+Seat 2: Lorpugo (491 in chips) 
+Seat 3: hralis (219 in chips) 
+fourstonmain: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [4d 6d]
+hralis: raises 159 to 219 and is all-in
+fourstonmain: folds 
+Lorpugo: folds 
+Uncalled bet (159) returned to hralis
+hralis collected 150 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: fourstonmain (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) folded before Flop
+Seat 3: hralis (button) collected (150)
+
+
+
+PokerStars Hand #241369478197: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:01:34 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (760 in chips) 
+Seat 2: Lorpugo (431 in chips) 
+Seat 3: hralis (309 in chips) 
+Lorpugo: posts small blind 30
+hralis: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h Jc]
+fourstonmain: calls 60
+Lorpugo: folds 
+hralis: raises 249 to 309 and is all-in
+fourstonmain: calls 249
+*** FLOP *** [8h 2c 7d]
+*** TURN *** [8h 2c 7d] [7c]
+*** RIVER *** [8h 2c 7d 7c] [Tc]
+*** SHOW DOWN ***
+hralis: shows [Td 8d] (two pair, Tens and Eights)
+fourstonmain: shows [Ad Jh] (a pair of Sevens)
+hralis collected 648 from pot
+*** SUMMARY ***
+Total pot 648 | Rake 0 
+Board [8h 2c 7d 7c Tc]
+Seat 1: fourstonmain (button) showed [Ad Jh] and lost with a pair of Sevens
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: hralis (big blind) showed [Td 8d] and won (648) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #241369485101: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:01:52 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (451 in chips) 
+Seat 2: Lorpugo (401 in chips) 
+Seat 3: hralis (648 in chips) 
+hralis: posts small blind 30
+fourstonmain: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [4h 9d]
+Lorpugo: folds 
+hralis: folds 
+Uncalled bet (30) returned to fourstonmain
+fourstonmain collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: fourstonmain (big blind) collected (60)
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) folded before Flop
+
+
+
+PokerStars Hand #241369487483: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:01:59 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (481 in chips) 
+Seat 2: Lorpugo (401 in chips) 
+Seat 3: hralis (618 in chips) 
+fourstonmain: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Kh]
+hralis: folds 
+fourstonmain: calls 30
+Lorpugo: raises 341 to 401 and is all-in
+fourstonmain: folds 
+Uncalled bet (341) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: fourstonmain (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) collected (120)
+Seat 3: hralis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241369491654: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:02:10 ET
+Table '3537181622 1' 3-max Seat #1 is the button
+Seat 1: fourstonmain (421 in chips) 
+Seat 2: Lorpugo (461 in chips) 
+Seat 3: hralis (618 in chips) 
+Lorpugo: posts small blind 30
+hralis: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [6h 2c]
+fourstonmain: folds 
+Lorpugo: folds 
+Uncalled bet (30) returned to hralis
+hralis collected 60 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: fourstonmain (button) folded before Flop (didn't bet)
+Seat 2: Lorpugo (small blind) folded before Flop
+Seat 3: hralis (big blind) collected (60)
+
+
+
+PokerStars Hand #241369493973: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:02:15 ET
+Table '3537181622 1' 3-max Seat #2 is the button
+Seat 1: fourstonmain (421 in chips) 
+Seat 2: Lorpugo (431 in chips) 
+Seat 3: hralis (648 in chips) 
+hralis: posts small blind 30
+fourstonmain: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d 5s]
+Lorpugo: folds 
+hralis: calls 30
+fourstonmain: checks 
+*** FLOP *** [9s Js 9d]
+hralis: checks 
+fourstonmain: checks 
+*** TURN *** [9s Js 9d] [3c]
+hralis: bets 60
+fourstonmain: folds 
+Uncalled bet (60) returned to hralis
+hralis collected 120 from pot
+hralis: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s Js 9d 3c]
+Seat 1: fourstonmain (big blind) folded on the Turn
+Seat 2: Lorpugo (button) folded before Flop (didn't bet)
+Seat 3: hralis (small blind) collected (120)
+
+
+
+PokerStars Hand #241369501967: Tournament #3537181622, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/01/24 15:02:35 ET
+Table '3537181622 1' 3-max Seat #3 is the button
+Seat 1: fourstonmain (361 in chips) 
+Seat 2: Lorpugo (431 in chips) 
+Seat 3: hralis (708 in chips) 
+fourstonmain: posts small blind 30
+Lorpugo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 3h]
+hralis: raises 60 to 120
+fourstonmain: folds 
+Lorpugo: raises 311 to 431 and is all-in
+hralis: calls 311
+*** FLOP *** [5h 7h Ah]
+*** TURN *** [5h 7h Ah] [Ad]
+*** RIVER *** [5h 7h Ah Ad] [7c]
+*** SHOW DOWN ***
+Lorpugo: shows [3c 3h] (two pair, Aces and Sevens)
+hralis: shows [Jd 7d] (a full house, Sevens full of Aces)
+hralis collected 892 from pot
+Lorpugo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 892 | Rake 0 
+Board [5h 7h Ah Ad 7c]
+Seat 1: fourstonmain (small blind) folded before Flop
+Seat 2: Lorpugo (big blind) showed [3c 3h] and lost with two pair, Aces and Sevens
+Seat 3: hralis (button) showed [Jd 7d] and won (892) with a full house, Sevens full of Aces
+
+
+

@@ -1,0 +1,861 @@
+﻿PokerStars Hand #241366926644: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:31:53 ET
+Table '3537140007 1' 3-max Seat #1 is the button
+Seat 1: MagicMice (500 in chips) 
+Seat 2: Astraeus69 (500 in chips) 
+Seat 3: Lorpugo (500 in chips) 
+Astraeus69: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5h Jh]
+MagicMice: calls 20
+Astraeus69 is disconnected 
+Astraeus69 is connected 
+Astraeus69 is connected 
+Astraeus69: calls 10
+Lorpugo: checks 
+*** FLOP *** [3c 3s 3h]
+Astraeus69: bets 480 and is all-in
+Lorpugo: folds 
+MagicMice: calls 480 and is all-in
+*** TURN *** [3c 3s 3h] [Th]
+*** RIVER *** [3c 3s 3h Th] [4d]
+*** SHOW DOWN ***
+Astraeus69: shows [7s 7d] (a full house, Threes full of Sevens)
+MagicMice: shows [2h 2d] (a full house, Threes full of Deuces)
+Astraeus69 collected 1020 from pot
+MagicMice finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [3c 3s 3h Th 4d]
+Seat 1: MagicMice (button) showed [2h 2d] and lost with a full house, Threes full of Deuces
+Seat 2: Astraeus69 (small blind) showed [7s 7d] and won (1020) with a full house, Threes full of Sevens
+Seat 3: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241366947510: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:32:47 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (1020 in chips) 
+Seat 3: Lorpugo (480 in chips) 
+Lorpugo: posts small blind 10
+Astraeus69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5d Ts]
+Lorpugo: folds 
+Uncalled bet (10) returned to Astraeus69
+Astraeus69 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Astraeus69 (big blind) collected (20)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241366949409: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:32:52 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (1030 in chips) 
+Seat 3: Lorpugo (470 in chips) 
+Astraeus69: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5h]
+Astraeus69: calls 10
+Lorpugo: checks 
+*** FLOP *** [Tc 7s 2d]
+Lorpugo: checks 
+Astraeus69: checks 
+*** TURN *** [Tc 7s 2d] [As]
+Lorpugo: bets 20
+Astraeus69: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Tc 7s 2d As]
+Seat 2: Astraeus69 (button) (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241366957446: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:33:13 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (1010 in chips) 
+Seat 3: Lorpugo (490 in chips) 
+Lorpugo: posts small blind 10
+Astraeus69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 8c]
+Lorpugo: folds 
+Uncalled bet (10) returned to Astraeus69
+Astraeus69 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Astraeus69 (big blind) collected (20)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241366959151: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:33:17 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (1020 in chips) 
+Seat 3: Lorpugo (480 in chips) 
+Astraeus69: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [Th Jh]
+Astraeus69: calls 10
+Lorpugo: raises 40 to 60
+Astraeus69: calls 40
+*** FLOP *** [3h Js 2c]
+Lorpugo: bets 79
+Astraeus69: calls 79
+*** TURN *** [3h Js 2c] [5d]
+Lorpugo: bets 183
+Astraeus69: folds 
+Uncalled bet (183) returned to Lorpugo
+Lorpugo collected 278 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 278 | Rake 0 
+Board [3h Js 2c 5d]
+Seat 2: Astraeus69 (button) (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) collected (278)
+
+
+
+PokerStars Hand #241366970702: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:33:47 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (881 in chips) 
+Seat 3: Lorpugo (619 in chips) 
+Lorpugo: posts small blind 10
+Astraeus69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s 5c]
+Lorpugo: calls 10
+Astraeus69: checks 
+*** FLOP *** [8c Ad Th]
+Astraeus69: bets 20
+Lorpugo: folds 
+Uncalled bet (20) returned to Astraeus69
+Astraeus69 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Ad Th]
+Seat 2: Astraeus69 (big blind) collected (40)
+Seat 3: Lorpugo (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #241366976078: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:34:01 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (901 in chips) 
+Seat 3: Lorpugo (599 in chips) 
+Astraeus69: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 6h]
+Astraeus69: calls 10
+Lorpugo: checks 
+*** FLOP *** [7c Jd Th]
+Lorpugo: checks 
+Astraeus69: bets 20
+Lorpugo: folds 
+Uncalled bet (20) returned to Astraeus69
+Astraeus69 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7c Jd Th]
+Seat 2: Astraeus69 (button) (small blind) collected (40)
+Seat 3: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241366982297: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:34:17 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (921 in chips) 
+Seat 3: Lorpugo (579 in chips) 
+Lorpugo: posts small blind 10
+Astraeus69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2s Td]
+Lorpugo: folds 
+Uncalled bet (10) returned to Astraeus69
+Astraeus69 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Astraeus69 (big blind) collected (20)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241366984145: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:34:22 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (931 in chips) 
+Seat 3: Lorpugo (569 in chips) 
+Astraeus69: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 6c]
+Astraeus69: calls 10
+Lorpugo: checks 
+*** FLOP *** [Ts Ah Ks]
+Lorpugo: checks 
+Astraeus69: bets 20
+Lorpugo: folds 
+Uncalled bet (20) returned to Astraeus69
+Astraeus69 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ts Ah Ks]
+Seat 2: Astraeus69 (button) (small blind) collected (40)
+Seat 3: Lorpugo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241366988724: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:34:33 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (951 in chips) 
+Seat 3: Lorpugo (549 in chips) 
+Lorpugo: posts small blind 10
+Astraeus69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [2c 7s]
+Lorpugo: folds 
+Uncalled bet (10) returned to Astraeus69
+Astraeus69 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Astraeus69 (big blind) collected (20)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241366991776: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/01/24 13:34:41 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (961 in chips) 
+Seat 3: Lorpugo (539 in chips) 
+Astraeus69: posts small blind 10
+Lorpugo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lorpugo [9c 2h]
+Astraeus69: calls 10
+Lorpugo: checks 
+*** FLOP *** [6s Ad 4s]
+Lorpugo: checks 
+Astraeus69: checks 
+*** TURN *** [6s Ad 4s] [5c]
+Lorpugo: checks 
+Astraeus69: checks 
+*** RIVER *** [6s Ad 4s 5c] [2s]
+Lorpugo: checks 
+Astraeus69: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [9c 2h] (a pair of Deuces)
+Astraeus69: mucks hand 
+Lorpugo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s Ad 4s 5c 2s]
+Seat 2: Astraeus69 (button) (small blind) mucked [Ks 8c]
+Seat 3: Lorpugo (big blind) showed [9c 2h] and won (40) with a pair of Deuces
+
+
+
+PokerStars Hand #241367002424: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:35:09 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (941 in chips) 
+Seat 3: Lorpugo (559 in chips) 
+Lorpugo: posts small blind 15
+Astraeus69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qs Js]
+Lorpugo: raises 45 to 75
+Astraeus69: calls 45
+*** FLOP *** [2h Th 7d]
+Astraeus69: checks 
+Lorpugo: checks 
+*** TURN *** [2h Th 7d] [Qh]
+Astraeus69: bets 30
+Lorpugo: raises 105 to 135
+Astraeus69: calls 105
+*** RIVER *** [2h Th 7d Qh] [Jh]
+Astraeus69: checks 
+Lorpugo: checks 
+*** SHOW DOWN ***
+Astraeus69: shows [9d Qd] (a pair of Queens)
+Lorpugo: shows [Qs Js] (two pair, Queens and Jacks)
+Lorpugo collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [2h Th 7d Qh Jh]
+Seat 2: Astraeus69 (big blind) showed [9d Qd] and lost with a pair of Queens
+Seat 3: Lorpugo (button) (small blind) showed [Qs Js] and won (420) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #241367012363: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:35:34 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (731 in chips) 
+Seat 3: Lorpugo (769 in chips) 
+Astraeus69: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [6s Ah]
+Astraeus69: calls 15
+Lorpugo: checks 
+*** FLOP *** [Kd 2d 7d]
+Lorpugo: checks 
+Astraeus69: checks 
+*** TURN *** [Kd 2d 7d] [5h]
+Lorpugo: checks 
+Astraeus69: checks 
+*** RIVER *** [Kd 2d 7d 5h] [6d]
+Lorpugo: checks 
+Astraeus69: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [6s Ah] (a pair of Sixes)
+Astraeus69: mucks hand 
+Lorpugo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 2d 7d 5h 6d]
+Seat 2: Astraeus69 (button) (small blind) mucked [6h 9s]
+Seat 3: Lorpugo (big blind) showed [6s Ah] and won (60) with a pair of Sixes
+
+
+
+PokerStars Hand #241367020425: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:35:55 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (701 in chips) 
+Seat 3: Lorpugo (799 in chips) 
+Lorpugo: posts small blind 15
+Astraeus69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac 6d]
+Lorpugo: raises 30 to 60
+Astraeus69: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Astraeus69 (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241367023753: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:36:03 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (671 in chips) 
+Seat 3: Lorpugo (829 in chips) 
+Astraeus69: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Qd]
+Astraeus69: calls 15
+Lorpugo: raises 60 to 90
+Astraeus69: calls 60
+*** FLOP *** [6s 4s Ah]
+Lorpugo: bets 90
+Astraeus69: folds 
+Uncalled bet (90) returned to Lorpugo
+Lorpugo collected 180 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6s 4s Ah]
+Seat 2: Astraeus69 (button) (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) collected (180)
+
+
+
+PokerStars Hand #241367029693: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:36:19 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (581 in chips) 
+Seat 3: Lorpugo (919 in chips) 
+Lorpugo: posts small blind 15
+Astraeus69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [6d Ac]
+Lorpugo: raises 30 to 60
+Astraeus69: calls 30
+*** FLOP *** [Kc 3h 9c]
+Astraeus69: checks 
+Lorpugo: checks 
+*** TURN *** [Kc 3h 9c] [6c]
+Astraeus69: checks 
+Lorpugo: bets 60
+Astraeus69: folds 
+Uncalled bet (60) returned to Lorpugo
+Lorpugo collected 120 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc 3h 9c 6c]
+Seat 2: Astraeus69 (big blind) folded on the Turn
+Seat 3: Lorpugo (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #241367035755: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:36:34 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (521 in chips) 
+Seat 3: Lorpugo (979 in chips) 
+Astraeus69: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 6s]
+Astraeus69: calls 15
+Lorpugo: checks 
+*** FLOP *** [Jd 4c 9h]
+Lorpugo: checks 
+Astraeus69: checks 
+*** TURN *** [Jd 4c 9h] [9s]
+Lorpugo: bets 30
+Astraeus69: calls 30
+*** RIVER *** [Jd 4c 9h 9s] [Ah]
+Lorpugo: checks 
+Astraeus69: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [4s 6s] (two pair, Nines and Fours)
+Astraeus69: mucks hand 
+Lorpugo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 4c 9h 9s Ah]
+Seat 2: Astraeus69 (button) (small blind) mucked [Kd 8h]
+Seat 3: Lorpugo (big blind) showed [4s 6s] and won (120) with two pair, Nines and Fours
+
+
+
+PokerStars Hand #241367046854: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:37:03 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (461 in chips) 
+Seat 3: Lorpugo (1039 in chips) 
+Lorpugo: posts small blind 15
+Astraeus69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Ks]
+Lorpugo: raises 30 to 60
+Astraeus69: folds 
+Uncalled bet (30) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Astraeus69 (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #241367050294: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:37:11 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (431 in chips) 
+Seat 3: Lorpugo (1069 in chips) 
+Astraeus69: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Td Js]
+Astraeus69: calls 15
+Lorpugo: checks 
+*** FLOP *** [7d 7s Ac]
+Lorpugo: checks 
+Astraeus69: checks 
+*** TURN *** [7d 7s Ac] [Qd]
+Lorpugo: checks 
+Astraeus69: checks 
+*** RIVER *** [7d 7s Ac Qd] [9s]
+Lorpugo: checks 
+Astraeus69: checks 
+*** SHOW DOWN ***
+Lorpugo: shows [Td Js] (a pair of Sevens)
+Astraeus69: mucks hand 
+Lorpugo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 7s Ac Qd 9s]
+Seat 2: Astraeus69 (button) (small blind) mucked [6s 8s]
+Seat 3: Lorpugo (big blind) showed [Td Js] and won (60) with a pair of Sevens
+
+
+
+PokerStars Hand #241367058025: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:37:31 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (401 in chips) 
+Seat 3: Lorpugo (1099 in chips) 
+Lorpugo: posts small blind 15
+Astraeus69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc 7c]
+Lorpugo: raises 30 to 60
+Astraeus69: calls 30
+*** FLOP *** [9h Kc Ts]
+Astraeus69: checks 
+Lorpugo: checks 
+*** TURN *** [9h Kc Ts] [Ah]
+Astraeus69: bets 30
+Lorpugo: folds 
+Uncalled bet (30) returned to Astraeus69
+Astraeus69 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h Kc Ts Ah]
+Seat 2: Astraeus69 (big blind) collected (120)
+Seat 3: Lorpugo (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241367064413: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/01/24 13:37:48 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (461 in chips) 
+Seat 3: Lorpugo (1039 in chips) 
+Astraeus69: posts small blind 15
+Lorpugo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h As]
+Astraeus69: calls 15
+Lorpugo: raises 1009 to 1039 and is all-in
+Astraeus69: folds 
+Uncalled bet (1009) returned to Lorpugo
+Lorpugo collected 60 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Astraeus69 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (60)
+
+
+
+PokerStars Hand #241367069853: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:38:02 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (431 in chips) 
+Seat 3: Lorpugo (1069 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [5c 8h]
+Lorpugo: folds 
+Uncalled bet (20) returned to Astraeus69
+Astraeus69 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Astraeus69 (big blind) collected (40)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241367072314: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:38:09 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (451 in chips) 
+Seat 3: Lorpugo (1049 in chips) 
+Astraeus69: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9h 3h]
+Astraeus69: calls 20
+Lorpugo: checks 
+*** FLOP *** [As 4h Qh]
+Lorpugo: bets 40
+Astraeus69: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 4h Qh]
+Seat 2: Astraeus69 (button) (small blind) folded on the Flop
+Seat 3: Lorpugo (big blind) collected (80)
+
+
+
+PokerStars Hand #241367077202: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:38:21 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (411 in chips) 
+Seat 3: Lorpugo (1089 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Tc Kh]
+Lorpugo: raises 1049 to 1089 and is all-in
+Astraeus69: calls 371 and is all-in
+Uncalled bet (678) returned to Lorpugo
+*** FLOP *** [6d 2s 3h]
+*** TURN *** [6d 2s 3h] [6c]
+*** RIVER *** [6d 2s 3h 6c] [Qs]
+*** SHOW DOWN ***
+Astraeus69: shows [Ah 5d] (a pair of Sixes)
+Lorpugo: shows [Tc Kh] (a pair of Sixes - lower kicker)
+Astraeus69 collected 822 from pot
+*** SUMMARY ***
+Total pot 822 | Rake 0 
+Board [6d 2s 3h 6c Qs]
+Seat 2: Astraeus69 (big blind) showed [Ah 5d] and won (822) with a pair of Sixes
+Seat 3: Lorpugo (button) (small blind) showed [Tc Kh] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #241367082530: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:38:35 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (822 in chips) 
+Seat 3: Lorpugo (678 in chips) 
+Astraeus69: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ac Th]
+Astraeus69: calls 20
+Lorpugo: raises 638 to 678 and is all-in
+Astraeus69: folds 
+Uncalled bet (638) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Astraeus69 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (80)
+
+
+
+PokerStars Hand #241367086239: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:38:44 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (782 in chips) 
+Seat 3: Lorpugo (718 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [9d 9c]
+Lorpugo: raises 40 to 80
+Astraeus69: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Astraeus69 (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241367089234: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:38:52 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (742 in chips) 
+Seat 3: Lorpugo (758 in chips) 
+Astraeus69: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [3d 4h]
+Astraeus69: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Astraeus69 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241367091158: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:38:57 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (722 in chips) 
+Seat 3: Lorpugo (778 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [4s 7d]
+Lorpugo: folds 
+Uncalled bet (20) returned to Astraeus69
+Astraeus69 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Astraeus69 (big blind) collected (40)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241367092825: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:39:02 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (742 in chips) 
+Seat 3: Lorpugo (758 in chips) 
+Astraeus69: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jh Js]
+Astraeus69: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Astraeus69 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241367094821: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:39:07 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (722 in chips) 
+Seat 3: Lorpugo (778 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Kh Jd]
+Lorpugo: raises 40 to 80
+Astraeus69: calls 40
+*** FLOP *** [9s 6c 9c]
+Astraeus69: checks 
+Lorpugo: checks 
+*** TURN *** [9s 6c 9c] [Jc]
+Astraeus69: checks 
+Lorpugo: bets 160
+Astraeus69: folds 
+Uncalled bet (160) returned to Lorpugo
+Lorpugo collected 160 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9s 6c 9c Jc]
+Seat 2: Astraeus69 (big blind) folded on the Turn
+Seat 3: Lorpugo (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #241367102066: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:39:25 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (642 in chips) 
+Seat 3: Lorpugo (858 in chips) 
+Astraeus69: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Ts 4s]
+Astraeus69: calls 20
+Lorpugo: checks 
+*** FLOP *** [6c 2c 3c]
+Lorpugo: checks 
+Astraeus69: checks 
+*** TURN *** [6c 2c 3c] [Td]
+Lorpugo: bets 80
+Astraeus69: folds 
+Uncalled bet (80) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 2c 3c Td]
+Seat 2: Astraeus69 (button) (small blind) folded on the Turn
+Seat 3: Lorpugo (big blind) collected (80)
+
+
+
+PokerStars Hand #241367107182: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:39:38 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (602 in chips) 
+Seat 3: Lorpugo (898 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [3c 5d]
+Lorpugo: folds 
+Uncalled bet (20) returned to Astraeus69
+Astraeus69 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Astraeus69 (big blind) collected (40)
+Seat 3: Lorpugo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241367109008: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:39:43 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (622 in chips) 
+Seat 3: Lorpugo (878 in chips) 
+Astraeus69: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Qc 7s]
+Astraeus69: raises 40 to 80
+Lorpugo: folds 
+Uncalled bet (40) returned to Astraeus69
+Astraeus69 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Astraeus69 (button) (small blind) collected (80)
+Seat 3: Lorpugo (big blind) folded before Flop
+
+
+
+PokerStars Hand #241367111423: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:39:49 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (662 in chips) 
+Seat 3: Lorpugo (838 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [8h 9d]
+Lorpugo: raises 40 to 80
+Astraeus69: folds 
+Uncalled bet (40) returned to Lorpugo
+Lorpugo collected 80 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Astraeus69 (big blind) folded before Flop
+Seat 3: Lorpugo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241367113611: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:39:55 ET
+Table '3537140007 1' 3-max Seat #2 is the button
+Seat 2: Astraeus69 (622 in chips) 
+Seat 3: Lorpugo (878 in chips) 
+Astraeus69: posts small blind 20
+Lorpugo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Jc Qc]
+Astraeus69: folds 
+Uncalled bet (20) returned to Lorpugo
+Lorpugo collected 40 from pot
+Lorpugo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Astraeus69 (button) (small blind) folded before Flop
+Seat 3: Lorpugo (big blind) collected (40)
+
+
+
+PokerStars Hand #241367115431: Tournament #3537140007, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/01/24 13:40:00 ET
+Table '3537140007 1' 3-max Seat #3 is the button
+Seat 2: Astraeus69 (602 in chips) 
+Seat 3: Lorpugo (898 in chips) 
+Lorpugo: posts small blind 20
+Astraeus69: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lorpugo [Js Kh]
+Lorpugo: raises 40 to 80
+Astraeus69: calls 40
+*** FLOP *** [Jd Ks 7h]
+Astraeus69: checks 
+Lorpugo: checks 
+*** TURN *** [Jd Ks 7h] [Jh]
+Astraeus69: checks 
+Lorpugo: bets 40
+Astraeus69: calls 40
+*** RIVER *** [Jd Ks 7h Jh] [Qh]
+Astraeus69: bets 120
+Lorpugo: raises 317 to 437
+Astraeus69: raises 45 to 482 and is all-in
+Lorpugo: calls 45
+*** SHOW DOWN ***
+Astraeus69: shows [9h 8h] (a flush, Queen high)
+Lorpugo: shows [Js Kh] (a full house, Jacks full of Kings)
+Lorpugo collected 1204 from pot
+Astraeus69 finished the tournament in 2nd place
+Lorpugo wins the tournament and receives $1.25 - congratulations!
+*** SUMMARY ***
+Total pot 1204 | Rake 0 
+Board [Jd Ks 7h Jh Qh]
+Seat 2: Astraeus69 (big blind) showed [9h 8h] and lost with a flush, Queen high
+Seat 3: Lorpugo (button) (small blind) showed [Js Kh] and won (1204) with a full house, Jacks full of Kings
+
+
+
